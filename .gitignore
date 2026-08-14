@@ -1,0 +1,47 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django
+db.sqlite3
+*.sqlite3
+media/
+staticfiles/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# Local development state
+wiki_sync_state.json
