@@ -1047,106 +1047,129 @@ class Command(BaseCommand):
 
         return match.group(1).strip()
 
-    def parse_enhancements(
-        self,
+def parse_enhancements(
+    self,
+    text,
+):
+    enhancements_section = re.search(
+        r"\|\s*enhancements\s*="
+        r"\s*(.*?)(?=\n\s*\|\s*\w+\s*=|\n}})",
         text,
+        re.DOTALL,
+    )
+
+    if not enhancements_section:
+        return []
+
+    section = enhancements_section.group(1)
+
+    results = []
+
+    for match in re.finditer(
+        r"\{\{\s*([^{}|]+?)\s*"
+        r"(?:\|\s*([^{}]*?))?\s*\}\}",
+        section,
     ):
-        enhancements_section = re.search(
-            r"\|\s*enhancements\s*="
-            r"\s*(.*?)(?=\n\s*\|\s*\w+\s*=|\n}})",
-            text,
-            re.DOTALL,
+        name = match.group(1).strip()
+
+        if not name:
+            continue
+
+        if name.lower() in {
+            "div col",
+            "div col end",
+        }:
+            continue
+
+        raw_template = match.group(0)
+
+        parameters = match.group(2)
+
+        value = self.extract_enhancement_value(
+            parameters
         )
 
-        if not enhancements_section:
-            return []
-
-        section = (
-            enhancements_section.group(1)
+        normalized_name = name.replace(
+            "_",
+            " ",
         )
 
-        results = []
+        normalized_name = re.sub(
+            r"\s+",
+            " ",
+            normalized_name,
+        ).strip()
 
-        for match in re.finditer(
-            r"\{\{\s*([^{}|]+?)\s*"
-            r"(?:\|\s*([^{}]*?))?\s*\}\}",
-            section,
-        ):
-            name = match.group(1).strip()
+        results.append(
+            {
+                "name": normalized_name,
+                "value": value,
+                "raw_template": raw_template,
+            }
+        )
 
-            if not name:
-                continue
+    return results
 
-            if name.lower() in {
-                "div col",
-                "div col end",
+def extract_enhancement_value(
+    self,
+    parameters,
+):
+    if not parameters:
+        return ""
+
+    parts = [
+        part.strip()
+        for part in parameters.split("|")
+    ]
+
+    display_parts = []
+
+    for part in parts:
+        if not part:
+            continue
+
+        # Wiki control parameters such as
+        # nocat=TRUE are not item data.
+        if "=" in part:
+            key, value = part.split(
+                "=",
+                1,
+            )
+
+            key = key.strip().lower()
+
+            if key in {
+                "nocat",
+                "cat",
+                "category",
             }:
                 continue
 
-            raw_template = match.group(0)
+            # Ignore other named template
+            # parameters for now rather than
+            # displaying implementation details.
+            continue
 
-            parameters = match.group(2)
+        display_parts.append(part)
 
-            value = (
-                self.extract_enhancement_value(
-                    parameters
-                )
-            )
+    if not display_parts:
+        return ""
 
-            normalized_name = (
-                name.replace(
-                    "_",
-                    " ",
-                )
-            )
-
-            normalized_name = re.sub(
-                r"\s+",
-                " ",
-                normalized_name,
-            ).strip()
-
-            results.append(
-                {
-                    "name": normalized_name,
-                    "value": value,
-                    "raw_template": raw_template,
-                }
-            )
-
-        return results
-
-    def extract_enhancement_value(
-        self,
-        parameters,
-    ):
-        if not parameters:
-            return ""
-
-        parameters = parameters.strip()
-
-        if not parameters:
-            return ""
-
-        parts = [
-            part.strip()
-            for part in parameters.split("|")
-        ]
-
-        if len(parts) == 1:
-            return parts[0]
-
-        last = parts[-1]
+    # A purely numeric parameter represents
+    # the enhancement's numeric level.
+    if len(display_parts) == 1:
+        value = display_parts[0]
 
         if re.fullmatch(
             r"\+?\d+(?:\.\d+)?%?",
-            last,
+            value,
         ):
-            return last
+            return value
 
-        first = parts[0]
+        return value
 
-        if first:
-            return first
-
-        return ""
+    # Multiple positional parameters are retained
+    # as a readable comma-separated value.
+    return ", ".join(
+        display_parts
+    )
