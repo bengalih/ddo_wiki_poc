@@ -156,7 +156,7 @@ def item_search(request):
     # and its values to the currently selected item type.
     enhancement_values = {}
 
-    value_rows = (
+    enhancement_rows = (
         ItemEnhancement.objects
         .values(
             "item__item_type",
@@ -171,7 +171,7 @@ def item_search(request):
         )
     )
 
-    for row in value_rows:
+    for row in enhancement_rows:
         item_type_name = row["item__item_type"]
         enhancement_name = row["enhancement__name"]
         value = row["value"]
