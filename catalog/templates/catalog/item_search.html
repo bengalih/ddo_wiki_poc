@@ -1,77 +1,107 @@
 <!DOCTYPE html>
+
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <title>DDO Item Search</title>
 
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 30px;
-        }
+<meta charset="UTF-8">
 
-        h1 {
-            margin-bottom: 20px;
-        }
+<title>DDO Item Search</title>
 
-        form {
-            border: 1px solid #ccc;
-            padding: 15px;
-            margin-bottom: 25px;
-        }
+<style>
 
-        .field {
-            display: inline-block;
-            margin-right: 15px;
-            margin-bottom: 10px;
-        }
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
 
-        label {
-            display: block;
-            font-weight: bold;
-            margin-bottom: 3px;
-        }
+h1 {
+    margin-bottom: 20px;
+}
 
-        input,
-        select {
-            padding: 5px;
-            min-width: 150px;
-        }
+form {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 25px;
+}
 
-        button {
-            padding: 6px 15px;
-        }
+.field {
+    display: inline-block;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    vertical-align: top;
+}
 
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
 
-        th,
-        td {
-            border: 1px solid #ccc;
-            padding: 8px;
-            text-align: left;
-            vertical-align: top;
-        }
+input,
+select {
+    padding: 5px;
+    min-width: 150px;
+}
 
-        th {
-            background: #eee;
-        }
+button {
+    padding: 6px 15px;
+}
 
-        .enhancement {
-            white-space: nowrap;
-        }
+.enhancement-filters {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 
-        .pagination {
-            margin-top: 20px;
-        }
+.enhancement-filter {
+    margin-bottom: 8px;
+}
 
-        .pagination a,
-        .pagination strong {
-            margin-right: 10px;
-        }
-    </style>
+.enhancement-filter select,
+.enhancement-filter input {
+    margin-right: 5px;
+}
+
+.remove-enhancement {
+    padding: 4px 8px;
+}
+
+.add-enhancement {
+    margin-top: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+    vertical-align: top;
+}
+
+th {
+    background: #eee;
+}
+
+.enhancement {
+    white-space: nowrap;
+}
+
+.pagination {
+    margin-top: 20px;
+}
+
+.pagination a,
+.pagination strong {
+    margin-right: 10px;
+}
+
+</style>
+
 </head>
 
 <body>
@@ -80,161 +110,383 @@
 
 <form method="get">
 
-    <div class="field">
-        <label for="name">Name</label>
-        <input
-            type="text"
-            id="name"
-            name="name"
-            value="{{ search.name }}"
-        >
-    </div>
+<div class="field">
 
-    <div class="field">
-        <label for="item_type">Type</label>
-        <select id="item_type" name="item_type">
-            <option value="">Any</option>
+<label for="name">Name</label>
 
-            {% for item_type in item_types %}
-                <option
-                    value="{{ item_type }}"
-                    {% if search.item_type == item_type %}
-                        selected
-                    {% endif %}
-                >
-                    {{ item_type }}
-                </option>
-            {% endfor %}
-        </select>
-    </div>
+<input
+    type="text"
+    id="name"
+    name="name"
+    value="{{ search.name }}"
+>
 
-    <div class="field">
-        <label for="min_level">Minimum Level</label>
-        <input
-            type="number"
-            id="min_level"
-            name="min_level"
-            min="0"
-            value="{{ search.min_level }}"
-        >
-    </div>
+</div>
 
-    <div class="field">
-        <label for="max_level">Maximum Level</label>
-        <input
-            type="number"
-            id="max_level"
-            name="max_level"
-            min="0"
-            value="{{ search.max_level }}"
-        >
-    </div>
+<div class="field">
 
-    <div class="field">
-        <label for="enhancement">Enhancement</label>
-        <select id="enhancement" name="enhancement">
-            <option value="">Any</option>
+<label for="item_type">Type</label>
 
-            {% for enhancement in enhancements %}
-                <option
-                    value="{{ enhancement.name }}"
-                    {% if search.enhancement == enhancement.name %}
-                        selected
-                    {% endif %}
-                >
-                    {{ enhancement.name }}
-                </option>
-            {% endfor %}
-        </select>
-    </div>
+<select id="item_type" name="item_type">
 
-    <div class="field">
-        <label for="enhancement_value">Enhancement Value</label>
-        <input
-            type="text"
-            id="enhancement_value"
-            name="enhancement_value"
-            value="{{ search.enhancement_value }}"
-            placeholder="e.g. 4"
-        >
-    </div>
+<option value="">Any</option>
 
-    <div class="field">
-        <button type="submit">Search</button>
-    </div>
+{% for item_type in item_types %}
+
+<option
+    value="{{ item_type }}"
+    {% if search.item_type == item_type %}
+    selected
+    {% endif %}
+>
+    {{ item_type }}
+</option>
+
+{% endfor %}
+
+</select>
+
+</div>
+
+<div class="field">
+
+<label for="min_level">Minimum Level</label>
+
+<input
+    type="number"
+    id="min_level"
+    name="min_level"
+    min="0"
+    value="{{ search.min_level }}"
+>
+
+</div>
+
+<div class="field">
+
+<label for="max_level">Maximum Level</label>
+
+<input
+    type="number"
+    id="max_level"
+    name="max_level"
+    min="0"
+    value="{{ search.max_level }}"
+>
+
+</div>
+
+<div style="clear: both;"></div>
+
+<label>Enhancements</label>
+
+<div
+    id="enhancement-filters"
+    class="enhancement-filters"
+>
+
+{% for filter in search.enhancement_filters %}
+
+<div class="enhancement-filter">
+
+<select name="enhancement_{{ forloop.counter0 }}">
+
+<option value="">Any enhancement</option>
+
+{% for enhancement in enhancements %}
+
+<option
+    value="{{ enhancement.name }}"
+    {% if filter.enhancement == enhancement.name %}
+    selected
+    {% endif %}
+>
+    {{ enhancement.name }}
+</option>
+
+{% endfor %}
+
+</select>
+
+<input
+    type="text"
+    name="enhancement_value_{{ forloop.counter0 }}"
+    value="{{ filter.value }}"
+    placeholder="Value, e.g. 4"
+>
+
+<button
+    type="button"
+    class="remove-enhancement"
+    onclick="removeEnhancement(this)"
+>
+    Remove
+</button>
+
+</div>
+
+{% empty %}
+
+<div class="enhancement-filter">
+
+<select name="enhancement_0">
+
+<option value="">Any enhancement</option>
+
+{% for enhancement in enhancements %}
+
+<option value="{{ enhancement.name }}">
+    {{ enhancement.name }}
+</option>
+
+{% endfor %}
+
+</select>
+
+<input
+    type="text"
+    name="enhancement_value_0"
+    placeholder="Value, e.g. 4"
+>
+
+<button
+    type="button"
+    class="remove-enhancement"
+    onclick="removeEnhancement(this)"
+>
+    Remove
+</button>
+
+</div>
+
+{% endfor %}
+
+</div>
+
+<button
+    type="button"
+    class="add-enhancement"
+    onclick="addEnhancement()"
+>
+    Add Enhancement
+</button>
+
+<button type="submit">
+    Search
+</button>
 
 </form>
 
 <p>
-    {{ page_obj.paginator.count }} item{{ page_obj.paginator.count|pluralize }}
-    found.
+{{ page_obj.paginator.count }}
+item{{ page_obj.paginator.count|pluralize }}
+found.
 </p>
 
 <table>
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th>Type</th>
-            <th>Minimum Level</th>
-            <th>Enhancements</th>
-        </tr>
-    </thead>
 
-    <tbody>
-        {% for item in page_obj %}
-            <tr>
-                <td>{{ item.name }}</td>
+<thead>
 
-                <td>{{ item.item_type }}</td>
+<tr>
 
-                <td>{{ item.minimum_level }}</td>
+<th>Name</th>
 
-                <td>
-                    {% for item_enhancement in item.enhancements.all %}
-                        <div class="enhancement">
-                            {{ item_enhancement.enhancement.name }}
-                            {% if item_enhancement.value %}
-                                +{{ item_enhancement.value }}
-                            {% endif %}
-                        </div>
-                    {% empty %}
-                        None
-                    {% endfor %}
-                </td>
-            </tr>
-        {% empty %}
-            <tr>
-                <td colspan="4">
-                    No items found.
-                </td>
-            </tr>
-        {% endfor %}
-    </tbody>
+<th>Type</th>
+
+<th>Minimum Level</th>
+
+<th>Enhancements</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+{% for item in page_obj %}
+
+<tr>
+
+<td>
+
+<a
+    href="https://ddowiki.com/page/{{ item.wiki_title|urlencode }}"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+    {{ item.name }}
+</a>
+
+</td>
+
+<td>
+    {{ item.item_type }}
+</td>
+
+<td>
+    {{ item.minimum_level }}
+</td>
+
+<td>
+
+{% for item_enhancement in item.enhancements.all %}
+
+<div class="enhancement">
+
+{{ item_enhancement.enhancement.name }}
+
+{% if item_enhancement.value %}
++{{ item_enhancement.value }}
+{% endif %}
+
+</div>
+
+{% empty %}
+
+None
+
+{% endfor %}
+
+</td>
+
+</tr>
+
+{% empty %}
+
+<tr>
+
+<td colspan="4">
+    No items found.
+</td>
+
+</tr>
+
+{% endfor %}
+
+</tbody>
+
 </table>
 
 {% if page_obj.paginator.num_pages > 1 %}
-    <div class="pagination">
 
-        {% if page_obj.has_previous %}
-            <a href="?name={{ search.name|urlencode }}&item_type={{ search.item_type|urlencode }}&min_level={{ search.min_level|urlencode }}&max_level={{ search.max_level|urlencode }}&enhancement={{ search.enhancement|urlencode }}&enhancement_value={{ search.enhancement_value|urlencode }}&page={{ page_obj.previous_page_number }}">
-                Previous
-            </a>
-        {% endif %}
+<div class="pagination">
 
-        <strong>
-            Page {{ page_obj.number }}
-            of {{ page_obj.paginator.num_pages }}
-        </strong>
+{% if page_obj.has_previous %}
 
-        {% if page_obj.has_next %}
-            <a href="?name={{ search.name|urlencode }}&item_type={{ search.item_type|urlencode }}&min_level={{ search.min_level|urlencode }}&max_level={{ search.max_level|urlencode }}&enhancement={{ search.enhancement|urlencode }}&enhancement_value={{ search.enhancement_value|urlencode }}&page={{ page_obj.next_page_number }}">
-                Next
-            </a>
-        {% endif %}
+<a href="?name={{ search.name|urlencode }}&item_type={{ search.item_type|urlencode }}&min_level={{ search.min_level|urlencode }}&max_level={{ search.max_level|urlencode }}{% for filter in search.enhancement_filters %}&enhancement_{{ forloop.counter0 }}={{ filter.enhancement|urlencode }}&enhancement_value_{{ forloop.counter0 }}={{ filter.value|urlencode }}{% endfor %}&page={{ page_obj.previous_page_number }}">
+    Previous
+</a>
 
-    </div>
 {% endif %}
 
-</body>
-</html>
+<strong>
+Page {{ page_obj.number }}
+of {{ page_obj.paginator.num_pages }}
+</strong>
 
+{% if page_obj.has_next %}
+
+<a href="?name={{ search.name|urlencode }}&item_type={{ search.item_type|urlencode }}&min_level={{ search.min_level|urlencode }}&max_level={{ search.max_level|urlencode }}{% for filter in search.enhancement_filters %}&enhancement_{{ forloop.counter0 }}={{ filter.enhancement|urlencode }}&enhancement_value_{{ forloop.counter0 }}={{ filter.value|urlencode }}{% endfor %}&page={{ page_obj.next_page_number }}">
+    Next
+</a>
+
+{% endif %}
+
+</div>
+
+{% endif %}
+
+<script>
+
+const enhancementOptions = `
+<option value="">Any enhancement</option>
+{% for enhancement in enhancements %}
+<option value="{{ enhancement.name|escapejs }}">{{ enhancement.name|escapejs }}</option>
+{% endfor %}
+`;
+
+function addEnhancement() {
+
+    const container =
+        document.getElementById(
+            "enhancement-filters"
+        );
+
+    const index =
+        container.children.length;
+
+    const row =
+        document.createElement("div");
+
+    row.className =
+        "enhancement-filter";
+
+    row.innerHTML = `
+<select name="enhancement_${index}">
+    ${enhancementOptions}
+</select>
+
+<input
+    type="text"
+    name="enhancement_value_${index}"
+    placeholder="Value, e.g. 4"
+>
+
+<button
+    type="button"
+    class="remove-enhancement"
+    onclick="removeEnhancement(this)"
+>
+    Remove
+</button>
+`;
+
+    container.appendChild(row);
+
+    renumberEnhancements();
+}
+
+function removeEnhancement(button) {
+
+    const row =
+        button.parentElement;
+
+    row.remove();
+
+    renumberEnhancements();
+}
+
+function renumberEnhancements() {
+
+    const rows =
+        document.querySelectorAll(
+            "#enhancement-filters .enhancement-filter"
+        );
+
+    rows.forEach(
+        function(row, index) {
+
+            const select =
+                row.querySelector(
+                    "select"
+                );
+
+            const input =
+                row.querySelector(
+                    "input"
+                );
+
+            select.name =
+                "enhancement_" + index;
+
+            input.name =
+                "enhancement_value_" + index;
+        }
+    );
+}
+
+</script>
+
+</body>
+
+</html>
