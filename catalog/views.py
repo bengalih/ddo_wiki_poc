@@ -1,7 +1,9 @@
+import json
+
 from django.core.paginator import Paginator
 from django.shortcuts import render
 
-from .models import Enhancement, Item
+from .models import Enhancement, Item, ItemEnhancement
 
 
 def item_search(request):
@@ -13,7 +15,6 @@ def item_search(request):
     enhancement_filters = []
 
     index = 0
-
     while True:
         enhancement = request.GET.get(
             f"enhancement_{index}",
@@ -146,6 +147,31 @@ def item_search(request):
         .order_by("name")
     )
 
+    enhancement_values = {}
+
+    value_rows = (
+        ItemEnhancement.objects
+        .exclude(value="")
+        .values(
+            "enhancement__name",
+            "value",
+        )
+        .distinct()
+        .order_by(
+            "enhancement__name",
+            "value",
+        )
+    )
+
+    for row in value_rows:
+        enhancement_name = row["enhancement__name"]
+        value = row["value"]
+
+        enhancement_values.setdefault(
+            enhancement_name,
+            [],
+        ).append(value)
+
     return render(
         request,
         "catalog/item_search.html",
@@ -153,6 +179,9 @@ def item_search(request):
             "page_obj": page_obj,
             "item_types": item_types,
             "enhancements": enhancements,
+            "enhancement_values_json": json.dumps(
+                enhancement_values
+            ),
             "search": {
                 "name": name,
                 "item_type": item_type,

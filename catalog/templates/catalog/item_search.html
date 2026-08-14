@@ -62,6 +62,10 @@ button {
     margin-right: 5px;
 }
 
+.enhancement-value {
+    min-width: 150px;
+}
+
 .remove-enhancement {
     padding: 4px 8px;
 }
@@ -189,7 +193,10 @@ th {
 
 <div class="enhancement-filter">
 
-<select name="enhancement_{{ forloop.counter0 }}">
+<select
+    name="enhancement_{{ forloop.counter0 }}"
+    onchange="updateEnhancementValues(this)"
+>
 
 <option value="">Any enhancement</option>
 
@@ -208,12 +215,13 @@ th {
 
 </select>
 
-<input
-    type="text"
+<select
     name="enhancement_value_{{ forloop.counter0 }}"
-    value="{{ filter.value }}"
-    placeholder="Value, e.g. 4"
+    class="enhancement-value"
+    data-selected-value="{{ filter.value|escape }}"
 >
+    <option value="">Any value</option>
+</select>
 
 <button
     type="button"
@@ -229,7 +237,10 @@ th {
 
 <div class="enhancement-filter">
 
-<select name="enhancement_0">
+<select
+    name="enhancement_0"
+    onchange="updateEnhancementValues(this)"
+>
 
 <option value="">Any enhancement</option>
 
@@ -243,11 +254,14 @@ th {
 
 </select>
 
-<input
-    type="text"
+<select
     name="enhancement_value_0"
-    placeholder="Value, e.g. 4"
+    class="enhancement-value"
 >
+
+<option value="">Any value</option>
+
+</select>
 
 <button
     type="button"
@@ -290,11 +304,8 @@ found.
 <tr>
 
 <th>Name</th>
-
 <th>Type</th>
-
 <th>Minimum Level</th>
-
 <th>Enhancements</th>
 
 </tr>
@@ -330,11 +341,15 @@ found.
 <td>
 
 {% for item_enhancement in item.enhancements.all %}
-    <div class="enhancement">
-        {{ item_enhancement.display_name }}
-    </div>
+
+<div class="enhancement">
+    {{ item_enhancement.display_name }}
+</div>
+
 {% empty %}
-    None
+
+None
+
 {% endfor %}
 
 </td>
@@ -388,12 +403,84 @@ of {{ page_obj.paginator.num_pages }}
 
 <script>
 
-const enhancementOptions = `
-<option value="">Any enhancement</option>
-{% for enhancement in enhancements %}
-<option value="{{ enhancement.name|escapejs }}">{{ enhancement.name|escapejs }}</option>
-{% endfor %}
-`;
+const enhancementValues =
+    JSON.parse(
+        '{{ enhancement_values_json|escapejs }}'
+    );
+
+
+function populateEnhancementValues(
+    enhancementSelect
+) {
+    const row =
+        enhancementSelect.closest(
+            ".enhancement-filter"
+        );
+
+    const valueSelect =
+        row.querySelector(
+            ".enhancement-value"
+        );
+
+    const enhancement =
+        enhancementSelect.value;
+
+    const selectedValue =
+        valueSelect.dataset.selectedValue || "";
+
+    valueSelect.innerHTML =
+        '<option value="">Any value</option>';
+
+    if (!enhancement) {
+        valueSelect.disabled = true;
+        return;
+    }
+
+    const values =
+        enhancementValues[enhancement] || [];
+
+    values.forEach(
+        function(value) {
+
+            const option =
+                document.createElement("option");
+
+            option.value = value;
+            option.textContent = value;
+
+            if (value === selectedValue) {
+                option.selected = true;
+            }
+
+            valueSelect.appendChild(option);
+        }
+    );
+
+    valueSelect.disabled =
+        values.length === 0;
+}
+
+
+function updateEnhancementValues(
+    enhancementSelect
+) {
+    const row =
+        enhancementSelect.closest(
+            ".enhancement-filter"
+        );
+
+    const valueSelect =
+        row.querySelector(
+            ".enhancement-value"
+        );
+
+    valueSelect.dataset.selectedValue = "";
+
+    populateEnhancementValues(
+        enhancementSelect
+    );
+}
+
 
 function addEnhancement() {
 
@@ -413,14 +500,21 @@ function addEnhancement() {
 
     row.innerHTML = `
 <select name="enhancement_${index}">
-    ${enhancementOptions}
+    <option value="">Any enhancement</option>
+    {% for enhancement in enhancements %}
+    <option value="{{ enhancement.name|escapejs }}">
+        {{ enhancement.name|escapejs }}
+    </option>
+    {% endfor %}
 </select>
 
-<input
-    type="text"
+<select
     name="enhancement_value_${index}"
-    placeholder="Value, e.g. 4"
+    class="enhancement-value"
+    disabled
 >
+    <option value="">Any value</option>
+</select>
 
 <button
     type="button"
@@ -433,8 +527,21 @@ function addEnhancement() {
 
     container.appendChild(row);
 
+    const select =
+        row.querySelector(
+            "select[name^='enhancement_']"
+        );
+
+    select.addEventListener(
+        "change",
+        function() {
+            updateEnhancementValues(this);
+        }
+    );
+
     renumberEnhancements();
 }
+
 
 function removeEnhancement(button) {
 
@@ -444,7 +551,16 @@ function removeEnhancement(button) {
     row.remove();
 
     renumberEnhancements();
+
+    if (
+        document.querySelectorAll(
+            "#enhancement-filters .enhancement-filter"
+        ).length === 0
+    ) {
+        addEnhancement();
+    }
 }
+
 
 function renumberEnhancements() {
 
@@ -458,22 +574,42 @@ function renumberEnhancements() {
 
             const select =
                 row.querySelector(
-                    "select"
+                    "select[name^='enhancement_']"
                 );
 
-            const input =
+            const valueSelect =
                 row.querySelector(
-                    "input"
+                    ".enhancement-value"
                 );
 
             select.name =
                 "enhancement_" + index;
 
-            input.name =
+            valueSelect.name =
                 "enhancement_value_" + index;
         }
     );
 }
+
+
+document.addEventListener(
+    "DOMContentLoaded",
+    function() {
+
+        const enhancementSelects =
+            document.querySelectorAll(
+                "#enhancement-filters select[name^='enhancement_']"
+            );
+
+        enhancementSelects.forEach(
+            function(select) {
+                populateEnhancementValues(
+                    select
+                );
+            }
+        );
+    }
+);
 
 </script>
 
