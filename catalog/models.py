@@ -1,3 +1,5 @@
+import re
+
 from django.db import models
 
 
@@ -48,7 +50,35 @@ class ItemEnhancement(models.Model):
             )
         ]
 
+    @property
+    def display_name(self):
+        name = self.enhancement.name.strip()
+
+        if not self.value:
+            return name
+
+        values = [
+            part.strip()
+            for part in self.value.split(",")
+            if part.strip()
+        ]
+
+        formatted_values = []
+
+        for value in values:
+            if re.fullmatch(
+                r"\+?\d+(?:\.\d+)?%?",
+                value,
+            ):
+                value = value.lstrip("+")
+                formatted_values.append(f"+{value}")
+            else:
+                formatted_values.append(value)
+
+        if not formatted_values:
+            return name
+
+        return f"{name} {', '.join(formatted_values)}"
+
     def __str__(self):
-        if self.value:
-            return f"{self.item} - {self.enhancement} ({self.value})"
-        return f"{self.item} - {self.enhancement}"
+        return self.display_name

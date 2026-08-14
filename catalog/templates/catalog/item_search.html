@@ -330,21 +330,11 @@ found.
 <td>
 
 {% for item_enhancement in item.enhancements.all %}
-
-<div class="enhancement">
-
-{{ item_enhancement.enhancement.name }}
-
-{% if item_enhancement.value %}
-+{{ item_enhancement.value }}
-{% endif %}
-
-</div>
-
+    <div class="enhancement">
+        {{ item_enhancement.display_name }}
+    </div>
 {% empty %}
-
-None
-
+    None
 {% endfor %}
 
 </td>
