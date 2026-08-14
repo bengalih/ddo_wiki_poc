@@ -40,11 +40,25 @@ def enhancement_options(request):
         except ValueError:
             pass
 
+    try:
+        filter_count = int(
+            request.GET.get(
+                "enhancement_filter_count",
+                "1",
+            )
+        )
+    except ValueError:
+        filter_count = 1
+
+    filter_count = max(
+        1,
+        min(filter_count, 20),
+    )
+
     filters = []
 
-    index = 0
+    for index in range(filter_count):
 
-    while True:
         enhancement = request.GET.get(
             f"enhancement_{index}",
             "",
@@ -55,23 +69,12 @@ def enhancement_options(request):
             "",
         ).strip()
 
-        if (
-            not enhancement
-            and not value
-        ):
-            break
-
         filters.append(
             {
                 "enhancement": enhancement,
                 "value": value,
             }
         )
-
-        index += 1
-
-        if index >= 20:
-            break
 
     rows = []
 

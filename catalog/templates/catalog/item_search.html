@@ -472,24 +472,32 @@ function buildOptionsUrl() {
         ).value
     );
 
-    getCurrentFilters().forEach(
-        function(filter, index) {
+	const filters =
+		getCurrentFilters();
 
-            if (filter.enhancement) {
-                url.searchParams.set(
-                    "enhancement_" + index,
-                    filter.enhancement
-                );
-            }
+	url.searchParams.set(
+		"enhancement_filter_count",
+		filters.length
+	);
 
-            if (filter.value) {
-                url.searchParams.set(
-                    "enhancement_value_" + index,
-                    filter.value
-                );
-            }
-        }
-    );
+	filters.forEach(
+		function(filter, index) {
+
+			if (filter.enhancement) {
+				url.searchParams.set(
+					"enhancement_" + index,
+					filter.enhancement
+				);
+			}
+
+			if (filter.value) {
+				url.searchParams.set(
+					"enhancement_value_" + index,
+					filter.value
+				);
+			}
+		}
+	);
 
     return url;
 }
