@@ -745,20 +745,19 @@ async function updateEnhancementValues(
         enhancementSelect.closest(
             ".enhancement-filter"
         );
-
     const valueSelect =
         row.querySelector(
             ".enhancement-value"
         );
 
     /*
-     * Changing an enhancement invalidates
-     * the previous value.
+     * Changing this enhancement invalidates
+     * only this row's previous value.
      */
     valueSelect.value = "";
 
     await refreshEnhancementFilters(
-        false
+        true
     );
 }
 
