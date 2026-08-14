@@ -83,19 +83,21 @@ def enhancement_options(request):
     ):
         candidate_items = items
 
-        # Only apply filters BEFORE this row.
-        #
-        # This is important. If row 0 is Acid Blast,
-        # row 1 should show enhancements that coexist
-        # with Acid Blast.
-        for previous_filter in filters[
-            :filter_index
-        ]:
-            enhancement = previous_filter[
+        # Bidirectional scoping: apply every OTHER row's
+        # filter so each dropdown reflects the full current
+        # search. The row itself is excluded, otherwise the
+        # dropdown for the value being chosen would shrink
+        # away as soon as it is selected.
+        for index, other_filter in enumerate(filters):
+
+            if index == filter_index:
+                continue
+
+            enhancement = other_filter[
                 "enhancement"
             ]
 
-            value = previous_filter[
+            value = other_filter[
                 "value"
             ]
 
@@ -109,13 +111,13 @@ def enhancement_options(request):
                     candidate_items = candidate_items.filter(
                         enhancements__enhancement__name__iexact=
                         enhancement,
-                        enhancements__value__icontains=
+                        enhancements__value__iexact=
                         value,
                     )
 
             elif value:
                 candidate_items = candidate_items.filter(
-                    enhancements__value__icontains=value
+                    enhancements__value__iexact=value
                 )
 
         candidate_items = candidate_items.distinct()
@@ -283,12 +285,12 @@ def item_search(request):
             if enhancement_value:
                 items = items.filter(
                     enhancements__enhancement__name__iexact=enhancement,
-                    enhancements__value__icontains=enhancement_value,
+                    enhancements__value__iexact=enhancement_value,
                 )
 
         elif enhancement_value:
             items = items.filter(
-                enhancements__value__icontains=enhancement_value
+                enhancements__value__iexact=enhancement_value
             )
 
     items = (
