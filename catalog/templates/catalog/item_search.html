@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DDO Item Search</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        form {
+            border: 1px solid #ccc;
+            padding: 15px;
+            margin-bottom: 25px;
+        }
+
+        .field {
+            display: inline-block;
+            margin-right: 15px;
+            margin-bottom: 10px;
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 3px;
+        }
+
+        input,
+        select {
+            padding: 5px;
+            min-width: 150px;
+        }
+
+        button {
+            padding: 6px 15px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th,
+        td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: left;
+            vertical-align: top;
+        }
+
+        th {
+            background: #eee;
+        }
+
+        .enhancement {
+            white-space: nowrap;
+        }
+
+        .pagination {
+            margin-top: 20px;
+        }
+
+        .pagination a,
+        .pagination strong {
+            margin-right: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>DDO Item Search</h1>
+
+<form method="get">
+
+    <div class="field">
+        <label for="name">Name</label>
+        <input
+            type="text"
+            id="name"
+            name="name"
+            value="{{ search.name }}"
+        >
+    </div>
+
+    <div class="field">
+        <label for="item_type">Type</label>
+        <select id="item_type" name="item_type">
+            <option value="">Any</option>
+
+            {% for item_type in item_types %}
+                <option
+                    value="{{ item_type }}"
+                    {% if search.item_type == item_type %}
+                        selected
+                    {% endif %}
+                >
+                    {{ item_type }}
+                </option>
+            {% endfor %}
+        </select>
+    </div>
+
+    <div class="field">
+        <label for="min_level">Minimum Level</label>
+        <input
+            type="number"
+            id="min_level"
+            name="min_level"
+            min="0"
+            value="{{ search.min_level }}"
+        >
+    </div>
+
+    <div class="field">
+        <label for="max_level">Maximum Level</label>
+        <input
+            type="number"
+            id="max_level"
+            name="max_level"
+            min="0"
+            value="{{ search.max_level }}"
+        >
+    </div>
+
+    <div class="field">
+        <label for="enhancement">Enhancement</label>
+        <select id="enhancement" name="enhancement">
+            <option value="">Any</option>
+
+            {% for enhancement in enhancements %}
+                <option
+                    value="{{ enhancement.name }}"
+                    {% if search.enhancement == enhancement.name %}
+                        selected
+                    {% endif %}
+                >
+                    {{ enhancement.name }}
+                </option>
+            {% endfor %}
+        </select>
+    </div>
+
+    <div class="field">
+        <label for="enhancement_value">Enhancement Value</label>
+        <input
+            type="text"
+            id="enhancement_value"
+            name="enhancement_value"
+            value="{{ search.enhancement_value }}"
+            placeholder="e.g. 4"
+        >
+    </div>
+
+    <div class="field">
+        <button type="submit">Search</button>
+    </div>
+
+</form>
+
+<p>
+    {{ page_obj.paginator.count }} item{{ page_obj.paginator.count|pluralize }}
+    found.
+</p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Minimum Level</th>
+            <th>Enhancements</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        {% for item in page_obj %}
+            <tr>
+                <td>{{ item.name }}</td>
+
+                <td>{{ item.item_type }}</td>
+
+                <td>{{ item.minimum_level }}</td>
+
+                <td>
+                    {% for item_enhancement in item.enhancements.all %}
+                        <div class="enhancement">
+                            {{ item_enhancement.enhancement.name }}
+                            {% if item_enhancement.value %}
+                                +{{ item_enhancement.value }}
+                            {% endif %}
+                        </div>
+                    {% empty %}
+                        None
+                    {% endfor %}
+                </td>
+            </tr>
+        {% empty %}
+            <tr>
+                <td colspan="4">
+                    No items found.
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+{% if page_obj.paginator.num_pages > 1 %}
+    <div class="pagination">
+
+        {% if page_obj.has_previous %}
+            <a href="?name={{ search.name|urlencode }}&item_type={{ search.item_type|urlencode }}&min_level={{ search.min_level|urlencode }}&max_level={{ search.max_level|urlencode }}&enhancement={{ search.enhancement|urlencode }}&enhancement_value={{ search.enhancement_value|urlencode }}&page={{ page_obj.previous_page_number }}">
+                Previous
+            </a>
+        {% endif %}
+
+        <strong>
+            Page {{ page_obj.number }}
+            of {{ page_obj.paginator.num_pages }}
+        </strong>
+
+        {% if page_obj.has_next %}
+            <a href="?name={{ search.name|urlencode }}&item_type={{ search.item_type|urlencode }}&min_level={{ search.min_level|urlencode }}&max_level={{ search.max_level|urlencode }}&enhancement={{ search.enhancement|urlencode }}&enhancement_value={{ search.enhancement_value|urlencode }}&page={{ page_obj.next_page_number }}">
+                Next
+            </a>
+        {% endif %}
+
+    </div>
+{% endif %}
+
+</body>
+</html>
+
