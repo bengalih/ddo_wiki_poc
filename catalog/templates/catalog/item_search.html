@@ -197,21 +197,20 @@ th {
     name="enhancement_{{ forloop.counter0 }}"
     onchange="updateEnhancementValues(this)"
 >
+    <option value="">Any enhancement</option>
 
-<option value="">Any enhancement</option>
+    {% for enhancement in enhancements %}
 
-{% for enhancement in enhancements %}
+    <option
+        value="{{ enhancement.name }}"
+        {% if filter.enhancement == enhancement.name %}
+        selected
+        {% endif %}
+    >
+        {{ enhancement.name }}
+    </option>
 
-<option
-    value="{{ enhancement.name }}"
-    {% if filter.enhancement == enhancement.name %}
-    selected
-    {% endif %}
->
-    {{ enhancement.name }}
-</option>
-
-{% endfor %}
+    {% endfor %}
 
 </select>
 
@@ -241,16 +240,15 @@ th {
     name="enhancement_0"
     onchange="updateEnhancementValues(this)"
 >
+    <option value="">Any enhancement</option>
 
-<option value="">Any enhancement</option>
+    {% for enhancement in enhancements %}
 
-{% for enhancement in enhancements %}
+    <option value="{{ enhancement.name }}">
+        {{ enhancement.name }}
+    </option>
 
-<option value="{{ enhancement.name }}">
-    {{ enhancement.name }}
-</option>
-
-{% endfor %}
+    {% endfor %}
 
 </select>
 
@@ -258,9 +256,7 @@ th {
     name="enhancement_value_0"
     class="enhancement-value"
 >
-
-<option value="">Any value</option>
-
+    <option value="">Any value</option>
 </select>
 
 <button
@@ -409,9 +405,117 @@ const enhancementValues =
     );
 
 
+function getAvailableEnhancements() {
+
+    const itemType =
+        document.getElementById(
+            "item_type"
+        ).value;
+
+    if (itemType) {
+        return enhancementValues[itemType] || {};
+    }
+
+    const combined = {};
+
+    Object.values(
+        enhancementValues
+    ).forEach(
+        function(typeEnhancements) {
+
+            Object.entries(
+                typeEnhancements
+            ).forEach(
+                function([name, values]) {
+
+                    if (!combined[name]) {
+                        combined[name] = [];
+                    }
+
+                    values.forEach(
+                        function(value) {
+
+                            if (
+                                !combined[name].includes(
+                                    value
+                                )
+                            ) {
+                                combined[name].push(
+                                    value
+                                );
+                            }
+                        }
+                    );
+                }
+            );
+        }
+    );
+
+    return combined;
+}
+
+
+function populateEnhancementOptions(
+    enhancementSelect,
+    selectedEnhancement
+) {
+
+    const availableEnhancements =
+        getAvailableEnhancements();
+
+    const currentEnhancement =
+        selectedEnhancement ||
+        enhancementSelect.value;
+
+    enhancementSelect.innerHTML =
+        '<option value="">Any enhancement</option>';
+
+    Object.keys(
+        availableEnhancements
+    )
+    .sort(
+        function(a, b) {
+            return a.localeCompare(b);
+        }
+    )
+    .forEach(
+        function(name) {
+
+            const option =
+                document.createElement(
+                    "option"
+                );
+
+            option.value = name;
+            option.textContent = name;
+
+            if (
+                name === currentEnhancement
+            ) {
+                option.selected = true;
+            }
+
+            enhancementSelect.appendChild(
+                option
+            );
+        }
+    );
+
+    if (
+        !Object.prototype.hasOwnProperty.call(
+            availableEnhancements,
+            currentEnhancement
+        )
+    ) {
+        enhancementSelect.value = "";
+    }
+}
+
+
 function populateEnhancementValues(
     enhancementSelect
 ) {
+
     const row =
         enhancementSelect.closest(
             ".enhancement-filter"
@@ -428,6 +532,9 @@ function populateEnhancementValues(
     const selectedValue =
         valueSelect.dataset.selectedValue || "";
 
+    const availableEnhancements =
+        getAvailableEnhancements();
+
     valueSelect.innerHTML =
         '<option value="">Any value</option>';
 
@@ -437,13 +544,17 @@ function populateEnhancementValues(
     }
 
     const values =
-        enhancementValues[enhancement] || [];
+        availableEnhancements[
+            enhancement
+        ] || [];
 
     values.forEach(
         function(value) {
 
             const option =
-                document.createElement("option");
+                document.createElement(
+                    "option"
+                );
 
             option.value = value;
             option.textContent = value;
@@ -452,18 +563,28 @@ function populateEnhancementValues(
                 option.selected = true;
             }
 
-            valueSelect.appendChild(option);
+            valueSelect.appendChild(
+                option
+            );
         }
     );
 
     valueSelect.disabled =
         values.length === 0;
+
+    if (
+        selectedValue &&
+        !values.includes(selectedValue)
+    ) {
+        valueSelect.value = "";
+    }
 }
 
 
 function updateEnhancementValues(
     enhancementSelect
 ) {
+
     const row =
         enhancementSelect.closest(
             ".enhancement-filter"
@@ -474,10 +595,60 @@ function updateEnhancementValues(
             ".enhancement-value"
         );
 
-    valueSelect.dataset.selectedValue = "";
+    valueSelect.dataset.selectedValue =
+        "";
 
     populateEnhancementValues(
         enhancementSelect
+    );
+}
+
+
+function updateAllEnhancementFilters() {
+
+    const rows =
+        document.querySelectorAll(
+            "#enhancement-filters .enhancement-filter"
+        );
+
+    rows.forEach(
+        function(row) {
+
+            const enhancementSelect =
+                row.querySelector(
+                    "select[name^='enhancement_']"
+                );
+
+            const valueSelect =
+                row.querySelector(
+                    ".enhancement-value"
+                );
+
+            const currentEnhancement =
+                enhancementSelect.value;
+
+            const availableEnhancements =
+                getAvailableEnhancements();
+
+            if (
+                !Object.prototype.hasOwnProperty.call(
+                    availableEnhancements,
+                    currentEnhancement
+                )
+            ) {
+                enhancementSelect.value = "";
+                valueSelect.dataset.selectedValue = "";
+            }
+
+            populateEnhancementOptions(
+                enhancementSelect,
+                enhancementSelect.value
+            );
+
+            populateEnhancementValues(
+                enhancementSelect
+            );
+        }
     );
 }
 
@@ -501,11 +672,15 @@ function addEnhancement() {
     row.innerHTML = `
 <select name="enhancement_${index}">
     <option value="">Any enhancement</option>
+
     {% for enhancement in enhancements %}
+
     <option value="{{ enhancement.name|escapejs }}">
         {{ enhancement.name|escapejs }}
     </option>
+
     {% endfor %}
+
 </select>
 
 <select
@@ -527,16 +702,21 @@ function addEnhancement() {
 
     container.appendChild(row);
 
-    const select =
+    const enhancementSelect =
         row.querySelector(
             "select[name^='enhancement_']"
         );
 
-    select.addEventListener(
+    enhancementSelect.addEventListener(
         "change",
         function() {
             updateEnhancementValues(this);
         }
+    );
+
+    populateEnhancementOptions(
+        enhancementSelect,
+        ""
     );
 
     renumberEnhancements();
@@ -596,6 +776,18 @@ document.addEventListener(
     "DOMContentLoaded",
     function() {
 
+        const typeSelect =
+            document.getElementById(
+                "item_type"
+            );
+
+        typeSelect.addEventListener(
+            "change",
+            function() {
+                updateAllEnhancementFilters();
+            }
+        );
+
         const enhancementSelects =
             document.querySelectorAll(
                 "#enhancement-filters select[name^='enhancement_']"
@@ -603,8 +795,35 @@ document.addEventListener(
 
         enhancementSelects.forEach(
             function(select) {
+
+                const availableEnhancements =
+                    getAvailableEnhancements();
+
+                populateEnhancementOptions(
+                    select,
+                    select.value
+                );
+
+                if (
+                    !Object.prototype.hasOwnProperty.call(
+                        availableEnhancements,
+                        select.value
+                    )
+                ) {
+                    select.value = "";
+                }
+
                 populateEnhancementValues(
                     select
+                );
+
+                select.addEventListener(
+                    "change",
+                    function() {
+                        updateEnhancementValues(
+                            this
+                        );
+                    }
                 );
             }
         );

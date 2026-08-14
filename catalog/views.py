@@ -13,7 +13,6 @@ def item_search(request):
     max_level = request.GET.get("max_level", "").strip()
 
     enhancement_filters = []
-
     index = 0
     while True:
         enhancement = request.GET.get(
@@ -147,30 +146,48 @@ def item_search(request):
         .order_by("name")
     )
 
+    # Build:
+    #
+    #   item type
+    #       -> enhancement
+    #           -> values
+    #
+    # This lets the search UI restrict both the enhancement list
+    # and its values to the currently selected item type.
     enhancement_values = {}
 
     value_rows = (
         ItemEnhancement.objects
-        .exclude(value="")
         .values(
+            "item__item_type",
             "enhancement__name",
             "value",
         )
         .distinct()
         .order_by(
+            "item__item_type",
             "enhancement__name",
             "value",
         )
     )
 
     for row in value_rows:
+        item_type_name = row["item__item_type"]
         enhancement_name = row["enhancement__name"]
         value = row["value"]
 
-        enhancement_values.setdefault(
+        type_enhancements = enhancement_values.setdefault(
+            item_type_name,
+            {},
+        )
+
+        values = type_enhancements.setdefault(
             enhancement_name,
             [],
-        ).append(value)
+        )
+
+        if value and value not in values:
+            values.append(value)
 
     return render(
         request,
