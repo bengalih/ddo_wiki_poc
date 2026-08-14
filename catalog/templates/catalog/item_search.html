@@ -529,7 +529,8 @@ async function getAvailableOptions() {
 function populateEnhancementOptions(
     enhancementSelect,
     options,
-    selectedEnhancement
+    selectedEnhancement,
+    excludedEnhancements = new Set()
 ) {
 
     enhancementSelect.innerHTML =
@@ -543,6 +544,20 @@ function populateEnhancementOptions(
         )
         .forEach(
             function(name) {
+
+                /*
+                 * Don't allow an enhancement that has already
+                 * been selected in an earlier filter row.
+                 *
+                 * Keep the current row's selection available
+                 * so refreshing the controls doesn't clear it.
+                 */
+                if (
+                    name !== selectedEnhancement &&
+                    excludedEnhancements.has(name)
+                ) {
+                    return;
+                }
 
                 const option =
                     document.createElement(
@@ -626,14 +641,17 @@ function populateEnhancementValues(
         }
     );
 
-    if (
-        values.includes(selectedValue)
-    ) {
-        valueSelect.value =
-            selectedValue;
-    } else {
-        valueSelect.value = "";
-    }
+		if (
+			values.includes(selectedValue)
+		) {
+			valueSelect.value =
+				selectedValue;
+		} else {
+			valueSelect.value = "";
+		}
+
+		valueSelect.dataset.selectedValue =
+			valueSelect.value;
 
     /*
      * A value selector is disabled only when
@@ -681,10 +699,14 @@ async function refreshEnhancementFilters(
             const selectedEnhancement =
                 enhancementSelect.value;
 
-            const selectedValue =
-                preserveValues
-                    ? valueSelect.value
-                    : "";
+			const selectedValue =
+				preserveValues
+					? (
+						valueSelect.value ||
+						valueSelect.dataset.selectedValue ||
+						""
+					)
+					: "";
 
             const rowData =
                 data.rows[index] || {
@@ -693,6 +715,27 @@ async function refreshEnhancementFilters(
 
             const options =
                 rowData.enhancements;
+				
+			const excludedEnhancements =
+				new Set();
+
+			rows
+				.slice(0, index)
+				.forEach(
+					function(previousRow) {
+
+						const previousEnhancement =
+							previousRow.querySelector(
+								"select[name^='enhancement_']"
+							).value;
+
+						if (previousEnhancement) {
+							excludedEnhancements.add(
+								previousEnhancement
+							);
+						}
+					}
+				);				
 
             /*
              * If the current enhancement is no longer
@@ -716,11 +759,12 @@ async function refreshEnhancementFilters(
                     "";
             }
 
-            populateEnhancementOptions(
-                enhancementSelect,
-                options,
-                enhancementSelect.value
-            );
+			populateEnhancementOptions(
+				enhancementSelect,
+				options,
+				enhancementSelect.value,
+				excludedEnhancements
+			);
 
             populateEnhancementValues(
                 row,
