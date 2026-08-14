@@ -1,12 +1,179 @@
 import json
 
 from django.core.paginator import Paginator
+from django.http import JsonResponse
 from django.shortcuts import render
 
 from .models import Enhancement, Item, ItemEnhancement
 
+def enhancement_options(request):
+    name = request.GET.get("name", "").strip()
+    item_type = request.GET.get("item_type", "").strip()
+    min_level = request.GET.get("min_level", "").strip()
+    max_level = request.GET.get("max_level", "").strip()
 
+    items = Item.objects.all()
+
+    if name:
+        items = items.filter(
+            name__icontains=name
+        )
+
+    if item_type:
+        items = items.filter(
+            item_type__iexact=item_type
+        )
+
+    if min_level:
+        try:
+            items = items.filter(
+                minimum_level__gte=int(min_level)
+            )
+        except ValueError:
+            pass
+
+    if max_level:
+        try:
+            items = items.filter(
+                minimum_level__lte=int(max_level)
+            )
+        except ValueError:
+            pass
+
+    filters = []
+
+    index = 0
+
+    while True:
+        enhancement = request.GET.get(
+            f"enhancement_{index}",
+            "",
+        ).strip()
+
+        value = request.GET.get(
+            f"enhancement_value_{index}",
+            "",
+        ).strip()
+
+        if (
+            not enhancement
+            and not value
+        ):
+            break
+
+        filters.append(
+            {
+                "enhancement": enhancement,
+                "value": value,
+            }
+        )
+
+        index += 1
+
+        if index >= 20:
+            break
+
+    rows = []
+
+    for filter_index in range(
+        max(len(filters), 1)
+    ):
+        candidate_items = items
+
+        # Only apply filters BEFORE this row.
+        #
+        # This is important. If row 0 is Acid Blast,
+        # row 1 should show enhancements that coexist
+        # with Acid Blast.
+        for previous_filter in filters[
+            :filter_index
+        ]:
+            enhancement = previous_filter[
+                "enhancement"
+            ]
+
+            value = previous_filter[
+                "value"
+            ]
+
+            if enhancement:
+                candidate_items = candidate_items.filter(
+                    enhancements__enhancement__name__iexact=
+                    enhancement
+                )
+
+                if value:
+                    candidate_items = candidate_items.filter(
+                        enhancements__enhancement__name__iexact=
+                        enhancement,
+                        enhancements__value__icontains=
+                        value,
+                    )
+
+            elif value:
+                candidate_items = candidate_items.filter(
+                    enhancements__value__icontains=value
+                )
+
+        candidate_items = candidate_items.distinct()
+
+        rows.append(
+            {
+                "enhancements": {}
+            }
+        )
+
+        enhancement_rows = (
+            ItemEnhancement.objects
+            .filter(
+                item__in=candidate_items
+            )
+            .values(
+                "enhancement__name",
+                "value",
+            )
+            .distinct()
+            .order_by(
+                "enhancement__name",
+                "value",
+            )
+        )
+
+        for row in enhancement_rows:
+            enhancement_name = row[
+                "enhancement__name"
+            ]
+
+            value = row["value"]
+
+            values = rows[
+                filter_index
+            ]["enhancements"].setdefault(
+                enhancement_name,
+                [],
+            )
+
+            if (
+                value
+                and value not in values
+            ):
+                values.append(value)
+
+    return JsonResponse(
+        {
+            "rows": rows,
+        }
+    )
+    
 def item_search(request):
+
+    if request.GET.get(
+        "enhancement_options"
+    ) == "1":
+        return enhancement_options(
+            request
+        )
+        
     name = request.GET.get("name", "").strip()
     item_type = request.GET.get("item_type", "").strip()
     min_level = request.GET.get("min_level", "").strip()

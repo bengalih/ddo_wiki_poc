@@ -399,134 +399,171 @@ of {{ page_obj.paginator.num_pages }}
 
 <script>
 
-const enhancementValues =
-    JSON.parse(
-        '{{ enhancement_values_json|escapejs }}'
+function getFilterRows() {
+
+    return Array.from(
+        document.querySelectorAll(
+            "#enhancement-filters .enhancement-filter"
+        )
     );
-
-
-function getAvailableEnhancements() {
-
-    const itemType =
-        document.getElementById(
-            "item_type"
-        ).value;
-
-    if (itemType) {
-        return enhancementValues[itemType] || {};
-    }
-
-    const combined = {};
-
-    Object.values(
-        enhancementValues
-    ).forEach(
-        function(typeEnhancements) {
-
-            Object.entries(
-                typeEnhancements
-            ).forEach(
-                function([name, values]) {
-
-                    if (!combined[name]) {
-                        combined[name] = [];
-                    }
-
-                    values.forEach(
-                        function(value) {
-
-                            if (
-                                value &&
-                                !combined[name].includes(
-                                    value
-                                )
-                            ) {
-                                combined[name].push(
-                                    value
-                                );
-                            }
-                        }
-                    );
-                }
-            );
-        }
-    );
-
-    return combined;
 }
 
 
-function getEnhancementValues(
-    enhancement
-) {
+function getCurrentFilters() {
 
-    if (!enhancement) {
-        return [];
+    return getFilterRows().map(
+        function(row) {
+
+            return {
+                enhancement:
+                    row.querySelector(
+                        "select[name^='enhancement_']"
+                    ).value,
+
+                value:
+                    row.querySelector(
+                        ".enhancement-value"
+                    ).value,
+            };
+        }
+    );
+}
+
+
+function buildOptionsUrl() {
+
+    const url =
+        new URL(
+            window.location.href
+        );
+
+    url.search = "";
+
+    url.searchParams.set(
+        "enhancement_options",
+        "1"
+    );
+
+    url.searchParams.set(
+        "name",
+        document.getElementById(
+            "name"
+        ).value
+    );
+
+    url.searchParams.set(
+        "item_type",
+        document.getElementById(
+            "item_type"
+        ).value
+    );
+
+    url.searchParams.set(
+        "min_level",
+        document.getElementById(
+            "min_level"
+        ).value
+    );
+
+    url.searchParams.set(
+        "max_level",
+        document.getElementById(
+            "max_level"
+        ).value
+    );
+
+    getCurrentFilters().forEach(
+        function(filter, index) {
+
+            if (filter.enhancement) {
+                url.searchParams.set(
+                    "enhancement_" + index,
+                    filter.enhancement
+                );
+            }
+
+            if (filter.value) {
+                url.searchParams.set(
+                    "enhancement_value_" + index,
+                    filter.value
+                );
+            }
+        }
+    );
+
+    return url;
+}
+
+
+async function getAvailableOptions() {
+
+    const response =
+        await fetch(
+            buildOptionsUrl(),
+            {
+                headers: {
+                    "X-Requested-With":
+                        "XMLHttpRequest"
+                }
+            }
+        );
+
+    if (!response.ok) {
+        throw new Error(
+            "Failed to retrieve enhancement options"
+        );
     }
 
-    const availableEnhancements =
-        getAvailableEnhancements();
-
-    return availableEnhancements[
-        enhancement
-    ] || [];
+    return response.json();
 }
 
 
 function populateEnhancementOptions(
     enhancementSelect,
-    selectedEnhancement = ""
+    options,
+    selectedEnhancement
 ) {
-
-    const availableEnhancements =
-        getAvailableEnhancements();
-
-    const previousValue =
-        selectedEnhancement ||
-        enhancementSelect.value;
 
     enhancementSelect.innerHTML =
         '<option value="">Any enhancement</option>';
 
-    Object.keys(
-        availableEnhancements
-    )
-    .sort(
-        function(a, b) {
-            return a.localeCompare(b);
-        }
-    )
-    .forEach(
-        function(name) {
-
-            const option =
-                document.createElement(
-                    "option"
-                );
-
-            option.value = name;
-            option.textContent = name;
-
-            if (
-                name === previousValue
-            ) {
-                option.selected = true;
+    Object.keys(options)
+        .sort(
+            function(a, b) {
+                return a.localeCompare(b);
             }
+        )
+        .forEach(
+            function(name) {
 
-            enhancementSelect.appendChild(
-                option
-            );
-        }
-    );
+                const option =
+                    document.createElement(
+                        "option"
+                    );
+
+                option.value = name;
+                option.textContent = name;
+
+                if (
+                    name === selectedEnhancement
+                ) {
+                    option.selected = true;
+                }
+
+                enhancementSelect.appendChild(
+                    option
+                );
+            }
+        );
 
     if (
         Object.prototype.hasOwnProperty.call(
-            availableEnhancements,
-            previousValue
+            options,
+            selectedEnhancement
         )
     ) {
         enhancementSelect.value =
-            previousValue;
+            selectedEnhancement;
     } else {
         enhancementSelect.value = "";
     }
@@ -534,13 +571,14 @@ function populateEnhancementOptions(
 
 
 function populateEnhancementValues(
-    enhancementSelect,
-    preserveValue = true
+    row,
+    options,
+    selectedValue
 ) {
 
-    const row =
-        enhancementSelect.closest(
-            ".enhancement-filter"
+    const enhancementSelect =
+        row.querySelector(
+            "select[name^='enhancement_']"
         );
 
     const valueSelect =
@@ -551,19 +589,8 @@ function populateEnhancementValues(
     const enhancement =
         enhancementSelect.value;
 
-    const oldValue =
-        preserveValue
-            ? (
-                valueSelect.dataset.selectedValue ||
-                valueSelect.value ||
-                ""
-            )
-            : "";
-
     const values =
-        getEnhancementValues(
-            enhancement
-        );
+        options[enhancement] || [];
 
     valueSelect.innerHTML =
         '<option value="">Any value</option>';
@@ -580,7 +607,7 @@ function populateEnhancementValues(
             option.textContent = value;
 
             if (
-                value === oldValue
+                value === selectedValue
             ) {
                 option.selected = true;
             }
@@ -591,32 +618,18 @@ function populateEnhancementValues(
         }
     );
 
-    /*
-     * If the selected value is still valid,
-     * keep it selected.
-     *
-     * If it isn't valid for this enhancement/type,
-     * clear it.
-     */
     if (
-        oldValue &&
-        values.includes(oldValue)
+        values.includes(selectedValue)
     ) {
-        valueSelect.value = oldValue;
-        valueSelect.dataset.selectedValue =
-            oldValue;
+        valueSelect.value =
+            selectedValue;
     } else {
         valueSelect.value = "";
-        valueSelect.dataset.selectedValue =
-            "";
     }
 
     /*
-     * The Value selector is only disabled when
-     * the selected enhancement genuinely has
-     * no values.
-     *
-     * "Any value" is otherwise a valid choice.
+     * A value selector is disabled only when
+     * the selected enhancement has no values.
      */
     valueSelect.disabled =
         enhancement !== "" &&
@@ -624,7 +637,99 @@ function populateEnhancementValues(
 }
 
 
-function updateEnhancementValues(
+async function refreshEnhancementFilters(
+    preserveValues = true
+) {
+
+    const rows =
+        getFilterRows();
+
+    let data;
+
+    try {
+        data =
+            await getAvailableOptions();
+    } catch (error) {
+        console.error(
+            error
+        );
+
+        return;
+    }
+
+    rows.forEach(
+        function(row, index) {
+
+            const enhancementSelect =
+                row.querySelector(
+                    "select[name^='enhancement_']"
+                );
+
+            const valueSelect =
+                row.querySelector(
+                    ".enhancement-value"
+                );
+
+            const selectedEnhancement =
+                enhancementSelect.value;
+
+            const selectedValue =
+                preserveValues
+                    ? valueSelect.value
+                    : "";
+
+            const rowData =
+                data.rows[index] || {
+                    enhancements: {}
+                };
+
+            const options =
+                rowData.enhancements;
+
+            /*
+             * If the current enhancement is no longer
+             * valid based on the preceding filters,
+             * clear it and its value.
+             */
+            const enhancementStillValid =
+                Object.prototype.hasOwnProperty.call(
+                    options,
+                    selectedEnhancement
+                );
+
+            if (
+                selectedEnhancement &&
+                !enhancementStillValid
+            ) {
+                enhancementSelect.value =
+                    "";
+
+                valueSelect.value =
+                    "";
+            }
+
+            populateEnhancementOptions(
+                enhancementSelect,
+                options,
+                enhancementSelect.value
+            );
+
+            populateEnhancementValues(
+                row,
+                options,
+                (
+                    enhancementSelect.value ===
+                    selectedEnhancement
+                )
+                    ? selectedValue
+                    : ""
+            );
+        }
+    );
+}
+
+
+async function updateEnhancementValues(
     enhancementSelect
 ) {
 
@@ -639,97 +744,13 @@ function updateEnhancementValues(
         );
 
     /*
-     * A user explicitly changed the enhancement,
-     * so the previous value must not carry over.
+     * Changing an enhancement invalidates
+     * the previous value.
      */
-    valueSelect.dataset.selectedValue =
-        "";
-
     valueSelect.value = "";
 
-    populateEnhancementValues(
-        enhancementSelect,
+    await refreshEnhancementFilters(
         false
-    );
-}
-
-
-function updateAllEnhancementFilters() {
-
-    const rows =
-        document.querySelectorAll(
-            "#enhancement-filters .enhancement-filter"
-        );
-
-    rows.forEach(
-        function(row) {
-
-            const enhancementSelect =
-                row.querySelector(
-                    "select[name^='enhancement_']"
-                );
-
-            const valueSelect =
-                row.querySelector(
-                    ".enhancement-value"
-                );
-
-            const currentEnhancement =
-                enhancementSelect.value;
-
-            const currentValue =
-                valueSelect.dataset.selectedValue ||
-                valueSelect.value ||
-                "";
-
-            const availableEnhancements =
-                getAvailableEnhancements();
-
-            /*
-             * If the selected enhancement does not
-             * exist for the newly selected Type,
-             * clear both controls.
-             */
-            if (
-                currentEnhancement &&
-                !Object.prototype.hasOwnProperty.call(
-                    availableEnhancements,
-                    currentEnhancement
-                )
-            ) {
-
-                enhancementSelect.value =
-                    "";
-
-                valueSelect.dataset.selectedValue =
-                    "";
-
-                valueSelect.value =
-                    "";
-
-            } else {
-
-                /*
-                 * Preserve the enhancement and value
-                 * when they remain valid.
-                 */
-                enhancementSelect.value =
-                    currentEnhancement;
-
-                valueSelect.dataset.selectedValue =
-                    currentValue;
-            }
-
-            populateEnhancementOptions(
-                enhancementSelect,
-                enhancementSelect.value
-            );
-
-            populateEnhancementValues(
-                enhancementSelect,
-                true
-            );
-        }
     );
 }
 
@@ -742,10 +763,12 @@ function addEnhancement() {
         );
 
     const index =
-        container.children.length;
+        getFilterRows().length;
 
     const row =
-        document.createElement("div");
+        document.createElement(
+            "div"
+        );
 
     row.className =
         "enhancement-filter";
@@ -758,7 +781,6 @@ function addEnhancement() {
 <select
     name="enhancement_value_${index}"
     class="enhancement-value"
-    disabled
 >
     <option value="">Any value</option>
 </select>
@@ -772,7 +794,9 @@ function addEnhancement() {
 </button>
 `;
 
-    container.appendChild(row);
+    container.appendChild(
+        row
+    );
 
     const enhancementSelect =
         row.querySelector(
@@ -788,46 +812,43 @@ function addEnhancement() {
         }
     );
 
-    populateEnhancementOptions(
-        enhancementSelect
-    );
-
-    populateEnhancementValues(
-        enhancementSelect,
-        false
+    /*
+     * Recalculate all rows so the new row
+     * gets options based on the filters before it.
+     */
+    refreshEnhancementFilters(
+        true
     );
 
     renumberEnhancements();
 }
 
 
-function removeEnhancement(button) {
+function removeEnhancement(
+    button
+) {
 
-    const row =
-        button.parentElement;
-
-    row.remove();
+    button.parentElement.remove();
 
     renumberEnhancements();
 
     if (
-        document.querySelectorAll(
-            "#enhancement-filters .enhancement-filter"
-        ).length === 0
+        getFilterRows().length === 0
     ) {
         addEnhancement();
+
+        return;
     }
+
+    refreshEnhancementFilters(
+        true
+    );
 }
 
 
 function renumberEnhancements() {
 
-    const rows =
-        document.querySelectorAll(
-            "#enhancement-filters .enhancement-filter"
-        );
-
-    rows.forEach(
+    getFilterRows().forEach(
         function(row, index) {
 
             const enhancementSelect =
@@ -859,71 +880,27 @@ document.addEventListener(
                 "item_type"
             );
 
-        /*
-         * Type changes rebuild the available
-         * enhancement and value choices.
-         */
         typeSelect.addEventListener(
             "change",
             function() {
-                updateAllEnhancementFilters();
+
+                /*
+                 * Type changes can invalidate
+                 * any existing enhancement/value.
+                 */
+                refreshEnhancementFilters(
+                    true
+                );
             }
         );
 
-        const rows =
-            document.querySelectorAll(
-                "#enhancement-filters .enhancement-filter"
-            );
-
-        rows.forEach(
+        getFilterRows().forEach(
             function(row) {
 
                 const enhancementSelect =
                     row.querySelector(
                         "select[name^='enhancement_']"
                     );
-
-                const valueSelect =
-                    row.querySelector(
-                        ".enhancement-value"
-                    );
-
-                /*
-                 * These values were rendered by Django
-                 * from the submitted GET parameters.
-                 *
-                 * Capture them BEFORE rebuilding the
-                 * dropdowns.
-                 */
-                const selectedEnhancement =
-                    enhancementSelect.value;
-
-                const selectedValue =
-                    valueSelect.dataset.selectedValue ||
-                    valueSelect.value ||
-                    "";
-
-                valueSelect.dataset.selectedValue =
-                    selectedValue;
-
-                /*
-                 * Build the Enhancement list for the
-                 * currently selected Type while preserving
-                 * the server-selected enhancement.
-                 */
-                populateEnhancementOptions(
-                    enhancementSelect,
-                    selectedEnhancement
-                );
-
-                /*
-                 * Now rebuild the Value list while
-                 * preserving the server-selected value.
-                 */
-                populateEnhancementValues(
-                    enhancementSelect,
-                    true
-                );
 
                 enhancementSelect.addEventListener(
                     "change",
@@ -934,6 +911,14 @@ document.addEventListener(
                     }
                 );
             }
+        );
+
+        /*
+         * Populate all controls from the current
+         * server-rendered selections.
+         */
+        refreshEnhancementFilters(
+            true
         );
     }
 );
