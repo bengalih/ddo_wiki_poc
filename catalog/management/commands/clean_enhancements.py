@@ -3,11 +3,12 @@ import re
 from django.core.management.base import BaseCommand
 from django.db import transaction
 
-from catalog.models import ItemEnhancement
+from catalog.enhancement_values import parse_magnitude
+from catalog.models import EnhancementVariant, ItemEnhancement
 
 
 class Command(BaseCommand):
-    help = "Clean existing ItemEnhancement values from stored Wiki templates."
+    help = "Clean EnhancementVariant values from stored Wiki templates."
 
     def add_arguments(self, parser):
         parser.add_argument(
@@ -19,50 +20,60 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         dry_run = options["dry_run"]
 
-        records = (
+        used_variant_ids = (
             ItemEnhancement.objects
-            .select_related(
-                "item",
-                "enhancement",
-            )
+            .values_list("variant_id", flat=True)
+            .distinct()
+        )
+
+        records = (
+            EnhancementVariant.objects
+            .filter(id__in=used_variant_ids)
+            .select_related("enhancement")
             .order_by(
-                "item__name",
                 "enhancement__name",
+                "value",
             )
         )
 
         changes = []
 
-        for record in records:
-            new_value = self.extract_value(
-                record.raw_template
+        for variant in records:
+            raw_template = (
+                ItemEnhancement.objects
+                .filter(variant=variant)
+                .values_list("raw_template", flat=True)
+                .first()
             )
 
-            if new_value == record.value:
+            new_value = self.extract_value(
+                raw_template
+            )
+
+            if new_value == variant.value:
                 continue
 
             changes.append(
                 (
-                    record,
-                    record.value,
+                    variant,
+                    variant.value,
                     new_value,
                 )
             )
 
         self.stdout.write(
-            f"Enhancement records examined: "
+            f"Enhancement variants examined: "
             f"{records.count()}"
         )
 
         self.stdout.write(
-            f"Records requiring cleanup: "
+            f"Variants requiring cleanup: "
             f"{len(changes)}"
         )
 
-        for record, old_value, new_value in changes:
+        for variant, old_value, new_value in changes:
             self.stdout.write(
-                f"{record.item.name} | "
-                f"{record.enhancement.name} | "
+                f"{variant.enhancement.name} | "
                 f"'{old_value}' -> '{new_value}'"
             )
 
@@ -76,16 +87,22 @@ class Command(BaseCommand):
             return
 
         with transaction.atomic():
-            for record, old_value, new_value in changes:
-                record.value = new_value
-                record.save(
-                    update_fields=["value"]
+            for variant, old_value, new_value in changes:
+                variant.value = new_value
+                variant.magnitude = parse_magnitude(
+                    new_value
+                )
+                variant.save(
+                    update_fields=[
+                        "value",
+                        "magnitude",
+                    ]
                 )
 
         self.stdout.write("")
         self.stdout.write(
             self.style.SUCCESS(
-                f"Updated {len(changes)} enhancement records."
+                f"Updated {len(changes)} enhancement variants."
             )
         )
 

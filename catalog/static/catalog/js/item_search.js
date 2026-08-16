@@ -13,6 +13,16 @@ function getCurrentFilters() {
     return getFilterRows().map(
         function(row) {
 
+            const valueSelect =
+                row.querySelector(
+                    ".enhancement-value"
+                );
+
+            const minInput =
+                row.querySelector(
+                    ".enhancement-min"
+                );
+
             return {
                 enhancement:
                     row.querySelector(
@@ -20,9 +30,10 @@ function getCurrentFilters() {
                     ).value,
 
                 value:
-                    row.querySelector(
-                        ".enhancement-value"
-                    ).value,
+                    valueSelect.value,
+
+                min:
+                    minInput ? minInput.value : "",
             };
         }
     );
@@ -71,6 +82,15 @@ function buildOptionsUrl() {
         ).value
     );
 
+    url.searchParams.set(
+        "include_upgrades",
+        document.getElementById(
+            "include_upgrades"
+        ).checked
+            ? "1"
+            : "0"
+    );
+
 	const filters =
 		getCurrentFilters();
 
@@ -93,6 +113,13 @@ function buildOptionsUrl() {
 				url.searchParams.set(
 					"enhancement_value_" + index,
 					filter.value
+				);
+			}
+
+			if (filter.min) {
+				url.searchParams.set(
+					"enhancement_min_" + index,
+					filter.min
 				);
 			}
 		}
@@ -128,6 +155,7 @@ async function getAvailableOptions() {
 function populateEnhancementOptions(
     enhancementSelect,
     options,
+    labels,
     selectedEnhancement,
     excludedEnhancements = new Set()
 ) {
@@ -138,7 +166,13 @@ function populateEnhancementOptions(
     Object.keys(options)
         .sort(
             function(a, b) {
-                return a.localeCompare(b);
+                // Sort on what the user sees (the label), so a
+                // display-name override like "Bloop" sorts under
+                // the B's, not where the wiki name "Seeker" sits.
+                const labelA = labels[a] || a;
+                const labelB = labels[b] || b;
+
+                return labelA.localeCompare(labelB);
             }
         )
         .forEach(
@@ -164,7 +198,8 @@ function populateEnhancementOptions(
                     );
 
                 option.value = name;
-                option.textContent = name;
+                option.textContent =
+                    labels[name] || name;
 
                 if (
                     name === selectedEnhancement
@@ -194,7 +229,7 @@ function populateEnhancementOptions(
 
 function populateEnhancementValues(
     row,
-    options,
+    rowData,
     selectedValue
 ) {
 
@@ -208,8 +243,16 @@ function populateEnhancementValues(
             ".enhancement-value"
         );
 
+    const minInput =
+        row.querySelector(
+            ".enhancement-min"
+        );
+
     const enhancement =
         enhancementSelect.value;
+
+    const options =
+        rowData.enhancements || {};
 
     const values =
         options[enhancement] || [];
@@ -259,6 +302,28 @@ function populateEnhancementValues(
     valueSelect.disabled =
         enhancement !== "" &&
         values.length === 0;
+
+    if (minInput) {
+        const hasMagnitudes =
+            (rowData.has_magnitudes || {})[enhancement]
+            === true;
+
+        minInput.disabled =
+            enhancement === "" ||
+            !hasMagnitudes;
+
+        /*
+         * A minimum overrides an exact pick: while the
+         * minimum is set the value dropdown stays visible
+         * (as a flavor reference) but cannot be changed.
+         */
+        if (
+            minInput.value !== "" &&
+            !minInput.disabled
+        ) {
+            valueSelect.disabled = true;
+        }
+    }
 }
 
 
@@ -329,7 +394,10 @@ async function refreshEnhancementFilters(
 
             const options =
                 rowData.enhancements;
-				
+
+            const labels =
+                rowData.labels || {};
+
 			const excludedEnhancements =
 				new Set();
 
@@ -388,13 +456,14 @@ async function refreshEnhancementFilters(
 			populateEnhancementOptions(
 				enhancementSelect,
 				options,
+				labels,
 				enhancementSelect.value,
 				excludedEnhancements
 			);
 
             populateEnhancementValues(
                 row,
-                options,
+                rowData,
                 (
                     enhancementSelect.value ===
                     selectedEnhancement
@@ -482,6 +551,16 @@ function addEnhancement() {
     <option value="">Any value</option>
 </select>
 
+<input
+    type="number"
+    name="enhancement_min_${index}"
+    class="enhancement-min"
+    min="0"
+    step="any"
+    placeholder="Min"
+    title="Match items with this enhancement at or above this magnitude (e.g. 20 matches +22% and +26%)"
+>
+
 <button
     type="button"
     class="remove-enhancement"
@@ -517,6 +596,20 @@ function addEnhancement() {
     valueSelect.addEventListener(
         "change",
         updateEnhancementValuesFromValue
+    );
+
+    const minInput =
+        row.querySelector(
+            ".enhancement-min"
+        );
+
+    minInput.addEventListener(
+        "input",
+        function() {
+            refreshEnhancementFilters(
+                true
+            );
+        }
     );
 
     /*
@@ -568,11 +661,21 @@ function renumberEnhancements() {
                     ".enhancement-value"
                 );
 
+            const minInput =
+                row.querySelector(
+                    ".enhancement-min"
+                );
+
             enhancementSelect.name =
                 "enhancement_" + index;
 
             valueSelect.name =
                 "enhancement_value_" + index;
+
+            if (minInput) {
+                minInput.name =
+                    "enhancement_min_" + index;
+            }
         }
     );
 }
@@ -581,6 +684,24 @@ function renumberEnhancements() {
 document.addEventListener(
     "DOMContentLoaded",
     function() {
+
+        const includeUpgradesCheckbox =
+            document.getElementById(
+                "include_upgrades"
+            );
+
+        if (
+            includeUpgradesCheckbox
+        ) {
+            includeUpgradesCheckbox.addEventListener(
+                "change",
+                function() {
+                    refreshEnhancementFilters(
+                        true
+                    );
+                }
+            );
+        }
 
         const typeSelect =
             document.getElementById(
@@ -614,6 +735,11 @@ document.addEventListener(
                         ".enhancement-value"
                     );
 
+                const minInput =
+                    row.querySelector(
+                        ".enhancement-min"
+                    );
+
                 enhancementSelect.addEventListener(
                     "change",
                     function() {
@@ -627,6 +753,17 @@ document.addEventListener(
                     "change",
                     updateEnhancementValuesFromValue
                 );
+
+                if (minInput) {
+                    minInput.addEventListener(
+                        "input",
+                        function() {
+                            refreshEnhancementFilters(
+                                true
+                            );
+                        }
+                    );
+                }
             }
         );
 

@@ -1,0 +1,6 @@
+{
+  "page_id": 73638,
+  "title": "Item:Forum Post",
+  "revision_id": 511941,
+  "wikitext": "{{#DPL:\n  | namespace    = Item\n  | titlematch   = % Forum Post (level %)\n  | uses         = Template:Named item\n  | include      = {Named item\u00a6Named items category phantom}\n  | table        = class=\"wikitable sortable loot-table mw-collapsible {{#ifeq:{{IO|{{{collapse|false}}}}}|1|mw-collapsed}}\" style=\"width: 100%;\",Item,Type,Enhancements,data-sort-type=\"number\"\u00a6{{Abbr|Minimum level|ML}},Bind,Quests\n  | tablesortcol = {{#switch:{{lc:{{{sort|}}}}}|name|item=1|type=2|enhancements=3|bind=5|quest|quests|location=6|minlevel|#default={{{sort|4}}}}}\n}}"
+}

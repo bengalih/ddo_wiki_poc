@@ -1,0 +1,6 @@
+{
+  "page_id": 121820,
+  "title": "Item:Reaper's Platemail",
+  "revision_id": 663031,
+  "wikitext": "{{#dpl:\n  | debug            = {{#ifeq:{{Isnum|{{MediaWiki:DPL debug}}}}|0|2|{{MediaWiki:DPL debug}}}}\n  | namespace        = Item\n  | titlematch       = Reaper's Platemail %\n  | uses             = Template:Named item\n  | includenotmatch  = {{#ifeq:{{IO|{{{filter grouped|0}}}}}|1|/[ \\t]*\\{{!}}[ \\t]*dpl table listing[ \\t]*=[ \\t]*?[^\\s]+/s|/[ \\t]*\\{{!}}[ \\t]*dpl table group[ \\t]*=[ \\t]*?[^\\s]+/s}}\n  | ordermethod      = lastedit\n  | addeditdate      = true\n  | adduser          = true\n  | include          = {Named item\u00a6Named items category phantom}\n  | table            = class=\"wikitable sortable loot-table mw-collapsible {{#ifeq:{{IO|{{{collapse|false}}}}}|1|mw-collapsed|\u00b2{Ec}\u00b2}}\" style=\"width: {{{table width|100%}}};\",-,class=\"superuser-show sysop-show developer-show last-edited\" data-sort-type=\"number\"\u00a6Last Edited,Item,Type,Enhancements,data-sort-type=\"number\"\u00a6{{Abbr|Minimum level|ML}},Bind,Quests\n  | tablesortcol     = {{#switch:{{lc:{{{sort|}}}}}|name|item=2|type=3|enhancements=4|bind=6|quest|quests|location=7|minlevel|#default={{#expr:{{{sort|4}}}+1}}}}\n}}"
+}

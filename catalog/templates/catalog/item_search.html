@@ -18,6 +18,21 @@
 
 <h1>DDO Item Search</h1>
 
+{% if sync_as_of %}
+<p class="subtitle">
+    Database current with DDO Wiki as of {{ sync_as_of|date:"F j, Y" }}
+</p>
+{% else %}
+<p class="subtitle">
+    Database current with DDO Wiki
+</p>
+{% endif %}
+
+<div class="top-links">
+    <a class="button-link" href="{% url 'admin:index' %}">Admin</a>
+    <a class="button-link" href="{% url 'item_search' %}">New Search</a>
+</div>
+
 <form method="get">
 
 <div class="field">
@@ -88,6 +103,31 @@
 
 <div style="clear: both;"></div>
 
+<div class="field">
+
+<label for="include_upgrades">Include upgrades</label>
+
+<input
+    type="checkbox"
+    id="include_upgrades"
+    name="include_upgrades"
+    value="1"
+    {% if search.include_upgrades %}
+    checked
+    {% endif %}
+>
+
+<input
+    type="hidden"
+    id="include_upgrades_hidden"
+    name="include_upgrades"
+    value="0"
+>
+
+</div>
+
+<div style="clear: both;"></div>
+
 <label>Enhancements</label>
 
 <div
@@ -113,7 +153,7 @@
         selected
         {% endif %}
     >
-        {{ enhancement.name }}
+        {{ enhancement.label }}
     </option>
 
     {% endfor %}
@@ -127,6 +167,17 @@
 >
     <option value="">Any value</option>
 </select>
+
+<input
+    type="number"
+    name="enhancement_min_{{ forloop.counter0 }}"
+    class="enhancement-min"
+    min="0"
+    step="any"
+    placeholder="Min"
+    value="{{ filter.min|floatformat }}"
+    title="Match items with this enhancement at or above this magnitude (e.g. 20 matches +22% and +26%)"
+>
 
 <button
     type="button"
@@ -151,7 +202,7 @@
     {% for enhancement in enhancements %}
 
     <option value="{{ enhancement.name }}">
-        {{ enhancement.name }}
+        {{ enhancement.label }}
     </option>
 
     {% endfor %}
@@ -164,6 +215,16 @@
 >
     <option value="">Any value</option>
 </select>
+
+<input
+    type="number"
+    name="enhancement_min_0"
+    class="enhancement-min"
+    min="0"
+    step="any"
+    placeholder="Min"
+    title="Match items with this enhancement at or above this magnitude (e.g. 20 matches +22% and +26%)"
+>
 
 <button
     type="button"
@@ -193,11 +254,19 @@
 
 </form>
 
-<p>
-{{ page_obj.paginator.count }}
-item{{ page_obj.paginator.count|pluralize }}
-found.
+<p class="count-line">
+    {{ item_count }}
+    item{{ item_count|pluralize }}
+    in database.
+    {% if search_performed %}
+    <span class="result-count">
+        {{ page_obj.paginator.count }}
+        result{{ page_obj.paginator.count|pluralize }}.
+    </span>
+    {% endif %}
 </p>
+
+{% if search_performed %}
 
 <table>
 
@@ -205,9 +274,24 @@ found.
 
 <tr>
 
-<th>Name</th>
-<th>Type</th>
-<th>Minimum Level</th>
+<th>
+<a class="sort-link" href="?{% if base_querystring %}{{ base_querystring }}&amp;{% endif %}sort={% if sort == 'name' %}-name{% else %}name{% endif %}">
+    Name
+    {% if sort == 'name' %}<span class="sort-indicator sort-active">&#9650;</span>{% elif sort == '-name' %}<span class="sort-indicator sort-active">&#9660;</span>{% else %}<span class="sort-indicator sort-idle">&#9650;&#9660;</span>{% endif %}
+</a>
+</th>
+<th>
+<a class="sort-link" href="?{% if base_querystring %}{{ base_querystring }}&amp;{% endif %}sort={% if sort == 'item_type' %}-item_type{% else %}item_type{% endif %}">
+    Type
+    {% if sort == 'item_type' %}<span class="sort-indicator sort-active">&#9650;</span>{% elif sort == '-item_type' %}<span class="sort-indicator sort-active">&#9660;</span>{% else %}<span class="sort-indicator sort-idle">&#9650;&#9660;</span>{% endif %}
+</a>
+</th>
+<th>
+<a class="sort-link" href="?{% if base_querystring %}{{ base_querystring }}&amp;{% endif %}sort={% if sort == 'minimum_level' %}-minimum_level{% else %}minimum_level{% endif %}">
+    Minimum Level
+    {% if sort == 'minimum_level' %}<span class="sort-indicator sort-active">&#9650;</span>{% elif sort == '-minimum_level' %}<span class="sort-indicator sort-active">&#9660;</span>{% else %}<span class="sort-indicator sort-idle">&#9650;&#9660;</span>{% endif %}
+</a>
+</th>
 <th>Enhancements</th>
 
 </tr>
@@ -227,7 +311,7 @@ found.
     target="_blank"
     rel="noopener noreferrer"
 >
-    {{ item.name }}
+    {{ item.display_name }}
 </a>
 
 </td>
@@ -242,11 +326,33 @@ found.
 
 <td>
 
-{% for item_enhancement in item.enhancements.all %}
+{% for entry in item.ordered_enhancements %}
 
-<div class="enhancement">
+{% if entry.type == "tier" %}
+
+<div class="enhancement-tier">
+
+<div class="enhancement-tier-label">
+    Tier {{ entry.tier }}
+</div>
+
+{% for item_enhancement in entry.items %}
+
+<div class="enhancement enhancement-tier-item">
     {{ item_enhancement.display_name }}
 </div>
+
+{% endfor %}
+
+</div>
+
+{% else %}
+
+<div class="enhancement">
+    {{ entry.enhancement.display_name }}
+</div>
+
+{% endif %}
 
 {% empty %}
 
@@ -274,13 +380,21 @@ None
 
 </table>
 
-{% if page_obj.paginator.num_pages > 1 %}
+{% else %}
+
+<p class="no-search-hint">
+    Enter search criteria above to find items.
+</p>
+
+{% endif %}
+
+{% if search_performed and page_obj.paginator.num_pages > 1 %}
 
 <div class="pagination">
 
 {% if page_obj.has_previous %}
 
-<a href="?name={{ search.name|urlencode }}&item_type={{ search.item_type|urlencode }}&min_level={{ search.min_level|urlencode }}&max_level={{ search.max_level|urlencode }}{% for filter in search.enhancement_filters %}&enhancement_{{ forloop.counter0 }}={{ filter.enhancement|urlencode }}&enhancement_value_{{ forloop.counter0 }}={{ filter.value|urlencode }}{% endfor %}&page={{ page_obj.previous_page_number }}">
+<a href="?{% if base_querystring %}{{ base_querystring }}&amp;{% endif %}sort={{ sort }}&amp;page={{ page_obj.previous_page_number }}">
     Previous
 </a>
 
@@ -293,7 +407,7 @@ of {{ page_obj.paginator.num_pages }}
 
 {% if page_obj.has_next %}
 
-<a href="?name={{ search.name|urlencode }}&item_type={{ search.item_type|urlencode }}&min_level={{ search.min_level|urlencode }}&max_level={{ search.max_level|urlencode }}{% for filter in search.enhancement_filters %}&enhancement_{{ forloop.counter0 }}={{ filter.enhancement|urlencode }}&enhancement_value_{{ forloop.counter0 }}={{ filter.value|urlencode }}{% endfor %}&page={{ page_obj.next_page_number }}">
+<a href="?{% if base_querystring %}{{ base_querystring }}&amp;{% endif %}sort={{ sort }}&amp;page={{ page_obj.next_page_number }}">
     Next
 </a>
 
