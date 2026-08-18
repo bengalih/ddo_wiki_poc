@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Charoush's Inferno (historic)",
+  "page_id": 7854,
+  "revision_id": 628952,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:20:56.773576+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=item|replaced={{Item|Charoush's Inferno}}}}\n{{Named item|Weapon\n  | name                     = {{Item|Charoush's Inferno}}\n  | damage                   = [1d10] + 5 Slash, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Bastard Sword\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Exotic\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 150\n  | material                 = Steel\n  | hardness                 = 17\n  | minlevel                 = 12\n  | basevalue                = 9,803pp 5gp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|no}}\n  | quest                    = The Prison of the Planes\n  | chest                    = Fernia Room's chest\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Burst|Flaming}}\n  | description              = This flaming bastard sword is all that is left of Charoush the Vizier. As you touch its hilt, you can feel a living presence within calling out in rage.\n  | pic                      = Charoush's Inferno shown.jpg\n  | picdesc                  = Charoush's Inferno (historic).png\n  | tips                     = \n}}",
+  "item_template": "History",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Bastard Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Flaming Burst",
+      "tooltip": "Flaming Burst: This weapon is sheathed in fire, and deals 1 to 6 fire damage each hit. Critical hits deal an additional 1 to 10 fire damage for weapons with a x2 critical multiplier, 2 to 20 for a x3 multiplier and 3 to 30 for a x4 multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flaming_Burst#Flaming_Burst",
+          "title": "Flaming Burst",
+          "text": "Flaming Burst"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "page_title": "Item:Battleworn Chainshirt",
+  "page_id": 13185,
+  "revision_id": 628495,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:09:35.537127+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Battleworn Chainshirt\n  | type                     = Chain Shirt\n  | feat                     = Light\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +4\n  | maxdexbonus              = 5\n  | acp                      = -1\n  | asf                      = 20%\n  | durability               = 32\n  | material                 = Steel\n  | hardness                 = 9\n  | basevalue                = 25 pp\n  | weight                   = 25 lbs\n  | quest                    = The Grotto\n  | chest                    = [[Sahuagin High Priestess]]'s chest, Non-Warforged Barbarians, Bards, Rangers, and Rogues\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|0}}\n* {{Starter}}\n  | pic                      = Battleworn Chainshirt shown.jpg\n  | picdesc                  = Battleworn Chainshirt.png\n  | description              = This chain shirt appears to be of exceptional quality despite years of use.\n  | notes                    = All new non-[[Veteran Status|Veteran]], non-[[Warforged]] [[Barbarian]]s, [[Bard]]s, [[Ranger]]s, and [[Rogue]]s get this automatically upon completing (or electing to skip) [[The Grotto]].\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Chain Shirt",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "enchantments": [
+    {
+      "text": "Masterwork",
+      "tooltip": "Masterwork: This armor is more finely crafted than normal, reducing the Armom Check Penalty by 1.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Masterwork",
+          "title": "Masterwork",
+          "text": "Masterwork"
+        }
+      ]
+    },
+    {
+      "text": "Starter",
+      "tooltip": "Starter: Starter equipment cannot be traded, sold or crafted.This item cannot be fed to sentient jewels.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Starter",
+          "title": "Starter",
+          "text": "Starter"
+        }
+      ]
+    }
+  ]
+}

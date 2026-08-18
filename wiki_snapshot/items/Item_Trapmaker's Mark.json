@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Trapmaker's Mark",
+  "page_id": 113790,
+  "revision_id": 638555,
+  "revision_timestamp": "2025-04-30T20:17:21Z",
+  "fetched_at": "2026-08-17T23:20:43.754580+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Trapmaker's Mark\n  | minlevel                 = 13\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 230\n  | material                 = Gem\n  | hardness                 = 33\n  | cost                     = 1,201 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 73\n  | quest                    = The Covered Culvert\n  | chest                    = optional chest\n  | enhancements             = \n* {{Save|Reflex|7}}\n* {{Deception|5}}\n* {{Dodge|7}}\n* {{Assassinate|8}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = \n  | picdesc                  = Trapmaker's Mark.png\n  | tips                     = {{Bug|This item is mistakenly ML 13, despite coming from a level 4 quest.}}\n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Reflex Save +7",
+      "tooltip": "Reflex Save +7: This item gives a +7 Resistance bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save +7"
+        }
+      ]
+    },
+    {
+      "text": "Deception +5",
+      "tooltip": "Deception +5: +5 Enhancement bonus to hit and +8 to damage for any hit that would qualify as a sneak attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Deception +5"
+        }
+      ]
+    },
+    {
+      "text": "Dodge +7%",
+      "tooltip": "Dodge +7%: +7% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +7%"
+        }
+      ]
+    },
+    {
+      "text": "Assassinate +8",
+      "tooltip": "Assassinate +8: +8 Enhancement bonus to the DC of character's Assassinate attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Assassinate",
+          "title": "Assassinate",
+          "text": "Assassinate +8"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

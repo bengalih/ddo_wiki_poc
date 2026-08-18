@@ -1,0 +1,71 @@
+{
+  "page_title": "Item:Aegis of the First Watch",
+  "page_id": 77320,
+  "revision_id": 628171,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:01:48.122153+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Aegis of the First Watch\n  | type                     = Small\n  | prof                     = General\n  | reqtrait                 = <!-- Required Trait. Leave this comment if none.  -->\n  | UMD DC                   = <!-- Use Magic Device DC. Leave this comment if none.  -->\n  | minlevel                 = 1\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +5\n  | maxdexbonus              = \n  | dr                       = 5\n  | acp                      = 0\n  | asf                      = 5\n  | dmg                      = [1d6] + 1\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | durability               = 130\n  | material                 = Densewood\n  | hardness                 = 26\n  | basevalue                = 804 pp\n  | weight                   = 5 lbs\n  | quest                    = Violent Delights\n  | released                 = Update 44\n  | end reward               = <!-- yes if end reward; leave blank otherwise -->\n  | chest                    = End Chest\n  | turn in                  = \n  | enhancements             = \n* {{Enhancement bonus|s|1}}\n* {{Sheltering|3}}\n* {{Augment|Blue}}\n  | crafting                 = <!--Type of crafting. Leave blank if none. -->\n  | craftingupgrade          = <!-- can leave blank, though comment required if |crafting is used -->\n  | description              = The inscription on the handle reads, \"Vigilance, no matter what.\"\n  | pic                      = Aegis of the First Watch shown.jpg\n  | picdesc                  = Aegis of the First Watch.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Densewood",
+  "item_type": "Small Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Sheltering +3",
+      "tooltip": "Sheltering +3: +3 Enhancement bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Sheltering +3"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

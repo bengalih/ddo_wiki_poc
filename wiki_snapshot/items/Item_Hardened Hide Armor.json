@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Hardened Hide Armor",
+  "page_id": 59001,
+  "revision_id": 636706,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:18:59.158719+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Hardened Hide Armor\n  | type                     = Hide\n  | feat                     = Medium\n  | race                     = None\n  | ac                       = +24\n  | maxdexbonus              = 10\n  | acp                      = \n  | asf                      = 25%\n  | durability               = 322\n  | material                 = Spiritcraft Leather\n  | hardness                 = 25\n  | minlevel                 = 17\n  | released                 = Update 31\n  | quest                    = Good Intentions\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | basevalue                = 6875pp\n  | weight                   = 25 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Fortification|108}}\n* {{Fortification|26|Quality}}\n* {{HealingAmp|10|h|Exceptional}}\n* {{Nimbleness|Greater}}\n* {{Augment|Green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Hardened Hide Armor shown.jpg\n  | picdesc                  = Hardened Hide Armor.png\n  | description              = The hardened plates of leather overlapping provide excellent protection while maintaining the mobility of lighter armor\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Spiritcraft Leather",
+  "armor_type": "Hide",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 17,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +108%",
+      "tooltip": "Fortification +108%: +108% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +108%"
+        }
+      ]
+    },
+    {
+      "text": "Quality Fortification +26%",
+      "tooltip": "Quality Fortification +26%: +26% Quality bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Quality Fortification +26%"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Healing Amplification +10",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +10 (Exceptional bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Exceptional Healing Amplification +10"
+        }
+      ]
+    },
+    {
+      "text": "Greater Nimbleness",
+      "tooltip": "Greater Nimbleness: This suit of armor looks much less restrictive than others of its type. A suit of armor that has this property has a maximum Dexterity bonus 2 higher than normal, and its armor check penalty is reduced by 4.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nimbleness#Greater_Nimbleness",
+          "title": "Nimbleness",
+          "text": "Greater Nimbleness"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

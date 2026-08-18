@@ -1,0 +1,140 @@
+{
+  "page_title": "Item:Ventilated Armbands",
+  "page_id": 34000,
+  "revision_id": 635707,
+  "revision_timestamp": "2025-04-22T04:45:49Z",
+  "fetched_at": "2026-08-17T23:23:48.604314+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Ventilated Armbands\n  | slot                     = Wrist\n  | type                     = Bracers\n  | durability               = 260\n  | material                 = Mithral\n  | hardness                 = 35\n  | basevalue                = 10,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 25\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 17\n  | quest                    = The Fall of Truth \n  | chest                    = Raid Warded chest (Epic Normal)\n  | enhancements             = \n* {{ArmorBonus|10}}\n* {{Guard|Air}}\n* {{Skills|dd|5|enh|prefix=Enhanced}}\n* {{Skills|ol|5|enh|prefix=Enhanced}}\n* {{Attuned to Heroism}}\n  | crafting                 = Stormreaver Monument\n  | craftingupgrade          = \n  | pic                      = Bracers Generic Ventilated.png\n  | picdesc                  = Ventilated Armbands.png\n  | description              = These bracers have the unique feature of having air vents cut into their sides to allow your arms to breathe. This makes nerve wracking procedures (such as disarming a bomb) much less sweat inducing.\n  | tips                     = \n* {{Popup|Tier 1|[[File:Ventilated Armbands (Tier 1).png|420px]]|long}}: Epic Hard or with {{Commendation|Heroism|5}}\n* {{Popup|Tier 2|[[File:Ventilated Armbands (Tier 2).png|420px]]|long}}: Epic Elite or with {{Commendation|Heroism|7}} (12 total)\n}}",
+  "item_template": "Named item",
+  "material": "Mithral",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +10",
+      "tooltip": "Armor Bonus +10: This item surrounds the wearer with an invisible but tangible field of force, granting +10 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +10"
+        }
+      ]
+    },
+    {
+      "text": "Air Guard",
+      "tooltip": "Air Guard: This Weapon stores the incredible, dynamic power of the air deep within. When the user of this weapon is successfully attacked in melee, this power occasionally comes to the surface, knocking enemies over or speeding up the wearer with rushing winds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Air_Guard",
+          "title": "Air Guard",
+          "text": "Air Guard"
+        }
+      ]
+    },
+    {
+      "text": "Enhanced Disable Device +5",
+      "tooltip": "Enhanced Disable Device +5: Passive: +5 Enhancement bonus to the Disable Device skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disable_Device",
+          "title": "Disable Device",
+          "text": "Enhanced Disable Device +5"
+        }
+      ]
+    },
+    {
+      "text": "Enhanced Open Lock +5",
+      "tooltip": "Enhanced Open Lock +5: Passive: +5 Enhancement bonus to the Open Lock skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Open_Lock",
+          "title": "Open Lock",
+          "text": "Enhanced Open Lock +5"
+        }
+      ]
+    },
+    {
+      "text": "Attuned to Heroism",
+      "tooltip": "This relic is attuned to heroic actions.",
+      "children": [
+        {
+          "text": "Attuned by Heroism: Tier 1",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Yellow Augment Slot",
+              "tooltip": "Yellow and Colorless",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Augment_Slot",
+                  "title": "Augment Slot",
+                  "text": "Yellow Augment Slot"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 1"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Whirlwind Ward",
+              "tooltip": "Whirlwind Ward: This effect renders you immune to being knocked down by an Air Elemental's whirlwind. However, it does not prevent you from being knocked back or away from touching the Air Elemental.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Whirlwind_Ward",
+                  "title": "Whirlwind Ward",
+                  "text": "Whirlwind Ward"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 2"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Attuned_to_Heroism",
+          "title": "Attuned to Heroism",
+          "text": "Attuned to Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Wrist Boost +1 or +3",
+      "tooltip": "Mythic Wrist Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Wrist Boost"
+        }
+      ]
+    }
+  ]
+}

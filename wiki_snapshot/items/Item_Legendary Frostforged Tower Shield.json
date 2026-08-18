@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:Legendary Frostforged Tower Shield",
+  "page_id": 119291,
+  "revision_id": 658118,
+  "revision_timestamp": "2025-08-26T18:45:32Z",
+  "fetched_at": "2026-08-17T21:49:11.589220+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Legendary Frostforged Tower Shield\n  | type                     = Tower\n  | prof                     = Tower\n  | race                     = \n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 34\n  | damagemod                = STR\n  | attmod                   = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +40\n  | maxdexbonus              = 2\n  | dr                       = 23\n  | acp                      = -9\n  | asf                      = 50\n  | dmg                      = 5.60[1d12+8] + 15\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | durability               = 450\n  | material                 = Steel\n  | hardness                 = 58\n  | basevalue                = 13,604 pp\n  | weight                   = 5 lbs\n  | released                 = Update 75\n  | quest                    = A Miner Sacrifice\n  | chest                    = end chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|s|15}}\n* {{Incite|30|Quality}}\n* {{Sheltering|18|Insightful|Physical}}\n* {{Lamordia Slot|Melancholic|Weapon}}\n* {{Lamordia Slot|Dolorous|Weapon}}\n* {{Augment|Purple}}\n* {{Augment|Orange}}\n  | description              = Augmentation slots line the back of this shield, allowing tinkerers to unlock its full potential.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Frostforged Tower Shield shown.jpg\n  | picdesc                  = Legendary Frostforged Tower Shield.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Tower Shield Proficiency",
+  "material": "Steel",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 34,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Quality Incite +30",
+      "tooltip": "Quality Incite +30: +30% Quality bonus to increased threat generation from melee damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incite",
+          "title": "Incite",
+          "text": "Quality Incite +30"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Physical Sheltering +18",
+      "tooltip": "Insightful Physical Sheltering +18: +18 Insight bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Insightful Physical Sheltering +18"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Melancholic Slot (Weapon)",
+      "tooltip": "Lamordia: Melancholic Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Melancholic Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Dolorous Slot (Weapon)",
+      "tooltip": "Lamordia: Dolorous Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Dolorous Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

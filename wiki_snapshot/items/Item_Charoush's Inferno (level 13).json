@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Charoush's Inferno (level 13)",
+  "page_id": 34934,
+  "revision_id": 648927,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:20:59.382704+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Charoush's Inferno}}\n  | damage                   = [1d10] + 5 Slash, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Bastard Sword\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Exotic\n  | minlevel                 = 13\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 210\n  | material                 = Steel\n  | hardness                 = 18\n  | released                 = Update 17\n  | quest                    = The Prison of the Planes\n  | chest                    = Fernia Room's chest (Heroic Hard)\n  | basevalue                = 5203pp 5gp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Blazing}}\n* {{Incineration}}\n  | pic                      = Charoush's Inferno shown.jpg\n  | picdesc                  = Charoush's Inferno (Level 13).png\n  | description              = This flaming bastard sword is all that is left of [[Charoush]] the Vizier. As you touch its hilt, you can feel a living presence within calling out in rage.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Bastard Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Blazing",
+      "tooltip": "Blazing: This weapon is sheathed in fierce flame. A blazing weapon deals an extra 2 to 12 points of fire damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blazing",
+          "title": "Blazing",
+          "text": "Blazing"
+        }
+      ]
+    },
+    {
+      "text": "Incineration",
+      "tooltip": "Incineration: This weapon stores the power of a raging inferno deep within. Occasionally, this destructive power comes to the surface, devastating enemies with massive fire damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incineration",
+          "title": "Incineration",
+          "text": "Incineration"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

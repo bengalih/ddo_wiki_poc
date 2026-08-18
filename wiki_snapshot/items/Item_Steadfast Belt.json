@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Steadfast Belt",
+  "page_id": 125288,
+  "revision_id": 691362,
+  "revision_timestamp": "2026-07-02T23:25:55Z",
+  "fetched_at": "2026-08-17T23:05:42.045721+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Steadfast Belt\n  | minlevel                 = 15\n  | type                     = Belt\n  | race                     = Duergar Mindcleaver\n  | slot                     = Waist\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | cost                     = 6,002 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 80\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Hp|False Life|23}}\n* {{Resistance|5}}\n  | crafting                 = \n  | description              = \n  | pic                      = Belt Generic.png\n  | picdesc                  = Steadfast Belt.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "False Life +23",
+      "tooltip": "False Life +23: +23 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +23"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +5",
+      "tooltip": "Resistance +5: Passive: +5 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +5"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "page_title": "Item:Epic Bracers of the Demon's Consort",
+  "page_id": 11157,
+  "revision_id": 629864,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:45:03.254794+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Epic Bracers of the Demon's Consort\n  | type                     = Bracers\n  | class                    = Jewelry\n  | basevalue                = 8,020 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Wrist\n  | durability               = 210\n  | material                 = Leather\n  | hardness                 = 25\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | epic                     = Bracers of the Demon's Consort\n  | mythic                   = no\n  | enhancements             = \n* {{Demonic Curse}}\n* {{Demonic Shield}}\n* {{Demonic Retribution}}\n* Hidden effect: [[Demonic Drain]] (1% chance)\n* {{Tactics|Combat Mastery|8}}\n* {{Stat|str|9}}\n* {{Augment|Colorless}}\n* {{Augment|Green}}\n* {{Named item sets|The Epic Desert's Starless Nights}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Bracers of the Demon's Consort\n  | description              = These jagged, spiked leather bracers are covered in barbs and wicked-looking blades that protrude from the wrists and forearms.\n  | pic                      = Bracers Generic Demon.png\n  | picdesc                  = Epic Bracers of the Demon's Consort.png\n  | tips                     = \nNotes:\n\n*The temporary hit point increase is not a dis-spellable effect, nor does it have a timer like [[Bodyfeeder]] or [[Life Shield]]. It persists through [[rest]]s. It likely stacks with everything, though that has yet to be tested.\n\n*All effects occur on hit, not on damage. [[DR]] can absorb all damage without preventing the effects.\n\n*The level drain occurs whether the attack was melee or ranged. The curse and inflict wounds occurs only on melee attack. The temp HP is inconclusive at the moment.\n\n*The [[Demonic Drain]] negative level affects warforged characters as well as others, but ''not'' [[Undead]] players (Pale Masters, Dark Apostates or the like.)  It is not blocked by [[Deathward]], but it can be removed with [[Restoration]].\n}}\n[[Category:Sands of Menechtarun epic items]]\n[[Category:Demonic Drain items]]",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Demonic Curse",
+      "tooltip": "Demonic Curse: Each time you are hit in melee combat there is a chance that your attacker will be Cursed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Demonic_Curse#Demonic_Curse",
+          "title": "Demonic Curse",
+          "text": "Demonic Curse"
+        }
+      ]
+    },
+    {
+      "text": "Demonic Shield",
+      "tooltip": "Demonic Shield: Each time you are hit in melee combat there is a chance that a shield of demonic energy will grant you a +30 Profane bonus to temporary hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Demonic_Shield#Demonic_Shield",
+          "title": "Demonic Shield",
+          "text": "Demonic Shield"
+        }
+      ]
+    },
+    {
+      "text": "Demonic Retribution",
+      "tooltip": "Demonic Retribution: Each time you are hit in melee combat there is a chance that a demonic force will strike back at your attacker hitting them with an Inflict Moderate Wounds spell.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Demonic_Retribution",
+          "title": "Demonic Retribution",
+          "text": "Demonic Retribution"
+        }
+      ]
+    },
+    {
+      "text": "Hidden effect: Demonic Drain (1% chance)",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Demonic_Drain",
+          "title": "Demonic Drain",
+          "text": "Demonic Drain"
+        }
+      ]
+    },
+    {
+      "text": "Combat Mastery +8",
+      "tooltip": "Combat Mastery +8: +8 Enhancement bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combat_Mastery",
+          "title": "Combat Mastery",
+          "text": "Combat Mastery +8"
+        }
+      ]
+    },
+    {
+      "text": "Strength +9",
+      "tooltip": "Strength +9: This item gives the wearer the power of Ogre Strength, granting a +9 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +9"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Epic Desert's Starless Nights",
+      "tooltip": "The Epic Desert's Starless Nights: 2 Pieces Equipped:+4% Artifact bonus to Negative and Poison Spellcrit Chance+20 Artifact bonus to Negative and Poison Spellpower+10% Artifact bonus to Damage vs the Helpless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Epic_Desert's_Starless_Nights",
+          "title": "Named item sets",
+          "text": "The Epic Desert's Starless Nights"
+        }
+      ]
+    }
+  ]
+}

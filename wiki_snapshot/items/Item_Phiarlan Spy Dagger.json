@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Phiarlan Spy Dagger",
+  "page_id": 11696,
+  "revision_id": 671106,
+  "revision_timestamp": "2026-01-08T22:30:09Z",
+  "fetched_at": "2026-08-17T22:37:40.475718+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Phiarlan Spy Dagger\n  | damage                   = [1d4] + 2 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Dagger\n  | class                    = Piercing\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 80\n  | material                 = Steel\n  | hardness                 = 14\n  | minlevel                 = 4\n  | basevalue                = 1600pp 2gp\n  | weight                   = 1.00 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | chest                    = Salva d'Phiarlan chest and bonus chests at end\n  | released                 = Update 5\n  | revamped                 = Update 76\n  | quest                    = Partycrashers\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Acidic|2}}\n* {{Weakening|1|Critical}}\n* {{Deception|2}}\n* {{Augment|Red}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Phiarlan Spy Dagger\n  | description              = House Phiarlan assassins and spies carry daggers like this when the need to carry out a mission efficiently and from the shadows. This particular blade drips acid when drawn and can lure foes into letting their guard down.\n  | pic                      = Phiarlan Spy Dagger shown.jpg\n  | picdesc                  = Phiarlan Spy Dagger.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Acidic 2",
+      "tooltip": "Acidic 2: This effect causes the edges of this weapon to drip with acid, dealing 2d6 Acid damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Acidic",
+          "title": "Acidic",
+          "text": "Acidic 2"
+        }
+      ]
+    },
+    {
+      "text": "Critical Weakening 1",
+      "tooltip": "Critical Weakening 1: This deadly weapon saps the power and might from your enemies, dealing 1 Strength damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Weakening",
+          "title": "Weakening",
+          "text": "Critical Weakening 1"
+        }
+      ]
+    },
+    {
+      "text": "Deception +2",
+      "tooltip": "Deception +2: +2 Enhancement bonus to hit and +3 to damage for any hit that would qualify as a sneak attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Deception +2"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Muck's Ascension",
+  "page_id": 126727,
+  "revision_id": 701975,
+  "revision_timestamp": "2026-07-30T00:58:03Z",
+  "fetched_at": "2026-08-17T22:28:54.202925+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Muck's Ascension\n  | damage                   = 1.20[1d6] + 5 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 160\n  | material                 = Glass\n  | hardness                 = 21\n  | minlevel                 = 11\n  | basevalue                = 4,401pp 1cp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 81\n  | quest                    = Catalyst Crafting\n  | turn in                  = {{Item|Muck's Doom}}, its [[Abyssal Catalyst]] and 50 {{Item|Abyssal Gem}}s at the [[Strange Catalyst Forge]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|5|11}}\n* {{SpellPower|Corrosion|86}}\n* {{Intensity|Acid|13}}\n* {{SpellPower|Corrosion|43|Insightful}}\n* {{Spell Lore|Acid|13}}\n* {{Augment|Red}}\n  | crafting                 =\n  | craftingupgrade          =\n  | description              = No longer Muck's Doom. He will rise. Seek the Sealed Altar.\n  | pic                      = Muck's Ascension shown.jpg\n  | picdesc                  = Muck's Ascension.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +11",
+      "tooltip": "Spellcasting Implement +11: Passive: +11 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +11"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Corrosion +86",
+      "tooltip": "Corrosion +86: Passive: +86 Equipment bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Corrosion +86"
+        }
+      ]
+    },
+    {
+      "text": "Acid Intensity +13%",
+      "tooltip": "Acid Intensity +13%: +13% Enhancement bonus to critical damage with Acid spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intensity",
+          "title": "Intensity",
+          "text": "Acid Intensity"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Corrosion +43",
+      "tooltip": "Insightful Corrosion +43: Passive: +43 Insightful bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Insightful Corrosion +43"
+        }
+      ]
+    },
+    {
+      "text": "Acid Lore +13%",
+      "tooltip": "Acid Lore +13: Passive: Your Acid spells gain a 13% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Acid Lore +13%"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

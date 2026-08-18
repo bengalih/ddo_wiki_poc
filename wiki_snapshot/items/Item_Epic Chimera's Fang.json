@@ -1,0 +1,259 @@
+{
+  "page_title": "Item:Epic Chimera's Fang",
+  "page_id": 10996,
+  "revision_id": 640346,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:46:10.506636+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Chimera's Fang\n  | damage                   = 3[1d10] + 6 Slash, Silver, Magic\n  | crit                     = 17-20 / x2\n  | type                     = Bastard Sword\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Exotic\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 300\n  | material                 = Silver\n  | hardness                 = 28\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtA|BoA}}\n  | basevalue                = 8,023 pp\n  | weight                   = 8 lbs\n  | epic                     = Chimera's Fang\n  | quest                    = Epic Crafting\n  | revamped                 = Update 50\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|6}}\n* {{Keen}}\n* {{Destruction}}\n* {{Blast|Shocking|4}}\n* {{Shatter|+11}}\n* {{Disintegration}}\n* {{ItemGrantedFeat|Greater Chimera's Ferocity}}:\n** If you have a [[Dragonmark]], you get [[Proficiency: Bastard Sword|Exotic Weapon Proficiency: Bastard Sword]] and one of the following:\n*** Mark of Finding: {{Fortification|55|Insightful}}\n*** Mark of Healing: {{HealingAmp|38|H|Competence}}\n*** Mark of Making: {{HealingAmp|38|R}}\n*** Mark of Passage: {{Resistance|8}}\n*** Mark of Scribing: {{Shield Bonus|9}}\n*** Mark of Sentinel: {{Incite|91}}\n*** Mark of Shadow: {{Concealment|Lesser Displacement}}\n*** Mark of Storm: {{Absorption|Electric|27}} and {{Immunity|Whirlwind Ward}}\n*** Mark of Warding: {{Spell Resistance|28}}\n* {{Mat|Silver}}, Alchemical\n* {{Augment|Red}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Chimera's Fang\n  | description              = This fine bastard sword was forged for the dragonmarked of House Deneith. It it rumored to have powers that can only be used by those that bear the Mark of Sentinel.\n  | pic                      = Epic Chimera's Fang shown.jpg\n  | picdesc                  = Epic Chimera's Fang.png \n  | tips                     = \n}}\n[[Category:Sentinels of Stormreach epic items]]\n[[Category:Weapons that grant their own proficiency]]",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Bastard Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Destruction",
+      "tooltip": "Destruction: On Hit: Your target gains a stack of Armor Destruction. (-1 penalty to Armor Class, -1% of its Fortification. 20 Second Duration. Stacks up to 15 times.) This effect may trigger once every three seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Destruction",
+          "title": "Destruction",
+          "text": "Destruction"
+        }
+      ]
+    },
+    {
+      "text": "Shocking Blast 4",
+      "tooltip": "Shocking Blast 4: This weapon arcs with deadly electricity, dealing 4d6 Electric damage on a successful hit, and an additional 4d6 Electric damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Shocking Blast 4"
+        }
+      ]
+    },
+    {
+      "text": "Shatter +11",
+      "tooltip": "Shatter +11: This effect gives a +11 Enhancement bonus to the DC to resist the character's Sunder and Improved Sunder attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shatter",
+          "title": "Shatter",
+          "text": "Shatter +11"
+        }
+      ]
+    },
+    {
+      "text": "Disintegration",
+      "tooltip": "Disintegration: This weapon has a dark, insidious power deep within. Occasionally, this power lashes out violently at enemies and attempts to disintegrate them.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disintegration",
+          "title": "Disintegration",
+          "text": "Disintegration"
+        }
+      ]
+    },
+    {
+      "text": "Greater Chimera's Ferocity:",
+      "tooltip": "Greater Chimera's Ferocity: This item grants extra bonuses if the wearer has been bestowed with Dragonmarks. Any dragonmark grants Proficiency: Bastard Sword; further bonuses are detailed below.",
+      "children": [
+        {
+          "text": "If you have a Dragonmark, you get Exotic Weapon Proficiency: Bastard Sword and one of the following:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Mark of Finding: Insightful Fortification +55%",
+              "tooltip": "Insightful Fortification +55%: +55% Insight bonus to reduced chance of taking critical damage on a critical hit.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Fortification",
+                  "title": "Fortification",
+                  "text": "Insightful Fortification +55%"
+                }
+              ]
+            },
+            {
+              "text": "Mark of Healing: Competence Healing Amplification +38",
+              "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +38 (Competence bonus). Includes spells, potions, and other effects.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Healing_Amplification",
+                  "title": "Healing Amplification",
+                  "text": "Competence Healing Amplification +38"
+                }
+              ]
+            },
+            {
+              "text": "Mark of Making: Repair Amplification +38",
+              "tooltip": "Repair Amplification: This effect amplifies all incoming repair healing by +38 (Enhancement bonus). Includes spells, potions, and other effects.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Repair_Amplification",
+                  "title": "Repair Amplification",
+                  "text": "Repair Amplification +38"
+                }
+              ]
+            },
+            {
+              "text": "Mark of Passage: Resistance +8",
+              "tooltip": "Resistance +8: Passive: +8 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Resistance_(enchantment)",
+                  "title": "Resistance (enchantment)",
+                  "text": "Resistance +8"
+                }
+              ]
+            },
+            {
+              "text": "Mark of Scribing: Shield +9",
+              "tooltip": "Shield +9: While this item is equipped, you are partially protected by a field of magical force which can deflect enemy attacks. This item provides a +9 Shield bonus to Armor Class. It does not stack with an equipped shield.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Shield_Bonus",
+                  "title": "Shield Bonus",
+                  "text": "Shield +9"
+                }
+              ]
+            },
+            {
+              "text": "Mark of Sentinel: Incite +91",
+              "tooltip": "Incite +91: +91% Enhancement bonus to increased threat generation from melee damage",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Incite",
+                  "title": "Incite",
+                  "text": "Incite +91"
+                }
+              ]
+            },
+            {
+              "text": "Mark of Shadow: Lesser Displacement",
+              "tooltip": "Lesser Displacement: Equipping this item causes light to distort around you. Attacks from enemies have a 25% chance to miss you due to concealment.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Lesser_Displacement",
+                  "title": "Lesser Displacement",
+                  "text": "Lesser Displacement"
+                }
+              ]
+            },
+            {
+              "text": "Mark of Storm: Electric Absorption +27% and Whirlwind Ward",
+              "tooltip": "Electric Absorption +27%: Passive: 27% Enhancement Bonus to Electric Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)Whirlwind Ward: This effect renders you immune to being knocked down by an Air Elemental's whirlwind. However, it does not prevent you from being knocked back or away from touching the Air Elemental.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Energy_Absorption",
+                  "title": "Energy Absorption",
+                  "text": "Electric Absorption +27%"
+                },
+                {
+                  "target": "/page/Whirlwind_Ward",
+                  "title": "Whirlwind Ward",
+                  "text": "Whirlwind Ward"
+                }
+              ]
+            },
+            {
+              "text": "Mark of Warding: Spell Resistance +28",
+              "tooltip": "Spell Resistance +28: +28 Enhancement bonus to Spell Resistance.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Spell_Resistance",
+                  "title": "Spell Resistance",
+                  "text": "Spell Resistance +28"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Dragonmark",
+              "title": "Dragonmark",
+              "text": "Dragonmark"
+            },
+            {
+              "target": "/page/Proficiency:_Bastard_Sword",
+              "title": "Proficiency: Bastard Sword",
+              "text": "Exotic Weapon Proficiency: Bastard Sword"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Chimera%27s_Ferocity",
+          "title": "Chimera's Ferocity",
+          "text": "Greater Chimera's Ferocity"
+        }
+      ]
+    },
+    {
+      "text": "Silver , Alchemical",
+      "tooltip": "Silver: A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as devils and vampires. Silver weapons have 2 points lower hardness then equivalent steel weapons, and as such aren't quite as durable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Silver",
+          "title": "Silver",
+          "text": "Silver"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

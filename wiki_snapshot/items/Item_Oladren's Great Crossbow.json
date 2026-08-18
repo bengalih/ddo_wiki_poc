@@ -1,0 +1,42 @@
+{
+  "page_title": "Item:Oladren's Great Crossbow",
+  "page_id": 18091,
+  "revision_id": 666991,
+  "revision_timestamp": "2025-11-21T10:32:37Z",
+  "fetched_at": "2026-08-17T22:33:35.259887+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Oladren's Great Crossbow\n  | damage                   = [2d8] + 0 Pierce\n  | crit                     = 15-20 / x2\n  | type                     = Great Crossbow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = DEX \n  | attackmod                = DEX\n  | prof                     = Exotic\n  | durability               = 110\n  | material                 = Wood\n  | hardness                 = 6\n  | minlevel                 = 0\n  | quest                    = The Collaborator\n  | chest                    = \n  | revamped                 = Update 76\n  | end reward               = yes\n  | basevalue                = 210 pp\n  | weight                   = 12 lbs.\n  | bind                     = {{Bind|BtC|boa}}\n  | mythic                   = no\n  | enhancements             = \n* {{Keen|I}}\n* {{Cold Touch}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | craftingnotes            = \n  | pic                      = Oladrens_Great_Crossbow_shown.png\n  | picdesc                  = Oladren's Great Crossbow.png\n  | description              = The elf Oladren eschewed the bow, preferring this beast of a crossbow instead. The largest of the crossbows, it is weighty enough to require special training to use.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Great Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Cold Touch",
+      "tooltip": "Cold Touch: The temperature around this weapon is colder than normal. A cold touch weapon deals an additional +1 cold damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Touch",
+          "title": "Cold Touch",
+          "text": "Cold Touch"
+        }
+      ]
+    }
+  ]
+}

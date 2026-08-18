@@ -1,0 +1,157 @@
+{
+  "page_title": "Item:Flamefang, the Blazing Bite",
+  "page_id": 111547,
+  "revision_id": 667697,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:05:21.013224+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Flamefang, the Blazing Bite\n  | prof                     = Simple\n  | damage                   = 6.10[1d4+3] + 15 Pierce, Adamantine, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Throwing Dagger\n  | class                    = Thrown\n  | race                     = \n  | minlevel                 = 33\n  | reqtrait                 = \n  | UMD DC                   = \n  | hand                     = Thrown\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 370\n  | material                 = Adamantine\n  | hardness                 = 43\n  | cost                     = 13200 pp 6 gp\n  | weight                   = 1.00 lbs\n  | released                 = Update 69\n  | revamped                 = Update 76\n  | quest                    = Threats Old and New\n  | chest                    = Raid Warded chest \n  | epic                     = no\n  | legendary                = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Flamescale}}\n* {{ItemGrantedFeat|First Blood}}\n* {{Vorpal|Sovereign}}\n* {{Sealed in Fire}}\n* {{Returning}}\n* {{Augment|Orange}}\n* {{Augment|Purple}}\n  | crafting                 = Ritual Table\n  | craftingupgrade          = \n  | description              = Death and fire flow from his mighty jaws.\n  | pic                      = Flamefang, the Blazing Bite shown.jpg\n  | picdesc                  = Flamefang, the Blazing Bite.png\n  | tips                     = {{Bug|[[First Blood]] only triggers on Melee or Unarmed attacks and therefore will not trigger on thrown attacks with this dagger.}}\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Throwing Dagger",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 33,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Flamescale",
+      "tooltip": "Flamescale: Adds Adamantine material type. On hit: 15d6 Fire Damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flamescale",
+          "title": "Flamescale",
+          "text": "Flamescale"
+        }
+      ]
+    },
+    {
+      "text": "Feat: First Blood",
+      "tooltip": "Feat: First Blood: Melee and unarmed attacks deal an extra 50d6 Bane damage against enemies with 90% or more HP. This extra damage cannot trigger more than once every 3 seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feat",
+          "title": "Feat",
+          "text": "Feat"
+        },
+        {
+          "target": "/page/First_Blood",
+          "title": "First Blood",
+          "text": "First Blood"
+        }
+      ]
+    },
+    {
+      "text": "Sovereign Vorpal",
+      "tooltip": "Sovereign Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 3000 Hit Points, they are instantly slain. If your target has above 3000 Hit Points, they take 300 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Sovereign_Vorpal",
+          "title": "Vorpal",
+          "text": "Sovereign Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Sealed in Fire • Legendary Ash • Legendary Dust • Legendary Ooze • Legendary Salt • Legendary Vacuum",
+      "tooltip": "Sealed in Fire: This weapon burns with a sealed power. It can have its power unsealed at the Ritual Table, adding one effect. Attempting to add another will remove the original.Effect options: Legendary AffirmationLegendary Affirmation: Your attacks and offensive spells have a chance to grant you 1,000 Temporary HP.Legendary Ash: Your attacks and offensive spells have a chance to reduce enemy Magical Resistance Rating and Universal Spell Power.Legendary Dust: Your attacks and offensive spells have a chance to reduce enemy Physical Resistance Rating and Positive Healing Amplification.Legendary Ooze: Your attacks and offensive spells have a chance to reduce enemy Physical and Magical Resistance Rating and summon oozes to your aid.(Note: Exactly which sort of ooze is summoned depends on what item this enchantment is found on.)Legendary Salt: Your attacks and offensive spells have a chance to significantly slow your enemies.Legendary Vacuum: Your Attacks and offensive spells have a chance to inflict multiple stacks of Vulnerable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sealed_in_Fire",
+          "title": "Sealed in Fire",
+          "text": "Sealed in Fire"
+        },
+        {
+          "target": "/page/Legendary_Ash",
+          "title": "Legendary Ash",
+          "text": "Legendary Ash"
+        },
+        {
+          "target": "/page/Legendary_Dust",
+          "title": "Legendary Dust",
+          "text": "Legendary Dust"
+        },
+        {
+          "target": "/page/Legendary_Ooze",
+          "title": "Legendary Ooze",
+          "text": "Legendary Ooze"
+        },
+        {
+          "target": "/page/Legendary_Salt",
+          "title": "Legendary Salt",
+          "text": "Legendary Salt"
+        },
+        {
+          "target": "/page/Legendary_Vacuum",
+          "title": "Legendary Vacuum",
+          "text": "Legendary Vacuum"
+        }
+      ]
+    },
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

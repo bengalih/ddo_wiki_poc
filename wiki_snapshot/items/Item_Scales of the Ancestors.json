@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Scales of the Ancestors",
+  "page_id": 2750,
+  "revision_id": 634475,
+  "revision_timestamp": "2025-04-22T03:24:09Z",
+  "fetched_at": "2026-08-17T22:51:11.446476+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Scales of the Ancestors\n  | type                     = Scalemail\n  | feat                     = Medium\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +7\n  | maxdexbonus              = 4\n  | acp                      = -2\n  | asf                      = 20%\n  | durability               = 60\n  | material                 = Steel\n  | hardness                 = 11\n  | basevalue                = 805 pp\n  | weight                   = 30 lbs\n  | quest                    = The Lost Seekers\n  | end reward               = yes\n  | mythic                   = false\n  | enhancements             = \n* {{Clicky|Scare|3|3}}\n* {{Enhancement bonus|a|2}}\n* {{Augment|Blue}}\n  | pic                      = Scales of the Ancestors shown.jpg\n  | picdesc                  = Scales of the Ancestors.png\n  | description              = This suit of Scale Mail was often raised over the entrance to Clan Tunnelworm to keep the Gnashtooth clan at bay. The Tunnelworms claimed it was given to them by a powerful Green Dragon.\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Scalemail",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "Scare — 3 Charges (Recharged/Day:3)",
+      "tooltip": "ScareCaster level: 3Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Scare",
+          "title": "Scare",
+          "text": "Scare"
+        }
+      ]
+    },
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

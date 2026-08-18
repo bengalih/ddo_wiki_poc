@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Legendary Emissary's Vestments",
+  "page_id": 63607,
+  "revision_id": 654027,
+  "revision_timestamp": "2025-08-10T18:08:15Z",
+  "fetched_at": "2026-08-17T21:45:17.692221+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Emissary's Vestments\n  | type                     = Clothing\n  | feat                     = Cloth\n  | ac                       = +14\n  | durability               = 290\n  | material                 = Cloth\n  | hardness                 = 30\n  | minlevel                 = 28\n  | released                 = Update 35\n  | revamped                 = Update 50\n  | quest                    = The Newcomers\n  | chest                    = end chest\n  | basevalue                = 11,205 pp 5 gp\n  | weight                   = 0 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|14}}\n* {{Sheltering|33|Enhancement|Physical}}\n* {{Sheltering|16|Insightful|Magical}}\n* {{Stunning|3|Quality}}\n* {{Fortification|142}}\n* {{Augment|Green}}\n  | pic                      = Emissary's Vestments shown.jpg\n  | picdesc                  = Legendary Emissary's Vestments.png\n  | description              = This garment was lost by a long-past emissary of Argonessen.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Clothing",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+14 Enhancement Bonus",
+      "tooltip": "+14 Enhancement Bonus: +14 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+14 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +33",
+      "tooltip": "Physical Sheltering +33: +33 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +33"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Magical Sheltering +16",
+      "tooltip": "Insightful Magical Sheltering +16: +16 Insight bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Insightful Magical Sheltering +16"
+        }
+      ]
+    },
+    {
+      "text": "Quality Stunning +3",
+      "tooltip": "Quality Stunning +3: +3 Quality bonus to the DC of character's Stunning Blow and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stunning",
+          "title": "Stunning",
+          "text": "Quality Stunning +3"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +142%",
+      "tooltip": "Fortification +142%: +142% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +142%"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

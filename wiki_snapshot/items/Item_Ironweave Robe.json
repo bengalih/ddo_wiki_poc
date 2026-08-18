@@ -1,0 +1,92 @@
+{
+  "page_title": "Item:Ironweave Robe",
+  "page_id": 8661,
+  "revision_id": 686696,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:24:59.263443+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Ironweave Robe\n  | type                     = Clothing\n  | feat                     = Cloth\n  | race                     = \n  | ac                       = +5\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtC|BoA}}\n  | epic                     = no\n  | durability               = 105\n  | material                 = Cloth\n  | hardness                 = 12\n  | basevalue                = 4,005 pp 5 gp\n  | weight                   = 0 lbs\n  | quest                    = Plane of Night\n  | chest                    = Raid Warded Chest\n  | enhancements             = \n* {{ArmorBonus|5}}\n* {{Wizardry|112}}\n* {{Spelllore|Lightning|11}}\n* {{SpellPower|Magnetism|77}}\n* {{ProtectionBonus|5}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Ironweave Robe\n  | pic                      = Ironweave Robe shown.jpg\n  | picdesc                  = Ironweave Robe.png\n  | description              = An incredibly rare magical robe forged by the dwarves of the Toldorath clan.\n  | notes                    = \n  | revamped                 = Update 50\n}}\n[[Category:Draconic Raider's Reward Box items]]",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Clothing",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +5",
+      "tooltip": "Armor Bonus +5: This item surrounds the wearer with an invisible but tangible field of force, granting +5 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +5"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry +112",
+      "tooltip": "Wizardry +112: +112 Enhancement bonus to spell points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry +112"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Lore +11%",
+      "tooltip": "Lightning Lore +11: Passive: Your Electricity spells gain a 11% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore +11%"
+        }
+      ]
+    },
+    {
+      "text": "Magnetism +77",
+      "tooltip": "Magnetism +77: Passive: +77 Equipment bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Magnetism +77"
+        }
+      ]
+    },
+    {
+      "text": "Protection +5",
+      "tooltip": "Protection +5: Passive: +5 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +5"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

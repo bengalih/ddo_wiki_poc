@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Gilded Branches",
+  "page_id": 107799,
+  "revision_id": 631081,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:10:41.610956+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Gilded Branches\n  | minlevel                 = 15\n  | type                     = Helmet\n  | race                     = Eladrin Chaosmancer\n  | slot                     = Head\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | cost                     = 6,010 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 68\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|DEX|2|Insightful}}\n* {{Speed|V}}\n  | crafting                 = \n  | description              = \n  | pic                      = Gilded Branches shown.jpg\n  | picdesc                  = Gilded Branches.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helmet",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Insightful Dexterity +2",
+      "tooltip": "Insightful Dexterity +2: This item makes the wearer more nimble and dexterous, granting a +2 Insight bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Insightful Dexterity +2"
+        }
+      ]
+    },
+    {
+      "text": "Speed V",
+      "tooltip": "Speed V: Passive: +25% enhancement bonus to movement speed, +5% enhancement bonus to melee and ranged attack speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Speed",
+          "title": "Speed",
+          "text": "Speed V"
+        }
+      ]
+    }
+  ]
+}

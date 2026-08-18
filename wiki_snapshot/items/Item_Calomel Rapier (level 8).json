@@ -1,0 +1,140 @@
+{
+  "page_title": "Item:Calomel Rapier (level 8)",
+  "page_id": 58360,
+  "revision_id": 672645,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:18:31.635874+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Calomel Rapier}}\n  | damage                   = [1d6] + 2 Pierce, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Rapier\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Martial\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 125\n  | material                 = Steel\n  | hardness                 = 18\n  | minlevel                 = 8\n  | basevalue                = 3,202pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various challenge ingredients\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n{{VaultsOfTheArtificersUpgrade}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = Calomel Rapier (Level 12)\n  | description              = A weapon crafted from durable white Calomel ore is always sheathed in condensed water droplets. It is particularly effective against dragons and fiery creatures.\n  | pic                      = Turbulent Epee shown.jpg <!-- Identical Style -->\n  | picdesc                  = Calomel_Rapier_(level_8).png\n  | tips                     = '''See also:''' {{Item|Calomel Rapier}} - Full table of the  Calomel Rapier\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Rapier",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": "Upgradeable - Tier 1: This item is a Tier 1 upgradable item.",
+      "children": [
+        {
+          "text": "+2 Enhancement Bonus",
+          "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+2 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Dragon Bane 2",
+          "tooltip": "Dragon Bane 2: This weapon is attuned specifically to disrupt those with draconic blood, dealing an additional 2d10 bane damage vs. Dragons.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Dragon Bane 2"
+            }
+          ]
+        },
+        {
+          "text": "Tidal",
+          "tooltip": "Tidal: This weapon is sheathed in water. A tidal weapon deals an extra 1 to 4 points of damage on a successful hit. Creatures with the Fire trait take double this damage instead.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Tidal",
+              "title": "Tidal",
+              "text": "Tidal"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": "Upgradeable - Tier 2: This item is a Tier 2 upgradable item.",
+      "children": [
+        {
+          "text": "+2 Enhancement Bonus → +3 Enhancement Bonus",
+          "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+2 Enhancement Bonus"
+            },
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+3 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Dragon Bane 2 → Dragon Bane 3",
+          "tooltip": "Dragon Bane 2: This weapon is attuned specifically to disrupt those with draconic blood, dealing an additional 2d10 bane damage vs. Dragons.Dragon Bane 3: This weapon is attuned specifically to disrupt those with draconic blood, dealing an additional 3d10 bane damage vs. Dragons.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Dragon Bane 2"
+            },
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Dragon Bane 3"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This item is a Tier 3 upgradable item.",
+      "children": [
+        {
+          "text": "Adds Purple Augment Slot",
+          "tooltip": "Blue, Purple, Red, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Purple Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

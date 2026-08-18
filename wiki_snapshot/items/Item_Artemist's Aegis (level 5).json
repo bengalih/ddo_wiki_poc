@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Artemist's Aegis (level 5)",
+  "page_id": 79186,
+  "revision_id": 628329,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:05:35.055556+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = {{Item|Artemist's Aegis}}\n  | type                     = Large\n  | prof                     = General\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 5\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +4\n  | maxdexbonus              = \n  | dr                       = 8\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = [1d10] + 2\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | durability               = 170\n  | material                 = Wood\n  | hardness                 = 30\n  | basevalue                = 2,404 pp\n  | weight                   = 10 lbs\n  | quest                    = Anniversary Party\n  | turn in                  = {{U30 ingredient|10}}\n  | revamped                 = Update 59\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|s|2}}\n* {{Fortification|59}}\n* {{Save|F|4}}\n* {{Save|Fort|4|Insight}}\n* {{Augment|Purple}}\n  | description              = This hefty shield is quite good at blocking Kookies and errant Darts.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Artemist's Aegis shown.jpg\n  | picdesc                  = Artemist's Aegis (level 5).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Wood",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +59%",
+      "tooltip": "Fortification +59%: +59% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +59%"
+        }
+      ]
+    },
+    {
+      "text": "Fortitude Save +4",
+      "tooltip": "Fortitude Save +4: This item gives a +4 Resistance bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Fortitude Save +4"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Fortitude Save +4",
+      "tooltip": "Insightful Fortitude Save +4: This item gives a +4 Insight bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Insightful Fortitude Save +4"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

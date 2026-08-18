@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Scoundrel's Greatsword",
+  "page_id": 24364,
+  "revision_id": 634524,
+  "revision_timestamp": "2025-04-22T03:27:13Z",
+  "fetched_at": "2026-08-17T22:52:40.661337+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Scoundrel's Greatsword\n  | damage                   = [2d8] + 2 Slash, Chaotic, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Great Sword\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = Two-handed\n  | minlevel                 = 6\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 16\n  | bind                     = {{Bind|BtC|BoA}}\n  | basevalue                = 2,405 pp\n  | weight                   = 8 lbs\n  | released                 = Update 14\n  | quest                    = Three-Barrel Cove (heroic)\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Flaming}}\n* {{Anarchic}}\n* {{Augment|Red}}\n  | description              = The largest of the swords, this weapon can only be used with two hands. Used for when you just can't get enough murder and pillaging done with a smaller weapon.\n  | pic                      = Scoundrel's Greatsword shown.jpg\n  | picdesc                  = Scoundrel's Greatsword.png\n  | tips                     = The {{Item|Pirate Treasure Map}}, the 3 items from the {{Named item sets|Corsair's Cunning}} set, the 4 'Scoundrel's type' weapons and {{Item|Brine Shaman's Staff}} have a chance of appearing in the end reward list of any of the [[Three-Barrel Cove (heroic)]] quests, except [[Guard Duty]]. Every third completion you will receive a complete list.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Flaming",
+      "tooltip": "Flaming: This weapon is sheathed in fire. A flaming weapon deals an extra 1 to 6 points of fire damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flaming#Flaming",
+          "title": "Flaming",
+          "text": "Flaming"
+        }
+      ]
+    },
+    {
+      "text": "Anarchic",
+      "tooltip": "Anarchic: An anarchic weapon is chaotically aligned and infused with the power of chaos. It makes the weapon chaos-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2 to 12 damage against all of lawful alignment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)#Anarchic",
+          "title": "Alignment damage (weapon)",
+          "text": "Anarchic"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

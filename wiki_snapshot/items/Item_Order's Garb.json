@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Order's Garb",
+  "page_id": 74193,
+  "revision_id": 647800,
+  "revision_timestamp": "2025-07-07T01:34:29Z",
+  "fetched_at": "2026-08-17T22:33:58.928607+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Order's Garb\n  | basevalue                = 6,005pp 5gp\n  | ac                       = +5\n  | slot                     = Armor\n  | type                     = Outfit\n  | feat                     = Cloth\n  | durability               = 160\n  | material                 = Cloth\n  | hardness                 = 17\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 42\n  | quest                    = Best Laid Plans\n  | chest                    = End chest\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Fortification|94}}\n* {{Sheltering|19|Enhancement|Physical}}\n* {{SpellPower|Universal Spell Power|8|Exceptional}}\n* {{Spelllore|Universal Spell|3|Exceptional}}\n* {{Augment|Blue}}\n* {{Named item sets|Esoteric Initiate}}\n  | pic                      = Order's Garb shown.jpg\n  | picdesc                  = Order's Garb.png\n  | description              = Balance within the enigma.\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Outfit",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +94%",
+      "tooltip": "Fortification +94%: +94% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +94%"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +19",
+      "tooltip": "Physical Sheltering +19: +19 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +19"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Universal Spell Power +8",
+      "tooltip": "Exceptional Universal Spell Power +8: Passive: +8 Exceptional bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Universal_Spell_Power",
+          "title": "Universal Spell Power",
+          "text": "Exceptional Universal Spell Power +8"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Universal Spell Lore +3%",
+      "tooltip": "Exceptional Universal Spell Lore: 3% Exceptional bonus to Universal Spell Lore.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Exceptional Universal Spell Lore +3%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Esoteric Initiate",
+      "tooltip": "Esoteric Initiate: While wearing three items from the Esoteric Initiate set, you gain:+25 Artifact bonus to Universal Spell Power+2 Artifact bonus to Intelligence, Wisdom, and Charisma+2 Artifact bonus to Spell DCs+10 Magical Resistance Rating Cap",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Esoteric_Initiate",
+          "title": "Named item sets",
+          "text": "Esoteric Initiate"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

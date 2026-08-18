@@ -1,0 +1,92 @@
+{
+  "page_title": "Item:Legendary Frostflame Docent",
+  "page_id": 101411,
+  "revision_id": 632306,
+  "revision_timestamp": "2025-04-22T00:55:48Z",
+  "fetched_at": "2026-08-17T21:49:04.081913+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Frostflame Docent\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+16|m=+7|c=+2}}\n  | durability               = 360\n  | material                 = Gem\n  | hardness                 = 41\n  | minlevel                 = 31\n  | released                 = Update 59\n  | quest                    = Attack on Stormreach\n  | end reward               = yes\n  | basevalue                = 12,410pp\n  | weight                   = \n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Spelllore|Fire|22}}\n* {{Spelllore|Ice|22}}\n* {{Absorption|Fire|36}}\n* {{Absorption|Cold|36}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Frostflame Docent shown.jpg\n  | picdesc                  = Legendary Frostflame Docent.png\n  | description              = Droaam ogre magi have enchanted these docents to make the fire and cold magic of the wearer more deadly. The enchantments also protect the wearer from those same elemental forces.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 31,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fire Lore +22%",
+      "tooltip": "Fire Lore +22: Passive: Your Fire spells gain a 22% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore +22%"
+        }
+      ]
+    },
+    {
+      "text": "Ice Lore +22%",
+      "tooltip": "Ice Lore +22: Passive: Your Cold spells gain a 22% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Ice Lore +22%"
+        }
+      ]
+    },
+    {
+      "text": "Fire Absorption +36%",
+      "tooltip": "Fire Absorption +36%: Passive: 36% Enhancement Bonus to Fire Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Fire Absorption +36%"
+        }
+      ]
+    },
+    {
+      "text": "Cold Absorption +36%",
+      "tooltip": "Cold Absorption +36%: Passive: 36% Enhancement Bonus to Cold Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Cold Absorption +36%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

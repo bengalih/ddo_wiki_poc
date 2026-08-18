@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Spider's Bite",
+  "page_id": 126627,
+  "revision_id": 703001,
+  "revision_timestamp": "2026-08-02T12:28:25Z",
+  "fetched_at": "2026-08-17T23:04:11.565181+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Spider's Bite\n  | damage                   = 1.50[1d12] + 5 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Great Axe\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = Two-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 210\n  | material                 = Steel\n  | hardness                 = 21\n  | minlevel                 = 11\n  | basevalue                = 4,402pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 81\n  | quest                    = Flocked Together\n  | chest                    = [[The Decomposter]]'s chest\n  | mythic                   = yes\n  | enhancements             = \n* {{Enhancement_bonus|w|5}}\n* {{Poisonous|3}}\n* {{Toxic|7}}\n* {{Nightshade Venom|45}}\n* {{Vampirism|1}}\n* {{Augment|Red}}\n  | crafting                 =\n  | craftingupgrade          =\n  | description              = This axe cleaves deep and leaves its poison behind.\n  | pic                      = Spider's Bite shown.jpg\n  | picdesc                  = Spider's Bite.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Poisonous 3",
+      "tooltip": "Poisonous 3: This effect causes the edges of this weapon to drip with a vile venom, dealing 3d6 poison damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Poisonous",
+          "title": "Poisonous",
+          "text": "Poisonous 3"
+        }
+      ]
+    },
+    {
+      "text": "Toxic 7",
+      "tooltip": "Toxic 7: This effect causes the edges of this weapon to drip with a vile venom, dealing 7d6 poison damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Toxic",
+          "title": "Toxic",
+          "text": "Toxic 7"
+        }
+      ]
+    },
+    {
+      "text": "Nightshade Venom 45",
+      "tooltip": "Nightshade Venom 45: Any creature struck by this weapon must succeed on a Difficulty Check 45 Fortitude save or fall unconscious. The target may attempt a new save to end the effect every several seconds; otherwise the sleep lasts for 20 seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nightshade_Venom",
+          "title": "Nightshade Venom",
+          "text": "Nightshade Venom 45"
+        }
+      ]
+    },
+    {
+      "text": "Vampirism 1",
+      "tooltip": "Vampirism 1: This weapon thirsts for the blood of your enemies, healing you for +1d2 hit points with each hit.Note: internal cooldown of 1 second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Vampirism 1"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

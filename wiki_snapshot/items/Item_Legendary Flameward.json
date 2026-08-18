@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Flameward",
+  "page_id": 91310,
+  "revision_id": 689403,
+  "revision_timestamp": "2026-06-19T15:16:40Z",
+  "fetched_at": "2026-08-17T21:48:37.206095+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Flameward\n  | minlevel                 = 30\n  | type                     = Club\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damage                   = 5[1d6+2] + 15 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 350\n  | material                 = Wood\n  | hardness                 = 35\n  | cost                     = 12,000 pp 1 cp\n  | weight                   = 3 lbs\n  | released                 = Update 50\n  | revamped                 = Update 80\n  | quest                    = Legendary Crafting\n  | legendary                = Epic Flameward\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Stat|Charisma|13}}\n* {{Spell Focus|Evocation|8}}\n* {{Skills|Use Magic Device|5}}\n* {{Absorption|Fire|35}}\n* {{Elemental Resistance|Fire|51}}\n* {{Stat|Charisma|1|Exceptional}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | description              = A small implement that has been imbued with magic to shield the wielder from extreme heat. Apparently that protection was not quite enough to preserve its previous owner, but at least it also makes the wielder glowingly confident.\n  | pic                      = Flameward shown.jpg\n  | picdesc                  = Legendary Flameward.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +13",
+      "tooltip": "Charisma +13: This item makes the wearer have more flair, granting a +13 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +13"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus +8",
+      "tooltip": "Evocation Focus +8: +8 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus +8"
+        }
+      ]
+    },
+    {
+      "text": "Use Magic Device +5",
+      "tooltip": "Use Magic Device +5: Passive: +5 Competence bonus to the Use Magic Device skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Use_Magic_Device",
+          "title": "Use Magic Device",
+          "text": "Use Magic Device +5"
+        }
+      ]
+    },
+    {
+      "text": "Fire Absorption +35%",
+      "tooltip": "Fire Absorption +35%: Passive: 35% Enhancement Bonus to Fire Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Fire Absorption +35%"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +51",
+      "tooltip": "Fire Resistance +51: Passive: +51 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +51"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Charisma +1",
+      "tooltip": "Exceptional Charisma +1: This item makes the wearer have more flair, granting a +1 Exceptional bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Exceptional Charisma +1"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

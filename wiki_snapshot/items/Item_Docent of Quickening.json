@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Docent of Quickening",
+  "page_id": 8180,
+  "revision_id": 629556,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:36:00.678851+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Docent of Quickening\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+16|m=+7|c=+2}}\n  | minlevel                 = 12\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 195\n  | material                 = Gem\n  | hardness                 = 22\n  | basevalue                = 4,810 pp\n  | weight                   = 0 lbs\n  | quest                    = Litany of the Dead\n  | chest                    = any boss end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Striding|25}}\n* {{Alacrity|Melee|10}}\n* {{Alacrity|Ranged|10}}\n* {{Augment|Blue}}\n  | pic                      = Filtration Module shown.jpg <!--same style and color-->\n  | picdesc                  = Docent of Quickening.png\n  | description              = Mercury flows freely through a series of hollow crystals in this docent.\n  | notes                    = [[Melee Alacrity]] and [[Ranged Alacrity]] is an Enhancement bonus which does not stack with [[Haste]].\n}}\n[[{{#switch:12|0 = Category:Docents with no minimum level|#default = Category:Minimum level 12 docents}}]]",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Striding +25%",
+      "tooltip": "Striding +25%: This item makes you more fleet of foot, giving you a 25% Enhancement bonus your movement speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Striding",
+          "title": "Striding",
+          "text": "Striding +25%"
+        }
+      ]
+    },
+    {
+      "text": "Melee Alacrity 10%",
+      "tooltip": "Melee Alacrity 10%: Gain 10% Enhancement bonus to Melee attack speed. Does not stack with the Haste spell.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Melee_Alacrity",
+          "title": "Melee Alacrity",
+          "text": "Melee Alacrity 10%"
+        }
+      ]
+    },
+    {
+      "text": "Ranged Alacrity 10%",
+      "tooltip": "Ranged Alacrity 10%: Gain 10% Enhancement bonus to Ranged attack speed. Does not stack with the Haste spell.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ranged_Alacrity",
+          "title": "Ranged Alacrity",
+          "text": "Ranged Alacrity 10%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

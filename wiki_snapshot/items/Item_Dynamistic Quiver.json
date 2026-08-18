@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Dynamistic Quiver",
+  "page_id": 53612,
+  "revision_id": 629693,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:41:15.762257+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Quiver \n  | name                     = Dynamistic Quiver\n  | type                     = Quiver\n  | minlevel                 = 14\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = \n  | material                 = None\n  | hardness                 = \n  | cost                     = 6,100 pp\n  | weight                   = 1.00 lbs\n  | released                 = Update 28\n  | quest                    = Grim and Barett\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest (heroic)\n  | capacity                 = 5\n  | maxstack                 = 3,000\n  | enhancements             = \n* {{Doubleshot|5}}\n* {{DmgPower|Ranged|2}}\n  | description              = With great power, comes great destruction.\n  | icon pic                 = Icon Item Slot Quiver.png\n  | pic                      = Quiver Generic Large Wide.png\n  | picdesc                  = Dynamistic Quiver.png\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "material": "None",
+  "item_type": "Quiver",
+  "item_class": "Quiver",
+  "slot": "Quiver",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "Doubleshot 5%",
+      "tooltip": "Doubleshot 5%: Passive: 5% Enhancement bonus to Doubleshot. (Doubleshot is a chance to score an additional hit with a ranged attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doubleshot",
+          "title": "Doubleshot",
+          "text": "Doubleshot 5%"
+        }
+      ]
+    },
+    {
+      "text": "Ranged Power +2",
+      "tooltip": "Ranged Power +2: This item provides a +2 Enhancement bonus to Ranged Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ranged_Power",
+          "title": "Ranged Power",
+          "text": "Ranged Power +2"
+        }
+      ]
+    }
+  ]
+}

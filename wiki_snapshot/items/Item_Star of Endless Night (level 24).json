@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Star of Endless Night (level 24)",
+  "page_id": 72604,
+  "revision_id": 665143,
+  "revision_timestamp": "2025-11-03T02:14:48Z",
+  "fetched_at": "2026-08-17T23:05:23.715214+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | sentience                = no\n  | name                     = {{Item|Star of Endless Night}}\n  | damage                   = 3.80[1d8] + 7 Bludgeon, Evil, Magic\n  | crit                     = 20 / x2\n  | type                     = Morningstar\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 24\n  | durability               = 305\n  | material                 = Steel\n  | hardness                 = 34\n  | cost                     = 9620 pp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = The Night Revels\n  | chest                    = \n  | end reward               = \n  | turn in                  = {{Item|Star of Endless Night (level 20)}}{{Br}}{{Tab}}and {{NightRevelsRecipe|ing_chocolate= 200|ing_almond= 60|ing_cinnamon= 100}} at [[Joe Candymaker]]\n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|7}}\n* {{Unholy|5|1}}\n* {{Smashing|12}}\n* {{Piercing|5}}\n* {{Tactics|Combat Mastery|9}}\n  | mythic                   = no\n  | crafting                 = The Night Revels\n  | craftingupgrade          = Star of Endless Night (level 28)\n  | pic                      = Coronation shown.jpg\n  | picdesc                  = Star of Endless Night (level 24).png\n  | description              = This Morningstar holds an aspect of the Endless Night deep within it.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Morningstar",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Unholy 5",
+      "tooltip": "Unholy 5: This weapon is used by the wicked to smite the pure, dealing an additional 5d6 evil damage on each hit. This effect makes the weapon evil aligned. Good characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Unholy 5"
+        }
+      ]
+    },
+    {
+      "text": "Smashing 12",
+      "tooltip": "Smashing 12: The edges of this weapon are blunted, dealing an additional 12d6 bludgeoning damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Smashing",
+          "title": "Smashing",
+          "text": "Smashing 12"
+        }
+      ]
+    },
+    {
+      "text": "Piercing 5",
+      "tooltip": "Piercing 5: The edges of this weapon have serrated edges, dealing an additional 5d6 piercing damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Piercing",
+          "title": "Piercing",
+          "text": "Piercing 5"
+        }
+      ]
+    },
+    {
+      "text": "Combat Mastery +9",
+      "tooltip": "Combat Mastery +9: +9 Enhancement bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combat_Mastery",
+          "title": "Combat Mastery",
+          "text": "Combat Mastery +9"
+        }
+      ]
+    }
+  ]
+}

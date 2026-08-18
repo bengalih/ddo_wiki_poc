@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Spectre Deflector (level 4)",
+  "page_id": 71470,
+  "revision_id": 662500,
+  "revision_timestamp": "2025-10-05T18:41:42Z",
+  "fetched_at": "2026-08-17T23:03:55.373702+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = {{Item|Spectre Deflector}}\n  | type                     = Buckler\n  | prof                     = General\n  | reqtrait                 = \n  | minlevel                 = 4\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +3\n  | maxdexbonus              = \n  | dr                       = 3\n  | acp                      = 0\n  | asf                      = 0\n  | dmg                      = [1d6] + 2\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attmod                   = STR\n  | damagemod                = STR\n  | durability               = 115<!-- previously 95 -->\n  | material                 = Steel\n  | hardness                 = 14<!-- previously 12 -->\n  | basevalue                = 16,015gp\n  | weight                   = 5 lbs\n  | quest                    = The Night Revels\n  | turn in                  = {{NightRevelsRecipe|ing_chocolate= 60|ing_apple= 20|ing_caramel= 10}} at [[Joe Candymaker]]\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|s|2}}\n* {{Protection from Evil}}\n* {{Ghostbane|2}}\n* {{Lifesealed|15}}\n* {{Augment|Blue}}\n  | crafting                 = The Night Revels\n  | craftingupgrade          = Spectre Deflector (level 8)\n  | description              = Deflects all spectres.\n  | pic                      = Swashbuckler shown.jpg\n  | picdesc                  = Spectre Deflector (level 4).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Steel",
+  "item_type": "Buckler",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Protection from Evil",
+      "tooltip": "Protection from Evil: Passive: You gain the benefit of the spell Protection from Evil.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection_from_Evil",
+          "title": "Protection from Evil",
+          "text": "Protection from Evil"
+        }
+      ]
+    },
+    {
+      "text": "Ghostbane 2",
+      "tooltip": "Ghostbane 2: This weapon is attuned specifically to hunt the risen dead, dealing an additional 2d10 bane damage vs. Undead monsters.Passive: This weapon has Ghost Touch, and bypasses ethereal monster's 50% chance to evade bane damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostbane",
+          "title": "Ghostbane",
+          "text": "Ghostbane 2"
+        }
+      ]
+    },
+    {
+      "text": "Lifesealed +15",
+      "tooltip": "Lifesealed +15: You are immune to magical effects that cause instant death. In addition, you have a +15% enhancement bonus to Negative Energy Absorption.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lifesealed",
+          "title": "Lifesealed",
+          "text": "Lifesealed +15"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

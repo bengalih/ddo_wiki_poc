@@ -1,0 +1,85 @@
+{
+  "page_title": "Item:Chulchannad's Claw",
+  "page_id": 17880,
+  "revision_id": 682835,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:21:40.996142+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Rune Arm\n  | name                     = Chulchannad's Claw\n  | reqtrait                 = [[Rune Arm Use | Artificer Rune Arm Use]]\n  | minlevel                 = 5\n  | durability               = 95\n  | material                 = Gem\n  | hardness                 = 13\n  | released                 = Update 5\n  | revamped                 = Update 11\n  | quest                    = The Maleficent Cabal\n  | chest                    = \n  | end reward               = yes\n  | turn in                  = \n  | basevalue                = 2,375 pp\n  | weight                   = 0.25 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | spell                    = Cold Bolts\n  | target                   = Foe, Directional, Breakable\n  | school                   = Evocation\n  | sr                       = no\n  | spell desc               = Fires ice crystals that damage your enemies.  At higher charge levels multiple bolts are rapidly fired.  Opponents struck by the crystals receive a Fortitude save for half damage.\n  | max charge               = 2\n  | imbue                    = Cold I\n  | imbue die                = 1d4\n  | imbue dmg                = cold\n  | mythic                   = no\n  | enhancements             = \n* [[Cold Bolts]]\n* {{Absorption|cold|10}}\n* {{Elemental Resistance|Cold|5|insight}} \n  | crafting                 = Essence Crafting\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | pic                      = Cold Bolts icon.png\n  | picdesc                  = Chulchannad's Claw.png\n  | description              = Chulchannad, Herald of Winter, was an Ice Devil humbled by Malicia's plans. Part of his essence was used to power this Rune Arm.\n  | tips                     = \nDisjuncted version: [[Image:Chulchannad's Claw disjuncted.png]]\n}}",
+  "item_template": "Named item",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Maximum Charge Tier: II",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maximum_Charge_Tier",
+          "title": "Maximum Charge Tier",
+          "text": "Maximum Charge Tier"
+        }
+      ]
+    },
+    {
+      "text": "Cold Bolts",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Bolts",
+          "title": "Cold Bolts",
+          "text": "Cold Bolts"
+        }
+      ]
+    },
+    {
+      "text": "Cold Absorption +10%",
+      "tooltip": "Cold Absorption +10%: Passive: 10% Enhancement Bonus to Cold Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Cold Absorption +10%"
+        }
+      ]
+    },
+    {
+      "text": "Inherent Cold Resistance - 5",
+      "tooltip": "Inherent Cold Resistance - 5: This item provides a +5 Insight bonus to your Cold resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Resistance#Inherent_Resistances",
+          "title": "Cold Resistance",
+          "text": "Inherent Cold Resistance - 5"
+        }
+      ]
+    },
+    {
+      "text": "Rune Arm Imbue: Cold I",
+      "tooltip": "Rune Arm Imbue: Cold I: Wearing this Rune Arm will imbue any weapon you wield, dealing 1d4 points of cold damage per hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rune_Arm_Imbue",
+          "title": "Rune Arm Imbue",
+          "text": "Rune Arm Imbue"
+        }
+      ]
+    },
+    {
+      "text": "Craftable Rune Arm",
+      "tooltip": "This Rune Arm is craftable and can be customized using recipes at standard crafting devices after disjuncting.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Craftable_Rune_Arm",
+          "title": "Craftable Rune Arm",
+          "text": "Craftable Rune Arm"
+        }
+      ]
+    }
+  ]
+}

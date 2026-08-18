@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Legendary Coronation Shield",
+  "page_id": 92723,
+  "revision_id": 631983,
+  "revision_timestamp": "2025-04-22T00:34:05Z",
+  "fetched_at": "2026-08-17T21:38:29.434520+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Legendary Coronation Shield\n  | minlevel                 = 30\n  | type                     = Large\n  | prof                     = General\n  | sb                       = +22\n  | maxdexbonus              = None\n  | dr                       = 21\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = 5[1d10+6] + 15 Bludgeon, Good, Magic\n  | crit                     = 18-20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 375\n  | material                 = Dwarven Iron\n  | hardness                 = 40\n  | cost                     = 12,002 pp\n  | weight                   = 15 lbs\n  | released                 = \n  | quest                    = \n  | legendary                = Epic Coronation Shield\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Impact}}\n* {{Blast|Holy|6}}\n* {{Blinding Fear}}\n* {{Guard|Epic Paragon Light}}\n* {{Guard|Legendary Brilliance}}\n* {{Named item sets|Legendary Oasis of Morality}}\n* {{Augment|Blue}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | description              = 12 shields were crafted for the personal guard of a long forgotten drow chieftain to use during his coronation ceremony. Only this one remains.\n  | pic                      = Coronation Shield shown.jpg\n  | picdesc                  = Legendary Coronation Shield.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Dwarven Iron",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Holy Blast 6",
+      "tooltip": "Holy Blast 6: This weapon sings of virtue, dealing 6d6 Good damage on a successful hit, and an additional 6d6 Good damage on a critical hit. This effect makes the weapon good aligned.Evil characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Holy Blast 6"
+        }
+      ]
+    },
+    {
+      "text": "Blinding Fear",
+      "tooltip": "Blinding Fear: On Hit: Blinds and Shakens foe for 6 seconds, 12 second cool down.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blinding_Fear",
+          "title": "Blinding Fear",
+          "text": "Blinding Fear"
+        }
+      ]
+    },
+    {
+      "text": "Epic Paragon Light Guard",
+      "tooltip": "Epic Paragon Light Guard: When hit or missed in combat, the attacking creature takes 8d8 Light damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Epic_Paragon_Light_Guard",
+          "title": "Epic Paragon Light Guard",
+          "text": "Epic Paragon Light Guard"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Brilliance Guard",
+      "tooltip": "Legendary Brilliance Guard: This item is imbued with a brilliant, radiant power. When the wearer of this item is successfully attacked in melee, the attacker has a chance of becoming blinded.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Legendary_Brilliance_Guard",
+          "title": "Legendary Brilliance Guard",
+          "text": "Legendary Brilliance Guard"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Oasis of Morality",
+      "tooltip": "Legendary Oasis of Morality: 2 Pieces Equipped:+6% Artifact bonus to Positive Spellcrit Chance+30 Artifact bonus to Positive Spellpower+15% Artifact bonus to Fortification Bypass",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Legendary_Oasis_of_Morality",
+          "title": "Named item sets",
+          "text": "Legendary Oasis of Morality"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

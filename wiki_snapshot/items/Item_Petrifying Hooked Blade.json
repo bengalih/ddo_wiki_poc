@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Petrifying Hooked Blade",
+  "page_id": 19790,
+  "revision_id": 633941,
+  "revision_timestamp": "2025-04-22T02:48:03Z",
+  "fetched_at": "2026-08-17T22:37:29.522889+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Petrifying Hooked Blade\n  | type                     = Khopesh\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Exotic\n  | minlevel                 = 12\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = 1.40[1d8] + 5 Slash, Magic\n  | crit                     = 19-20 / x3\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 185\n  | material                 = Steel\n  | hardness                 = 22\n  | basevalue                = 4,802pp\n  | weight                   = 12 lbs\n  | revamped                 = Update 49\n  | quest                    = Cauldron of Sora Katra\n  | chest                    = upgraded version of [[Hooked Blade]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Limb Chopper}}\n* {{Maiming|3}}\n* {{Bane|Human|3}}\n* {{Stone Prison}}\n* {{Augment|Red}}\n  | description              = This vicious, curved sword, capable of slicing straight through enemy limbs, can now cause its wielder's foes to turn solidly to stone.\n  | pic                      = Petrifying Hooked Blade shown.jpg\n  | picdesc                  = Petrifying Hooked Blade.png\n  | crafting                 = \n  | craftingupgrade          = \n  | craftingnotes            = \n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Khopesh",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Limb Chopper",
+      "tooltip": "Limb Chopper: This potent and feared ability allows the weapon to sever the limbs of those it strikes. On an attack roll of 20 which is confirmed as a critical hit, the weapon severs an opponent's limb from its body. Some creatures, including many aberrations and all oozes, have no limbs. Others, such as golems and undead creatures, are not affected by the loss of their limbs. Most other creatures, however, have their movement slowed 75% and attacks slowed by 50% when a limb is cut off.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Limb_Chopper",
+          "title": "Limb Chopper",
+          "text": "Limb Chopper"
+        }
+      ]
+    },
+    {
+      "text": "Maiming 3",
+      "tooltip": "Maiming: This weapon has a twisted haft or grip and spikes along its blade, head, or point. When you score a critical hit with this weapon, it does an additional +3d8 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maiming",
+          "title": "Maiming",
+          "text": "Maiming 3"
+        }
+      ]
+    },
+    {
+      "text": "Human Bane 3",
+      "tooltip": "Human Bane 3: This weapon is attuned specifically to hunt those with diversity and ambition, dealing an additional 3d10 bane damage vs. Humans.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Human Bane 3"
+        }
+      ]
+    },
+    {
+      "text": "Stone Prison",
+      "tooltip": "Stone Prison: This weapon is invested with the power of the earth. On an attack roll of 20 which is confirmed as a critical hit it will attempt to turn the target to stone, as the Flesh to Stone spell. A successful Fortitude save (DC 27) negates this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stone_Prison",
+          "title": "Stone Prison",
+          "text": "Stone Prison"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

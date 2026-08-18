@@ -1,0 +1,64 @@
+{
+  "page_title": "Item:Stonering",
+  "page_id": 77436,
+  "revision_id": 635074,
+  "revision_timestamp": "2025-04-22T04:03:37Z",
+  "fetched_at": "2026-08-17T23:06:34.970687+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Stonering\n  | minlevel                 = 1\n  | type                     = Ring\n  | race                     = \n  | slot                     = Finger\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 110\n  | material                 = Gem\n  | hardness                 = 21\n  | cost                     = 401 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | released                 = Update 44\n  | quest                    = Caged Beast\n  | end reward               = <!-- yes if end reward; leave blank otherwise -->\n  | turn in                  = <!-- Leave blank if not used-->\n  | chest                    = End chest\n  | enhancements             = \n* {{SpellPower|Corrosion|38}}\n* {{Wizardry|+19}}\n* {{Augment|blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Ring Generic Jade.png\n  | picdesc                  = Stonering.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "enchantments": [
+    {
+      "text": "Corrosion +38",
+      "tooltip": "Corrosion +38: Passive: +38 Equipment bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Corrosion +38"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry +19",
+      "tooltip": "Wizardry +19: +19 Enhancement bonus to spell points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry +19"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

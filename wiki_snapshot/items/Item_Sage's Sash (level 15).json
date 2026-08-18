@@ -1,0 +1,29 @@
+{
+  "page_title": "Item:Sage's Sash (level 15)",
+  "page_id": 39289,
+  "revision_id": 650223,
+  "revision_timestamp": "2025-07-26T19:12:59Z",
+  "fetched_at": "2026-08-17T22:50:07.723147+00:00",
+  "categories": [],
+  "wikitext": "{{Non-food|WAI=true}}\n{{Named item|Clothing\n  | name                     = Sage's Sash\n  | type                     = Belt\n  | class                    = Clothing\n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 90\n  | material                 = Leather\n  | hardness                 = 18\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 19\n  | quest                    = A Lesson in Deception\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n*{{Wizardry|AM}}\n  | description              = \n  | pic                      = Belt Generic Pantheon.png\n  | picdesc                  = Sage's Sash (Level 15).png\n}}",
+  "item_template": "Non-food",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Archmagi",
+      "tooltip": "Archmagi: This item grants the wearer +200 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Archmagi"
+        }
+      ]
+    }
+  ]
+}

@@ -99,29 +99,29 @@ button {
     padding: 6px 15px;
 }
 
-.enhancement-filters {
+.enchantment-filters {
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
-.enhancement-filter {
+.enchantment-filter {
     margin-bottom: 8px;
 }
 
-.enhancement-filter select,
-.enhancement-filter input {
+.enchantment-filter select,
+.enchantment-filter input {
     margin-right: 5px;
 }
 
-.enhancement-value {
+.enchantment-value {
     min-width: 150px;
 }
 
-.remove-enhancement {
+.remove-enchantment {
     padding: 4px 8px;
 }
 
-.add-enhancement {
+.add-enchantment {
     margin-top: 5px;
 }
 
@@ -142,24 +142,47 @@ th {
     background: #eee;
 }
 
-.enhancement {
+.enchantment {
     white-space: nowrap;
 }
 
-.enhancement-tier {
+.enchantment-tier {
     margin: 4px 0 4px 12px;
     padding-left: 8px;
     border-left: 2px solid #999;
 }
 
-.enhancement-tier-label {
+.enchantment-tier-label {
     font-weight: bold;
     font-style: italic;
     color: #555;
 }
 
-.enhancement-tier-item {
+.enchantment-tier-item {
     margin-left: 12px;
+}
+
+.enchantment-tree {
+    list-style: none;
+    margin: 0;
+    padding-left: 16px;
+}
+
+.enchantment-tree > li {
+    margin: 2px 0;
+}
+
+.tree-children {
+    list-style: none;
+    margin: 0;
+    padding-left: 16px;
+    border-left: 2px solid #ddd;
+}
+
+.tree-tooltip {
+    color: #888;
+    cursor: help;
+    margin-left: 4px;
 }
 
 .pagination {

@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Flaming Forum Post (level 25)",
+  "page_id": 73502,
+  "revision_id": 689388,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:06:49.292561+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Flaming Forum Post}}\n  | damage                   = 4[1d6] + 7 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 25\n  | durability               = 300\n  | material                 = Wood\n  | hardness                 = 35\n  | basevalue                = 10,000 pp 1 cp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Anniversary Party\n  | chest                    = \n  | end reward               = \n  | turn in                  = {{U30 ingredient|80}}\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|7|25}}\n* {{SpellPower|Combustion|128}}\n* {{Spelllore|Fire|19}}\n* {{Spell Focus|Evocation|3|Ins}}\n* {{Wizardry|236}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This post, once part of a fence around an old speaking forum in Stormreach, contains some sick burns.\n  | pic                      = Forum Post shown.jpg\n  | picdesc                  = Flaming Forum Post (level 25).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +25",
+      "tooltip": "Spellcasting Implement +25: Passive: +25 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +25"
+        }
+      ]
+    },
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Combustion +128",
+      "tooltip": "Combustion +128: Passive: +128 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +128"
+        }
+      ]
+    },
+    {
+      "text": "Fire Lore +19%",
+      "tooltip": "Fire Lore +19: Passive: Your Fire spells gain a 19% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore +19%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Evocation Focus +3",
+      "tooltip": "Insightful Evocation Focus +3: +3 Insight bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Evocation Focus +3"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry +236",
+      "tooltip": "Wizardry +236: +236 Enhancement bonus to spell points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry +236"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

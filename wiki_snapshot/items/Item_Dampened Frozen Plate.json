@@ -1,0 +1,44 @@
+{
+  "page_title": "Item:Dampened Frozen Plate",
+  "page_id": 18371,
+  "revision_id": 629304,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:29:52.966074+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Dampened Frozen Plate\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | race                     = \n  | minlevel                 = 6\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = 15\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 96\n  | material                 = Steel\n  | hardness                 = 11\n  | basevalue                = 150pp\n  | weight                   = 50 lbs\n  | quest                    = Into the Deep\n  | chest                    = End chest\n  | released                 = Update 6\n  | revamped                 = Update 50\n  | endreward                = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{Dampened}}\n  | crafting                 = Altar of Vulkoor\n  | craftingupgrade          = Frozen Plate\n  | pic                      = Frozen Plate shown.jpg\n  | picdesc                  = Dampened Frozen Plate.png\n  | description              = A sturdy suit of armor covered in a thin layer of ice and infused with the power of cold. It seems to have been left on the ocean floor and taken on the properties of the freezing, forbidding depths.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Dampened",
+      "tooltip": "Dampened: This item has been in a wet environment for too long and its original power has been weakened. Combine it with a Token of Vulkoor at the Altar of Vulkoor in the Red Fens to restore it back to its former glory.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dampened",
+          "title": "Dampened",
+          "text": "Dampened"
+        }
+      ]
+    }
+  ]
+}

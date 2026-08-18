@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Jeweled Hammer",
+  "page_id": 13195,
+  "revision_id": 631619,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:25:43.838040+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Jeweled Hammer\n  | prof                     = Martial\n  | damage                   = 1.50[1d10] + 4 Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | type                     = War Hammer\n  | class                    = Bludgeoning\n  | minlevel                 = 8\n  | hand                     = One-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | bind                     = {{Bind|BtA|boa}}\n  | durability               = 145\n  | material                 = Steel \n  | hardness                 = 18\n  | basevalue                = 3,201pp 2gp\n  | weight                   = 5 lbs\n  | quest                    = The Abandoned Excavation\n  | end reward               = yes\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement bonus|w|4}}\n* {{Skills|Command}}\n* {{Impact|I}}\n* {{Augment|Red}}\n  | description              = This hammer is encrusted with precious gems and inlaid with mithral, silver and gold.\n  | tips                     = \n  | pic                      = Jeweled Hammer shown.jpg\n  | picdesc                  = Jeweled Hammer.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "War Hammer",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Command +2",
+      "tooltip": "Command: Passive: +2 competence bonus on Charisma based skill checks. Command armor and command shields make their owners very noticeable, imposing a -6 penalty on Hide checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Command_(enchantment)",
+          "title": "Command (enchantment)",
+          "text": "Command +2"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

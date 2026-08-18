@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Giantcraft Plate Armor",
+  "page_id": 33426,
+  "revision_id": 668407,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:10:21.384447+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Giantcraft Plate Armor\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | race                     = \n  | minlevel                 = 10\n  | bind                     = {{Bind|BtC|BoA}}\n  | epic                     = no\n  | ac                       = +16\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 196\n  | material                 = Adamantine\n  | hardness                 = 31\n  | basevalue                = 5,650pp\n  | weight                   = 50 lbs\n  | released                 = Update 17\n  | quest                    = Giantcraft Armor\n  | chest                    = \n  | end reward               = \n  | turn in                  = 10 [[Ancient Giant Relic]]s\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Guard|haste}}\n* {{Guard|vengeful|guard=off}}\n* {{RelentlessFury}}\n* {{Mat|Adamantine|a|3}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Giantcraft Plate Armor shown.jpg\n  | picdesc                  = Giantcraft Plate Armor.png\n  | description              = Plate armor imbued with the magic of the ancient giant empire.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Adamantine",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Haste Guard",
+      "tooltip": "Haste Guard: When you are hit by enemies, there is a chance you will be Hasted, quickening your attack and movement speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Haste_Guard",
+          "title": "Haste Guard",
+          "text": "Haste Guard"
+        }
+      ]
+    },
+    {
+      "text": "Vengeful",
+      "tooltip": "Vengeful: When its wielder is hit in battle, this weapon has a 10% chance to cause him or her to become full of anger and go into a Rage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vengeful",
+          "title": "Vengeful",
+          "text": "Vengeful"
+        }
+      ]
+    },
+    {
+      "text": "Relentless Fury",
+      "tooltip": "Relentless Fury: While this item is equipped, any killing blows you strike against enemies may drive you into a furious rage, providing a 5% Enhancement damage bonus to your melee, ranged and unarmed attacks for 30 seconds. Slaying weaker opponents has a reduced chance of producing this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Relentless_Fury",
+          "title": "Relentless Fury",
+          "text": "Relentless Fury"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Heavy armor made from adamantine grants its wearer damage reduction of 3/-.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    }
+  ]
+}

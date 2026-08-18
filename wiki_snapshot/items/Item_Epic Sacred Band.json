@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Epic Sacred Band",
+  "page_id": 12022,
+  "revision_id": 630350,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:54:43.182371+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Epic Sacred Band\n  | type                     = Ring\n  | minlevel                 = 20\n  | slot                     = Finger\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 210\n  | material                 = Steel\n  | hardness                 = 30\n  | basevalue                = 8005pp\n  | weight                   = 0.10 lbs\n  | quest                    = Altar of Epic Rituals\n  | chest                    = {{Item|Sacred Band}}\n  | released                 = Update 6\n  | epic                     = Sacred Band\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|WIS|+9}}\n* {{Skills|Heal|+17}}\n* {{Spell Power|Devotion|111}}\n* {{Bonus Turning|Turning}}\n* {{Augment|Yellow}}\n* {{Augment|Colorless}}\n* {{Named item sets|Epic Divine Blessing}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Sacred Band\n  | description              = Though used primarily by drow ascetics, this ring will aid any healer in his or her duties.\n  | pic                      = Ring Generic Chaos.png\n  | picdesc                  = Epic Sacred Band.png\n  | tips                     = \n}}\n[[Category:The Red Fens epic items]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Wisdom +9",
+      "tooltip": "Wisdom +9: This item makes the wearer more in tune with her surroundings, granting a +9 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +9"
+        }
+      ]
+    },
+    {
+      "text": "Heal +17",
+      "tooltip": "Heal +17: Passive: +17 Competence bonus to the Heal skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heal_(skill)",
+          "title": "Heal (skill)",
+          "text": "Heal +17"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +111",
+      "tooltip": "Devotion +111: Passive: +111 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +111"
+        }
+      ]
+    },
+    {
+      "text": "Turning",
+      "tooltip": "Turning : This will increase the total number of Turn Undead attempts you can use by 3. However, these additional Turn Undead attempts will only take effect after the wielder rests.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Turning",
+          "title": "Turning",
+          "text": "Turning"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Epic Divine Blessing",
+      "tooltip": "Epic Divine Blessing: 2 Pieces Equipped:+4% Artifact bonus to Light, Alignment, and Positive Spellcrit Chance+30 Artifact bonus to Light, Alignment, and Positive Spellpower",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Epic_Divine_Blessing",
+          "title": "Named item sets",
+          "text": "Epic Divine Blessing"
+        }
+      ]
+    }
+  ]
+}

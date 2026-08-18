@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Reliable Duergar Boots",
+  "page_id": 125274,
+  "revision_id": 691357,
+  "revision_timestamp": "2026-07-02T23:18:20Z",
+  "fetched_at": "2026-08-17T22:43:45.452052+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Reliable Duergar Boots\n  | type                     = Boots\n  | race                     = Duergar Mindcleaver\n  | basevalue                = 6005 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 80\n  | minlevel                 = 15\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Stat|STR|+2|Insightful}}\n* {{Speed|V}}\n* {{Feather Falling}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Boots Generic Gray.png\n  | picdesc                  = Reliable Duergar Boots.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Insightful Strength +2",
+      "tooltip": "Insightful Strength +2: This item gives the wearer the power of Ogre Strength, granting a +2 Insight bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Insightful Strength +2"
+        }
+      ]
+    },
+    {
+      "text": "Speed V",
+      "tooltip": "Speed V: Passive: +25% enhancement bonus to movement speed, +5% enhancement bonus to melee and ranged attack speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Speed",
+          "title": "Speed",
+          "text": "Speed V"
+        }
+      ]
+    },
+    {
+      "text": "Feather Falling",
+      "tooltip": "Feather Falling: This item is engraved with feathers and bestows a powerful magical effect. Whenever the wearer begins to fall from any height, this effect slows the descent dramatically, causing the wearer to fall like a feather.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feather_Falling",
+          "title": "Feather Falling",
+          "text": "Feather Falling"
+        }
+      ]
+    }
+  ]
+}

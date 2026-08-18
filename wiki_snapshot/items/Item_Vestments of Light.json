@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Vestments of Light",
+  "page_id": 14168,
+  "revision_id": 686704,
+  "revision_timestamp": "2026-05-27T17:40:45Z",
+  "fetched_at": "2026-08-17T23:23:56.889571+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Vestments of Light\n  | type                     = Outfit\n  | feat                     = Cloth\n  | ac                       = +3\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 25\n  | material                 = Cloth\n  | hardness                 = 4\n  | basevalue                = 805pp 5gp\n  | weight                   = 0 lbs\n  | quest                    = The Smuggler's Warehouse\n  | chest                    = [[Witch Doctor Chiku]]'s Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Cure Light Wounds|1|3}}\n* {{ArmorBonus|3}}\n* {{Augment|Blue}}\n  | pic                      = Vestments of Light shown.jpg\n  | picdesc                  = Vestments of Light.png\n  | description              = This simple outfit has been imbued with lesser healing magics.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Outfit",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "Cure Light Wounds — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Cure Light WoundsCaster level: 1Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cure_Light_Wounds",
+          "title": "Cure Light Wounds",
+          "text": "Cure Light Wounds"
+        }
+      ]
+    },
+    {
+      "text": "Armor Bonus +3",
+      "tooltip": "Armor Bonus +3: This item surrounds the wearer with an invisible but tangible field of force, granting +3 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +3"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

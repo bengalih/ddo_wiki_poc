@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:First Light (level 10)",
+  "page_id": 58224,
+  "revision_id": 672550,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:04:57.593919+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|First Light}}\n  | damage                   = [1d4] + 4 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Light Hammer\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 10\n  | durability               = 150\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 4,050 pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 30\n  | revamped                 = Update 76\n  | quest                    = Anniversary Party\n  | chest                    = \n  | end reward               = \n  | turn in                  = {{U30 ingredient|20}}\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|4}}\n* {{Absorption|Negative|20}}\n* {{Elemental Resistance|Negative|21}}\n* {{Blazing|7}}\n* {{Coruscating|3}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Patience is virtuous.\n  | pic                      = First Light shown.jpg\n  | picdesc                  = First Light (level 10).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Light Hammer",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Negative Energy Absorption +20%",
+      "tooltip": "Negative Energy Absorption +20%: This effect absorbs 20% of all negative damage the character would have taken, after all other protections have been penetrated.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Energy_Absorption",
+          "title": "Negative Energy Absorption",
+          "text": "Negative Energy Absorption +20%"
+        }
+      ]
+    },
+    {
+      "text": "Negative Resistance +21",
+      "tooltip": "Negative Resistance +21: Passive: +21 Enhancement bonus to your Negative Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Resistance",
+          "title": "Negative Resistance",
+          "text": "Negative Resistance +21"
+        }
+      ]
+    },
+    {
+      "text": "Blazing 7",
+      "tooltip": "Blazing 7: This effect causes the edges of this weapon to coruscate, dealing 7d6 Light damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blazing",
+          "title": "Blazing",
+          "text": "Blazing 7"
+        }
+      ]
+    },
+    {
+      "text": "Coruscating 3",
+      "tooltip": "Coruscating 3: This effect causes the edges of this weapon to coruscate, dealing 3d6 Light damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Coruscating",
+          "title": "Coruscating",
+          "text": "Coruscating 3"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Fell Rapier of Ice",
+  "page_id": 7871,
+  "revision_id": 672667,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:02:32.172364+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Fell Rapier of Ice\n  | basevalue                = 4,802pp\n  | weight                   = 2 lbs\n  | damage                   = 1.40[1d6] + 5 Pierce, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Rapier\n  | class                    = Piercing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 165\n  | material                 = Steel \n  | hardness                 = 22\n  | minlevel                 = 12\n  | bind                     = {{Bind|BtC|BoE|0}}\n  | quest                    = Ghosts of Perdition\n  | chest                    = End chest\n  | mythic                   = no\n  | revamped                 = Update 76\n  | enhancements             = \n* {{Enhancement_bonus|w|5}}\n* {{Boreal}}\n* {{Augment|Red}}\n  | description              = An extremely lightweight rapier sheathed in ice. Counts as a Light Weapon for [[Two Weapon Fighting]] purposes.\n  | pic                      = Fell Rapier of Ice shown.jpg\n  | picdesc                  = Fell Rapier of Ice.png\n  | tips                     = \n}}\n[[Category:Light weapons]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Rapier",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Boreal",
+      "tooltip": "Boreal: This weapon is sheathed in frigid cold. A boreal weapon deals an extra 2 to 12 points of cold damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Boreal",
+          "title": "Boreal",
+          "text": "Boreal"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

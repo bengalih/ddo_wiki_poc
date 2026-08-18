@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Oathblade",
+  "page_id": 24218,
+  "revision_id": 678007,
+  "revision_timestamp": "2026-03-08T02:17:41Z",
+  "fetched_at": "2026-08-17T22:33:17.800414+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Oathblade\n  | damage                   = 3.50[1d10] + 6 Slash, Lawful, Magic\n  | crit                     = 15-20 / x2\n  | type                     = Long Sword\n  | hand                     = One-handed \n  | class                    = Slashing\n  | prof                     = Martial\n  | reqtrait                 = Lawful\n  | minlevel                 = 20\n  | UMD DC                   = 26\n  | damagemod                = STR\n  | attackmod                = STR\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 270\n  | material                 = Steel \n  | hardness                 = 30\n  | basevalue                = 8001pp 5gp\n  | weight                   = 4 lbs\n  | quest                    = Eveningstar\n  | chest                    = \n  | end reward               = \n  | turn in                  = {{Commendation|PDK|15}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|6}}\n* {{Parrying|VIII}}\n* {{Law|Absolute}}\n* {{Vorpal}}\n* {{Keen}}\n* {{Maiming}}\n* {{Bleed}}\n  | pic                      = Oathblade_shown.jpg\n  | picdesc                  = Oathblade.png\n  | description              = This exquisite longsword is sharper than any blade you have seen before. Engraved upon the blade are the cryptic words 'Hope rides alone.'\n  | tips                     = \n}}\n[[Category:Keen items with expanded crit profiles]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Parrying VIII",
+      "tooltip": "Parrying VIII: Passive: +4 Insight bonus to Armor Class, +4 Insight bonus to Fortitude, Reflex, and Will Saving throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Parrying",
+          "title": "Parrying",
+          "text": "Parrying VIII"
+        }
+      ]
+    },
+    {
+      "text": "Absolute Law",
+      "tooltip": "Absolute Law: This weapon is infused with the ultimate power of Law. It does an additional 2 to 12 damage to non-lawful targets and can only be wielded by Lawful-aligned characters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Absolute_Law",
+          "title": "Absolute Law",
+          "text": "Absolute Law"
+        }
+      ]
+    },
+    {
+      "text": "Vorpal",
+      "tooltip": "Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 1000 Hit Points, they are instantly slain. If your target has above 1000 Hit Points, they take 100 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Vorpal",
+          "title": "Vorpal",
+          "text": "Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Maiming",
+      "tooltip": "Maiming: This weapon has a twisted haft or grip and spikes along its blade, head, or point. Whenever you score a critical hit with this weapon it deals an amount of extra untyped damage depending on its critical multiplier: x2 - 1 to 6, x3 - 2 to 12, x4 - 3 to 18.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maiming",
+          "title": "Maiming",
+          "text": "Maiming"
+        }
+      ]
+    },
+    {
+      "text": "Bleed",
+      "tooltip": "Bleed: This weapon is cruelly sharp and will do an additional 1 to 8 damage to targets that are vulnerable to bleeding.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleed#Bleed",
+          "title": "Bleed",
+          "text": "Bleed"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:Legendary Crystalline Ward",
+  "page_id": 74351,
+  "revision_id": 653030,
+  "revision_timestamp": "2025-08-07T00:38:57Z",
+  "fetched_at": "2026-08-17T21:39:25.560716+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Legendary Crystalline Ward\n  | type                     = Large\n  | prof                     = General\n  | minlevel                 = 29\n  | bind                     = {{Bind|BtA|BoA}}\n  | exclusive                = no\n  | sb                       = +27\n  | maxdexbonus              = None\n  | dr                       = 19\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = 4.80[1d10+6] + 15\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | attmod                   = STR\n  | damagemod                = STR\n  | durability               = 410\n  | material                 = Crystal\n  | hardness                 = 54\n  | basevalue                = 12,004 pp\n  | weight                   = 10 lbs\n  | released                 = Update 42\n  | quest                    = The Wraithcallers\n  | chest                    = End chest\n  | enhancements             = \n* {{Enhancement bonus|i|15|29}}\n* {{Arcane Casting Dexterity}}\n* {{SpellPower|Potency|98}}\n* {{Sheltering|16|Insightful|Magical}}\n* {{Sheltering|8|Quality|Magical}}\n* {{Augment|blue}}\n  | pic                      = Crystalline Ward shown.jpg\n  | picdesc                  = Legendary Crystaline Ward.png\n  | description              = Ripples of defensive magic surround this crystalline shield.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Crystal",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +29",
+      "tooltip": "Spellcasting Implement +29: Passive: +29 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +29"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Arcane Casting Dexterity",
+      "tooltip": "Arcane Casting Dexterity: This ability reduces the arcane spell failure chance by -10%.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Arcane_Casting_Dexterity",
+          "title": "Arcane Casting Dexterity",
+          "text": "Arcane Casting Dexterity"
+        }
+      ]
+    },
+    {
+      "text": "Potency +98",
+      "tooltip": "Potency +98: Passive: +98 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +98"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Magical Sheltering +16",
+      "tooltip": "Insightful Magical Sheltering +16: +16 Insight bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Insightful Magical Sheltering +16"
+        }
+      ]
+    },
+    {
+      "text": "Quality Magical Sheltering +8",
+      "tooltip": "Quality Magical Sheltering +8: +8 Quality bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Quality Magical Sheltering +8"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

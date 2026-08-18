@@ -1,0 +1,66 @@
+{
+  "page_title": "Item:Souleater",
+  "page_id": 11998,
+  "revision_id": 634907,
+  "revision_timestamp": "2025-04-22T03:52:41Z",
+  "fetched_at": "2026-08-17T06:20:48.962361+00:00",
+  "categories": [],
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Mortal Strike",
+      "tooltip": "Mortal Strike: On an attack roll of 20 which is confirmed as a critical hit this weapon triggers the Slay Living spell and attempts to instantly snuff out the life force of the enemy (DC 17).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mortal_Strike",
+          "title": "Mortal Strike",
+          "text": "Mortal Strike"
+        }
+      ]
+    },
+    {
+      "text": "Feeding 10",
+      "tooltip": "Feeding 10: On Vorpal Hit: Your target incurs one Negative Level, and you gain +10 temporary hit points. (These Temporary Hit Points last for one minute, or until used to negate incoming damage.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feeding",
+          "title": "Feeding",
+          "text": "Feeding 10"
+        }
+      ]
+    },
+    {
+      "text": "Vampirism 1",
+      "tooltip": "Vampirism 1: This weapon thirsts for the blood of your enemies, healing you for +1d2 hit points with each hit.Note: internal cooldown of 1 second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Vampirism 1"
+        }
+      ]
+    }
+  ],
+  "item_class": "Weapon",
+  "item_template": ""
+}

@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Ring of Spring's Storms",
+  "page_id": 83588,
+  "revision_id": 634265,
+  "revision_timestamp": "2025-04-22T03:10:12Z",
+  "fetched_at": "2026-08-17T22:45:49.383234+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Ring of Spring's Storms\n  | type                     = Ring\n  | cost                     = 2001 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Finger\n  | durability               = 150\n  | material                 = Steel\n  | hardness                 = 25\n  | minlevel                 = 5\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 48\n  | quest                    = The Icemount Curse\n  | chest                    = End chest\n  | end reward               = \n  | enhancements             = \n* {{Spell Lore|Lightning|9}}\n* {{Spell Power|Magnetism|59}}\n* {{Spell Lore|Sonic|9}}\n* {{Spell Power|Resonance|59}}\n* {{Augment|Yellow}}\n* {{Named item sets|Seasons of the Feywild}} \n  | epic                     = \n  | crafting                 = \n  | craftingupgrade          = \n  | description              = The thunder beckons you.\n  | pic                      = \n  | picdesc                  = Ring of Spring's Storms.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Lightning Lore +9%",
+      "tooltip": "Lightning Lore +9: Passive: Your Electricity spells gain a 9% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore +9%"
+        }
+      ]
+    },
+    {
+      "text": "Magnetism +59",
+      "tooltip": "Magnetism +59: Passive: +59 Equipment bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Magnetism +59"
+        }
+      ]
+    },
+    {
+      "text": "Sonic Lore +9%",
+      "tooltip": "Sonic Lore +9: Passive: Your Sonic spells gain a 9% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Sonic Lore +9%"
+        }
+      ]
+    },
+    {
+      "text": "Resonance +59",
+      "tooltip": "Resonance +59: Passive: +59 Equipment bonus to Sonic Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resonance",
+          "title": "Resonance",
+          "text": "Resonance +59"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Seasons of the Feywild",
+      "tooltip": "Seasons of the Feywild:",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Seasons_of_the_Feywild",
+          "title": "Named item sets",
+          "text": "Seasons of the Feywild"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

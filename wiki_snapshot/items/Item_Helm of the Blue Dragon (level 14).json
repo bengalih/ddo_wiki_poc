@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Helm of the Blue Dragon (level 14)",
+  "page_id": 35151,
+  "revision_id": 649966,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:20:25.172088+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Helm of the Blue Dragon}}\n  | type                     = Helm\n  | class                    = Clothing\n  | slot                     = Head\n  | durability               = 150\n  | material                 = Blue Dragonscale\n  | hardness                 = 24\n  | basevalue                = 5,620pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 14\n  | bind                     = {{Bind|BtC|BoE}}\n  | released                 = Update 17\n  | quest                    = Gianthold Tor\n  | chest                    = [[Yorgulhar|Blue Dragon]]'s chest (Heroic Elite)\n  | end reward               = \n  | enhancements             = \n* {{Stat|INT|6}}\n* {{Augment|Yellow}}\n  | description              = This helm is crafted in the likeness of a cunning blue dragon.\n  | pic                      = Helm of the Blue Dragon shown.jpg\n  | picdesc                  = Helm of the Blue Dragon (Level 14).png\n}}",
+  "item_template": "Named item",
+  "material": "Blue Dragonscale",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "Intelligence +6",
+      "tooltip": "Intelligence +6: This item focuses the power of the wearer's mind, granting a +6 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +6"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Head Boost +1 or +3",
+      "tooltip": "Mythic Head Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Head Boost"
+        }
+      ]
+    }
+  ]
+}

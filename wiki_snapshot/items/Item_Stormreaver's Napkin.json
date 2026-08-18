@@ -1,0 +1,78 @@
+{
+  "page_title": "Item:Stormreaver's Napkin",
+  "page_id": 9136,
+  "revision_id": 690584,
+  "revision_timestamp": "2026-06-30T15:57:41Z",
+  "fetched_at": "2026-08-17T23:06:54.086253+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Stormreaver's Napkin\n  | slot                     = Back\n  | type                     = Cloak\n  | durability               = 90\n  | material                 = Leather\n  | hardness                 = 18\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 13\n  | basevalue                = 6,420 pp\n  | weight                   = 0.10 lbs\n  | quest                    = The Reaver's Fate\n  | chest                    = Raid warded chest\n  | enhancements             = \n* {{Stat|INT|6}}\n* {{Spell Focus|Spell|I}}\n* {{UpgradeableItem|Stormreaver}}\n  | crafting                 = Stormreaver Monument\n  | craftingupgrade          = <!-- seems messsy imo to do it like this, listed above -->\n  | description              = You hold in your hand the huge cloth napkin that was used by the Stormreaver in his final meal before the great cataclysm. You can't tell if the red stains on its surface are of wine or blood, but it does seem that everything is so much easier to understand now.\n  | pic                      = Stormreaver's Tablecloth Shown.jpg\n  | picdesc                  = Stormreaver's Napkin.png\n  | tips                     = {{Popup|Upgraded version|[[File:Stormreaver's Napkin (upgraded).png|450px]]|long=y}}\n}}\n[[category:The Reaver's Fate loot]]\n[[Category:Draconic Raider's Reward Box items]]",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Intelligence +6",
+      "tooltip": "Intelligence +6: This item focuses the power of the wearer's mind, granting a +6 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +6"
+        }
+      ]
+    },
+    {
+      "text": "Spell Focus I",
+      "tooltip": "Spell Focus I: +1 Equipment bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Spell Focus I"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable Item (Stormreaver)",
+      "tooltip": "Upgradeable Item (Stormreaver): This item could be upgraded if you found a Seal of the Stormreaver to combine it with. Bring this item to the Stormreaver Monument in Gianthold and combine it with a Seal of the Stormreaver to upgrade the item to a more powerful form.",
+      "children": [
+        {
+          "text": "Adds Spell Penetration II",
+          "tooltip": "Spell Penetration II: Passive: +2 Equipment bonus to Spell Penetration checks.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_penetration",
+              "title": "Spell penetration",
+              "text": "Spell Penetration II"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_Item_(Stormreaver)",
+          "title": "Upgradeable Item (Stormreaver)",
+          "text": "Upgradeable Item (Stormreaver)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

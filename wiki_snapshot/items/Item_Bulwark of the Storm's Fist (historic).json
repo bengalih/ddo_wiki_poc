@@ -1,0 +1,60 @@
+{
+  "page_title": "Item:Bulwark of the Storm's Fist (historic)",
+  "page_id": 8262,
+  "revision_id": 628837,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:16:56.075506+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=item|replaced={{Item|Bulwark of the Storm's Fist}}}}\n{{Named item|Shield\n  | type                     = Large\n  | prof                     = General\n  | minlevel                 = 12\n  | bind                     = {{Bind|no}}\n  | exclusive                = no\n  | sb                       = +8\n  | maxdexbonus              = None\n  | dr                       = 8\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = [1d8] + 3\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attmod                   = STR\n  | damagemod                = STR\n  | durability               = 135\n  | material                 = Magesteel\n  | hardness                 = 16\n  | basevalue                = 3,602 pp\n  | weight                   = 15 lbs\n  | quest                    = Gianthold Tor\n  | chest                    = White Dragon Chest\n  | enhancements             = \n* {{Enhancement_bonus|s|3}}\n* {{Stat|CON|5}}\n  | description              = A brutal, heavy shield for the aspiring champions of the Storm's Fist Horde.\n  | tips                     = \n  | pic                      = Bulwark of the Storm's Fist shown.jpg\n  | picdesc                  = Bulwark of the Storm's Fist.png\n}}",
+  "item_template": "History",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Magesteel",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +5",
+      "tooltip": "Constitution +5: This item gives the wearer improved health, granting a +5 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +5"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

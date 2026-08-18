@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Blue Dragonhide Armor",
+  "page_id": 10649,
+  "revision_id": 628640,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:12:41.236155+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Blue Dragonhide Armor\n  | type                     = Leather\n  | feat                     = Light\n  | minlevel                 = 14\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +11\n  | maxdexbonus              = 12\n  | acp                      = \n  | asf                      = 10%\n  | durability               = 188\n  | material                 = Blue Dragonscale\n  | hardness                 = 22\n  | basevalue                = 5,601pp\n  | weight                   = 7.50 lbs\n  | quest                    = Blue Dragonscale Armor\n  | turn in                  = 20 [[Blue Dragon Scale]]s\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Spellpen|ii}}\n* {{Spelllore|Spell|vi}}\n* {{SpellPower|Potency|52|Equipment}}\n* {{Elemental Resistance|Electric|30}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Blue Dragonhide Armor shown.jpg\n  | picdesc                  = Blue Dragonhide Armor.png\n  | description              = Leather armor crafted from the hide and scales of a blue dragon.\n  | notes                    = Pre-U14 version has Potency +48.\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Blue Dragonscale",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration II",
+      "tooltip": "Spell Penetration II: Passive: +2 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration II"
+        }
+      ]
+    },
+    {
+      "text": "Spell Lore VI",
+      "tooltip": "Spell Lore VI: Passive: All of your spells gain a 6% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Spell Lore VI"
+        }
+      ]
+    },
+    {
+      "text": "Potency +52",
+      "tooltip": "Potency +52: Passive: +52 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +52"
+        }
+      ]
+    },
+    {
+      "text": "Electric Resistance +30",
+      "tooltip": "Electric Resistance +30: Passive: +30 Enhancement bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Electric Resistance +30"
+        }
+      ]
+    }
+  ]
+}

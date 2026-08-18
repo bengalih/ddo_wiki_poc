@@ -1,0 +1,92 @@
+{
+  "page_title": "Item:Duelist's Leathers (level 4)",
+  "page_id": 72505,
+  "revision_id": 629673,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:39:30.821553+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Duelist's Leathers}}\n  | type                     = Leather \n  | feat                     = Light\n  | race                     = \n  | ac                       = +5\n  | maxdexbonus              = 6\n  | acp                      = \n  | asf                      = 10%\n  | durability               = 64\n  | material                 = Leather\n  | hardness                 = 12\n  | minlevel                 = 4\n  | basevalue                = 1,601pp\n  | weight                   = 15 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|silver|100}}{{CCi|golden|50}}{{CCi|pyrite|15}}{{CCi|green|300}} at [[Euphonia's Barter Box]]\n  | mythic                   = no\n  | epic                     = \n  | enhancements             = \n* {{Enhancement bonus|a|2}}\n* {{ItemGrantedFeat|Mobility}}\n* {{Skills|Bal|6}}\n* {{Accuracy|5}}\n* {{Dodge|3}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Duelist's Leathers shown.jpg\n  | picdesc                  = Duelist's Leathers (level 4).png\n  | description              = When pirates who prefer light blades in battle need armor, this is the kind of item they will put their money on- a lightweight vest of leather or hide that allows plenty of stylish movement in combat.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Feat: Mobility",
+      "tooltip": "Feat: Mobility: While equipped this armor grants the wielder the Mobility feat: increases the maximum dexterity bonus permitted by armor and tower shields by 2, adds a +4 bonus to Armor Class while tumbling, and gain a 2% dodge bonus.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feat",
+          "title": "Feat",
+          "text": "Feat"
+        }
+      ]
+    },
+    {
+      "text": "Balance +6",
+      "tooltip": "Balance +6: Passive: +6 Competence bonus to the Balance skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Balance",
+          "title": "Balance",
+          "text": "Balance +6"
+        }
+      ]
+    },
+    {
+      "text": "Accuracy +5",
+      "tooltip": "Accuracy +5: Passive: +5 Competence bonus to attack rolls",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accuracy",
+          "title": "Accuracy",
+          "text": "Accuracy +5"
+        }
+      ]
+    },
+    {
+      "text": "Dodge +3%",
+      "tooltip": "Dodge +3%: +3% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +3%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

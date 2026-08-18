@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Legendary Twisthallow Cloak",
+  "page_id": 66838,
+  "revision_id": 689071,
+  "revision_timestamp": "2026-06-18T17:15:16Z",
+  "fetched_at": "2026-08-17T22:13:50.824009+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Legendary Twisthallow Cloak\n  | type                     = Cloak\n  | basevalue                = 11,601 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Back\n  | durability               = 390\n  | material                 = Steel\n  | hardness                 = 49\n  | minlevel                 = 29\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 37\n  | revamped                 = Update 80\n  | quest                    = Mad Tea Party\n  | end reward               = \n  | chest                    = End chest\n  | enhancements             = \n* {{Spell Focus|Transmutation|7}}\n* {{Spell Focus|Transmutation|1|Quality|prefix=Quality}}\n* {{Spellpen|8}}\n* {{NaturalArmor|13}}\n* {{Augment|Blue}}\n* {{Named item sets|Adherent of the Mists Set (Legendary)}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This tattered cloak was left behind in the wake of one trying to flee Barovia. Unsuccessfully, one might add.\n  | pic                      = Cloak of Invisibility Shown.jpg\n  | picdesc                  = Legendary Twisthallow Cloak.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Transmutation Focus +7",
+      "tooltip": "Transmutation Focus +7: +7 Equipment bonus to the DC of Transmutation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Transmutation Focus +7"
+        }
+      ]
+    },
+    {
+      "text": "Quality Transmutation Focus +1",
+      "tooltip": "Quality Transmutation Focus +1: +1 Quality bonus to the DC of Transmutation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Quality Transmutation Focus +1"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration +8",
+      "tooltip": "Spell Penetration +8: Passive: +8 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration +8"
+        }
+      ]
+    },
+    {
+      "text": "Natural Armor +13",
+      "tooltip": "Natural Armor +13: Passive: +13 Natural Armor Bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Natural_armor_bonus",
+          "title": "Natural armor bonus",
+          "text": "Natural Armor +13"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Adherent of the Mists Set (Legendary)",
+      "tooltip": "Adherent of the Mists Set (Legendary): 5 Pieces Equipped:+30 Profane bonus to Physical Resistance Rating+30 Profane bonus to Positive, Negative, and Repair Amplification+15 Profane bonus to Melee and Ranged Power+15 Profane bonus to Universal Spell Power",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Adherent_of_the_Mists_Set_(Legendary)",
+          "title": "Named item sets",
+          "text": "Adherent of the Mists Set (Legendary)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

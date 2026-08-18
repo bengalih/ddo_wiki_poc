@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Spectral Great Axe (level 20)",
+  "page_id": 77947,
+  "revision_id": 665114,
+  "revision_timestamp": "2025-11-02T22:43:38Z",
+  "fetched_at": "2026-08-17T23:03:00.653212+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | sentience                = no\n  | name                     = [[Spectral Great Axe]]\n  | damage                   = 3.50[1d12] + 6 Slash, Magic\n  | crit                     = 20 / x3\n  | minlevel                 = 20\n  | type                     = Great Axe\n  | reqtrait                 = \n  | UMD DC                   = \n  | hand                     = Two-handed\n  | class                    = Slashing\n  | damagemod                = STR \n  | attackmod                = STR\n  | prof                     = Martial\n  | durability               = 300\n  | material                 = Force\n  | hardness                 = 30\n  | basevalue                = 8,020 pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = The Night Revels\n  | chest                    = \n  | turn in                  = {{Item|Spectral Great Axe (level 16)}}{{Br}}{{Tab}}and {{NightRevelsRecipe|ing_chocolate= 150|ing_apple= 80|ing_caramel= 40}} at [[Joe Candymaker]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|6}}\n* {{Ghostbane|4}}\n* {{Bane|Evil Outsider|4}}\n* {{Vorpal|Improved}}\n* {{Crushing|10}}\n  | crafting                 = The Night Revels\n  | craftingupgrade          = Spectral Greataxe (level 24)\n  | description              = The residual power left behind as thousands of Spectral Dragon Scales crumbled to dust formed this ethereal weapon.\n  | pic                      = Spectral Greataxe shown.jpg\n  | picdesc                  = Spectral Greataxe (level 20).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Ghostbane 4",
+      "tooltip": "Ghostbane 4: This weapon is attuned specifically to hunt the risen dead, dealing an additional 4d10 bane damage vs. Undead monsters.Passive: This weapon has Ghost Touch, and bypasses ethereal monster's 50% chance to evade bane damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostbane",
+          "title": "Ghostbane",
+          "text": "Ghostbane 4"
+        }
+      ]
+    },
+    {
+      "text": "Evil Outsider Bane 4",
+      "tooltip": "Evil Outsider Bane 4: This weapon is attuned specifically to hunt monsters that bring ill intent from other planes, dealing an additional 4d10 bane damage vs. Evil Outsiders.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Evil Outsider Bane 4"
+        }
+      ]
+    },
+    {
+      "text": "Improved Vorpal",
+      "tooltip": "Improved Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 1500 Hit Points, they are instantly slain. If your target has above 1500 Hit Points, they take 150 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Improved_Vorpal",
+          "title": "Vorpal",
+          "text": "Improved Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Crushing 10",
+      "tooltip": "Crushing 10: This effect causes the edges of this weapon to ripple with force, dealing 10d6 force damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crushing",
+          "title": "Crushing",
+          "text": "Crushing 10"
+        }
+      ]
+    }
+  ]
+}

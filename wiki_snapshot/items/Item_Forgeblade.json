@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Forgeblade",
+  "page_id": 37989,
+  "revision_id": 630979,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:07:54.207933+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Forgeblade\n  | type                     = Great Sword\n  | race                     = Bladeforged\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | reqtrait                 = Lawful\n  | UMD DC                   = 20\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|boa}}\n  | damage                   = 1.50[2d6] + 3 Slash, Lawful, Adamantine, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 250\n  | material                 = Adamantine\n  | hardness                 = 25\n  | basevalue                = 6,005 pp\n  | weight                   = 8 lbs\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Law|True}}\n* {{Bloodletter|IV}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Forgeblade shown.jpg\n  | picdesc                  = Forgeblade.png\n  | description              = As you shall be my sword, let this blade serve as yours.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "True Law",
+      "tooltip": "True Law: This weapon is infused with the power of True Law. It does an additional 1 to 6 damage to non-lawful targets and can only be wielded by Lawful-aligned characters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/True_Law",
+          "title": "True Law",
+          "text": "True Law"
+        }
+      ]
+    },
+    {
+      "text": "Bloodletter IV",
+      "tooltip": "Bloodletter IV: On Critical Hit: 9 to 54 Slashing damage from weapons with a x2 Critical Multiplier, 9 to 72 Slashing damage from weapons with a x3 Critical Multiplier, and 9 to 90 Slashing damage from weapons with a x4 or greater Critical Multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bloodletter",
+          "title": "Bloodletter",
+          "text": "Bloodletter IV"
+        }
+      ]
+    }
+  ]
+}

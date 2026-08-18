@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Heartwood",
+  "page_id": 58549,
+  "revision_id": 653711,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:19:13.808373+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Heartwood\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=26|m=14|c=6}}\n  | maxdexbonus              = 0\n  | acp                      = 0\n  | asf                      = 0%\n  | durability               = 200\n  | material                 = Wood\n  | hardness                 = 25\n  | minlevel                 = 15\n  | released                 = Update 31\n  | quest                    = Search and Rescue\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | basevalue                = 6,010 pp\n  | weight                   = 0 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Sheltering|10|Insight|Physical}}\n* {{Sheltering|10|Insight|Magical}}\n* {{HealingAmp|33|R}}\n* {{Sheltering|21}}\n* {{Augment|Green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Livewood Core shown.jpg\n  | picdesc                  = Heartwood.png\n  | description              = A small heart carved of the very center of an ancient tree.\n  | notes                    = Under armor color is based on Warforged skin color.\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Wood",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Physical Sheltering +10",
+      "tooltip": "Insightful Physical Sheltering +10: +10 Insight bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Insightful Physical Sheltering +10"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Magical Sheltering +10",
+      "tooltip": "Insightful Magical Sheltering +10: +10 Insight bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Insightful Magical Sheltering +10"
+        }
+      ]
+    },
+    {
+      "text": "Repair Amplification +33",
+      "tooltip": "Repair Amplification: This effect amplifies all incoming repair healing by +33 (Enhancement bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Repair_Amplification",
+          "title": "Repair Amplification",
+          "text": "Repair Amplification +33"
+        }
+      ]
+    },
+    {
+      "text": "Sheltering +21",
+      "tooltip": "Sheltering +21: +21 Enhancement bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Sheltering +21"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

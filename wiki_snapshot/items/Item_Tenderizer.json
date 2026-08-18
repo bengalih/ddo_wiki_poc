@@ -1,0 +1,140 @@
+{
+  "page_title": "Item:Tenderizer",
+  "page_id": 8046,
+  "revision_id": 635265,
+  "revision_timestamp": "2025-04-22T04:16:21Z",
+  "fetched_at": "2026-08-17T23:11:36.435445+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Tenderizer\n  | damage                   = 1.40[1d10] + 5 Bludgeon, Adamantine, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Morningstar\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 145\n  | material                 = Adamantine\n  | hardness                 = 28\n  | basevalue                = 13,100pp 8gp\n  | weight                   = 6 lbs\n  | minlevel                 = 14\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = The Reaver's Fate\n  | chest                    = Raid Warded chest\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Mat|Adamantine}}\n* {{Impact|I}}\n* {{Stunning|10}}\n* {{Bleed}}\n* {{Maladroit}}\n* {{UpgradeableItem|Stormreaver}}\n  | crafting                 = Stormreaver Monument\n  | craftingupgrade          = \n  | description              = Once used by the Stormreaver's cook to tenderize the meat that would feed the great leader. This Morningstar is caked in the blood of a million creatures.\n  | pic                      = Tenderizer shown.jpg\n  | picdesc                  = Tenderizer.png\n  | tips                     = Upgraded version:\n[[image:Tenderizer (upgraded).png|375px]]\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Morningstar",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Stunning +10",
+      "tooltip": "Stunning +10: +10 Enhancement bonus to the DC of character's Stunning Blow and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stunning",
+          "title": "Stunning",
+          "text": "Stunning +10"
+        }
+      ]
+    },
+    {
+      "text": "Bleed",
+      "tooltip": "Bleed: This weapon is cruelly sharp and will do an additional 1 to 8 damage to targets that are vulnerable to bleeding.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleed#Bleed",
+          "title": "Bleed",
+          "text": "Bleed"
+        }
+      ]
+    },
+    {
+      "text": "Maladroit",
+      "tooltip": "Maladroit: This weapon afflicts enemies with sluggish and clumsy movements. -1 Dexterity on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maladroit",
+          "title": "Maladroit",
+          "text": "Maladroit"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable Item (Stormreaver)",
+      "tooltip": "Upgradeable Item (Stormreaver): This item could be upgraded if you found a Seal of the Stormreaver to combine it with. Bring this item to the Stormreaver Monument in Gianthold and combine it with a Seal of the Stormreaver to upgrade the item to a more powerful form.",
+      "children": [
+        {
+          "text": "Adds Bone Breaking",
+          "tooltip": "Bone Breaking: Critical hits by this weapon deal an extra 1 to 6 points of Dexterity damage by shattering the bones of its target.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bone_Breaking",
+              "title": "Bone Breaking",
+              "text": "Bone Breaking"
+            }
+          ]
+        },
+        {
+          "text": "Adds Spikes",
+          "tooltip": "Spikes: The sharp spikes on this item deal an additional 1 to 6 Piercing damage when used to strike an enemy.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spikes",
+              "title": "Spikes",
+              "text": "Spikes"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_Item_(Stormreaver)",
+          "title": "Upgradeable Item (Stormreaver)",
+          "text": "Upgradeable Item (Stormreaver)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Legendary Throwing Dagger of the Golden Age",
+  "page_id": 109591,
+  "revision_id": 667696,
+  "revision_timestamp": "2025-11-21T13:42:53Z",
+  "fetched_at": "2026-08-17T22:13:02.093534+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Throwing Dagger of the Golden Age\n  | prof                     = Simple\n  | damage                   = 6.10[1d4+2] + 15 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Throwing Dagger\n  | class                    = Thrown\n  | race                     = \n  | minlevel                 = 33\n  | reqtrait                 = \n  | UMD DC                   = \n  | hand                     = Thrown\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 370\n  | material                 = Steel\n  | hardness                 = 43\n  | cost                     = 13200 pp 2gp\n  | weight                   = 1.00 lbs\n  | released                 = Update 69\n  | revamped                 = Update 76\n  | quest                    = Magic of Myth Drannor\n  | chest                    = rare drop in any end chest or most optional chests\n  | epic                     = no\n  | legendary                = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Blast|Force|7}}\n* {{Impactful|7}}\n* {{Vorpal|Sovereign}}\n* {{Entropic|7}}\n* {{Returning}}\n* {{Augment|Orange}}\n* {{Augment|Purple}}\n  | crafting                 = Ritual Table\n  | craftingupgrade          = Throwing Dagger of the Undying Age\n  | description              = Forged in the glory of Cormanthor, this weapon is remarkably well-preserved.\n  | pic                      = Throwing Dagger of the Golden Age shown.jpg\n  | picdesc                  = Legendary Throwing Dagger of the Golden Age.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Throwing Dagger",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 33,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Force Blast 7",
+      "tooltip": "Force Blast 7: This weapon ripples with intense force, dealing 7d6 Force damage on a successful hit, and an additional 7d6 Force damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Force Blast 7"
+        }
+      ]
+    },
+    {
+      "text": "Impactful 7",
+      "tooltip": "Impactful 7: This effect causes the edges of this weapon to ripple with force, dealing 7 to 42 force on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impactful",
+          "title": "Impactful",
+          "text": "Impactful 7"
+        }
+      ]
+    },
+    {
+      "text": "Sovereign Vorpal",
+      "tooltip": "Sovereign Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 3000 Hit Points, they are instantly slain. If your target has above 3000 Hit Points, they take 300 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Sovereign_Vorpal",
+          "title": "Vorpal",
+          "text": "Sovereign Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Entropic 7",
+      "tooltip": "Entropic 7: This weapon is intensely powerful, and crackles with destructive, unpredictable magic. It deals an additional 7d6 untyped damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Entropic",
+          "title": "Entropic",
+          "text": "Entropic 7"
+        }
+      ]
+    },
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

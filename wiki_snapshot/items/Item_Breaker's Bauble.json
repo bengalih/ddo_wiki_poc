@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Breaker's Bauble",
+  "page_id": 112429,
+  "revision_id": 685049,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:15:28.147842+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Breaker's Bauble\n  | minlevel                 = 4\n  | released                 = Update 71\n  | type                     = Trinket\n  | slot                     = Trinket\n  | race                     = \n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 140\n  | material                 = Leather\n  | hardness                 = 24\n  | basevalue                = 1,601 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Rats in a Cage\n  | chest                    = end chest\n  | end reward               = \n  | enhancements             = \n* {{Doublestrike|4}}\n* {{Doublestrike|1|Insightful}}\n* {{Accuracy|5}}\n* {{Armor-Piercing|5}}\n* {{Augment|Blue}}\n* {{Augment|Sun}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = \n  | picdesc                  = Breaker's Bauble.png\n  | description              = This broken bit of armor, held together loosely with string, is a reminder that no defense cannot be broken.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Doublestrike 4%",
+      "tooltip": "Doublestrike 4%: Passive: 4% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 4%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Doublestrike 1%",
+      "tooltip": "Insightful Doublestrike 1%: Passive: 1% Insight bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Insightful Doublestrike 1%"
+        }
+      ]
+    },
+    {
+      "text": "Accuracy +5",
+      "tooltip": "Accuracy +5: Passive: +5 Competence bonus to attack rolls",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accuracy",
+          "title": "Accuracy",
+          "text": "Accuracy +5"
+        }
+      ]
+    },
+    {
+      "text": "Armor-Piercing 5%",
+      "tooltip": "Armor-Piercing 5%: Passive: +5% Enhancement bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Armor-Piercing 5%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Trinket Boost +1 or +3",
+      "tooltip": "Mythic Trinket Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Trinket Boost"
+        }
+      ]
+    }
+  ]
+}

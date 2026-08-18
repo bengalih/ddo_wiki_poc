@@ -1,0 +1,140 @@
+{
+  "page_title": "Item:+3 Magnetism Electrified Morningstar",
+  "page_id": 96937,
+  "revision_id": 636320,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T19:54:21.083213+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=items|custom=This item stopped dropping in [[Update 56]], though since it was unbound until upgraded, it may still appear on the [[Auction House]].|customcat=Temple of Elemental Evil items}}\n\n{{Named item|Weapon\n  | name                     = +3 Magnetism Electrified Morningstar\n  | historic                 = TRUE\n  | damage                   = [1d8] + 3 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Morningstar\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | minlevel                 = 7\n  | durability               = 115\n  | material                 = Steel\n  | hardness                 = 15\n  | basevalue                = 2,820 pp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|No|nocat=TRUE}}\n  | released                 = Update 25\n  | quest                    = Temple of Elemental Evil Part One\n  | chest                    = and '''[[Temple of Elemental Evil Part Two]]''' any chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|i|3}}\n* {{CraftingEffects|Upgradeable Item (Temple of Elemental Evil)|nocat=TRUE}}\n** Tier 1:\n*** Adds {{Spellpen|1|nocat=TRUE}}\n*** Adds {{Riposte|I|nocat=TRUE}}\n** Tier 2:\n*** Adds {{Spelllore|Lightning|III|nocat=TRUE}}\n*** Adds {{Augment|Purple|nocat=TRUE}}\n* {{SpellPower|Magnetism|54|nocat=TRUE}}\n  | crafting                 = ToEE Crafting\n  | craftingupgrade          = \n  | description              = A weapon found deep within the Temple of Elemental Evil.\n  | pic                      = +3 Magnetism Electrified Morningstar shown.jpg\n  | picdesc                  = +3 Magnetism Electrified Morningstar.png\n  | tips                     = \n}}",
+  "item_template": "History",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Morningstar",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +9",
+      "tooltip": "Spellcasting Implement +9: Passive: +9 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +9"
+        }
+      ]
+    },
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable Item (Temple of Elemental Evil)",
+      "tooltip": "Upgradeable Item (Temple of Elemental Evil): This item can be upgraded. Bring this item to the Overgrown Workbench in the Temple of Elemental Evil and combine it with Rusty Gilled Mushrooms to upgrade the item to a more powerful form.",
+      "children": [
+        {
+          "text": "Tier 1:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Spell Penetration +1",
+              "tooltip": "Spell Penetration +1: Passive: +1 Equipment bonus to Spell Penetration checks.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Spell_penetration",
+                  "title": "Spell penetration",
+                  "text": "Spell Penetration +1"
+                }
+              ]
+            },
+            {
+              "text": "Adds Riposte I",
+              "tooltip": "Riposte I: When Missed by an attack: Deals 1 to 4 damage to your attacker. Passive: +1 Insight bonus to Armor Class.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Riposte",
+                  "title": "Riposte",
+                  "text": "Riposte I"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Tier 2:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Lightning Lore III",
+              "tooltip": "Lightning Lore III: Passive: Your Electricity spells gain a 13% Equipment bonus to their chance to critical hit.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Spell_Lore",
+                  "title": "Spell Lore",
+                  "text": "Lightning Lore III"
+                }
+              ]
+            },
+            {
+              "text": "Adds Purple Augment Slot",
+              "tooltip": "Blue, Purple, Red, and Colorless",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Augment_Slot",
+                  "title": "Augment Slot",
+                  "text": "Purple Augment Slot"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Overgrown_Workbench",
+          "title": "Overgrown Workbench",
+          "text": "Upgradeable Item (Temple of Elemental Evil)"
+        }
+      ]
+    },
+    {
+      "text": "Magnetism +54",
+      "tooltip": "Magnetism +54: Passive: +54 Equipment bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Magnetism +54"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

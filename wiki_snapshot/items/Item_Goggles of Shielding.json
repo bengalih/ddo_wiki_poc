@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Goggles of Shielding",
+  "page_id": 11114,
+  "revision_id": 670354,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:13:13.320730+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Goggles of Shielding\n  | type                     = Goggles\n  | basevalue                = 2,020 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Eye\n  | durability               = 60 <!-- previously 40 -->\n  | material                 = Glass\n  | hardness                 = 9 <!-- previously 7 -->\n  | minlevel                 = 5\n  | bind                     = {{Bind|BtC|BoE|1}}\n  | quest                    = The Bloody Crypt\n  | end reward               = \n  | chest                    = End Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Shield (spell)|1|2|label=Shield}}\n* {{False Life|lesser}}\n* {{Augment|Green}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Anyone who wears these goggles feels as if they are protected by an unseen force.\n  | pic                      = Goggles of Shielding shown.jpg\n  | picdesc                  = Goggles of Shielding.png\n  | tips                     = Also available as a [[Starter]] item for some (at least [[Paladin]] and [[Bard]]) Veteran 3 characters.\n}}",
+  "item_template": "Named item",
+  "material": "Glass",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Shield — 2 Charges (Recharged/Day:2)",
+      "tooltip": "ShieldCaster level: 1Charges: 2 (2/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_(spell)",
+          "title": "Shield (spell)",
+          "text": "Shield"
+        }
+      ]
+    },
+    {
+      "text": "Lesser False Life",
+      "tooltip": "Lesser False Life: This item grants the wearer +5 maximum health.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)#Lesser_False_Life",
+          "title": "False Life (enchantment)",
+          "text": "Lesser False Life"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Red Robes of Charity",
+  "page_id": 77569,
+  "revision_id": 686724,
+  "revision_timestamp": "2026-05-27T18:51:55Z",
+  "fetched_at": "2026-08-17T22:43:18.543229+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Red Robes of Charity\n  | type                     = Robe\n  | feat                     = Cloth\n  | race                     = \n  | ac                       = +1\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 20\n  | material                 = Cloth\n  | hardness                 = 3\n  | minlevel                 = 1\n  | released                 = Update 44\n  | quest                    = Caged Beast\n  | chest                    = End chest\n  | epic                     = no <!--Replace with non-epic version name if epic item.-->\n  | basevalue                = 405 pp 5 gp\n  | weight                   = 0 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|1}}\n* {{Stat | Wis|1}}\n* {{Skills|Heal|3}}\n  | crafting                 = <!--Type of crafting. Leave blank if none.-->\n  | craftingupgrade          = <!--What item can be upgraded to. Leave blank if none.-->\n  | pic                      = Red Robes of Charity shown.jpg\n  | picdesc                  = Red Robes of Charity.png\n  | description              = These are previously used but still protective. Small healing implements are stowed in the deep pockets.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Wisdom +1",
+      "tooltip": "Wisdom +1: This item makes the wearer more in tune with her surroundings, granting a +1 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +1"
+        }
+      ]
+    },
+    {
+      "text": "Heal +3",
+      "tooltip": "Heal +3: Passive: +3 Competence bonus to the Heal skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heal_(skill)",
+          "title": "Heal (skill)",
+          "text": "Heal +3"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

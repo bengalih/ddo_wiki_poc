@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Guidance",
+  "page_id": 5054,
+  "revision_id": 666308,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:18:02.739033+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Guidance\n  | type                     = Light Crossbow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | prof                     = Simple\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = [1d8] + 2 Pierce, Silver, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | durability               = 95\n  | material                 = Wood\n  | hardness                 = 5\n  | basevalue                = 805pp 5gp\n  | weight                   = 4 lbs\n  | released                 = Update 45\n  | revamped                 = Update 76\n  | quest                    = The Old Archives\n  | chest                    = End chest (by the third Fragment)\n  | enhancements             = \n* {{Enhancement_bonus|w|2}}\n* {{Ghostbane|1}}\n* {{Mat|Silver}}, Alchemical\n* {{Augment|Purple}}\n  | description              = The crossbow Guidance is loathed by the enemies of the Silver Flame.\n  | pic                      = Guidance shown.jpg\n  | picdesc                  = Guidance.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Light Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Ghostbane 1",
+      "tooltip": "Ghostbane 1: This weapon is attuned specifically to hunt the risen dead, dealing an additional 1d10 bane damage vs. Undead monsters.Passive: This weapon has Ghost Touch, and bypasses ethereal monster's 50% chance to evade bane damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostbane",
+          "title": "Ghostbane",
+          "text": "Ghostbane 1"
+        }
+      ]
+    },
+    {
+      "text": "Silver , Alchemical",
+      "tooltip": "Silver: A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as devils and vampires. Silver weapons have 2 points lower hardness then equivalent steel weapons, and as such aren't quite as durable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Silver",
+          "title": "Silver",
+          "text": "Silver"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

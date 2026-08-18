@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Agile Belt",
+  "page_id": 9589,
+  "revision_id": 628176,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:01:54.777359+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Agile Belt\n  | type                     = Belt\n  | basevalue                = 102 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | quest                    = The Storehouse's Secret\n  | durability               = 20\n  | material                 = Leather\n  | hardness                 = 6\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | mythic                   = no\n  | enhancements             = \n*{{Save|r|1}}\n  | end reward               = yes\n  | description              = This thin leather belt appears to be light and very easy to move in.\n  | pic                      = Belt Generic.png\n  | picdesc                  = Agile Belt.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "enchantments": [
+    {
+      "text": "Reflex Save +1",
+      "tooltip": "Reflex Save +1: This item gives a +1 Resistance bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save +1"
+        }
+      ]
+    }
+  ]
+}

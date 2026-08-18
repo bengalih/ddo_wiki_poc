@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:T'Korcha Family Scimitar",
+  "page_id": 11503,
+  "revision_id": 672808,
+  "revision_timestamp": "2026-01-25T19:25:16Z",
+  "fetched_at": "2026-08-17T23:10:57.845402+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = T'Korcha Family Scimitar\n  | damage                   = [1d6] + 3 Slash, Magic\n  | crit                     = 15-20 / x2\n  | type                     = Scimitar\n  | hand                     = One-handed\n  | class                    = Slashing\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | minlevel                 = 4\n  | prof                     = Martial\n  | durability               = 100\n  | material                 = Steel\n  | hardness                 = 14\n  | quest                    = Redwillow's Ruins\n  | chest                    = [[Ker'xxan T'korcha]]'s chest\n  | revamped                 = Update 76\n  | basevalue                = 1,602 pp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|3}}\n* {{Keen}}\n* {{Augment|Red}}\n  | pic                      = T'Korcha Family Scimitar shown.jpg\n  | picdesc                  = T'Korcha Family Scimitar.png\n  | description              = This scimitar has been passed down from generation to generation in the T'Korcha family.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Scimitar",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

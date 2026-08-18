@@ -1,0 +1,151 @@
+{
+  "page_title": "Item:Sporesphere",
+  "page_id": 126336,
+  "revision_id": 700096,
+  "revision_timestamp": "2026-07-25T17:13:06Z",
+  "fetched_at": "2026-08-17T23:04:44.778613+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Sporesphere\n  | type                     = Orb\n  | prof                     = Magical Training\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 11\n  | damagemod                = INT\n  | attmod                   = CHA\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +0\n  | maxdexbonus              = \n  | dr                       = 0\n  | acp                      = 0\n  | asf                      = 0\n  | dmg                      = [1d4] + 0\n  | dmgtype                  = Force\n  | crit                     = 19-20 / x2\n  | durability               = 175\n  | material                 = Wood\n  | hardness                 = 31\n  | basevalue                = 4,500pp\n  | weight                   = 3 lbs\n  | released                 = Update 81\n  | quest                    = The Fetid Wedding\n  | chest                    = end chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|o|4}}\n* {{Intensity|Void|7|Insightful}}\n* {{Spell Lore|Spell|5}}\n* {{Wizardry|60|Insightful}}\n* {{Nearly Complete|Healing Amplification}}\n* {{Augment|Purple}}\n  | description              = Small clouds of fungal spores emanate from deep within this orb on the hour, every hour.\n  | crafting                 = Nearly Complete\n  | craftingupgrade          = \n  | pic                      = Sporesphere shown.jpg\n  | picdesc                  = Sporesphere.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Magical Training",
+  "material": "Wood",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "+4 Orb Bonus",
+      "tooltip": "+4 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +4 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Orb Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Void Intensity +7%",
+      "tooltip": "Insightful Void Intensity +7%: +7% Insightful bonus to critical damage with Negative and Poison spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intensity",
+          "title": "Intensity",
+          "text": "Insightful Void Intensity"
+        }
+      ]
+    },
+    {
+      "text": "Spell Lore +5",
+      "tooltip": "Spell Lore 5: Passive: All of your spells gain a 5% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Spell Lore +5"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Wizardry +60",
+      "tooltip": "Insightful Wizardry +60: +60 Insight bonus to spell points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Insightful Wizardry +60"
+        }
+      ]
+    },
+    {
+      "text": "Nearly Complete: Healing Amplification",
+      "tooltip": "Nearly Complete: Healing Amplification: This item isn't quite finished, but it's only a step away from completion. Bring it to the forges on the upper floor of Gravenhollow and combine it with melted materials to restore this item to its full potential.",
+      "children": [
+        {
+          "text": "This item can be upgraded with one of the following:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Competence Healing Amplification +24",
+              "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +24 (Competence bonus). Includes spells, potions, and other effects.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Healing_Amplification",
+                  "title": "Healing Amplification",
+                  "text": "Competence Healing Amplification +24"
+                }
+              ]
+            },
+            {
+              "text": "Profane Negative Amplification +24",
+              "tooltip": "Negative Amplification: This effect amplifies all incoming negative energy healing by +24 (Profane bonus). Includes spells, potions, and other effects.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Negative_Amplification",
+                  "title": "Negative Amplification",
+                  "text": "Profane Negative Amplification +24"
+                }
+              ]
+            },
+            {
+              "text": "Repair Amplification +24",
+              "tooltip": "Repair Amplification: This effect amplifies all incoming repair healing by +24 (Enhancement bonus). Includes spells, potions, and other effects.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Repair_Amplification",
+                  "title": "Repair Amplification",
+                  "text": "Repair Amplification +24"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Nearly_Complete",
+          "title": "Nearly Complete",
+          "text": "Nearly Complete: Healing Amplification"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

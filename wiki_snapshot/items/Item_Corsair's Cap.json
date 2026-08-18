@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Corsair's Cap",
+  "page_id": 12157,
+  "revision_id": 629172,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:26:47.236621+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Corsair's Cap\n  | type                     = Helm\n  | class                    = Clothing\n  | basevalue                = 410 pp\n  | weight                   = 0.10 lb\n  | slot                     = Head\n  | released                 = Update 36\n  | quest                    = Dirty Laundry\n  | durability               = 30\n  | material                 = Leather\n  | hardness                 = 7\n  | minlevel                 = 2\n  | bind                     = {{Bind|no||1}}\n  | end reward               = yes\n  | mythic                   = false\n  | enhancements             = \n* {{Clicky|Water Breathing|5|3}} \n* {{Elemental Resistance|Cold|12}}\n* {{Skills|Swim|6}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = It is rumored that this dyed bandana belonged to Ugly Pete, a pirate that scuttled many a ship on the Thunder Sea.\n  | pic                      = Scallywag's Cap shown.png <!-- Similar style-->\n  | picdesc                  = Corsair's Cap.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "Water Breathing — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Water BreathingCaster level: 5Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Water_Breathing",
+          "title": "Water Breathing",
+          "text": "Water Breathing"
+        }
+      ]
+    },
+    {
+      "text": "Cold Resistance +12",
+      "tooltip": "Cold Resistance +12: Passive: +12 Enhancement bonus to your Cold Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Resistance",
+          "title": "Cold Resistance",
+          "text": "Cold Resistance +12"
+        }
+      ]
+    },
+    {
+      "text": "Swim +6",
+      "tooltip": "Swim +6: Passive: +6 Competence bonus to the Swim skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Swim",
+          "title": "Swim",
+          "text": "Swim +6"
+        }
+      ]
+    }
+  ]
+}

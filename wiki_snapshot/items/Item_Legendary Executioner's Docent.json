@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Legendary Executioner's Docent",
+  "page_id": 61196,
+  "revision_id": 652069,
+  "revision_timestamp": "2025-08-04T01:46:13Z",
+  "fetched_at": "2026-08-17T21:45:34.239196+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Executioner's Docent\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=26|m=14|c=6}}\n  | maxdexbonus              = None\n  | acp                      = 0\n  | asf                      = 0%\n  | durability               = 330\n  | material                 = Wood\n  | hardness                 = 38\n  | minlevel                 = 28\n  | quest                    = Slave Pits of the Undercity\n  | released                 = Update 32\n  | revamped                 = Update 50\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | basevalue                = 11,210 pp\n  | weight                   = \n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|13}}\n* {{Stat|Well Rounded|2|Profane}}\n* {{Deadly|3|Quality}}\n* {{Skills|Intimidate|10|Insight|prefix=Insightful}}\n* {{Accuracy|4|Quality}}\n* {{CraftingEffects|Against the Slave Lords Set Bonus}}\n* {{Augment|Green}}\n  | crafting                 = Slave Lords Crafting\n  | craftingupgrade          = \n  | pic                      = Livewood Core shown.jpg\n  | picdesc                  = Legendary Executioner's Docent.png\n  | description              = To kill is the ultimate reward.\n  | notes                    = \n* Under armor color is based on Warforged skin color.\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Wood",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+13 Enhancement Bonus",
+      "tooltip": "+13 Enhancement Bonus: +13 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+13 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Profane Well Rounded +2",
+      "tooltip": "Profane Well Rounded +2: +2 Profane bonus to all abilities.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ability",
+          "title": "Ability",
+          "text": "Profane Well Rounded +2"
+        }
+      ]
+    },
+    {
+      "text": "Quality Deadly +3",
+      "tooltip": "Quality Deadly +3: +3 Quality bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Quality Deadly +3"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Intimidate +10",
+      "tooltip": "Insightful Intimidate +10: Passive: +10 Insight bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Insightful Intimidate +10"
+        }
+      ]
+    },
+    {
+      "text": "Quality Accuracy +4",
+      "tooltip": "Quality Accuracy +4: Passive: +4 Quality bonus to attack rolls",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accuracy",
+          "title": "Accuracy",
+          "text": "Quality Accuracy +4"
+        }
+      ]
+    },
+    {
+      "text": "Against the Slave Lords Set Bonus",
+      "tooltip": "Against the Slave Lords Set Bonus: An Against the Slave Lords Set Bonus can be applied to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slave_Lords_Crafting",
+          "title": "Slave Lords Crafting",
+          "text": "Against the Slave Lords Set Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

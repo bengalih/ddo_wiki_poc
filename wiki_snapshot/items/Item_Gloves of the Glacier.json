@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Gloves of the Glacier",
+  "page_id": 9107,
+  "revision_id": 631147,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:12:18.453320+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Gloves of the Glacier\n  | type                     = Gloves\n  | basevalue                = 6,405pp\n  | weight                   = 0.10 lbs\n  | slot                     = Hand\n  | durability               = 90\n  | material                 = Steel\n  | hardness                 = 18\n  | minlevel                 = 13\n  | bind                     = {{Bind|BtC|boa}}\n  | quest                    = A Vision of Destruction\n  | chest                    = End chest\n  | enhancements             = \n* {{Named item sets|Glacial Assault}}\n* {{Efficient Metamagic|Maximize|2}}\n* {{Efficient Metamagic|Extend|2}}\n  | epic                     = no\n  | crafting                 = <!--Type of crafting. Leave blank if none. -->\n  | craftingupgrade          = <!-- can leave blank, though comment required if |crafting is used-->\n  | description              = Crafted by the great wizard Telios, these gloves are said to have been crafted from the flesh of Frost Giants. Telios disappeared recently, after being asked by members of the twelve to investigate the ruins beneath Stormreach. There is said to be a matching pair of bracers to these gloves.\n  | picdesc                  = Gloves of the Glacier.png\n  | pic                      = Gloves Generic.png\n  | tips                     = \n}}\n[[category:A Vision of Destruction loot]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Glacial Assault",
+      "tooltip": "Glacial Assault: With 2 items equipped - Glaciation +72. With 3 items equipped - Glaciation +78",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Glacial_Assault",
+          "title": "Named item sets",
+          "text": "Glacial Assault"
+        }
+      ]
+    },
+    {
+      "text": "Efficient Metamagic - Maximize II",
+      "tooltip": "Efficient Metamagic - Maximize II: The additional spell point cost for using the Maximize Metamagic feat is reduced by 4 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Maximize II"
+        }
+      ]
+    },
+    {
+      "text": "Efficient Metamagic - Extend II",
+      "tooltip": "Efficient Metamagic - Extend II: The additional spell point cost for using the Extend Metamagic feat is reduced by 2 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Extend II"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Hands Boost +1 or +3",
+      "tooltip": "Mythic Hands Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Hands Boost"
+        }
+      ]
+    }
+  ]
+}

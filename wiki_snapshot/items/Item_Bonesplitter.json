@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Bonesplitter",
+  "page_id": 19633,
+  "revision_id": 677987,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:13:06.199013+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Bonesplitter\n  | type                     = Great Club\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA}}\n  | damage                   = 2.60[1d10] + 5 Bludgeon, Magic\n  | crit                     = 17-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 175\n  | material                 = Wood\n  | hardness                 = 15\n  | basevalue                = 20000pp 5gp\n  | weight                   = 8 lbs\n  | quest                    = Hound of Xoriat\n  | chest                    = Side chest (Heroic Hard or Elite)\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Fracturing}}\n* {{Bonesplitter}}\n* {{Blunt Trauma}}\n* {{Impact|I}}\n* {{Maiming}}\n  | description              = A grim weapon in its original purpose, the Bonesplitter was made more brutal still when the influence of Xoriat seeped into it. It deals grievous damage to most enemies with a skeleton, even severely crippling them on particularly strong blows.\n  | pic                      = Bonesplitter shown.jpg\n  | picdesc                  = Bonesplitter.png\n  | tips                     =\n* Only drops on Hard and Elite difficulty.\n}}\n[[C:Impact items with expanded crit profiles]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fracturing",
+      "tooltip": "Fracturing: This weapon is ideal for breaking bones and deals 2 to 12 damage to targets that have skeletons or are made of bone.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fracturing",
+          "title": "Fracturing",
+          "text": "Fracturing"
+        }
+      ]
+    },
+    {
+      "text": "Bonesplitter",
+      "tooltip": "Bonesplitter: This weapon is powerful enough to shatter the bones of those it strikes. On an attack roll of 20 which is confirmed as a critical hit, the weapon breaks multiple bones in the target's body, causing significant impairment. Creatures with skeletons take 40d6 damage and will have their movement and attacks slowed by 25% and their attack damage reduced by 25% when their bones are shattered.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bonesplitter",
+          "title": "Bonesplitter",
+          "text": "Bonesplitter"
+        }
+      ]
+    },
+    {
+      "text": "Blunt Trauma",
+      "tooltip": "Blunt Trauma: This weapon is incredibly dense and delivers especially powerful blows. When rolling a 19 or 20 on a melee attack, your critical multiplier is increased by +1.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blunt_Trauma",
+          "title": "Blunt Trauma",
+          "text": "Blunt Trauma"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Maiming",
+      "tooltip": "Maiming: This weapon has a twisted haft or grip and spikes along its blade, head, or point. Whenever you score a critical hit with this weapon it deals an amount of extra untyped damage depending on its critical multiplier: x2 - 1 to 6, x3 - 2 to 12, x4 - 3 to 18.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maiming",
+          "title": "Maiming",
+          "text": "Maiming"
+        }
+      ]
+    }
+  ]
+}

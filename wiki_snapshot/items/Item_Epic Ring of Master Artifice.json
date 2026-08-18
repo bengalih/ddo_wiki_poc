@@ -1,0 +1,254 @@
+{
+  "page_title": "Item:Epic Ring of Master Artifice",
+  "page_id": 19533,
+  "revision_id": 630324,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:54:06.771166+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Epic Ring of Master Artifice\n  | minlevel                 = 20\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | durability               = 210\n  | material                 = Steel\n  | hardness                 = 22\n  | basevalue                = 8020pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Vaults of the Artificers\n  | end reward               = <!-- -->\n  | turn in                  = <!-- -->\n  | chest                    = from exchanged challenge rewards or upgraded from [[Ring of Master Artifice|level 16 version]]\n  | mythic                   = no\n  | enhancements             = \n{{VaultsOfTheArtificersUpgrade}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = <!--yes-->\n  | description              = A ring said to have been worn by a legendary artificer. Using it, he was able to take things that seemed beyond repair and make them good as new.\n  | pic                      = Ring Generic Artifice.png\n  | picdesc                  = Epic Ring of Master Artifice.png\n  | tips                     =\n* {{Popup|Tier 2|[[Image:Epic Ring of Master Artifice (Tier 2).png|452 px]]|long=y}}\n* {{Popup|Tier 3|[[Image:Epic Ring of Master Artifice (Tier 3).png|452 px]]|long=y}}\n}}\n[[Category:Epic_items]]\n[[Category:Cannith Challenge epic items]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": "Upgradeable - Tier 1: This item is a Tier 1 upgradable item.",
+      "children": [
+        {
+          "text": "Reconstruct — 1 Charges (Recharged/Day:1)",
+          "tooltip": "ReconstructCaster level: 10Charges: 1 (1/day)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Reconstruct",
+              "title": "Reconstruct",
+              "text": "Reconstruct"
+            }
+          ]
+        },
+        {
+          "text": "Wizardry +192",
+          "tooltip": "Wizardry +192: +192 Enhancement bonus to spell points.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Wizardry",
+              "title": "Wizardry",
+              "text": "Wizardry +192"
+            }
+          ]
+        },
+        {
+          "text": "Reconstruction +110",
+          "tooltip": "Reconstruction +110: Passive: +110 Equipment bonus to Repair and Rust Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Reconstruction",
+              "title": "Reconstruction",
+              "text": "Reconstruction +110"
+            }
+          ]
+        },
+        {
+          "text": "Repair Lore +16%",
+          "tooltip": "Repair Lore +16: Passive: Your Repair and Rust spells gain a 16% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Repair Lore +16%"
+            }
+          ]
+        },
+        {
+          "text": "Greater Auto-Repair",
+          "tooltip": "Greater Auto-Repair: This item has a small percentage chance to cast a Reconstruct spell on you when you take damage.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Auto-Repair#Greater_Auto-Repair",
+              "title": "Auto-Repair",
+              "text": "Greater Auto-Repair"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": "Upgradeable - Tier 2: This item is a Tier 2 upgradable item.",
+      "children": [
+        {
+          "text": "Wizardry +192 → Wizardry +206",
+          "tooltip": "Wizardry +192: +192 Enhancement bonus to spell points. Wizardry +206: +206 Enhancement bonus to spell points.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Wizardry",
+              "title": "Wizardry",
+              "text": "Wizardry +192"
+            },
+            {
+              "target": "/page/Wizardry",
+              "title": "Wizardry",
+              "text": "Wizardry +206"
+            }
+          ]
+        },
+        {
+          "text": "Reconstruction +110 → Reconstruction +116",
+          "tooltip": "Reconstruction +110: Passive: +110 Equipment bonus to Repair and Rust Spell Power.Reconstruction +116: Passive: +116 Equipment bonus to Repair and Rust Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Reconstruction",
+              "title": "Reconstruction",
+              "text": "Reconstruction +110"
+            },
+            {
+              "target": "/page/Reconstruction",
+              "title": "Reconstruction",
+              "text": "Reconstruction +116"
+            }
+          ]
+        },
+        {
+          "text": "Repair Lore +16% → Repair Lore +17%",
+          "tooltip": "Repair Lore +16: Passive: Your Repair and Rust spells gain a 16% Equipment bonus to their chance to critical hit.Repair Lore +17: Passive: Your Repair and Rust spells gain a 17% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Repair Lore +16%"
+            },
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Repair Lore +17%"
+            }
+          ]
+        },
+        {
+          "text": "Adds Colorless Augment Slot",
+          "tooltip": "Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Colorless Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This item is a Tier 3 upgradable item.",
+      "children": [
+        {
+          "text": "Wizardry +206 → Wizardry +220",
+          "tooltip": "Wizardry +206: +206 Enhancement bonus to spell points. Wizardry +220: +220 Enhancement bonus to spell points.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Wizardry",
+              "title": "Wizardry",
+              "text": "Wizardry +206"
+            },
+            {
+              "target": "/page/Wizardry",
+              "title": "Wizardry",
+              "text": "Wizardry +220"
+            }
+          ]
+        },
+        {
+          "text": "Reconstruction +116 → Reconstruction +122",
+          "tooltip": "Reconstruction +116: Passive: +116 Equipment bonus to Repair and Rust Spell Power.Reconstruction +122: Passive: +122 Equipment bonus to Repair and Rust Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Reconstruction",
+              "title": "Reconstruction",
+              "text": "Reconstruction +116"
+            },
+            {
+              "target": "/page/Reconstruction",
+              "title": "Reconstruction",
+              "text": "Reconstruction +122"
+            }
+          ]
+        },
+        {
+          "text": "Repair Lore +17% → Repair Lore +18%",
+          "tooltip": "Repair Lore +17: Passive: Your Repair and Rust spells gain a 17% Equipment bonus to their chance to critical hit.Repair Lore +18: Passive: Your Repair and Rust spells gain a 18% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Repair Lore +17%"
+            },
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Repair Lore +18%"
+            }
+          ]
+        },
+        {
+          "text": "Adds Repair Systems",
+          "tooltip": "Repair Systems: This item gradually repairs constructs and living constructs.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Repair_Systems",
+              "title": "Repair Systems",
+              "text": "Repair Systems"
+            }
+          ]
+        },
+        {
+          "text": "Adds Green Augment Slot",
+          "tooltip": "Blue, Green, Yellow, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Green Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

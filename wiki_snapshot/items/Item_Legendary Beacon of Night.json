@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Beacon of Night",
+  "page_id": 68635,
+  "revision_id": 631808,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:31:16.126291+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Beacon of Night\n  | damage                   = 4.80[1d8+2] + 15 Bludgeon, Magic\n  | type                     = Heavy Mace\n  | crit                     = 19-20 / x2\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | durability               = 350\n  | damagemod                = STR\n  | attackmod                = STR\n  | cost                     = 11,601pp 2gp\n  | weight                   = 8 lbs\n  | material                 = Steel\n  | hardness                 = 39\n  | minlevel                 = 29\n  | description              = This mace, named for the great light rising from Stormreach Harbor, longs for its twin.\n  | enhancements             = \n* {{Enhancement bonus|w|15}} \n* {{Reverberating|6}}\n* {{Disruption|Sovereign}}\n* {{Armor-Piercing|20}}\n* {{Impact}}\n* {{Augment|Red}}\n* {{Named item sets|Heavy Warfare (Legendary)}}\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 38\n  | quest                    = Night Falls on Stormreach\n  | chest                    = End Chest\n  | pic                      = Legendary_Beacon_of_Night_shown.jpg\n  | picdesc                  = Legendary_Beacon_of_Night.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Heavy Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Reverberating 6",
+      "tooltip": "Reverberating 6: This effect causes the edges of this weapon to pulse with sound, dealing 6d6 sonic damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reverberating",
+          "title": "Reverberating",
+          "text": "Reverberating 6"
+        }
+      ]
+    },
+    {
+      "text": "Sovereign Disruption",
+      "tooltip": "Sovereign Disruption: On Hit: 4 to 24 Bane damage to Undead.On Vorpal Hit: If an undead struck by this weapon has fewer than 3000 Hit Points, it is instantly slain. If the undead has above 3000 Hit Points, it takes 300 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disruption#Sovereign_Disruption",
+          "title": "Disruption",
+          "text": "Sovereign Disruption"
+        }
+      ]
+    },
+    {
+      "text": "Armor-Piercing 20%",
+      "tooltip": "Armor-Piercing 20%: Passive: +20% Enhancement bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Armor-Piercing 20%"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Heavy Warfare (Legendary)",
+      "tooltip": "Heavy Warfare (Legendary): 2 Pieces Equipped:+15 Artifact Bonus to Melee Power+15 Artifact Bonus to Doublestrike",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Heavy_Warfare_(Legendary)",
+          "title": "Named item sets",
+          "text": "Heavy Warfare (Legendary)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Puzzle Cap",
+  "page_id": 4902,
+  "revision_id": 634075,
+  "revision_timestamp": "2025-04-22T02:57:15Z",
+  "fetched_at": "2026-08-17T22:40:52.001787+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Puzzle Cap\n  | basevalue                = 405 pp\n  | weight                   = 0.10 lbs\n  | type                     = Helm\n  | slot                     = Head\n  | durability               = 30\n  | material                 = Cloth\n  | hardness                 = 5\n  | minlevel                 = 0\n  | quest                    = The Seal of Shan-To-Kor\n  | end reward               = yes\n  | bind                     = {{Bind|BtA|boa}}\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|INT|2}}\n  | description              = When placed in the correct configuration, these loose pieces of misshapen cloth magically formed an elaborate headpiece.\n  | pic                      = Puzzle Cap shown.jpg\n  | picdesc                  = Puzzle Cap.png\n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "enchantments": [
+    {
+      "text": "Intelligence +2",
+      "tooltip": "Intelligence +2: This item focuses the power of the wearer's mind, granting a +2 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +2"
+        }
+      ]
+    }
+  ]
+}

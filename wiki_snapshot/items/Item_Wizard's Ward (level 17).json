@@ -1,0 +1,150 @@
+{
+  "page_title": "Item:Wizard's Ward (level 17)",
+  "page_id": 41500,
+  "revision_id": 690641,
+  "revision_timestamp": "2026-06-30T16:31:42Z",
+  "fetched_at": "2026-08-17T23:27:24.628240+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = {{Item|Wizard's Ward}}\n  | type                     = Orb\n  | prof                     = Magical Training\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 17\n  | damagemod                = INT, CHA\n  | attmod                   = INT, CHA\n  | bind                     = {{Bind|BtC|BoE}}\n  | sb                       = +0\n  | maxdexbonus              = \n  | dr                       = 0\n  | acp                      = 0\n  | asf                      = 0\n  | dmg                      = [1d6] + 0\n  | dmgtype                  = Force\n  | crit                     = 20 / x2\n  | durability               = 235\n  | material                 = Gem\n  | hardness                 = 27\n  | basevalue                = 7102pp\n  | weight                   = 3 lbs\n  | quest                    = Detour\n  | chest                    = [[Song]]'s chest (Heroic Hard)\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|o|5}}\n* {{Spell Focus|Spell|I}}\n* {{Spellpen|ii}}\n* {{Absorption|Elemental|5}}\n* One of the following Spell Power bonuses: \n** {{SpellPower|Combustion|84}}\n** {{SpellPower|Corrosion|84}}\n** {{SpellPower|Glaciation|84}}\n** {{SpellPower|Impulse|84}}\n** {{SpellPower|Magnetism|84}}\n  | description              = This incomparable crystal orb is imbued with a myriad of enchantments to help a wielder better focus and direct arcane energies.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Wizard's Ward shown.jpg\n  | picdesc                  = Wizard's Ward (Level 17).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Magical Training",
+  "material": "Gem",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 17,
+  "enchantments": [
+    {
+      "text": "+5 Orb Bonus",
+      "tooltip": "+5 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +5 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Orb Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Spell Focus I",
+      "tooltip": "Spell Focus I: +1 Equipment bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Spell Focus I"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration II",
+      "tooltip": "Spell Penetration II: Passive: +2 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration II"
+        }
+      ]
+    },
+    {
+      "text": "Elemental Absorption +5%",
+      "tooltip": "Elemental Absorption +5%: Passive: 5% Enhancement Bonus to Acid, Cold, Fire, and Electrical Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Elemental Absorption +5%"
+        }
+      ]
+    },
+    {
+      "text": "One of the following Spell Power bonuses:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "Combustion +84",
+          "tooltip": "Combustion +84: Passive: +84 Equipment bonus to Fire Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Combustion",
+              "title": "Combustion",
+              "text": "Combustion +84"
+            }
+          ]
+        },
+        {
+          "text": "Corrosion +84",
+          "tooltip": "Corrosion +84: Passive: +84 Equipment bonus to Acid Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Corrosion_(spell_boost)",
+              "title": "Corrosion (spell boost)",
+              "text": "Corrosion +84"
+            }
+          ]
+        },
+        {
+          "text": "Glaciation +84",
+          "tooltip": "Glaciation +84: Passive: +84 Equipment bonus to Cold Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Glaciation",
+              "title": "Glaciation",
+              "text": "Glaciation +84"
+            }
+          ]
+        },
+        {
+          "text": "Impulse +84",
+          "tooltip": "Impulse +84: Passive: +84 Equipment bonus to Force, Untyped, Slashing, Piercing, and Bludgeoning Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Impulse",
+              "title": "Impulse",
+              "text": "Impulse +84"
+            }
+          ]
+        },
+        {
+          "text": "Magnetism +84",
+          "tooltip": "Magnetism +84: Passive: +84 Equipment bonus to Electricity Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Magnetism",
+              "title": "Magnetism",
+              "text": "Magnetism +84"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

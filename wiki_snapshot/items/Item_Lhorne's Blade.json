@@ -1,0 +1,30 @@
+{
+  "page_title": "Item:Lhorne's Blade",
+  "page_id": 9546,
+  "revision_id": 645963,
+  "revision_timestamp": "2025-06-25T03:02:46Z",
+  "fetched_at": "2026-08-17T22:16:54.084890+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Lhorne's Blade\n  | type                     = Long Sword\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | minlevel                 = 0\n  | reqtrait                 = \n  | UMD DC                   = \n  | bind                     = {{Bind|BtC|boa}}\n  | damage                   = [1d8] + 0 Slash\n  | crit                     = 19-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 80\n  | material                 = Steel \n  | hardness                 = 11\n  | mythic                   = no\n  | enhancements             = \n* {{Bane|Monstrous Humanoid|lesser}}\n  | description              = This longsword has been dented from use. Once wielded by the young warrior Lhorne, it is said to be quite potent against the Sahuagin.\n  | basevalue                = 201pp 5gp\n  | weight                   = 4 lbs\n  | quest                    = The Collaborator\n  | end reward               = yes\n  | pic                      = Lhorne's Blade shown.jpg\n  | picdesc                  = Lhorne's Blade.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "Lesser Monstrous Humanoid Bane",
+      "tooltip": "Lesser Monstrous Humanoid Bane: A bane weapon excels at attacking one type or subtype of creature. Against Monstrous Humanoids, this weapon's effective enhancement bonus is +1 better than its normal enhancement bonus. It deals an extra 1 to 6 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Lesser Monstrous Humanoid Bane"
+        }
+      ]
+    }
+  ]
+}

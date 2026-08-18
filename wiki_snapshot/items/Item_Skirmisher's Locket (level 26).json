@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Skirmisher's Locket (level 26)",
+  "page_id": 41472,
+  "revision_id": 649577,
+  "revision_timestamp": "2025-07-26T19:12:42Z",
+  "fetched_at": "2026-08-17T23:00:19.595631+00:00",
+  "categories": [],
+  "wikitext": "{{Non-food|WAI=true}}\n{{Named item|Jewelry\n  | name                     = Skirmisher's Locket\n  | minlevel                 = 26\n  | type                     = Necklace\n  | slot                     = Neck\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 180\n  | material                 = Gold\n  | hardness                 = 27\n  | basevalue                = 10,420 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 19\n  | quest                    = Friends in Low Places\n  | end reward               = yes\n  | turn in                  = <!-- Leave blank if not used-->\n  | chest                    = <!-- Leave blank if not used-->\n  | mythic                   = no\n  | enhancements             = \n* {{Dodge|9}}\n* {{Deadly|VIII}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Necklace Generic.png\n  | picdesc                  = Skirmisher's Locket (Level 26).png\n  | tips                     = \n}}",
+  "item_template": "Non-food",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "Dodge +9%",
+      "tooltip": "Dodge +9%: +9% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +9%"
+        }
+      ]
+    },
+    {
+      "text": "Deadly VIII",
+      "tooltip": "Deadly VIII: Passive: +8 Competence bonus to Melee and Ranged damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Deadly VIII"
+        }
+      ]
+    }
+  ]
+}

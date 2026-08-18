@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Skartongue's Ladel",
+  "page_id": 8026,
+  "revision_id": 634806,
+  "revision_timestamp": "2025-04-22T03:45:57Z",
+  "fetched_at": "2026-08-17T22:59:49.090745+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Skartongue's Ladel\n  | damage                   = [1d6] + 2 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | type                     = Light Mace\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 70\n  | material                 = Steel \n  | hardness                 = 12\n  | basevalue                = 800 pp 5 gp\n  | weight                   = 4 lbs\n  | quest                    = Irestone Inlet\n  | chest                    = [[Skartongue]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Shocking Touch}}\n* {{Augment|Red}}\n  | pic                      = Skartongue's Ladel shown.jpg\n  | picdesc                  = Skartongue's Ladel.png\n  | description              = This magical mace, a trophy of battle, is magically enhanced.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Light Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Shocking Touch",
+      "tooltip": "Shocking Touch: This weapon tingles when held. A shocking touch weapon deals an extra +1 electric damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shocking_Touch",
+          "title": "Shocking Touch",
+          "text": "Shocking Touch"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

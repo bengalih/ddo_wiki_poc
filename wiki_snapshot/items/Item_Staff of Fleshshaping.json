@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Staff of Fleshshaping",
+  "page_id": 14555,
+  "revision_id": 635010,
+  "revision_timestamp": "2025-04-22T03:59:21Z",
+  "fetched_at": "2026-08-17T23:04:52.194330+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Staff of Fleshshaping\n  | damage                   = 2[1d6] + 5 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Simple\n  | durability               = 160\n  | material                 = Wood\n  | hardness                 = 18\n  | minlevel                 = 14\n  | released                 = Update 9\n  | quest                    = Sinister Storage\n  | chest                    = End chest\n  | end reward               = \n  | basevalue                = 12,800pp 2cp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|i|5}}\n* {{SpellPower|Devotion|72}}\n* {{Spelllore|Healing|V}}\n* {{SpellPower|Nullification|72}}\n* {{Spelllore|Void|V}}\n* {{Efficient Metamagic|Empower Healing|2}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Master Transmuter's Staff shown.jpg\n  | picdesc                  = Staff of Fleshshaping.png\n  | description              = A staff apparently carved and whittled down from an unknown creature's bone. You get the sense it was used for fell purposes, but turned towards better ends it might aid you in the arts of healing.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +15",
+      "tooltip": "Spellcasting Implement +15: Passive: +15 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +15"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +72",
+      "tooltip": "Devotion +72: Passive: +72 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +72"
+        }
+      ]
+    },
+    {
+      "text": "Healing Lore V",
+      "tooltip": "Healing Lore V: Passive: Your Positive Energy spells gain a 15% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Healing Lore V"
+        }
+      ]
+    },
+    {
+      "text": "Nullification +72",
+      "tooltip": "Nullification +72: Passive: +72 Equipment bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Nullification +72"
+        }
+      ]
+    },
+    {
+      "text": "Void Lore V",
+      "tooltip": "Void Lore V: Passive: Your Negative Energy and Poison spells gain a 15% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Void Lore V"
+        }
+      ]
+    },
+    {
+      "text": "Efficient Metamagic - Empower Healing II",
+      "tooltip": "Efficient Metamagic - Empower Healing II: The additional spell point cost for using the Empower Healing Metamagic feat is reduced by 2 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Empower Healing II"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Epic Flotsam (level 28)",
+  "page_id": 71005,
+  "revision_id": 691291,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:50:00.687069+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = [[Flotsam|Epic Flotsam]] (Level 28)\n  | damage                   = 4.60[1d4] + 12 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Dagger\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Piercing\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 28\n  | durability               = 335\n  | material                 = Densewood\n  | hardness                 = 38\n  | cost                     = 11,201 pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA|}}\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|silver|1500}}{{CCi|golden|600}}{{CCi|jasper|45}}{{CCi|green|900}} at [[Euphonia's Barter Box]]\n  | revamped                 = Update 76\n  | mythic                   = no\n  | epic                     = \n  | enhancements             = \n* {{Enhancement bonus|w|12}}\n* {{Disruption|Superior}}\n* {{Bludgeoning|6}}\n* {{Corrosive Salt}}\n* {{Bane|Undead|6}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This driftwood shard has saved a few lives by being hard to detect as a weapon. It seems to be effective against the undead.\n  | pic                      = Flotsam shown.jpg\n  | picdesc                  = Epic Flotsam (level 28).png\n  | tips                     = \n}}<noinclude>[[Category:Treasure of Crystal Cove epic items]]</noinclude>",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+12 Enhancement Bonus",
+      "tooltip": "+12 Enhancement Bonus: +12 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+12 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Superior Disruption",
+      "tooltip": "Superior Disruption: On Hit: 4 to 24 Bane damage to Undead.On Vorpal Hit: If an undead struck by this weapon has fewer than 2500 Hit Points, it is instantly slain. If the undead has above 2500 Hit Points, it takes 250 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disruption#Superior_Disruption",
+          "title": "Disruption",
+          "text": "Superior Disruption"
+        }
+      ]
+    },
+    {
+      "text": "Bludgeoning 6",
+      "tooltip": "Bludgeoning 6: The edges of this weapon are blunted, dealing an additional 6d6 bludgeon damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bludgeoning",
+          "title": "Bludgeoning",
+          "text": "Bludgeoning 6"
+        }
+      ]
+    },
+    {
+      "text": "Corrosive Salt",
+      "tooltip": "Corrosive Salt: This weapon stores a caustic, insatiable power deep within. When this weapon is used, this power can come to the surface in the form of a noxious, corrosive salt that dissolves all substances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosive_Salt",
+          "title": "Corrosive Salt",
+          "text": "Corrosive Salt"
+        }
+      ]
+    },
+    {
+      "text": "Undead Bane 6",
+      "tooltip": "Undead Bane 6: Those that have died must return, and this weapon is attuned specifically to lay them to rest. This weapon deals an additional 6d10 bane damage vs. Undead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Undead Bane 6"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

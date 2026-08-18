@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Helm of the Blue Dragon (historic)",
+  "page_id": 11428,
+  "revision_id": 631429,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:20:20.853848+00:00",
+  "categories": [],
+  "wikitext": "{{History||type=Item|replaced={{Item|Helm of the Blue Dragon}}}}\n{{Named item|Clothing\n  | name                     = {{Item|Helm of the Blue Dragon}}\n  | type                     = Helm\n  | class                    = Clothing\n  | slot                     = Head\n  | durability               = 80\n  | material                 = Leather\n  | hardness                 = 17\n  | basevalue                = 4,920 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 13\n  | bind                     = {{Bind|no}}\n  | quest                    = Gianthold Tor\n  | chest                    = [[Yorgulhar|Blue Dragon]]'s chest\n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Lightning Bolt|6|1}} \n* {{Stat|INT|5}}\n  | description              = This helm is crafted in the likness of a cunning blue dragon.\n  | pic                      = Helm of the Blue Dragon shown.jpg\n  | picdesc                  = Helm of the Blue Dragon (historic).png\n}}",
+  "item_template": "History",
+  "material": "Leather",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Lightning Bolt — 1 Charges (Recharged/Day:1)",
+      "tooltip": "Lightning BoltCaster level: 6Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lightning_Bolt",
+          "title": "Lightning Bolt",
+          "text": "Lightning Bolt"
+        }
+      ]
+    },
+    {
+      "text": "Intelligence +5",
+      "tooltip": "Intelligence +5: This item focuses the power of the wearer's mind, granting a +5 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +5"
+        }
+      ]
+    }
+  ]
+}

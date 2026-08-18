@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Staff of the Demonic Resurrector",
+  "page_id": 126757,
+  "revision_id": 699660,
+  "revision_timestamp": "2026-07-24T15:51:10Z",
+  "fetched_at": "2026-08-17T23:04:59.367039+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Staff of the Demonic Resurrector\n  | damage                   = 1.20[1d6] + 5 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = Two-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 190\n  | material                 = Steel\n  | hardness                 = 21\n  | minlevel                 = 11\n  | basevalue                = 4,400pp 1cp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 81\n  | quest                    = Catalyst Crafting\n  | turn in                  = {{Item|Staff of the Necromancer}}, its [[Abyssal Catalyst]] and 50 {{Item|Abyssal Gem}}s at the [[Strange Catalyst Forge]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|5|11}}\n* {{Spell Focus|Necromancy|2|Insightful}}\n* {{Spell Lore|Blighted|13}}\n* {{SpellPower|Power of the Blight|86}}\n* {{Augmentation|1|Arcane|IX}}\n* {{Equipoised Focus}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Fallen Demons have a curious habit of returning.\n  | pic                      = Staff of the Demonic Resurrector shown.jpg\n  | picdesc                  = Staff of the Demonic Resurrector.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +11",
+      "tooltip": "Spellcasting Implement +11: Passive: +11 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +11"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Necromancy Focus +2",
+      "tooltip": "Insightful Necromancy Focus +2: +2 Insight bonus to the DC of Necromancy spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Necromancy Focus +2"
+        }
+      ]
+    },
+    {
+      "text": "Blighted Lore +13%",
+      "tooltip": "Blighted Lore +13: Passive: Your Acid, Negative, Poison and Evil spells gain a 13% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Blighted Lore +13%"
+        }
+      ]
+    },
+    {
+      "text": "Power of the Blight +86",
+      "tooltip": "Power of the Blight +86: Passive: +86 Equipment bonus to Acid, Negative, Poison and Evil Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power_of_the_Blight",
+          "title": "Power of the Blight",
+          "text": "Power of the Blight"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Arcane Augmentation IX",
+      "tooltip": "Lesser Arcane Augmentation IX: Increases the wearer's caster level when casting ninth level or lower sorcerer or wizard spells by one.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Augmentation",
+          "title": "Spell Augmentation",
+          "text": "Lesser Arcane Augmentation IX"
+        }
+      ]
+    },
+    {
+      "text": "Equipoised Focus",
+      "tooltip": "Equipoised Focus: Your two-handed weapon gains a +2 Exceptional focus to Spell DCs and is considered an Implement.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Equipoised_Focus",
+          "title": "Equipoised Focus",
+          "text": "Equipoised Focus"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

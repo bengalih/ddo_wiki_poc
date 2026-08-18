@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Nicked Heavy Mace",
+  "page_id": 10321,
+  "revision_id": 640778,
+  "revision_timestamp": "2025-05-17T05:54:28Z",
+  "fetched_at": "2026-08-17T22:30:51.495322+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Nicked Heavy Mace\n  | type                     = Heavy Mace\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|boa}}\n  | damage                   = [1d8] + 2 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 80\n  | material                 = Steel \n  | hardness                 = 12\n  | basevalue                = 200pp 2gp\n  | weight                   = 8 lbs\n  | released                 = Update 0\n  | revamped                 = Update 36\n  | quest                    = The Sharn Syndicate\n  | end reward               = yes\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement_bonus|w|2}}\n* {{Impactful|2}}\n* {{Stunning|4}}\n* {{Deadly|3}}\n  | description              = A simple weapon comprised of a solid blunt head attached to a haft. A religious symbol appears to have been defaced on the head of the weapon.\n  | pic                      = Nicked Heavy Mace shown.jpg\n  | picdesc                  = Nicked Heavy Mace.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Heavy Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Impactful 2",
+      "tooltip": "Impactful 2: This effect causes the edges of this weapon to ripple with force, dealing 2 to 12 force on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impactful",
+          "title": "Impactful",
+          "text": "Impactful 2"
+        }
+      ]
+    },
+    {
+      "text": "Stunning +4",
+      "tooltip": "Stunning +4: +4 Enhancement bonus to the DC of character's Stunning Blow and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stunning",
+          "title": "Stunning",
+          "text": "Stunning +4"
+        }
+      ]
+    },
+    {
+      "text": "Deadly +3",
+      "tooltip": "Deadly +3: +3 Competence bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Deadly +3"
+        }
+      ]
+    }
+  ]
+}

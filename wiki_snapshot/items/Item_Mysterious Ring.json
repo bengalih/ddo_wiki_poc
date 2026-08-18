@@ -1,0 +1,107 @@
+{
+  "page_title": "Item:Mysterious Ring",
+  "page_id": 11182,
+  "revision_id": 699547,
+  "revision_timestamp": "2026-07-24T12:59:06Z",
+  "fetched_at": "2026-08-17T22:29:27.076425+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Mysterious Ring\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 120\n  | material                 = Gold\n  | hardness                 = 16\n  | basevalue                = 4,420 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 11\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = The Chamber of Raiyum\n  | chest                    = treasure chamber chest\n  | food                     = no\n  | enhancements             = \n* {{Craftable}} \n* {{Augment|Yellow}}\n* One of the following sets, at random:\n** {{Named item sets|The Desert's Biting Sands}}\n** {{Named item sets|The Desert's Burning Sun}}\n** {{Named item sets|The Desert's Starless Nights}}\n** {{Named item sets|The Desert's Writhing Storm}}\n  | crafting                 = Essence Crafting\n  | description              = A featureless gold band that has some mysterious magical effect.<br /><br />This item may be used with Essence Crafting.\n  | tips                     = Since [[Update 55]], this ring has a Yellow augment slot, one ''random'' Menechtarun set bonus, and can be upgraded via [[Essence Crafting]]. When disjuncted for crafting, this item loses any [[Reaper bonus]] it possesses.\n* There is no \"Epic\" version of this item. However, it can be Essence Crafted to any ML desired.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Mysterious Ring.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Craftable",
+      "tooltip": "Craftable : This item can be enhanced via Essence Crafting.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Essence_Crafting",
+          "title": "Essence Crafting",
+          "text": "Craftable"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "One of the following sets, at random:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "The Desert's Biting Sands",
+          "tooltip": "The Desert's Biting Sands: 2 Pieces Equipped:+2% Artifact bonus to Force Spellcrit Chance+10 Artifact bonus to Force Spellpower+10 Artifact bonus to Magical Resistance Rating Cap",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Named_item_sets#The_Desert's_Biting_Sands",
+              "title": "Named item sets",
+              "text": "The Desert's Biting Sands"
+            }
+          ]
+        },
+        {
+          "text": "The Desert's Burning Sun",
+          "tooltip": "The Desert's Burning Sun: 2 Pieces Equipped:+2% Artifact bonus to Fire Spellcrit Chance+10 Artifact bonus to Fire Spellpower+5 Artifact bonus to Physical Resistance Rating",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Named_item_sets#The_Desert's_Burning_Sun",
+              "title": "Named item sets",
+              "text": "The Desert's Burning Sun"
+            }
+          ]
+        },
+        {
+          "text": "The Desert's Starless Nights",
+          "tooltip": "The Desert's Starless Nights: 2 Pieces Equipped:+2% Artifact bonus to Negative and Poison Spellcrit Chance+10 Artifact bonus to Negative and Poison Spellpower+5% Artifact bonus to Damage vs the Helpless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Named_item_sets#The_Desert's_Starless_Nights",
+              "title": "Named item sets",
+              "text": "The Desert's Starless Nights"
+            }
+          ]
+        },
+        {
+          "text": "The Desert's Writhing Storm",
+          "tooltip": "The Desert's Writhing Storm: 2 Pieces Equipped:+2% Artifact bonus to Electric Spellcrit Chance+10 Artifact bonus to Electric Spellpower+10 Artifact bonus to Magical Resistance Rating",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Named_item_sets#The_Desert's_Writhing_Storm",
+              "title": "Named item sets",
+              "text": "The Desert's Writhing Storm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

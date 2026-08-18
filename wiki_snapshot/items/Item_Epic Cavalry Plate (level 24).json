@@ -1,0 +1,92 @@
+{
+  "page_title": "Item:Epic Cavalry Plate (level 24)",
+  "page_id": 72547,
+  "revision_id": 629919,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:46:00.877127+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Cavalry Plate|Epic Cavalry Plate}}\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | race                     = \n  | minlevel                 = 24\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +31\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 432\n  | material                 = Mithral\n  | hardness                 = 35\n  | basevalue                = 9,750 pp\n  | weight                   = 25 lbs\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|silver|1250}}{{CCi|golden|500}}{{CCi|opal|40}}{{CCi|green|800}} at [[Euphonia's Barter Box]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|7}}\n* {{Demonic Shield|Improved}}\n* {{Hp|False Life|42}} \n* {{DR|20|Chaotic}}\n* {{Resistance|9}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = High-seas pirates plundered this richly-decorated plate mail from naval cavalry officers. Although it did not suit the pirates well, a fighter looking for better protection may benefit from it.\n  | pic                      = Cavalry Plate shown.jpg\n  | picdesc                  = Epic Cavalry Plate (level 24).png\n  | notes                    = See also: {{Item|Cavalry Plate}} - Full table of the Cavalry Plate line\n}}<noinclude>[[Category:Treasure of Crystal Cove epic items]]</noinclude>",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Improved Demonic Shield",
+      "tooltip": "Improved Demonic Shield: Each time you are hit in melee combat there is a chance that a shield of demonic energy will grant you a +120 Profane bonus to temporary hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Demonic_Shield#Improved_Demonic_Shield",
+          "title": "Demonic Shield",
+          "text": "Improved Demonic Shield"
+        }
+      ]
+    },
+    {
+      "text": "False Life +42",
+      "tooltip": "False Life +42: +42 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +42"
+        }
+      ]
+    },
+    {
+      "text": "DR 20/Chaotic",
+      "tooltip": "Damage Reduction 20/Chaotic: Reduces physical damage by 20, except from Chaotic attacks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +9",
+      "tooltip": "Resistance +9: Passive: +9 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +9"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

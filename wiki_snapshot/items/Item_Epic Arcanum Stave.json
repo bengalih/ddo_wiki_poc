@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Epic Arcanum Stave",
+  "page_id": 79775,
+  "revision_id": 629823,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:44:15.994994+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Arcanum Stave\n  | damage                   = 3.60[1d6] + 6 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | attackmod                = STR\n  | damagemod                = STR\n  | prof                     = Simple\n  | durability               = 280\n  | material                 = Steel\n  | hardness                 = 33\n  | minlevel                 = 23\n  | basevalue                = 9200pp 2cp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 45\n  | quest                    = Endgame: Marguerite\n  | chest                    = End chest\n  | enhancements             = \n* {{Enhancement bonus|i|6|23}}\n* {{Spell Lore|Kinetic|18}}\n* {{SpellPower|Impulse|122|Equipment}}\n* {{Wizardry|220}}\n* {{SpellPower|Potency|82|Equipment}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This magical weapon channels arcane energy through you.\n  | pic                      = Epic Arcanum Stave shown.jpg\n  | picdesc                  = Epic Arcanum Stave.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +23",
+      "tooltip": "Spellcasting Implement +23: Passive: +23 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +23"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Kinetic Lore +18%",
+      "tooltip": "Kinetic Lore +18: Passive: Your Force, Physical and Untyped spells gain a 18% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Kinetic Lore +18%"
+        }
+      ]
+    },
+    {
+      "text": "Impulse +122",
+      "tooltip": "Impulse +122: Passive: +122 Equipment bonus to Force, Untyped, Slashing, Piercing, and Bludgeoning Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impulse",
+          "title": "Impulse",
+          "text": "Impulse +122"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry +220",
+      "tooltip": "Wizardry +220: +220 Enhancement bonus to spell points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry +220"
+        }
+      ]
+    },
+    {
+      "text": "Potency +82",
+      "tooltip": "Potency +82: Passive: +82 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +82"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

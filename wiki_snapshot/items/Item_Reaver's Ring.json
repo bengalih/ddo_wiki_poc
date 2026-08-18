@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Reaver's Ring",
+  "page_id": 11185,
+  "revision_id": 634153,
+  "revision_timestamp": "2025-04-22T03:02:48Z",
+  "fetched_at": "2026-08-17T22:43:01.592200+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Reaver's Ring\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 100\n  | material                 = Gold\n  | hardness                 = 11\n  | basevalue                = 3,620 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 9\n  | bind                     = {{Bind|BtC|BoE}} \n  | quest                    = The Xorian Cipher\n  | chest                    = iron key room\n  | end reward               = \n  | enhancements             = \n* {{Immunity|Fear}}\n* {{Save|w|-2||1}}\n* {{Augment|Green}}\n  | description              = A leaden ring made up of jagged, twisted barbs. The sharp points dig into your finger, causing discomfort.\n  | pic                      = Ring Generic Reavers.png\n  | picdesc                  = Reaver's Ring.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Immunity to Fear",
+      "tooltip": "Immunity to Fear: The wearer of this item is immune to all fear effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Immunity_to_Fear",
+          "title": "Immunity to Fear",
+          "text": "Immunity to Fear"
+        }
+      ]
+    },
+    {
+      "text": "Will Save -2",
+      "tooltip": "Will Save -2: This item gives a -2 penalty to your Will saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Will_save",
+          "title": "Will save",
+          "text": "Will Save -2"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

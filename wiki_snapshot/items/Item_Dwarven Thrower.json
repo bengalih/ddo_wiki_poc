@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Dwarven Thrower",
+  "page_id": 7979,
+  "revision_id": 672657,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:41:08.850934+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Dwarven Thrower\n  | minlevel                 = 6\n  | damage                   = [1d8] + 3 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Throwing Axe\n  | hand                     = Thrown\n  | class                    = Thrown\n  | reqtrait                 = Dwarf\n  | UMD DC                   = 14\n  | attackmod                = STR\n  | damagemod                = STR\n  | prof                     = Martial\n  | durability               = 90\n  | material                 = Steel\n  | hardness                 = 16\n  | bind                     = {{Bind|BtC|BoE}}\n  | basevalue                = 2,400pp 6gp\n  | weight                   = 2 lbs\n  | revamped                 = Update 76\n  | quest                    = The Subterrane - Central\n  | chest                    = [[Garamol]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Extra damage vs Giants}}\n* {{Returning}}\n* {{Extra damage vs non-Giants}}\n  | description              = This throwing axe is of obviously dwarven make.\n  | pic                      = Dwarven Thrower shown.jpg\n  | picdesc                  = Dwarven Thrower.png\n  | tips                     = '''Multiple Drop Locations''': \n*[[Garamol]]'s chest at a high droprate.\n*Rare drop in any Level ~7 Chest. \n*Also seen to drop very rarely from breakables in the Threnal Ruins.\n*Old version (pre-U18) base damage has been upgrade from d6 to d8 and is {{Bind|no}}.\n}}\n[[Category:Random loot]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Throwing Axe",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Extra damage vs Giants",
+      "tooltip": "Extra damage vs Giants: This weapon deals an additional 2 to 16 damage against Giants.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Extra_damage_vs_Giants",
+          "title": "Extra damage vs Giants",
+          "text": "Extra damage vs Giants"
+        }
+      ]
+    },
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "Extra damage vs non-Giants",
+      "tooltip": "Extra damage vs non-Giants: This weapon deals an additional 1 to 8 damage against non-Giants.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Extra_damage_vs_non-Giants",
+          "title": "Extra damage vs non-Giants",
+          "text": "Extra damage vs non-Giants"
+        }
+      ]
+    }
+  ]
+}

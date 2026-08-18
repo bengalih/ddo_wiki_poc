@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Boneshard Flute",
+  "page_id": 4984,
+  "revision_id": 628657,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:13:04.918441+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Boneshard Flute\n  | type                     = Club\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = [1d6] + 2 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 110\n  | material                 = Bone\n  | hardness                 = 11\n  | basevalue                = 2,400 pp 1cp\n  | weight                   = 2 lbs\n  | quest                    = The Missing Party\n  | chest                    = End chest\n  | enhancements             = \n*{{Enhancement bonus|w|2}}\n*{{Skills|Perform|8}}\n*{{Augment|Orange}}\n*{{Clicky|Command Undead|3|3}} \n  | pic                      = Boneshard Flute shown.jpg\n  | picdesc                  = Boneshard Flute.png\n  | description              = A hollowed-out femur bone inscribed with draconic runes. Voice from beyond the grave whisper in your ear while you hold the flute.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Perform +8",
+      "tooltip": "Perform +8: Passive: +8 Competence bonus to the Perform skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Perform",
+          "title": "Perform",
+          "text": "Perform +8"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Command Undead — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Command UndeadCaster level: 3Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Command_Undead",
+          "title": "Command Undead",
+          "text": "Command Undead"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "page_title": "Item:Epic Candlelight",
+  "page_id": 85435,
+  "revision_id": 629896,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:45:40.960151+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Rune Arm\n  | name                     = Epic Candlelight\n  | reqtrait                 = [[Rune Arm Use|Artificer Rune Arm Use]]\n  | UMD DC                   = None\n  | minlevel                 = 23\n  | durability               = 385\n  | material                 = Gem\n  | hardness                 = 33\n  | quest                    = Endgame: The Archbishop's Fate\n  | chest                    = End chest\n  | basevalue                = 16,100pp\n  | weight                   = 0.25 lbs\n  | bind                     = {{Bind|BtA|boa}}\n  | released                 = Update 45\n  | spell                    = Light Spirals\n  | target                   = Foe, Directional, Breakable\n  | school                   = Evocation\n  | sr                       = no\n  | spell desc               = Fires chaotic bolts of light that damage your enemies. At higher charge levels multiple bolts are rapidly fired. Opponents struck by these bolts receive a [[Will save]] for half damage.\n  | max charge               = 5\n  | imbue                    = Light IV\n  | imbue die                = 2d6\n  | imbue dmg                = light\n  | enhancements             = \n* [[Light Spirals]]\n* {{Guard|Superior Undead}}\n* {{Hp|False Life|41}}\n* {{SpellPower|Radiance|122}}\n* {{Sheltering|6|Quality|Magical}}\n  | craftable rune arm       = no \n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | craftingnotes            = <!--Any notes about the craftable item-->\n  | pic                      = Light Spirals icon.png\n  | picdesc                  = Epic Candlelight.png\n  | description              = Valisk of Thrane hated tombs, but his adventuring companions enthusiastically hunted the undead. He crafted this rune arm from various items he found to protect himself from the abominations. <!--do not copy general info-->\n  | tips                     = Epic Candlelight when worn:\n[[File:Candlelight_shown.jpg]]\n}}",
+  "item_template": "Named item",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "Maximum Charge Tier: V",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maximum_Charge_Tier",
+          "title": "Maximum Charge Tier",
+          "text": "Maximum Charge Tier"
+        }
+      ]
+    },
+    {
+      "text": "Light Spirals",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Light_Spirals",
+          "title": "Light Spirals",
+          "text": "Light Spirals"
+        }
+      ]
+    },
+    {
+      "text": "Superior Undead Guard",
+      "tooltip": "Superior Undead Guard: This armor burns those Undead that attack the wearer, causing 7d8 Good damage on a successful melee attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Superior_Undead_Guard",
+          "title": "Superior Undead Guard",
+          "text": "Superior Undead Guard"
+        }
+      ]
+    },
+    {
+      "text": "False Life +41",
+      "tooltip": "False Life +41: +41 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +41"
+        }
+      ]
+    },
+    {
+      "text": "Radiance +122",
+      "tooltip": "Radiance +122: Passive: +122 Equipment bonus to Light and Alignment Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiance_(spell_boost)",
+          "title": "Radiance (spell boost)",
+          "text": "Radiance +122"
+        }
+      ]
+    },
+    {
+      "text": "Quality Magical Sheltering +6",
+      "tooltip": "Quality Magical Sheltering +6: +6 Quality bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Quality Magical Sheltering +6"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    },
+    {
+      "text": "Rune Arm Imbue: Light IV",
+      "tooltip": "Rune Arm Imbue: Light IV: Wearing this Rune Arm will imbue any weapon you wield, dealing 2d6 points of light damage per hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rune_Arm_Imbue",
+          "title": "Rune Arm Imbue",
+          "text": "Rune Arm Imbue"
+        }
+      ]
+    }
+  ]
+}

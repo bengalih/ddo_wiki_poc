@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Macabre Sceptre",
+  "page_id": 78609,
+  "revision_id": 689644,
+  "revision_timestamp": "2026-06-21T17:12:27Z",
+  "fetched_at": "2026-08-17T22:20:19.513879+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Macabre Sceptre\n  | damage                   = [1d6] + 5 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 10\n  | durability               = 150\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 4,000 pp 1 cp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 37\n  | revamped                 = Update 50\n  | revamped2                = Update 80\n  | quest                    = Blue Water Inn\n  | chest                    = \n  | end reward               = \n  | turn in                  = 40 [[Vistani Talisman]]s\n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Spell Focus|Mastery|+3}}\n* {{Spell Focus|Mastery|+1|Insightful}}\n* {{Spellpen|4}}\n* {{Spellpen|2|Insight|prefix=Insightful}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Something about this weapon makes dread seem a little more present. \n  | pic                      = Barovian's Sceptre shown.jpg\n  | picdesc                  = Macabre Sceptre.png\n  | tips                     = This and similar weapons are available from multiple sources:\n* Purchased for [[Vistani Talisman]]s in [[Blue Water Inn]]. BtC.\n* Looted in [[Mists of Ravenloft|Ravenloft]]'s 3rd story arc \"The Light of the Land\" quests. BtA + eligible for Mythic / Reaper bonuses.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Spell Focus Mastery +3",
+      "tooltip": "Spell Focus Mastery +3: +3 Equipment bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Spell Focus Mastery +3"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Spell Focus Mastery +1",
+      "tooltip": "Insightful Spell Focus Mastery +1: +1 Insight bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Insightful Spell Focus Mastery +1"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration +4",
+      "tooltip": "Spell Penetration +4: Passive: +4 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration +4"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Spell Penetration +2",
+      "tooltip": "Insightful Spell Penetration +2: Passive: +2 Insight bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Insightful Spell Penetration +2"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Crude Bauble",
+  "page_id": 11076,
+  "revision_id": 629240,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:28:25.651084+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Crude Bauble\n  | minlevel                 = 2\n  | type                     = Trinket\n  | slot                     = Trinket\n  | bind                     = {{Bind|No}}\n  | durability               = 21\n  | material                 = Gem\n  | hardness                 = 22\n  | basevalue                = 420pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Where There's Smoke...\n  | chest                    = [[Armnok]]'s Chest\n  | mythic                   = no\n  | enhancements             = \n* {{False Life|lesser}}\n* {{Fortification|1}}\n* {{Skills|intim|3}}\n  | description              = This filthy, crudely carved statue depicts a creature of unknown origin.\n  | pic                      = Trinket Generic Bauble.png\n  | picdesc                  = Crude Bauble.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "Lesser False Life",
+      "tooltip": "Lesser False Life: This item grants the wearer +5 maximum health.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)#Lesser_False_Life",
+          "title": "False Life (enchantment)",
+          "text": "Lesser False Life"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +25%",
+      "tooltip": "Fortification +25%: This suit of armor or shield produces a magical force that protects vital areas of the wearer much more effectively. When a critical hit or sneak attack is scored on the wearer, there is a 25% chance that the critical hit or sneak attack is negated and damage is instead rolled normally.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +25%"
+        }
+      ]
+    },
+    {
+      "text": "Intimidate +3",
+      "tooltip": "Intimidate +3: Passive: +3 Competence bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Intimidate +3"
+        }
+      ]
+    }
+  ]
+}

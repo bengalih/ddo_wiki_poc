@@ -1,0 +1,44 @@
+{
+  "page_title": "Item:Hero's Plate (level 27)",
+  "page_id": 41482,
+  "revision_id": 649263,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:21:22.250605+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Hero's Plate\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | minlevel                 = 27\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +31\n  | maxdexbonus              = 6\n  | acp                      = -4\n  | asf                      = 30%\n  | durability               = 348\n  | material                 = Dwarven Iron\n  | hardness                 = 29\n  | basevalue                = 10,860pp\n  | weight                   = 50 lbs\n  | released                 = Update 19\n  | quest                    = Through a Mirror Darkly\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|10}}\n* {{Heroism|Greater}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Hero's Plate shown.jpg\n  | picdesc                  = Hero's Plate (Level 27).png\n  | description              = \n  | notes                    = {{Non-food}}\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Dwarven Iron",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "+10 Enhancement Bonus",
+      "tooltip": "+10 Enhancement Bonus: +10 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+10 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Greater Heroism",
+      "tooltip": "Greater Heroism: Passive: +4 morale bonus to all your attack rolls, saving throws, and skill checks. Does not grant immunity to Fear.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heroism_(enchantment)",
+          "title": "Heroism (enchantment)",
+          "text": "Greater Heroism"
+        }
+      ]
+    }
+  ]
+}

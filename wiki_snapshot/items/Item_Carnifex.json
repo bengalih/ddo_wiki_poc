@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Carnifex",
+  "page_id": 4978,
+  "revision_id": 677992,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:19:06.046374+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Carnifex\n  | damage                   = [1d12] + 2 Slash, Magic\n  | crit                     = 17-20 / x3\n  | type                     = Great Axe\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 140\n  | material                 = Steel\n  | hardness                 = 14\n  | minlevel                 = 4\n  | basevalue                = 1,602pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Free Delera\n  | chest                    = End chest\n  | end reward               = \n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Keen|I}}\n* {{Augment|Orange}}\n  | description              = This axe once belonged to an executioner. His swiftness and skill lives on through this instrument of death.\n  | pic                      = Carnifex shown.jpg\n  | picdesc                  = Carnifex.png\n  | tips                     = \nNote this weapon's special \"Critical Roll\": The item's base [[Threat range|critical threat range]] is 19-20 (compared to \"20\" for a typical [[Greataxe]]), with another +2 for \"Keen\", for a total of 17-20. \n}}\n\n[[Category:Eleven Year Old Cake items]]\n[[C:Keen items with expanded crit profiles]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

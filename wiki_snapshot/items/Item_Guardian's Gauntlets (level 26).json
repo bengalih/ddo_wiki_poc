@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Guardian's Gauntlets (level 26)",
+  "page_id": 41464,
+  "revision_id": 649931,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:17:45.164678+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Guardian's Gauntlets\n  | type                     = Gloves\n  | basevalue                = 10,420 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Hand\n  | durability               = 180\n  | material                 = Leather\n  | hardness                 = 27\n  | minlevel                 = 26\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 19\n  | quest                    = The Thrill of the Hunt\n  | end reward               = yes\n  | chest                    = \n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Stat|CON|9}}\n* {{Guard|acid|viii}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Gloves Generic Fabricator.png\n  | picdesc                  = Guardian's Gauntlets (Level 26).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "Constitution +9",
+      "tooltip": "Constitution +9: This item gives the wearer improved health, granting a +9 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +9"
+        }
+      ]
+    },
+    {
+      "text": "Acid Guard VIII",
+      "tooltip": "Acid Guard VIII: When Hit in Melee: Deals 8 to 32 Acid damage to your attacker.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Acid_Guard",
+          "title": "Acid Guard",
+          "text": "Acid Guard VIII"
+        }
+      ]
+    }
+  ]
+}

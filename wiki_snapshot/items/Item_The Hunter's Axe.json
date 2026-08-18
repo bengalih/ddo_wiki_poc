@@ -1,0 +1,139 @@
+{
+  "page_title": "Item:The Hunter's Axe",
+  "page_id": 94790,
+  "revision_id": 635356,
+  "revision_timestamp": "2025-04-22T04:22:25Z",
+  "fetched_at": "2026-08-17T23:14:25.854091+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = The Hunter's Axe\n  | minlevel                 = 29\n  | type                     = Dwarven War Axe\n  | class                    = Slashing\n  | prof                     = Exotic\n  | hand                     = One-handed\n  | damage                   = 5.30[1d10+3] + 15 Slash, Magic\n  | crit                     = 20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 375\n  | material                 = Crystal\n  | hardness                 = 39\n  | cost                     = 11,603 pp\n  | weight                   = 8 lbs\n  | released                 = Update 53\n  | quest                    = Hunt or Be Hunted\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|i|15|29}}\n* {{Vorpal|Sovereign}}\n* {{Blast|Force|6}}\n* {{Vulnerability|Fetters of Unreality}}\n* {{SpellPower|Impulse|74|Insight}}\n* {{SpellPower|Impulse|36|Quality}}\n* {{Augment|Red}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | description              = The green crystal of this Dwarven Axe has been attuned to Force. The Master of the Hunt must have kept it in his private armory.\n  | pic                      = The Hunter's Axe shown.jpg\n  | picdesc                  = The Hunter's Axe.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Dwarven War Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +29",
+      "tooltip": "Spellcasting Implement +29: Passive: +29 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +29"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Sovereign Vorpal",
+      "tooltip": "Sovereign Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 3000 Hit Points, they are instantly slain. If your target has above 3000 Hit Points, they take 300 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Sovereign_Vorpal",
+          "title": "Vorpal",
+          "text": "Sovereign Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Force Blast 6",
+      "tooltip": "Force Blast 6: This weapon ripples with intense force, dealing 6d6 Force damage on a successful hit, and an additional 6d6 Force damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Force Blast 6"
+        }
+      ]
+    },
+    {
+      "text": "Fetters of Unreality",
+      "tooltip": "Fetters of Unreality: This weapon is cruel and deadly, and leaves behind wounds that affect both the body and the soul. This weapon has a chance to inflict multiple stacks of Vulnerable.Vulnerable: You take 1% more damage for 3 seconds. This effect stacks up to 20 times, and loses one stack on expiration.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fetters_of_Unreality",
+          "title": "Fetters of Unreality",
+          "text": "Fetters of Unreality"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Impulse +74",
+      "tooltip": "Insightful Impulse +74: Passive: +74 Insight bonus to Force, Untyped, Slashing, Piercing, and Bludgeoning Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impulse",
+          "title": "Impulse",
+          "text": "Insightful Impulse +74"
+        }
+      ]
+    },
+    {
+      "text": "Quality Impulse +36",
+      "tooltip": "Quality Impulse +36: Passive: +36 Quality bonus to Force, Untyped, Slashing, Piercing, and Bludgeoning Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impulse",
+          "title": "Impulse",
+          "text": "Quality Impulse +36"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

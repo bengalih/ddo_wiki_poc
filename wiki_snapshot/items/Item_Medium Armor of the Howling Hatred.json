@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Medium Armor of the Howling Hatred",
+  "page_id": 97314,
+  "revision_id": 665905,
+  "revision_timestamp": "2025-11-15T01:49:55Z",
+  "fetched_at": "2026-08-17T22:24:08.148203+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Medium Armor of the Howling Hatred\n  | minlevel                 = 8\n  | type                     = Medium Armor\n  | feat                     = Medium\n  | ac                       = +13\n  | maxdexbonus              = 3\n  | acp                      = -1\n  | asf                      = 25%\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 17\n  | basevalue                = 3,275 pp\n  | weight                   = 30 lbs\n  | released                 = Update 56\n  | quest                    = ToEE: Air Node\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest, [[Tempest]]'s chest, and random locked chest\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{Resistance|4}}\n* {{Absorption|Electricity|18}}\n* {{Concealment|Lesser Displacement}}\n* {{Fortification|70}}\n* {{Named item sets|Temple's Tempest}}\n* {{Augment|Green}}\n  | crafting                 = \n  | description              = Armor from deep within the Temple of Elemental Evil.\n  | pic                      = Medium Armor of the Howling Hatred shown.jpg\n  | picdesc                  = Medium Armor of the Howling Hatred.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Medium Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +4",
+      "tooltip": "Resistance +4: Passive: +4 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +4"
+        }
+      ]
+    },
+    {
+      "text": "Electric Absorption +18%",
+      "tooltip": "Electric Absorption +18%: Passive: 18% Enhancement Bonus to Electric Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Electric Absorption +18%"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Displacement",
+      "tooltip": "Lesser Displacement: Equipping this item causes light to distort around you. Attacks from enemies have a 25% chance to miss you due to concealment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lesser_Displacement",
+          "title": "Lesser Displacement",
+          "text": "Lesser Displacement"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +70%",
+      "tooltip": "Fortification +70%: +70% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +70%"
+        }
+      ]
+    },
+    {
+      "text": "Temple's Tempest",
+      "tooltip": "Temple's Tempest: 2 Pieces Equipped:+5 Artifact Bonus to Melee and Ranged Power+10 Artifact Bonus to Electric Spell Power+10 Artifact Bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Temple's_Tempest",
+          "title": "Named item sets",
+          "text": "Temple's Tempest"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

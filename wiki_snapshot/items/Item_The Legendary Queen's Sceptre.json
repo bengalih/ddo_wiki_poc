@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:The Legendary Queen's Sceptre",
+  "page_id": 86075,
+  "revision_id": 642638,
+  "revision_timestamp": "2025-05-24T01:09:18Z",
+  "fetched_at": "2026-08-17T23:15:11.949476+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = The Legendary Queen's Sceptre\n  | damage                   = 4.80[1d6+2] + 15 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | attackmod                = STR\n  | damagemod                = STR\n  | prof                     = Simple\n  | durability               = 340\n  | material                 = Cold Iron\n  | hardness                 = 39\n  | minlevel                 = 29\n  | basevalue                = 11600pp 2cp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 48\n  | revamped                 = Update 50\n  | quest                    = Fables of the Feywild\n  | chest                    = any chest, or turn in 20 [[Item:Legendary Chunk of Ferrocrystal|Legendary Chunks of Ferrocrystal]] at the [[Cauldron of Cadence]]\n  | turn in                  = \n  | enhancements             = \n* {{Enhancement bonus|i|15|29}}\n* {{SpellPower|Potency|98|Equipment}}\n* {{SpellPower|Potency|49|Insight}}\n* {{Skills|Spellcraft|20}}\n* {{Skills|Spellcraft|10|Insight|prefix=Insightful}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This weapon seems to be sensitive to Heat, and bears a small seal of the Summer Queen\n  | pic                      = Ferrocrystal Club shown.jpg\n  | picdesc                  = The Legendary Queen's Sceptre.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +29",
+      "tooltip": "Spellcasting Implement +29: Passive: +29 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +29"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Potency +98",
+      "tooltip": "Potency +98: Passive: +98 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +98"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Potency +49",
+      "tooltip": "Insightful Potency +49: Passive: +49 Insight bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Insightful Potency +49"
+        }
+      ]
+    },
+    {
+      "text": "Spellcraft +20",
+      "tooltip": "Spellcraft +20: Passive: +20 Competence bonus to the Spellcraft skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcraft",
+          "title": "Spellcraft",
+          "text": "Spellcraft +20"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Spellcraft +10",
+      "tooltip": "Insightful Spellcraft +10: Passive: +10 Insight bonus to the Spellcraft skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcraft",
+          "title": "Spellcraft",
+          "text": "Insightful Spellcraft +10"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

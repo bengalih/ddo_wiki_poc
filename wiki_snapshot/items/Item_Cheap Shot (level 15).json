@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Cheap Shot (level 15)",
+  "page_id": 73170,
+  "revision_id": 628956,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:21:10.588107+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Cheap Shot}}\n  | damage                   = 2[1d8] + 5 Pierce, Magic\n  | crit                     = 19-20 / x3 \n  | type                     = Long Bow\n  | hand                     = Ranged\n  | race                     = \n  | class                    = Ranged\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = DEX\n  | damagemod                = DEX\n  | minlevel                 = 15\n  | durability               = 230\n  | material                 = Wood\n  | hardness                 = 25\n  | cost                     = 6007 pp 5gp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Anniversary Party\n  | chest                    = \n  | end reward               = \n  | turn in                  = {{U30 ingredient|40}}\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Poisonous|4}}\n* {{Befouling|2|Critical}}\n* {{Doubleshot|5}}\n* {{Keen}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Useful for taking a bunch of shots at {{Item|The Mother Board}}.\n  | pic                      = Cheap Shot shown.jpg\n  | picdesc                  = Cheap Shot (level 15).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Poisonous 4",
+      "tooltip": "Poisonous 4: This effect causes the edges of this weapon to drip with a vile venom, dealing 4d6 poison damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Poisonous",
+          "title": "Poisonous",
+          "text": "Poisonous 4"
+        }
+      ]
+    },
+    {
+      "text": "Critical Befouling 2",
+      "tooltip": "Critical Befouling 2: This deadly weapon saps the charm from your enemies, dealing 2 Charisma damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Befouling",
+          "title": "Befouling",
+          "text": "Critical Befouling 2"
+        }
+      ]
+    },
+    {
+      "text": "Doubleshot 5%",
+      "tooltip": "Doubleshot 5%: Passive: 5% Enhancement bonus to Doubleshot. (Doubleshot is a chance to score an additional hit with a ranged attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doubleshot",
+          "title": "Doubleshot",
+          "text": "Doubleshot 5%"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Sheridan's Ruin",
+  "page_id": 8023,
+  "revision_id": 672699,
+  "revision_timestamp": "2026-01-25T19:02:37Z",
+  "fetched_at": "2026-08-17T22:55:22.359060+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Sheridan's Ruin\n  | damage                   = 1.50[2d4] + 4 Pierce, Magic\n  | crit                     = 15-20 / x2\n  | type                     = Rapier\n  | hand                     = One-handed \n  | class                    = Piercing \n  | prof                     = Martial\n  | minlevel                 = 8\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 125\n  | material                 = Steel\n  | hardness                 = 18\n  | basevalue                = 3202 pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Cult of the Six\n  | revamped                 = Update 76\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|4}}\n* {{Keen|I}}\n* {{Augment|Red}}\n  | description              = Sheridan was a highwayman of little consequence. His blades, on the other hand, are of superb sharpness and balance. A shame he couldn't hold onto them.\n  | pic                      = Sheridan's Ruin shown.jpg\n  | picdesc                  = Sheridan's Ruin.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Rapier",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

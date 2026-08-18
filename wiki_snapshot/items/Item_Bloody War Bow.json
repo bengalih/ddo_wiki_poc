@@ -1,0 +1,96 @@
+{
+  "page_title": "Item:Bloody War Bow",
+  "page_id": 13011,
+  "revision_id": 628632,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:12:30.003322+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Bloody War Bow\n  | damage                   = 1.40[1d8] + 5 Pierce, Magic\n  | crit                     = 20 / x3\n  | type                     = Long Bow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | prof                     = Martial\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | durability               = 200\n  | material                 = Wood\n  | hardness                 = 17\n  | minlevel                 = 12\n  | bind                     = {{Bind|BtA|BoA}}\n  | basevalue                = 4,807 pp 5 gp\n  | weight                   = 3 lbs\n  | revamped                 = Update 49\n  | quest                    = Cauldron of Sora Katra\n  | chest                    = upgraded version of [[Gnollish War Bow]] + [[Bloody Cleaver]] + [[Mark of Rhesh Turakbar]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Crippling}}\n* {{ItemGrantedFeat|Bow Strength}}\n* {{Bane|Monstrous Humanoid|3}}\n* {{Life Shield|Weapon}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This powerful gnoll bow can now grant life to its wielder as it draws blood from his or her foes.\n  | pic                      = Gnollish War Bow shown.jpg\n  | picdesc                  = Bloody War Bow.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Crippling",
+      "tooltip": "Crippling: A crippling weapon is infused with binding power so that when a target is critically hit their movement is slowed by half.Note: Real slowdown is only 25%",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crippling",
+          "title": "Crippling",
+          "text": "Crippling"
+        }
+      ]
+    },
+    {
+      "text": "Feat: Bow Strength",
+      "tooltip": "Feat: Bow Strength: While equipped this item grants the feat Bow Strength, allowing you to apply your Strength bonus to ranged attacks made with bows.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feat",
+          "title": "Feat",
+          "text": "Feat"
+        },
+        {
+          "target": "/page/Bow_Strength",
+          "title": "Bow Strength",
+          "text": "Bow Strength"
+        }
+      ]
+    },
+    {
+      "text": "Monstrous Humanoid Bane 3",
+      "tooltip": "Monstrous Humanoid Bane 3: This weapon is attuned specifically to hunt those who are descended from monsters dealing an additional 3d10 bane damage vs. Monstrous Humanoids.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Monstrous Humanoid Bane 3"
+        }
+      ]
+    },
+    {
+      "text": "Life Shield (Weapon)",
+      "tooltip": "Life Shield (Weapon): Every time you are hit while wielding a Life Shield weapon there is a 10% chance you gain 15 temporary hitpoints that last for up to 1 minute.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Life_Shield",
+          "title": "Life Shield",
+          "text": "Life Shield (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

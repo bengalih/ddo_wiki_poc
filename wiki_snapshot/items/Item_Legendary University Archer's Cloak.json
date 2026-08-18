@@ -1,0 +1,113 @@
+{
+  "page_title": "Item:Legendary University Archer's Cloak",
+  "page_id": 102658,
+  "revision_id": 633115,
+  "revision_timestamp": "2025-04-22T01:51:30Z",
+  "fetched_at": "2026-08-17T22:13:58.139219+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Legendary University Archer's Cloak\n  | minlevel                 = 32\n  | type                     = Cloak\n  | slot                     = Back\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 420\n  | material                 = Cloth\n  | hardness                 = 52\n  | cost                     = 12,801 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 61\n  | quest                    = Enemy of My Enemy\n  | end reward               = \n  | turn in                  = \n  | chest                    = End chest\n  | enhancements             = \n* {{Accuracy|5|Quality}}\n* {{Deadly|3|Quality}}\n* {{Armor-Piercing|10|Insightful}}\n* {{Doubleshot|5|Insightful}}\n* {{Lost Purpose}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n  | crafting                 = Cannith Repurposing Station\n  | description              = Though it's a bit frayed from the winds and time, there's still possibility weaved into this cloak's threads.\n  | pic                      = University Archer's Cloak shown.jpg\n  | picdesc                  = Legendary University Archer's Cloak.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 32,
+  "enchantments": [
+    {
+      "text": "Quality Accuracy +5",
+      "tooltip": "Quality Accuracy +5: Passive: +5 Quality bonus to attack rolls",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accuracy",
+          "title": "Accuracy",
+          "text": "Quality Accuracy +5"
+        }
+      ]
+    },
+    {
+      "text": "Quality Deadly +3",
+      "tooltip": "Quality Deadly +3: +3 Quality bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Quality Deadly +3"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Armor-Piercing 10%",
+      "tooltip": "Insightful Armor-Piercing 10%: Passive: +10% Insight bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Insightful Armor-Piercing 10%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Doubleshot 5%",
+      "tooltip": "Insightful Doubleshot 5%: Passive: 5% Insight bonus to Doubleshot. (Doubleshot is a chance to score an additional hit with a ranged attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doubleshot",
+          "title": "Doubleshot",
+          "text": "Insightful Doubleshot 5%"
+        }
+      ]
+    },
+    {
+      "text": "Lost Purpose",
+      "tooltip": "Lost Purpose: This item is missing some parts that made it unique. Perhaps you can fix that at a Cannith Repurposing Station.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lost_Purpose",
+          "title": "Lost Purpose",
+          "text": "Lost Purpose"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

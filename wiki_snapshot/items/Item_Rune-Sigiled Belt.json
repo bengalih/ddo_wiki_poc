@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Rune-Sigiled Belt",
+  "page_id": 66605,
+  "revision_id": 634406,
+  "revision_timestamp": "2025-04-22T03:19:33Z",
+  "fetched_at": "2026-08-17T22:49:29.048971+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Rune-Sigiled Belt\n  | type                     = Belt\n  | basevalue                = 4001pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 200\n  | material                 = Steel\n  | hardness                 = 30\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 37\n  | revamped                 = Update 59\n  | quest                    = Fresh-baked Dreams\n  | end reward               = \n  | chest                    = End Chest, Mill chest\n  | enhancements             = \n* {{Save|f|6}}\n* {{Save|f|2|Quality|prefix=Quality}}\n* {{Save|Spell|5}}\n* {{Protection from Evil|2}}\n* {{Augment|Blue}}\n* {{Named item sets|Knight of the Shadows Set (Heroic)}}\n  | description              = The reflective sigils sewn into this belt absorb and redirect harmful curses.\n  | pic                      = Belt Generic Faith.png\n  | picdesc                  = Rune-Sigiled Belt.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Fortitude Save +6",
+      "tooltip": "Fortitude Save +6: This item gives a +6 Resistance bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Fortitude Save +6"
+        }
+      ]
+    },
+    {
+      "text": "Quality Fortitude Save +2",
+      "tooltip": "Quality Fortitude Save +2: This item gives a +2 Quality bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Quality Fortitude Save +2"
+        }
+      ]
+    },
+    {
+      "text": "Spell Save +5",
+      "tooltip": "Spell Save +5: This item gives a +5 Resistance bonus to your saves versus spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Saving_throw",
+          "title": "Saving throw",
+          "text": "Spell Save +5"
+        }
+      ]
+    },
+    {
+      "text": "Protection from Evil +2",
+      "tooltip": "Protection from Evil +2: You have a +2 Deflection bonus to AC, and a +2 Resistance bonus to Saves vs Evil Monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection_from_Evil",
+          "title": "Protection from Evil",
+          "text": "Protection from Evil"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Knight of the Shadows Set (Heroic)",
+      "tooltip": "Knight of the Shadows Set (Heroic): 3 Pieces Equipped:+5 Artifact bonus to Physical and Magical Resistance Rating+50% Artifact bonus to threat generation with melee attacks+10% Artifact Bonus to your Armor Class",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Knight_of_the_Shadows_Set_(Heroic)",
+          "title": "Named item sets",
+          "text": "Knight of the Shadows Set (Heroic)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Belt Boost +1 or +3",
+      "tooltip": "Mythic Belt Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Belt Boost"
+        }
+      ]
+    }
+  ]
+}

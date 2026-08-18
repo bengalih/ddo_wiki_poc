@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Nightbringer's Wake",
+  "page_id": 112401,
+  "revision_id": 678670,
+  "revision_timestamp": "2026-03-17T13:58:18Z",
+  "fetched_at": "2026-08-17T22:31:10.264343+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Nightbringer's Wake\n  | prof                     = Martial\n  | damage                   = [2d6] + 2 Slash, Evil, Magic\n  | crit                     = 17-20 / x2\n  | type                     = Great Sword\n  | class                    = Slashing\n  | race                     = \n  | minlevel                 = 4\n  | reqtrait                 = \n  | UMD DC                   = \n  | hand                     = Two-handed\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 140\n  | material                 = Steel\n  | hardness                 = 14\n  | cost                     = 1605 pp\n  | weight                   = 8 lbs\n  | released                 = Update 71\n  | revamped                 = \n  | quest                    = Rats in a Cage\n  | chest                    = end chest\n  | rare                     = yes\n  | turn in                  = \n  | mythic                   = \n  | epic                     = no\n  | legendary                = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Crippling}}\n* {{Unholy|2}}\n* {{Keen}}\n* {{Vampirism|1}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Pain and suffering follow this blade.\n  | pic                      = Nightbringer's Wake shown.jpg\n  | picdesc                  = Nightbringer's Wake.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Crippling",
+      "tooltip": "Crippling: A crippling weapon is infused with binding power so that when a target is critically hit their movement is slowed by half.Note: Real slowdown is only 25%",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crippling",
+          "title": "Crippling",
+          "text": "Crippling"
+        }
+      ]
+    },
+    {
+      "text": "Unholy 2",
+      "tooltip": "Unholy 2: On Hit: 2 to 12 Evil damage. Evil-aligned creatures are immune to this effect.Penalty: If equipped by a Good user, they receive 1 Negative Level for as long as this item is equipped.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Unholy 2"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Vampirism 1",
+      "tooltip": "Vampirism 1: This weapon thirsts for the blood of your enemies, healing you for +1d2 hit points with each hit.Note: internal cooldown of 1 second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Vampirism 1"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

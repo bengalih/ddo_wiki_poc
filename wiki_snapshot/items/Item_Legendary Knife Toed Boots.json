@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Legendary Knife Toed Boots",
+  "page_id": 58327,
+  "revision_id": 632514,
+  "revision_timestamp": "2025-04-22T01:09:41Z",
+  "fetched_at": "2026-08-17T21:56:03.121124+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Legendary Knife Toed Boots\n  | type                     = Boots\n  | basevalue                = 11,220 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 290\n  | material                 = Steel\n  | hardness                 = 38\n  | minlevel                 = 28\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 31\n  | quest                    = The Mask of Deception\n  | end reward               = \n  | chest                    = left end chest\n  | enhancements             = \n* {{Guard2|Thorn|6}}\n* {{ArmorPiercing|20}}\n* {{Stat|STR|3|Quality}}\n* {{Seeker|3|Quality}}\n* {{Augment|Green}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A pair of sturdy boots with a knife protruding from the front if you kick the heel just right.\n  | pic                      = Boots Spike.png\n  | picdesc                  = Legendary Knife Toed Boots.png\n  | tips                     = This item formerly dropped in [[Memoirs of an Illusory Larcener]] before that quest was closed.\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "Thorn Guard +6",
+      "tooltip": "Thorn Guard +6: When you are hit or missed in combat, this item has a chance to deal 6d8 Piercing damage on hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Guards",
+          "title": "Guards",
+          "text": "Thorn Guard"
+        }
+      ]
+    },
+    {
+      "text": "Armor-Piercing 20%",
+      "tooltip": "Armor-Piercing 20%: Passive: +20% Enhancement bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Armor-Piercing 20%"
+        }
+      ]
+    },
+    {
+      "text": "Quality Strength +3",
+      "tooltip": "Quality Strength +3: This item gives the wearer the power of Ogre Strength, granting a +3 Quality bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Quality Strength +3"
+        }
+      ]
+    },
+    {
+      "text": "Quality Seeker +3",
+      "tooltip": "Quality Seeker +3: Provides a +3 Quality bonus to confirm critical hits, and a +3 Quality bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Quality Seeker +3"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Boot Boost +1 or +3",
+      "tooltip": "Mythic Boot Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Boot Boost"
+        }
+      ]
+    }
+  ]
+}

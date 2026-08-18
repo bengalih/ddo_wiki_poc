@@ -1,0 +1,40 @@
+{
+  "page_title": "Item:Battleworn Helm",
+  "page_id": 13224,
+  "revision_id": 628496,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:09:36.775660+00:00",
+  "categories": [],
+  "wikitext": "{{History|Item}}\n{{Named item|Clothing\n  | name                     = Battleworn Helm\n  | type                     = Helm\n  | basevalue                = 410 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Head\n  | durability               = 20\n  | material                 = Leather\n  | hardness                 = 3\n  | minlevel                 = 1\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = The Crypt of Gerard Dryden\n  | chest                    = old End chest\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|concentration|3}}\n* {{Fortification|25}}\n  | description              = This helm once belonged to [[Gerard Dryden]], and has seen much use.\n  | pic                      = Helm Generic Straw.png\n  | picdesc                  = Battleworn Helm.png\n  | tips                     = Since [[U45|Update 45]] this item no longer drops in-game.\n}}",
+  "item_template": "History",
+  "material": "Leather",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "enchantments": [
+    {
+      "text": "Concentration +3",
+      "tooltip": "Concentration +3: Passive: +3 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +3"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +25%",
+      "tooltip": "Fortification +25%: +25% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +25%"
+        }
+      ]
+    }
+  ]
+}

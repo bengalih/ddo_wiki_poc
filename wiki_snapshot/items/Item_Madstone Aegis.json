@@ -1,0 +1,169 @@
+{
+  "page_title": "Item:Madstone Aegis",
+  "page_id": 34004,
+  "revision_id": 633357,
+  "revision_timestamp": "2025-04-22T02:08:19Z",
+  "fetched_at": "2026-08-17T22:20:49.466584+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Tower\n  | prof                     = Tower\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 24\n  | bind                     = {{Bind|BtC|BoA}}\n  | sb                       = +20\n  | maxdexbonus              = 2\n  | dr                       = 15\n  | acp                      = -9\n  | asf                      = 50\n  | dmg                      = 4.40[2d10] + 7\n  | dmgtype                  = Bludgeon, Magic, Crystal\n  | crit                     = 20 / x3\n  | durability               = 360\n  | material                 = Crystal\n  | hardness                 = 49\n  | basevalue                = 10,104 pp 5 gp\n  | weight                   = 50 lbs\n  | released                 = Update 17\n  | quest                    = The Fall of Truth \n  | chest                    = Raid Chest (Epic Normal)\n  | enhancements             = \n* {{Enhancement bonus|s|7}}\n* {{Bashing||improved}}\n* {{Shield Bashing|%=20}}\n* {{ItemGrantedFeat|Tower Shield}}\n* {{Attuned to Heroism}}\n  | crafting                 = Stormreaver Monument\n  | craftingupgrade          = \n  | description              = The wielder of this shield must have used it to block the attacks of the dragons during the great cataclysm. While it probably didn't save its owner, the bombardment left the shield infused with a crystalline protective coating that is amazingly hard.\n  | pic                      = Madstone Aegis shown.jpg\n  | picdesc                  = Madstone Aegis.png\n  | tips                     = \n* {{Popup|Tier 1|[[File:Madstone Aegis (Tier 1).png|420px]]|long=y}}: Epic Hard or with {{Commendation|Heroism|5}}\n* {{Popup|Tier 2|[[File:Madstone Aegis (Tier 2).png|420px]]|long=y}}: Epic Elite or with {{Commendation|Heroism|7}} (12 total)\n}}\n[[Category:Weapons that grant their own proficiency]]",
+  "item_template": "Named item",
+  "proficiency_class": "Tower Shield Proficiency",
+  "material": "Crystal",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Improved Bashing",
+      "tooltip": "Improved Bashing: This shield does an additional 2 to 12 damage when used to shield bash.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Improved_Bashing",
+          "title": "Improved Bashing",
+          "text": "Improved Bashing"
+        }
+      ]
+    },
+    {
+      "text": "Shield Bashing +20%",
+      "tooltip": "Shield Bashing +20%: +20% Enhancement bonus to your chance of a Secondary Shield Bash. This stacks with bonuses granted by any relevant feats.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bashing",
+          "title": "Shield Bashing",
+          "text": "Shield Bashing +20%"
+        }
+      ]
+    },
+    {
+      "text": "Shield Proficiency: Tower Shield",
+      "tooltip": "Shield Proficiency: Tower Shield: While equipped this item grants the feat Shield Proficiency: Tower Shields.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Tower_Shield_Proficiency",
+          "title": "Tower Shield Proficiency",
+          "text": "Shield Proficiency: Tower Shield"
+        }
+      ]
+    },
+    {
+      "text": "Attuned to Heroism",
+      "tooltip": "This relic is attuned to heroic actions.",
+      "children": [
+        {
+          "text": "Attuned by Heroism: Tier 1",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Shield Bonus: +20 → Shield Bonus: +21",
+              "tooltip": null,
+              "children": []
+            },
+            {
+              "text": "Blocking DR 15/- → 16/-",
+              "tooltip": null,
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/DR",
+                  "title": "DR",
+                  "text": "DR"
+                }
+              ]
+            },
+            {
+              "text": "+7 Enhancement Bonus → +8 Enhancement Bonus",
+              "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to Armor Class, attack and damage rolls.+8 Enhancement Bonus: +8 enhancement bonus to Armor Class, attack and damage rolls.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+7 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+8 Enhancement Bonus"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 1"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Blue Augment Slot",
+              "tooltip": "Blue and Colorless",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Augment_Slot",
+                  "title": "Augment Slot",
+                  "text": "Blue Augment Slot"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 2"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Attuned_to_Heroism",
+          "title": "Attuned to Heroism",
+          "text": "Attuned to Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

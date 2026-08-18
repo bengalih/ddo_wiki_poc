@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Allegience of the Wild Hunt",
+  "page_id": 83534,
+  "revision_id": 628235,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:03:13.402725+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Allegience of the Wild Hunt\n  | type                     = Light Armor\n  | feat                     = Light\n  | race                     = Pet\n  | ac                       = 7\n  | maxdexbonus              = 11\n  | acp                      = \n  | asf                      = 10%\n  | durability               = 90\n  | material                 = Leather\n  | hardness                 = 14\n  | minlevel                 = 5\n  | released                 = Update 48\n  | revamped                 = Update 59\n  | quest                    = The Legend of the Lost Locket\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | basevalue                = 2050 pp\n  | weight                   = 30 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|2}}\n* {{Fortification|59}}\n* {{Sheltering|9|Enhancement|Physical}}\n* {{Save|r|4}}\n* {{Dodge|4}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Allegience of the Wild Hunt shown.jpg\n  | picdesc                  = Allegience of the Wild Hunt.png\n  | description              = With this, your Wolf will be able to channel the defensive abilities of the Hound of the Wild Hunt.\n  | notes                    = This item can only be equipped by [[Pet]]s. As it does not specifically exclude Iron Defenders like most armor, it can be equipped by both Wolves and Iron Defenders, even though Iron Defenders can usually only equip Docents.\n\n(This item does not affect your pet's cosmetic appearance.)\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Light Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +59%",
+      "tooltip": "Fortification +59%: +59% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +59%"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +9",
+      "tooltip": "Physical Sheltering +9: +9 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +9"
+        }
+      ]
+    },
+    {
+      "text": "Reflex Save +4",
+      "tooltip": "Reflex Save +4: This item gives a +4 Resistance bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save +4"
+        }
+      ]
+    },
+    {
+      "text": "Dodge +4%",
+      "tooltip": "Dodge +4%: +4% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +4%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

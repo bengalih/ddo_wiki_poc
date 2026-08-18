@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Litany of the Bond",
+  "page_id": 79642,
+  "revision_id": 633264,
+  "revision_timestamp": "2025-04-22T02:02:06Z",
+  "fetched_at": "2026-08-17T22:18:01.564022+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Litany of the Bond\n  | type                     = Trinket\n  | race                     = Aasimar Scourge\n  | slot                     = Trinket\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Dodge|6}}\n* {{Hp|Vitality|20}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A book that tells the tale of those who have shared a Bond like yours.\n  | pic                      = Trinket Generic Book.png\n  | picdesc                  = Litany of the Bond.png\n  | food                     = no\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Dodge +6%",
+      "tooltip": "Dodge +6%: +6% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +6%"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +20",
+      "tooltip": "Vitality +20: Passive: +20 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +20"
+        }
+      ]
+    }
+  ]
+}

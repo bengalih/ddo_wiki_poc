@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:The Dragon Dagger",
+  "page_id": 124490,
+  "revision_id": 683300,
+  "revision_timestamp": "2026-04-09T18:19:45Z",
+  "fetched_at": "2026-08-17T23:13:31.569063+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = The Dragon Dagger\n  | minlevel                 = 10\n  | type                     = Dagger\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = [1d4] + 5 Slash, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 140\n  | material                 = Steel\n  | hardness                 = 20\n  | cost                     = 4,000 pp 2 gp\n  | weight                   = 1.00 lbs\n  | released                 = Update 79\n  | quest                    = Going Rogue\n  | chest                    = end chest\n  | rare                     =\n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Reverberating|3}}\n* {{Screeching|7}}\n* {{Paralyzing}}\n* {{Dragon's Edge|3}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = When wind rushes through holes in this green dagger's hilt, it calls the mighty dragons home.\n  | pic                      = The Dragon Dagger shown.jpg\n  | picdesc                  = The Dragon Dagger.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Reverberating 3",
+      "tooltip": "Reverberating 3: This effect causes the edges of this weapon to pulse with sound, dealing 3d6 sonic damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reverberating",
+          "title": "Reverberating",
+          "text": "Reverberating 3"
+        }
+      ]
+    },
+    {
+      "text": "Screeching 7",
+      "tooltip": "Screeching 7: This effect causes the edges of this weapon to pulse with sound, dealing 7d6 Sonic damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Screeching",
+          "title": "Screeching",
+          "text": "Screeching 7"
+        }
+      ]
+    },
+    {
+      "text": "Paralyzing",
+      "tooltip": "Paralyzing : Any creature struck by this weapon must succeed on a DC 17 Will save or be paralyzed. The target may attempt a new save to end the effect every several seconds; otherwise the paralysis lasts for 1 minute.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Paralyzing",
+          "title": "Paralyzing",
+          "text": "Paralyzing"
+        }
+      ]
+    },
+    {
+      "text": "Dragon's Edge 3",
+      "tooltip": "Dragon's Edge 3: +9% Enhancement bonus to bypass enemy Fortification. On Crit: 3d8 Bleeding Damage to those that are vulnerable to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dragon%27s_Edge",
+          "title": "Dragon's Edge",
+          "text": "Dragon's Edge 3"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

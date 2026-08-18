@@ -1,0 +1,40 @@
+{
+  "page_title": "Item:Ornate Goggles",
+  "page_id": 9588,
+  "revision_id": 633837,
+  "revision_timestamp": "2025-04-22T02:41:05Z",
+  "fetched_at": "2026-08-17T22:34:15.416558+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Ornate Goggles\n  | type                     = Goggles\n  | slot                     = Eye\n  | basevalue                = 120 pp\n  | weight                   = 0.10 lbs\n  | durability               = 20\n  | material                 = Leather\n  | hardness                 = 3\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Necromancer's Doom\n  | chest                    = \n  | end reward               = yes\n  | mythic                   = false\n  | enhancements             = \n* {{Skills|Search|1}}\n* {{Skills|dd|1}}\n  | pic                      = Ornate Goggles shown.jpg\n  | picdesc                  = Ornate Goggles.png\n  | description              = These goggles are fitted with magnifying lenses, aiding the wearer's perception.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "enchantments": [
+    {
+      "text": "Search +1",
+      "tooltip": "Search +1: Passive: +1 Competence bonus to the Search skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Search",
+          "title": "Search",
+          "text": "Search +1"
+        }
+      ]
+    },
+    {
+      "text": "Disable Device +1",
+      "tooltip": "Disable Device +1: Passive: +1 Competence bonus to the Disable Device skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disable_Device",
+          "title": "Disable Device",
+          "text": "Disable Device +1"
+        }
+      ]
+    }
+  ]
+}

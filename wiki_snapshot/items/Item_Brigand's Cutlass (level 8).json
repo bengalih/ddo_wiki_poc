@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Brigand's Cutlass (level 8)",
+  "page_id": 72569,
+  "revision_id": 672724,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:15:49.686458+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = [[Brigand's Cutlass]]\n  | prof                     = Martial\n  | damage                   = 1.50[1d6] + 3 Slash, Chaotic, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Scimitar\n  | class                    = Slashing\n  | minlevel                 = 8\n  | hand                     = One-handed\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | bind                     = {{Bind|BtA|boa}}\n  | durability               = 140\n  | material                 = Steel\n  | hardness                 = 18\n  | quest                    = Treasure of Crystal Cove\n  | cost                     = 3,202 pp\n  | weight                   = 4 lbs\n  | turn in                  = {{CCi|silver|250}}{{CCi|golden|100}}{{CCi|obsidian|20}}{{CCi|green|400}} at [[Euphonia's Barter Box]]\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Anarchic|2|1}}\n* {{Vorpal}}\n* {{Incite|52}}\n* {{Skills|Intimidate|10}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Brigand's Cutlass shown.jpg\n  | picdesc                  = Brigand's Cutlass (level 8).png\n  | description              = A curved sword with an elegant hilt. popular amongst pirates for its intimidating and yet sophisticated appearance. This particular blade is infused with the rowdiness and anarchy of a high-seas brigand, and is impeccably useful against lawful opponents.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Scimitar",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Anarchic 2",
+      "tooltip": "Anarchic 2: This weapon is chaotic and used to undermine the righteous, dealing an additional 2d6 chaos damage on each hit. This effect makes the weapon chaotic aligned. (Lawful characters wielding this weapon will suffer one negative level.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Anarchic 2"
+        }
+      ]
+    },
+    {
+      "text": "Vorpal",
+      "tooltip": "Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 1000 Hit Points, they are instantly slain. If your target has above 1000 Hit Points, they take 100 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Vorpal",
+          "title": "Vorpal",
+          "text": "Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Incite +52",
+      "tooltip": "Incite +52: +52% Enhancement bonus to increased threat generation from melee damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incite",
+          "title": "Incite",
+          "text": "Incite +52"
+        }
+      ]
+    },
+    {
+      "text": "Intimidate +10",
+      "tooltip": "Intimidate +10: Passive: +10 Competence bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Intimidate +10"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

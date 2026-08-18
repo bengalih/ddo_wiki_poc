@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Legendary Blademark's Docent",
+  "page_id": 91212,
+  "revision_id": 631834,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:31:58.086837+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Blademark's Docent\n  | minlevel                 = 30\n  | type                     = Docent\n  | feat                     = Docent\n  | ac                       = {{WFABonus|a=28|m=14|c=5}}\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | race                     = Warforged\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 350\n  | material                 = Gem\n  | hardness                 = 40\n  | basevalue                = 12,010 pp\n  | weight                   = \n  | released                 = Update 50\n  | legendary                = Epic Blademark's Docent\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Sheltering|34}}\n* {{Angelic Grace}}\n* {{Hp|False Life|51}}\n* {{Vertigo|15}}\n* {{Fortification|4|10}}\n* {{Augment|Colorless}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | description              = This docent was specially crafted for the warforged that serve as mercenaries for House Deneith.\n  | pic                      = Blademark's Docent shown.jpg\n  | picdesc                  = Legendary Blademark's Docent.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Sheltering +34",
+      "tooltip": "Sheltering +34: +34 Enhancement bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Sheltering +34"
+        }
+      ]
+    },
+    {
+      "text": "Angelic Grace",
+      "tooltip": "Angelic Grace: When you are hit, 5% chance to gain 150 temporary hit points. This can only proc once every 10 seconds. These temporary hit points last for 10 minutes or until used up, whichever is first.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Angelic_Grace",
+          "title": "Angelic Grace",
+          "text": "Angelic Grace"
+        }
+      ]
+    },
+    {
+      "text": "False Life +51",
+      "tooltip": "False Life +51: +51 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +51"
+        }
+      ]
+    },
+    {
+      "text": "Vertigo +15",
+      "tooltip": "Vertigo +15: This effect gives a +15 Enhancement bonus to the DC to resist the character's Trip and Improved Trip attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vertigo_(enchantment)",
+          "title": "Vertigo (enchantment)",
+          "text": "Vertigo +15"
+        }
+      ]
+    },
+    {
+      "text": "Construct Fortification (10%)",
+      "tooltip": "Construct Fortification (10%): This docent produces a magical force that protects vital areas of the wearer more effectively. When a critical hit or sneak attack is scored on the wearer, there is a +10% chance that the critical hit or sneak attack is negated and damage is instead rolled normally. This ability is considered as Insight bonus when determining stacking with other sources of fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Construct_Fortification_(10%25)",
+          "title": "Construct Fortification (10%)",
+          "text": "Construct Fortification (10%)"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

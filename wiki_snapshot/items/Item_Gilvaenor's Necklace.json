@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Gilvaenor's Necklace",
+  "page_id": 11132,
+  "revision_id": 631085,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:10:47.110228+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Gilvaenor's Necklace\n  | minlevel                 = 18\n  | type                     = Necklace\n  | slot                     = Neck\n  | durability               = 110\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 10,005pp\n  | weight                   = 0.10 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Genesis Point\n  | chest                    = Any end chest ; [[Tower of Despair]], [[Nythirios]] chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CON|6}}\n* {{Attack Bonus|2}}\n* {{Named item sets|Arcane Archer}}\n  | description              = This necklace is inscribed with arcane runes. It was worn by Gilvaenor, a renowned Arcane Archer.\n  | pic                      = Necklace Generic.png\n  | picdesc                  = Gilvaenor's Necklace.png\n}}\n\n[[Category:Tower of Despair loot]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Constitution +6",
+      "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +6"
+        }
+      ]
+    },
+    {
+      "text": "Attack Bonus +2",
+      "tooltip": "Attack Bonus +2: Provides a +2 competence bonus to your attack rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Attack_bonus",
+          "title": "Attack bonus",
+          "text": "Attack Bonus +2"
+        }
+      ]
+    },
+    {
+      "text": "Arcane Archer",
+      "tooltip": "Arcane Archer: Ranged alacrity 10% (Competence, stacks to enhancement bonuses such as Haste spell)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Arcane_Archer",
+          "title": "Named item sets",
+          "text": "Arcane Archer"
+        }
+      ]
+    }
+  ]
+}

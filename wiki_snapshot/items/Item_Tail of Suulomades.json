@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Tail of Suulomades",
+  "page_id": 82596,
+  "revision_id": 635243,
+  "revision_timestamp": "2025-04-22T04:14:53Z",
+  "fetched_at": "2026-08-17T23:10:59.281933+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Tail of Suulomades\n  | damage                   = 5.30[2d4+6] + 15 Slash, Good, Evil, Lawful, Chaotic, Magic\n  | crit                     = 15-20 / x2\n  | type                     = Falchion\n  | hand                     = Two-handed\n  | race                     = \n  | class                    = Slashing\n  | prof                     = Simple\n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 29\n  | durability               = 380\n  | material                 = Steel\n  | hardness                 = 39\n  | cost                     = 11,607 pp, 5 gp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | revamped                 = Update 50\n  | released                 = Update 47\n  | quest                    = Legendary Vision of Destruction\n  | chest                    = End chest\n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Harnessed Lightning|6}}\n* {{Keen}}\n* {{Vorpal|Sovereign}}\n* {{Aligned}}\n* {{Augment|Red}}\n* {{Augment|Purple}}\n  | description              = Forged from the hardened steel scales of the Devil General Suulomades, this wicked Falchion retains both the cruelty of its namesake and its affinity for destruction.\n  | pic                      = Tail of Suulomades shown.jpg\n  | picdesc                  = Tail of Suulomades.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Falchion",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Harnessed Lightning",
+      "tooltip": "Harnessed Lightning: The fearsome magical prowess of Suulomades still surrounds this weapon. It contains a near-limitless amount of deadly electricity, dealing 6d6 Electric damage on a successful hit, and an additional 6d6 Electric damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Harnessed_Lightning",
+          "title": "Harnessed Lightning",
+          "text": "Harnessed Lightning"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Sovereign Vorpal",
+      "tooltip": "Sovereign Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 3000 Hit Points, they are instantly slain. If your target has above 3000 Hit Points, they take 300 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Sovereign_Vorpal",
+          "title": "Vorpal",
+          "text": "Sovereign Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Aligned",
+      "tooltip": "Aligned: This weapon transmutes into a form that is able to bypass any alignment based Damage Reduction. (Chaotic, Good, Evil, Lawful)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Aligned",
+          "title": "Aligned",
+          "text": "Aligned"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

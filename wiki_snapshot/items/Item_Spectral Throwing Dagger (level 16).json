@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Spectral Throwing Dagger (level 16)",
+  "page_id": 72612,
+  "revision_id": 667665,
+  "revision_timestamp": "2025-11-21T13:34:02Z",
+  "fetched_at": "2026-08-17T23:03:30.280010+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Spectral Throwing Dagger}}\n  | damage                   = 2.70[1d4] + 5 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Throwing Dagger\n  | hand                     = Thrown\n  | race                     = \n  | class                    = Thrown\n  | prof                     = Simple\n  | reqtrait                 = <!-- Leave blank if not used-->\n  | UMD DC                   = <!-- Leave blank if not used-->\n  | minlevel                 = 16\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 200\n  | material                 = Force\n  | hardness                 = 34\n  | cost                     = 6,400pp 2gp\n  | weight                   = 1.00 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | revamped                 = Update 76\n  | quest                    = The Night Revels\n  | chest                    = <!-- Leave blank if not used-->\n  | end reward               = <!-- Leave blank if not used-->\n  | turn in                  = {{Item|Spectral Throwing Dagger (level 12)}}{{Br}}{{Tab}}and {{NightRevelsRecipe|ing_chocolate= 120|ing_almond= 30|ing_cinnamon= 60}} at [[Joe Candymaker]]\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Returning}}\n* {{Ghostbane|4}}\n* {{Bane|Evil Outsider|4}}\n* {{Vorpal|improved}}\n* {{Crushing|9}}\n  | crafting                 = The Night Revels\n  | craftingupgrade          = Spectral Throwing Dagger (level 20)\n  | description              = The residual power left behind as thousands of Spectral Dragon Scales crumbled to dust formed these ethereal blades.\n  | pic                      = Spectral Throwing Dagger shown.jpg\n  | picdesc                  = Spectral Throwing Dagger (level 16).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Throwing Dagger",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "Ghostbane 4",
+      "tooltip": "Ghostbane 4: This weapon is attuned specifically to hunt the risen dead, dealing an additional 4d10 bane damage vs. Undead monsters.Passive: This weapon has Ghost Touch, and bypasses ethereal monster's 50% chance to evade bane damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostbane",
+          "title": "Ghostbane",
+          "text": "Ghostbane 4"
+        }
+      ]
+    },
+    {
+      "text": "Evil Outsider Bane 4",
+      "tooltip": "Evil Outsider Bane 4: This weapon is attuned specifically to hunt monsters that bring ill intent from other planes, dealing an additional 4d10 bane damage vs. Evil Outsiders.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Evil Outsider Bane 4"
+        }
+      ]
+    },
+    {
+      "text": "Improved Vorpal",
+      "tooltip": "Improved Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 1500 Hit Points, they are instantly slain. If your target has above 1500 Hit Points, they take 150 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Improved_Vorpal",
+          "title": "Vorpal",
+          "text": "Improved Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Crushing 9",
+      "tooltip": "Crushing 9: This effect causes the edges of this weapon to ripple with force, dealing 9d6 force damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crushing",
+          "title": "Crushing",
+          "text": "Crushing 9"
+        }
+      ]
+    }
+  ]
+}

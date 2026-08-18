@@ -1,0 +1,96 @@
+{
+  "page_title": "Item:Madstone Shield",
+  "page_id": 8285,
+  "revision_id": 633360,
+  "revision_timestamp": "2025-04-22T02:08:31Z",
+  "fetched_at": "2026-08-17T05:44:29.791564+00:00",
+  "categories": [],
+  "proficiency_class": "Tower Shield Proficiency",
+  "material": "Crystal",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Shield Proficiency: Tower Shield",
+      "tooltip": "Shield Proficiency: Tower Shield: While equipped this item grants the feat Shield Proficiency: Tower Shields.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Tower_Shield_Proficiency",
+          "title": "Tower Shield Proficiency",
+          "text": "Shield Proficiency: Tower Shield"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable Item (Stormreaver)",
+      "tooltip": "Upgradeable Item (Stormreaver): This item could be upgraded if you found a Seal of the Stormreaver to combine it with. Bring this item to the Stormreaver Monument in Gianthold and combine it with a Seal of the Stormreaver to upgrade the item to a more powerful form.",
+      "children": [
+        {
+          "text": "Adds Improved Bashing",
+          "tooltip": "Improved Bashing: This shield does an additional 2 to 12 damage when used to shield bash.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Improved_Bashing",
+              "title": "Improved Bashing",
+              "text": "Improved Bashing"
+            }
+          ]
+        },
+        {
+          "text": "Adds Shield Bashing +10%",
+          "tooltip": "Shield Bashing +10%: +10% Enhancement bonus to your chance of a Secondary Shield Bash. This stacks with bonuses granted by any relevant feats.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Shield_Bashing",
+              "title": "Shield Bashing",
+              "text": "Shield Bashing +10%"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_Item_(Stormreaver)",
+          "title": "Upgradeable Item (Stormreaver)",
+          "text": "Upgradeable Item (Stormreaver)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ],
+  "item_class": "Shield",
+  "item_template": ""
+}

@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Forgotten Light (level 16)",
+  "page_id": 45221,
+  "revision_id": 649108,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:08:01.369915+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Forgotten Light}}\n  | prof                     = Simple\n  | damage                   = 1.50[1d8] + 4 Bludgeon, Good, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Heavy Mace\n  | class                    = Bludgeoning\n  | minlevel                 = 16\n  | bind                     = {{Bind|BtC|BoE}}\n  | reqtrait                 = \n  | UMD DC                   = \n  | hand                     = One-handed\n  | damagemod                = STR, WIS\n  | attackmod                = STR, WIS\n  | durability               = 220\n  | material                 = Dwarven Iron\n  | hardness                 = 26\n  | quest                    = Rest Stop\n  | chest                    = End chest (Heroic Normal)\n  | end reward               = \n  | turn in                  = \n  | basevalue                = 6,401pp 2gp\n  | weight                   = 8 lbs\n  | enhancements             = \n* {{Enhancement bonus|i|4}}\n* {{Holy}}\n* {{SpellPower|Devotion|78}}\n* {{SpellPower|Radiance|78}}\n  | crafting                 = <!--Type of crafting-->\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | pic                      = Forgotten Light shown.jpg\n  | picdesc                  = Forgotten Light (Level 16).png\n  | description              = This ancient mace radiates a feeling of peace and safety.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Heavy Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +12",
+      "tooltip": "Spellcasting Implement +12: Passive: +12 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +12"
+        }
+      ]
+    },
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Holy",
+      "tooltip": "Holy: A holy weapon is imbued with holy power. This power makes the weapon good-aligned. Evil characters wielding this weapon suffer a negative level. The weapon deals an extra 2 to 12 damage against all targets of evil alignment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)#Holy",
+          "title": "Alignment damage (weapon)",
+          "text": "Holy"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +78",
+      "tooltip": "Devotion +78: Passive: +78 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +78"
+        }
+      ]
+    },
+    {
+      "text": "Radiance +78",
+      "tooltip": "Radiance +78: Passive: +78 Equipment bonus to Light and Alignment Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiance_(spell_boost)",
+          "title": "Radiance (spell boost)",
+          "text": "Radiance +78"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

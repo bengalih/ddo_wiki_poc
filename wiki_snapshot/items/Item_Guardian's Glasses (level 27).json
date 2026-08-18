@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Guardian's Glasses (level 27)",
+  "page_id": 41535,
+  "revision_id": 649955,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:17:50.897458+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Guardian's Glasses\n  | minlevel                 = 27\n  | type                     = Goggles\n  | slot                     = Eye\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 190\n  | material                 = Glass\n  | hardness                 = 28\n  | basevalue                = 10,820pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 19\n  | quest                    = A Break In the Ice\n  | end reward               = yes\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Hp|Vitality|40}}\n* {{Seeker|vii}}\n* {{Augment|Green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Skirmisher's Lenses shown.jpg\n  | picdesc                  = Guardian's Glasses (Level 27).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Glass",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "Vitality +40",
+      "tooltip": "Vitality +40: Passive: +40 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +40"
+        }
+      ]
+    },
+    {
+      "text": "Seeker +7",
+      "tooltip": "Seeker +7: Provides a +7 Enhancement bonus to confirm critical hits, and a +7 Enhancement bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Seeker +7"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

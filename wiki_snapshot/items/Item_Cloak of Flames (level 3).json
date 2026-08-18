@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Cloak of Flames (level 3)",
+  "page_id": 27171,
+  "revision_id": 629016,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:22:31.316832+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Cloak of Flames}}\n  | type                     = Cloak\n  | minlevel                 = 3\n  | slot                     = Back\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 40\n  | material                 = Leather\n  | hardness                 = 5\n  | basevalue                = 1205pp\n  | weight                   = 0.10 lbs\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various ingredients\n  | mythic                   = no\n  | enhancements             = \n* {{SpellPower|Combustion|54}}\n* {{Spelllore|Fire|8}}\n* {{Heightened Awareness|1}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = <!--yes -->\n  | description              = Imbued with the power of a bound Fire Elemental, this smooth cloak of crimson fabric absorbs harmful flames and makes your fire spells stronger.\n  | pic                      = Cloak of Flames Shown.jpg\n  | picdesc                  = Cloak of Flames (level 3).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Combustion +54",
+      "tooltip": "Combustion +54: Passive: +54 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +54"
+        }
+      ]
+    },
+    {
+      "text": "Fire Lore +8%",
+      "tooltip": "Fire Lore +8: Passive: Your Fire spells gain a 8% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore +8%"
+        }
+      ]
+    },
+    {
+      "text": "Heightened Awareness 1",
+      "tooltip": "Heightened Awareness 1: This item helps you to quickly read situations with sharpness and clarity, allowing you to predict actions before they occur. You gain a +1 Insight bonus to AC.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heightened_Awareness",
+          "title": "Heightened Awareness",
+          "text": "Heightened Awareness 1"
+        }
+      ]
+    }
+  ]
+}

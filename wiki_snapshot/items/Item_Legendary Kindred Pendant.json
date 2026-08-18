@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Legendary Kindred Pendant",
+  "page_id": 66589,
+  "revision_id": 689169,
+  "revision_timestamp": "2026-06-19T03:37:05Z",
+  "fetched_at": "2026-08-17T21:55:55.399339+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Legendary Kindred Pendant\n  | basevalue                = 11,601pp\n  | weight                   = 0.10 lbs\n  | slot                     = Neck\n  | type                     = Necklace\n  | durability               = 390\n  | material                 = Steel\n  | hardness                 = 49\n  | minlevel                 = 29\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 37\n  | revamped                 = Update 80\n  | quest                    = Oath of Vengeance\n  | chest                    = end chest\n  | enhancements             = \n* {{Stat|CHA|13}}\n* {{Spell Focus|Enchantment|7}}\n* {{ItemGrantedFeat|Augment Summoning}}\n* {{Spell Focus|Enchantment|3|Insightful}}\n* {{Augment|Yellow}}\n* {{Named item sets|Adherent of the Mists Set (Legendary)}}\n  | pic                      = Necklace Generic Blue.png\n  | picdesc                  = Legendary Kindred Pendant.png\n  | description              = Man's best friend's best tool.\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Charisma +13",
+      "tooltip": "Charisma +13: This item makes the wearer have more flair, granting a +13 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +13"
+        }
+      ]
+    },
+    {
+      "text": "Enchantment Focus +7",
+      "tooltip": "Enchantment Focus +7: +7 Equipment bonus to the DC of Enchantment spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Enchantment Focus +7"
+        }
+      ]
+    },
+    {
+      "text": "Augment Summoning",
+      "tooltip": "Augment Summoning: This item grants you the Augment Summoning feat, which gives your summoned creatures +4 to all ability scores, increased health, and increased fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Summoning",
+          "title": "Augment Summoning",
+          "text": "Augment Summoning"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Enchantment Focus +3",
+      "tooltip": "Insightful Enchantment Focus +3: +3 Insight bonus to the DC of Enchantment spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Enchantment Focus +3"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Adherent of the Mists Set (Legendary)",
+      "tooltip": "Adherent of the Mists Set (Legendary): 5 Pieces Equipped:+30 Profane bonus to Physical Resistance Rating+30 Profane bonus to Positive, Negative, and Repair Amplification+15 Profane bonus to Melee and Ranged Power+15 Profane bonus to Universal Spell Power",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Adherent_of_the_Mists_Set_(Legendary)",
+          "title": "Named item sets",
+          "text": "Adherent of the Mists Set (Legendary)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

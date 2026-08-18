@@ -21,7 +21,8 @@ def parse_base_filters(request):
 
     return {
         "name": request.GET.get("name", "").strip(),
-        "item_type": request.GET.get("item_type", "").strip(),
+        "category": request.GET.get("category", "").strip(),
+        "type": request.GET.get("type", "").strip(),
         "min_level": request.GET.get("min_level", "").strip(),
         "max_level": request.GET.get("max_level", "").strip(),
         "include_upgrades": include_upgrades,
@@ -38,7 +39,7 @@ def _parse_min(value):
         return None
 
 
-def parse_enhancement_filters(request, count=None):
+def parse_enchantment_filters(request, count=None):
     filters = []
 
     if count is not None:
@@ -48,17 +49,17 @@ def parse_enhancement_filters(request, count=None):
         for index in range(count):
             filters.append(
                 {
-                    "enhancement": request.GET.get(
-                        f"enhancement_{index}",
+                    "enchantment": request.GET.get(
+                        f"enchantment_{index}",
                         "",
                     ).strip(),
                     "value": request.GET.get(
-                        f"enhancement_value_{index}",
+                        f"enchantment_value_{index}",
                         "",
                     ).strip(),
                     "min": _parse_min(
                         request.GET.get(
-                            f"enhancement_min_{index}",
+                            f"enchantment_min_{index}",
                             "",
                         ).strip()
                     ),
@@ -70,30 +71,30 @@ def parse_enhancement_filters(request, count=None):
     index = 0
 
     while True:
-        enhancement = request.GET.get(
-            f"enhancement_{index}",
+        enchantment = request.GET.get(
+            f"enchantment_{index}",
             "",
         ).strip()
 
         value = request.GET.get(
-            f"enhancement_value_{index}",
+            f"enchantment_value_{index}",
             "",
         ).strip()
 
         minimum = _parse_min(
             request.GET.get(
-                f"enhancement_min_{index}",
+                f"enchantment_min_{index}",
                 "",
             ).strip()
         )
 
-        if not enhancement and not value and minimum is None:
+        if not enchantment and not value and minimum is None:
             if index > 0:
                 break
         else:
             filters.append(
                 {
-                    "enhancement": enhancement,
+                    "enchantment": enchantment,
                     "value": value,
                     "min": minimum,
                 }
@@ -104,27 +105,27 @@ def parse_enhancement_filters(request, count=None):
         if index >= 20:
             break
 
-    # Backward compatibility with the previous single-enhancement
+    # Backward compatibility with the previous single-enchantment
     # query-string format.
     if not filters:
-        enhancement = request.GET.get(
-            "enhancement",
+        enchantment = request.GET.get(
+            "enchantment",
             "",
         ).strip()
 
         value = request.GET.get(
-            "enhancement_value",
+            "enchantment_value",
             "",
         ).strip()
 
-        if enhancement or value:
+        if enchantment or value:
             filters.append(
                 {
-                    "enhancement": enhancement,
+                    "enchantment": enchantment,
                     "value": value,
                     "min": _parse_min(
                         request.GET.get(
-                            "enhancement_min",
+                            "enchantment_min",
                             "",
                         ).strip()
                     ),
@@ -136,13 +137,19 @@ def parse_enhancement_filters(request, count=None):
 
 def apply_base_filters(items, base_filters):
     name = base_filters["name"]
-    item_type = base_filters["item_type"]
+    category = base_filters["category"]
+    item_type = base_filters["type"]
     min_level = base_filters["min_level"]
     max_level = base_filters["max_level"]
 
     if name:
         items = items.filter(
             name__icontains=name
+        )
+
+    if category:
+        items = items.filter(
+            item_class__iexact=category
         )
 
     if item_type:
@@ -169,36 +176,36 @@ def apply_base_filters(items, base_filters):
     return items
 
 
-def apply_enhancement_filter(
+def apply_enchantment_filter(
     items,
-    enhancement,
+    enchantment,
     value,
     min_magnitude=None,
     include_upgrades=True,
 ):
     base_kwargs = {
-        "enhancements__variant__enhancement__name__iexact": (
-            enhancement
+        "enchantments__variant__enchantment__name__iexact": (
+            enchantment
         ),
     }
 
     if not include_upgrades:
-        base_kwargs["enhancements__tier__isnull"] = True
+        base_kwargs["enchantments__tier__isnull"] = True
 
-    if enhancement:
+    if enchantment:
         items = items.filter(**base_kwargs)
 
         if min_magnitude is not None:
             # A minimum magnitude overrides an exact value pick.
             min_kwargs = dict(base_kwargs)
-            min_kwargs["enhancements__variant__magnitude__gte"] = (
+            min_kwargs["enchantments__variant__magnitude__gte"] = (
                 min_magnitude
             )
 
             items = items.filter(**min_kwargs)
         elif value:
             value_kwargs = dict(base_kwargs)
-            value_kwargs["enhancements__variant__value__iexact"] = (
+            value_kwargs["enchantments__variant__value__iexact"] = (
                 value
             )
 
@@ -206,12 +213,12 @@ def apply_enhancement_filter(
     elif value:
         if not include_upgrades:
             items = items.filter(
-                enhancements__variant__value__iexact=value,
-                enhancements__tier__isnull=True,
+                enchantments__variant__value__iexact=value,
+                enchantments__tier__isnull=True,
             )
         else:
             items = items.filter(
-                enhancements__variant__value__iexact=value
+                enchantments__variant__value__iexact=value
             )
 
     return items

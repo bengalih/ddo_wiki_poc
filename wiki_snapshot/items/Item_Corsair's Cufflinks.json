@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Corsair's Cufflinks",
+  "page_id": 24360,
+  "revision_id": 629173,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:26:48.506154+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Corsair's Cufflinks\n  | type                     = Bracers\n  | basevalue                = 2,005 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Wrist\n  | released                 = Update 14\n  | durability               = 60\n  | material                 = Leather\n  | hardness                 = 11\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 5\n  | quest                    = Three-Barrel Cove (heroic)\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|5}}\n* {{Skills|haggle|5}}\n* {{Attack Bonus|1}}\n* {{Named item sets|Corsair's Cunning}}\n  | description              = Fancy cufflinks! The sign of a pirate with a sense of fashion.\n  | pic                      = Ring Generic Hatred.png\n  | picdesc                  = Corsair's Cufflinks.png\n  | tips                     = The {{Item|Pirate Treasure Map}}, the 3 items from the {{Named item sets|Corsair's Cunning}} set, the 4 'Scoundrel's type' weapons and {{Item|Brine Shaman's Staff}} have a chance of appearing in the end reward list of any of the [[Three-Barrel Cove (heroic)]] quests, except [[Guard Duty]]. Every third completion you will receive a complete list.\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +5",
+      "tooltip": "Armor Bonus +5: This item surrounds the wearer with an invisible but tangible field of force, granting +5 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +5"
+        }
+      ]
+    },
+    {
+      "text": "Haggle +5",
+      "tooltip": "Haggle +5: Passive: +5 Competence bonus to the Haggle skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Haggle",
+          "title": "Haggle",
+          "text": "Haggle +5"
+        }
+      ]
+    },
+    {
+      "text": "Attack Bonus +1",
+      "tooltip": "Attack Bonus +1: Provides a +1 competence bonus to your attack rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Attack_bonus",
+          "title": "Attack bonus",
+          "text": "Attack Bonus +1"
+        }
+      ]
+    },
+    {
+      "text": "Corsair's Cunning",
+      "tooltip": "Corsair's Cunning: 2 Item Set Bonus: Underwater Action3 Item Set Bonus: Feather Falling",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Corsair's_Cunning",
+          "title": "Named item sets",
+          "text": "Corsair's Cunning"
+        }
+      ]
+    }
+  ]
+}

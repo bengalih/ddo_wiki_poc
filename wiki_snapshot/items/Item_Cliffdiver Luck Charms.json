@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Cliffdiver Luck Charms",
+  "page_id": 10171,
+  "revision_id": 629005,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:22:15.340046+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Cliffdiver Luck Charms\n  | basevalue                = 3,620 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Wrist\n  | type                     = Bracers\n  | durability               = 100\n  | material                 = Steel\n  | hardness                 = 17\n  | bind                     = {{Bind|BtA|BoA}}\n  | minlevel                 = 9\n  | quest                    = Cult of the Six\n  | end reward               = yes\n  | mythic                   = false\n  | enhancements             = \n* {{Skills|Swim|10}}\n* {{Skills|Jump|10}}\n* {{Striding|20}}\n* {{Augment|Yellow}}\n  | description              = Intertwined strands of brightly-colored seaweed make for a simple yet beautiful adornments. \n  | pic                      = Bracers Generic.png\n  | picdesc                  = Cliffdiver Luck Charms.png\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Swim +10",
+      "tooltip": "Swim +10: Passive: +10 Competence bonus to the Swim skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Swim",
+          "title": "Swim",
+          "text": "Swim +10"
+        }
+      ]
+    },
+    {
+      "text": "Jump +10",
+      "tooltip": "Jump +10: Passive: +10 Competence bonus to the Jump skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Jump_(skill)",
+          "title": "Jump (skill)",
+          "text": "Jump +10"
+        }
+      ]
+    },
+    {
+      "text": "Striding +20%",
+      "tooltip": "Striding +20%: This item makes you more fleet of foot, giving you a 20% Enhancement bonus your movement speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Striding",
+          "title": "Striding",
+          "text": "Striding +20%"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "page_title": "Item:Bronkarz's Cloak",
+  "page_id": 2812,
+  "revision_id": 628801,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:16:12.143366+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Bronkarz's Cloak\n  | type                     = Cloak\n  | class                    = Clothing\n  | basevalue                = 405 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Back\n  | durability               = 20\n  | material                 = Gold\n  | hardness                 = 3\n  | minlevel                 = 1\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = The Kobolds' New Ringleader\n  | chest                    = [[Bronkarz]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Save|W|1}} \n* {{Augment|Yellow}}\n  | description              = This magical cloak was taken from the chest of the bugbear Bronkarz.\n  | pic                      = Bronkarz's Cloak Shown.jpg\n  | picdesc                  = Bronkarz's_Cloak.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "enchantments": [
+    {
+      "text": "Will Save +1",
+      "tooltip": "Will Save +1: This item gives a +1 Resistance bonus to your Will saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Will_save",
+          "title": "Will save",
+          "text": "Will Save +1"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

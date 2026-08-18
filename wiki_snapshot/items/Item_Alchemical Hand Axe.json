@@ -1,0 +1,43 @@
+{
+  "page_title": "Item:Alchemical Hand Axe",
+  "page_id": 21149,
+  "revision_id": 671285,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:02:17.281398+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Alchemical Hand Axe\n  | damage                   = 3[1d6] + 5 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Hand Axe\n  | hand                     = One-handed\n  | class                    = Slashing\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Martial\n  | durability               = 120\n  | material                 = Steel\n  | hardness                 = 17\n  | minlevel                 = 12\n  | basevalue                = 10,200pp 6gp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|no}}\n  | quest                    = The Master Artificer\n  | chest                    = Either End-chest\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{CraftingEffects|Alchemical (Prototype)}}\n  | crafting                 = Alchemical Crafting\n  | craftingupgrade          = <!-- yep -->\n  | pic                      = Alchemical Hand Axe shown.jpg\n  | picdesc                  = Alchemical Hand Axe.png\n  | description              = A smaller version of the Battleaxe, favored as an offhand weapon by dwarves.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Hand Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Alchemical (Prototype)",
+      "tooltip": "Alchemical (Prototype): This experimental item, crafted and enchanted at ancient Cannith creation forges using powerful alchemy, is made of a material that allows elemental power sources to be bound to it. This item is in a prototype state and is currently in need of refinement before an elemental can be bound to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alchemical_Crafting",
+          "title": "Alchemical Crafting",
+          "text": "Alchemical (Prototype)"
+        }
+      ]
+    }
+  ]
+}

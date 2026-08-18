@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Abyssal Arbalest",
+  "page_id": 126626,
+  "revision_id": 700102,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:01:02.993798+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Abyssal Arbalest\n  | damage                   = 1.50[1d10] + 5 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Repeating Heavy Crossbow\n  | class                    = Ranged\n  | prof                     = Exotic\n  | hand                     = Ranged\n  | damagemod                = DEX\n  | attackmod                = DEX\n  | durability               = 200\n  | material                 = Steel\n  | hardness                 = 21\n  | minlevel                 = 11\n  | basevalue                = 4,440pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 81\n  | quest                    = A Blood Pact\n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Fiery|3}}\n* {{Toxic|7}}\n* {{Disintegrate|2}}\n* {{Vampirism|1}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Corruption seeps into your mind as you grip this crossbox.\n  | pic                      = Abyssal Arbalest shown.jpg\n  | picdesc                  = Abyssal Arbalest.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Repeating Heavy Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fiery 3",
+      "tooltip": "Fiery 3: This effect causes the edges of this weapon to burn with enchanted flames, dealing 3d6 Fire damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fiery",
+          "title": "Fiery",
+          "text": "Fiery 3"
+        }
+      ]
+    },
+    {
+      "text": "Toxic 7",
+      "tooltip": "Toxic 7: This effect causes the edges of this weapon to drip with a vile venom, dealing 7d6 poison damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Toxic",
+          "title": "Toxic",
+          "text": "Toxic 7"
+        }
+      ]
+    },
+    {
+      "text": "Disintegrate 2",
+      "tooltip": "Disintegrate 2: Strikes with this weapon have a small chance to call forth a strike of entropic force, dealing 2d20+27 untyped damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disintegrate",
+          "title": "Disintegrate",
+          "text": "Disintegrate 2"
+        }
+      ]
+    },
+    {
+      "text": "Vampirism 1",
+      "tooltip": "Vampirism 1: This weapon thirsts for the blood of your enemies, healing you for +1d2 hit points with each hit.Note: internal cooldown of 1 second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Vampirism 1"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

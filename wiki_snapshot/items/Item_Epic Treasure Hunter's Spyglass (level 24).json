@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Epic Treasure Hunter's Spyglass (level 24)",
+  "page_id": 71171,
+  "revision_id": 630567,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:58:54.581985+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = {{Item|Treasure Hunter's Spyglass|Epic Treasure Hunter's Spyglass}}\n  | minlevel                 = 24\n  | type                     = Trinket\n  | race                     = \n  | slot                     = Trinket\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 250<!-- previously 160 -->\n  | material                 = Gem\n  | hardness                 = 44<!-- previously 35 -->\n  | cost                     = 9,605pp\n  | weight                   = 0.10 lbs\n  | quest                    = Treasure of Crystal Cove \n  | end reward               = \n  | turn in                  = various ingredients at [[Euphonia's Barter Box]]\n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Stat|INT|5|Insightful}}\n* {{Skills|Astute|9|Exceptional}}\n* {{Skills|Prudent|9|Exceptional}}\n* {{TrueSeeing}}\n* {{Augment|green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A tool such as this is a great aid to the treasure-seeking pirate, for it allows him or her to locate small details, find secret passages and notice any traps that might be lurking along the way.\n  | pic                      = Trinket_Generic_Spyglass.png\n  | picdesc                  = Epic Treasure Hunter's Spyglass (level 24).png\n  | tips                     = To exchange historic (Tiered) items for U39 item of same level, talk to [[Euphonia Teles]] to open up [[Conversions of Crystal Cove]].  Beware: new items can be powerful, but may contain different enhancements than Tiered items.\n}}<noinclude>[[Category:Treasure of Crystal Cove epic items]]</noinclude>",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "Insightful Intelligence +5",
+      "tooltip": "Insightful Intelligence +5: This item focuses the power of the wearer's mind, granting a +5 Insight bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Insightful Intelligence +5"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Astute Skills Bonus +9",
+      "tooltip": "Exceptional Astute Skills Bonus: +9 Exceptional bonus to Disable Device, Repair and Search.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Skill",
+          "title": "Skill",
+          "text": "Exceptional Astute Skills Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Prudent Skills Bonus +9",
+      "tooltip": "Exceptional Prudent Skills Bonus: +9 Exceptional bonus to Heal, Listen and Spot.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Skill",
+          "title": "Skill",
+          "text": "Exceptional Prudent Skills Bonus"
+        }
+      ]
+    },
+    {
+      "text": "True Seeing",
+      "tooltip": "True Seeing: Passive: You gain the benefit of the spell True Seeing.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/True_Seeing_(enchantment)",
+          "title": "True Seeing (enchantment)",
+          "text": "True Seeing"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

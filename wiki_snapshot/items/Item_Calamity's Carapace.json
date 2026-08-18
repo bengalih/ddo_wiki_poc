@@ -1,0 +1,44 @@
+{
+  "page_title": "Item:Calamity's Carapace",
+  "page_id": 9828,
+  "revision_id": 628845,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:18:11.575364+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Calamity's Carapace\n  | type                     = Leather\n  | feat                     = Light\n  | race                     = \n  | minlevel                 = 2\n  | bind                     = {{Bind|BtC|BoE}}\n  | ac                       = +5\n  | maxdexbonus              = 6\n  | acp                      = \n  | asf                      = 10%\n  | durability               = 44\n  | material                 = Leather\n  | hardness                 = 10\n  | basevalue                = 801pp\n  | weight                   = 15 lbs\n  | quest                    = The Smuggler's Warehouse\n  | chest                    = [[Calamity]]'s Chest\n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|2}}\n* {{Augment|Blue}}\n  | pic                      = Calamity's Carapace shown.jpg\n  | picdesc                  = Calamity's Carapace.png\n  | description              = A suit of armor made out of the carapace and other body parts of the spider Calamity.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

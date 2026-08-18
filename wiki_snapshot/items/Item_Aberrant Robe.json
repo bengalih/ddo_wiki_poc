@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Aberrant Robe",
+  "page_id": 8194,
+  "revision_id": 686647,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:00:59.167204+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Aberrant Robe\n  | type                     = Robe\n  | feat                     = Cloth\n  | ac                       = +5\n  | durability               = 65\n  | material                 = Cloth\n  | hardness                 = 8\n  | basevalue                = 2,405.5 pp\n  | weight                   = 0 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | minlevel                 = 6\n  | quest                    = Caverns of Korromar\n  | chest                    = End Chest ([[R'zzix the Beholder]])\n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|5}}\n* {{Spell Resistance|17}}\n* {{Wizardry|II}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Aberrant Robe shown.jpg\n  | picdesc                  = Aberrant Robe.png\n  | description              = The designs embroidered on the fabric of this robe seem to twist and turn as you look upon them, making little sense to your mind.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +5",
+      "tooltip": "Armor Bonus +5: This item surrounds the wearer with an invisible but tangible field of force, granting +5 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +5"
+        }
+      ]
+    },
+    {
+      "text": "Spell Resistance +17",
+      "tooltip": "Spell Resistance +17: +17 Enhancement bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Spell Resistance +17"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry II",
+      "tooltip": "Wizardry II: This item grants the wearer +50 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry II"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

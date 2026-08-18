@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Ratkiller (legacy) (level 4)",
+  "page_id": 19224,
+  "revision_id": 634128,
+  "revision_timestamp": "2025-04-22T03:01:08Z",
+  "fetched_at": "2026-08-17T06:03:02.098529+00:00",
+  "categories": [],
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Maul",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Stunning +2",
+      "tooltip": "Stunning +2: +2 Enhancement bonus to the DC of character's Stunning Blow and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stunning",
+          "title": "Stunning",
+          "text": "Stunning +2"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Animal Bane",
+      "tooltip": "Lesser Animal Bane: A bane weapon excels at attacking one type or subtype of creature. Against Animals, this weapon's effective enhancement bonus is +1 better than its normal enhancement bonus. It deals an extra 1 to 6 points of damage against the foe.",
+      "children": [
+        {
+          "text": "Upgradeable - Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "+1 Enhancement Bonus → +2 Enhancement Bonus",
+              "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+1 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+2 Enhancement Bonus"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_2",
+              "title": "Upgradeable - Tier 2",
+              "text": "Upgradeable - Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Upgradeable - Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Stunning +2 → Stunning +4",
+              "tooltip": "Stunning +2: +2 Enhancement bonus to the DC of character's Stunning Blow and Stunning Fist attempts. Stunning +4: +4 Enhancement bonus to the DC of character's Stunning Blow and Stunning Fist attempts.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Stunning",
+                  "title": "Stunning",
+                  "text": "Stunning +2"
+                },
+                {
+                  "target": "/page/Stunning",
+                  "title": "Stunning",
+                  "text": "Stunning +4"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_3",
+              "title": "Upgradeable - Tier 3",
+              "text": "Upgradeable - Tier 3"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Lesser Animal Bane"
+        }
+      ]
+    }
+  ],
+  "item_class": "Weapon",
+  "item_template": ""
+}

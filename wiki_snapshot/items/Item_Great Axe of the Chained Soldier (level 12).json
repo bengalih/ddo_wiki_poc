@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Great Axe of the Chained Soldier (level 12)",
+  "page_id": 36042,
+  "revision_id": 649891,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:14:40.647968+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Great Axe of the Chained Soldier}}\n  | prof                     = Martial\n  | damage                   = 1.50[1d12] + 5 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Great Axe\n  | class                    = Slashing\n  | minlevel                 = 12\n  | hand                     = Two-handed\n  | damagemod                = STR \n  | attackmod                = STR\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 220\n  | material                 = Steel\n  | hardness                 = 17\n  | released                 = Update 17\n  | quest                    = Gianthold Tor\n  | chest                    = White Dragon chest (Heroic Normal)\n  | basevalue                = 4,802pp\n  | weight                   = 12 lbs\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Hemorrhaging}}\n* {{Immunity|Fear}}\n  | description              = The ancient giants commanded legions of martial drow slaves. These enchanted arms fortified courage and resolve, and dissuaded the conscripts from flight.\n  | tips                     = \n  | pic                      = Great Axe of the Chained Soldier shown.jpg\n  | picdesc                  = Great Axe of the Chained Soldier (Level 12).png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Hemorrhaging",
+      "tooltip": "Hemorrhaging: This weapon is viciously sharp and will do an additional 2 to 16 damage to targets that are vulnerable to bleeding.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleed#Hemorrhaging",
+          "title": "Bleed",
+          "text": "Hemorrhaging"
+        }
+      ]
+    },
+    {
+      "text": "Immunity to Fear",
+      "tooltip": "Immunity to Fear: The wearer of this item is immune to all fear effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Immunity_to_Fear",
+          "title": "Immunity to Fear",
+          "text": "Immunity to Fear"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

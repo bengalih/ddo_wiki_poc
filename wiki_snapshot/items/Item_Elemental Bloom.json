@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Elemental Bloom",
+  "page_id": 51242,
+  "revision_id": 700651,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:41:56.537138+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Elemental Bloom\n  | damage                   = [1d8] + 3 Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 7\n  | durability               = 150\n  | material                 = Wood\n  | hardness                 = 17\n  | basevalue                = 2,820 pp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 25\n  | quest                    = ToEE: Earth Node\n  | chest                    = [[Hyrelgas]]'s chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Bane|Elemental|Lesser}}\n* {{Bodyfeeder}}\n* {{Paralyzing}}\n* {{Bewildering}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Elemental Bloom shown.jpg\n  | picdesc                  = Elemental Bloom.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Elemental Bane",
+      "tooltip": "Lesser Elemental Bane: A bane weapon excels at attacking one type or subtype of creature. Against Elementals, this weapon's effective enhancement bonus is +1 better than its normal enhancement bonus. It deals an extra 1 to 6 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Lesser Elemental Bane"
+        }
+      ]
+    },
+    {
+      "text": "Bodyfeeder",
+      "tooltip": "Bodyfeeder: Whenever a bodyfeeder weapon you wield scores a critical hit, you gain 15 temporary hit points that last for up to 1 minute.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bodyfeeder",
+          "title": "Bodyfeeder",
+          "text": "Bodyfeeder"
+        }
+      ]
+    },
+    {
+      "text": "Paralyzing",
+      "tooltip": "Paralyzing : Any creature struck by this weapon must succeed on a DC 17 Will save or be paralyzed. The target may attempt a new save to end the effect every several seconds; otherwise the paralysis lasts for 1 minute.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Paralyzing",
+          "title": "Paralyzing",
+          "text": "Paralyzing"
+        }
+      ]
+    },
+    {
+      "text": "Bewildering",
+      "tooltip": "Bewildering: Targets of this weapon can feel their willpower slipping away. They lose -1 Wisdom on a successful attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bewildering",
+          "title": "Bewildering",
+          "text": "Bewildering"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

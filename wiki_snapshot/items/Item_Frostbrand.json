@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Frostbrand",
+  "page_id": 8008,
+  "revision_id": 631005,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:08:38.816385+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Frostbrand\n  | type                     = Great Sword\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | minlevel                 = 8\n  | bind                     = {{Bind|BtC|BoE}}\n  | damage                   = [2d8] + 3 Slash, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 180\n  | material                 = Steel\n  | hardness                 = 18\n  | basevalue                = 3,205 pp\n  | weight                   = 8 lbs\n  | quest                    = The Subterrane - Central\n  | chest                    = [[Garamol]]'s chest \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|3}}\n* {{Frost}}\n* {{Elemental Resistance|Fire|10}}\n* {{Augment|Purple}}\n  | description              = This great sword is instilled with the essence of Ice. It protects its wielder from fire damage as well as doing additional cold damage.\n  | pic                      = Frostbrand shown.jpg‎\n  | picdesc                  = Frostbrand.png‎\n  | tips                     = '''Multiple Drop Locations'''; Rare drop in any Level 10 Chest, possible [[Bargain of Blood]] end of quest reward\n}}\n[[Category:Random loot]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Frost",
+      "tooltip": "Frost: This weapon is sheathed in icy cold. A frost weapon deals an extra 1 to 6 points of cold damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Frost",
+          "title": "Frost",
+          "text": "Frost"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +10",
+      "tooltip": "Fire Resistance +10: Passive: +10 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +10"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

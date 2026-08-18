@@ -1,0 +1,121 @@
+{
+  "page_title": "Item:Legendary Entropic Heartstone",
+  "page_id": 64645,
+  "revision_id": 632167,
+  "revision_timestamp": "2025-04-22T00:46:35Z",
+  "fetched_at": "2026-08-17T21:45:25.306943+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Entropic Heartstone\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | reqtrait                 = Chaotic <!-- template doesn't account for this -->\n  | UMD DC                   = 0 <!-- template doesn't account for this -->\n  | ac                       = {{WFABonus|a=26|m=15|c=6}}\n  | maxdexbonus              = 0\n  | acp                      = 0\n  | asf                      = 0%\n  | durability               = 330\n  | material                 = Gem\n  | hardness                 = 38\n  | minlevel                 = 28\n  | released                 = Update 36\n  | revamped                 = Update 50\n  | quest                    = Third Time's a Charm\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | basevalue                = 11,210 pp\n  | weight                   = 0 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* '''Required Trait''': [[Chaotic]] ([[UMD|UMD: 0]])\n* {{Enhancement bonus|a|13}}\n* {{SpellPower|Reconstruction|35|Quality}}\n* {{Sheltering|33|Enhancement|Physical}}\n* {{Sheltering|8|Quality|Physical}}\n* {{HealingAmp|53|R}}\n* {{Augment|Green}}\n  | pic                      = Entropic Heartstone shown.jpg\n  | picdesc                  = Legendary Entropic Heartstone.png\n  | description              = This gem, set aside by Graz'zt, contains an aspect of his chaos. One can only muse at what his plans for it were.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "Required Trait: Chaotic (UMD: 0)",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Chaotic",
+          "title": "Chaotic",
+          "text": "Chaotic"
+        },
+        {
+          "target": "/page/UMD",
+          "title": "UMD",
+          "text": "UMD: 0"
+        }
+      ]
+    },
+    {
+      "text": "+13 Enhancement Bonus",
+      "tooltip": "+13 Enhancement Bonus: +13 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+13 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Quality Reconstruction +35",
+      "tooltip": "Quality Reconstruction +35: Passive: +35 Quality bonus to Repair and Rust Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reconstruction",
+          "title": "Reconstruction",
+          "text": "Quality Reconstruction +35"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +33",
+      "tooltip": "Physical Sheltering +33: +33 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +33"
+        }
+      ]
+    },
+    {
+      "text": "Quality Physical Sheltering +8",
+      "tooltip": "Quality Physical Sheltering +8: +8 Quality bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Quality Physical Sheltering +8"
+        }
+      ]
+    },
+    {
+      "text": "Repair Amplification +53",
+      "tooltip": "Repair Amplification: This effect amplifies all incoming repair healing by +53 (Enhancement bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Repair_Amplification",
+          "title": "Repair Amplification",
+          "text": "Repair Amplification +53"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "page_title": "Item:Vile Blasphemy",
+  "page_id": 10182,
+  "revision_id": 635720,
+  "revision_timestamp": "2025-04-22T04:46:41Z",
+  "fetched_at": "2026-08-17T23:24:08.281915+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Vile Blasphemy\n  | basevalue                = 6,420pp\n  | weight                   = 0.10 lbs\n  | slot                     = Hand\n  | type                     = Gloves\n  | durability               = 90\n  | material                 = Leather\n  | hardness                 = 14\n  | minlevel                 = 13\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Ascension Chamber\n  | chest                    = Raid Warded chest \n  | enhancements             = \n* {{Clicky|Power Drain (clicky)|12|1|label=Power Drain}} \n* {{Stat|DEX|6}}\n* {{Skills|umd|3}}\n* {{UpgradeableItem|Black Abbot}}\n  | crafting                 = Fountain of Necrotic Might\n  | craftingupgrade          = <!-- as above -->\n  | pic                      = Gloves Generic Blasphemy.png\n  | picdesc                  = Vile Blasphemy.png\n  | description              = Mindflayer tentacles accented by a beholder eye in each palm form Maldetto's gloves. The power in the trophies fuel Maldetto's dark magic.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Power Drain — 1 Charges (Recharged/Day:1)",
+      "tooltip": "Power DrainCaster level: 12Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power_Drain_(clicky)",
+          "title": "Power Drain (clicky)",
+          "text": "Power Drain"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +6",
+      "tooltip": "Dexterity +6: This item makes the wearer more nimble and dexterous, granting a +6 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +6"
+        }
+      ]
+    },
+    {
+      "text": "Use Magic Device +3",
+      "tooltip": "Use Magic Device +3: Passive: +3 Competence bonus to the Use Magic Device skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Use_Magic_Device",
+          "title": "Use Magic Device",
+          "text": "Use Magic Device +3"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable Item (Black Abbot)",
+      "tooltip": "Upgradeable Item (Black Abbot): This item could be upgraded if you found a Seal of the Black Abbot to combine it with. Bring this item to the Fountain of Necrotic Might outside the Black Mausoleum and combine it with a Seal of the Black Abbot to upgrade the item to a more powerful form.",
+      "children": [
+        {
+          "text": "Power Drain — 1 Charges (Recharged/Day:1) → Power Drain — 3 Charges (Recharged/Day:3)",
+          "tooltip": "Power DrainCaster level: 12Charges: 1 (1/day)Power DrainCaster level: 12Charges: 3 (3/day)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Power_Drain_(clicky)",
+              "title": "Power Drain (clicky)",
+              "text": "Power Drain"
+            },
+            {
+              "target": "/page/Power_Drain_(clicky)",
+              "title": "Power Drain (clicky)",
+              "text": "Power Drain"
+            }
+          ]
+        },
+        {
+          "text": "Adds Greater Dispelling Guard",
+          "tooltip": "Greater Dispelling Guard: This item is infused with a power that purges out the magical energies of those that strike the wearer. When the wearer is hit in melee it will apply a Greater Dispel Magic effect to the attacker, stripping away its protective spells.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Greater_Dispelling_Guard",
+              "title": "Greater Dispelling Guard",
+              "text": "Greater Dispelling Guard"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_Item_(Black_Abbot)",
+          "title": "Upgradeable Item (Black Abbot)",
+          "text": "Upgradeable Item (Black Abbot)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Hands Boost +1 or +3",
+      "tooltip": "Mythic Hands Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Hands Boost"
+        }
+      ]
+    }
+  ]
+}

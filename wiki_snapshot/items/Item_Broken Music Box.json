@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Broken Music Box",
+  "page_id": 46327,
+  "revision_id": 628796,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:16:05.375796+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Broken Music Box\n  | type                     = Trinket\n  | slot                     = Trinket\n  | durability               = 250\n  | material                 = Steel\n  | hardness                 = 34\n  | basevalue                = 9,620 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 24\n  | bind                     = {{Bind|no}}\n  | released                 = Update 22\n  | quest                    = Precious Cargo\n  | chest                    = end chest  \n  | enhancements             = \n* {{Augment|Blue}}\n* {{Augment|Yellow}} \n* {{Augment|Colorless}}\n* Hidden effect: {{Guard|Cacophonic}}, when all augments slots are filled.\n  | description              = A faint strain of haunting, mechanical song still issues from this box from time to time. The decorative gems were pried off it long ago. What would happen if they were filled?\n  | pic                      = Trinket Generic Box.png\n  | picdesc                  = Broken Music Box.png\n  | tips                     = {{Bug|After changes to augment slots in U48, Broken Music Box was not updated, and its hidden effect doesn't work.}}\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Hidden effect: Cacophonic Guard, when all augments slots are filled.",
+      "tooltip": "Cacophonic Guard: This weapon stores the power of a hundred blasts of sound within. When the wearer of this item is successfully attacked in melee, this resonating power occasionally comes to the surface, devastating enemies with massive sonic damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cacophonic_Guard",
+          "title": "Cacophonic Guard",
+          "text": "Cacophonic Guard"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Trinket Boost +1 or +3",
+      "tooltip": "Mythic Trinket Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Trinket Boost"
+        }
+      ]
+    }
+  ]
+}

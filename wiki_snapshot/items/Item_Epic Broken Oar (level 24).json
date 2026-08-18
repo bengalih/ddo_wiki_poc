@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Epic Broken Oar (level 24)",
+  "page_id": 71289,
+  "revision_id": 678002,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:45:25.669911+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Broken Oar|Epic Broken Oar}}\n  | damage                   = 3.80[1d6] + 7 Bludgeon, Magic\n  | crit                     = 18-20 / x2 \n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 24\n  | durability               = 295\n  | material                 = Densewood\n  | hardness                 = 34\n  | cost                     = 9,601 pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|silver|1250}}{{CCi|golden|500}}{{CCi|opal|40}}{{CCi|green|800}} at [[Euphonia's Barter Box]]\n  | mythic                   = no\n  | epic                     = no \n  | enhancements             = \n* {{Enhancement bonus|w|7}}\n* {{Bleeding|5}}\n* {{Impact}}\n* {{Doublestrike|12%}}\n* {{Felling the Oak}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = You're pretty sure this was an oar once. It doesn't do much to propel a ship now, but at least you can smack your foes with the pointy end.\n  | pic                      = Broken Oar shown.jpg\n  | picdesc                  = Epic Broken Oar (level 24).png\n  | tips                     = Not the most exciting weapon to behold, but a pretty decent one to hold. \n}}<noinclude>[[Category:Treasure of Crystal Cove epic items]][[Category:Impact items with expanded crit profiles]]</noinclude>",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Bleeding 5",
+      "tooltip": "Bleeding 5: This weapon is wickedly curved, with spines and hooks meant to cause damage to those with flesh. This weapon does 5d8 bleeding damage to those that are vulnerable to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleeding",
+          "title": "Bleeding",
+          "text": "Bleeding 5"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Doublestrike 12%",
+      "tooltip": "Doublestrike 12%: Passive: 12% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 12%"
+        }
+      ]
+    },
+    {
+      "text": "Felling the Oak",
+      "tooltip": "Felling the Oak: On a natural 20 that is confirmed as a critical hit, this weapon will trip your opponent, forcing them to fall prone. There is no save against this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Felling_the_Oak",
+          "title": "Felling the Oak",
+          "text": "Felling the Oak"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

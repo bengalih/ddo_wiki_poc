@@ -1,0 +1,52 @@
+{
+  "page_title": "Item:Protector's Brooch",
+  "page_id": 9500,
+  "revision_id": 634056,
+  "revision_timestamp": "2025-04-22T02:56:03Z",
+  "fetched_at": "2026-08-17T22:40:24.961981+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Protector's Brooch\n  | type                     = Necklace\n  | class                    = Jewelry\n  | basevalue                = 405 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Neck\n  | durability               = 30\n  | material                 = Steel\n  | hardness                 = 12\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = The Salvation of Korthos\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|STR|1}}\n* {{Resistance|1}}\n* {{Named item sets|Protector's Heart}}\n  | pic                      = Necklace Generic.png\n  | picdesc                  = Protector's Brooch.png\n  | description              = This necklace is infused with the spirit of a stalwart knight.\n  | tips                     = This item also exists as part of [[Veteran Status I starter item|Veteran I]] and [[Veteran Status II starter item|Veteran II Starter equipment]]s.\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "enchantments": [
+    {
+      "text": "Strength +1",
+      "tooltip": "Strength +1: This item gives the wearer the power of Ogre Strength, granting a +1 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +1"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +1",
+      "tooltip": "Resistance +1: Passive: +1 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +1"
+        }
+      ]
+    },
+    {
+      "text": "Protector's Heart",
+      "tooltip": "Protector's Heart: Light Fortification, Insight AC Bonus +1 (non-stacking)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Protector's_Heart",
+          "title": "Named item sets",
+          "text": "Protector's Heart"
+        }
+      ]
+    }
+  ]
+}

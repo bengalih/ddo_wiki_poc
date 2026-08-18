@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Seeker Tap of Spellsight",
+  "page_id": 33859,
+  "revision_id": 634547,
+  "revision_timestamp": "2025-04-22T03:28:45Z",
+  "fetched_at": "2026-08-17T22:53:13.884842+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=Item}}\n{{Named item|Quiver\n  | name                     = Seeker Tap of Spellsight\n  | type                     = Thin Quiver\n  | minlevel                 = 16\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 200\n  | material                 = Cloth\n  | hardness                 = 110\n  | cost                     = 8,342pp 2gp\n  | weight                   = 1.00 lbs\n  | quest                    = Special event items\n  | chest                    = European servers\n  | capacity                 = 3\n  | maxstack                 = 1,000\n  | enhancements             = \n* {{Toughness|nocat=TRUE}}\n* {{Arcane Casting Dexterity|nocat=TRUE}}\n* {{Seeker|10|nocat=TRUE}}\n* {{Skills|UMD|5|nocat=TRUE}}\n  | description              = This thin quiver, available from House Deneith, will hold 3 different types of arrow or bolt and can store each type of up to 1000. Total capacity: 3000.\n  | pic                      = Quiver Generic Large Thin.png\n  | picdesc                  = Seeker Tap of Spellsight.png\n  | icon pic                 = Icon Item Slot Quiver.png\n  | notes                    = Given away on the European servers by Codemasters. It is not native to any of the American servers.\n}}",
+  "item_template": "History",
+  "material": "Cloth",
+  "item_type": "Thin Quiver",
+  "item_class": "Quiver",
+  "slot": "Quiver",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Toughness",
+      "tooltip": "Toughness: While equipped this item grants 20 additional hitpoints. This stacks with all bonuses except for other items bearing the Toughness enchantment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Toughness_(enchantment)",
+          "title": "Toughness (enchantment)",
+          "text": "Toughness"
+        }
+      ]
+    },
+    {
+      "text": "Arcane Casting Dexterity",
+      "tooltip": "Arcane Casting Dexterity: This ability reduces the arcane spell failure chance by -10%.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Arcane_Casting_Dexterity",
+          "title": "Arcane Casting Dexterity",
+          "text": "Arcane Casting Dexterity"
+        }
+      ]
+    },
+    {
+      "text": "Seeker +10",
+      "tooltip": "Seeker +10: Provides a +10 Enhancement bonus to confirm critical hits, and a +10 Enhancement bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Seeker +10"
+        }
+      ]
+    },
+    {
+      "text": "Use Magic Device +5",
+      "tooltip": "Use Magic Device +5: Passive: +5 Competence bonus to the Use Magic Device skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Use_Magic_Device",
+          "title": "Use Magic Device",
+          "text": "Use Magic Device +5"
+        }
+      ]
+    }
+  ]
+}

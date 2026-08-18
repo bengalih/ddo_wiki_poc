@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Legendary Sinister Handaxe",
+  "page_id": 67117,
+  "revision_id": 671299,
+  "revision_timestamp": "2026-01-09T13:35:58Z",
+  "fetched_at": "2026-08-17T22:08:46.943789+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | sentience                = no\n  | name                     = Legendary Sinister Handaxe\n  | damage                   = 4.80[1d6+2] + 15 Slash, Magic\n  | crit                     = 19-20 / x3\n  | type                     = Hand Axe\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | minlevel                 = 29\n  | durability               = 340\n  | material                 = Steel\n  | hardness                 = 39\n  | basevalue                = 11600pp 6gp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 37\n  | revamped                 = Update 76\n  | quest                    = Ravens' Bane\n  | chest                    = end chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Bleeding|Greater}}\n* {{Keen}}\n* {{Maiming|Greater}}\n* {{Better Offhanded}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Something about this axe makes you uneasy. On the other hand, it fits so snugly into your off-hand.\n  | pic                      = Sinister Handaxe Shown.jpg\n  | picdesc                  = Legendary Sinister Handaxe.png\n  | tips                     = \n* As this item is meant to be wielded in the off-hand, it cannot become sentient. This is WAI.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Hand Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Greater Bleeding",
+      "tooltip": "Greater Bleeding: This weapon is precisely sharp and will do an additional 5 to 40 damage to targets that are vulnerable to bleeding.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleed#Greater_Bleeding",
+          "title": "Bleed",
+          "text": "Greater Bleeding"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Greater Maiming",
+      "tooltip": "Greater Maiming: This weapon has a twisted haft or grip and spikes along its blade, head, or point. Whenever you score a critical hit with this weapon it deals an amount of extra untyped damage depending on its critical multiplier: x2 - 8 to 48, x3 - 12 to 72, x4 - 16 to 96.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maiming#Greater_Maiming",
+          "title": "Maiming",
+          "text": "Greater Maiming"
+        }
+      ]
+    },
+    {
+      "text": "Better Offhanded",
+      "tooltip": "Better Offhanded: While this item is in your offhand, it gains +2[W].",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Better_Offhanded",
+          "title": "Better Offhanded",
+          "text": "Better Offhanded"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

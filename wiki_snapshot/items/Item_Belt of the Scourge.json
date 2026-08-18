@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Belt of the Scourge",
+  "page_id": 79649,
+  "revision_id": 628540,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:10:34.012384+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Belt of the Scourge\n  | type                     = Belt\n  | race                     = Aasimar Scourge\n  | basevalue                = 6002 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 15\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CON|+1|Exceptional}}\n* {{Stat|STR|6}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This belt bears an oddly-shaped, gray-and-gold-buckle formed of several pieces of metal.\n  | pic                      = Belt Generic.png\n  | picdesc                  = Belt_of_the_Scourge.png\n  | food                     = no\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Exceptional Constitution +1",
+      "tooltip": "Exceptional Constitution +1: This item gives the wearer improved health, granting a +1 Exceptional bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Exceptional Constitution +1"
+        }
+      ]
+    },
+    {
+      "text": "Strength +6",
+      "tooltip": "Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +6"
+        }
+      ]
+    }
+  ]
+}

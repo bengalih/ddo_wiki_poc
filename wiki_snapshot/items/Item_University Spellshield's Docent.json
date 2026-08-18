@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:University Spellshield's Docent",
+  "page_id": 102538,
+  "revision_id": 635670,
+  "revision_timestamp": "2025-04-22T04:43:21Z",
+  "fetched_at": "2026-08-17T23:22:55.035649+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = University Spellshield's Docent\n  | minlevel                 = 18\n  | type                     = Docent\n  | feat                     = Docent\n  | ac                       = {{WFABonus|a=15|m=8|c=6}}\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | race                     = Warforged\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 230\n  | material                 = Crystal\n  | hardness                 = 28\n  | basevalue                = 7,250 pp\n  | weight                   = \n  | released                 = Update 61\n  | quest                    = Party 101\n  | end reward               = \n  | turn in                  = \n  | chest                    = End chest\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Sheltering|22|Enhancement|Magical}}\n* {{Fortification|104}}\n* {{Save|Reflex|4|Insightful}}\n* {{Save|Spell|7}}\n* {{Lost Purpose}}\n* {{Augment|Blue}}\n  | crafting                 = Cannith Repurposing Station\n  | description              = A docent of magical protection, for Warforged attempting to elude spells.\n  | pic                      = University Spellshield's Docent shown.jpg\n  | picdesc                  = University Spellshield's Docent.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Crystal",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Magical Sheltering +22",
+      "tooltip": "Magical Sheltering +22: +22 Enhancement bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Magical Sheltering +22"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +104%",
+      "tooltip": "Fortification +104%: +104% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +104%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Reflex Save +4",
+      "tooltip": "Insightful Reflex Save +4: This item gives a +4 Insight bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Insightful Reflex Save +4"
+        }
+      ]
+    },
+    {
+      "text": "Spell Save +7",
+      "tooltip": "Spell Save +7: This item gives a +7 Resistance bonus to your saves versus spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Saving_throw",
+          "title": "Saving throw",
+          "text": "Spell Save +7"
+        }
+      ]
+    },
+    {
+      "text": "Lost Purpose",
+      "tooltip": "Lost Purpose: This item is missing some parts that made it unique. Perhaps you can fix that at a Cannith Repurposing Station.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lost_Purpose",
+          "title": "Lost Purpose",
+          "text": "Lost Purpose"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

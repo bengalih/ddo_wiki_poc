@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Crystalline Cacophony",
+  "page_id": 71417,
+  "revision_id": 629246,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:28:34.939002+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Crystalline Cacophony\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+15|m=+8|c=+6}}\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 110\n  | material                 = Gem\n  | hardness                 = 16\n  | minlevel                 = 6\n  | released                 = Update 39\n  | quest                    = The Price of Freedom\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | basevalue                = 2410 pp\n  | lbs                      = 0 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{SpellPower|Resonance|63}}\n* {{Spelllore|Sonic|9}}\n* {{Sheltering|10}}\n* {{Sheltering|5|Insightful}}\n* {{Augment|Blue}}\n  | crafting                 = <!--Type of crafting. Leave blank if none.-->\n  | craftingupgrade          = <!--What item can be upgraded to. Leave blank if none.-->\n  | pic                      = Crystalline Cacophony (Composite) shown.jpg\n  | picdesc                  = Crystalline Cacophony.png\n  | description              = These fractured shards of harmonic crystals resonate within your core.\n  | notes                    = \n* Adamantine Body\n[[File:Crystalline Cacophony (Adamantine) shown.jpg|200px]]\n* Bladeforge Body\n[[File:Crystalline Cacophony shown.jpg|200px]]\n*Iron Defender\n[[File:Crystalline Cacophony shown on a pet.jpg|||200px|]] \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Resonance +63",
+      "tooltip": "Resonance +63: Passive: +63 Equipment bonus to Sonic Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resonance",
+          "title": "Resonance",
+          "text": "Resonance +63"
+        }
+      ]
+    },
+    {
+      "text": "Sonic Lore +9%",
+      "tooltip": "Sonic Lore +9: Passive: Your Sonic spells gain a 9% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Sonic Lore +9%"
+        }
+      ]
+    },
+    {
+      "text": "Sheltering +10",
+      "tooltip": "Sheltering +10: +10 Enhancement bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Sheltering +10"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Sheltering +5",
+      "tooltip": "Insightful Sheltering +5: +5 Insight bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Insightful Sheltering +5"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

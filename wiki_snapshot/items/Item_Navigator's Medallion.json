@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Navigator's Medallion",
+  "page_id": 99344,
+  "revision_id": 633663,
+  "revision_timestamp": "2025-04-22T02:28:29Z",
+  "fetched_at": "2026-08-17T22:29:50.238114+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Navigator's Medallion\n  | minlevel                 = 15\n  | type                     = Necklace\n  | race                     = Tabaxi Trailblazer\n  | slot                     = Neck\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | cost                     = 6,020 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 54\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Skills|Jump|14}}\n* {{Fortification|81}}\n  | crafting                 = \n  | description              = \n  | pic                      = Necklace Generic Bright.png\n  | picdesc                  = Navigator's Medallion.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Jump +14",
+      "tooltip": "Jump +14: Passive: +14 Competence bonus to the Jump skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Jump_(skill)",
+          "title": "Jump (skill)",
+          "text": "Jump +14"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +81%",
+      "tooltip": "Fortification +81%: +81% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +81%"
+        }
+      ]
+    }
+  ]
+}

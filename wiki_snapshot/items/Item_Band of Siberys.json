@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Band of Siberys",
+  "page_id": 10200,
+  "revision_id": 628423,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:07:44.124278+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Band of Siberys\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 120\n  | material                 = Gold\n  | hardness                 = 12\n  | basevalue                = 10,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | quest                    = Tower of Despair\n  | chest                    = right side end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|STR|6}}\n* {{Stat|CHA|1|Exceptional}}\n* {{Named item sets|Defender of Siberys}}\n* {{CraftingEffects|Incredible Potential}}\n  | crafting                 = Incredible Potential\n  | craftingupgrade          = <!-- -->\n  | description              = This etched ring was once worn by Vlor, a renowned Defender of Siberys, and a stalwart protector of the weak and innocent.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Band of Siberys.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Strength +6",
+      "tooltip": "Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +6"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Charisma +1",
+      "tooltip": "Exceptional Charisma +1: This item makes the wearer have more flair, granting a +1 Exceptional bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Exceptional Charisma +1"
+        }
+      ]
+    },
+    {
+      "text": "Defender of Siberys",
+      "tooltip": "Defender of Siberys: 15% additional threat from melee attacks. If have Defender of Siberys III enhancement: +2 AC (Stacking)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Defender_of_Siberys",
+          "title": "Named item sets",
+          "text": "Defender of Siberys"
+        }
+      ]
+    },
+    {
+      "text": "Incredible Potential",
+      "tooltip": "Incredible Potential: Incredible Potential: This ring's power has not been fully unleashed. When this ring is combined with 9 Shavarath War Trophies and ac Imbued Shard of Great Power in an Altar of Subjugation, its full potential will be reveled.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incredible_Potential",
+          "title": "Incredible Potential",
+          "text": "Incredible Potential"
+        }
+      ]
+    }
+  ]
+}

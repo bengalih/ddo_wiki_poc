@@ -1,0 +1,29 @@
+{
+  "page_title": "Item:Periapt of Proof Against Poison",
+  "page_id": 86280,
+  "revision_id": 633934,
+  "revision_timestamp": "2025-04-22T02:47:35Z",
+  "fetched_at": "2026-08-17T22:37:19.474591+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Periapt of Proof Against Poison\n  | type                     = Necklace\n  | slot                     = Neck\n  | basevalue                = 420 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Random \n  | chest                    = level ~5 chests/rewards\n  | durability               = 30\n  | material                 = Gold\n  | hardness                 = 4\n  | minlevel                 = 5\n  | bind                     = {{Bind|no}}\n  | mythic                   = no\n  | enhancements             = \n* {{Proof|Poison|6}}\n  | description              = A brilliant cut black gem on a delicate silver chain.\n  | pic                      = Necklace Generic Bright.png\n  | picdesc                  = Periapt of Proof Against Poison.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Proof Against Poison +6",
+      "tooltip": "Proof Against Poison +6: This item grants its wearer immunity to natural poisons. This item also grants a +6 Enhancement bonus to saving throws against magical poisons, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical poisons with a DC of less than 7 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Poison",
+          "title": "Proof Against Poison",
+          "text": "Proof Against Poison +6"
+        }
+      ]
+    }
+  ]
+}

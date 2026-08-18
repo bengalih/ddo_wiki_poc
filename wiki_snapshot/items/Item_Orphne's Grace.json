@@ -1,0 +1,26 @@
+{
+  "page_title": "Item:Orphne's Grace",
+  "page_id": 48134,
+  "revision_id": 633840,
+  "revision_timestamp": "2025-04-22T02:41:17Z",
+  "fetched_at": "2026-08-17T22:34:19.430694+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Eternal wand\n  | name                     = Orphne's Grace\n  | noumd                    = all\n  | minlevel                 = 1\n  | bind                     = {{Bind|BtC|boa}}, Destroyed on exiting adventure\n  | durability               = 5\n  | material                 = Bone\n  | hardness                 = 50\n  | weight                   = 0.10 lbs\n  | cost                     = 1125 pp\n  | quest                    = The Vault of Night\n  | chest                    = \n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A thin baton of carved bone containing multiple charges of Remove Necrotic Touch.\n  | icon                     = Sp_removecurse.png‎\n  | spell                    = Remove Necrotic Touch\n  | casterlvl                = 5\n  | charge                   = 20\n  | recharge                 = 0\n  | end reward               = \n  | enhancements             = \n* {{Clicky|Remove Necrotic Touch|5|20|no}}\n  | mythic                   = no\n  | picdesc                  = Orphne's Grace.png\n  | notes                    = Talk to Orphne in the entrance room of [[the Vault of Night]] to receive this item. Note that the charges on this item are '''limited''', and you can only get one.\n}}",
+  "item_template": "Named item",
+  "material": "Bone",
+  "minimum_level": 1,
+  "enchantments": [
+    {
+      "text": "Remove Necrotic Touch — 20 Charges",
+      "tooltip": "Remove Necrotic TouchCaster level: 5Charges: 20",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Remove_Necrotic_Touch",
+          "title": "Remove Necrotic Touch",
+          "text": "Remove Necrotic Touch"
+        }
+      ]
+    }
+  ]
+}

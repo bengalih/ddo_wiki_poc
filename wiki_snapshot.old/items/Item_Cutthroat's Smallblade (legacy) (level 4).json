@@ -1,0 +1,122 @@
+{
+  "page_title": "Item:Cutthroat's Smallblade (legacy) (level 4)",
+  "page_id": 23782,
+  "revision_id": 672820,
+  "revision_timestamp": "2026-01-25T19:31:09Z",
+  "fetched_at": "2026-08-17T04:03:45.318806+00:00",
+  "categories": [],
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Short Sword",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Doublestrike 3%",
+      "tooltip": "Doublestrike 3%: Passive: 3% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 3%"
+        }
+      ]
+    },
+    {
+      "text": "Slicing",
+      "tooltip": "Slicing: This weapon is incredibly sharp and will do an additional 1 to 4 damage to targets that are vulnerable to bleeding.",
+      "children": [
+        {
+          "text": "Upgradeable - Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "+1 Enhancement Bonus → +2 Enhancement Bonus",
+              "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+1 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+2 Enhancement Bonus"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_2",
+              "title": "Upgradeable - Tier 2",
+              "text": "Upgradeable - Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Upgradeable - Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Bleed",
+              "tooltip": "Bleed: This weapon is cruelly sharp and will do an additional 1 to 8 damage to targets that are vulnerable to bleeding.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Bleed#Bleed",
+                  "title": "Bleed",
+                  "text": "Bleed"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_3",
+              "title": "Upgradeable - Tier 3",
+              "text": "Upgradeable - Tier 3"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Bleed#Slicing",
+          "title": "Bleed",
+          "text": "Slicing"
+        }
+      ]
+    }
+  ],
+  "item_class": "Weapon",
+  "item_template": ""
+}

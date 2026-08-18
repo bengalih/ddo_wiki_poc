@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Strap of Scale",
+  "page_id": 63604,
+  "revision_id": 635096,
+  "revision_timestamp": "2025-04-22T04:05:05Z",
+  "fetched_at": "2026-08-17T23:07:07.133146+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Strap of Scale\n  | basevalue                = 10,820 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | type                     = Belt\n  | durability               = 285\n  | material                 = Blue Dragonscale\n  | hardness                 = 37\n  | minlevel                 = 27\n  | bind                     = {{Bind|BtC|BoA}}\n  | revamped                 = Update 50\n  | released                 = Update 35\n  | quest                    = Riding the Storm Out\n  | end reward               = \n  | chest                    = warded chest\n  | enhancements             = \n* {{Absorption|Force|10}}\n* {{Resistance|2|Quality}}\n* {{Elemental Resistance|Electric|49}}\n* {{Elemental Resistance|Electric|24|insightful}}\n* {{Augment|Green}}\n* {{Augment|Yellow}}\n  | pic                      = Belt_Generic.png\n  | picdesc                  = Strap of Scale.png\n  | description              = A strip of Ancient Blue Dragonscales is set into this fine belt.\n}}",
+  "item_template": "Named item",
+  "material": "Blue Dragonscale",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "Force Absorption +10%",
+      "tooltip": "Force Absorption +10%: Passive: 10% Enhancement Bonus to Force Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Force Absorption +10%"
+        }
+      ]
+    },
+    {
+      "text": "Quality Resistance +2",
+      "tooltip": "Quality Resistance +2: Passive: +2 Quality bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Quality Resistance +2"
+        }
+      ]
+    },
+    {
+      "text": "Electric Resistance +49",
+      "tooltip": "Electric Resistance +49: Passive: +49 Enhancement bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Electric Resistance +49"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Electric Resistance +24",
+      "tooltip": "Insightful Electric Resistance +24: Passive: +24 Insight bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Insightful Electric Resistance +24"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Belt Boost +1 or +3",
+      "tooltip": "Mythic Belt Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Belt Boost"
+        }
+      ]
+    }
+  ]
+}

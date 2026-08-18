@@ -1,0 +1,108 @@
+{
+  "page_title": "Item:Blazing Sun",
+  "page_id": 49417,
+  "revision_id": 628606,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:11:53.653793+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Blazing Sun\n  | type                     = Orb\n  | prof                     = Magical Training\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 18\n  | damagemod                = INT, CHA\n  | attmod                   = INT, CHA\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +0\n  | dr                       = 0\n  | acp                      = 0\n  | asf                      = 0\n  | dmg                      = [1d6] + 0\n  | dmgtype                  = Force\n  | crit                     = 20 / x2\n  | durability               = 245\n  | material                 = Gem\n  | hardness                 = 38\n  | basevalue                = 7,502 pp\n  | weight                   = 3 lbs\n  | released                 = Update 24\n  | quest                    = The Mask of Deception\n  | chest                    = right end chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|o|4}}\n* {{Sheltering|1|Insight}}\n* {{SpellPower|Radiance|90}}\n* {{SpellPower|Devotion|90}}\n* {{Stat|WIS|6}}\n* {{Augment|Orange}}\n  | description              = It is as if a miniature star is contained within this orb.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Blazing Sun shown.jpg\n  | picdesc                  = Blazing Sun.png\n  | tips                     = \n}}\n[[C:Eleven Year Old Cake items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Magical Training",
+  "material": "Gem",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "+4 Orb Bonus",
+      "tooltip": "+4 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +4 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Orb Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Sheltering +1",
+      "tooltip": "Insightful Sheltering +1: +1 Insight bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Insightful Sheltering +1"
+        }
+      ]
+    },
+    {
+      "text": "Radiance +90",
+      "tooltip": "Radiance +90: Passive: +90 Equipment bonus to Light and Alignment Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiance_(spell_boost)",
+          "title": "Radiance (spell boost)",
+          "text": "Radiance +90"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +90",
+      "tooltip": "Devotion +90: Passive: +90 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +90"
+        }
+      ]
+    },
+    {
+      "text": "Wisdom +6",
+      "tooltip": "Wisdom +6: This item makes the wearer more in tune with her surroundings, granting a +6 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +6"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

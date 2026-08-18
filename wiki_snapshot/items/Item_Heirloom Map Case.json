@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Heirloom Map Case",
+  "page_id": 99326,
+  "revision_id": 631404,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:19:53.341144+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Heirloom Map Case\n  | type                     = Trinket\n  | race                     = Tabaxi Trailblazer\n  | slot                     = Trinket\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 54\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Doublestrike|7}}\n* {{Stat|WIS|2|Insightful}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A case of maps hand-drawn over the years by your ancestors.\n  | pic                      = Trinket Generic Book.png\n  | picdesc                  = Heirloom Map Case.png\n  | food                     = no\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Doublestrike 7%",
+      "tooltip": "Doublestrike 7%: Passive: 7% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 7%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Wisdom +2",
+      "tooltip": "Insightful Wisdom +2: This item makes the wearer more in tune with her surroundings, granting a +2 Insight bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Insightful Wisdom +2"
+        }
+      ]
+    }
+  ]
+}

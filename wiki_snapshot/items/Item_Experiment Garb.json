@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Experiment Garb",
+  "page_id": 76721,
+  "revision_id": 630690,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:01:29.975988+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Experiment Garb\n  | type                     = Clothing\n  | feat                     = Cloth\n  | race                     = \n  | ac                       = +5\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 180\n  | material                 = Cloth\n  | hardness                 = 19\n  | basevalue                = 6805.5 pp\n  | weight                   = 0 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | minlevel                 = 17\n  | released                 = Update 43\n  | quest                    = The Offshore Account\n  | chest                    = end chest\n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Fortification|101}}\n* {{Sheltering|21|Enhancement|Physical}}\n* {{Spell Power|Universal Spell Power|8|Exceptional}}\n* {{Spell Lore|Universal Spell|3|Exceptional}}\n* {{Augment|Blue}}\n* {{Named item sets|Profane Experiment}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Experiment Garb shown.jpg\n  | picdesc                  = Experiment Garb.png\n  | description              = The pockets are full of ink and quills...\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Clothing",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 17,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +101%",
+      "tooltip": "Fortification +101%: +101% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +101%"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +21",
+      "tooltip": "Physical Sheltering +21: +21 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +21"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Universal Spell Power +8",
+      "tooltip": "Exceptional Universal Spell Power +8: Passive: +8 Exceptional bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Universal_Spell_Power",
+          "title": "Universal Spell Power",
+          "text": "Exceptional Universal Spell Power +8"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Universal Spell Lore +3%",
+      "tooltip": "Exceptional Universal Spell Lore: 3% Exceptional bonus to Universal Spell Lore.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Exceptional Universal Spell Lore +3%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Profane Experiment",
+      "tooltip": "Profane Experiment: 3 Pieces Equipped: +10% Artifact bonus to Doublestrike and Doubleshot. +2 Artifact bonus to Constitution and Intelligence. +25 Artifact bonus to Universal Spell Power. +1 Artifact bonus to Imbue dice.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Profane_Experiment",
+          "title": "Named item sets",
+          "text": "Profane Experiment"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

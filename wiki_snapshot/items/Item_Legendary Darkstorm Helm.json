@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Legendary Darkstorm Helm",
+  "page_id": 92015,
+  "revision_id": 632031,
+  "revision_timestamp": "2025-04-22T00:37:30Z",
+  "fetched_at": "2026-08-17T21:39:48.536518+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Legendary Darkstorm Helm\n  | minlevel                 = 30\n  | type                     = Helmet\n  | slot                     = Head\n  | bind                     = {{Bind|BtA|BoA|exclusive=1}}\n  | durability               = 310\n  | material                 = Gold\n  | hardness                 = 36\n  | cost                     = 12,005 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 50\n  | legendary                = Epic Darkstorm Helm\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Call Lightning Storm|30|3|3}}\n* {{Spelllore|Lightning|21}}\n* {{Spelllore|Void|21}}\n* {{SpellPower|Magnetism|146}}\n* {{SpellPower|Nullification|146}}\n* {{Augment|Green}}\n  | crafting                 = Nebula Fragment Crafting\n  | craftingupgrade          = Perfected Darkstorm Helm\n  | description              = Helms such as this, forged from some dark and glittering metal, are worn by drow spellcasters both arcane and divine to heighten the power of their spells. This helm can channel enough energy to start a brief thunderstorm.\n  | pic                      = Deific Diadem shown.jpg\n  | picdesc                  = Legendary Darkstorm Helm.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Helmet",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "Call Lightning Storm — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Call Lightning StormCaster level: 30Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Call_Lightning_Storm",
+          "title": "Call Lightning Storm",
+          "text": "Call Lightning Storm"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Lore +21%",
+      "tooltip": "Lightning Lore +21: Passive: Your Electricity spells gain a 21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Void Lore +21%",
+      "tooltip": "Void Lore +21: Passive: Your Negative Energy and Poison spells gain a 21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Void Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Magnetism +146",
+      "tooltip": "Magnetism +146: Passive: +146 Equipment bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Magnetism +146"
+        }
+      ]
+    },
+    {
+      "text": "Nullification +146",
+      "tooltip": "Nullification +146: Passive: +146 Equipment bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Nullification +146"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

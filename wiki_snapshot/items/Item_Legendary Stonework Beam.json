@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Legendary Stonework Beam",
+  "page_id": 64795,
+  "revision_id": 679865,
+  "revision_timestamp": "2026-03-22T19:45:05Z",
+  "fetched_at": "2026-08-17T22:10:21.092944+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Stonework Beam\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | minlevel                 = 28\n  | bind                     = {{Bind|BtA|boa}}\n  | damage                   = 4.60[1d6] + 13 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 360\n  | material                 = Stone\n  | hardness                 = 43\n  | basevalue                = 11200pp 1cp\n  | weight                   = 4 lbs\n  | released                 = Update 36\n  | quest                    = Graveyard Shift\n  | chest                    = End chest\n  | end reward               = \n  | enhancements             = \n* {{Enhancement bonus|w|13}}\n* {{Percussive Maintenance|3}}\n* {{Paralyzing|Improved}}\n* {{Deception|2|Quality}}\n* {{Shield Bonus|13}}\n* {{Augment|Red}}\n  | description              = Lighter that one would expect, this beam retains all of the toughness of Dwarwen stonework.\n  | pic                      = Alarphon's Staff shown.jpg\n  | picdesc                  = Legendary Stonework Beam.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+13 Enhancement Bonus",
+      "tooltip": "+13 Enhancement Bonus: +13 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+13 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Percussive Maintenance 3",
+      "tooltip": "Percussive Maintenance 3: Each strike from this weapon vibrates with disruptive levels of energy, interrupting your target's concentration. This weapon's strikes deal 3 Wisdom damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Percussive_Maintenance",
+          "title": "Percussive Maintenance",
+          "text": "Percussive Maintenance 3"
+        }
+      ]
+    },
+    {
+      "text": "Improved Paralyzing",
+      "tooltip": "Improved Paralyzing : Any creature struck by this weapon must succeed on a DC 28 Will save or be paralyzed. The target may attempt a new save to end the effect every several seconds; otherwise the paralysis lasts for 1 minute.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Improved_Paralyzing",
+          "title": "Improved Paralyzing",
+          "text": "Improved Paralyzing"
+        }
+      ]
+    },
+    {
+      "text": "Quality Deception +2",
+      "tooltip": "Quality Deception +2: +2 Quality bonus to hit and +3 to damage for any hit that would qualify as a sneak attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Quality Deception +2"
+        }
+      ]
+    },
+    {
+      "text": "Shield +13",
+      "tooltip": "Shield +13: While this item is equipped, you are partially protected by a field of magical force which can deflect enemy attacks. This item provides a +13 Shield bonus to Armor Class. It does not stack with an equipped shield.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bonus",
+          "title": "Shield Bonus",
+          "text": "Shield +13"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "page_title": "Item:Epic Jidz-Tet'ka",
+  "page_id": 10999,
+  "revision_id": 696587,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:51:34.220134+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Epic Jidz-Tet'ka\n  | type                     = Bracers\n  | basevalue                = 8,020 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Wrist\n  | quest                    = Altar of Epic Rituals\n  | epic                     = Jidz-Tet'ka\n  | released                 = Update 4\n  | revamped                 = Update 59\n  | durability               = 210\n  | material                 = Bone\n  | hardness                 = 25\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|9}}\n* {{Stat|WIS|1|Exceptional}}\n* {{Save|w|9}}\n* {{Sheltering|+24|Enhancement|physical}}\n* {{MonkEffect|Tet-zik, The Enlightened Change}}\n* {{Augment|Colorless}}\n* {{Augment|Yellow}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Jidz-Tet'ka\n  | description              = Thri-kreen runes carved into these chitin bracers read 'The shell of the seeker of enlightenment.'\n  | pic                      = Bracers Generic Torn.png\n  | picdesc                  = Epic Jidz-Tet'ka.png\n  | tips                     = \n}}\n[[Category:Sentinels of Stormreach epic items]]",
+  "item_template": "Named item",
+  "material": "Bone",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +9",
+      "tooltip": "Armor Bonus +9: This item surrounds the wearer with an invisible but tangible field of force, granting +9 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +9"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Wisdom +1",
+      "tooltip": "Exceptional Wisdom +1: This item makes the wearer more in tune with her surroundings, granting a +1 Exceptional bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Exceptional Wisdom +1"
+        }
+      ]
+    },
+    {
+      "text": "Will Save +9",
+      "tooltip": "Will Save +9: This item gives a +9 Resistance bonus to your Will saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Will_save",
+          "title": "Will save",
+          "text": "Will Save +9"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +24",
+      "tooltip": "Physical Sheltering +24: +24 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +24"
+        }
+      ]
+    },
+    {
+      "text": "Tet-zik, The Enlightened Change",
+      "tooltip": "While you are centered, this item grants you a bonus depending on your current monk stance.",
+      "children": [
+        {
+          "text": "Kos-zik, The Air-Change",
+          "tooltip": "+10 Insight bonus to Jump.",
+          "children": []
+        },
+        {
+          "text": "Riik-zik, The Fire-Change",
+          "tooltip": "+50 Insight bonus to Healing Amplification.",
+          "children": []
+        },
+        {
+          "text": "Thok-zik, The Earth-Change",
+          "tooltip": "Reinforced Fists: This item surrounds your fists with kinetic energy. Your unarmed damage is boosted by one half die.",
+          "children": []
+        },
+        {
+          "text": "Sed-zik, The Water-Change",
+          "tooltip": "On unarmed vorpal: helpless paralysis poison (DC 17 fortitude save negates), then 1 to 6 DEX damage.",
+          "children": []
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Tet-zik,_The_Enlightened_Change",
+          "title": "Tet-zik, The Enlightened Change",
+          "text": "Tet-zik, The Enlightened Change"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

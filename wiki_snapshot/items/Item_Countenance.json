@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Countenance",
+  "page_id": 52705,
+  "revision_id": 689052,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:27:16.435007+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Countenance\n  | type                     = Cloak\n  | basevalue                = 10,420 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Back\n  | durability               = 270 <!-- previously 180 -->\n  | material                 = Leather\n  | hardness                 = 36 <!-- previously 27 -->\n  | minlevel                 = 26\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 27\n  | revamped                 = Update 80\n  | quest                    = Defiler of the Just\n  | end reward               = \n  | chest                    = Warded Chest\n  | enhancements             = \n* {{Stat|CHA|13}}\n* {{Spell Focus|Evocation|7}}\n* {{Spelllore|Radiance|21}}\n* {{Spellpen|8}}\n* {{Augment|Yellow}}\n* {{Augment|Green}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = They who look upon you shall see your glory, for it can no longer be overlooked.\n  | pic                      = Countenance shown.jpg\n  | picdesc                  = Countenance.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "Charisma +13",
+      "tooltip": "Charisma +13: This item makes the wearer have more flair, granting a +13 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +13"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus +7",
+      "tooltip": "Evocation Focus +7: +7 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus +7"
+        }
+      ]
+    },
+    {
+      "text": "Radiance Lore +21%",
+      "tooltip": "Radiance Lore +21: Passive: Your Light and Aligned spells gain a 21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Radiance Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration +8",
+      "tooltip": "Spell Penetration +8: Passive: +8 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration +8"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

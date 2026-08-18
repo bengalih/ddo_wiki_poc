@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Elyd Edge",
+  "page_id": 10937,
+  "revision_id": 672658,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:42:51.393742+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Elyd Edge\n  | damage                   = [1d6] + 2 Pierce, Silver, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Rapier\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Martial\n  | attackmod                = STR, DEX, CHA\n  | damagemod                = STR, DEX, CHA\n  | minlevel                 = 5\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 95\n  | material                 = Steel<!-- See Discussion page for why this is Steel. -->\n  | hardness                 = 13\n  | basevalue                = 2,011pp\n  | weight                   = 2 lbs\n  | released                 = Update 4\n  | revamped                 = Update 76\n  | quest                    = The Tide Turns\n  | chest                    = End chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|2|5}}\n* {{Stat|CHA|+4}}\n* {{SpellPower|Devotion|59}}\n* {{Anthem}}\n* {{Mat|Silver}}, Alchemical\n* {{Augment|red}}\n  | description              = Elven script on this fine silver blade reads 'Anthem of the heart; Anthem of the mind'.\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Elyd Edge\n  | pic                      = Elyd Edge shown.jpg\n  | picdesc                  = Elyd Edge.png\n  | tips                     = This was also offered as an {{Cl|Eleven Year Old Cake items|Eleven Year Old Cake|categorize=TRUE}} reward.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Rapier",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +5",
+      "tooltip": "Spellcasting Implement +5: Passive: +5 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +5"
+        }
+      ]
+    },
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +4",
+      "tooltip": "Charisma +4: This item makes the wearer have more flair, granting a +4 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +4"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +59",
+      "tooltip": "Devotion +59: Passive: +59 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +59"
+        }
+      ]
+    },
+    {
+      "text": "Anthem",
+      "tooltip": "Anthem: When equipped by a character with Bard levels, this item begins to hum an inspiring tune. Your bard songs regenerate slowly over time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Anthem_(item_enchantment)",
+          "title": "Anthem (item enchantment)",
+          "text": "Anthem"
+        }
+      ]
+    },
+    {
+      "text": "Silver , Alchemical",
+      "tooltip": "Silver: A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as devils and vampires. Silver weapons have 2 points lower hardness then equivalent steel weapons, and as such aren't quite as durable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Silver",
+          "title": "Silver",
+          "text": "Silver"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

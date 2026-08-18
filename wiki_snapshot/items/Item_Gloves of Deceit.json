@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Gloves of Deceit",
+  "page_id": 2763,
+  "revision_id": 631133,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:11:58.080946+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Gloves of Deceit\n  | type                     = Gloves\n  | class                    = Clothing\n  | slot                     = Hand\n  | durability               = 40\n  | material                 = Leather\n  | hardness                 = 8\n  | basevalue                = 1,205 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 3\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = The Lost Seekers\n  | end reward               = yes\n  | epic                     = no\n  | mythic                   = false\n  | enhancements             = \n* {{Skills|Bluff|7}}\n* {{Augment|Colorless}}\n  | description              = Used by Gnashtooth Kobolds when they come up to the surface to steal trinkets, these gloves contain tiny pockets that disperse a small cloud of distracting dust.\n  | pic                      = Gloves Generic.png\n  | picdesc                  = Gloves of Deceit.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Bluff +7",
+      "tooltip": "Bluff +7: Passive: +7 Competence bonus to the Bluff skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bluff",
+          "title": "Bluff",
+          "text": "Bluff +7"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

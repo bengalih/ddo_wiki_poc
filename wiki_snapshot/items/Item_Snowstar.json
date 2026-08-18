@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Snowstar",
+  "page_id": 12549,
+  "revision_id": 668699,
+  "revision_timestamp": "2025-12-10T12:34:05Z",
+  "fetched_at": "2026-08-17T23:02:05.427140+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Snowstar\n  | type                     = Shuriken\n  | hand                     = Thrown\n  | class                    = Thrown\n  | prof                     = Exotic\n  | minlevel                 = 8\n  | bind                     = {{Bind|BtA|boa}}\n  | damage                   = 1.50[1d4] + 4 Slash, Magic\n  | crit                     = 16-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | return                   = 100\n  | durability               = 95\n  | material                 = Steel\n  | hardness                 = 18\n  | basevalue                = 3,200 pp 2 sp\n  | weight                   = 0.50 lbs\n  | revamped                 = Update 76\n  | quest                    = Cult of the Six\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|4}}\n* {{Returning}}\n* {{Burst|icy}}\n  | description              = A perfectly formed icy crystal, razor-sharp and well-suited for throwing. Strange, it doesn't seem to melt. \n  | pic                      = Snowstar shown.jpg\n  | picdesc                  = Snowstar.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Shuriken",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "Icy Burst",
+      "tooltip": "Icy Burst: This weapon is sheathed in icy cold, and deals 1 to 6 cold damage each hit. Critical hits deal an additional 1 to 10 cold damage for weapons with a x2 critical multiplier, 2 to 20 for a x3 multiplier and 3 to 30 for a x4 multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Icy_Burst#Icy_Burst",
+          "title": "Icy Burst",
+          "text": "Icy Burst"
+        }
+      ]
+    }
+  ]
+}

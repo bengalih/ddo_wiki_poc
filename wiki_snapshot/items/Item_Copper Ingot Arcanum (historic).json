@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Copper Ingot Arcanum (historic)",
+  "page_id": 7858,
+  "revision_id": 629134,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:25:39.968069+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=item|replaced={{Item|Copper Ingot Arcanum}}}}\n{{Named item|Weapon\n  | name                     = {{Item|Copper Ingot Arcanum}}\n  | damage                   = [1d6] + 2 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 150\n  | material                 = Wood\n  | hardness                 = 17\n  | minlevel                 = 12\n  | quest                    = Gianthold Tor\n  | chest                    = White Dragon Chest\n  | basevalue                = 9,800pp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|no}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|2}}\n* {{Spelllore|Lightning|V}}\n* {{SpellPower|Magnetism|66}}\n  | description              = Once used as a wand by the giants of the Lost Empire, this five-foot rod makes a heavy fighting staff for a human-sized wielder. It is inscribed with runes that would fascinate and befuddle the greatest scholars of Xen'drik.\n  | pic                      = Copper Ingot Arcanum shown.jpg\n  | picdesc                  = Copper Ingot Arcanum (historic).png\n  | tips                     = Can also be found with:\n* {{SpellPower|Magnetism|60}}\n* {{SpellPower|Magnetism|54}}\n}}",
+  "item_template": "History",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +6",
+      "tooltip": "Spellcasting Implement +6: Passive: +6 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +6"
+        }
+      ]
+    },
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Lore V",
+      "tooltip": "Lightning Lore V: Passive: Your Electricity spells gain a 15% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore V"
+        }
+      ]
+    },
+    {
+      "text": "Magnetism +66",
+      "tooltip": "Magnetism +66: Passive: +66 Equipment bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Magnetism +66"
+        }
+      ]
+    }
+  ]
+}

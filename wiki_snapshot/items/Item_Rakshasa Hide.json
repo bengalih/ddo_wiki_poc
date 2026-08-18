@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Rakshasa Hide",
+  "page_id": 21001,
+  "revision_id": 634118,
+  "revision_timestamp": "2025-04-22T03:00:28Z",
+  "fetched_at": "2026-08-17T22:42:08.504551+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Rakshasa Hide\n  | type                     = Hide\n  | feat                     = Light\n  | minlevel                 = 16\n  | bind                     = {{Bind|BtA|BoA}}\n  | epic                     = no\n  | ac                       = +9\n  | maxdexbonus              = 13\n  | acp                      = None\n  | asf                      = 10%\n  | durability               = 200\n  | material                 = Leather\n  | hardness                 = 24\n  | basevalue                = 6,401 pp 5 gp\n  | weight                   = 25 lbs\n  | released                 = Update 13\n  | quest                    = The Lords of Dust\n  | chest                    = Tahmael's chest\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Rough Hide|3}}\n* {{Heightened Awareness|3}}\n* {{Nimbleness|Greater}}\n* {{Roar}}\n* {{Accuracy|12}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Rakshasa Hide\n  | pic                      = Rakshasa Hide shown.jpg\n  | picdesc                  = Rakshasa Hide.png\n  | description              = Crafted from the tanned hide of a [[Rakshasa_race|Rakshasa]], this armor is lightweight and grants many of the magical traits and supernatural senses that Rakshasa possesses.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Hide",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Rough Hide +3",
+      "tooltip": "Rough Hide +3: This item fuses with your body and toughens your skin, providing a +3 Primal bonus to your natural armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rough_Hide",
+          "title": "Rough Hide",
+          "text": "Rough Hide +3"
+        }
+      ]
+    },
+    {
+      "text": "Heightened Awareness 3",
+      "tooltip": "Heightened Awareness 3: This item helps you to quickly read situations with sharpness and clarity, allowing you to predict actions before they occur. You gain a +3 Insight bonus to AC.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heightened_Awareness",
+          "title": "Heightened Awareness",
+          "text": "Heightened Awareness 3"
+        }
+      ]
+    },
+    {
+      "text": "Greater Nimbleness",
+      "tooltip": "Greater Nimbleness: This suit of armor looks much less restrictive than others of its type. A suit of armor that has this property has a maximum Dexterity bonus 2 higher than normal, and its armor check penalty is reduced by 4.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nimbleness#Greater_Nimbleness",
+          "title": "Nimbleness",
+          "text": "Greater Nimbleness"
+        }
+      ]
+    },
+    {
+      "text": "Roar",
+      "tooltip": "Roar: This item emits a frightening roar when melee attackers score a critical hit on the wearer, causing them to resist or be shaken with fear.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Roar",
+          "title": "Roar",
+          "text": "Roar"
+        }
+      ]
+    },
+    {
+      "text": "Accuracy +12",
+      "tooltip": "Accuracy +12: Passive: +12 Competence bonus to attack rolls",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accuracy",
+          "title": "Accuracy",
+          "text": "Accuracy +12"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

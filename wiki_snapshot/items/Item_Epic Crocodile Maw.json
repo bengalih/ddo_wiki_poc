@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Epic Crocodile Maw",
+  "page_id": 91288,
+  "revision_id": 672344,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:46:43.461771+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Crocodile Maw\n  | prof                     = Exotic\n  | sentience                = \n  | type                     = Handwrap\n  | hand                     = Simple\n  | class                    = Bludgeoning\n  | damage                   = 3[1d6] + 6 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 20\n  | durability               = 320 \n  | material                 = Cloth\n  | hardness                 = 33 \n  | basevalue                = 8,003 pp \n  | weight                   = 0.50 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 50\n  | revamped                 = Update 76\n  | quest                    = Epic Crafting\n  | chest                    = \n  | turn in                  = \n  | epic                     = Crocodile Maw\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Crocodile Maw\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|6}}\n* {{Bane|Animal|4}}\n* {{Feeding|20}}\n* {{Lifedrinker}}\n* {{Vampirism|2}}\n* {{Augment|red}}\n  | description              = Crocodile Fangs stud these Handwraps.\n  | pic                      = Handwraps Generic.png\n  | picdesc                  = Epic Crocodile Maw.png\n  | tips                     = \n}}\n[[Category:Sinister Secret of Saltmarsh epic items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Handwrap",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Animal Bane 4",
+      "tooltip": "Animal Bane 4: This weapon is attuned specifically to disrupt the natural, dealing an additional 4d10 bane damage vs. Animals.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Animal Bane 4"
+        }
+      ]
+    },
+    {
+      "text": "Feeding 20",
+      "tooltip": "Feeding 20: On Vorpal Hit: Your target incurs one Negative Level, and you gain +20 temporary hit points. (These Temporary Hit Points last for one minute, or until used to negate incoming damage.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feeding",
+          "title": "Feeding",
+          "text": "Feeding 20"
+        }
+      ]
+    },
+    {
+      "text": "Lifedrinker",
+      "tooltip": "Lifedrinker: This weapon uses the power of water to draw out the life essence of its targets. On an attack roll of 20 which is confirmed as a critical hit, this power comes to the surface, granting 25 temporary hit points to the wielder and dealing 25 to 45 damage to the target. Creatures with the Fire trait take double this damage instead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lifedrinker",
+          "title": "Lifedrinker",
+          "text": "Lifedrinker"
+        }
+      ]
+    },
+    {
+      "text": "Vampirism 2",
+      "tooltip": "Vampirism 2: This weapon thirsts for the blood of your enemies, healing you for +2d2 hit points with each hit.Note: internal cooldown of 1 second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Vampirism 2"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

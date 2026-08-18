@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Green Blade",
+  "page_id": 5773,
+  "revision_id": 688928,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:15:54.238828+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Green Blade\n  | damage                   = 1.40[1d4] + 5 Slash, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Kukri\n  | class                    = Slashing\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | minlevel                 = 12\n  | prof                     = Martial\n  | hand                     = One-handed\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 22\n  | bind                     = {{Bind|BtC|BoA}}\n  | basevalue                = 4,800pp 8gp\n  | weight                   = 2 lbs\n  | quest                    = Zawabi's Revenge\n  | chest                    = Warded Chest\n  | revamped                 = Update 80\n  | enhancements             = \n* {{Enhancement bonus|i|5|12}}\n* {{Blast|Force|3}}\n* {{Spelllore|Kinetic|12}}\n* {{SpellPower|Impulse|84}}\n* {{Spell Focus|Illusion|4}}\n* {{Named item sets|The Desert's Biting Sands}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Green Blade\n  | description              = A simple knife with a curved green tinged blade and a handle of polished densewood. Holding the dagger, you feel a rush of arcane power. This is no mere dagger.\n  | pic                      = Green Blade shown.jpg\n  | picdesc                  = Green Blade.png\n}}\n[[Category:Zawabi's Revenge loot]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Kukri",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +12",
+      "tooltip": "Spellcasting Implement +12: Passive: +12 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +12"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Force Blast 3",
+      "tooltip": "Force Blast 3: This weapon ripples with intense force, dealing 3d6 Force damage on a successful hit, and an additional 3d6 Force damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Force Blast 3"
+        }
+      ]
+    },
+    {
+      "text": "Kinetic Lore +12%",
+      "tooltip": "Kinetic Lore +12: Passive: Your Force, Physical and Untyped spells gain a 12% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Kinetic Lore +12%"
+        }
+      ]
+    },
+    {
+      "text": "Impulse +84",
+      "tooltip": "Impulse +84: Passive: +84 Equipment bonus to Force, Untyped, Slashing, Piercing, and Bludgeoning Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impulse",
+          "title": "Impulse",
+          "text": "Impulse +84"
+        }
+      ]
+    },
+    {
+      "text": "Illusion Focus +4",
+      "tooltip": "Illusion Focus +4: +4 Equipment bonus to the DC of Illusion spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Illusion Focus +4"
+        }
+      ]
+    },
+    {
+      "text": "The Desert's Biting Sands",
+      "tooltip": "The Desert's Biting Sands: 2 Pieces Equipped:+2% Artifact bonus to Force Spellcrit Chance+10 Artifact bonus to Force Spellpower+10 Artifact bonus to Magical Resistance Rating Cap",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Desert's_Biting_Sands",
+          "title": "Named item sets",
+          "text": "The Desert's Biting Sands"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

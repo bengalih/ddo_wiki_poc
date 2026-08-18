@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Ancient Band (level 23)",
+  "page_id": 34371,
+  "revision_id": 648783,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:03:38.542020+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = {{Item|Ancient Band}}\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 530\n  | material                 = Adamantine\n  | hardness                 = 33\n  | basevalue                = 9,220 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 23\n  | bind                     = {{Bind|BtC|BoE}}\n  | released                 = Update 17\n  | quest                    = Return to Madstone Crater\n  | chest                    = end chest (Epic Normal)\n  | enhancements             = \n* {{ProtectionBonus|6}}\n* {{Fortification|100}} \n* {{Augment|Yellow}}\n  | description              = This metallic band has suffered through thousands of years of wear.  The scratches on its surface are so numerous that any shine the metal once had is gone forever.\n  | pic                      = Ring Generic Tumbleweed.png\n  | picdesc                  = Ancient Band (Level 23).png\n}}",
+  "item_template": "Named item",
+  "material": "Adamantine",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "Protection +6",
+      "tooltip": "Protection +6: Passive: +6 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +6"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +100%",
+      "tooltip": "Fortification +100%: +100% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +100%"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

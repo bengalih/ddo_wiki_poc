@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Tree Comparison — Agarta&#x27;s Belt</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont,
+      "Segoe UI", Roboto, sans-serif;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #1a1a2e;
+    color: #e0e0e0;
+  }
+  h1 {
+    color: #00d4ff;
+    border-bottom: 2px solid #00d4ff;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  h2 { color: #ff6b6b; margin: 20px 0 10px; }
+  .meta { color: #888; margin-bottom: 20px; }
+  .columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  .panel {
+    border: 1px solid #333;
+    border-radius: 8px;
+    padding: 15px;
+    background: #16213e;
+  }
+  .panel h2 { margin-top: 0; }
+  .tree {
+    list-style: none;
+    padding-left: 20px;
+  }
+  .tree li {
+    padding: 4px 0;
+    position: relative;
+  }
+  .tree li::before {
+    content: "";
+    position: absolute;
+    left: -15px;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background: #444;
+  }
+  .tree li:last-child::before { bottom: 50%; }
+  .tree li::after {
+    content: "";
+    position: absolute;
+    left: -15px;
+    top: 12px;
+    width: 12px;
+    height: 1px;
+    background: #444;
+  }
+  .leaf { color: #e0e0e0; }
+  .branch { color: #00d4ff; font-weight: bold; }
+  .branch > .tree li { color: #e0e0e0; font-weight: normal; }
+  .branch > .tree li::after { background: #00d4ff; }
+  .code {
+    background: #0f0f23;
+    border: 1px solid #333;
+    border-radius: 4px;
+    padding: 12px;
+    font-size: 11px;
+    white-space: pre-wrap;
+    max-height: 500px;
+    overflow-y: auto;
+    margin-top: 10px;
+  }
+  .count {
+    display: inline-block;
+    background: #0f0f23;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 12px;
+    color: #888;
+    margin-left: 8px;
+  }
+  .section {
+    margin-top: 20px;
+    border: 1px solid #333;
+    border-radius: 8px;
+    padding: 15px;
+    background: #16213e;
+  }
+</style>
+</head>
+<body>
+  <h1>Agarta&#x27;s Belt</h1>
+  <div class="meta">
+    Expanded via
+    <code>action=expandtemplates&amp;title=Agarta&#x27;s Belt&amp;text={{:Agarta&#x27;s Belt}}</code>
+  </div>
+
+  <div class="columns">
+    <div class="panel">
+      <h2>Expanded Wikitext Tree
+        <span class="count">7 nodes</span>
+      </h2>
+      <ul class="tree">
+<li class="leaf">Strength +3</li>
+<li class="leaf">Insightful Strength +1</li>
+<li class="leaf">Rams Might</li>
+<li class="leaf">Fortitude Save +4</li>
+<li class="leaf">Blue Augment Slot</li>
+<li class="leaf">Moon Augment Slot</li>
+<li class="leaf">Mythic Belt Boost +1 or +3</li>
+</ul>
+      <details>
+        <summary style="color:#888;cursor:pointer;margin-top:10px">JSON</summary>
+        <pre class="code">[
+  {
+    &quot;text&quot;: &quot;Strength +3&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Strength&quot;,
+        &quot;title&quot;: &quot;Strength&quot;,
+        &quot;text&quot;: &quot;Strength +3&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Insightful Strength +1&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Strength&quot;,
+        &quot;title&quot;: &quot;Strength&quot;,
+        &quot;text&quot;: &quot;Insightful Strength +1&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Rams Might&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Ram&#x27;s_Might_(enchantment)&quot;,
+        &quot;title&quot;: &quot;Ram&#x27;s Might (enchantment)&quot;,
+        &quot;text&quot;: &quot;Ram&#x27;s Might&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Fortitude Save +4&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Fortitude_save&quot;,
+        &quot;title&quot;: &quot;Fortitude save&quot;,
+        &quot;text&quot;: &quot;Fortitude Save +4&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Blue Augment Slot&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Augment_Slot&quot;,
+        &quot;title&quot;: &quot;Augment Slot&quot;,
+        &quot;text&quot;: &quot;Blue Augment Slot&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Moon Augment Slot&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Lunar_and_Solar_Gems&quot;,
+        &quot;title&quot;: &quot;Lunar and Solar Gems&quot;,
+        &quot;text&quot;: &quot;Moon Augment Slot&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Mythic Belt Boost +1 or +3&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Mythic_Boost&quot;,
+        &quot;title&quot;: &quot;Mythic Boost&quot;,
+        &quot;text&quot;: &quot;Mythic Belt Boost&quot;
+      }
+    ]
+  }
+]</pre>
+      </details>
+    </div>
+
+    <div class="panel">
+      <h2>HTML-Derived Tree (current)
+        <span class="count">7 nodes</span>
+      </h2>
+      <ul class="tree">
+<li class="leaf">Strength +3</li>
+<li class="leaf">Insightful Strength +1</li>
+<li class="leaf">Ram&#x27;s Might</li>
+<li class="leaf">Fortitude Save +4</li>
+<li class="leaf">Blue Augment Slot</li>
+<li class="leaf">Moon Augment Slot</li>
+<li class="leaf">Mythic Belt Boost +1 or +3</li>
+</ul>
+      <details>
+        <summary style="color:#888;cursor:pointer;margin-top:10px">JSON</summary>
+        <pre class="code">[
+  {
+    &quot;text&quot;: &quot;Strength +3&quot;,
+    &quot;tooltip&quot;: &quot;Strength +3: This item gives the wearer the power of Ogre Strength, granting a +3 Enhancement bonus to Strength.&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Strength&quot;,
+        &quot;title&quot;: &quot;Strength&quot;,
+        &quot;text&quot;: &quot;Strength +3&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Insightful Strength +1&quot;,
+    &quot;tooltip&quot;: &quot;Insightful Strength +1: This item gives the wearer the power of Ogre Strength, granting a +1 Insight bonus to Strength.&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Strength&quot;,
+        &quot;title&quot;: &quot;Strength&quot;,
+        &quot;text&quot;: &quot;Insightful Strength +1&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Ram&#x27;s Might&quot;,
+    &quot;tooltip&quot;: &quot;Ram&#x27;s Might: You permanently benefit from the spell Ram&#x27;s Might.&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Ram%27s_Might_(enchantment)&quot;,
+        &quot;title&quot;: &quot;Ram&#x27;s Might (enchantment)&quot;,
+        &quot;text&quot;: &quot;Ram&#x27;s Might&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Fortitude Save +4&quot;,
+    &quot;tooltip&quot;: &quot;Fortitude Save +4: This item gives a +4 Resistance bonus to your Fortitude saves.&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Fortitude_save&quot;,
+        &quot;title&quot;: &quot;Fortitude save&quot;,
+        &quot;text&quot;: &quot;Fortitude Save +4&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Blue Augment Slot&quot;,
+    &quot;tooltip&quot;: &quot;Blue and Colorless&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Augment_Slot&quot;,
+        &quot;title&quot;: &quot;Augment Slot&quot;,
+        &quot;text&quot;: &quot;Blue Augment Slot&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Moon Augment Slot&quot;,
+    &quot;tooltip&quot;: &quot;Moon&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Lunar_and_Solar_Gems&quot;,
+        &quot;title&quot;: &quot;Lunar and Solar Gems&quot;,
+        &quot;text&quot;: &quot;Moon Augment Slot&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Mythic Belt Boost +1 or +3&quot;,
+    &quot;tooltip&quot;: &quot;Mythic Belt Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Mythic_Boost&quot;,
+        &quot;title&quot;: &quot;Mythic Boost&quot;,
+        &quot;text&quot;: &quot;Mythic Belt Boost&quot;
+      }
+    ]
+  }
+]</pre>
+      </details>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Raw Expanded Wikitext</h2>
+    <pre class="code">__NOTOC____NOEDITSECTION__[[File:Icon_ItemSlot_Waist.png|link=:Category:Waist items|32px|frameless|left]] 
+== Agarta&#x27;s Belt ==
+
+{| class=&quot;striped&quot; style=&quot;clear: right; border: 1px #DDAAFF solid; margin: 4px; width: 100%; --bg-color-1:&amp;#35;DDA0DD;--bg-color-1-dark:&amp;#35;773777;--bg-color-2:&amp;#35;EEDDFF;--bg-color-2-dark:&amp;#35;3A2F45;--header-color:&amp;#35;DDA0DD;--header-color-dark:&amp;#35;773777;&quot;
+|-
+!class=&quot;bg-color-1&quot; style=&quot;background-color: #DDAAFF;&quot; width=15%|Minimum level
+|class=&quot;bg-color-2&quot; style=&quot;background-color: #EEDDFF;&quot; width=42.5%| 4[[Category:Minimum level 4 items]]
+!rowspan=&quot;11&quot; class=&quot;bg-color-2&quot; style=&quot;background-color: #EEDDFF;&quot; width=42.5% align=center|[[File:QuestionOrb.png|420px]]
+|-
+!class=&quot;bg-color-1&quot; style=&quot;background-color: #DDAAFF;&quot;|Item Type
+|class=&quot;bg-color-2&quot; style=&quot;background-color: #EEDDFF;&quot;|Clothing / Belt
+|-
+!class=&quot;bg-color-1&quot; style=&quot;background-color: #DDAAFF;&quot;|[[Slot]]
+|class=&quot;bg-color-2&quot; style=&quot;background-color: #EEDDFF;&quot;|Waist
+|-
+!class=&quot;bg-color-1&quot; style=&quot;background-color: #DDAAFF;&quot; | Race Absolutely Required
+|class=&quot;bg-color-2&quot; style=&quot;background-color: #EEDDFF;&quot; | [[None]]
+|-
+!class=&quot;bg-color-1&quot; style=&quot;background-color: #DDAAFF;&quot;|Binding
+|class=&quot;bg-color-2&quot; style=&quot;background-color: #EEDDFF;&quot;|[[Bind|Bound to Account&amp;nbsp;on Acquire]][[Category:Binds to account]][[Category:Binds on acquire]]
+|-
+!class=&quot;bg-color-1&quot; style=&quot;background-color: #DDAAFF;&quot;|Durability
+|class=&quot;bg-color-2&quot; style=&quot;background-color: #EEDDFF;&quot;|140
+|-
+!class=&quot;bg-color-1&quot; style=&quot;background-color: #DDAAFF;&quot;|Material
+|class=&quot;bg-color-2&quot; style=&quot;background-color: #EEDDFF;&quot;|&lt;templatestyles src=&quot;Popup/styles.css&quot; /&gt;&lt;span class=&quot;popup has_tooltip with-icon basic&quot;&gt;[[:Steel|Steel]][[File:Icon tooltip.png|link=|super|10px]]&lt;span class=&quot;popup tooltip wide left below&quot; style=&quot;text-align: center;&quot;&gt;&#x27;&#x27;&#x27;[[:Steel|Steel]]:&#x27;&#x27;&#x27; &#x27;&#x27;&#x27;Steel&#x27;&#x27;&#x27; is the common metal used to make weapons and armor.&lt;/span&gt;&lt;/span&gt; [[Category:Steel items]] 
+|-
+!class=&quot;bg-color-1&quot; style=&quot;background-color: #DDAAFF;&quot;|Hardness
+|class=&quot;bg-color-2&quot; style=&quot;background-color: #EEDDFF;&quot;|24
+|-
+!class=&quot;bg-color-1&quot; style=&quot;background-color: #DDAAFF; width: 150px;&quot;|Base Value
+|class=&quot;bg-color-2&quot; style=&quot;background-color: #EEDDFF; width: 450px;&quot;|&lt;span style=&quot;display: none;&quot;&gt;0001601000&lt;/span&gt;1,601&lt;span class=&quot;popup has_tooltip with-icon basic&quot;&gt;pp[[File:Icon tooltip.png|link=|super|10px]]&lt;span class=&quot;popup tooltip left below&quot; style=&quot;text-align: center;&quot;&gt;[[Currency|Platinum Piece]]&lt;/span&gt;&lt;/span&gt;&amp;nbsp;
+|-
+!class=&quot;bg-color-1&quot; style=&quot;background-color: #DDAAFF;&quot;|Weight
+|class=&quot;bg-color-2&quot; style=&quot;background-color: #EEDDFF;&quot;|0.10 lbs
+|-
+!class=&quot;bg-color-1&quot; style=&quot;background-color: #DDAAFF;&quot;|Location
+|class=&quot;bg-color-2&quot; style=&quot;background-color: #EEDDFF;&quot;|&#x27;&#x27;&#x27;[[Rats in a Cage]]&#x27;&#x27;&#x27;, end chest[[Category:Rats in a Cage loot]]
+|-
+!class=&quot;bg-color-1&quot; style=&quot;background-color: #DDAAFF;&quot;|Enchantments
+|class=&quot;bg-color-2&quot; style=&quot;background-color: #EEDDFF;&quot;|
+* &lt;span class=&quot;popup has_tooltip with-icon basic&quot;&gt;[[Strength| Strength +3]][[File:Icon tooltip.png|link=|super|10px]]&lt;span class=&quot;popup tooltip wide left below&quot; style=&quot;text-align: center;&quot;&gt;&#x27;&#x27;&#x27;[[Strength| Strength +3]]&#x27;&#x27;&#x27;: This item gives the wearer the power of Ogre Strength, granting a +3 [[Enhancement bonus]] to Strength.&lt;/span&gt;&lt;/span&gt;[[Category: Strength +3 items]]
+* &lt;span class=&quot;popup has_tooltip with-icon basic&quot;&gt;[[Strength|Insightful Strength +1]][[File:Icon tooltip.png|link=|super|10px]]&lt;span class=&quot;popup tooltip wide left below&quot; style=&quot;text-align: center;&quot;&gt;&#x27;&#x27;&#x27;[[Strength|Insightful Strength +1]]&#x27;&#x27;&#x27;: This item gives the wearer the power of Ogre Strength, granting a +1 [[Insight bonus]] to Strength.&lt;/span&gt;&lt;/span&gt;[[Category:Insightful Strength +1 items]]
+* &lt;span class=&quot;popup has_tooltip with-icon basic&quot;&gt;[[Ram&#x27;s Might (enchantment)|Ram&#x27;s Might]][[File:Icon tooltip.png|link=|super|10px]]&lt;span class=&quot;popup tooltip wide left below&quot; style=&quot;text-align: center;&quot;&gt;&#x27;&#x27;&#x27;[[Ram&#x27;s Might (enchantment)|Ram&#x27;s Might]]:&#x27;&#x27;&#x27; You permanently benefit from the spell [[Ram&#x27;s Might]].&lt;/span&gt;&lt;/span&gt;[[Category:Ram&#x27;s Might items]]
+* &lt;span class=&quot;popup has_tooltip with-icon basic&quot;&gt;[[Fortitude save| Fortitude Save +4]][[File:Icon tooltip.png|link=|super|10px]]&lt;span class=&quot;popup tooltip wide left below&quot; style=&quot;text-align: center;&quot;&gt;&#x27;&#x27;&#x27;[[Fortitude save| Fortitude Save +4]]:&#x27;&#x27;&#x27; This item gives a +4 [[Resistance bonus]] to your Fortitude saves.&lt;/span&gt;&lt;/span&gt;[[Category: Fortitude Save +4 items]]
+* &lt;templatestyles src=&quot;Augment/styles.css&quot; /&gt;&lt;span class=&quot;popup has_tooltip with-icon augment blue&quot;&gt;&lt;span class=&quot;title&quot;&gt;[[Augment Slot|Blue Augment Slot]]&lt;/span&gt;[[File:Icon tooltip.png|link=|super|10px]]&lt;span class=&quot;popup tooltip wide left below&quot; style=&quot;text-align: center;&quot;&gt;[[:Category:Blue augments|Blue]] and [[:Category:Colorless augments|Colorless]]&lt;/span&gt;&lt;/span&gt;[[Category:blue augment slot items]]
+* &lt;span class=&quot;popup has_tooltip with-icon augment moon&quot;&gt;&lt;span class=&quot;title&quot;&gt;[[Lunar and Solar Gems|Moon Augment Slot]]&lt;/span&gt;[[File:Icon tooltip.png|link=|super|10px]]&lt;span class=&quot;popup too</pre>
+  </div>
+</body>
+</html>

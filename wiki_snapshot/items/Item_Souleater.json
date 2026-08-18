@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Souleater",
+  "page_id": 11998,
+  "revision_id": 634907,
+  "revision_timestamp": "2025-04-22T03:52:41Z",
+  "fetched_at": "2026-08-17T23:02:22.051114+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Souleater\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | minlevel                 = 7\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = [1d6] + 3 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 150\n  | material                 = Wood\n  | hardness                 = 17\n  | basevalue                = 2800pp 1cp\n  | weight                   = 4 lbs\n  | quest                    = Into the Deep\n  | chest                    = Demon's chests\n  | released                 = Update 6\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Mortal Strike}}\n* {{Feeding|10}}\n* {{Vampirism|1}}\n  | description              = This is the staff used by the [[sahuagin]] High Priestess Slikir to commune with and channel a demon. It took on many of the demon's aspects and is now a dangerous and corrupted implement.\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Souleater\n  | pic                      = Souleater shown.jpg\n  | picdesc                  = Souleater.png\n  | tips                     = Was originally Steel, but someone mentioned it now being Wood (probably to match [[Epic Souleater]]). \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Mortal Strike",
+      "tooltip": "Mortal Strike: On an attack roll of 20 which is confirmed as a critical hit this weapon triggers the Slay Living spell and attempts to instantly snuff out the life force of the enemy (DC 17).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mortal_Strike",
+          "title": "Mortal Strike",
+          "text": "Mortal Strike"
+        }
+      ]
+    },
+    {
+      "text": "Feeding 10",
+      "tooltip": "Feeding 10: On Vorpal Hit: Your target incurs one Negative Level, and you gain +10 temporary hit points. (These Temporary Hit Points last for one minute, or until used to negate incoming damage.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feeding",
+          "title": "Feeding",
+          "text": "Feeding 10"
+        }
+      ]
+    },
+    {
+      "text": "Vampirism 1",
+      "tooltip": "Vampirism 1: This weapon thirsts for the blood of your enemies, healing you for +1d2 hit points with each hit.Note: internal cooldown of 1 second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Vampirism 1"
+        }
+      ]
+    }
+  ]
+}

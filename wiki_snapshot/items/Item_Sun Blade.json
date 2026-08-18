@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Sun Blade",
+  "page_id": 2893,
+  "revision_id": 695256,
+  "revision_timestamp": "2026-07-13T16:11:02Z",
+  "fetched_at": "2026-08-17T23:07:36.688819+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Sun Blade\n  | basevalue                = 2,501 pp\n  | weight                   = 2 lbs\n  | damage                   = [1d10] + 2 Slash, Good, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Short Sword\n  | class                    = Piercing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 115\n  | material                 = Flametouched Iron \n  | hardness                 = 16\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtC|BoE}}\n  | pic                      = Sun Blade shown.jpg\n  | picdesc                  = Sun Blade.png\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Mat|Flametouched Iron}}\n* {{+2 vs Evil}}\n* {{Extra damage vs Undead}}\n* {{Augment|Red}}\n  | description              = This golden bastard sword is as light and easy to use as a shortsword.  Its purpose is to destroy all evil creatures and the undead.\n  | quest                    = The Subterrane - Central\n  | chest                    = [[Garamol]]'s chest\n  | revamped                 = Update 76\n  | crafting                 = Catalyst Crafting\n  | craftingupgrade          = Null Blade¦Legendary Null Blade\n  | tips                     = \n* '''Multiple Drop Locations''';  Rare drop in any effective Level 6-7 Chest. Some reported drop locations (Normal difficulty): [[Festivult]] {{Item|Gold Festival Coin}}, [[Redwillow's Ruins]], [[Delera's Tomb]], [[Dead Predators]], [[Gwylan's Stand]], [[Cult of the Six]], [[Assault on Splinterskull]], [[The Scoundrel's Run]], [[Mirra's Sleepless Nights]], [[The Pit]], [[Dirty Laundry]], and [[Garamol]]'s chest in [[The Subterrane - Central]]. May also appear in NPC reward list <!-- had it in Irestone Inlet after elite run -->\n* The Sun Blade is a [[shortsword]] that is additionally typed as a [[bastard sword]]. For feats, such as [[Weapon Focus]] and [[Improved Critical]], it is typed as a piercing or slashing weapon that deals slashing damage. As a light weapon, it innately uses the higher of Dexterity or Strength modifiers to attack and damage rolls. {{Bug|(possibly) At the moment [[Improved Critical: Slashing Weapons]] does not apply}}\n* Strikethrough is added with use of this weapon, regardless of your feats/enhancements. \n}}\n[[Category:Random loot]]\n[[Category:Shortswords with Strikethrough]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Short Sword",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Flametouched Iron",
+      "tooltip": "Flametouched Iron: Flametouched Iron grants +1 saves versus Evil Outsiders.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flametouched_Iron",
+          "title": "Flametouched Iron",
+          "text": "Flametouched Iron"
+        }
+      ]
+    },
+    {
+      "text": "+2 vs Evil",
+      "tooltip": "+2 vs Evil: Grants an additional +2 enhancement bonus to attack chance against evil creatures.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/%2B2_vs_Evil",
+          "title": "+2 vs Evil",
+          "text": "+2 vs Evil"
+        }
+      ]
+    },
+    {
+      "text": "Extra damage vs Undead",
+      "tooltip": "Extra damage vs Undead: This weapon deals an additional 1 to 10+4 light damage against the Undead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Extra_damage_vs_Undead",
+          "title": "Extra damage vs Undead",
+          "text": "Extra damage vs Undead"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

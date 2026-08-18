@@ -1,0 +1,180 @@
+{
+  "page_title": "Item:Shaped Duergarcraft Helm",
+  "page_id": 126643,
+  "revision_id": 700855,
+  "revision_timestamp": "2026-07-28T00:08:55Z",
+  "fetched_at": "2026-08-17T22:54:58.787356+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Shaped Duergarcraft Helm\n  | type                     = Helm\n  | class                    = Clothing\n  | slot                     = Head\n  | durability               = 210\n  | material                 = Gem\n  | hardness                 = 31\n  | basevalue                = 4,401 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 11\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Demon in the Rough\n  | chest                    = optional chest\n  | epic                     = no\n  | released                 = Update 81\n  | enhancements             = \n* {{HealingAmp|12|h|Equipment}}\n* {{Sheltering|7|Insightful|Physical}}\n* {{Sheltering|7|Insightful|Magical}}\n* {{Nearly Complete|Ability Score}}\n* {{Augment|Blue}}\n* {{Augment|Sun}}\n  | crafting                 = Nearly Complete\n  | description              = A fine helm constructed by Duergar smiths.\n  | pic                      = Shaped Duergarcraft Helm shown.jpg\n  | picdesc                  = Shaped Duergarcraft Helm.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Equipment Healing Amplification +12",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +12 (Equipment bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Equipment Healing Amplification +12"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Physical Sheltering +7",
+      "tooltip": "Insightful Physical Sheltering +7: +7 Insight bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Insightful Physical Sheltering +7"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Magical Sheltering +7",
+      "tooltip": "Insightful Magical Sheltering +7: +7 Insight bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Insightful Magical Sheltering +7"
+        }
+      ]
+    },
+    {
+      "text": "Nearly Complete: Ability Score",
+      "tooltip": "Nearly Complete: Ability Score: This item isn't quite finished, but it's only a step away from completion. Bring it to the forges on the upper floor of Gravenhollow and combine it with melted materials to restore this item to its full potential.",
+      "children": [
+        {
+          "text": "This item can be upgraded with one of the following:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Charisma +6",
+              "tooltip": "Charisma +6: This item makes the wearer have more flair, granting a +6 Enhancement bonus to Charisma.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Charisma",
+                  "title": "Charisma",
+                  "text": "Charisma +6"
+                }
+              ]
+            },
+            {
+              "text": "Constitution +6",
+              "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Constitution",
+                  "title": "Constitution",
+                  "text": "Constitution +6"
+                }
+              ]
+            },
+            {
+              "text": "Dexterity +6",
+              "tooltip": "Dexterity +6: This item makes the wearer more nimble and dexterous, granting a +6 Enhancement bonus to Dexterity.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Dexterity",
+                  "title": "Dexterity",
+                  "text": "Dexterity +6"
+                }
+              ]
+            },
+            {
+              "text": "Intelligence +6",
+              "tooltip": "Intelligence +6: This item focuses the power of the wearer's mind, granting a +6 Enhancement bonus to Intelligence.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Intelligence",
+                  "title": "Intelligence",
+                  "text": "Intelligence +6"
+                }
+              ]
+            },
+            {
+              "text": "Strength +6",
+              "tooltip": "Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Strength",
+                  "title": "Strength",
+                  "text": "Strength +6"
+                }
+              ]
+            },
+            {
+              "text": "Wisdom +6",
+              "tooltip": "Wisdom +6: This item makes the wearer more in tune with her surroundings, granting a +6 Enhancement bonus to Wisdom.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Wisdom",
+                  "title": "Wisdom",
+                  "text": "Wisdom +6"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Nearly_Complete",
+          "title": "Nearly Complete",
+          "text": "Nearly Complete: Ability Score"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Head Boost +1 or +3",
+      "tooltip": "Mythic Head Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Head Boost"
+        }
+      ]
+    }
+  ]
+}

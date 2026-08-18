@@ -1,0 +1,108 @@
+{
+  "page_title": "Item:Cataclysmic Tower Shield",
+  "page_id": 122464,
+  "revision_id": 683724,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:19:12.480667+00:00",
+  "categories": [],
+  "wikitext": "{{Lamannia}} <!-- Not available on live servers-->\n\n{{Named item|Shield\n  | name                     = Cataclysmic Tower Shield\n  | type                     = Tower\n  | prof                     = Tower\n  | race                     = \n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 8\n  | damagemod                = STR\n  | attmod                   = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 75\n  | revamped                 = Update 76\n  | quest                    = \n  | turn in                  = \n  | sb                       = +18\n  | maxdexbonus              = 2\n  | dr                       = 13\n  | acp                      = -9\n  | asf                      = 50\n  | dmg                      = [1d12] + 5\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | durability               = 200\n  | material                 = Steel\n  | hardness                 = 33\n  | basevalue                = 3,604 pp\n  | weight                   = 50 lbs\n  | chest                    = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|s|5}}\n* {{Lamordia Slot|Melancholic|Weapon}}\n* {{Lamordia Slot|Dolorous|Weapon}}\n* {{Lamordia Slot|Miserable|Weapon}}\n* {{Lamordia Slot|Woeful|Weapon}}\n* {{Augment|Red}}\n  | description              = Augmentation slots line the back of this shield, allowing tinkerers to unlock its full potential.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Cataclysmic Tower Shield shown.jpg\n  | picdesc                  = Cataclysmic Tower Shield.png\n  | tips                     = Unreleased shield from [[Update 75]]. Found only in the [[Lamannia]] [[Test Dojo]].\n}}",
+  "item_template": "Lamannia",
+  "proficiency_class": "Tower Shield Proficiency",
+  "material": "Steel",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Melancholic Slot (Weapon)",
+      "tooltip": "Lamordia: Melancholic Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Melancholic Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Dolorous Slot (Weapon)",
+      "tooltip": "Lamordia: Dolorous Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Dolorous Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Miserable Slot (Weapon)",
+      "tooltip": "Lamordia: Miserable Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Miserable Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Woeful Slot (Weapon)",
+      "tooltip": "Lamordia: Woeful Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Woeful Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

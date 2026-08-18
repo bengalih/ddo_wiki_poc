@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Infectious War Axe",
+  "page_id": 18682,
+  "revision_id": 631548,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:23:50.745806+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Infectious War Axe\n  | type                     = Great Axe\n  | class                    = Slashing\n  | hand                     = Two-handed\n  | prof                     = Martial\n  | minlevel                 = 12\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = 1.40[1d12] + 5 Slash, Magic\n  | crit                     = 20 / x3\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 220\n  | material                 = Steel\n  | hardness                 = 22\n  | basevalue                = 4,802pp\n  | weight                   = 12 lbs\n  | revamped                 = Update 49\n  | quest                    = Cauldron of Sora Katra\n  | chest                    = upgraded version of [[Ogrish War Axe]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Vengeful}}\n* {{Bane|Humanoid|3}}\n* {{Gashing|7}}\n* {{Demon Fever}}\n* {{Augment|Red}}\n  | craftingnotes            = Ogrish War Axe\n  | description              = This war axe, infused with the fury of the Droaam ogre brutes, can now confer a deadly disease to the wielder's foes.\n  | pic                      = Destructive War Axe Held.jpg\n  | picdesc                  = Infectious War Axe.png\n  | tips                     = Although this is a greataxe... It actually uses the greatsword wield model & swing animation, and thus swings slightly slower then a real greataxe. \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Vengeful",
+      "tooltip": "Vengeful: When its wielder is hit in battle, this item has a 10% chance to cause him or her to become full of anger and go into a Rage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vengeful",
+          "title": "Vengeful",
+          "text": "Vengeful"
+        }
+      ]
+    },
+    {
+      "text": "Humanoid Bane 3",
+      "tooltip": "Humanoid Bane 3: This weapon is attuned specifically to those that walk among us, dealing an additional 3d10 bane damage vs. Humanoids.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Humanoid Bane 3"
+        }
+      ]
+    },
+    {
+      "text": "Gashing 7",
+      "tooltip": "Gashing 7: The edges of this weapon are sharpened beyond belief, dealing an additional 7d6 slashing damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Gashing",
+          "title": "Gashing",
+          "text": "Gashing 7"
+        }
+      ]
+    },
+    {
+      "text": "Demon Fever",
+      "tooltip": "Demon Fever: This weapon is infected with a night hag's Demon Fever disease. On critical hits it will transfer the disease to enemies, dealing 1d8 Constitution damage. A successful Fortitude save (DC 22) negates this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Demon_Fever",
+          "title": "Demon Fever",
+          "text": "Demon Fever"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

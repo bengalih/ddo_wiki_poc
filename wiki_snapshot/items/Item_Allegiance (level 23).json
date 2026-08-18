@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Allegiance (level 23)",
+  "page_id": 36012,
+  "revision_id": 648771,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:03:09.616100+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Allegiance}}\n  | sentience                = no\n  | prof                     = Exotic\n  | damage                   = 2.50[1d8] + 6 Slash, Magic\n  | crit                     = 19-20 / x3\n  | type                     = Khopesh\n  | class                    = Slashing\n  | minlevel                 = 23\n  | hand                     = One-handed\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 295\n  | material                 = Steel\n  | hardness                 = 28\n  | basevalue                = 9,202 pp\n  | weight                   = 12 lbs\n  | released                 = Update 17\n  | quest                    = Return to Gianthold Tor\n  | chest                    = Black Dragon Chest (Epic Normal)\n  | enhancements             = \n* {{Enhancement bonus|w|6}}\n* {{Bane|Elf|greater}}\n* {{ItemGrantedFeat|Khopesh}}\n* {{Augment|Red}}\n  | pic                      = Allegiance shown.jpg\n  | picdesc                  = Allegiance (Level 23).png\n  | description              = A fine khopesh enchanted to do battle against the rebellious elves in the last days of the Lost Empire. Most likely, it was wielded by a loyal servant to spill his own kin's blood.\n  | tips                     = \n}}\n[[Category:Weapons that grant their own proficiency]]",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Khopesh",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Greater Elf Bane",
+      "tooltip": "Greater Elf Bane: A bane weapon excels at attacking one type or subtype of creature. Against Elves, this weapon's effective enhancement bonus is +4 better than its normal enhancement bonus. It deals an extra 3 to 18 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Greater Elf Bane"
+        }
+      ]
+    },
+    {
+      "text": "Proficiency: Khopesh",
+      "tooltip": "Proficiency: Khopesh: While equipped this item grants the wielder all required knowledge to wield a Khopesh without proficiency penalties.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proficiency",
+          "title": "Proficiency",
+          "text": "Proficiency"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

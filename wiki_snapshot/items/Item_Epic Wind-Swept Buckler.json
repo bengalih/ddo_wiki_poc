@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Epic Wind-Swept Buckler",
+  "page_id": 91375,
+  "revision_id": 630593,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:59:22.643271+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Epic Wind-Swept Buckler\n  | prof                     = General\n  | type                     = Buckler \n  | sb                       = +11\n  | dr                       = 10\n  | acp                      = None\n  | asf                      = 0\n  | dmg                      = 3[1d6] + 6\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | attackmod                = CHA\n  | damagemod                = CHA\n  | minlevel                 = 20\n  | durability               = 320 \n  | material                 = Steel\n  | hardness                 = 45 \n  | basevalue                = 8,404 pp \n  | weight                   = 5 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 50\n  | epic                     = Wind-Swept Buckler\n  | mythic                   = no\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Wind-Swept Buckler\n  | enhancements             = \n* {{Enhancement_bonus|si|6|20}}\n* {{Stat|Cha|4|Insightful}}\n* {{Spelllore|Radiance|+16}}\n* {{SpellPower|Radiance|111}}\n* {{Absorption|Light|18}}\n* {{Stat|Cha|1|Exceptional}}\n* {{Named item sets|Epic Saltmarsh Explorer}}\n* {{Augment|Red}}\n  | description              = The colors on this buckler have faded with time and tide.\n  | pic                      = Wind-Swept Buckler shown.png\n  | picdesc                  = Epic Wind-Swept Buckler.png\n  | tips                     = \n}}\n[[Category:Sinister Secret of Saltmarsh epic items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Steel",
+  "item_type": "Buckler",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +20",
+      "tooltip": "Spellcasting Implement +20: Passive: +20 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +20"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Charisma +4",
+      "tooltip": "Insightful Charisma +4: This item makes the wearer have more flair, granting a +4 Insight bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Insightful Charisma +4"
+        }
+      ]
+    },
+    {
+      "text": "Radiance Lore +16%",
+      "tooltip": "Radiance Lore +16: Passive: Your Light and Aligned spells gain a +16% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Radiance Lore +16%"
+        }
+      ]
+    },
+    {
+      "text": "Radiance +111",
+      "tooltip": "Radiance +111: Passive: +111 Equipment bonus to Light and Alignment Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiance_(spell_boost)",
+          "title": "Radiance (spell boost)",
+          "text": "Radiance +111"
+        }
+      ]
+    },
+    {
+      "text": "Light Absorption +18%",
+      "tooltip": "Light Absorption +18%: Passive: 18% Enhancement Bonus to Light Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Light Absorption +18%"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Charisma +1",
+      "tooltip": "Exceptional Charisma +1: This item makes the wearer have more flair, granting a +1 Exceptional bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Exceptional Charisma +1"
+        }
+      ]
+    },
+    {
+      "text": "Epic Saltmarsh Explorer",
+      "tooltip": "Epic Saltmarsh Explorer: 5 Pieces Equipped:+20 Artifact bonus to Physical and Magical Resistance Rating+10 Artifact bonus to Melee, Ranged, and Universal Spell Power+2 Artifact bonus to all Ability Scores+20 Artifact Bonus to Positive, Negative, and Repair Amplification",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Epic_Saltmarsh_Explorer",
+          "title": "Named item sets",
+          "text": "Epic Saltmarsh Explorer"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

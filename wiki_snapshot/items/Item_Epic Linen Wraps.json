@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Epic Linen Wraps",
+  "page_id": 85594,
+  "revision_id": 630207,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:51:50.649468+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Epic Linen Wraps\n  | minlevel                 = 25\n  | type                     = Gloves\n  | slot                     = Hand\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 260\n  | material                 = Leather\n  | hardness                 = 30\n  | basevalue                = 10,005 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | released                 = Update 45\n  | quest                    = Thrall of the Necromancer\n  | chest                    = End chest\n  | enhancements             = \n* {{Stat|STR|+11}}\n* {{Proof|Disease|6}}\n* {{Immunity|Fear}}\n* {{Guard|Greater Disease}}\n* {{Cursed|DEX}}\n* {{Augment|Colorless}}\n  | description              = Filthy bandages that smell of gravedust and mildew. When worn, the wraps seem to enhance the strength of the wearer.\n  | pic                      = Gloves Generic.png\n  | picdesc                  = Epic Linen Wraps.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "Strength +11",
+      "tooltip": "Strength +11: This item gives the wearer the power of Ogre Strength, granting a +11 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +11"
+        }
+      ]
+    },
+    {
+      "text": "Proof Against Disease +6",
+      "tooltip": "Proof Against Disease +6: This item grants its wearer immunity to natural diseases. This item also grants a +6 Enhancement bonus to saving throws against magical diseases, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical diseases with a DC of less than 7 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Disease",
+          "title": "Proof Against Disease",
+          "text": "Proof Against Disease +6"
+        }
+      ]
+    },
+    {
+      "text": "Immunity to Fear",
+      "tooltip": "Immunity to Fear: The wearer of this item is immune to all fear effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Immunity_to_Fear",
+          "title": "Immunity to Fear",
+          "text": "Immunity to Fear"
+        }
+      ]
+    },
+    {
+      "text": "Greater Disease Guard",
+      "tooltip": "Greater Disease Guard: This item carries the Maggot Plague disease, which deals 2d6 Constitution damage and may be contracted by enemies that hit you. A successful Fortitude Save (DC 28) will negate this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Greater_Disease_Guard",
+          "title": "Greater Disease Guard",
+          "text": "Greater Disease Guard"
+        }
+      ]
+    },
+    {
+      "text": "Curse of Clumsiness",
+      "tooltip": "Curse of Clumsiness: Passive -1 Penalty to Dexterity. (The minimum level required to equip this item is lower than normal due to this curse.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cursed",
+          "title": "Cursed",
+          "text": "Curse of Clumsiness"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Hands Boost +1 or +3",
+      "tooltip": "Mythic Hands Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Hands Boost"
+        }
+      ]
+    }
+  ]
+}

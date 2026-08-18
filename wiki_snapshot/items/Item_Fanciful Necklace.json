@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Fanciful Necklace",
+  "page_id": 83175,
+  "revision_id": 630723,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:02:10.350369+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Fanciful Necklace\n  | minlevel                 = 15\n  | type                     = Necklace\n  | race                     = Tiefling Scoundrel\n  | slot                     = Neck\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6,020pp\n  | weight                   = 0.10 lbs\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | epic                     = no\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Deathblock}}\n* {{Stat|Dex|+6}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Necklace Generic Bright.png\n  | picdesc                  = Fanciful Necklace.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Deathblock",
+      "tooltip": "Deathblock: The wearer of this item is immune to all death spells and magical death effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +6",
+      "tooltip": "Dexterity +6: This item makes the wearer more nimble and dexterous, granting a +6 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +6"
+        }
+      ]
+    }
+  ]
+}

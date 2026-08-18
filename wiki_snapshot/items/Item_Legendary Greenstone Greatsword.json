@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Greenstone Greatsword",
+  "page_id": 94792,
+  "revision_id": 687251,
+  "revision_timestamp": "2026-06-04T02:31:11Z",
+  "fetched_at": "2026-08-17T21:53:16.411710+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Greenstone Greatsword\n  | minlevel                 = 29\n  | type                     = Great Sword\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = Two-handed\n  | damage                   = 4.80[2d6+4] + 15 Slash, Magic, Crystal\n  | crit                     = 19-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 390\n  | material                 = Crystal\n  | hardness                 = 39\n  | cost                     = 11,605 pp\n  | weight                   = 8 lbs\n  | released                 = Update 53\n  | quest                    = Through the Tulgey Wood\n  | end reward               = \n  | turn in                  = \n  | chest                    = locked chest, end chest, second secret chest\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Slay Living|Legendary}}\n* {{Deadly|10}}\n* {{Seeker|13}}\n* {{Deception|10}}\n* {{Mat|Crystal}}\n* {{Augment|Red}}\n  | crafting                 = \n  | description              = This green stone has crystallized into something deadly.\n  | pic                      = Greenstone Greatsword shown.jpg\n  | picdesc                  = Legendary Greenstone Greatsword.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Slay Living",
+      "tooltip": "Legendary Slay Living: On hit, this has a chance of snuffing the life from your foes, slaying them instantly. Struck enemies must make a DC 100 Fortititude save or be slain.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slay_Living_(enchantment)",
+          "title": "Slay Living (enchantment)",
+          "text": "Legendary Slay Living"
+        }
+      ]
+    },
+    {
+      "text": "Deadly +10",
+      "tooltip": "Deadly +10: +10 Competence bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Deadly +10"
+        }
+      ]
+    },
+    {
+      "text": "Seeker +13",
+      "tooltip": "Seeker +13: Provides a +13 Enhancement bonus to confirm critical hits, and a +13 Enhancement bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Seeker +13"
+        }
+      ]
+    },
+    {
+      "text": "Deception +10",
+      "tooltip": "Deception +10: +10 Enhancement bonus to hit and +15 to damage for any hit that would qualify as a sneak attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Deception +10"
+        }
+      ]
+    },
+    {
+      "text": "Crystal",
+      "tooltip": "Crystal: Crystal weapons are able to overcome the protective damage reduction of many Quori creatures, which can be resistant to other weapons. Spell failure chances for armors and shields made from crystal are also decreased by 10%.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crystal",
+          "title": "Crystal",
+          "text": "Crystal"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

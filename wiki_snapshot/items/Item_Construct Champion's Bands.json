@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Construct Champion's Bands",
+  "page_id": 68323,
+  "revision_id": 699322,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:25:22.488190+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Construct Champion's Bands\n  | minlevel                 = 14\n  | type                     = Bracers\n  | slot                     = Wrist\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 240\n  | material                 = Steel\n  | hardness                 = 34\n  | basevalue                = 5601 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | released                 = Update 38\n  | revamped                 = Update 80\n  | quest                    = Night Falls on Stormreach\n  | end reward               = \n  | chest                    = End chest\n  | enhancements             = \n* {{Spell Focus|Rune Arm|4}}\n* {{HealingAmp|29|r}}\n* {{SpellPower|Reconstruction|90}}\n* {{Deadly|6}}\n* {{Augment|Green}}\n* {{Named item sets|Renegade Champion}}\n  | description              = These bands are relatively uncomfortable for those who weren't built with their use in mind.\n  | pic                      = Bracers Generic.png\n  | picdesc                  = Construct Champions Bands.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "Rune Arm Focus +4",
+      "tooltip": "Rune Arm Focus +4: +4 Equipment bonus to the DC of Rune Arm spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Rune Arm Focus +4"
+        }
+      ]
+    },
+    {
+      "text": "Repair Amplification +29",
+      "tooltip": "Repair Amplification: This effect amplifies all incoming repair healing by +29 (Enhancement bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Repair_Amplification",
+          "title": "Repair Amplification",
+          "text": "Repair Amplification +29"
+        }
+      ]
+    },
+    {
+      "text": "Reconstruction +90",
+      "tooltip": "Reconstruction +90: Passive: +90 Equipment bonus to Repair and Rust Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reconstruction",
+          "title": "Reconstruction",
+          "text": "Reconstruction +90"
+        }
+      ]
+    },
+    {
+      "text": "Deadly +6",
+      "tooltip": "Deadly +6: +6 Competence bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Deadly +6"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Renegade Champion",
+      "tooltip": "Renegade Champion: 3 Pieces Equipped: +1 Artifact Bonus to Critical Multiplier on a 19-20. +2 Artifact Bonus to Rune Arm DCs. +10 Artifact Bonus to Repair Amplification",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Renegade_Champion",
+          "title": "Named item sets",
+          "text": "Renegade Champion"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Wrist Boost +1 or +3",
+      "tooltip": "Mythic Wrist Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Wrist Boost"
+        }
+      ]
+    }
+  ]
+}

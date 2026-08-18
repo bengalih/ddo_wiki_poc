@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Scarlet Scalemail",
+  "page_id": 105822,
+  "revision_id": 634483,
+  "revision_timestamp": "2025-04-22T03:24:41Z",
+  "fetched_at": "2026-08-17T22:51:23.439307+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Scarlet Scalemail\n  | minlevel                 = 4\n  | type                     = Medium Armor\n  | feat                     = Medium\n  | ac                       = +10\n  | maxdexbonus              = 3\n  | acp                      = -1\n  | asf                      = 25%\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 104\n  | material                 = Red Dragonscale\n  | hardness                 = 13\n  | basevalue                = 1,675 pp\n  | weight                   = 30 lbs\n  | released                 = Update 65\n  | quest                    = Catastrophe\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|a|2}}\n* {{Stat|Strength|3}}\n* {{NaturalArmor|3}}\n* {{Save|Reflex|2|Insightful}}\n* {{Sheltering|8|Enhancement|Physical}}\n* {{Stat|Constitution|1|Insightful}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | description              = These crimson scales have had their draconic magic replaced with lingering Transmutation magic. However they're still tougher than their appearance lets on.\n  | pic                      = Scarlet Scalemail shown.jpg\n  | picdesc                  = Scarlet Scalemail.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Red Dragonscale",
+  "armor_type": "Medium Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Strength +3",
+      "tooltip": "Strength +3: This item gives the wearer the power of Ogre Strength, granting a +3 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +3"
+        }
+      ]
+    },
+    {
+      "text": "Natural Armor +3",
+      "tooltip": "Natural Armor +3: Passive: +3 Natural Armor Bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Natural_armor_bonus",
+          "title": "Natural armor bonus",
+          "text": "Natural Armor +3"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Reflex Save +2",
+      "tooltip": "Insightful Reflex Save +2: This item gives a +2 Insight bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Insightful Reflex Save +2"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +8",
+      "tooltip": "Physical Sheltering +8: +8 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +8"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Constitution +1",
+      "tooltip": "Insightful Constitution +1: This item gives the wearer improved health, granting a +1 Insight bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Insightful Constitution +1"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

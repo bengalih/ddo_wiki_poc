@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Razorclaw's Armguards",
+  "page_id": 86985,
+  "revision_id": 634138,
+  "revision_timestamp": "2025-04-22T03:01:48Z",
+  "fetched_at": "2026-08-17T22:42:39.480971+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Razorclaw's Armguards\n  | type                     = Bracers\n  | race                     = Razorclaw Shifter\n  | basevalue                = 6,010 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Wrist\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 15\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CON|6}}\n* {{Reinforced Fists}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Bracers Generic.png\n  | picdesc                  = Razorclaw's Armguards.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Constitution +6",
+      "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +6"
+        }
+      ]
+    },
+    {
+      "text": "Reinforced Fists",
+      "tooltip": "Reinforced Fists: This item surrounds your fists with kinetic energy. Your unarmed damage is boosted by one half die.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reinforced_Fists",
+          "title": "Reinforced Fists",
+          "text": "Reinforced Fists"
+        }
+      ]
+    }
+  ]
+}

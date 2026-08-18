@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Gerard's Mail",
+  "page_id": 8108,
+  "revision_id": 631045,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:09:46.524813+00:00",
+  "categories": [],
+  "wikitext": "{{History|Item}}\n{{Named item|Armor\n  | name                     = Gerard's Mail\n  | feat                     = Light\n  | type                     = Chain Shirt\n  | minlevel                 = 1\n  | bind                     = {{Bind|BtC|BoE}}\n  | ac                       = +5\n  | maxdexbonus              = 7\n  | asf                      = 5%\n  | durability               = 42\n  | material                 = Mithral\n  | hardness                 = 15\n  | basevalue                = 510 pp\n  | weight                   = 25 lbs\n  | quest                    = The Crypt of Gerard Dryden\n  | chest                    = old End Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|1}}\n* {{Mat|Mithral}}\n* {{Augment|Blue}}\n  | description              = This chain shirt was taken from the sarcophagus of [[Gerard Dryden]].\n  | pic                      = Gerard's Mail shown.jpg\n  | picdesc                  = Gerard's Mail.png\n  | notes                    = Since [[U45|Update 45]] this item no longer drops in-game.\n}}",
+  "item_template": "History",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Chain Shirt",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Mithral",
+      "tooltip": "Mithral: Mithral armor is one type lighter then normal. Arcane Spell Failure decreased by 10%. Maximum dexterity bonus increased by 2. Armor check penalty reduced by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mithral",
+          "title": "Mithral",
+          "text": "Mithral"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

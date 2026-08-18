@@ -1,0 +1,44 @@
+{
+  "page_title": "Item:Hero's Leathers (level 27)",
+  "page_id": 41480,
+  "revision_id": 649973,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:21:19.527957+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Hero's Leathers\n  | type                     = Leather\n  | feat                     = Light\n  | minlevel                 = 27\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +19\n  | maxdexbonus              = 18\n  | acp                      = 0\n  | asf                      = 10%\n  | durability               = 252\n  | material                 = Spiritcraft Leather\n  | hardness                 = 26\n  | basevalue                = 10,801pp\n  | weight                   = 15 lbs\n  | released                 = Update 19\n  | quest                    = Through a Mirror Darkly\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|10}}\n* {{Heroism|Greater}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Leathers of the Woodsman shown.jpg <!--same style-->\n  | picdesc                  = Hero's Leathers (Level 27).png\n  | description              = \n  | notes                    = {{Non-food|WAI}}\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Spiritcraft Leather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "+10 Enhancement Bonus",
+      "tooltip": "+10 Enhancement Bonus: +10 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+10 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Greater Heroism",
+      "tooltip": "Greater Heroism: Passive: +4 morale bonus to all your attack rolls, saving throws, and skill checks. Does not grant immunity to Fear.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heroism_(enchantment)",
+          "title": "Heroism (enchantment)",
+          "text": "Greater Heroism"
+        }
+      ]
+    }
+  ]
+}

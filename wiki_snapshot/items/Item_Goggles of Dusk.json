@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Goggles of Dusk",
+  "page_id": 98755,
+  "revision_id": 689542,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:13:06.016404+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Goggles of Dusk\n  | minlevel                 = 16\n  | type                     = Goggles\n  | slot                     = Eye\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 260\n  | material                 = Steel\n  | hardness                 = 36\n  | cost                     = 6,401 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 57\n  | revamped                 = Update 80\n  | quest                    = Army of Eternal Night\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Stat|Wisdom|1|Quality}}\n* {{Spell Focus|Evocation|5}}\n* {{Spell Focus|Evocation|2|Insightful}}\n* {{Spell Focus|Spell Focus Mastery|1|Quality}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | description              = The world through these goggles looks dead and decayed.\n  | pic                      = Goggles of Dusk shown.jpg\n  | picdesc                  = Goggles of Dusk.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Quality Wisdom +1",
+      "tooltip": "Quality Wisdom +1: This item makes the wearer more in tune with her surroundings, granting a +1 Quality bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Quality Wisdom +1"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus +5",
+      "tooltip": "Evocation Focus +5: +5 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus +5"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Evocation Focus +2",
+      "tooltip": "Insightful Evocation Focus +2: +2 Insight bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Evocation Focus +2"
+        }
+      ]
+    },
+    {
+      "text": "Quality Spell Focus Mastery +1",
+      "tooltip": "Quality Spell Focus Mastery +1: +1 Quality bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Quality Spell Focus Mastery +1"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Goggle Boost +1 or +3",
+      "tooltip": "Mythic Goggle Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Goggle Boost"
+        }
+      ]
+    }
+  ]
+}

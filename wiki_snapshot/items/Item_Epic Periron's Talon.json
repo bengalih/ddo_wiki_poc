@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Epic Periron's Talon",
+  "page_id": 51289,
+  "revision_id": 700639,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:53:06.739206+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Periron's Talon\n  | sentience                = yes\n  | damage                   = 4.20[1d6] + 7 Pierce, Adamantine, Magic\n  | crit                     = 20 / x4\n  | type                     = Heavy Pick\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 26\n  | durability               = 325\n  | material                 = Adamantine\n  | hardness                 = 46\n  | basevalue                = 10,720 pp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 25\n  | quest                    = ToEE: Fire Node\n  | chest                    = [[Periron]]'s chest ''(unverified)''\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|7}}\n* {{Bane|Construct|Greater}}\n* {{Mat|Adamantine}}\n* {{Telekinetic|Epic}}\n* {{Blast|Flaming|Greater}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Epic Periron's Talon shown.jpg\n  | picdesc                  = Epic Periron's Talon.png\n  | tips                     = \n}}\n[[Category:ToEE: Fire Node loot]]\n[[Category:ToEE: Water Node loot]]\n[[Category:ToEE: Earth Node loot]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Heavy Pick",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Greater Construct Bane",
+      "tooltip": "Greater Construct Bane: A bane weapon excels at attacking one type or subtype of creature. Against Constructs, this weapon's effective enhancement bonus is +4 better than its normal enhancement bonus. It deals an extra 3 to 18 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Greater Construct Bane"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Epic Telekinetic",
+      "tooltip": "Epic Telekinetic: Targets that suffer a critical hit from a Telekinetic weapon must make a DC 35 Strength or Dexterity check or be knocked down. The target will then be forced to make DC 16 Balance checks to recover from this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Telekinetic#Epic_Telekinetic",
+          "title": "Telekinetic",
+          "text": "Epic Telekinetic"
+        }
+      ]
+    },
+    {
+      "text": "Greater Flaming Blast",
+      "tooltip": "Greater Flaming Blast: A flaming blast weapon is sheathed in fire. Critical hits with this weapon deal an additional 4 to 40 fire damage for weapons with a x2 critical multiplier, 6 to 60 for a x3 critical multiplier, and 8 to 80 for a x4 multiplier. Additionally, if you roll a 20 when attacking and confirm the critical hit, the weapon blasts your target, doing 6 to 36 more fire damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Greater_Flaming_Blast",
+          "title": "Greater Flaming Blast",
+          "text": "Greater Flaming Blast"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

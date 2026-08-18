@@ -1,0 +1,40 @@
+{
+  "page_title": "Item:Pirate's Bandana",
+  "page_id": 20640,
+  "revision_id": 633974,
+  "revision_timestamp": "2025-04-22T02:50:15Z",
+  "fetched_at": "2026-08-17T22:38:16.907099+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Pirate's Bandana\n  | type                     = Helm\n  | slot                     = Head\n  | durability               = 130\n  | material                 = Cloth\n  | hardness                 = 22\n  | basevalue                = 120pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 0\n  | bind                     = {{Bind|no}}\n  | quest                    = Special event items\n  | chest                    = [[Special event history#Talk Like a Pirate Day (September 1, 2007)|Talk Like a Pirate Day]]\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CHA|1}}\n* {{skills|Hide|5}}\n  | description              = Found in an old pirate's cache, this bandana is favored by those who enjoy skulking in the shadows.\n  | pic                      = Helm Generic Bandana.png\n  | picdesc                  = Pirate's Bandana.png\n  | tips                     = This is a rare item that is no longer obtainable except through trading, as it is unbound.\n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "enchantments": [
+    {
+      "text": "Charisma +1",
+      "tooltip": "Charisma +1: This item makes the wearer have more flair, granting a +1 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +1"
+        }
+      ]
+    },
+    {
+      "text": "Hide +5",
+      "tooltip": "Hide +5: Passive: +5 Competence bonus to the Hide skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hide",
+          "title": "Hide",
+          "text": "Hide +5"
+        }
+      ]
+    }
+  ]
+}

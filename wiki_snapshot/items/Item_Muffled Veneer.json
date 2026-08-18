@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Muffled Veneer",
+  "page_id": 10094,
+  "revision_id": 633632,
+  "revision_timestamp": "2025-04-22T02:26:25Z",
+  "fetched_at": "2026-08-17T22:29:01.697142+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Muffled Veneer\n  | type                     = Helm\n  | slot                     = Head\n  | durability               = 120\n  | material                 = Steel\n  | hardness                 = 21\n  | basevalue                = 4420pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 11\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Tattered Tapestries\n  | turn in                  = 20 Tattered Tapestries\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|ms|11}}\n* {{Skills|hide|11}}\n* {{Skills|search|10}}\n* {{Augment|Yellow}}\n  | description              = This hood and face guard are rumored to have belonged to Captain Slipclaw, an infamous pillager of early Stormreach.\n  | pic                      = Muffled Veneer shown.jpg\n  | picdesc                  = Muffled Veneer.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Move Silently +11",
+      "tooltip": "Move Silently +11: Passive: +11 Competence bonus to the Move Silently skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Move_Silently",
+          "title": "Move Silently",
+          "text": "Move Silently +11"
+        }
+      ]
+    },
+    {
+      "text": "Hide +11",
+      "tooltip": "Hide +11: Passive: +11 Competence bonus to the Hide skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hide",
+          "title": "Hide",
+          "text": "Hide +11"
+        }
+      ]
+    },
+    {
+      "text": "Search +10",
+      "tooltip": "Search +10: Passive: +10 Competence bonus to the Search skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Search",
+          "title": "Search",
+          "text": "Search +10"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

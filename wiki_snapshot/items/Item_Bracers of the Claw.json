@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Bracers of the Claw",
+  "page_id": 12026,
+  "revision_id": 628731,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:14:37.830309+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Bracers of the Claw\n  | type                     = Bracers\n  | class                    = Jewelry\n  | basevalue                = 1,605pp\n  | weight                   = 0.10 lbs\n  | slot                     = Wrist\n  | durability               = 50\n  | material                 = Leather\n  | hardness                 = 10\n  | minlevel                 = 7\n  | bind                     = {{Bind|BtA|BoA}}\n  | revamped                 = Update 36\n  | released                 = Update 6\n  | quest                    = Into the Deep\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Named item sets|Vulkoor's Might}}\n* {{Stat|CON|5}}\n* {{Fortification|70}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Bracers of the Claw\n  | description              = Drow warriors don these bracers before combat and are granted great power in battle. They claim the bracers are infused with Vulkoor's Wrath.\n  | pic                      = Bracers Generic Claw.png\n  | picdesc                  = Bracers of the Claw.png\n  | tips                     = \n}}\n[[Category:Into the Deep reward items]]",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Vulkoor's Might",
+      "tooltip": "Vulkoor's Might: 2 Pieces Equipped:+20% Artifact bonus to Threat Generation+3 Artifact bonus to Attack+3 Artifact bonus to Damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Vulkoor's_Might",
+          "title": "Named item sets",
+          "text": "Vulkoor's Might"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +5",
+      "tooltip": "Constitution +5: This item gives the wearer improved health, granting a +5 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +5"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +70%",
+      "tooltip": "Fortification +70%: +70% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +70%"
+        }
+      ]
+    }
+  ]
+}

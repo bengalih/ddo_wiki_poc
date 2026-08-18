@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Spider Spike",
+  "page_id": 4896,
+  "revision_id": 672701,
+  "revision_timestamp": "2026-01-25T19:02:53Z",
+  "fetched_at": "2026-08-17T23:04:10.160638+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Spider Spike\n  | damage                   = [1d6] + 2 Pierce, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Rapier\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Martial\n  | minlevel                 = 2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 65\n  | material                 = Steel\n  | hardness                 = 12\n  | bind                     = {{Bind|BtA|BoA}}\n  | basevalue                = 802 pp\n  | weight                   = 2 lbs\n  | quest                    = The Seal of Shan-To-Kor\n  | end reward               = yes\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|2}}\n* {{Bane|Vermin|lesser}}\n* {{Augment|Red}}\n  | description              = This is actually a full fledged Hobgoblin war sword that has been sharpened down over the years to the point where its primary function is sticking spiders and other giant bugs that intrude on Hobgoblin territory.\n  | pic                      = Spider Spike shown.jpg\n  | picdesc                  = Spider Spike.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Rapier",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Vermin Bane",
+      "tooltip": "Lesser Vermin Bane: A bane weapon excels at attacking one type or subtype of creature. Against Vermins, this weapon's effective enhancement bonus is +1 better than its normal enhancement bonus. It deals an extra 1 to 6 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Lesser Vermin Bane"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

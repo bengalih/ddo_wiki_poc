@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Interogator's Shield",
+  "page_id": 2739,
+  "revision_id": 631564,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:24:17.203445+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Large\n  | prof                     = General\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|boa}}\n  | sb                       = +5\n  | dr                       = 5\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = [1d6] + 2\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | durability               = 95\n  | material                 = Steel\n  | hardness                 = 12\n  | basevalue                = 802 pp\n  | weight                   = 15 lbs\n  | quest                    = The Lost Seekers\n  | end reward               = yes\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement bonus|s|2}}\n* {{Skills|intim|3}}\n* {{Augment|Colorless}}\n  | description              = A particularly sadistic kobold used this shield as a large mask to scare other kobolds into giving him information.\n  | pic                      = Interogator's Shield shown.jpg\n  | picdesc                  = Interogator's Shield.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Steel",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Intimidate +3",
+      "tooltip": "Intimidate +3: Passive: +3 Competence bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Intimidate +3"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

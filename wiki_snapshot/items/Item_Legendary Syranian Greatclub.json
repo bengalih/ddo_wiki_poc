@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Legendary Syranian Greatclub",
+  "page_id": 89870,
+  "revision_id": 633026,
+  "revision_timestamp": "2025-04-22T01:45:34Z",
+  "fetched_at": "2026-08-17T22:11:22.079405+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Syranian Greatclub\n  | minlevel                 = 29\n  | type                     = Great Club\n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | hand                     = Two-handed\n  | damage                   = 4.80[1d10+4] + 15 Bludgeon, Good, Adamantine, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 365\n  | material                 = Adamantine\n  | hardness                 = 49\n  | cost                     = 11,900 pp 5 gp\n  | weight                   = 8 lbs\n  | released                 = Update 42\n  | quest                    = Syranian Forged Weaponry\n  | end reward               = \n  | turn in                  = 1 [[Dampening Alloy]], 1 [[Energizing Alloy]], 1 [[Caustic Compound]], 1 [[Stabilizing Compound]]\n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Electrifying|6}}\n* {{Holy|6|1}}\n* {{Bane|Construct|6}}\n* {{Mat|Adamantine}}\n* {{Augment|Red}}\n  | crafting                 = \n  | description              = This tempered Adamantine weapon emanates subtle electrical power.\n  | pic                      = Syranian Greatclub shown.jpg\n  | picdesc                  = Legendary Syranian Greatclub.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Electrifying 6",
+      "tooltip": "Electrifying 6: This effect causes the edges of this weapon to arc with electricity, dealing 6d6 Lightning damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electrifying",
+          "title": "Electrifying",
+          "text": "Electrifying 6"
+        }
+      ]
+    },
+    {
+      "text": "Holy 6",
+      "tooltip": "Holy 6: This weapon is wielded by the pure to smite the wicked, dealing an additional 6d6 good damage on each hit. This effect makes the weapon good aligned. Evil characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Holy 6"
+        }
+      ]
+    },
+    {
+      "text": "Construct Bane 6",
+      "tooltip": "Construct Bane 6: This weapon is attuned specifically to disrupt creations, dealing an additional 6d10 bane damage vs. Constructs.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Construct Bane 6"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Elemental Khopesh of Water (level 4)",
+  "page_id": 42860,
+  "revision_id": 649081,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:42:13.891926+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Elemental Khopesh of Water}}\n  | damage                   = [1d8] + 1 Slash, Magic\n  | crit                     = 19-20 / x3\n  | type                     = Khopesh\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Exotic\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 105\n  | material                 = Steel\n  | hardness                 = 14\n  | minlevel                 = 4\n  | basevalue                = 1,602pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various challenge ingredients\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|1}}\n* {{Frost}}\n* {{Elemental Resistance|Fire|11}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = \n  | description              = This khopesh is part of a mass-produced line of the House Cannith weapons with elementals bound to them. This one is infused with water and deals cold damage as a result.\n  | pic                      = Elemental Khopesh of Water shown.jpg\n  | picdesc                  = Elemental Khopesh of Water (Level 4).png\n  | tips                     = '''See also:''' [[Elemental Khopesh of Water]] - Full table of the Elemental Khopesh of Water\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Khopesh",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Frost",
+      "tooltip": "Frost: This weapon is sheathed in icy cold. A frost weapon deals an extra 1 to 6 points of cold damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Frost",
+          "title": "Frost",
+          "text": "Frost"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +11",
+      "tooltip": "Fire Resistance +11: Passive: +11 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +11"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "page_title": "Item:The Slaughtering Shot",
+  "page_id": 121946,
+  "revision_id": 667266,
+  "revision_timestamp": "2025-11-21T11:08:51Z",
+  "fetched_at": "2026-08-17T23:16:33.698324+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name            = The Slaughtering Shot\n  | historic        = FALSE\n  | prof            = Simple\n  | sentience       = \n  | damage          = 6[1d8+3] + 15 Pierce, Silver, Adamantine, Mithril, Cold Iron, Magic, Byeshk\n  | crit            = 19-20 / x2\n  | type            = Light Crossbow\n  | class           = Ranged\n  | race            = none\n  | minlevel        = 34\n  | reqtrait        = <!-- Leave blank if not used-->\n  | UMD DC          = <!-- Leave blank if not used-->\n  | hand            = Ranged\n  | attackmod       = DEX\n  | damagemod       = DEX\n  | bind            = {{Bind|BtC|BoA}}\n  | durability      = 415\n  | material        = Steel\n  | hardness        = 44\n  | cost            = 13603500cp\n  | weight          = 4 lbs\n  | released        = Update 75\n  | revamped        = Update 76\n  | quest           = Relentless\n  | chest           = end chest\n  | epic            = no\n  | legendary       = no\n  | enhancements    = \n* {{Enhancement bonus|w|15}}\n* {{Murderous|Point}}\n* {{Revel in Blood|Piercing}}\n* {{Lamordia Slot|Melancholic|Weapon}}\n* {{Lamordia Slot|Dolorous|Weapon}}\n* {{Lamordia Slot|Miserable|Weapon}}\n* {{Lamordia Slot|Woeful|Weapon}}\n* {{Augment|Orange}}\n* {{Augment|Purple}}\n  | crafting        = Viktranium Experiment crafting\n  | craftingupgrade = <!--What item can be upgraded to-->\n  | description     = Small slots in this weapon could easily fit small augmentation devices.\n  | pic             = The Slaughtering Shot shown.jpg\n  | picdesc         = The Slaughtering Shot.png\n  | tips            = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Light Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 34,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Murderous Point",
+      "tooltip": "Murderous Point: On hit: 16d6 Piercing Damage. This item is considered Metalline, bypassing all kinds of material damage resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Murderous_Point",
+          "title": "Murderous Point",
+          "text": "Murderous Point"
+        }
+      ]
+    },
+    {
+      "text": "Revel in Blood (Piercing)",
+      "tooltip": "Revel in Blood (Piercing): Your weapon hungers to let blood flow. Your attacks and offensive spells have a high chance to deal very strong Bane damage over time to creatures vulnerable to Bleeding. On weapon crit: 16d6 Piercing Damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Revel_in_Blood",
+          "title": "Revel in Blood",
+          "text": "Revel in Blood (Piercing)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Melancholic Slot (Weapon)",
+      "tooltip": "Lamordia: Melancholic Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Melancholic Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Dolorous Slot (Weapon)",
+      "tooltip": "Lamordia: Dolorous Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Dolorous Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Miserable Slot (Weapon)",
+      "tooltip": "Lamordia: Miserable Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Miserable Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Woeful Slot (Weapon)",
+      "tooltip": "Lamordia: Woeful Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Woeful Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

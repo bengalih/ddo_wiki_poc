@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Aquatic Bracers (historic)",
+  "page_id": 35559,
+  "revision_id": 628282,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:04:06.031847+00:00",
+  "categories": [],
+  "wikitext": "{{History||type=Item|replaced={{Item|Aquatic Bracers}}}}\n{{Named item|Jewelry\n  | name                     = {{Item|Aquatic Bracers}}\n  | minlevel                 = 11\n  | type                     = Bracers\n  | slot                     = Wrist\n  | bind                     = {{Bind|no}}\n  | durability               = 60\n  | material                 = Leather\n  | hardness                 = 15\n  | basevalue                = 2,520 pp\n  | weight                   = 0.10 lbs\n  | quest                    = The Crucible\n  | chest                    = Underwater Chest\n  | mythic                   = no\n  | enhancements             = \n* [[Underwater Action]]\n* {{Skills|Swim|13}}\n* {{Elemental Resistance|Cold|20}}\n  | description              = These bracers are crafted from a very lightweight metal, and sport fin-like protrusions on their sides.\n  | pic                      = Bracers Generic Claw.png\n  | picdesc                  = Aquatic Bracers.png\n  | tips                     = \n}}",
+  "item_template": "History",
+  "material": "Leather",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Underwater Action",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Underwater_Action",
+          "title": "Underwater Action",
+          "text": "Underwater Action"
+        }
+      ]
+    },
+    {
+      "text": "Swim +13",
+      "tooltip": "Swim +13: Passive: +13 Competence bonus to the Swim skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Swim",
+          "title": "Swim",
+          "text": "Swim +13"
+        }
+      ]
+    },
+    {
+      "text": "Cold Resistance +20",
+      "tooltip": "Cold Resistance +20: Passive: +20 Enhancement bonus to your Cold Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Resistance",
+          "title": "Cold Resistance",
+          "text": "Cold Resistance +20"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Engraved Circlet",
+  "page_id": 9626,
+  "revision_id": 629806,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:43:44.783904+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Engraved Circlet\n  | type                     = Helm\n  | class                    = Clothing\n  | basevalue                = 110 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Head\n  | durability               = 20\n  | material                 = Leather\n  | hardness                 = 6\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Stopping the Sahuagin\n  | chest                    = \n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Save|W|1}}\n  | description              = A series of ornate carvings cover this slightly tarnished circlet.\n  | pic                      = Mystic Band shown.jpg  <!--Identical Style -->\n  | picdesc                  = Engraved Circlet.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "enchantments": [
+    {
+      "text": "Will Save +1",
+      "tooltip": "Will Save +1: This item gives a +1 Resistance bonus to your Will saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Will_save",
+          "title": "Will save",
+          "text": "Will Save +1"
+        }
+      ]
+    }
+  ]
+}

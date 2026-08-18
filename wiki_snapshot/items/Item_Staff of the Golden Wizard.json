@@ -1,0 +1,114 @@
+{
+  "page_title": "Item:Staff of the Golden Wizard",
+  "page_id": 15707,
+  "revision_id": 635014,
+  "revision_timestamp": "2025-04-22T03:59:37Z",
+  "fetched_at": "2026-08-17T23:05:00.908575+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Staff of the Golden Wizard\n  | damage                   = 3[1d6] + 5 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Simple\n  | durability               = 160\n  | material                 = Wood\n  | hardness                 = 18\n  | minlevel                 = 0\n  | quest                    = The Shroud\n  | chest                    = available at start of the first phase\n  | basevalue                = 12,800pp 2cp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|no|drops=both}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|5}}\n* {{Spellpen|iii}}\n* {{Spelllore|spell|vi}}\n* {{Stat|CHA|6}}\n* {{Stat|INT|6}}\n* {{SpellPower|Potency|60}}\n* {{clicky|Fireball|5|50|no}}\n  | crafting                 = <!--Type of crafting-->\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | pic                      = Staff of the Golden Wizard shown.jpg\n  | picdesc                  = Staff of the Golden Wizard.png\n  | description              = This staff was taken from the body of the famed pyromancer of the old times, the Golden Wizard.\n  | tips                     = This is an in-quest only item and drops upon death or leaving part 1 of the adventure.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +15",
+      "tooltip": "Spellcasting Implement +15: Passive: +15 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +15"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration III",
+      "tooltip": "Spell Penetration III: Passive: +3 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration III"
+        }
+      ]
+    },
+    {
+      "text": "Spell Lore VI",
+      "tooltip": "Spell Lore VI: Passive: All of your spells gain a 6% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Spell Lore VI"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +6",
+      "tooltip": "Charisma +6: This item makes the wearer have more flair, granting a +6 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +6"
+        }
+      ]
+    },
+    {
+      "text": "Intelligence +6",
+      "tooltip": "Intelligence +6: This item focuses the power of the wearer's mind, granting a +6 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +6"
+        }
+      ]
+    },
+    {
+      "text": "Potency +60",
+      "tooltip": "Potency +60: Passive: +60 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +60"
+        }
+      ]
+    },
+    {
+      "text": "Fireball — 50 Charges",
+      "tooltip": "FireballCaster level: 5Charges: 50",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fireball",
+          "title": "Fireball",
+          "text": "Fireball"
+        }
+      ]
+    }
+  ]
+}

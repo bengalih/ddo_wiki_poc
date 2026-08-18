@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Crisis Scale",
+  "page_id": 113781,
+  "revision_id": 685109,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:28:07.686670+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Crisis Scale\n  | minlevel                 = 13\n  | type                     = Medium Armor\n  | feat                     = Medium\n  | ac                       = +21\n  | maxdexbonus              = 3\n  | acp                      = -1\n  | asf                      = 25%\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 258\n  | material                 = Bone\n  | hardness                 = 22\n  | basevalue                = 5,275 pp\n  | weight                   = 30 lbs\n  | released                 = Update 73\n  | quest                    = Dinosaur Crisis\n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{NaturalArmor|7}}\n* {{Fortification|21|Quality}}\n* {{Save|Fortitude|3|Insightful}}\n* {{Hp|Vitality|23}}\n* {{Augment|Blue}}\n* {{Augment|Sun}}\n  | crafting                 = \n  | description              = \n  | pic                      = Crisis Scale shown.jpg\n  | picdesc                  = Crisis Scale.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Bone",
+  "armor_type": "Medium Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Natural Armor +7",
+      "tooltip": "Natural Armor +7: Passive: +7 Natural Armor Bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Natural_armor_bonus",
+          "title": "Natural armor bonus",
+          "text": "Natural Armor +7"
+        }
+      ]
+    },
+    {
+      "text": "Quality Fortification +21%",
+      "tooltip": "Quality Fortification +21%: +21% Quality bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Quality Fortification +21%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Fortitude Save +3",
+      "tooltip": "Insightful Fortitude Save +3: This item gives a +3 Insight bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Insightful Fortitude Save +3"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +23",
+      "tooltip": "Vitality +23: Passive: +23 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +23"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

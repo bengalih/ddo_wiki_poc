@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Leopard's Chill",
+  "page_id": 51384,
+  "revision_id": 700631,
+  "revision_timestamp": "2026-07-27T10:43:33Z",
+  "fetched_at": "2026-08-17T22:16:30.658219+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Leopard's Chill\n  | damage                   = [1d6] + 3 Slash, Good, Silver, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Scimitar\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 7\n  | durability               = 130\n  | material                 = Steel\n  | hardness                 = 15\n  | basevalue                = 2,829 pp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 25\n  | revamped                 = Update 76\n  | quest                    = ToEE: Water Node\n  | chest                    = [[Jotun Rimeblade]]'s chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Bane|Evil Outsider|Lesser}}\n* {{Mat|Silver}}, Alchemical\n* {{Freezing Ice}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Leopard's Chill shown.jpg\n  | picdesc                  = Leopard's Chill.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Scimitar",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Evil Outsider Bane",
+      "tooltip": "Lesser Evil Outsider Bane: A bane weapon excels at attacking one type or subtype of creature. Against Evil Outsiders, this weapon's effective enhancement bonus is +1 better than its normal enhancement bonus. It deals an extra 1 to 6 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Lesser Evil Outsider Bane"
+        }
+      ]
+    },
+    {
+      "text": "Silver , Alchemical",
+      "tooltip": "Silver: A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as devils and vampires. Silver weapons have 2 points lower hardness then equivalent steel weapons, and as such aren't quite as durable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Silver",
+          "title": "Silver",
+          "text": "Silver"
+        }
+      ]
+    },
+    {
+      "text": "Freezing Ice",
+      "tooltip": "Freezing Ice :",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Freezing_Ice",
+          "title": "Freezing Ice",
+          "text": "Freezing Ice"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

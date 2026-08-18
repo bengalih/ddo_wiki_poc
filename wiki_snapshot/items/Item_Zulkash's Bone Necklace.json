@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Zulkash's Bone Necklace",
+  "page_id": 5020,
+  "revision_id": 635884,
+  "revision_timestamp": "2025-04-22T04:57:57Z",
+  "fetched_at": "2026-08-17T23:28:27.356085+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Zulkash's Bone Necklace\n  | slot                     = Neck\n  | durability               = 60\n  | material                 = Bone\n  | hardness                 = 9\n  | basevalue                = 2,005 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 5\n  | bind                     = {{Bind|BtA|BoA}}\n  | type                     = Necklace\n  | quest                    = Assault on Splinterskull\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{SpellPower|Nullification|42}}\n* {{Augment|Yellow}}\n  | description              = This necklace was crafted by Zulkash, Splinterskull witch-doctor. Some of the bones appear humanoid.\n  | pic                      = Necklace Generic Bright.png\n  | picdesc                  = Zulkash's Bone Necklace.png\n}}",
+  "item_template": "Named item",
+  "material": "Bone",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Nullification +42",
+      "tooltip": "Nullification +42: Passive: +42 Equipment bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Nullification +42"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

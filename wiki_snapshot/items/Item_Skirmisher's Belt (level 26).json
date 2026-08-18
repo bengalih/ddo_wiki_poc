@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Skirmisher's Belt (level 26)",
+  "page_id": 41442,
+  "revision_id": 649775,
+  "revision_timestamp": "2025-07-26T19:12:47Z",
+  "fetched_at": "2026-08-17T22:59:57.636502+00:00",
+  "categories": [],
+  "wikitext": "{{Non-food|WAI=true}}\n{{Named item|Clothing\n  | name                     = Skirmisher's Belt\n  | type                     = Belt\n  | basevalue                = 10,420 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 180\n  | material                 = Leather\n  | hardness                 = 27\n  | minlevel                 = 26\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 19\n  | quest                    = A Lesson in Deception\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Speed|IX}}\n* {{Seeker|viii}}\n  | description              = \n  | pic                      = Belt Generic Faith.png\n  | picdesc                  = Skirmisher's Belt (Level 26).png\n  | tips                     = \n}}",
+  "item_template": "Non-food",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "Speed IX",
+      "tooltip": "Speed IX: Passive: +30% enhancement bonus to movement speed, +9% enhancement bonus to melee and ranged attack speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Speed",
+          "title": "Speed",
+          "text": "Speed IX"
+        }
+      ]
+    },
+    {
+      "text": "Seeker +8",
+      "tooltip": "Seeker +8: Provides a +8 Enhancement bonus to confirm critical hits, and a +8 Enhancement bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Seeker +8"
+        }
+      ]
+    }
+  ]
+}

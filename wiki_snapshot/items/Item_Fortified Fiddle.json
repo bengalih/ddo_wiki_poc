@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Fortified Fiddle",
+  "page_id": 83156,
+  "revision_id": 630989,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:08:11.659396+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Fortified Fiddle\n  | type                     = Buckler\n  | prof                     = General\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 15\n  | race                     = Tiefling Scoundrel\n  | bind                     = {{Bind|BtC|BoA}}\n  | sb                       = +6\n  | maxdexbonus              = \n  | dr                       = 7\n  | acp                      = 0\n  | asf                      = 0\n  | ap                       = \n  | dmg                      = 2[1d4] + 4\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attmod                   = STR\n  | damagemod                = STR\n  | durability               = 270\n  | material                 = Densewood\n  | hardness                 = 40\n  | basevalue                = 6001 pp 5 gp\n  | weight                   = 5 lbs\n  | epic                     = no\n  | mythic                   = no\n  | released                 = Update 42\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | turn in                  = \n  | chest                    = \n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Riposte|IV}}\n* {{Fortification|100}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This fine fiddle stays in tune even as it deflects the attacks of your enemies.\n  | pic                      = Fortified Fiddle shown.jpg\n  | picdesc                  = Fortified Fiddle.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Densewood",
+  "item_type": "Buckler",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Riposte IV",
+      "tooltip": "Riposte IV: When Missed by an attack: Deals 4 to 16 damage to your attacker. Passive: +2 Insight bonus to Armor Class, +2 Insight bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Riposte",
+          "title": "Riposte",
+          "text": "Riposte IV"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +100%",
+      "tooltip": "Fortification +100%: +100% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +100%"
+        }
+      ]
+    }
+  ]
+}

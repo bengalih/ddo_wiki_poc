@@ -1,0 +1,38 @@
+{
+  "page_title": "Item:Dampened Cacophonic Verge",
+  "page_id": 12654,
+  "revision_id": 629303,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:29:51.674020+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Eternal wand\n  | name                     = Dampened Cacophonic Verge\n  | umd                      = 19\n  | noumd                    = Wiz, Sor, Brd\n  | minlevel                 = 5\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | durability               = 25\n  | material                 = Wood\n  | hardness                 = 10\n  | cost                     = 800 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 6\n  | quest                    = The Claw of Vulkoor\n  | chest                    = [[Prince Gornard]]'s chest\n  | crafting                 = Altar of Vulkoor\n  | craftingupgrade          = Cacophonic Verge\n  | icon                     = SonicBlast.png\n  | spell                    = Sonic Blast (spell)\n  | casterlvl                = 4\n  | charge                   = 50\n  | picdesc                  = Dampened Cacophonic Verge.png\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Sonic Blast (spell)|8|50|50|label=Sonic Blast}}\n* {{Dampened}}\n  | description              = A thin rod of blackened wood containing charges of the Sonic Blast spell. Eternal wands recharge over time if they are not actively being used.\n}}<!-- No place for [[File:Dampened Cacophonic Verge orb.png]] right now, until the revamp. -->",
+  "item_template": "Named item",
+  "material": "Wood",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Sonic Blast — 50 Charges (Recharged/Day:50)",
+      "tooltip": "Sonic BlastCaster level: 8Charges: 50 (50/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sonic_Blast_(spell)",
+          "title": "Sonic Blast (spell)",
+          "text": "Sonic Blast"
+        }
+      ]
+    },
+    {
+      "text": "Dampened",
+      "tooltip": "Dampened: This item has been in a wet environment for too long and its original power has been weakened. Combine it with a Token of Vulkoor at the Altar of Vulkoor in the Red Fens to restore it back to its former glory.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dampened",
+          "title": "Dampened",
+          "text": "Dampened"
+        }
+      ]
+    }
+  ]
+}

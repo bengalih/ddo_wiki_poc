@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Shard Trinket of Mnemonic Enhancement",
+  "page_id": 12397,
+  "revision_id": 634621,
+  "revision_timestamp": "2025-04-22T03:33:41Z",
+  "fetched_at": "2026-08-17T22:55:08.024628+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Shard Trinket of Mnemonic Enhancement\n  | type                     = Trinket\n  | class                    = Jewelry\n  | minlevel                 = 0\n  | slot                     = Trinket\n  | durability               = 11\n  | material                 = Gem\n  | hardness                 = 21\n  | basevalue                = 400 pp\n  | weight                   = 0.10 lbs\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | quest                    = The Marketplace\n  | turn in                  = 3 [[Eberron Dragonshard|Medium Eberron Dragonshard]]s to [[Davyd Turner]].\n  | mythic                   = no\n  | enhancements             = \n* {{Mnemonic|enhancer|5|15|20|no}} - 20 Charges, No Recharges\n  | description              = This trinket periodically replenishes some of your spell points.\n  | pic                      = Gem Generic White.png\n  | picdesc                  = Shard Trinket of Mnemonic Enhancement.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "enchantments": [
+    {
+      "text": "Major Mnemonic EnhancerCharges: 20 - 20 Charges, No Recharges",
+      "tooltip": "Restores 105-600 spell points and dispels feeblemind.Caster level: 15 ~ - ~ ~ - ~ ~ - ~ ~ - ~",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mnemonic_Enhancer",
+          "title": "Mnemonic Enhancer",
+          "text": "Major Mnemonic Enhancer"
+        }
+      ]
+    }
+  ]
+}

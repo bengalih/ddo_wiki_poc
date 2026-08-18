@@ -1,0 +1,128 @@
+{
+  "page_title": "Item:Stormreaver's Tablecloth",
+  "page_id": 33999,
+  "revision_id": 690616,
+  "revision_timestamp": "2026-06-30T16:20:53Z",
+  "fetched_at": "2026-08-17T23:06:55.666345+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Stormreaver's Tablecloth\n  | type                     = Cloak\n  | slot                     = Back\n  | durability               = 260\n  | material                 = Cloth\n  | hardness                 = 35\n  | basevalue                = 10,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 25\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 17\n  | quest                    = The Fall of Truth \n  | chest                    = Raid warded chest (Epic Normal)\n  | enhancements             = \n* {{Stat|INT|8}}\n* {{Stat|CHA|8}}\n* {{Spell Focus|Spell|II}}\n* {{Attuned to Heroism}}\n  | crafting                 = Stormreaver Monument\n  | craftingupgrade          = \n  | description              = You hold in your hand a small shred of the huge tablecloth that was used by the Stormreaver in his final meal before the great cataclysm. You can't tell if the red stains on its surface are of wine or blood, but it does seem that everything is so much easier to understand now.\n  | pic                      = Stormreaver's Tablecloth Shown.jpg\n  | picdesc                  = Stormreaver's Tablecloth.png\n  | tips                     = \n* {{Popup|Tier 1|[[File:Stormreaver's Tablecloth (Tier 1).png|420px]]|long=y}}: Epic Hard or with {{Commendation|Heroism|5}}\n* {{Popup|Tier 2|[[File:Stormreaver's Tablecloth (Tier 2).png|420px]]|long=y}}: Epic Elite or with {{Commendation|Heroism|7}} (12 total)\n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "Intelligence +8",
+      "tooltip": "Intelligence +8: This item focuses the power of the wearer's mind, granting a +8 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +8"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +8",
+      "tooltip": "Charisma +8: This item makes the wearer have more flair, granting a +8 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +8"
+        }
+      ]
+    },
+    {
+      "text": "Spell Focus II",
+      "tooltip": "Spell Focus II: +2 Equipment bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Spell Focus II"
+        }
+      ]
+    },
+    {
+      "text": "Attuned to Heroism",
+      "tooltip": "This relic is attuned to heroic actions.",
+      "children": [
+        {
+          "text": "Attuned by Heroism: Tier 1",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Yellow Augment Slot",
+              "tooltip": "Yellow and Colorless",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Augment_Slot",
+                  "title": "Augment Slot",
+                  "text": "Yellow Augment Slot"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 1"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Spell Penetration III",
+              "tooltip": "Spell Penetration III: Passive: +3 Equipment bonus to Spell Penetration checks.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Spell_penetration",
+                  "title": "Spell penetration",
+                  "text": "Spell Penetration III"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 2"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Attuned_to_Heroism",
+          "title": "Attuned to Heroism",
+          "text": "Attuned to Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

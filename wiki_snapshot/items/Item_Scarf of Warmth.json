@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Scarf of Warmth",
+  "page_id": 11561,
+  "revision_id": 634480,
+  "revision_timestamp": "2025-04-22T03:24:29Z",
+  "fetched_at": "2026-08-17T22:51:18.934689+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Scarf of Warmth\n  | type                     = Necklace\n  | class                    = Jewelry\n  | slot                     = Neck\n  | durability               = 80 \n  | material                 = Leather \n  | hardness                 = 9\n  | basevalue                = 2,805 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 7\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = Caverns of Korromar\n  | chest                    = [[Oglethorpe the Prospector]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Elemental Resistance|Cold|20}}\n* {{Augment|Yellow}}\n  | description              = A thick, woolen scarf that looks far too warm for this tropical clime, it is imbued with magics to protect the wearer from cold.\n  | pic                      = Necklace Generic Scarf.png\n  | picdesc                  = Scarf of Warmth.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Cold Resistance +20",
+      "tooltip": "Cold Resistance +20: Passive: +20 Enhancement bonus to your Cold Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Resistance",
+          "title": "Cold Resistance",
+          "text": "Cold Resistance +20"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

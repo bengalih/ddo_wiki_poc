@@ -1,0 +1,107 @@
+{
+  "page_title": "Item:Gloves of Titan's Grip",
+  "page_id": 11540,
+  "revision_id": 631143,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:12:12.694052+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Gloves of Titan's Grip\n  | type                     = Gloves\n  | class                    = Clothing\n  | basevalue                = 10,020pp\n  | weight                   = 0.10 lbs\n  | slot                     = Hand\n  | durability               = 120\n  | material                 = Gold\n  | hardness                 = 12\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | quest                    = The Mindsunder\n  | chest                    = Disc locked optional end chest, End reward\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Titan's Grip|18|3|1}}\n* {{Stat|STR|+6}}\n*{{SuppressedPower}}\n  | crafting                 = Suppressed Power\n  | craftingupgrade          = \n  | description              = A pair of rough, oversized leather gloves.\n  | pic                      = Gloves Generic Titans.png\n  | picdesc                  = Gloves of Titan's Grip.png\n  | tips                     = \n* Titan's Grip clickie do not stack with [[Kensei enhancements#Power Surge|Power Surge]] since they both grant a [[Psionic bonus]].\n* Very fast cast time.\n* Unsuppressed: <br />\n: [[File:Gloves of Titan's Grip (unsuppressed).png|420px]]\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Titan's Grip — 3 Charges (Recharged/Day:1)",
+      "tooltip": "Titan's GripCaster level: 18Charges: 3 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Titan%27s_Grip",
+          "title": "Titan's Grip",
+          "text": "Titan's Grip"
+        }
+      ]
+    },
+    {
+      "text": "Strength +6",
+      "tooltip": "Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +6"
+        }
+      ]
+    },
+    {
+      "text": "Suppressed Power",
+      "tooltip": "Suppressed Power: This psionic item is powerful, but you sense that it has not unlocked all of its secrets to you at this time.",
+      "children": [
+        {
+          "text": "Adds Reconstruction +84",
+          "tooltip": "Reconstruction +84: Passive: +84 Equipment bonus to Repair and Rust Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Reconstruction",
+              "title": "Reconstruction",
+              "text": "Reconstruction +84"
+            }
+          ]
+        },
+        {
+          "text": "Adds Repair Lore V",
+          "tooltip": "Repair Lore V: Passive: Your Repair and Rust spells gain a 15% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Repair Lore V"
+            }
+          ]
+        },
+        {
+          "text": "Adds Repair Systems",
+          "tooltip": "Repair Systems: This item gradually repairs constructs and living constructs.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Repair_Systems",
+              "title": "Repair Systems",
+              "text": "Repair Systems"
+            }
+          ]
+        },
+        {
+          "text": "Becomes Bound to Character on Acquire, Exclusive",
+          "tooltip": null,
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bind",
+              "title": "Bind",
+              "text": "Bound to Character on Acquire"
+            },
+            {
+              "target": "/page/Exclusive",
+              "title": "Exclusive",
+              "text": "Exclusive"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Suppressed_Power",
+          "title": "Suppressed Power",
+          "text": "Suppressed Power"
+        }
+      ]
+    }
+  ]
+}

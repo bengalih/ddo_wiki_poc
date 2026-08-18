@@ -1,71 +1,21 @@
 from django.contrib import admin
 from django.db.models import Count
 
-from catalog.enhancement_rules import clear_rules_cache
 from catalog.models import (
-    Enhancement,
-    EnhancementRule,
-    EnhancementVariant,
+    Enchantment,
+    EnchantmentVariant,
     Item,
-    ItemEnhancement,
+    ItemEnchantment,
     SyncState,
 )
 
 
-@admin.register(EnhancementRule)
-class EnhancementRuleAdmin(admin.ModelAdmin):
-    list_display = [
-        "template_name",
-        "scope",
-        "handler",
-        "enabled",
-        "order",
-    ]
-    list_editable = [
-        "enabled",
-        "order",
-    ]
-    list_filter = [
-        "scope",
-        "enabled",
-        "handler",
-    ]
-    search_fields = [
-        "template_name",
-    ]
-
-    def save_model(
-        self,
-        request,
-        obj,
-        form,
-        change,
-    ):
-        super().save_model(
-            request,
-            obj,
-            form,
-            change,
-        )
-
-        clear_rules_cache()
-
-    def delete_model(
-        self,
-        request,
-        obj,
-    ):
-        super().delete_model(request, obj)
-
-        clear_rules_cache()
-
-
-class ItemEnhancementInline(admin.TabularInline):
+class ItemEnchantmentInline(admin.TabularInline):
     # Shown on an Item's admin page: each item has a manageable
-    # handful of enhancements, so inspecting them per item is fine.
-    # The raw ItemEnhancement table (tens of thousands of rows) is
+    # handful of enchantments, so inspecting them per item is fine.
+    # The raw ItemEnchantment table (tens of thousands of rows) is
     # not registered as its own admin section.
-    model = ItemEnhancement
+    model = ItemEnchantment
     extra = 0
     readonly_fields = [
         "variant",
@@ -80,25 +30,29 @@ class ItemAdmin(admin.ModelAdmin):
     list_display = [
         "name",
         "item_type",
+        "item_class",
+        "slot",
         "item_kind",
         "minimum_level",
+        "stale_status",
     ]
     search_fields = [
         "name",
         "wiki_title",
     ]
     inlines = [
-        ItemEnhancementInline,
+        ItemEnchantmentInline,
     ]
     readonly_fields = [
         "wiki_revision_id",
         "wiki_revision_timestamp",
+        "fetched_at",
         "updated_at",
     ]
 
 
-@admin.register(Enhancement)
-class EnhancementAdmin(admin.ModelAdmin):
+@admin.register(Enchantment)
+class EnchantmentAdmin(admin.ModelAdmin):
     list_display = [
         "name",
         "display_name",
@@ -119,10 +73,10 @@ class EnhancementAdmin(admin.ModelAdmin):
         return []
 
 
-@admin.register(EnhancementVariant)
-class EnhancementVariantAdmin(admin.ModelAdmin):
+@admin.register(EnchantmentVariant)
+class EnchantmentVariantAdmin(admin.ModelAdmin):
     list_display = [
-        "enhancement",
+        "enchantment",
         "value",
         "detail",
         "display_text",
@@ -130,24 +84,24 @@ class EnhancementVariantAdmin(admin.ModelAdmin):
         "item_count",
     ]
     search_fields = [
-        "enhancement__name",
-        "enhancement__display_name",
+        "enchantment__name",
+        "enchantment__display_name",
         "value",
         "detail",
         "display_text",
     ]
     list_filter = [
-        "enhancement",
+        "enchantment",
     ]
     autocomplete_fields = [
-        "enhancement",
+        "enchantment",
     ]
 
     def get_queryset(self, request):
         return (
             super()
             .get_queryset(request)
-            .select_related("enhancement")
+            .select_related("enchantment")
             .annotate(
                 _item_count=Count("items")
             )

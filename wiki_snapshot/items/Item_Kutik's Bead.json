@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Kutik's Bead",
+  "page_id": 10025,
+  "revision_id": 631703,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:27:51.819315+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Kutik's Bead\n  | type                     = Trinket\n  | basevalue                = 120 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Trinket\n  | chest                    = [[Witch Doctor Kutik]]'s chest\n  | quest                    = Garrison's Missing Pack\n  | durability               = 20\n  | material                 = Gem\n  | hardness                 = 16\n  | minlevel                 = 0\n  | bind                     = {{Bind|no}}\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|STR|1}}\n  | description              = A faint whispering sound surrounds this glowing black gem.\n  | pic                      = Gem Generic Black.png\n  | picdesc                  = Kutik's Bead.png\n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "enchantments": [
+    {
+      "text": "Strength +1",
+      "tooltip": "Strength +1: This item gives the wearer the power of Ogre Strength, granting a +1 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +1"
+        }
+      ]
+    }
+  ]
+}

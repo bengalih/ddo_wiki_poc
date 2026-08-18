@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Robe of Acid",
+  "page_id": 5697,
+  "revision_id": 690588,
+  "revision_timestamp": "2026-06-30T15:58:53Z",
+  "fetched_at": "2026-08-17T22:47:17.078727+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Robe of Acid\n  | type                     = Robe\n  | feat                     = Cloth\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtC|BoE}}\n  | ac                       = +5\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 65\n  | material                 = Cloth\n  | hardness                 = 8\n  | basevalue                = 2405.5pp\n  | weight                   = 0 lbs\n  | quest                    = The Pit\n  | chest                    = end chest\n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|5}}\n* {{Spell Focus|Conjuration|I}}\n* {{SpellPower|Corrosion|48}}\n* {{Augment|Green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Robe of Acid shown.jpg\n  | picdesc                  = Robe of Acid.png\n  | description              = A robe spun from acid infused threads that enhances the powers of the wielder to manipulate corrosive forces.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +5",
+      "tooltip": "Armor Bonus +5: This item surrounds the wearer with an invisible but tangible field of force, granting +5 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +5"
+        }
+      ]
+    },
+    {
+      "text": "Conjuration Focus I",
+      "tooltip": "Conjuration Focus I: +1 Equipment bonus to the DC of Conjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Conjuration Focus I"
+        }
+      ]
+    },
+    {
+      "text": "Corrosion +48",
+      "tooltip": "Corrosion +48: Passive: +48 Equipment bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Corrosion +48"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

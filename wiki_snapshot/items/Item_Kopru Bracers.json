@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Kopru Bracers",
+  "page_id": 96579,
+  "revision_id": 699375,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:27:30.049450+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Kopru Bracers\n  | minlevel                 = 7\n  | type                     = Bracers\n  | race                     = \n  | slot                     = Wrist\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 170\n  | material                 = Cloth\n  | hardness                 = 27\n  | cost                     = 2801 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | legendary                = no\n  | released                 = Update 55\n  | revamped                 = Update 80\n  | quest                    = Bullywugs and Booby Traps \n  | chest                    = end chest\n  | enhancements             = \n* {{HealingAmp|17|n|Profane}}\n* {{Spell Focus|Necromancy|3}}\n* {{Spell Focus|Illusion|3}}\n* {{Hp|Profane Lifeforce|15}}\n* {{Augment|Blue}}\n* {{Named item sets|The Dread Isle's Curse}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Kopru are capricious, evil creatures. Treat this item with care.\n  | pic                      = \n  | picdesc                  = Kopru Bracers.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Profane Negative Amplification +17",
+      "tooltip": "Negative Amplification: This effect amplifies all incoming negative energy healing by +17 (Profane bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Amplification",
+          "title": "Negative Amplification",
+          "text": "Profane Negative Amplification +17"
+        }
+      ]
+    },
+    {
+      "text": "Necromancy Focus +3",
+      "tooltip": "Necromancy Focus +3: +3 Equipment bonus to the DC of Necromancy spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Necromancy Focus +3"
+        }
+      ]
+    },
+    {
+      "text": "Illusion Focus +3",
+      "tooltip": "Illusion Focus +3: +3 Equipment bonus to the DC of Illusion spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Illusion Focus +3"
+        }
+      ]
+    },
+    {
+      "text": "Profane Lifeforce +15",
+      "tooltip": "Profane Lifeforce +15: +15 Profane bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hit_Point",
+          "title": "Hit Point",
+          "text": "Profane Lifeforce +15"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Dread Isle's Curse",
+      "tooltip": "The Dread Isle's Curse: 5 Pieces Equipped:+5 Profane bonus to Melee and Ranged Power+10 Profane bonus to Universal Spellpower+10 Profane bonus to Physical Resistance Rating+1 Profane bonus to Spell DCs+1 Profane bonus to all Ability ScoresThe Isle of Dread beckons you...",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Dread_Isle's_Curse",
+          "title": "Named item sets",
+          "text": "The Dread Isle's Curse"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Wrist Boost +1 or +3",
+      "tooltip": "Mythic Wrist Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Wrist Boost"
+        }
+      ]
+    }
+  ]
+}

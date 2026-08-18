@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Epic Ironweave Robe",
+  "page_id": 10476,
+  "revision_id": 686723,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:51:31.348014+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Epic Ironweave Robe\n  | type                     = Clothing\n  | feat                     = Cloth\n  | ac                       = +6\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | durability               = 210\n  | material                 = Cloth\n  | hardness                 = 22\n  | basevalue                = 8,005 pp 5 gp\n  | weight                   = \n  | revamped                 = Update 50\n  | epic                     = Ironweave Robe\n  | mythic                   = no\n  | enhancements             = \n* {{SpellPower|Spark|20}}\n* {{Enhancement bonus|a|6}}\n* {{Wizardry|+195}}\n* {{Spelllore|Lightning|+16}}\n* {{SpellPower|Magnetism|111}}\n* {{ProtectionBonus|8}}\n* {{Augment|Blue}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Ironweave Robe\n  | pic                      = Ironweave Robe shown.jpg\n  | picdesc                  = Epic Ironweave Robe.png\n  | description              = An incredibly rare magical robe forged by the dwarves of the Toldorath clan.\n  | notes                    = \n}}\n[[Category:The Vault of Night epic items]]",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Clothing",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Greater Spark - 3 Charges (Recharged/Day: 3)",
+      "tooltip": "Greater Spark: When Activated, this effect provides a +20 Alchemical bonus to your Electric Spell Power for three minutes.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spark",
+          "title": "Spark",
+          "text": "Greater Spark"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry +195",
+      "tooltip": "Wizardry +195: +195 Enhancement bonus to spell points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry +195"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Lore +16%",
+      "tooltip": "Lightning Lore +16: Passive: Your Electricity spells gain a +16% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore +16%"
+        }
+      ]
+    },
+    {
+      "text": "Magnetism +111",
+      "tooltip": "Magnetism +111: Passive: +111 Equipment bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Magnetism +111"
+        }
+      ]
+    },
+    {
+      "text": "Protection +8",
+      "tooltip": "Protection +8: Passive: +8 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +8"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

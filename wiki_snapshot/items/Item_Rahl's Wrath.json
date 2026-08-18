@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Rahl's Wrath",
+  "page_id": 9469,
+  "revision_id": 672478,
+  "revision_timestamp": "2026-01-25T17:46:35Z",
+  "fetched_at": "2026-08-17T22:42:02.781865+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Rahl's Wrath\n  | type                     = Kama\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Exotic\n  | minlevel                 = 8\n  | reqtrait                 = Lawful\n  | UMD DC                   = 26\n  | bind                     = {{Bind|BtC|BoE}}\n  | damage                   = [1d6] + 4 Slash, Lawful, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 140\n  | material                 = Steel \n  | hardness                 = 18\n  | basevalue                = 3,200pp 2gp\n  | weight                   = 2 lbs\n  | revamped                 = Update 76\n  | quest                    = Hold for Reinforcements\n  | chest                    = End chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|4}}\n* {{Law|Absolute}}\n* {{Elemental Resistance|Cold|30}}\n* {{Augment|Red}}\n  | pic                      = Rahl's Wrath shown.jpg\n  | picdesc                  = Rahl's Wrath.png\n  | description              = This kama was once owned by a dedicated monk name Rahl.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Kama",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Absolute Law",
+      "tooltip": "Absolute Law: This weapon is infused with the ultimate power of Law. It does an additional 2 to 12 damage to non-lawful targets and can only be wielded by Lawful-aligned characters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Absolute_Law",
+          "title": "Absolute Law",
+          "text": "Absolute Law"
+        }
+      ]
+    },
+    {
+      "text": "Cold Resistance +30",
+      "tooltip": "Cold Resistance +30: Passive: +30 Enhancement bonus to your Cold Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Resistance",
+          "title": "Cold Resistance",
+          "text": "Cold Resistance +30"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

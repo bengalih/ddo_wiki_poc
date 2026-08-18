@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Scoundrel's Longsword",
+  "page_id": 24539,
+  "revision_id": 634528,
+  "revision_timestamp": "2025-04-22T03:27:29Z",
+  "fetched_at": "2026-08-17T22:52:46.504493+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Scoundrel's Longsword\n  | damage                   = [1d10] + 2 Slash, Chaotic, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Long Sword\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 130\n  | material                 = Steel\n  | hardness                 = 16\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtC|BoA}}\n  | basevalue                = 2,401 pp 5 gp\n  | weight                   = 4 lbs\n  | released                 = Update 14\n  | quest                    = Three-Barrel Cove (heroic)\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Shock}}\n* {{Anarchic}}\n* {{Augment|Red}}\n  | description              = A classic straight-bladed sword usable in one hand. Commonly associated with knighthood and valor. Except this one. This one was associated with pirates.\n  | pic                      = Scoundrel's Longsword shown.jpg\n  | picdesc                  = Scoundrel's Longsword.png\n  | tips                     = The {{Item|Pirate Treasure Map}}, the 3 items from the {{Named item sets|Corsair's Cunning}} set, the 4 'Scoundrel's type' weapons and {{Item|Brine Shaman's Staff}} have a chance of appearing in the end reward list of any of the [[Three-Barrel Cove (heroic)]] quests, except [[Guard Duty]]. Every third completion you will receive a complete list.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Shock",
+      "tooltip": "Shock: This weapon is sheathed in crackling electricity. A shock weapon deals an extra 1 to 6 points of electricity damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shock",
+          "title": "Shock",
+          "text": "Shock"
+        }
+      ]
+    },
+    {
+      "text": "Anarchic",
+      "tooltip": "Anarchic: An anarchic weapon is chaotically aligned and infused with the power of chaos. It makes the weapon chaos-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2 to 12 damage against all of lawful alignment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)#Anarchic",
+          "title": "Alignment damage (weapon)",
+          "text": "Anarchic"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Totemic Staff of Splinterskull",
+  "page_id": 5028,
+  "revision_id": 635574,
+  "revision_timestamp": "2025-04-22T04:36:57Z",
+  "fetched_at": "2026-08-17T23:20:13.616743+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Totemic Staff of Splinterskull\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = [1d6] + 3 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 140\n  | material                 = Wood\n  | hardness                 = 16\n  | basevalue                = 2,400 pp 1 cp\n  | weight                   = 4 lbs\n  | quest                    = Assault on Splinterskull\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{clicky|Summon Monster III|5|3}}\n* {{Augment|Red}}\n* {{Augment|Purple}}\n  | description              = This staff was used in the summoning rituals of the Splinterskull tribe.\n  | pic                      = Totemic Staff of Splinterskull shown.jpg\n  | picdesc                  = Totemic Staff of Splinterskull.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Summon Monster III — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Summon Monster IIICaster level: 5Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Summon_Monster_III",
+          "title": "Summon Monster III",
+          "text": "Summon Monster III"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

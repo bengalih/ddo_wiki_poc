@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Alchemical Throwing Axe",
+  "page_id": 21148,
+  "revision_id": 667584,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:02:55.277652+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Alchemical Throwing Axe\n  | damage                   = 3[1d6] + 5 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Throwing Axe\n  | hand                     = Thrown\n  | class                    = Thrown\n  | minlevel                 = 12\n  | attackmod                = STR\n  | damagemod                = STR\n  | prof                     = Martial\n  | durability               = 100\n  | material                 = Steel\n  | hardness                 = 17\n  | basevalue                = 10,200pp 6gp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|no}}\n  | revamped                 = Update 76\n  | quest                    = The Master Artificer\n  | chest                    = Either End chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{CraftingEffects|Alchemical (Prototype)}}\n* {{Returning|100}}\n  | crafting                 = Alchemical Crafting\n  | craftingupgrade          = <!-- yep -->\n  | description              = A small, light axe design for throwing.\n  | pic                      = Returning Axe of Embers shown.jpg\n  | picdesc                  = Alchemical Throwing Axe.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Throwing Axe",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Alchemical (Prototype)",
+      "tooltip": "Alchemical (Prototype): This experimental item, crafted and enchanted at ancient Cannith creation forges using powerful alchemy, is made of a material that allows elemental power sources to be bound to it. This item is in a prototype state and is currently in need of refinement before an elemental can be bound to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alchemical_Crafting",
+          "title": "Alchemical Crafting",
+          "text": "Alchemical (Prototype)"
+        }
+      ]
+    },
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    }
+  ]
+}

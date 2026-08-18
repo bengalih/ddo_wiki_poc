@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Muck's Doom",
+  "page_id": 7887,
+  "revision_id": 699398,
+  "revision_timestamp": "2026-07-23T23:00:52Z",
+  "fetched_at": "2026-08-17T22:28:57.206532+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Muck's Doom\n  | damage                   = [1d6] + 3 Bludgeon, Magic, Crystal\n  | crit                     = 20 / x2\n  | type                     = Club\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = One-handed\n  | minlevel                 = 6\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 110\n  | material                 = Glass\n  | hardness                 = 11\n  | bind                     = {{Bind|BtC|BoE}}\n  | chest                    = [[Avatar of Juiblex]]'s Southern Chest\n  | quest                    = The Pit\n  | basevalue                = 2,400 pp, 1 cp\n  | weight                   = 3 lbs\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Bane|Ooze}}\n* {{Augment|Red}}\n  | pic                      = Muck's Doom shown.jpg\n  | crafting                 = Catalyst Crafting\n  | craftingupgrade          = Muck's Ascension¦Legendary Muck's Ascension\n  | picdesc                  = Muck's Doom.png\n  | description              = Glossy black and perfectly balanced, this weapon bears magic runes devoted to the eradication of slimes. It is impervious to their acid. A very useful tool for exploring the sewers of Stormreach.\n  | tips                     = Essentially a slight upgrade from the common [[Muckbane]] weapon. See also: [[Item:Muck's Devastation]] and [[Item:Muck's Obliteration]]\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Ooze Bane",
+      "tooltip": "Ooze Bane: A bane weapon excels at attacking one type or subtype of creature. Against Oozes, this weapon's effective enhancement bonus is +2 better than its normal enhancement bonus. It deals an extra 2 to 12 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Ooze Bane"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

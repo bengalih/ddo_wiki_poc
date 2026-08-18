@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Giant's Fist (level 28)",
+  "page_id": 42151,
+  "revision_id": 649185,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:10:12.789213+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Giant's Fist}}\n  | sentience                = no\n  | damage                   = [1d10] + 4 Bludgeon, Magic\n  | crit                     = 19-20 / x3 \n  | type                     = Maul\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 365\n  | material                 = Steel\n  | hardness                 = 38\n  | minlevel                 = 28\n  | released                 = Update 19\n  | quest                    = Lines of Supply\n  | chest                    = End chest (Epic Elite)\n  | basevalue                = 11201pp 2gp\n  | weight                   = 10 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Dazing|IX}}\n* {{Sundering|IX}}\n* {{Impact|I}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Giant's Fist shown.jpg\n  | picdesc                  = Giant's Fist (Level 28).png\n  | description              = 'Puny little man<br />You wish to wield a giant's strength?<br />You must swing harder.'<br />- Mug, Hill Giant Defender\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Maul",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Dazing IX",
+      "tooltip": "Dazing IX: On Hit: Your target suffers a -1 Penalty to Will Saving Throws for 6 seconds. This effect stacks up to 5 times. This effect may only occur on-hit once every three seconds.Passive: The DC of the saving throw to resist your Stunning Blow and Stunning Fist combat feats is increased by 14.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dazing",
+          "title": "Dazing",
+          "text": "Dazing IX"
+        }
+      ]
+    },
+    {
+      "text": "Sundering IX",
+      "tooltip": "Sundering IX: On Hit: Your target suffers a -1 Penalty to Fortitude Saving Throws for 6 seconds. This effect stacks up to 5 times. This effect may only occur on-hit once every three seconds.Passive: The DC of the saving throw to resist your Sunder combat feats is increased by 14.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sundering",
+          "title": "Sundering",
+          "text": "Sundering IX"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "page_title": "Item:Boots of Speed",
+  "page_id": 11379,
+  "revision_id": 628673,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:13:25.868121+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Boots of Speed\n  | type                     = Boots\n  | class                    = Clothing\n  | basevalue                = 905 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 40\n  | material                 = Leather \n  | hardness                 = 9\n  | minlevel                 = 7\n  | bind                     = {{Bind|no}}\n  | quest                    = Random\n  | chest                    = Found only in low level loot, ~level 6 loot tables\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Haste|5|2}}\n  | description              = Leather boots that give their wearer the ability to cast the Haste spell twice a day.\n  | pic                      = Boots Red.png\n  | picdesc                  = Boots of Speed.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Haste — 2 Charges (Recharged/Day:2)",
+      "tooltip": "HasteCaster level: 5Charges: 2 (2/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Haste",
+          "title": "Haste",
+          "text": "Haste"
+        }
+      ]
+    }
+  ]
+}

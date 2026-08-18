@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Ring of Resonance",
+  "page_id": 10234,
+  "revision_id": 634255,
+  "revision_timestamp": "2025-04-22T03:09:32Z",
+  "fetched_at": "2026-08-17T22:45:34.079798+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Ring of Resonance\n  | minlevel                 = 9\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 100\n  | material                 = Silver\n  | hardness                 = 14\n  | basevalue                = 3,620 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Slavers of the Shrieking Mines\n  | chest                    = locked chest\n  | mythic                   = no\n  | enhancements             = \n* {{ProtectionBonus|4}}\n* {{Guard|Sonic}}\n* {{Augment|Yellow}}\n  | description              = The resonant crystals of the Shrieking Mines have an extreme affinity with sonic energy. A cunning ogre mage took advantage of this property, expertly fusing tiny crystal shards with metal to craft this powerful ring.\n  | pic                      = Ring Generic Silver.png\n  | picdesc                  = Ring of Resonance.png\n}}",
+  "item_template": "Named item",
+  "material": "Silver",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Protection +4",
+      "tooltip": "Protection +4: Passive: +4 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +4"
+        }
+      ]
+    },
+    {
+      "text": "Sonic Guard",
+      "tooltip": "Sonic Guard: This item blasts those that attack the wearer, causing 1d6 sonic damage on a successful melee attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sonic_Guard",
+          "title": "Sonic Guard",
+          "text": "Sonic Guard"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

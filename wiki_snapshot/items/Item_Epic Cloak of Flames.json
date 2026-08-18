@@ -1,0 +1,242 @@
+{
+  "page_title": "Item:Epic Cloak of Flames",
+  "page_id": 19525,
+  "revision_id": 629930,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:46:14.405841+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Cloak of Flames|Epic Cloak of Flames}}\n  | type                     = Cloak\n  | minlevel                 = 20\n  | slot                     = Back\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 210\n  | material                 = Leather\n  | hardness                 = 22\n  | basevalue                = 8005pp\n  | weight                   = 0.10 lbs\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various ingredients\n  | mythic                   = no\n  | enhancements             = \n{{VaultsOfTheArtificersUpgrade}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = <!--yes -->\n  | description              = Imbued with the power of a bound Fire Elemental, this smooth cloak of crimson fabric absorbs harmful flames and makes your fire spells stronger.\n  | pic                      = Cloak of Flames Shown.jpg\n  | picdesc                  = Epic Cloak of Flames (tier 1).png\n  | tips                     =\n* {{Popup|Tier 2|[[Image:Epic Cloak of Flames (tier 2).png|452 px]]|long=y}}\n* {{Popup|Tier 3|[[Image:Epic Cloak of Flames (tier 3).png|452 px]]|long=y}} BUG: T3 duplicates Fire Lore +18% effect.\n}}\n[[Category:Epic items]]\n[[Category:Cannith Challenge epic items]]",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": "Upgradeable - Tier 1: This item is a Tier 1 upgradable item.",
+      "children": [
+        {
+          "text": "Combustion +110",
+          "tooltip": "Combustion +110: Passive: +110 Equipment bonus to Fire Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Combustion",
+              "title": "Combustion",
+              "text": "Combustion +110"
+            }
+          ]
+        },
+        {
+          "text": "Fire Lore +16%",
+          "tooltip": "Fire Lore +16: Passive: Your Fire spells gain a 16% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Fire Lore +16%"
+            }
+          ]
+        },
+        {
+          "text": "Heightened Awareness 4",
+          "tooltip": "Heightened Awareness 4: This item helps you to quickly read situations with sharpness and clarity, allowing you to predict actions before they occur. You gain a +4 Insight bonus to AC.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Heightened_Awareness",
+              "title": "Heightened Awareness",
+              "text": "Heightened Awareness 4"
+            }
+          ]
+        },
+        {
+          "text": "Fire Absorption +27%",
+          "tooltip": "Fire Absorption +27%: Passive: 27% Enhancement Bonus to Fire Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Energy_Absorption",
+              "title": "Energy Absorption",
+              "text": "Fire Absorption +27%"
+            }
+          ]
+        },
+        {
+          "text": "Fire Shield (Hot)",
+          "tooltip": "Fire Shield (Hot): When you are successfully attacked, there is a 10% chance that a Fire Shield (Hot) will be cast on you. If this effect activates while you have an active Fire Shield (Cold) from another item source, they will nullify each-other.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Fire_Shield_(Hot)",
+              "title": "Fire Shield (Hot)",
+              "text": "Fire Shield (Hot)"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": "Upgradeable - Tier 2: This item is a Tier 2 upgradable item.",
+      "children": [
+        {
+          "text": "Combustion +110 → Combustion +116",
+          "tooltip": "Combustion +110: Passive: +110 Equipment bonus to Fire Spell Power.Combustion +116: Passive: +116 Equipment bonus to Fire Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Combustion",
+              "title": "Combustion",
+              "text": "Combustion +110"
+            },
+            {
+              "target": "/page/Combustion",
+              "title": "Combustion",
+              "text": "Combustion +116"
+            }
+          ]
+        },
+        {
+          "text": "Fire Lore +16% → Fire Lore +17%",
+          "tooltip": "Fire Lore +16: Passive: Your Fire spells gain a 16% Equipment bonus to their chance to critical hit.Fire Lore +17: Passive: Your Fire spells gain a 17% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Fire Lore +16%"
+            },
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Fire Lore +17%"
+            }
+          ]
+        },
+        {
+          "text": "Fire Absorption +27% → Fire Absorption +28%",
+          "tooltip": "Fire Absorption +27%: Passive: 27% Enhancement Bonus to Fire Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.) Fire Absorption +28%: Passive: 28% Enhancement Bonus to Fire Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Energy_Absorption",
+              "title": "Energy Absorption",
+              "text": "Fire Absorption +27%"
+            },
+            {
+              "target": "/page/Energy_Absorption",
+              "title": "Energy Absorption",
+              "text": "Fire Absorption +28%"
+            }
+          ]
+        },
+        {
+          "text": "Adds Colorless Augment Slot",
+          "tooltip": "Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Colorless Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This item is a Tier 3 upgradable item.",
+      "children": [
+        {
+          "text": "Combustion +116 → Combustion +122",
+          "tooltip": "Combustion +116: Passive: +116 Equipment bonus to Fire Spell Power.Combustion +122: Passive: +122 Equipment bonus to Fire Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Combustion",
+              "title": "Combustion",
+              "text": "Combustion +116"
+            },
+            {
+              "target": "/page/Combustion",
+              "title": "Combustion",
+              "text": "Combustion +122"
+            }
+          ]
+        },
+        {
+          "text": "Fire Lore +17% → Fire Lore +18%",
+          "tooltip": "Fire Lore +17: Passive: Your Fire spells gain a 17% Equipment bonus to their chance to critical hit.Fire Lore +18: Passive: Your Fire spells gain a 18% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Fire Lore +17%"
+            },
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Fire Lore +18%"
+            }
+          ]
+        },
+        {
+          "text": "Fire Absorption +28% → Fire Absorption +30%",
+          "tooltip": "Fire Absorption +28%: Passive: 28% Enhancement Bonus to Fire Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.) Fire Absorption +30%: Passive: 30% Enhancement Bonus to Fire Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Energy_Absorption",
+              "title": "Energy Absorption",
+              "text": "Fire Absorption +28%"
+            },
+            {
+              "target": "/page/Energy_Absorption",
+              "title": "Energy Absorption",
+              "text": "Fire Absorption +30%"
+            }
+          ]
+        },
+        {
+          "text": "Adds Green Augment Slot",
+          "tooltip": "Blue, Green, Yellow, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Green Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

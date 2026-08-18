@@ -1,0 +1,85 @@
+{
+  "page_title": "Item:Flicker",
+  "page_id": 17825,
+  "revision_id": 699596,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:07:20.005205+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Rune Arm\n  | name                     = Flicker\n  | reqtrait                 = [[Rune Arm Use | Artificer Rune Arm Use]]\n  | minlevel                 = 3 \n  | durability               = 75\n  | material                 = Gem\n  | hardness                 = 12\n  | quest                    = The Seal of Shan-To-Kor\n  | chest                    = \n  | end reward               = yes\n  | basevalue                = 1,350pp\n  | weight                   = 0.25 lbs\n  | bind                     = {{Bind|BtA|boa}}\n  | spell                    = Electrical Lash\n  | target                   = Foe, Directional, Breakable\n  | school                   = Evocation\n  | sr                       = no\n  | spell desc               = Fires a slow-moving ball of electricity that lashes nearby opponents.  At higher charge tiers additional enemies are lashed. Opponents struck by this receive a [[Reflex save]] for half damage.\n  | max charge               = 2\n  | imbue                    = Electrical I\n  | imbue die                = 1d4\n  | imbue dmg                = electrical\n  | mythic                   = no\n  | enhancements             = \n* [[Electrical Lash]]\n* {{save|R|2}}\n* {{power|2}}\n  | epic                     = no\n  | crafting                 = Essence Crafting\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | craftingnotes            = <!--Any notes about the craftable item-->\n  | pic                      = Electrical Lash icon.png\n  | picdesc                  = Flicker.png\n  | description              = The faint crackle of static surrounds this Rune Arm. <!--do not copy general info-->\n  | tips                     = \nDisjuncted version: [[Image:Flicker disjuncted.png]]\n}}",
+  "item_template": "Named item",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Maximum Charge Tier: II",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maximum_Charge_Tier",
+          "title": "Maximum Charge Tier",
+          "text": "Maximum Charge Tier"
+        }
+      ]
+    },
+    {
+      "text": "Electrical Lash",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electrical_Lash",
+          "title": "Electrical Lash",
+          "text": "Electrical Lash"
+        }
+      ]
+    },
+    {
+      "text": "Reflex Save +2",
+      "tooltip": "Reflex Save +2: This item gives a +2 Resistance bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save +2"
+        }
+      ]
+    },
+    {
+      "text": "Power II",
+      "tooltip": "Power II: This item grants the wearer +20 maximum spell points. Favored Souls and Sorcerers gain double spell points from this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power",
+          "title": "Power",
+          "text": "Power II"
+        }
+      ]
+    },
+    {
+      "text": "Rune Arm Imbue: Electrical I",
+      "tooltip": "Rune Arm Imbue: Electrical I: Wearing this Rune Arm will imbue any weapon you wield, dealing 1d4 points of electrical damage per hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rune_Arm_Imbue",
+          "title": "Rune Arm Imbue",
+          "text": "Rune Arm Imbue"
+        }
+      ]
+    },
+    {
+      "text": "Craftable Rune Arm",
+      "tooltip": "This Rune Arm is craftable and can be customized using recipes at standard crafting devices after disjuncting.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Craftable_Rune_Arm",
+          "title": "Craftable Rune Arm",
+          "text": "Craftable Rune Arm"
+        }
+      ]
+    }
+  ]
+}

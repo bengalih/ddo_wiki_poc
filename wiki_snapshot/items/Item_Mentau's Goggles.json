@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Mentau's Goggles",
+  "page_id": 11117,
+  "revision_id": 690600,
+  "revision_timestamp": "2026-06-30T16:04:21Z",
+  "fetched_at": "2026-08-17T22:24:39.229140+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Mentau's Goggles\n  | type                     = Goggles\n  | class                    = Goggles\n  | slot                     = Eye\n  | durability               = 140\n  | material                 = Glass\n  | hardness                 = 17\n  | basevalue                = 5,220 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 13\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = Litany of the Dead\n  | chest                    = [[Mentau]]'s chest\n  | end reward               = \n  | enhancements             = \n* {{Spell Focus|Necromancy|I}}\n* {{Seeker|6}}\n* {{Augment|Yellow}}\n  | description              = These goggles allow the wearer to see deep within the flesh of nearby foes allowing blows to be targeted on the most vulnerable locations.\n  | pic                      = Mentau's Goggles shown.png\n  | picdesc                  = Mentau's Goggles.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Glass",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Necromancy Focus I",
+      "tooltip": "Necromancy Focus I: +1 Equipment bonus to the DC of Necromancy spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Necromancy Focus I"
+        }
+      ]
+    },
+    {
+      "text": "Seeker +6",
+      "tooltip": "Seeker +6: Provides a +6 Enhancement bonus to confirm critical hits, and a +6 Enhancement bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Seeker +6"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Goggle Boost +1 or +3",
+      "tooltip": "Mythic Goggle Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Goggle Boost"
+        }
+      ]
+    }
+  ]
+}

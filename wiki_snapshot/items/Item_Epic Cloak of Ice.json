@@ -1,0 +1,106 @@
+{
+  "page_title": "Item:Epic Cloak of Ice",
+  "page_id": 48431,
+  "revision_id": 684809,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:46:15.687429+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Epic Cloak of Ice\n  | type                     = Cloak\n  | slot                     = Back\n  | durability               = 280\n  | material                 = Leather\n  | hardness                 = 33\n  | basevalue                = 10,820 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 27\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 23\n  | quest                    = Ghosts of Perdition (epic)\n  | end reward               = \n  | chest                    = End chest\n  | enhancements             = \n* {{Elemental Resistance|Fire|40}}\n* {{Fire Shield|Cold}}\n* {{Guard|Fire Shield (Cold) Miss-Guard|guard=no}}\n* {{Freezing Ice}}\n* {{UpgradeableAugment|Primary|0}}\n* {{UpgradeableAugment|Secondary|0}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A dirty white cloak always covered in frost\n  | pic                      = Cloak of Ice (shown).png\n  | picdesc                  = Epic Cloak of Ice.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "Fire Resistance +40",
+      "tooltip": "Fire Resistance +40: Passive: +40 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +40"
+        }
+      ]
+    },
+    {
+      "text": "Fire Shield (Cold)",
+      "tooltip": "Fire Shield (Cold): When you are successfully attacked, there is a 10% chance that a Fire Shield (Cold) will be cast on you. If this effect activates while you have an active Fire Shield (Hot) from another item source, they will nullify each-other.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Shield_(Cold)",
+          "title": "Fire Shield (Cold)",
+          "text": "Fire Shield (Cold)"
+        }
+      ]
+    },
+    {
+      "text": "Fire Shield (Cold) Miss-Guard",
+      "tooltip": "Fire Shield (Cold) Miss-Guard: When you are missed, there is a 10% chance that a Fire Shield (Cold) will be cast on you. If this effect activates while you have an active Fire Shield (Hot) from another source, they will nullify each other.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Shield_(Cold)_Miss-Guard",
+          "title": "Fire Shield (Cold) Miss-Guard",
+          "text": "Fire Shield (Cold) Miss-Guard"
+        }
+      ]
+    },
+    {
+      "text": "Freezing Ice",
+      "tooltip": "Freezing Ice :",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Freezing_Ice",
+          "title": "Freezing Ice",
+          "text": "Freezing Ice"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Primary Augment (Yellow Augment Slot or Blue Augment Slot)",
+      "tooltip": "Upgradeable - Primary Augment: This item can be upgraded to contain a Yellow, Blue or Red (weapons and shields only) augment. Bring this item to the Fountain of Necrotic Might outside the Black Mausoleum and combine it with Item:Epic Tapestry Shreds to upgrade the item.Yellow and ColorlessBlue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        },
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Secondary Augment (Green Augment Slot)",
+      "tooltip": "Upgradeable - Secondary Augment: This item can be upgraded to contain a Green, Orange (weapons and shields only) or Purple (weapons and shields only) augment. Bring this item to the Fountain of Necrotic Might outside the Black Mausoleum and combine it with Item:Masterwork Tapestry Shreds to upgrade the item.Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

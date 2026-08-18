@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Belt of Thoughtful Rememberance",
+  "page_id": 11357,
+  "revision_id": 628525,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:10:16.262858+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Belt of Thoughtful Rememberance\n  | type                     = Belt\n  | class                    = Clothing\n  | basevalue                = 5,205 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 140 \n  | material                 = Leather \n  | hardness                 = 15 \n  | bind                     = {{Bind|BtC|BoE}} \n  | minlevel                 = 13 \n  | quest                    = Flesh Maker's Laboratory\n  | chest                    = End Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CON|5}}\n* {{Skills|concentration|13}}\n* {{Absorption|Negative Energy|20}}\n* {{Augment|Yellow}}\n  | description              = This belt is said to protect the wielder from dark energies, and conjure images of a soothing nature.\n  | pic                      = Belt Generic.png\n  | picdesc                  = Belt of Thoughtful Rememberance.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Constitution +5",
+      "tooltip": "Constitution +5: This item gives the wearer improved health, granting a +5 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +5"
+        }
+      ]
+    },
+    {
+      "text": "Concentration +13",
+      "tooltip": "Concentration +13: Passive: +13 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +13"
+        }
+      ]
+    },
+    {
+      "text": "Negative Energy Absorption +20%",
+      "tooltip": "Negative Energy Absorption +20%: This effect absorbs 20% of all negative damage the character would have taken, after all other protections have been penetrated.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Energy_Absorption",
+          "title": "Negative Energy Absorption",
+          "text": "Negative Energy Absorption +20%"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

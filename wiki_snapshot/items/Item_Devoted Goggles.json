@@ -1,0 +1,52 @@
+{
+  "page_title": "Item:Devoted Goggles",
+  "page_id": 9954,
+  "revision_id": 629456,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:33:36.089690+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Devoted Goggles\n  | type                     = Goggles\n  | slot                     = Eye\n  | basevalue                = 405pp\n  | weight                   = 0.10 lbs\n  | durability               = 30\n  | material                 = Leather\n  | hardness                 = 8\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|boa}}\n  | quest                    = Sacrifices\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{skills|Heal|3}}\n* {{Power|1}}\n* {{Named item sets|Devoted Heart}}\n  | description              = This pair of goggles will augment a cleric's ability to cast spells.\n  | pic                      = Devoted Goggles Equipped.png\n  | picdesc                  = Devoted Goggles.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "enchantments": [
+    {
+      "text": "Heal +3",
+      "tooltip": "Heal +3: Passive: +3 Competence bonus to the Heal skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heal_(skill)",
+          "title": "Heal (skill)",
+          "text": "Heal +3"
+        }
+      ]
+    },
+    {
+      "text": "Power I",
+      "tooltip": "Power I: This item grants the wearer +10 maximum spell points. Favored Souls and Sorcerers gain double spell points from this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power",
+          "title": "Power",
+          "text": "Power I"
+        }
+      ]
+    },
+    {
+      "text": "Devoted Heart",
+      "tooltip": "Devoted Heart: +36 Equipment bonus to Healing Spell Power",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Devoted_Heart",
+          "title": "Named item sets",
+          "text": "Devoted Heart"
+        }
+      ]
+    }
+  ]
+}

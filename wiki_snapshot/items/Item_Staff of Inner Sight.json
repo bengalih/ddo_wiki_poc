@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Staff of Inner Sight",
+  "page_id": 7943,
+  "revision_id": 689940,
+  "revision_timestamp": "2026-06-22T15:20:21Z",
+  "fetched_at": "2026-08-17T23:04:53.566863+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Staff of Inner Sight\n  | damage                   = [2d4] + 5 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | attackmod                = INT, WIS, CHA\n  | damagemod                = INT, WIS, CHA\n  | durability               = 180\n  | material                 = Wood \n  | hardness                 = 20\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtA|BoA}}\n  | basevalue                = 4000 pp 1 cp\n  | weight                   = 4 lbs\n  | quest                    = Chains of Flame\n  | chest                    = Library Chest\n  | revamped                 = Update 80\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Stat|INT|6}}\n* {{Stat|WIS|6}}\n* {{Stat|CHA|6}}\n* {{Spell Focus|Mastery|3}}\n* {{TrueSeeing}}\n* {{Augment|Purple}}\n* {{Augment|Red}}\n* {{Named item sets|The Desert's Biting Sands}}\n  | description              = This staff is made from a slender willow branch. As you hold it, you feel the weight and knowledge of many centuries wash over your senses.\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Staff of Inner Sight\n  | pic                      = Luminous Truth shown.jpg <!-- same style -->\n  | picdesc                  = Staff of Inner Sight.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Intelligence +6",
+      "tooltip": "Intelligence +6: This item focuses the power of the wearer's mind, granting a +6 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +6"
+        }
+      ]
+    },
+    {
+      "text": "Wisdom +6",
+      "tooltip": "Wisdom +6: This item makes the wearer more in tune with her surroundings, granting a +6 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +6"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +6",
+      "tooltip": "Charisma +6: This item makes the wearer have more flair, granting a +6 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +6"
+        }
+      ]
+    },
+    {
+      "text": "Spell Focus Mastery +3",
+      "tooltip": "Spell Focus Mastery +3: +3 Equipment bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Spell Focus Mastery +3"
+        }
+      ]
+    },
+    {
+      "text": "True Seeing",
+      "tooltip": "True Seeing: Passive: You gain the benefit of the spell True Seeing.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/True_Seeing_(enchantment)",
+          "title": "True Seeing (enchantment)",
+          "text": "True Seeing"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Desert's Biting Sands",
+      "tooltip": "The Desert's Biting Sands: 2 Pieces Equipped:+2% Artifact bonus to Force Spellcrit Chance+10 Artifact bonus to Force Spellpower+10 Artifact bonus to Magical Resistance Rating Cap",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Desert's_Biting_Sands",
+          "title": "Named item sets",
+          "text": "The Desert's Biting Sands"
+        }
+      ]
+    }
+  ]
+}

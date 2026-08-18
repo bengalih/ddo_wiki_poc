@@ -1,0 +1,175 @@
+{
+  "page_title": "Item:Duality, The Moral Compass",
+  "page_id": 67025,
+  "revision_id": 672341,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:39:18.757461+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Duality, The Moral Compass\n  | damage                   = 4.60[1d6+3] + 15 Bludgeon, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Handwrap\n  | hand                     = Simple\n  | class                    = Bludgeoning\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Exotic\n  | reqtrait                 = \n  | UMD DC                   = \n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 28\n  | durability               = 400\n  | material                 = Cloth\n  | hardness                 = 41\n  | basevalue                = 11,203pp\n  | weight                   = 0.50 lbs\n  | revamped                 = Update 76\n  | released                 = Update 37\n  | quest                    = The Curse of Strahd\n  | chest                    = Raid chest\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{The Moral Compass}}\n** Grants the following bonuses to characters with at least 3 [[Monk]] levels:\n*** {{Axiomatic|6|1}}\n*** {{Holy|6|1}} if on the [[Path of Inevitable Dominion]]\n*** {{Unholy|6}} if on the [[Path of Harmonious Balance]]\n*** {{Enhanced Ki|3}} if character has 20 Monk levels\n* {{Impact}}\n* {{Vampirism|3}}\n* {{Augment|Red}}\n* {{Augment|Orange}}\n  | pic                      = Handwraps Generic.png\n  | picdesc                  = Duality, The Moral Compass.png\n  | description              = Be better than you ever were.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Handwrap",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "The Moral CompassWhile wearing these Handwraps, Monks will gain additional power and bonuses based on their Philosophy.",
+      "tooltip": "An oft repeated mantra of the Shintao is written on these sacred handwraps:\"True strength comes from within, and true power comes from rising above.\"",
+      "children": [
+        {
+          "text": "Grants the following bonuses to characters with at least 3 Monk levels:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Axiomatic 6",
+              "tooltip": "Axiomatic 6: This weapon is righteous and wielded by those who stand against chaos, dealing an additional 6d6 law damage on each hit. This effect makes the weapon lawfully aligned. (Chaotic characters wielding this weapon will suffer one negative level.)",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Alignment_damage_(weapon)",
+                  "title": "Alignment damage (weapon)",
+                  "text": "Axiomatic 6"
+                }
+              ]
+            },
+            {
+              "text": "Holy 6 if on the Path of Inevitable Dominion",
+              "tooltip": "Holy 6: This weapon is wielded by the pure to smite the wicked, dealing an additional 6d6 good damage on each hit. This effect makes the weapon good aligned. Evil characters wielding this weapon will suffer one negative level.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Alignment_damage_(weapon)",
+                  "title": "Alignment damage (weapon)",
+                  "text": "Holy 6"
+                },
+                {
+                  "target": "/page/Path_of_Inevitable_Dominion",
+                  "title": "Path of Inevitable Dominion",
+                  "text": "Path of Inevitable Dominion"
+                }
+              ]
+            },
+            {
+              "text": "Unholy 6 if on the Path of Harmonious Balance",
+              "tooltip": "Unholy 6: On Hit: 6 to 36 Evil damage. Evil-aligned creatures are immune to this effect.Penalty: If equipped by a Good user, they receive 1 Negative Level for as long as this item is equipped.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Alignment_damage_(weapon)",
+                  "title": "Alignment damage (weapon)",
+                  "text": "Unholy 6"
+                },
+                {
+                  "target": "/page/Path_of_Harmonious_Balance",
+                  "title": "Path of Harmonious Balance",
+                  "text": "Path of Harmonious Balance"
+                }
+              ]
+            },
+            {
+              "text": "Enhanced Ki +3 if character has 20 Monk levels",
+              "tooltip": "Enhanced Ki +3: Increases the rate at which the user gains ki with each successful attack.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhanced_Ki",
+                  "title": "Enhanced Ki",
+                  "text": "Enhanced Ki +3"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Monk",
+              "title": "Monk",
+              "text": "Monk"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/edit/The_Moral_Compass?redlink=1",
+          "title": "The Moral Compass (page does not exist)",
+          "text": "The Moral Compass"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Vampirism 3",
+      "tooltip": "Vampirism 3: This weapon thirsts for the blood of your enemies, healing you for +3d2 hit points with each hit.Note: internal cooldown of 1 second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Vampirism 3"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

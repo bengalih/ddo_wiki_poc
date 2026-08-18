@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Symphony",
+  "page_id": 63593,
+  "revision_id": 635200,
+  "revision_timestamp": "2025-04-22T04:12:01Z",
+  "fetched_at": "2026-08-17T23:09:56.286743+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Symphony\n  | type                     = Cloak\n  | basevalue                = 10,820 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Back\n  | durability               = 287\n  | material                 = Blue Dragonscale\n  | hardness                 = 37\n  | minlevel                 = 27\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 35\n  | quest                    = Riding the Storm Out\n  | end reward               = \n  | chest                    = Warded chest\n  | enhancements             = \n* {{Anthem}}\n* {{SpellPower|resonance|141}}\n* {{Spelllore|Sonic|21}}\n* {{Stat|CHA|3|Quality}}\n* {{Augment|Green}}\n* {{Augment|Yellow}}\n  | description              = The scales along this cloak tap each other as it billows, and the faint sound of music can be heard on the wind.\n  | pic                      = Symphony shown.jpg\n  | picdesc                  = Symphony.png\n  | tips                     = \n}}\n[[Category:Draconic Raider's Reward Box items]]",
+  "item_template": "Named item",
+  "material": "Blue Dragonscale",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "Anthem",
+      "tooltip": "Anthem: When equipped by a character with Bard levels, this item begins to hum an inspiring tune. Your bard songs regenerate slowly over time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Anthem_(item_enchantment)",
+          "title": "Anthem (item enchantment)",
+          "text": "Anthem"
+        }
+      ]
+    },
+    {
+      "text": "Resonance +141",
+      "tooltip": "Resonance +141: Passive: +141 Equipment bonus to Sonic Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resonance",
+          "title": "Resonance",
+          "text": "Resonance +141"
+        }
+      ]
+    },
+    {
+      "text": "Sonic Lore +21%",
+      "tooltip": "Sonic Lore +21: Passive: Your Sonic spells gain a 21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Sonic Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Quality Charisma +3",
+      "tooltip": "Quality Charisma +3: This item makes the wearer have more flair, granting a +3 Quality bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Quality Charisma +3"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

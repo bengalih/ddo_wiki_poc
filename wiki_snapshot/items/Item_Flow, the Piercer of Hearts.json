@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Flow, the Piercer of Hearts",
+  "page_id": 66610,
+  "revision_id": 672671,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:07:32.957837+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Flow, the Piercer of Hearts\n  | damage                   = 4.60[1d6+3] + 15 Pierce, Chaotic, Magic\n  | crit                     = 18-20 / x2 \n  | type                     = Rapier\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Martial \n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 325\n  | material                 = Steel\n  | hardness                 = 38\n  | minlevel                 = 28\n  | released                 = Update 37\n  | revamped                 = Update 76\n  | quest                    = The Curse of Strahd\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | basevalue                = 11300 pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtC|boa}}\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Vulnerability|Fetters of Unreality}}\n* {{Bewildering|3}}\n* {{Anarchic|6|1}}\n* {{Guardbreaking}}\n* {{Augment|Purple}}\n* {{Augment|Red}}\n  | pic                      = Flow, the Piercer of Hearts shown.jpg\n  | picdesc                  = Flow, the Piercer of Hearts.png\n  | description              = Inspiration can be found in the most unlikely of places.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Rapier",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fetters of Unreality",
+      "tooltip": "Fetters of Unreality: This weapon is cruel and deadly, and leaves behind wounds that affect both the body and the soul. This weapon has a chance to inflict multiple stacks of Vulnerable.Vulnerable: You take 1% more damage for 3 seconds. This effect stacks up to 20 times, and loses one stack on expiration.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fetters_of_Unreality",
+          "title": "Fetters of Unreality",
+          "text": "Fetters of Unreality"
+        }
+      ]
+    },
+    {
+      "text": "Bewildering 3",
+      "tooltip": "Bewildering 3: This weapon saps the willpower and sense from your enemies, dealing 3 Wisdom damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bewildering",
+          "title": "Bewildering",
+          "text": "Bewildering 3"
+        }
+      ]
+    },
+    {
+      "text": "Anarchic 6",
+      "tooltip": "Anarchic 6: This weapon is chaotic and used to undermine the righteous, dealing an additional 6d6 chaos damage on each hit. This effect makes the weapon chaotic aligned. (Lawful characters wielding this weapon will suffer one negative level.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Anarchic 6"
+        }
+      ]
+    },
+    {
+      "text": "Guardbreaking",
+      "tooltip": "Guardbreaking: This item enables you to break an enemy's guard in between your melee attacks. On critical hits with your melee weapons, enemies will become dazed as a result.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Guardbreaking",
+          "title": "Guardbreaking",
+          "text": "Guardbreaking"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

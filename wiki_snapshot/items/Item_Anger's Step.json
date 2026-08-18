@@ -1,0 +1,52 @@
+{
+  "page_title": "Item:Anger's Step",
+  "page_id": 9645,
+  "revision_id": 628265,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:03:51.825906+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Anger's Step\n  | type                     = Boots\n  | class                    = Boots\n  | basevalue                = 405pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 30\n  | material                 = Leather\n  | hardness                 = 8\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Sacrifices\n  | chest                    = \n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Expeditious Retreat|1|2}}\n* {{Named item sets|Anger's Wrath}}\n* {{Skills|Jump|3}}\n  | description              = This pair of boots is said to give speed to hearty warriors when they are called upon.\n  | pic                      = Boots Generic.png\n  | picdesc                  = Anger's Step.jpg\n  | tips                     = \n* This item is very useful at early levels, even if not taken as a set, because of its Expeditious Retreat ability.\n* [[C:Binds to character]]Comes as a [[Veteran Status II starter item]] on a [[Barbarian]] and is [[Bound to Character]].\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "enchantments": [
+    {
+      "text": "Expeditious Retreat — 2 Charges (Recharged/Day:2)",
+      "tooltip": "Expeditious RetreatCaster level: 1Charges: 2 (2/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Expeditious_Retreat",
+          "title": "Expeditious Retreat",
+          "text": "Expeditious Retreat"
+        }
+      ]
+    },
+    {
+      "text": "Anger's Wrath",
+      "tooltip": "Anger's Wrath: To-Hit Bonus +2 (Untyped, stacks with competence)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Anger's_Wrath",
+          "title": "Named item sets",
+          "text": "Anger's Wrath"
+        }
+      ]
+    },
+    {
+      "text": "Jump +3",
+      "tooltip": "Jump +3: Passive: +3 Competence bonus to the Jump skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Jump_(skill)",
+          "title": "Jump (skill)",
+          "text": "Jump +3"
+        }
+      ]
+    }
+  ]
+}

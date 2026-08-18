@@ -1,0 +1,134 @@
+{
+  "page_title": "Item:Quorforged Docent of Battle",
+  "page_id": 10620,
+  "revision_id": 634102,
+  "revision_timestamp": "2025-04-22T02:59:23Z",
+  "fetched_at": "2026-08-17T22:41:32.160983+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Quorforged Docent of Battle\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+20|m=+9|c=+3}}\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtA|BoA}}\n  | maxdexbonus              = None\n  | acp                      = None\n  | asf                      = None\n  | durability               = 150\n  | material                 = Gem\n  | hardness                 = 20\n  | basevalue                = 10010pp\n  | weight                   = 0 lbs\n  | quest                    = The Mindsunder\n  | chest                    = Disc locked optional end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Fortification|4}}\n* {{Stat|Con|6}}\n* {{False Life|improved}}\n* {{Save|W|-2||1}}\n* {{SuppressedPower}}\n  | crafting                 = Suppressed Power\n  | craftingupgrade          = <!--yes-->\n  | pic                      = Quorforged Docent of Battle shown.jpg\n  | picdesc                  = Quorforged Docent of Battle.png\n  | description              = This docent was worn by the servants of the quori in their battles from ages long past.\n  | notes                    = \n* Unsuppressed version: <br />\n[[Image:Quorforged Docent of Battle (unsuppressed).png]]\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Construct Fortification (10%)",
+      "tooltip": "Construct Fortification (10%): This docent produces a magical force that protects vital areas of the wearer more effectively. When a critical hit or sneak attack is scored on the wearer, there is a +10% chance that the critical hit or sneak attack is negated and damage is instead rolled normally. This ability is considered as Insight bonus when determining stacking with other sources of fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Construct_Fortification_(10%25)",
+          "title": "Construct Fortification (10%)",
+          "text": "Construct Fortification (10%)"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +6",
+      "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +6"
+        }
+      ]
+    },
+    {
+      "text": "Improved False Life",
+      "tooltip": "Improved False Life: This item grants the wearer +20 maximum health.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)#Improved_False_Life",
+          "title": "False Life (enchantment)",
+          "text": "Improved False Life"
+        }
+      ]
+    },
+    {
+      "text": "Will Save -2",
+      "tooltip": "Will Save -2: This item gives a -2 penalty to your Will saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Will_save",
+          "title": "Will save",
+          "text": "Will Save -2"
+        }
+      ]
+    },
+    {
+      "text": "Suppressed Power",
+      "tooltip": "Suppressed Power: This psionic item is powerful, but you sense that it has not unlocked all of its secrets to you at this time.",
+      "children": [
+        {
+          "text": "Improved False Life → Superior False Life",
+          "tooltip": "Improved False Life: This item grants the wearer +20 maximum health.Superior False Life: This item grants the wearer +40 maximum health.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/False_Life_(enchantment)#Improved_False_Life",
+              "title": "False Life (enchantment)",
+              "text": "Improved False Life"
+            },
+            {
+              "target": "/page/False_Life_(enchantment)#Superior_False_Life",
+              "title": "False Life (enchantment)",
+              "text": "Superior False Life"
+            }
+          ]
+        },
+        {
+          "text": "Adds Vitality +20",
+          "tooltip": "Vitality +20: Passive: +20 Vitality bonus to Hit Points.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Vitality",
+              "title": "Vitality",
+              "text": "Vitality +20"
+            }
+          ]
+        },
+        {
+          "text": "Becomes Bound to Character on Acquire",
+          "tooltip": null,
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bind",
+              "title": "Bind",
+              "text": "Bound to Character on Acquire"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Suppressed_Power",
+          "title": "Suppressed Power",
+          "text": "Suppressed Power"
+        }
+      ]
+    }
+  ]
+}

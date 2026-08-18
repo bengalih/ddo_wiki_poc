@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Falrinth's Folly",
+  "page_id": 97367,
+  "revision_id": 691067,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:02:07.523742+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Falrinth's Folly\n  | minlevel                 = 8\n  | type                     = Bracers\n  | slot                     = Wrist\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 180\n  | material                 = Steel\n  | hardness                 = 28\n  | cost                     = 3,201 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 56\n  | quest                    = ToEE: Lower Temple Complex\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Skills|Spellcraft|10}}\n* {{SpellPower|Potency|41}}\n* {{Spell Focus|Evocation|1|Insightful}}\n* {{Spell Focus|Conjuration|1|Insightful}}\n* {{Augment|Yellow}}\n  | crafting                 = \n  | description              = Falrinth believed so strongly that nothing could stop his plan, he became blind to his own fate in it.\n  | pic                      = \n  | picdesc                  = Falrinth's Folly.jpg\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Spellcraft +10",
+      "tooltip": "Spellcraft +10: Passive: +10 Competence bonus to the Spellcraft skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcraft",
+          "title": "Spellcraft",
+          "text": "Spellcraft +10"
+        }
+      ]
+    },
+    {
+      "text": "Potency +41",
+      "tooltip": "Potency +41: Passive: +41 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +41"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Evocation Focus +1",
+      "tooltip": "Insightful Evocation Focus +1: +1 Insight bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Evocation Focus +1"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Conjuration Focus +1",
+      "tooltip": "Insightful Conjuration Focus +1: +1 Insight bonus to the DC of Conjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Conjuration Focus +1"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Wrist Boost +1 or +3",
+      "tooltip": "Mythic Wrist Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Wrist Boost"
+        }
+      ]
+    }
+  ]
+}

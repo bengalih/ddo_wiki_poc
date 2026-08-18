@@ -1,0 +1,175 @@
+{
+  "page_title": "Item:Dreampiercer",
+  "page_id": 33959,
+  "revision_id": 690610,
+  "revision_timestamp": "2026-06-30T16:18:37Z",
+  "fetched_at": "2026-08-17T04:13:00.643049+00:00",
+  "categories": [],
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Greater Good",
+      "tooltip": "Greater Good: This weapon is infused with the ultimate power of Good. It does an additional 2 to 12 damage to non-good targets and can only be wielded by Good-aligned characters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Greater_Good",
+          "title": "Greater Good",
+          "text": "Greater Good"
+        }
+      ]
+    },
+    {
+      "text": "Greater Evil Outsider Bane",
+      "tooltip": "Greater Evil Outsider Bane: A bane weapon excels at attacking one type or subtype of creature. Against Evil Outsiders, this weapon's effective enhancement bonus is +4 better than its normal enhancement bonus. It deals an extra 3 to 18 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Greater Evil Outsider Bane"
+        }
+      ]
+    },
+    {
+      "text": "Life Stealing",
+      "tooltip": "Life Stealing: This weapon has a chance to drain 1 to 3 levels from its target on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Life_Stealing",
+          "title": "Life Stealing",
+          "text": "Life Stealing"
+        }
+      ]
+    },
+    {
+      "text": "Enchantment Focus III",
+      "tooltip": "Enchantment Focus III: +3 Equipment bonus to the DC of Enchantment spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Enchantment Focus III"
+        }
+      ]
+    },
+    {
+      "text": "Attuned to Heroism",
+      "tooltip": "This relic is attuned to heroic actions.",
+      "children": [
+        {
+          "text": "Attuned by Heroism: Tier 1",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "+7 Enhancement Bonus → +8 Enhancement Bonus",
+              "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.+8 Enhancement Bonus: +8 enhancement bonus to attack and damage rolls.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+7 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+8 Enhancement Bonus"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 1"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Greater Good → Supreme Good",
+              "tooltip": "Greater Good: This weapon is infused with the ultimate power of Good. It does an additional 2 to 12 damage to non-good targets and can only be wielded by Good-aligned characters.Supreme Good: This weapon is infused with the supreme Power of Good. It does an additional 3 to 18 damage to non-good targets and can only be wielded by Good-aligned characters.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Greater_Good",
+                  "title": "Greater Good",
+                  "text": "Greater Good"
+                },
+                {
+                  "target": "/page/Supreme_Good",
+                  "title": "Supreme Good",
+                  "text": "Supreme Good"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 2"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Attuned_to_Heroism",
+          "title": "Attuned to Heroism",
+          "text": "Attuned to Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ],
+  "item_class": "Weapon",
+  "item_template": ""
+}

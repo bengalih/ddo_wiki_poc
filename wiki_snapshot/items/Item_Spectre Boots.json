@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Spectre Boots",
+  "page_id": 76723,
+  "revision_id": 634967,
+  "revision_timestamp": "2025-04-22T03:56:41Z",
+  "fetched_at": "2026-08-17T23:03:50.821094+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Spectre Boots\n  | type                     = Boots\n  | cost                     = 6801 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 270\n  | material                 = Cloth\n  | hardness                 = 37\n  | minlevel                 = 17\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 43\n  | quest                    = Finding Dorris\n  | chest                    = end chest\n  | enhancements             = \n* {{Ghostly}}\n* {{Doubleshot|5}}\n* {{Doublestrike|9}}\n* {{Seeker|8}}\n* {{Augment|Blue}}\n* {{Named item sets|Profane Experiment}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = These are enchanted to help guide your footsteps\n  | pic                      = Boots Generic Dustless.png\n  | picdesc                  = Spectre Boots.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 17,
+  "enchantments": [
+    {
+      "text": "Ghostly",
+      "tooltip": "Ghostly: Equipping this item causes you to become partially incorporeal. Your melee attacks do not roll a miss chance for Incorporeal targets. Enemy attacks have a 10% chance to miss you due to incorporeality. You receive a +5 enhancement bonus to your Hide and Move Silently skills.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostly",
+          "title": "Ghostly",
+          "text": "Ghostly"
+        }
+      ]
+    },
+    {
+      "text": "Doubleshot 5%",
+      "tooltip": "Doubleshot 5%: Passive: 5% Enhancement bonus to Doubleshot. (Doubleshot is a chance to score an additional hit with a ranged attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doubleshot",
+          "title": "Doubleshot",
+          "text": "Doubleshot 5%"
+        }
+      ]
+    },
+    {
+      "text": "Doublestrike 9%",
+      "tooltip": "Doublestrike 9%: Passive: 9% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 9%"
+        }
+      ]
+    },
+    {
+      "text": "Seeker +8",
+      "tooltip": "Seeker +8: Provides a +8 Enhancement bonus to confirm critical hits, and a +8 Enhancement bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Seeker +8"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Profane Experiment",
+      "tooltip": "Profane Experiment: 3 Pieces Equipped: +10% Artifact bonus to Doublestrike and Doubleshot. +2 Artifact bonus to Constitution and Intelligence. +25 Artifact bonus to Universal Spell Power. +1 Artifact bonus to Imbue dice.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Profane_Experiment",
+          "title": "Named item sets",
+          "text": "Profane Experiment"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Boot Boost +1 or +3",
+      "tooltip": "Mythic Boot Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Boot Boost"
+        }
+      ]
+    }
+  ]
+}

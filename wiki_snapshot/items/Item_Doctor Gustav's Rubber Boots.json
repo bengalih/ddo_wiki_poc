@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Doctor Gustav's Rubber Boots",
+  "page_id": 123262,
+  "revision_id": 685124,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:36:36.975393+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Doctor Gustav's Rubber Boots\n  | type                     = Boots\n  | cost                     = 3201 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 180\n  | material                 = Leather\n  | hardness                 = 28\n  | minlevel                 = 8\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 77\n  | quest                    = Body and Mind\n  | chest                    = end chest\n  | enhancements             =\n* {{Elemental Resistance|Electric|18}}\n* {{Absorption|Electric|4|||Insight}}\n* {{NaturalArmor|5}}\n* {{Lifesealed|18}}\n* {{Augment|Blue}}\n* {{Augment|Moon}}\n  | epic                     = \n  | crafting                 =\n  | craftingupgrade          = \n  | description              = A damaged pair of galoshes, likely meant to protect the good Doctor from electrical experiments.\n  | pic                      =\n  | picdesc                  = Doctor Gustav's Rubber Boots.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Electric Resistance +18",
+      "tooltip": "Electric Resistance +18: Passive: +18 Enhancement bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Electric Resistance +18"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Electric Absorption +4%",
+      "tooltip": "Insightful Electric Absorption +4%: Passive: 4% Insight Bonus to Electric Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Insightful Electric Absorption +4%"
+        }
+      ]
+    },
+    {
+      "text": "Natural Armor +5",
+      "tooltip": "Natural Armor +5: Passive: +5 Natural Armor Bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Natural_armor_bonus",
+          "title": "Natural armor bonus",
+          "text": "Natural Armor +5"
+        }
+      ]
+    },
+    {
+      "text": "Lifesealed +18",
+      "tooltip": "Lifesealed +18: You are immune to magical effects that cause instant death. In addition, you have a +18% enhancement bonus to Negative Energy Absorption.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lifesealed",
+          "title": "Lifesealed",
+          "text": "Lifesealed +18"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Moon Augment Slot",
+      "tooltip": "Moon",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Moon Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Boot Boost +1 or +3",
+      "tooltip": "Mythic Boot Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Boot Boost"
+        }
+      ]
+    }
+  ]
+}

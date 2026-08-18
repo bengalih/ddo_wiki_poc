@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Spectral Great Axe (level 4)",
+  "page_id": 77943,
+  "revision_id": 665110,
+  "revision_timestamp": "2025-11-02T22:43:18Z",
+  "fetched_at": "2026-08-17T23:03:05.027822+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = [[Spectral Great Axe]]\n  | damage                   = [1d12] + 2 Slash, Magic\n  | crit                     = 20 / x3\n  | minlevel                 = 4\n  | type                     = Great Axe\n  | reqtrait                 = \n  | UMD DC                   = \n  | hand                     = Two-handed\n  | class                    = Slashing\n  | damagemod                = STR \n  | attackmod                = STR\n  | prof                     = Martial\n  | durability               = 140\n  | material                 = Force\n  | hardness                 = 14\n  | basevalue                = 1,620 pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = The Night Revels\n  | chest                    = \n  | turn in                  = {{NightRevelsRecipe|ing_chocolate= 60|ing_apple= 20|ing_caramel= 10}} at [[Joe Candymaker]] \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Ghostbane|2}}\n* {{Bane|Evil Outsider|2}}\n* {{Crushing|4}}\n  | crafting                 = The Night Revels\n  | craftingupgrade          = Spectral Greataxe (level 8)\n  | description              = The residual power left behind as thousands of Spectral Dragon Scales crumbled to dust formed this ethereal weapon.\n  | pic                      = Spectral Greataxe shown.jpg\n  | picdesc                  = Spectral Greataxe (level 4).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Ghostbane 2",
+      "tooltip": "Ghostbane 2: This weapon is attuned specifically to hunt the risen dead, dealing an additional 2d10 bane damage vs. Undead monsters.Passive: This weapon has Ghost Touch, and bypasses ethereal monster's 50% chance to evade bane damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostbane",
+          "title": "Ghostbane",
+          "text": "Ghostbane 2"
+        }
+      ]
+    },
+    {
+      "text": "Evil Outsider Bane 2",
+      "tooltip": "Evil Outsider Bane 2: This weapon is attuned specifically to hunt monsters that bring ill intent from other planes, dealing an additional 2d10 bane damage vs. Evil Outsiders.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Evil Outsider Bane 2"
+        }
+      ]
+    },
+    {
+      "text": "Crushing 4",
+      "tooltip": "Crushing 4: This effect causes the edges of this weapon to ripple with force, dealing 4d6 force damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crushing",
+          "title": "Crushing",
+          "text": "Crushing 4"
+        }
+      ]
+    }
+  ]
+}

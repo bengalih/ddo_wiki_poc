@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Epic Ring of Spell Storing",
+  "page_id": 10411,
+  "revision_id": 630325,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:54:08.149721+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Epic Ring of Spell Storing\n  | type                     = Ring\n  | class                    = Jewelry\n  | basevalue                = 8020pp\n  | weight                   = 0.10 lbs\n  | slot                     = Finger\n  | durability               = 210\n  | material                 = Gold\n  | hardness                 = 25\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | epic                     = Ring of Spell Storing\n  | mythic                   = no\n  | enhancements             = \n* {{Mnemonic|aid|5|15|3}} (CL:15, 3/day)\n* {{Augment|Colorless}}\n* {{Augment|Green}}\n* {{Named item sets|The Epic Desert's Biting Sands}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Ring of Spell Storing\n  | description              = This ring is capable of storing the magical energy necessary to cast spells. When the ring is activated the wearer's store of power is replenished enough to cast a Level 4 Spell.\n  | pic                      = Ring Generic Silver.png\n  | picdesc                  = Epic Ring of Spell Storing.png\n}}\n[[Category:Sands of Menechtarun epic items]]",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Major Mnemonic AidCharges: 3 (3/day) (CL:15, 3/day)",
+      "tooltip": "Restores 105-600 spell points.Caster level: 15 ~ - ~ ~ - ~ ~ - ~ ~ - ~",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mnemonic_Aid",
+          "title": "Mnemonic Aid",
+          "text": "Major Mnemonic Aid"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Epic Desert's Biting Sands",
+      "tooltip": "The Epic Desert's Biting Sands: 2 Pieces Equipped:+4% Artifact bonus to Force Spellcrit Chance+20 Artifact bonus to Force Spellpower+20 Artifact bonus to Magical Resistance Rating Cap",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Epic_Desert's_Biting_Sands",
+          "title": "Named item sets",
+          "text": "The Epic Desert's Biting Sands"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Swashbuckler (level 4)",
+  "page_id": 71707,
+  "revision_id": 635145,
+  "revision_timestamp": "2025-04-22T04:08:21Z",
+  "fetched_at": "2026-08-17T23:08:35.350453+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = {{Item|Swashbuckler}}\n  | type                     = Buckler\n  | prof                     = General\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 4\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +3\n  | maxdexbonus              = \n  | dr                       = 3\n  | acp                      = 0\n  | asf                      = 0\n  | ap                       = \n  | dmg                      = [1d6] + 2\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attmod                   = STR\n  | damagemod                = STR\n  | durability               = 115\n  | material                 = Steel\n  | hardness                 = 14\n  | basevalue                = 1601pp 5gp\n  | weight                   = 5 lbs\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|silver|100}}{{CCi|golden|50}}{{CCi|pyrite|15}}{{CCi|green|300}} at [[Euphonia's Barter Box]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|s|2}}\n* {{Parrying|1}}\n* {{Doublestrike|4}}\n* {{Guardbreaking}}\n* {{Stat|dex|3}}\n* {{Augment|Blue}}\n  | description              = An indispensable tool for many a pirate when dueling with a single blade. It can parry an enemy's blows effectively and even leave them open to counterattack.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Swashbuckler shown.jpg\n  | picdesc                  = Swashbuckler (level 4).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Steel",
+  "item_type": "Buckler",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Parrying +1",
+      "tooltip": "Parrying +1: +1 Insight bonus to Armor Class, +1 Insight bonus to Saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Parrying",
+          "title": "Parrying",
+          "text": "Parrying +1"
+        }
+      ]
+    },
+    {
+      "text": "Doublestrike 4%",
+      "tooltip": "Doublestrike 4%: Passive: 4% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 4%"
+        }
+      ]
+    },
+    {
+      "text": "Guardbreaking",
+      "tooltip": "Guardbreaking: This item enables you to break an enemy's guard in between your melee attacks. On critical hits with your melee weapons, enemies will become dazed as a result.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Guardbreaking",
+          "title": "Guardbreaking",
+          "text": "Guardbreaking"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +3",
+      "tooltip": "Dexterity +3: This item makes the wearer more nimble and dexterous, granting a +3 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +3"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

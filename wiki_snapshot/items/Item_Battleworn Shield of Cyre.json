@@ -1,0 +1,54 @@
+{
+  "page_title": "Item:Battleworn Shield of Cyre",
+  "page_id": 20624,
+  "revision_id": 628499,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:09:40.578773+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Large\n  | prof                     = General\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | sb                       = +3\n  | maxdexbonus              = None\n  | dr                       = 3\n  | acp                      = None\n  | asf                      = 5\n  | dmg                      = [1d6] + 1\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attmod                   = STR \n  | damagemod                = STR\n  | durability               = 130\n  | material                 = Wood\n  | hardness                 = 15\n  | basevalue                = 16,167gp\n  | weight                   = 10 lbs\n  | quest                    = Special event items\n  | chest                    = [[Special event items#Other Special Event Items|DM unique prize]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|s|1}}\n* {{Mat|Darkwood}}\n* {{Twilight}}\n  | description              = Very few items survived the destruction of Cyre but this battered shield was recovered by an expedition into the Mournlands.\n  | pic                      = Battleworn Shield of Cyre shown.jpg\n  | picdesc                  = Battleworn Shield of Cyre.png\n  | tips                     = Note: This is a rare special item distributed to certain players in recognition of their efforts in Dungeons & Dragons Online. The shield was mailed or traded directly to the player by a Turbine employee. It is not known how many shields have been distributed. This item is also available for distribution during events supported by the DDO community team.\n}}\n\n[[Category:Community Loot List items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Wood",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Darkwood",
+      "tooltip": "Darkwood: Darkwood is an unusually light and hardy type of wood. It is half the weight of normal wood, but +1 hardness. Armor check penalty reduced by 2.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Darkwood",
+          "title": "Darkwood",
+          "text": "Darkwood"
+        }
+      ]
+    },
+    {
+      "text": "Twilight",
+      "tooltip": "Twilight: This suit of armor, favored by eladrin spellcasters, becomes semi-incorporeal when donned. The twilight armor reduces the chance of arcane spell failure by -10%.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Twilight_(enchantment)#Twilight",
+          "title": "Twilight (enchantment)",
+          "text": "Twilight"
+        }
+      ]
+    }
+  ]
+}

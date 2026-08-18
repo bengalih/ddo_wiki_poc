@@ -1,0 +1,66 @@
+{
+  "page_title": "Item:-1 Quarterstaff of Lesser Halfling Bane",
+  "page_id": 17568,
+  "revision_id": 682638,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:00:47.967889+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = -1 Quarterstaff of Lesser Halfling Bane\n  | damage                   = [1d6] - 1 Bludgeon\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Simple\n  | durability               = 90\n  | material                 = Wood\n  | hardness                 = 6\n  | minlevel                 = 0\n  | released                 = Update 9\n  | quest                    = Essence Crafting Tutorial\n  | end reward               = yes\n  | basevalue                = 1cp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|no}}\n  | enhancements             = \n* {{Enhancement bonus|w|-1}}\n* {{Bane|Halfling|lesser}}\n* {{Cursed|str}}\n  | epic                     = no\n  | crafting                 = Cannith\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | craftingnotes            = <!--Any notes about the crafteable item-->\n  | pic                      = Twig of the Giant Mage shown.jpg\n  | picdesc                  = -1 Quarterstaff of Lesser Halfling Bane.jpg\n  | description              = A long, stout staff used as a simple weapon. Often favored by wizards or common folk.\n  | tips                     = Note its non-named item border, which indicates it's craftable, even though it has some unusual stats.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "-1 Enhancement Bonus",
+      "tooltip": "-1 Enhancement Bonus: This weapon is less well-made than normal, giving a -1 penalty to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "-1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Halfling Bane",
+      "tooltip": "Lesser Halfling Bane: A bane weapon excels at attacking one type or subtype of creature. Against Halflings, this weapon's effective enhancement bonus is +1 better than its normal enhancement bonus. It deals an extra 1 to 6 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Lesser Halfling Bane"
+        }
+      ]
+    },
+    {
+      "text": "Curse of Weakness",
+      "tooltip": "Curse of Weakness: Passive -1 Penalty to Strength. (The minimum level required to equip this item is lower than normal due to this curse.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cursed",
+          "title": "Cursed",
+          "text": "Curse of Weakness"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

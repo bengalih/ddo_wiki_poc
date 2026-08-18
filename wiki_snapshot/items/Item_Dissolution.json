@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Dissolution",
+  "page_id": 52706,
+  "revision_id": 690852,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:35:44.008506+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Dissolution\n  | minlevel                 = 26\n  | type                     = Bracers\n  | race                     = \n  | slot                     = Wrist\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 270\n  | material                 = Leather\n  | hardness                 = 36\n  | basevalue                = 10,420 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | released                 = Update 27\n  | revamped                 = Update 80\n  | quest                    = Defiler of the Just\n  | end reward               = \n  | turn in                  = \n  | chest                    = Warded chest\n  | enhancements             = \n* {{Spelllore|Acid|21}}\n* {{SpellPower|Corrosion|142}}\n* {{Absorption|Acid|34}}\n* {{Spell Focus|Conjuration|7}}\n* {{Augment|Blue}}\n* {{Augment|Green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Made from the carapace of a fiendish worm, these bracers still ooze with strange acidic liquids.\n  | pic                      = Bracers Generic.png\n  | picdesc                  = Dissolution.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "Acid Lore +21%",
+      "tooltip": "Acid Lore +21: Passive: Your Acid spells gain a 21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Acid Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Corrosion +142",
+      "tooltip": "Corrosion +142: Passive: +142 Equipment bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Corrosion +142"
+        }
+      ]
+    },
+    {
+      "text": "Acid Absorption +34%",
+      "tooltip": "Acid Absorption +34%: Passive: 34% Enhancement Bonus to Acid Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Acid Absorption +34%"
+        }
+      ]
+    },
+    {
+      "text": "Conjuration Focus +7",
+      "tooltip": "Conjuration Focus +7: +7 Equipment bonus to the DC of Conjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Conjuration Focus +7"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Wrist Boost +1 or +3",
+      "tooltip": "Mythic Wrist Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Wrist Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Mechanic's Belt",
+  "page_id": 11369,
+  "revision_id": 633458,
+  "revision_timestamp": "2025-04-22T02:14:56Z",
+  "fetched_at": "2026-08-17T22:23:49.572132+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Mechanic's Belt\n  | type                     = Belt\n  | class                    = Clothing\n  | basevalue                = 10,002 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 110\n  | material                 = Leather\n  | hardness                 = 15\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = A New Invasion\n  | chest                    = Any chest ; [[Tower of Despair]], [[Nythirios]] chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CON|6}}\n* {{Proof|Poison|6}}\n* {{Elemental Resistance|Fire|10}}\n* {{Named item sets|Mechanic}}\n  | description              = This leather belt has a number of small pouches holding various tools. It was worn by the master Mechanic, Rotas.\n  | pic                      = Belt Generic.png\n  | picdesc                  = Mechanic's Belt.png\n  | tips                     = This belt is one of two pieces of the {{Named item sets|Mechanic}} unique item set; the other item is the [[Ring of Deftness]] which can be acquired in the [[Tower of Despair]].\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Constitution +6",
+      "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +6"
+        }
+      ]
+    },
+    {
+      "text": "Proof Against Poison +6",
+      "tooltip": "Proof Against Poison +6: This item grants its wearer immunity to natural poisons. This item also grants a +6 Enhancement bonus to saving throws against magical poisons, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical poisons with a DC of less than 7 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Poison",
+          "title": "Proof Against Poison",
+          "text": "Proof Against Poison +6"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +10",
+      "tooltip": "Fire Resistance +10: Passive: +10 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +10"
+        }
+      ]
+    },
+    {
+      "text": "Mechanic",
+      "tooltip": "Mechanic: Open Locks +15, Disable Device +15, +2 Exceptional bonus to all Dexterity based Skills.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Mechanic",
+          "title": "Named item sets",
+          "text": "Mechanic"
+        }
+      ]
+    }
+  ]
+}

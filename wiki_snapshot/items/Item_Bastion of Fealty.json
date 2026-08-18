@@ -1,0 +1,92 @@
+{
+  "page_title": "Item:Bastion of Fealty",
+  "page_id": 8091,
+  "revision_id": 628482,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:09:12.654857+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Bastion of Fealty\n  | type                     = Full Plate\n  | feat                     = Medium\n  | race                     = \n  | minlevel                 = 16\n  | bind                     = {{Bind|BtC|BoA}}\n  | epic                     = no\n  | ac                       = +22\n  | maxdexbonus              = 4\n  | asf                      = 25%\n  | durability               = 296\n  | material                 = Mithral\n  | hardness                 = 32\n  | basevalue                = 7,450 pp\n  | weight                   = 50 lbs\n  | quest                    = Silver Flame Nugget\n  | chest                    = \n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Nightshield|14|1}}\n* {{Enhancement bonus|a|5}}\n* {{Spell Resistance|30}}\n* {{Mat|Mithral}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n  | craftingupgrade          = \n  | craftingnotes            = \n  | pic                      = Bastion of Fealty shown.jpg\n  | picdesc                  = Bastion of Fealty.png\n  | description              = This platemail is made out of near pure silver, with bright blue highlights. A blue flame appears as if it was burned into the center of the chest.\n  | notes                    = {{Bug|As a mithral armor it should weight 25 lbs instead of 50. And the description claims \"made out of near pure silver\" instead of mithral.}}\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Nightshield — 1 Charges (Recharged/Day:1)",
+      "tooltip": "NightshieldCaster level: 14Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nightshield",
+          "title": "Nightshield",
+          "text": "Nightshield"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Spell Resistance +30",
+      "tooltip": "Spell Resistance +30: +30 Enhancement bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Spell Resistance +30"
+        }
+      ]
+    },
+    {
+      "text": "Mithral",
+      "tooltip": "Mithral: Mithral armor is one type lighter then normal. Arcane Spell Failure decreased by 10%. Maximum dexterity bonus increased by 2. Armor check penalty reduced by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mithral",
+          "title": "Mithral",
+          "text": "Mithral"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

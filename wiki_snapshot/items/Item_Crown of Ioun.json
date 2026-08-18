@@ -1,0 +1,168 @@
+{
+  "page_title": "Item:Crown of Ioun",
+  "page_id": 126767,
+  "revision_id": 703341,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:28:20.223319+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Crown of Ioun\n  | type                     = Helm\n  | class                    = Clothing\n  | slot                     = Head\n  | durability               = 210\n  | material                 = Gem\n  | hardness                 = 31\n  | basevalue                = 4,401 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 11\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Catalyst Crafting\n  | turn in                  = {{Item|Elemental Victory}}, its [[Deep Catalyst]] and 50 {{Item|Abyssal Gem}}s at the [[Strange Catalyst Forge]]\n  | epic                     = no\n  | released                 = Update 81\n  | mythic                   = no\n  | enhancements             = \n* {{Absorption|Fire and Cold|22}}\n* {{Absorption|Electricity and Acid|22}}\n* {{Wizardry|134}}\n* {{Nearly Complete|Ability Score}}\n* {{Augment|Blue}}\n* {{Augment|Sun}}\n  | crafting                 = Nearly Complete\n  | description              = Scholarly wizards claim it's impossible to wield more than one Ioun Stone; whether this crown defies that wisdom, or simply employs illusion to make it look like more than one is unclear.\n  | pic                      = Crown of Ioun shown.jpg\n  | picdesc                  = Crown of Ioun.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Fire and Cold Absorption +22%",
+      "tooltip": "Fire and Cold Absorption +22%: Passive: 22% Enhancement Bonus to Fire and Cold Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Fire and Cold Absorption +22%"
+        }
+      ]
+    },
+    {
+      "text": "Electricity and Acid Absorption +22%",
+      "tooltip": "Electricity and Acid Absorption +22%: Passive: 22% Enhancement Bonus to Electricity and Acid Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Electricity and Acid Absorption +22%"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry +134",
+      "tooltip": "Wizardry +134: +134 Enhancement bonus to spell points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry +134"
+        }
+      ]
+    },
+    {
+      "text": "Nearly Complete: Ability Score",
+      "tooltip": "Nearly Complete: Ability Score: This item isn't quite finished, but it's only a step away from completion. Bring it to the forges on the upper floor of Gravenhollow and combine it with melted materials to restore this item to its full potential.",
+      "children": [
+        {
+          "text": "This item can be upgraded with one of the following:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Charisma +6",
+              "tooltip": "Charisma +6: This item makes the wearer have more flair, granting a +6 Enhancement bonus to Charisma.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Charisma",
+                  "title": "Charisma",
+                  "text": "Charisma +6"
+                }
+              ]
+            },
+            {
+              "text": "Constitution +6",
+              "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Constitution",
+                  "title": "Constitution",
+                  "text": "Constitution +6"
+                }
+              ]
+            },
+            {
+              "text": "Dexterity +6",
+              "tooltip": "Dexterity +6: This item makes the wearer more nimble and dexterous, granting a +6 Enhancement bonus to Dexterity.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Dexterity",
+                  "title": "Dexterity",
+                  "text": "Dexterity +6"
+                }
+              ]
+            },
+            {
+              "text": "Intelligence +6",
+              "tooltip": "Intelligence +6: This item focuses the power of the wearer's mind, granting a +6 Enhancement bonus to Intelligence.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Intelligence",
+                  "title": "Intelligence",
+                  "text": "Intelligence +6"
+                }
+              ]
+            },
+            {
+              "text": "Strength +6",
+              "tooltip": "Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Strength",
+                  "title": "Strength",
+                  "text": "Strength +6"
+                }
+              ]
+            },
+            {
+              "text": "Wisdom +6",
+              "tooltip": "Wisdom +6: This item makes the wearer more in tune with her surroundings, granting a +6 Enhancement bonus to Wisdom.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Wisdom",
+                  "title": "Wisdom",
+                  "text": "Wisdom +6"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Nearly_Complete",
+          "title": "Nearly Complete",
+          "text": "Nearly Complete: Ability Score"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    }
+  ]
+}

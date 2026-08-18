@@ -1,0 +1,40 @@
+{
+  "page_title": "Item:Rakhat's Spangle",
+  "page_id": 10027,
+  "revision_id": 634116,
+  "revision_timestamp": "2025-04-22T03:00:20Z",
+  "fetched_at": "2026-08-17T22:42:05.690480+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Rakhat's Spangle\n  | type                     = Trinket\n  | slot                     = Trinket\n  | durability               = 20\n  | material                 = Gem\n  | hardness                 = 16\n  | basevalue                = 120 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 0\n  | bind                     = {{Bind|no}}\n  | chest                    = [[Witch Doctor Rakhat]]'s Chest\n  | quest                    = Durk's Got A Secret\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CON|1}}\n* {{Skills|concentration|1}}\n  | description              = A faint whispering sound surrounds this glowing purple gem.\n  | pic                      = Gem Generic Purple.png\n  | picdesc                  = Rahkat's Spangle.png\n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "enchantments": [
+    {
+      "text": "Constitution +1",
+      "tooltip": "Constitution +1: This item gives the wearer improved health, granting a +1 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +1"
+        }
+      ]
+    },
+    {
+      "text": "Concentration +1",
+      "tooltip": "Concentration +1: Passive: +1 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Legendary Storm Signet",
+  "page_id": 113818,
+  "revision_id": 642564,
+  "revision_timestamp": "2025-05-22T23:56:12Z",
+  "fetched_at": "2026-08-17T22:10:23.966508+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Legendary Storm Signet\n  | minlevel                 = 33\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 430\n  | material                 = Gem\n  | hardness                 = 53\n  | cost                     = 13,201 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 73\n  | quest                    = Sleeping with the Fishes\n  | chest                    = end chest\n  | legendary                = \n  | mythic                   = \n  | enhancements             = \n* {{SpellPower|Magnetism|38|Quality}} \n* {{Elemental Resistance|Electric|56}}\n* {{Absorption|Electric|37}}\n* {{Efficient Metamagic|Maximize|2}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = \n  | picdesc                  = Legendary Storm Signet.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 33,
+  "enchantments": [
+    {
+      "text": "Quality Magnetism +38",
+      "tooltip": "Quality Magnetism +38: Passive: +38 Quality bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Quality Magnetism +38"
+        }
+      ]
+    },
+    {
+      "text": "Electric Resistance +56",
+      "tooltip": "Electric Resistance +56: Passive: +56 Enhancement bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Electric Resistance +56"
+        }
+      ]
+    },
+    {
+      "text": "Electric Absorption +37%",
+      "tooltip": "Electric Absorption +37%: Passive: 37% Enhancement Bonus to Electric Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Electric Absorption +37%"
+        }
+      ]
+    },
+    {
+      "text": "Efficient Metamagic - Maximize II",
+      "tooltip": "Efficient Metamagic - Maximize II: The additional spell point cost for using the Maximize Metamagic feat is reduced by 4 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Maximize II"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

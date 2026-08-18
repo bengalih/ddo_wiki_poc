@@ -1,0 +1,38 @@
+{
+  "page_title": "Item:Eternal Wand of Spark of Light",
+  "page_id": 10469,
+  "revision_id": 677060,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:00:14.838635+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Eternal wand\n  | name                     = Eternal Wand of Spark of Light\n  | umd                      = 15\n  | noumd                    = Clr, FvS\n  | minlevel                 = 1\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | durability               = 25\n  | material                 = Wood\n  | hardness                 = 10\n  | weight                   = 0.10 lbs\n  | cost                     = None\n  | quest                    = The Grotto\n  | end reward               = yes\n  | description              = A thin baton of carved bone containing charges of the Spark of Light spell. Eternal wands recharge over time if they are not actively being used.\n  | notes                    = Even though it says it recharges every day, the wand actually recovers 1 charge every 3 seconds making this wand have effectively infinite charges.<br /><br /><br />\n[[File:Eternal Wand of Spark of Light shown.jpg]]\n  | icon                     = Icon_eternalwandstarter.jpg\n  | spell                    = Spark of Light\n  | casterlvl                = 5\n  | charge                   = 50\n  | enhancements             = \n* {{Clicky|Spark of Light|5|50|50}}\n* {{SpellPower|Radiance|30}}\n  | mythic                   = no\n  | picdesc                  = Item Eternal Wand of Spark of Light.jpg \n}}",
+  "item_template": "Named item",
+  "material": "Wood",
+  "minimum_level": 1,
+  "enchantments": [
+    {
+      "text": "Spark of Light — 50 Charges (Recharged/Day:50)",
+      "tooltip": "Spark of LightCaster level: 5Charges: 50 (50/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spark_of_Light",
+          "title": "Spark of Light",
+          "text": "Spark of Light"
+        }
+      ]
+    },
+    {
+      "text": "Radiance +30",
+      "tooltip": "Radiance +30: Passive: +30 Equipment bonus to Light and Alignment Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiance_(spell_boost)",
+          "title": "Radiance (spell boost)",
+          "text": "Radiance +30"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "page_title": "Item:Epic Full Plate of the Ringleader",
+  "page_id": 11833,
+  "revision_id": 630132,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:50:07.527910+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Epic Full Plate of the Ringleader\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +26\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 360\n  | material                 = Dwarven Iron\n  | hardness                 = 31\n  | basevalue                = 8,150pp\n  | weight                   = 50 lbs\n  | quest                    = \n  | epic                     = Full Plate of the Ringleader\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|6}}\n* {{DR|15}}\n* {{Skills|Command|5|Insight}}\n* {{Stat|CHA|+9}}\n* {{Guard|Radiance}}\n* {{Augment|Blue}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Full Plate of the Ringleader\n  | pic                      = Full Plate of the Ringleader shown.jpg\n  | picdesc                  = Epic Full Plate of the Ringleader.png\n  | description              = A brilliant and gaudy set of armor that makes its wearer the center of attention. It is made from surprisingly durable materials.\n  | notes                    = \n}}[[Category:Phiarlan Carnival epic items]]",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Dwarven Iron",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "DR 15/-",
+      "tooltip": "Damage Reduction 15/-: Reduces all physical damage by 15.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Command +5",
+      "tooltip": "Insightful Command: Passive: +5 Insight bonus on Charisma based skill checks. Command armor and command shields make their owners very noticeable, imposing a -6 penalty on Hide checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Command_(enchantment)",
+          "title": "Command (enchantment)",
+          "text": "Insightful Command +5"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +9",
+      "tooltip": "Charisma +9: This item makes the wearer have more flair, granting a +9 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +9"
+        }
+      ]
+    },
+    {
+      "text": "Radiance Guard",
+      "tooltip": "Radiance Guard: This item is imbued with a brilliant, radiant power. When the wearer of this item is successfully attacked in melee, the attacker has a chance of being hit by 4d6 points of light damage and has a chance of being blinded.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiance_Guard",
+          "title": "Radiance Guard",
+          "text": "Radiance Guard"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

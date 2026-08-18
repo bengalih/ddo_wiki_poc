@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Nyoko's Necklace",
+  "page_id": 11139,
+  "revision_id": 633799,
+  "revision_timestamp": "2025-04-22T02:37:53Z",
+  "fetched_at": "2026-08-17T22:33:15.024813+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Nyoko's Necklace\n  | type                     = Necklace\n  | class                    = Jewelry\n  | slot                     = Neck\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | durability               = 110\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 10,005 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Genesis Point\n  | chest                    = Any end chest ; [[Tower of Despair]], [[Nythirios]] chest\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Invisibility|15|3}}\n* {{Stat|CON|6}}\n* {{Named item sets|Ninja Spy}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This thin choker was worn by Nyoko, a very talented Ninja Spy whose location is now unknown.\n  | pic                      = Necklace Generic.png\n  | picdesc                  = Nyoko's Necklace.png\n}}\n[[Category:Tower of Despair loot]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Invisibility — 3 Charges (Recharged/Day:3)",
+      "tooltip": "InvisibilityCaster level: 15Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Invisibility",
+          "title": "Invisibility",
+          "text": "Invisibility"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +6",
+      "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +6"
+        }
+      ]
+    },
+    {
+      "text": "Ninja Spy",
+      "tooltip": "Ninja Spy: Bonus to hit (+2 exceptional bonus to hit) and damage with sneak attacks (+5 damage from attacks considered sneak attacks[non-stacking]), 20% less threat.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Ninja_Spy",
+          "title": "Named item sets",
+          "text": "Ninja Spy"
+        }
+      ]
+    }
+  ]
+}

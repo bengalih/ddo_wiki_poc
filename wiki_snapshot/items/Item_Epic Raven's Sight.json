@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Epic Raven's Sight",
+  "page_id": 12023,
+  "revision_id": 644748,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:53:48.760235+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Epic Raven's Sight\n  | type                     = Goggles\n  | minlevel                 = 20\n  | slot                     = Eye\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 210\n  | material                 = Steel\n  | hardness                 = 30\n  | basevalue                = 8005pp\n  | weight                   = 0.10 lbs\n  | quest                    = Altar of Epic Rituals\n  | chest                    = {{Item|Raven's Sight}}\n  | released                 = Update 6\n  | revamped                 = Update 59\n  | epic                     = Raven's Sight\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|WIS|+4|Insightful}}\n* {{Save|w|9}}\n* {{Accuracy|15}}\n* {{True Seeing}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n* {{Named item sets|Epic Raven's Eye}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Raven's Sight\n  | description              = Goggles like these make the wearer's vision much sharper and are often employed by drow scouts and spies.\n  | pic                      = Epic Raven's Sight shown.png\n  | picdesc                  = Epic Raven's Sight.png\n}}\n[[Category:The Red Fens epic items]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Insightful Wisdom +4",
+      "tooltip": "Insightful Wisdom +4: This item makes the wearer more in tune with her surroundings, granting a +4 Insight bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Insightful Wisdom +4"
+        }
+      ]
+    },
+    {
+      "text": "Will Save +9",
+      "tooltip": "Will Save +9: This item gives a +9 Resistance bonus to your Will saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Will_save",
+          "title": "Will save",
+          "text": "Will Save +9"
+        }
+      ]
+    },
+    {
+      "text": "Accuracy +15",
+      "tooltip": "Accuracy +15: Passive: +15 Competence bonus to attack rolls",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accuracy",
+          "title": "Accuracy",
+          "text": "Accuracy +15"
+        }
+      ]
+    },
+    {
+      "text": "True Seeing",
+      "tooltip": "True Seeing: Passive: You gain the benefit of the spell True Seeing.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/True_Seeing_(enchantment)",
+          "title": "True Seeing (enchantment)",
+          "text": "True Seeing"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Epic Raven's Eye",
+      "tooltip": "Epic Raven's Eye: 2 Pieces Equipped:+3 Artifact bonus to Attack and Damage+3 Artifact bonus to Critical Confirmation and Critical Damage+5 Artifact bonus to Search and Spot",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Epic_Raven's_Eye",
+          "title": "Named item sets",
+          "text": "Epic Raven's Eye"
+        }
+      ]
+    }
+  ]
+}

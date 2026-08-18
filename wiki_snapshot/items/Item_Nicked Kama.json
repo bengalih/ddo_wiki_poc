@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Nicked Kama",
+  "page_id": 10322,
+  "revision_id": 672476,
+  "revision_timestamp": "2026-01-25T17:45:25Z",
+  "fetched_at": "2026-08-17T22:30:52.986860+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Nicked Kama\n  | type                     = Kama\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Exotic\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|boa}}\n  | damage                   = [1d6] + 2 Slash, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 80\n  | material                 = Steel \n  | hardness                 = 12\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement_bonus|w|2}}\n* {{Electrifying|2}}\n* {{Tactics|Tendon Slice|3}}\n* {{Deadly|3}}\n  | description              = A weapon with a straight inside edge attached perpendicularly to a thin wooden haft and wielded with one hand. The wooden haft appears to have been sanded down to remove a series of marks that would have made this item identifiable. \n  | basevalue                = 200pp 2gp\n  | weight                   = 2 lbs\n  | released                 = Update 0\n  | revamped                 = Update 76\n  | quest                    = The Sharn Syndicate\n  | end reward               = yes\n  | pic                      = Item nickedkama.jpg\n  | tips                     = \n  | picdesc                  = Nicked Kama.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Kama",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Electrifying 2",
+      "tooltip": "Electrifying 2: This effect causes the edges of this weapon to arc with electricity, dealing 2d6 Lightning damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electrifying",
+          "title": "Electrifying",
+          "text": "Electrifying 2"
+        }
+      ]
+    },
+    {
+      "text": "Tendon Slice +3",
+      "tooltip": "Tendon Slice +3: On Hit: 6% chance to slow target's movement by 50% for 3 seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Tendon_Slice",
+          "title": "Tendon Slice",
+          "text": "Tendon Slice +3"
+        }
+      ]
+    },
+    {
+      "text": "Deadly +3",
+      "tooltip": "Deadly +3: +3 Competence bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Deadly +3"
+        }
+      ]
+    }
+  ]
+}

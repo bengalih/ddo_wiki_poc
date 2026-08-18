@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:The Diplomancer (level 30)",
+  "page_id": 73479,
+  "revision_id": 666345,
+  "revision_timestamp": "2025-11-19T15:49:10Z",
+  "fetched_at": "2026-08-17T23:13:27.307451+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|The Diplomancer}}\n  | damage                   = 5[1d8] + 14 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Light Crossbow\n  | hand                     = Ranged\n  | race                     = \n  | class                    = Ranged\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = DEX\n  | damagemod                = DEX\n  | minlevel                 = 30\n  | durability               = 375\n  | material                 = Wood\n  | hardness                 = 40\n  | cost                     = 12,003pp 5gp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | revamped                 = Update 76\n  | quest                    = Anniversary Party\n  | chest                    = \n  | end reward               = \n  | turn in                  = {{U30 ingredient|100}}\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|14}}\n* {{Bleeding|6}}\n* {{Impactful|6}}\n* {{Diversion|21|Distant}}\n* {{Skills|Diplomacy|20}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Ask questions first. Shoot later.\n  | pic                      = The Diplomancer shown.jpg\n  | picdesc                  = The Diplomancer (level 30).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Light Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+14 Enhancement Bonus",
+      "tooltip": "+14 Enhancement Bonus: +14 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+14 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Bleeding 6",
+      "tooltip": "Bleeding 6: This weapon is wickedly curved, with spines and hooks meant to cause damage to those with flesh. This weapon does 6d8 bleeding damage to those that are vulnerable to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleeding",
+          "title": "Bleeding",
+          "text": "Bleeding 6"
+        }
+      ]
+    },
+    {
+      "text": "Impactful 6",
+      "tooltip": "Impactful 6: This effect causes the edges of this weapon to ripple with force, dealing 6 to 36 force on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impactful",
+          "title": "Impactful",
+          "text": "Impactful 6"
+        }
+      ]
+    },
+    {
+      "text": "Distant Diversion +21%",
+      "tooltip": "Distant Diversion +21%: +21% Enhancement bonus to decreased threat generated from ranged damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Diversion",
+          "title": "Diversion",
+          "text": "Distant Diversion +21%"
+        }
+      ]
+    },
+    {
+      "text": "Diplomacy +20",
+      "tooltip": "Diplomacy +20: Passive: +20 Competence bonus to the Diplomacy skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Diplomacy",
+          "title": "Diplomacy",
+          "text": "Diplomacy +20"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    }
+  ]
+}

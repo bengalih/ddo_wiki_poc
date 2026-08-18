@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Epic Sceptre of Combustion",
+  "page_id": 87486,
+  "revision_id": 630374,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:55:03.101147+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Sceptre of Combustion\n  | damage                   = 3[1d6] + 6 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 250\n  | material                 = Steel\n  | hardness                 = 30\n  | minlevel                 = 20\n  | released                 = Update 44\n  | quest                    = Morten Edgewright\n  | chest                    = \n  | end reward               = \n  | turn in                  = 1 [[Epic Arcane Ingot]]\n  | epic                     = \n  | basevalue                = 8000pp 1cp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | revamped                 = Update 50\n  | enhancements             = \n* {{Enhancement bonus|i|6|20}}\n* {{Spelllore|Fire|16}}\n* {{SpellPower|Combustion|111}}\n* {{SpellPower|Combustion|55|Insight}}\n* {{Wizardry|97|Insight}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Sceptre Generic Borderlands pic.jpg\n  | picdesc                  = Epic Sceptre of Combustion.png\n  | description              = This magical sceptre is attuned to Fire spells.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +20",
+      "tooltip": "Spellcasting Implement +20: Passive: +20 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +20"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fire Lore +16%",
+      "tooltip": "Fire Lore +16: Passive: Your Fire spells gain a 16% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore +16%"
+        }
+      ]
+    },
+    {
+      "text": "Combustion +111",
+      "tooltip": "Combustion +111: Passive: +111 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +111"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Combustion +55",
+      "tooltip": "Insightful Combustion +55: Passive: +55 Insight bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Insightful Combustion +55"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Wizardry +97",
+      "tooltip": "Insightful Wizardry +97: +97 Insight bonus to spell points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Insightful Wizardry +97"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

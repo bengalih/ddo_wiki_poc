@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Ring of Master Artifice (level 3)",
+  "page_id": 40608,
+  "revision_id": 650157,
+  "revision_timestamp": "2025-07-26T19:12:57Z",
+  "fetched_at": "2026-08-17T22:45:16.894798+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = {{Item|Ring of Master Artifice}}\n  | minlevel                 = 3\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | durability               = 40\n  | material                 = Steel\n  | hardness                 = 5\n  | basevalue                = 1220pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Vaults of the Artificers\n  | end reward               = <!-- -->\n  | turn in                  = <!-- -->\n  | chest                    = from exchanged challenge rewards\n  | mythic                   = no\n  | enhancements             = \n* {{clicky|Repair Light Damage|1|1}}\n* {{Wizardry|57}}\n* {{SpellPower|Reconstruction|54}}\n* {{Spelllore|Repair|8}}\n* {{Auto-Repair}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = <!--yes-->\n  | description              = A ring said to have been worn by a legendary artificer. Using it, he was able to take things that seemed beyond repair and make them as good as new.\n  | pic                      = Ring Generic Artifice.png\n  | picdesc                  = Ring of Master Artifice 3.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Repair Light Damage — 1 Charges (Recharged/Day:1)",
+      "tooltip": "Repair Light DamageCaster level: 1Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Repair_Light_Damage",
+          "title": "Repair Light Damage",
+          "text": "Repair Light Damage"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry +57",
+      "tooltip": "Wizardry +57: +57 Enhancement bonus to spell points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry +57"
+        }
+      ]
+    },
+    {
+      "text": "Reconstruction +54",
+      "tooltip": "Reconstruction +54: Passive: +54 Equipment bonus to Repair and Rust Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reconstruction",
+          "title": "Reconstruction",
+          "text": "Reconstruction +54"
+        }
+      ]
+    },
+    {
+      "text": "Repair Lore +8%",
+      "tooltip": "Repair Lore +8: Passive: Your Repair and Rust spells gain a 8% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Repair Lore +8%"
+        }
+      ]
+    },
+    {
+      "text": "Auto-Repair",
+      "tooltip": "Auto-Repair: This item has a small percentage chance to cast a Repair Moderate Damage spell on you when you take damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Auto-Repair#Auto-Repair",
+          "title": "Auto-Repair",
+          "text": "Auto-Repair"
+        }
+      ]
+    }
+  ]
+}

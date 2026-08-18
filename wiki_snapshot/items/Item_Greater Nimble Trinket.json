@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Greater Nimble Trinket",
+  "page_id": 13949,
+  "revision_id": 631240,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:15:37.237984+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Greater Nimble Trinket\n  | basevalue                = 905 pp\n  | weight                   = 0.10 lbs\n  | type                     = Trinket\n  | slot                     = Trinket\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{Item|Nimble Trinket}} (and other ingredients) at [[Dusty Old Treasure of Crystal Cove]]\n  | durability               = 40\n  | material                 = Gem \n  | hardness                 = 23\n  | minlevel                 = 4\n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Popup|long=yes|[[Upgradeable - Tier 3]]|'''Upgradeable - Tier 3:''' This is a tier 3 (maximum tier) item. It is not upgradeable.}}\n* {{Attack Bonus|1}}\n* {{Dodge|2}}\n* {{Concealment|Blurry}}\n  | description              = Pirates are deft and light on their feet, able to dodge enemy attacks and land their own with ease.  This trinket boosts the accuracy of your attacks and improves your dodging ability.\n  | pic                      = Necklace Generic Green.png\n  | picdesc                  = Greater Nimble Trinket.png\n}}<noinclude>[[Category:Treasure of Crystal Cove legacy reward items]]</noinclude>",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This is a tier 3 (maximum tier) item. It is not upgradeable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_3",
+          "title": "Upgradeable - Tier 3",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    },
+    {
+      "text": "Attack Bonus +1",
+      "tooltip": "Attack Bonus +1: Provides a +1 competence bonus to your attack rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Attack_bonus",
+          "title": "Attack bonus",
+          "text": "Attack Bonus +1"
+        }
+      ]
+    },
+    {
+      "text": "Dodge +2%",
+      "tooltip": "Dodge +2%: +2% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +2%"
+        }
+      ]
+    },
+    {
+      "text": "Blurry",
+      "tooltip": "Blurry: Equipping this item causes you to become slightly blurry. Attacks from enemies have a 20% chance to miss you due to concealment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blurry",
+          "title": "Blurry",
+          "text": "Blurry"
+        }
+      ]
+    }
+  ]
+}

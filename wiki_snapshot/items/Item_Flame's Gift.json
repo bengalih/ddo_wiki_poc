@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Flame's Gift",
+  "page_id": 10017,
+  "revision_id": 630883,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:05:18.269591+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Flame's Gift\n  | basevalue                = 1,620 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Trinket\n  | type                     = Trinket\n  | durability               = 41\n  | material                 = Gem \n  | hardness                 = 24\n  | minlevel                 = 9\n  | bind                     = {{Bind|no}}\n  | quest                    = And the Dead Shall Rise...\n  | chest                    = End Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Spelllore|Fire|iii}}\n* {{SpellPower|Combustion|54}} \n  | description              = This symbol was once owned by a dreaded pyromancer, and was rumored to be the source of his power.\n  | pic                      = Trinket Generic Eye.png\n  | picdesc                  = Flame's Gift.png\n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Fire Lore III",
+      "tooltip": "Fire Lore III: Passive: Your Fire spells gain a 13% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore III"
+        }
+      ]
+    },
+    {
+      "text": "Combustion +54",
+      "tooltip": "Combustion +54: Passive: +54 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +54"
+        }
+      ]
+    }
+  ]
+}

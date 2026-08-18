@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Bladed Steel Ring",
+  "page_id": 37982,
+  "revision_id": 628595,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:11:39.372463+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Bladed Steel Ring\n  | type                     = Ring\n  | race                     = Bladeforged\n  | slot                     = Finger\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Parrying|IV}}\n* {{Skills|intimidate|13}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Through blade and steel, we find our future.\n  | pic                      = Ring Generic Chattering.png\n  | picdesc                  = Bladed Steel Ring.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Parrying IV",
+      "tooltip": "Parrying IV: Passive: +2 Insight bonus to Armor Class, +2 Insight bonus to Fortitude, Reflex, and Will Saving throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Parrying",
+          "title": "Parrying",
+          "text": "Parrying IV"
+        }
+      ]
+    },
+    {
+      "text": "Intimidate +13",
+      "tooltip": "Intimidate +13: Passive: +13 Competence bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Intimidate +13"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Undeniable Truth",
+  "page_id": 39436,
+  "revision_id": 690635,
+  "revision_timestamp": "2026-06-30T16:30:09Z",
+  "fetched_at": "2026-08-17T23:22:04.240316+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Undeniable Truth\n  | type                     = Belt\n  | race                     = Sun Elf\n  | basevalue                = 6002 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 15\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Spell Focus|Evocation|II}}\n* {{Stat|CON|+1|Exceptional}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Belt Generic.png\n  | picdesc                  = Undeniable Truth.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Evocation Focus II",
+      "tooltip": "Evocation Focus II: +2 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus II"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Constitution +1",
+      "tooltip": "Exceptional Constitution +1: This item gives the wearer improved health, granting a +1 Exceptional bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Exceptional Constitution +1"
+        }
+      ]
+    }
+  ]
+}

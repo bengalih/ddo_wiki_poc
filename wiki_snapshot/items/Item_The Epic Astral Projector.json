@@ -1,0 +1,109 @@
+{
+  "page_title": "Item:The Epic Astral Projector",
+  "page_id": 72029,
+  "revision_id": 635335,
+  "revision_timestamp": "2025-04-22T04:21:01Z",
+  "fetched_at": "2026-08-17T23:13:47.756544+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Rune Arm\n  | name                     = The Epic Astral Projector\n  | reqtrait                 = [[Rune Arm Use | Artificer Rune Arm Use]]\n  | minlevel                 = 21\n  | durability               = 355\n  | material                 = Force\n  | hardness                 = 31\n  | released                 = Update 40\n  | quest                    = The Night Revels\n  | chest                    = \n  | end reward               = \n  | turn in                  = [[Joe Candymaker]],<br/>{{NightRevelsRecipe|ing_chocolate=120|ing_apple=50|ing_caramel=50|ing_cinnamon=50|ing_almond=50}}\n  | cost                     = 14,175pp\n  | weight                   = 0.25 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | spell                    = Ghost Shot\n  | target                   = Foe, Directional, Breakable\n  | school                   = Evocation\n  | sr                       = No\n  | spell desc               = Fires a Spectre that damage your enemies. At higher charge levels multiple ghosts are rapidly fired. Opponents struck by the ghosts receive a [[Fortitude save]] for half damage.\n  | max charge               = 5\n  | imbue                    = Evil Shot IV\n  | imbue die                = 2d6\n  | imbue dmg                = evil\n  | mythic                   = no\n  | food                     = yes\n  | enhancements             = \n* [[Ghost Shot]]\n* {{SpellPower|Radiance|115}}\n* {{Lifesealed|28}}\n* {{Ghostly}}\n* {{Disrupting Weapons}}\n* {{Augment|Green}}\n  | craftable rune arm       = no\n  | epic                     = no\n  | pic                      = Ghost Shot icon.png\n  | picdesc                  = The Epic Astral Projector.png\n  | description              = \"Who you gonna call?<br /><br />A necromancer.<br />Definitely a necromancer.\"\n  | tips                     = <nowiki />\n* Fires 4 Shots at charge 5.\n* {{Bug|Ghost Shot often fails to do its full damage to Training Dummies. It functions normally against standard mobs.|m=}}\n\n{{ Gallery | The Astral Projector shooting.jpg| The Astral Projector shown.jpg| mode= packed-hover |heights=180}}\n}}",
+  "item_template": "Named item",
+  "minimum_level": 21,
+  "enchantments": [
+    {
+      "text": "Maximum Charge Tier: V",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maximum_Charge_Tier",
+          "title": "Maximum Charge Tier",
+          "text": "Maximum Charge Tier"
+        }
+      ]
+    },
+    {
+      "text": "Ghost Shot",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghost_Shot",
+          "title": "Ghost Shot",
+          "text": "Ghost Shot"
+        }
+      ]
+    },
+    {
+      "text": "Radiance +115",
+      "tooltip": "Radiance +115: Passive: +115 Equipment bonus to Light and Alignment Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiance_(spell_boost)",
+          "title": "Radiance (spell boost)",
+          "text": "Radiance +115"
+        }
+      ]
+    },
+    {
+      "text": "Lifesealed +28",
+      "tooltip": "Lifesealed +28: You are immune to magical effects that cause instant death. In addition, you have a +28% enhancement bonus to Negative Energy Absorption.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lifesealed",
+          "title": "Lifesealed",
+          "text": "Lifesealed +28"
+        }
+      ]
+    },
+    {
+      "text": "Ghostly",
+      "tooltip": "Ghostly: Equipping this item causes you to become partially incorporeal. Your melee attacks do not roll a miss chance for Incorporeal targets. Enemy attacks have a 10% chance to miss you due to incorporeality. You receive a +5 enhancement bonus to your Hide and Move Silently skills.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostly",
+          "title": "Ghostly",
+          "text": "Ghostly"
+        }
+      ]
+    },
+    {
+      "text": "Disrupting Weapons",
+      "tooltip": "Disrupting Weapons: While wearing this item, your melee and ranged weapons gain Vorpal Effect: On an attack roll of 20 which is confirmed as a critical hit this weapon will completely destroy an undead. Powerful undead may resist the vorpal effect until sufficiently damaged.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disrupting_Weapons",
+          "title": "Disrupting Weapons",
+          "text": "Disrupting Weapons"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Rune Arm Imbue: Evil Shot IV",
+      "tooltip": "Rune Arm Imbue: Evil Shot IV: Wearing this Rune Arm will imbue any weapon you wield, dealing 2d6 points of evil damage per hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rune_Arm_Imbue",
+          "title": "Rune Arm Imbue",
+          "text": "Rune Arm Imbue"
+        }
+      ]
+    }
+  ]
+}

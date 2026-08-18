@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Boots of Corrosion",
+  "page_id": 12387,
+  "revision_id": 628667,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:13:17.917864+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Boots of Corrosion\n  | type                     = Boots\n  | class                    = Clothing\n  | basevalue                = 2,005 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 60\n  | material                 = Steel\n  | hardness                 = 15\n  | minlevel                 = 5\n  | bind                     = {{Bind|BtA|boa}}\n  | released                 = Update 7\n  | quest                    = The Chronoscope\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{SpellPower|Corrosion|59|Equipment}}\n* {{SpellPower|Nullification|59|Equipment}}\n* {{Elemental Resistance|Acid|14}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n* {{Named item sets|Might of the Abishai}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Boots of Corrosion\n  | description              = These boots are filled with caustic, entropic power. They appear to have almost fallen apart from containing such energy.\n  | pic                      = Boots Generic Corrosion.png\n  | picdesc                  = Boots of Corrosion.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Corrosion +59",
+      "tooltip": "Corrosion +59: Passive: +59 Equipment bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Corrosion +59"
+        }
+      ]
+    },
+    {
+      "text": "Nullification +59",
+      "tooltip": "Nullification +59: Passive: +59 Equipment bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Nullification +59"
+        }
+      ]
+    },
+    {
+      "text": "Acid Resistance +14",
+      "tooltip": "Acid Resistance +14: Passive: +14 Enhancement bonus to your Acid Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Acid_Resistance",
+          "title": "Acid Resistance",
+          "text": "Acid Resistance +14"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Might of the Abishai",
+      "tooltip": "Might of the Abishai: 3 Piece Equipped:+3 Profane bonus to Natural Armor+1 Profane bonus to all Ability Scores+1 Profane bonus to DCs5 Piece Equipped:+5 Profane bonus to Natural Armor+2 Profane bonus to all Ability Scores+2 Profane bonus to DCs",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Might_of_the_Abishai",
+          "title": "Named item sets",
+          "text": "Might of the Abishai"
+        }
+      ]
+    }
+  ]
+}

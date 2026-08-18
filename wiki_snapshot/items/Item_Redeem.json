@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Redeem",
+  "page_id": 79637,
+  "revision_id": 634170,
+  "revision_timestamp": "2025-04-22T03:03:52Z",
+  "fetched_at": "2026-08-17T22:43:25.705972+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Redeem\n  | damage                   = 1.50[1d8] + 3 Bludgeon, Magic\n  | type                     = Heavy Mace\n  | crit                     = 20 / x2\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | race                     = Aasimar Scourge \n  | damagemod                = STR\n  | attackmod                = STR\n  | minlevel                 = 15\n  | durability               = 210\n  | material                 = Steel\n  | hardness                 = 25\n  | cost                     = 6,001pp 2gp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 36\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}} \n* {{Coruscating|3}}\n* {{Disruption}}\n  | description              = \n  | pic                      = Return Redeem shown.jpg\n  | picdesc                  = Redeem.png\n  | food                     = no\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Heavy Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Coruscating 3",
+      "tooltip": "Coruscating 3: This effect causes the edges of this weapon to coruscate, dealing 3d6 Light damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Coruscating",
+          "title": "Coruscating",
+          "text": "Coruscating 3"
+        }
+      ]
+    },
+    {
+      "text": "Disruption",
+      "tooltip": "Disruption: On Hit: 4 to 24 Bane damage to Undead.On Vorpal Hit: If an undead struck by this weapon has fewer than 1000 Hit Points, it is instantly slain. If the undead has above 1000 Hit Points, it takes 100 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disruption#Disruption",
+          "title": "Disruption",
+          "text": "Disruption"
+        }
+      ]
+    }
+  ]
+}

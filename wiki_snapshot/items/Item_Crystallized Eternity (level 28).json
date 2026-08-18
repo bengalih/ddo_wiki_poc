@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Crystallized Eternity (level 28)",
+  "page_id": 72567,
+  "revision_id": 664426,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:28:54.660565+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Crystallized Eternity}}\n  | damage                   = 4.60[1d12] + 12 Bludgeon, Magic, Crystal\n  | crit                     = 19-20 / x2\n  | type                     = Greatclub\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Martial\n  | minlevel                 = 28\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 355\n  | material                 = Crystal\n  | hardness                 = 38\n  | basevalue                = 11,220pp\n  | weight                   = 8 lbs\n  | quest                    = The Night Revels\n  | turn in                  = {{Item|Crystallized Eternity (level 24)}}{{Br}}{{Tab}}and {{NightRevelsRecipe|ing_chocolate= 250|ing_almond= 100|ing_cinnamon= 120}} at [[Joe Candymaker]]\n  | chest                    = \n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|12}}\n* {{Tactics|Tendon Slice|10}}\n* {{Electrifying|6}}\n* {{Freezing|13}}\n* {{ArmorPiercing|20}}\n  | crafting                 = The Night Revels\n  | craftingupgrade          = Crystallized Eternity (level 32)\n  | pic                      = Crystallized Eternity shown.png\n  | picdesc                  = Crystallized Eternity (level 28).png\n  | description              = This Greatclub is a manifestation of Eternity's will, otherwise lost to time.\n  | tips                     = As this weapon is made of Crystal, it is immune to Ooze and Rust Monster damage.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Greatclub",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+12 Enhancement Bonus",
+      "tooltip": "+12 Enhancement Bonus: +12 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+12 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Tendon Slice +10",
+      "tooltip": "Tendon Slice +10: On Hit: 6% chance to slow target's movement by 50% for 10 seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Tendon_Slice",
+          "title": "Tendon Slice",
+          "text": "Tendon Slice +10"
+        }
+      ]
+    },
+    {
+      "text": "Electrifying 6",
+      "tooltip": "Electrifying 6: This effect causes the edges of this weapon to arc with electricity, dealing 6d6 Lightning damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electrifying",
+          "title": "Electrifying",
+          "text": "Electrifying 6"
+        }
+      ]
+    },
+    {
+      "text": "Freezing 13",
+      "tooltip": "Freezing 13: This effect causes the edges of this weapon to become frozen to the touch, dealing 13 to 78 Ice damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Freezing",
+          "title": "Freezing",
+          "text": "Freezing 13"
+        }
+      ]
+    },
+    {
+      "text": "Armor-Piercing 20%",
+      "tooltip": "Armor-Piercing 20%: Passive: +20% Enhancement bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Armor-Piercing 20%"
+        }
+      ]
+    }
+  ]
+}

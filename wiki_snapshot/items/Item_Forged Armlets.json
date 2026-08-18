@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Forged Armlets",
+  "page_id": 56416,
+  "revision_id": 630980,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:07:55.597154+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Forged Armlets\n  | minlevel                 = 15\n  | type                     = Bracers\n  | slot                     = Wrist\n  | race                     = Deep Gnome\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6010 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Proof|Disease|6}}\n* {{Elemental Resistance|Acid|30}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Bracers Generic.png\n  | picdesc                  = Forged Armlets.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Proof Against Disease +6",
+      "tooltip": "Proof Against Disease +6: This item grants its wearer immunity to natural diseases. This item also grants a +6 Enhancement bonus to saving throws against magical diseases, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical diseases with a DC of less than 7 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Disease",
+          "title": "Proof Against Disease",
+          "text": "Proof Against Disease +6"
+        }
+      ]
+    },
+    {
+      "text": "Acid Resistance +30",
+      "tooltip": "Acid Resistance +30: Passive: +30 Enhancement bonus to your Acid Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Acid_Resistance",
+          "title": "Acid Resistance",
+          "text": "Acid Resistance +30"
+        }
+      ]
+    }
+  ]
+}

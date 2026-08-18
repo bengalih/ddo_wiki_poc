@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Legendary First Course Finder",
+  "page_id": 107037,
+  "revision_id": 632248,
+  "revision_timestamp": "2025-04-22T00:51:56Z",
+  "fetched_at": "2026-08-17T21:47:30.288238+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary First Course Finder\n  | minlevel                 = 32\n  | type                     = Long Bow\n  | class                    = Ranged\n  | prof                     = Martial\n  | hand                     = Ranged\n  | damage                   = 5.40[1d8+2] + 15 Pierce, Magic\n  | crit                     = 20 / x3\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 400\n  | material                 = Steel\n  | hardness                 = 42\n  | cost                     = 12,807 pp 5 gp\n  | weight                   = 3 lbs\n  | released                 = Update 67\n  | quest                    = Too Many Cooks\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Elasticity}}\n* {{Concentrated Corrosive Salt}}\n* {{Fiery|6}}\n* {{Bane|Animal|6}}\n* {{Augment|Orange}}\n* {{Augment|Purple}}\n* {{Named item sets|Legendary Cooking By the Book}}\n  | crafting                 = \n  | description              = This refined longbow will determine tonight's menu.\n  | pic                      = First Course Finder shown.jpg\n  | picdesc                  = Legendary First Course Finder.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 32,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Elasticity",
+      "tooltip": "Elasticity: This bow is strung with special fibers that cause it to occasionally launch arrows with shocking force. When rolling a 19 or 20 on a ranged attack, your critical multiplier is increased by +1.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Elasticity",
+          "title": "Elasticity",
+          "text": "Elasticity"
+        }
+      ]
+    },
+    {
+      "text": "Concentrated Corrosive Salt",
+      "tooltip": "Concentrated Corrosive Salt: This weapon stores a caustic, insatiable power deep within. When this item is used, this power can come to the surface in the form of a noxious, corrosive salt that dissolves all material.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentrated_Corrosive_Salt",
+          "title": "Concentrated Corrosive Salt",
+          "text": "Concentrated Corrosive Salt"
+        }
+      ]
+    },
+    {
+      "text": "Fiery 6",
+      "tooltip": "Fiery 6: This effect causes the edges of this weapon to burn with enchanted flames, dealing 6d6 Fire damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fiery",
+          "title": "Fiery",
+          "text": "Fiery 6"
+        }
+      ]
+    },
+    {
+      "text": "Animal Bane 6",
+      "tooltip": "Animal Bane 6: This weapon is attuned specifically to disrupt the natural, dealing an additional 6d10 bane damage vs. Animals.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Animal Bane 6"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Cooking By the Book",
+      "tooltip": "Legendary Cooking By the Book: 3 Pieces Equipped:+25 Artifact Bonus to Universal Spell Power+6% Artifact Bonus to Spell Critical Chance+3 Artifact Bonus to Imbue Dice4 Pieces Equipped:+15 Artifact Bonus to Melee and Ranged Power+15% Legendary Bonus to Spell Critical Damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Legendary_Cooking_By_the_Book",
+          "title": "Named item sets",
+          "text": "Legendary Cooking By the Book"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

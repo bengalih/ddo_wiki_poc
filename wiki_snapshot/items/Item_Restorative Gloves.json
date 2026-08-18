@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Restorative Gloves",
+  "page_id": 11417,
+  "revision_id": 634198,
+  "revision_timestamp": "2025-04-22T03:05:44Z",
+  "fetched_at": "2026-08-17T22:44:12.133329+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Restorative Gloves\n  | type                     = Gloves\n  | minlevel                 = 5\n  | slot                     = Hand\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 60\n  | material                 = Leather\n  | hardness                 = 7\n  | basevalue                = 2005 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Redwillow's Ruins\n  | chest                    = [[Reeksun Bloodcraver]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|Heal|5}}\n* {{Skills|Repair|3}}\n* {{Augment|Green}}\n  | description              = These gloves give bonuses to healing and repair skills.\n  | pic                      = Gloves Generic Titans.png\n  | picdesc                  = Restorative Gloves.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Heal +5",
+      "tooltip": "Heal +5: Passive: +5 Competence bonus to the Heal skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heal_(skill)",
+          "title": "Heal (skill)",
+          "text": "Heal +5"
+        }
+      ]
+    },
+    {
+      "text": "Repair +3",
+      "tooltip": "Repair +3: Passive: +3 Competence bonus to the Repair skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Repair_(skill)",
+          "title": "Repair (skill)",
+          "text": "Repair +3"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Savage Sword",
+  "page_id": 11718,
+  "revision_id": 634465,
+  "revision_timestamp": "2025-04-22T03:23:29Z",
+  "fetched_at": "2026-08-17T22:50:53.768436+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Savage Sword\n  | damage                   = [1d10] + 2 Slash, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Bastard Sword\n  | class                    = Slashing\n  | prof                     = Exotic\n  | hand                     = One-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | minlevel                 = 4\n  | umd dc                   = \n  | reqtrait                 = \n  | durability               = 120\n  | material                 = Steel\n  | hardness                 = 14\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = Redwillow's Ruins\n  | chest                    = [[Savage Tooth]]'s Chest\n  | basevalue                = 1,603 pp 5 gp\n  | weight                   = 6 lbs\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|2}}\n* {{Enfeebling}}\n* {{Augment|Red}}\n  | pic                      = Savage Sword shown.jpg\n  | picdesc                  = Savage Sword.png\n  | description              = Also known as a hand-and-a-half sword, and the largest of the single-handed sword, this weapon requires special training to use.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Bastard Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Enfeebling",
+      "tooltip": "Enfeebling: Critical hits by this weapon deal an extra 1 to 6 points of Strength damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enfeebling",
+          "title": "Enfeebling",
+          "text": "Enfeebling"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

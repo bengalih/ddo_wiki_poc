@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Axe of Adaxus (level 12)",
+  "page_id": 34360,
+  "revision_id": 648836,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:06:56.364003+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Axe of Adaxus}}\n  | damage                   = 1.50[1d10] +5 Slash, Magic, Crystal\n  | crit                     = 20 / x4\n  | type                     = Battle Axe\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | minlevel                 = 12\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 190\n  | material                 = Crystal\n  | hardness                 = 17\n  | released                 = Update 17\n  | quest                    = Madstone Crater\n  | chest                    = End chest (Heroic Normal)\n  | basevalue                = 4,801pp 9gp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | enhancements             = \n* {{Enhancement_bonus|w|5}}\n* {{Augment|Red}}\n* {{Elemental Resistance|Fire|20}}\n  | pic                      = Axe of Adaxus shown.jpg\n  | picdesc                  = Axe of Adaxus (Level 12).png\n  | description              = Legends speak of the first fire giant, Adaxus, whose fiendish alliances led to the formation of the Sul'at League. Although the knowledge and wisdom of these giants was lost in the cataclysm that destroyed Xen'drik, the once powerful leader's axe apparently was not.\n  | tips                     = This is one of the ~30 gianthold named items that were corrupted during update 42.2 cleaning of filled augment slots. This one retained it's fire resistance effect only in the version that drops as a chain end reward. The one from Madstone Crater's chest lost the enchantment.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Battle Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +20",
+      "tooltip": "Fire Resistance +20: Passive: +20 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +20"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

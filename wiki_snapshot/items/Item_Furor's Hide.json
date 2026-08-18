@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Furor's Hide",
+  "page_id": 11401,
+  "revision_id": 631018,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:09:05.913201+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Furor's Hide\n  | type                     = Cloak\n  | class                    = Clothing\n  | basevalue                = 105 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Back\n  | durability               = 20\n  | material                 = Leather\n  | hardness                 = 7\n  | minlevel                 = 0\n  | bind                     = {{Bind|no}}\n  | quest                    = Garrison's Missing Pack\n  | chest                    = [[Furor]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Axeblock|II}}\n  | description              = This worg hide seems strangely resistant to tearing.\n  | pic                      = Furor's Hide Shown.jpg\n  | picdesc                  = Furor's Hide.png <!--Item does Not have an augment slot-->\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "enchantments": [
+    {
+      "text": "Axeblock II",
+      "tooltip": "Axeblock II: Passive: Reduces physical damage taken by 4, except from Bludgeoning or Piercing weapons. (Damage Reduction: 4/Pierce, Bludgeon)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Axeblock",
+          "title": "Axeblock",
+          "text": "Axeblock II"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "page_title": "Item:Bow of the Jade Elf",
+  "page_id": 15706,
+  "revision_id": 677090,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:14:07.814264+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Bow of the Jade Elf\n  | damage                   = 3[1d8] + 5 Pierce, Magic\n  | crit                     = 19-20 / x3 \n  | type                     = Long Bow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | prof                     = Martial\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | Durability               = 160\n  | material                 = Wood\n  | hardness                 = 13\n  | minlevel                 = 0\n  | bind                     = {{Bind|no|drops=both}} (Part 1)\n  | basevalue                = 12,807pp 5gp\n  | weight                   = 3 lbs\n  | quest                    = The Shroud\n  | chest                    = Phase 1\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Stat|DEX|6}}\n* {{Keen|I}}\n* {{Alacrity|Ranged|10}}\n* {{ItemGrantedFeat|Precise Shot}}\n* {{Sneak Attack Bonus|5}}\n* {{Deception|Bluff=yes}}\n* {{Striding|25}}\n  | description              = This bow was taken from the body of the Jade Elf, a famous archer.\n  | pic                      = Cloven-Jaw Longbow shown.jpg <!-- same style -->\n  | picdesc                  = Bow of the Jade Elf.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +6",
+      "tooltip": "Dexterity +6: This item makes the wearer more nimble and dexterous, granting a +6 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +6"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Ranged Alacrity 10%",
+      "tooltip": "Ranged Alacrity 10%: Gain 10% Enhancement bonus to Ranged attack speed. Does not stack with the Haste spell.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ranged_Alacrity",
+          "title": "Ranged Alacrity",
+          "text": "Ranged Alacrity 10%"
+        }
+      ]
+    },
+    {
+      "text": "Feat: Precise Shot",
+      "tooltip": "Feat: Precise Shot: While equipped this item grants the feat Precise Shot, allowing your ranged attacks to pass through other characters and monsters to strike your target.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feat",
+          "title": "Feat",
+          "text": "Feat"
+        },
+        {
+          "target": "/page/Precise_Shot",
+          "title": "Precise Shot",
+          "text": "Precise Shot"
+        }
+      ]
+    },
+    {
+      "text": "Sneak Attack Bonus +5",
+      "tooltip": "Sneak Attack Bonus +5 : Provides a +5 Enhancement modifier to your attack bonus and a +8 Enhancement bonus to damage for any attack that would qualify as a Sneak Attack, even if the wielder is not a Rogue.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sneak_Attack_Bonus",
+          "title": "Sneak Attack Bonus",
+          "text": "Sneak Attack Bonus +5"
+        }
+      ]
+    },
+    {
+      "text": "Deception",
+      "tooltip": "Deception: This weapon is hard to focus upon and thus provides a +3 enhancement bonus to Bluff checks. In addition, Deception weapons have a small chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Deception"
+        }
+      ]
+    },
+    {
+      "text": "Striding +25%",
+      "tooltip": "Striding +25%: This item makes you more fleet of foot, giving you a 25% Enhancement bonus your movement speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Striding",
+          "title": "Striding",
+          "text": "Striding +25%"
+        }
+      ]
+    }
+  ]
+}

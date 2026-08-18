@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Maiming Stonedust Wraps",
+  "page_id": 16942,
+  "revision_id": 672633,
+  "revision_timestamp": "2026-01-25T18:39:41Z",
+  "fetched_at": "2026-08-17T22:21:59.317926+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Maiming Stonedust Wraps\n  | damage                   = 1.40[1d6] + 5 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Handwrap\n  | hand                     = Simple\n  | class                    = Bludgeoning\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Exotic\n  | minlevel                 = 12\n  | durability               = 240\n  | material                 = Cloth\n  | hardness                 = 25\n  | basevalue                = 4,803pp\n  | weight                   = 0.50 lbs\n  | bind                     = {{Bind|BtA|BoE}}\n  | revamped                 = Update 76\n  | quest                    = Cauldron of Sora Katra\n  | chest                    = [[Stonedust Handwraps]] + [[Hooked Blade]] + [[Mark of Tzaryan Rrac]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Path of the Guarding Stone}}\n* {{Stunning|7}}\n* {{Stone Prison}}\n* {{Maiming|3}}\n* {{Augment|Red}}\n  | description              = These strips of cloth, capable of turning enemies to stone, can now deal extra damage on critical hits as they maim enemies.\n  | pic                      = Handwraps Generic.png\n  | picdesc                  = Maiming Stonedust Wraps.png\n  | tips                     = These improved handwraps are created when the [[Stonedust Handwraps]] are [[Fusible|fused]] with the [[Hooked Blade]] and the [[Mark of Tzaryan Rrac]]. The original handwraps are normally bound to character, but after crafting, these handwraps can be sold and traded, provided they are not equipped, which will bind them to account.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Handwrap",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Path of the Guarding Stone",
+      "tooltip": "Path of the Guarding Stone: While wearing this item and in mountain stance, there is a chance you will be protected by a Stoneskin spell when enemies strike you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Path_of_the_Guarding_Stone",
+          "title": "Path of the Guarding Stone",
+          "text": "Path of the Guarding Stone"
+        }
+      ]
+    },
+    {
+      "text": "Stunning +7",
+      "tooltip": "Stunning +7: +7 Enhancement bonus to the DC of character's Stunning Blow and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stunning",
+          "title": "Stunning",
+          "text": "Stunning +7"
+        }
+      ]
+    },
+    {
+      "text": "Stone Prison",
+      "tooltip": "Stone Prison: This weapon is invested with the power of the earth. On an attack roll of 20 which is confirmed as a critical hit it will attempt to turn the target to stone, as the Flesh to Stone spell. A successful Fortitude save (DC 27) negates this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stone_Prison",
+          "title": "Stone Prison",
+          "text": "Stone Prison"
+        }
+      ]
+    },
+    {
+      "text": "Maiming 3",
+      "tooltip": "Maiming: This weapon has a twisted haft or grip and spikes along its blade, head, or point. When you score a critical hit with this weapon, it does an additional +3d8 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maiming",
+          "title": "Maiming",
+          "text": "Maiming 3"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

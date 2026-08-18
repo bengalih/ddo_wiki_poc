@@ -1,0 +1,92 @@
+{
+  "page_title": "Item:Scales of Surety",
+  "page_id": 8124,
+  "revision_id": 634474,
+  "revision_timestamp": "2025-04-22T03:24:05Z",
+  "fetched_at": "2026-08-17T22:51:10.019429+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Scales of Surety\n  | type                     = Chainmail\n  | feat                     = Light\n  | race                     = \n  | minlevel                 = 16\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +13\n  | maxdexbonus              = 12\n  | acp                      = \n  | asf                      = 5%\n  | durability               = 224\n  | material                 = Mithral\n  | hardness                 = 30\n  | basevalue                = 6,810 pp\n  | weight                   = 25 lbs\n  | quest                    = Emerald Claw Nugget\n  | chest                    = \n  | end reward               = yes\n  | turn in                  = \n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Nightshield|14|1}}\n* {{Enhancement bonus|a|5}}\n* {{Attack Bonus|2}}\n* {{Mat|Mithral}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Scales of Surety shown.jpg\n  | picdesc                  = Scales of Surety.png\n  | description              = A thick coat of chain mail is covered with a surprisingly light layer of fabric. Greens and reds flavor the fabric.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Chainmail",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Nightshield — 1 Charges (Recharged/Day:1)",
+      "tooltip": "NightshieldCaster level: 14Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nightshield",
+          "title": "Nightshield",
+          "text": "Nightshield"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Attack Bonus +2",
+      "tooltip": "Attack Bonus +2: Provides a +2 competence bonus to your attack rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Attack_bonus",
+          "title": "Attack bonus",
+          "text": "Attack Bonus +2"
+        }
+      ]
+    },
+    {
+      "text": "Mithral",
+      "tooltip": "Mithral: Mithral armor is one type lighter then normal. Arcane Spell Failure decreased by 10%. Maximum dexterity bonus increased by 2. Armor check penalty reduced by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mithral",
+          "title": "Mithral",
+          "text": "Mithral"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

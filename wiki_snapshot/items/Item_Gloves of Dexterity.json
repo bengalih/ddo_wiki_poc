@@ -1,0 +1,29 @@
+{
+  "page_title": "Item:Gloves of Dexterity",
+  "page_id": 86290,
+  "revision_id": 631134,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:11:59.606000+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Gloves of Dexterity\n  | type                     = Gloves\n  | class                    = Clothing\n  | basevalue                = 1,620 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Hand\n  | durability               = 50 \n  | material                 = Leather \n  | hardness                 = 10 \n  | minlevel                 = 9 \n  | bind                     = {{Bind|no}} \n  | quest                    = Random\n  | chest                    = level ~4 chests/rewards\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|DEX|4}}\n  | description              = Sleek moleskin gloves.\n  | pic                      = Gloves Generic.png\n  | picdesc                  = Gloves of Dexterity.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Dexterity +4",
+      "tooltip": "Dexterity +4: This item makes the wearer more nimble and dexterous, granting a +4 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +4"
+        }
+      ]
+    }
+  ]
+}

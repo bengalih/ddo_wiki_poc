@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Epic Ward of Undeath",
+  "page_id": 10428,
+  "revision_id": 630589,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:59:16.626511+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Epic Ward of Undeath\n  | type                     = Large\n  | prof                     = General\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +13\n  | dr                       = 12\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = 3[2d6] + 6\n  | dmgtype                  = Bludgeon, Good, Magic\n  | crit                     = 20 / x2\n  | durability               = 275\n  | material                 = Flametouched Iron\n  | hardness                 = 30\n  | basevalue                = 8102pp\n  | weight                   = 15 lbs\n  | epic                     = Ward of Undeath\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|s|6}}\n* {{Impact}}\n* {{Blast|Flaming|4}}\n* {{Bane|Undead|4}}\n* {{Guard|Superior Undead}}\n* {{Mat|Flametouched Iron}}\n* {{Augment|red}}\n* {{Augment|blue}}\n* {{Named item sets|Epic Oasis of Morality}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Ward of Undeath\n  | description              = A large shield made from flame-touched iron. This shield is particularly effective when bashing the Undead.\n  | pic                      = Carved Bone Shield shown.jpg\n  | picdesc                  = Epic Ward of Undeath.png\n  | tips                     = \n}}\n[[Category:Sands of Menechtarun epic items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Flametouched Iron",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Flaming Blast 4",
+      "tooltip": "Flaming Blast 4: This weapon burns with deadly magical fire, dealing 4d6 Fire damage on a successful hit, and an additional 4d6 Fire damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Flaming Blast 4"
+        }
+      ]
+    },
+    {
+      "text": "Undead Bane 4",
+      "tooltip": "Undead Bane 4: Those that have died must return, and this weapon is attuned specifically to lay them to rest. This weapon deals an additional 4d10 bane damage vs. Undead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Undead Bane 4"
+        }
+      ]
+    },
+    {
+      "text": "Superior Undead Guard",
+      "tooltip": "Superior Undead Guard: This armor burns those Undead that attack the wearer, causing 7d8 Good damage on a successful melee attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Superior_Undead_Guard",
+          "title": "Superior Undead Guard",
+          "text": "Superior Undead Guard"
+        }
+      ]
+    },
+    {
+      "text": "Flametouched Iron",
+      "tooltip": "Flametouched Iron: Flametouched Iron grants +1 saves versus Evil Outsiders.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flametouched_Iron",
+          "title": "Flametouched Iron",
+          "text": "Flametouched Iron"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Epic Oasis of Morality",
+      "tooltip": "Epic Oasis of Morality: 2 Pieces Equipped:+4% Artifact bonus to Positive Spellcrit Chance+20 Artifact bonus to Positive Spellpower+10% Artifact bonus to Fortification Bypass",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Epic_Oasis_of_Morality",
+          "title": "Named item sets",
+          "text": "Epic Oasis of Morality"
+        }
+      ]
+    }
+  ]
+}

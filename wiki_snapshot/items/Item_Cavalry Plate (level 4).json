@@ -1,0 +1,92 @@
+{
+  "page_title": "Item:Cavalry Plate (level 4)",
+  "page_id": 72538,
+  "revision_id": 628910,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:19:42.732740+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Cavalry Plate}}\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | race                     = \n  | minlevel                 = 4\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +10\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 104\n  | material                 = Mithral\n  | hardness                 = 15\n  | basevalue                = 1,750 pp\n  | weight                   = 50 lbs\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|silver|100}}{{CCi|golden|50}}{{CCi|pyrite|15}}{{CCi|green|300}} at [[Euphonia's Barter Box]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|2}}\n* {{Life Shield}}\n* {{Hp|False Life|12}} \n* {{DR|10|Chaotic}}\n* {{Resistance|3}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = High-seas pirates plundered this richly-decorated plate mail from naval cavalry officers. Although it did not suit the pirates well, a fighter looking for better protection may benefit from it.\n  | pic                      = Cavalry Plate shown.jpg\n  | picdesc                  = Cavalry Plate (level 4).png\n  | notes                    = See also: {{Item|Cavalry Plate}} - Full table of the Cavalry Plate line\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Life Shield",
+      "tooltip": "Life Shield: Every time you are hit while wearing a Life Shield item there is a 10% chance you gain 15 temporary hitpoints that last for up to 1 minute.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Life_Shield",
+          "title": "Life Shield",
+          "text": "Life Shield"
+        }
+      ]
+    },
+    {
+      "text": "False Life +12",
+      "tooltip": "False Life +12: +12 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +12"
+        }
+      ]
+    },
+    {
+      "text": "DR 10/Chaotic",
+      "tooltip": "Damage Reduction 10/Chaotic: Reduces physical damage by 10, except from Chaotic attacks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +3",
+      "tooltip": "Resistance +3: Passive: +3 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +3"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

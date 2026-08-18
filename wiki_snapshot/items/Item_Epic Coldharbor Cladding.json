@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Epic Coldharbor Cladding",
+  "page_id": 79204,
+  "revision_id": 629936,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:46:22.199248+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Epic Coldharbor Cladding\n  | type                     = Medium Armor\n  | feat                     = Medium\n  | race                     = \n  | ac                       = 26\n  | maxdexbonus              = 8\n  | acp                      = -1\n  | asf                      = 25%\n  | durability               = 378\n  | material                 = Spiritcraft Leather\n  | hardness                 = 33\n  | minlevel                 = 25\n  | released                 = Update 39\n  | quest                    = The Price of Freedom\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no \n  | basevalue                = 10050 pp\n  | weight                   = 25 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|10}}\n* {{Fire Shield|Cold|Permanent}}\n* {{Stat|Con|11}}\n* {{Concealment|Lesser Displacement}}\n* {{Spell Resistance|26}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Coldharbor Cladding shown.jpg\n  | picdesc                  = Epic Coldharbor Cladding.png\n  | description              = This armor is cold to the touch, and if you don it, enchanted flames surround you.\n  | notes                    = [[Mirror of Glamering|Glamered]] version does not display the [[Fire Shield (Cold)]] effect.\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Spiritcraft Leather",
+  "armor_type": "Medium Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "+10 Enhancement Bonus",
+      "tooltip": "+10 Enhancement Bonus: +10 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+10 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fire Shield (Cold)",
+      "tooltip": "Fire Shield (Cold): You permanently benefit from Fire Shield (Cold), which protects you from Fire Damage and harms those who attack you. You are also permanently warded against Fire Shield (Hot).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Shield_(Cold)",
+          "title": "Fire Shield (Cold)",
+          "text": "Fire Shield (Cold)"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +11",
+      "tooltip": "Constitution +11: This item gives the wearer improved health, granting a +11 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +11"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Displacement",
+      "tooltip": "Lesser Displacement: Equipping this item causes light to distort around you. Attacks from enemies have a 25% chance to miss you due to concealment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lesser_Displacement",
+          "title": "Lesser Displacement",
+          "text": "Lesser Displacement"
+        }
+      ]
+    },
+    {
+      "text": "Spell Resistance +26",
+      "tooltip": "Spell Resistance +26: +26 Enhancement bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Spell Resistance +26"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

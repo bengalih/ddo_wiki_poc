@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Oblivium Mattock",
+  "page_id": 126186,
+  "revision_id": 699948,
+  "revision_timestamp": "2026-07-25T06:07:08Z",
+  "fetched_at": "2026-08-17T22:00:26.648014+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Oblivium Mattock\n  | damage                   = 6[1d6+3] + 16 Pierce, Magic\n  | crit                     = 19-20 / x4\n  | type                     = Heavy Pick\n  | class                    = Piercing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 415\n  | material                 = Steel\n  | hardness                 = 45\n  | minlevel                 = 35\n  | basevalue                = 14,00pp 8gp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 81\n  | quest                    = The Price of an Egg\n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|w|16}}\n* {{Coruscating|7}}\n* {{Disintegrate|7}}\n* {{Paralyzing||117}}\n* {{Keen}}\n* {{Augment|Orange}}\n* {{Augment|Purple}}\n  | crafting                 =\n  | craftingupgrade          =\n  | description              = The great chasm's nothingness slowly seeped into a discarded pick until it slowly changed its form.\n  | pic                      = Oblivium Mattock shown.jpg\n  | picdesc                  = Legendary Oblivium Mattock.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Heavy Pick",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 35,
+  "enchantments": [
+    {
+      "text": "+16 Enhancement Bonus",
+      "tooltip": "+16 Enhancement Bonus: +16 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+16 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Coruscating 7",
+      "tooltip": "Coruscating 7: This effect causes the edges of this weapon to coruscate, dealing 7d6 Light damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Coruscating",
+          "title": "Coruscating",
+          "text": "Coruscating 7"
+        }
+      ]
+    },
+    {
+      "text": "Disintegrate 7",
+      "tooltip": "Disintegrate 7: Strikes with this weapon have a small chance to call forth a strike of entropic force, dealing 7d20+72 untyped damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disintegrate",
+          "title": "Disintegrate",
+          "text": "Disintegrate 7"
+        }
+      ]
+    },
+    {
+      "text": "Paralyzing 117",
+      "tooltip": "Paralyzing 117: Any creature struck by this weapon must succeed on a DC 117 Will save or be paralyzed. The target may attempt a new save to end the effect every several seconds; otherwise the paralysis lasts for 1 minute.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Paralyzing",
+          "title": "Paralyzing",
+          "text": "Paralyzing 117"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

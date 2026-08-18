@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:+2 Intimidating Dagger of Paralyzing Acid",
+  "page_id": 20609,
+  "revision_id": 671128,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T19:50:55.005730+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = +2 Intimidating Dagger of Paralyzing Acid\n  | damage                   = [1d4] + 2 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Dagger\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 22\n  | minlevel                 = 8\n  | quest                    = Special event items\n  | chest                    = The Festival of Olladra Contest\n  | revamped                 = Update 76\n  | basevalue                = 16,200pp 2gp\n  | weight                   = 1.00 lbs.\n  | bind                     = {{Bind|no}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* [[Paralyzing]]\n* {{Skills|intim|3}}\n* {{Acid}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | craftingnotes            = \n  | pic                      = TheFestivalof Olladra daggers.jpg\n  | picdesc                  = +2 Intimidating Dagger of Paralyzing Acid.png\n  | description              = Dripping with acid, this weapon gives its bearer a bonus to intimidate their foes, additionally the acid from this weapon has a paralyzing effect on those injured by its blade.\n  | tips                     = \n* Original description image:\n[[Image:IntimidatingDaggerofParalyzingAcid.jpg]]\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Paralyzing",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Paralyzing",
+          "title": "Paralyzing",
+          "text": "Paralyzing"
+        }
+      ]
+    },
+    {
+      "text": "Intimidate +3",
+      "tooltip": "Intimidate +3: Passive: +3 Competence bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Intimidate +3"
+        }
+      ]
+    },
+    {
+      "text": "Acid",
+      "tooltip": "Acid: This weapon is sheathed in corrosive acid. An acid weapon deals an extra 1 to 6 points of acid damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Acid",
+          "title": "Acid",
+          "text": "Acid"
+        }
+      ]
+    }
+  ]
+}

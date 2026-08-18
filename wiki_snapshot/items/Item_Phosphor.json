@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Phosphor",
+  "page_id": 11790,
+  "revision_id": 633954,
+  "revision_timestamp": "2025-04-22T02:48:55Z",
+  "fetched_at": "2026-08-17T22:37:47.794630+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Phosphor\n  | damage                   = 1.80[2d4] + 5 Bludgeon, Good, Magic\n  | crit                     = 16-20 / x2\n  | type                     = Heavy Mace\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 200\n  | material                 = Blueshine\n  | hardness                 = 29\n  | minlevel                 = 14\n  | basevalue                = 5601.2pp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Sunburst}}\n* {{Righteous}}\n* {{Coruscating}}\n* {{Augment|Red}}\n  | quest                    = Tome of Untold Legends \n  | turn in                  = completed Tome: Binding\n  | description              = This relic of the Silver Flame is believed to be the primary weapon of a close friend and guardian of Tira Miron.\n  | pic                      = Phosphor shown.jpg‎ \n  | picdesc                  = Phosphor.png\n  | tips                     = Weapon effects upgraded in Update 17. Pre-Update 17 versions were not retroactively updated and have to be reacquired. With Update 28 the crit range was updated.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Heavy Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Sun Burst",
+      "tooltip": "Sun Burst: This weapon flashes an intense burst of sunlight on any critical hit. The target is blasted for 6 to 36 of light damage and is blinded as well. Oozes and Undead take 12 to 72 light damage. A successful DC 22 Reflex save reduces the damage by half and negates the blindness.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sun_Burst",
+          "title": "Sun Burst",
+          "text": "Sun Burst"
+        }
+      ]
+    },
+    {
+      "text": "Righteous",
+      "tooltip": "Righteous: This weapon is imbued with holy power, giving it an additional +2 to attack bonus and damage against any evil creature. This power makes the weapon good-aligned.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Righteous",
+          "title": "Righteous",
+          "text": "Righteous"
+        }
+      ]
+    },
+    {
+      "text": "Coruscating",
+      "tooltip": "Coruscating: This weapon shines with an inner light. A coruscating weapon deals an extra 2 to 12 points of light damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Coruscating",
+          "title": "Coruscating",
+          "text": "Coruscating"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

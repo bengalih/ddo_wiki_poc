@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Dragoncraft Plate Armor",
+  "page_id": 33680,
+  "revision_id": 666657,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:37:30.415568+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Dragoncraft Plate Armor\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +16\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 196\n  | material                 = Magesteel\n  | hardness                 = 21\n  | basevalue                = 4,150pp\n  | weight                   = 50 lbs\n  | released                 = Update 17\n  | quest                    = Dragoncraft Armor\n  | turn in                  = 10 [[Ancient Dragon Relic]]s\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Fortification|2}}\n* {{ProtectionBonus|4}}\n* {{Shield Bonus|4}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Dragoncraft Plate Armor shown.jpg\n  | picdesc                  = Dragoncraft Plate Armor.png\n  | description              = Plate armor imbued with ancient draconic magic, for the rare humanoids that they favored.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Magesteel",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +75%",
+      "tooltip": "Fortification +75%: This suit of armor or shield produces a magical force that protects vital areas of the wearer much more effectively. When a critical hit or sneak attack is scored on the wearer, there is a 75% chance that the critical hit or sneak attack is negated and damage is instead rolled normally.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +75%"
+        }
+      ]
+    },
+    {
+      "text": "Protection +4",
+      "tooltip": "Protection +4: Passive: +4 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +4"
+        }
+      ]
+    },
+    {
+      "text": "Shield +4",
+      "tooltip": "Shield +4: While this item is equipped, you are partially protected by a field of magical force which can deflect enemy attacks. This item provides a +4 Shield bonus to Armor Class. It does not stack with an equipped shield.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bonus",
+          "title": "Shield Bonus",
+          "text": "Shield +4"
+        }
+      ]
+    }
+  ]
+}

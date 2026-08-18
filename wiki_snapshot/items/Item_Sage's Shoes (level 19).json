@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Sage's Shoes (level 19)",
+  "page_id": 40726,
+  "revision_id": 690637,
+  "revision_timestamp": "2026-06-30T16:30:44Z",
+  "fetched_at": "2026-08-17T22:50:10.591217+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Sage's Shoes\n  | type                     = Boots\n  | class                    = Clothing\n  | basevalue                = 7,620pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 110\n  | material                 = Leather\n  | hardness                 = 20\n  | minlevel                 = 19\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 19\n  | quest                    = Lines of Supply\n  | end reward               = yes\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Spell Focus|Conjuration|III}}\n* {{Hp|vitality|20}}\n  | crafting                 = \n  | description              = \n  | pic                      = Boots Generic Blue Gold.png\n  | picdesc                  = Sage's Shoes (Level 19).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 19,
+  "enchantments": [
+    {
+      "text": "Conjuration Focus III",
+      "tooltip": "Conjuration Focus III: +3 Equipment bonus to the DC of Conjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Conjuration Focus III"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +20",
+      "tooltip": "Vitality +20: Passive: +20 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +20"
+        }
+      ]
+    }
+  ]
+}

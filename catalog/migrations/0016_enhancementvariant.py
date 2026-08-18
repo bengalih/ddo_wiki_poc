@@ -1,7 +1,7 @@
 import django.db.models.deletion
 from django.db import migrations, models
 
-from catalog.enhancement_values import parse_magnitude
+from catalog.enchantment_values import parse_magnitude
 
 
 def deduplicate_enhancements(apps, schema_editor):

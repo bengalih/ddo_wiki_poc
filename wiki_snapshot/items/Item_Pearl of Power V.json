@@ -1,0 +1,29 @@
+{
+  "page_title": "Item:Pearl of Power V",
+  "page_id": 69169,
+  "revision_id": 633884,
+  "revision_timestamp": "2025-04-22T02:44:14Z",
+  "fetched_at": "2026-08-17T22:35:30.617978+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Pearl of Power V\n  | type                     = Trinket\n  | basevalue                = 920 pp\n  | weight                   = 0.1 lbs\n  | slot                     = Trinket\n  | quest                    = Random\n  | chest                    = level ~7 chests/rewards\n  | durability               = 40\n  | material                 = Gem\n  | hardness                 = 23\n  | minlevel                 = 7\n  | bind                     = {{Bind|No}}\n  | mythic                   = no\n  | enhancements             = \n* {{Power|V}}\n  | description              = This seemingly normal pearl of average size and luster is a potent aid to all spell casters.\n  | pic                      = Gem Generic Pearl.png\n  | picdesc                  = Pearl of Power V.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Power V",
+      "tooltip": "Power V: This item grants the wearer +50 maximum spell points. Favored Souls and Sorcerers gain double spell points from this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power",
+          "title": "Power",
+          "text": "Power V"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Twisted Talisman",
+  "page_id": 12005,
+  "revision_id": 635639,
+  "revision_timestamp": "2025-04-22T04:41:17Z",
+  "fetched_at": "2026-08-17T23:21:50.051448+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Twisted Talisman\n  | type                     = Necklace\n  | basevalue                = 1,605 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Neck\n  | quest                    = The Last Stand\n  | durability               = 30\n  | material                 = Gold\n  | hardness                 = 4\n  | minlevel                 = 7\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | chest                    = End chest\n  | released                 = Update 6\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Blood Sacrifice|1|3|1}}\n* {{Blood Sacrifice}}\n* {{Spell Lore|Void|10}}\n* {{Spell Power|Nullification|66}}\n* {{Hp|Profane Lifeforce|15}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Twisted Talisman\n  | description              = The crystal on this necklace's chain glows darkly with a profane energy. It was found near High Priestess Slikir after her defeat, and will grant the wielder more power for his or her spells, but at a price...\n  | pic                      = Necklace Generic.png\n  | picdesc                  = Twisted Talisman.png\n  | tips                     = {{Bug|Blood sacrifice works a little different then the official description which states it only costs 25 hit points. It actually deals 38 untyped damage in exchange for 50 spell points. This damage is affected by dungeon scaling, so while solo you will generally see <small>(roughly as dungeon scaling does vary from class to class)</small> {{Xpcolors|casual=7|normal=15|hard=20|elite=26|epic=38}} damage.\n<!--Values are from a favored soul, lvl20 in a low lvl quest -->}}[[Category:Eleven Year Old Cake items]]\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Blood Sacrifice — 3 Charges (Recharged/Day:1)",
+      "tooltip": "Blood SacrificeCaster level: 1Charges: 3 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blood_Sacrifice",
+          "title": "Blood Sacrifice",
+          "text": "Blood Sacrifice"
+        }
+      ]
+    },
+    {
+      "text": "Blood Sacrifice",
+      "tooltip": "Blood Sacrifice: Exchanges 25 hit points for 50 spell points.(This enchantment has no effect.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blood_Sacrifice",
+          "title": "Blood Sacrifice",
+          "text": "Blood Sacrifice"
+        }
+      ]
+    },
+    {
+      "text": "Void Lore +10%",
+      "tooltip": "Void Lore +10: Passive: Your Negative Energy and Poison spells gain a 10% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Void Lore +10%"
+        }
+      ]
+    },
+    {
+      "text": "Nullification +66",
+      "tooltip": "Nullification +66: Passive: +66 Equipment bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Nullification +66"
+        }
+      ]
+    },
+    {
+      "text": "Profane Lifeforce +15",
+      "tooltip": "Profane Lifeforce +15: +15 Profane bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hit_Point",
+          "title": "Hit Point",
+          "text": "Profane Lifeforce +15"
+        }
+      ]
+    }
+  ]
+}

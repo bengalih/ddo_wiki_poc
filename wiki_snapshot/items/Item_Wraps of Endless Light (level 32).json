@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Wraps of Endless Light (level 32)",
+  "page_id": 97836,
+  "revision_id": 672432,
+  "revision_timestamp": "2026-01-25T17:34:31Z",
+  "fetched_at": "2026-08-17T23:27:51.416012+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = [[Wraps of Endless Light]]\n  | damage                   = 5.40[1d6+2] + 15 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Handwrap\n  | hand                     = Simple\n  | class                    = Bludgeoning\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Exotic\n  | material                 = Cloth\n  | minlevel                 = 32\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 440\n  | hardness                 = 45\n  | basevalue                = 12,803pp\n  | weight                   = 0.50 lbs\n  | quest                    = The Night Revels\n  | chest                    = \n  | turn in                  = various ingredients to [[Joe Candymaker]]\n  | end reward               = \n  | revamped                 = Update 76\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Bane|Undead|6}}\n* {{Coruscating}}\n* {{Light Bringer}}\n* {{Sunburst|Greater}}\n  | mythic                   = no\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Handwraps Generic.png\n  | picdesc                  = Wraps of Endless Light (level 32).png\n  | description              = These silken wraps blaze with an aura of light.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Handwrap",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 32,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Undead Bane 6",
+      "tooltip": "Undead Bane 6: Those that have died must return, and this weapon is attuned specifically to lay them to rest. This weapon deals an additional 6d10 bane damage vs. Undead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Undead Bane 6"
+        }
+      ]
+    },
+    {
+      "text": "Coruscating",
+      "tooltip": "Coruscating: This weapon shines with an inner light. A coruscating weapon deals an extra 2 to 12 points of light damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Coruscating",
+          "title": "Coruscating",
+          "text": "Coruscating"
+        }
+      ]
+    },
+    {
+      "text": "Light Bringer",
+      "tooltip": "Light Bringer: On Vorpal Hit: If an undead struck by this weapon has fewer than 1000 Hit Points, it is instantly slain. If the undead has above 1000 hit points, it takes 100 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Light_Bringer",
+          "title": "Light Bringer",
+          "text": "Light Bringer"
+        }
+      ]
+    },
+    {
+      "text": "Greater Sunburst",
+      "tooltip": "Greater Sunburst: This item blazes with the eternal fury at the heart of a sun. Occasionally, this power comes to the surface, unleashing a nova of light which will blind the struck enemy, dealing severe light damage to it and any other nearby foes.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sun_Burst#Greater_Sunburst",
+          "title": "Sun Burst",
+          "text": "Greater Sunburst"
+        }
+      ]
+    }
+  ]
+}

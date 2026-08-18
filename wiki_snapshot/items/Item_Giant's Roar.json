@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Giant's Roar",
+  "page_id": 7873,
+  "revision_id": 631063,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:10:15.721125+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Giant's Roar\n  | damage                   = [1d8] + 3 Pierce, Magic\n  | crit                     = 20 / x3\n  | type                     = Long Bow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | prof                     = Martial\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | durability               = 140\n  | material                 = Wood\n  | hardness                 = 11\n  | basevalue                = 2,407 pp 5 gp\n  | weight                   = 3 lbs\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = Stormcleave Outpost\n  | chest                    = [[General Xanti'lar]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Screaming}}\n* {{Roaring}}\n* {{Augment|Red}}\n  | description              = A large, composite bow that gives off a faint rumbling noise that raises to a low roar when drawn.\n  | pic                      = Cloven-Jaw Longbow shown.jpg <!-- same style -->\n  | picdesc                  = Giant's Roar.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Screaming",
+      "tooltip": "Screaming: Screaming weapons emit a piercing screech whenever they are used to make a successful attack. This screech does an additional 1 to 6 sonic damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Screaming",
+          "title": "Screaming",
+          "text": "Screaming"
+        }
+      ]
+    },
+    {
+      "text": "Roaring",
+      "tooltip": "Roaring: This weapon causes targets to become shaken (DC 25 Will save negates) and, on a critical hit, does 2 to 12 sonic damage to the target.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Roaring",
+          "title": "Roaring",
+          "text": "Roaring"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

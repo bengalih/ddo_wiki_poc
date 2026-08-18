@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Ring of the Djinn (level 23)",
+  "page_id": 34600,
+  "revision_id": 650189,
+  "revision_timestamp": "2025-07-26T19:12:58Z",
+  "fetched_at": "2026-08-17T22:46:27.442811+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = {{Item|Ring of the Djinn}}\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 240\n  | material                 = Gold\n  | hardness                 = 33\n  | basevalue                = 9,220 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 23\n  | bind                     = {{Bind|BtC|BoE}}\n  | released                 = Update 17\n  | quest                    = Return to Prison of the Planes\n  | chest                    = Lamannia room's chest (Epic Normal); [[Return to Gianthold]], quest chain end reward\n  | enhancements             = \n* {{Absorption|Electrical|33}}\n* {{Elemental Resistance|Electric|40}}\n* {{DR|10|Lawful}}\n  | description              = It is written on the side of this intricately carved golden ring that 'He who holds this ring, holds [[Tehram]]'s heart.'\n  | pic                      = Ring Generic Djinn.png\n  | picdesc                  = Ring of the Djinn (Level 23).png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "Electric Absorption +33%",
+      "tooltip": "Electric Absorption +33%: Passive: 33% Enhancement Bonus to Electric Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Electric Absorption +33%"
+        }
+      ]
+    },
+    {
+      "text": "Electric Resistance +40",
+      "tooltip": "Electric Resistance +40: Passive: +40 Enhancement bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Electric Resistance +40"
+        }
+      ]
+    },
+    {
+      "text": "DR 10/Lawful",
+      "tooltip": "Damage Reduction 10/Lawful: Reduces physical damage by 10, except from Lawful attacks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

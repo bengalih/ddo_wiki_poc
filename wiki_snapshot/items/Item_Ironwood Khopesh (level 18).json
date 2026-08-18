@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Ironwood Khopesh (level 18)",
+  "page_id": 42407,
+  "revision_id": 649649,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:25:04.868218+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Ironwood Khopesh}}\n  | damage                   = 1.50[1d8] +5 Slash, Adamantine, Magic\n  | crit                     = 19-20 / x3\n  | type                     = Khopesh\n  | hand                     = One-handed\n  | class                    = Slashing\n  | damagemod                = STR\n  | attackmod                = STR\n  | minlevel                 = 18\n  | prof                     = Exotic\n  | durability               = 245\n  | material                 = Wood\n  | hardness                 = 28\n  | quest                    = Lost in the Swamp\n  | chest                    = End Chest (Heroic Elite)\n  | end reward               = \n  | basevalue                = 7,202 pp\n  | weight                   = 24 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Stone Prison}}\n* {{Impellent}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Ironwood Khopesh shown.jpg\n  | picdesc                  = Ironwood Khopesh (Level 18).png\n  | description              = This extremely heavy, single-edged sword appears to be made from some kind of petrified wood that holds an edge as strong and sharp as adamantine. It is reinforced  with a field of magical force that will deal punishing blows to any enemy it strikes.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Khopesh",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Stone Prison",
+      "tooltip": "Stone Prison: This weapon is invested with the power of the earth. On an attack roll of 20 which is confirmed as a critical hit it will attempt to turn the target to stone, as the Flesh to Stone spell. A successful Fortitude save (DC 27) negates this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stone_Prison",
+          "title": "Stone Prison",
+          "text": "Stone Prison"
+        }
+      ]
+    },
+    {
+      "text": "Impellent",
+      "tooltip": "Impellent: This weapon is pulsing with magical force. It deals an additional 2 to 12 force damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impellent",
+          "title": "Impellent",
+          "text": "Impellent"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

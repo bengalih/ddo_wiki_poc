@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Great Axe of the Chained Soldier (historic)",
+  "page_id": 7874,
+  "revision_id": 631219,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:14:39.222246+00:00",
+  "categories": [],
+  "wikitext": "{{History|replaced=[[Great Axe of the Chained Soldier]]}}\n\n{{Named item|Weapon\n  | name                     = Great Axe of the Chained Soldier\n  | basevalue                = 9,802pp\n  | weight                   = 12 lbs\n  | damage                   = 1d12 + 5 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Great Axe\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = Two-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 170\n  | material                 = Steel\n  | hardness                 = 17\n  | minlevel                 = 12\n  | bind                     = {{Bind|no}}\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Clicky|Break Enchantment|12|1}}\n* {{Immunity|Fear}}\n  | quest                    = Gianthold Tor\n  | chest                    = White Dragon Chest\n  | description              = The Ancient giants commanded legions of martial drow slaves. These enchanted arms fortified courage and resolve, and dissuaded the conscripts from flight.\n  | pic                      = Great Axe of the Chained Soldier shown.jpg\n  | picdesc                  = Great Axe of the Chained Soldier.png\n  | tips                     = \n}}",
+  "item_template": "History",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Break Enchantment — 1 Charges (Recharged/Day:1)",
+      "tooltip": "Break EnchantmentCaster level: 12Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Break_Enchantment",
+          "title": "Break Enchantment",
+          "text": "Break Enchantment"
+        }
+      ]
+    },
+    {
+      "text": "Immunity to Fear",
+      "tooltip": "Immunity to Fear: The wearer of this item is immune to all fear effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Immunity_to_Fear",
+          "title": "Immunity to Fear",
+          "text": "Immunity to Fear"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

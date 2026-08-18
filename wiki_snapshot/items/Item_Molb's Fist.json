@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Molb's Fist",
+  "page_id": 10149,
+  "revision_id": 633513,
+  "revision_timestamp": "2025-04-22T02:18:32Z",
+  "fetched_at": "2026-08-17T22:25:47.188724+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Molb's Fist\n  | basevalue                = 902 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Hand\n  | type                     = Gloves\n  | durability               = 40\n  | material                 = Leather\n  | hardness                 = 8\n  | minlevel                 = 7\n  | bind                     = {{Bind|no}}\n  | quest                    = The Gate Chamber\n  | chest                    = End chest\n  | mythic                   = no\n  | enhancements             = \n* {{Wizardry|II}}\n* {{Efficient Metamagic|Enlarge|1}}\n* {{Spelllore|Ice|III}}\n  | description              = This pair of gloves are cold to the touch and once belonged to Molb, a powerful water savant.\n  | pic                      = Gloves Generic.png\n  | picdesc                  = Molb's Fist.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Wizardry II",
+      "tooltip": "Wizardry II: This item grants the wearer +50 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry II"
+        }
+      ]
+    },
+    {
+      "text": "Efficient Metamagic - Enlarge I",
+      "tooltip": "Efficient Metamagic - Enlarge I: The additional spell point cost for using the Enlarge Metamagic feat is reduced by 1 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Enlarge I"
+        }
+      ]
+    },
+    {
+      "text": "Ice Lore III",
+      "tooltip": "Ice Lore III: Passive: Your Cold spells gain a 13% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Ice Lore III"
+        }
+      ]
+    }
+  ]
+}

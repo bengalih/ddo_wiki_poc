@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Bullywug Priestess' Staff",
+  "page_id": 91409,
+  "revision_id": 628827,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:16:50.858733+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Bullywug Priestess' Staff\n  | prof                     = Simple\n  | sentience                = no\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | damage                   = [1d6] + 2 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 3\n  | durability               = 110\n  | material                 = Flametouched Iron\n  | hardness                 = 13\n  | basevalue                = 1200 pp 1 cp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 50\n  | quest                    = The Final Enemy\n  | chest                    = End Chest\n  | turn in                  = \n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Bullywug Priestess' Staff\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Spelllore|Frozen Depths|+8}}\n* {{SpellPower|Power of the Frozen Depths|53}}\n* {{Spellpen|+3}}\n* {{Immunity|Bless Ward}}\n* {{Bane of the Depths}}\n* {{Augment|red}}\n  | description              = The Quarterstaff is imbued with the Cold light of the depths. It appears to be attuned to profane magic.\n  | pic                      = Bullywug Priestess' Staff shown.jpg\n  | picdesc                  = Bullywug Priestess&#39; Staff.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Frozen Depths Lore +8%",
+      "tooltip": "Frozen Depths Lore +8: Passive: Your Negative, Poison and Cold spells gain a +8% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Frozen Depths Lore +8%"
+        }
+      ]
+    },
+    {
+      "text": "Power of the Frozen Depths +53",
+      "tooltip": "Power of the Frozen Depths +53: Passive: +53 Equipment bonus to Negative, Cold and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power_of_the_Frozen_Depths",
+          "title": "Power of the Frozen Depths",
+          "text": "Power of the Frozen Depths"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration +3",
+      "tooltip": "Spell Penetration +3: Passive: +3 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration +3"
+        }
+      ]
+    },
+    {
+      "text": "Bless Ward",
+      "tooltip": "Bless Ward: You are warded against the Bless spell.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bless_Ward",
+          "title": "Bless Ward",
+          "text": "Bless Ward"
+        }
+      ]
+    },
+    {
+      "text": "Bane of the Depths",
+      "tooltip": "Bane of the Depths: Your Negative, Poison and Cold spells automatically apply the effects of Bane to enemies struck.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_of_the_Depths",
+          "title": "Bane of the Depths",
+          "text": "Bane of the Depths"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

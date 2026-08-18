@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Legendary Gorgon Docent",
+  "page_id": 101494,
+  "revision_id": 632356,
+  "revision_timestamp": "2025-04-22T00:59:08Z",
+  "fetched_at": "2026-08-17T21:50:36.573016+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Gorgon Docent\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+12|m=+5|c=+1}}\n  | durability               = 360\n  | material                 = Gem\n  | hardness                 = 41\n  | minlevel                 = 31\n  | released                 = Update 59\n  | quest                    = Eyes of Stone\n  | chest                    = Coin Lords' chest\n  | basevalue                = 12,410pp\n  | weight                   = \n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Clicky|Gorgon Breath|30|3}} \n* {{Enhancement bonus|a|15}}\n* {{Stat|Con|14}}\n* {{Sheltering|35|Enhancement|Physical}}\n* {{Guard|Legendary Stone}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Gorgon Docent shown.jpg\n  | picdesc                  = Legendary Gorgon Docent.png\n  | description              = This docent was specially crafted for the warforged that serve as mercenaries for [[House Deneith]].\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 31,
+  "enchantments": [
+    {
+      "text": "Gorgon Breath — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Gorgon BreathCaster level: 30Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Gorgon_Breath",
+          "title": "Gorgon Breath",
+          "text": "Gorgon Breath"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +14",
+      "tooltip": "Constitution +14: This item gives the wearer improved health, granting a +14 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +14"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +35",
+      "tooltip": "Physical Sheltering +35: +35 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +35"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Stone Guard",
+      "tooltip": "Legendary Stone Guard: This item is invested with the power of the earth. On being struck in melee, it has the chance to attempt to turn the target to stone, as the Flesh to Stone spell. A successful Fortitude save (DC 100) negates the effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Legendary_Stone_Guard",
+          "title": "Legendary Stone Guard",
+          "text": "Legendary Stone Guard"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

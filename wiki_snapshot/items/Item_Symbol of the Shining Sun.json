@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Symbol of the Shining Sun",
+  "page_id": 24443,
+  "revision_id": 635197,
+  "revision_timestamp": "2025-04-22T04:11:49Z",
+  "fetched_at": "2026-08-17T23:09:51.934599+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Symbol of the Shining Sun\n  | minlevel                 = 20\n  | type                     = Necklace\n  | slot                     = Neck\n  | bind                     = {{Bind|BtC|boa}}\n  | durability               = 210\n  | material                 = Gold\n  | hardness                 = 25\n  | basevalue                = 8,005 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Eveningstar\n  | end reward               = \n  | turn in                  = {{Commendation|Clerics|5}}\n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Stat|WIS|7}}\n* {{Stat|CHA|2|Insightful}}\n* {{Skills|Concentration|15}}\n* {{Named item sets|Amaunator's Blessing}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This golden amulet is the width of a man's fist, and is in the shape of a perfect, circular sun, with twelve spokes emerging at regular intervals around the periphery.\n  | pic                      = Necklace Generic Gold.png\n  | picdesc                  = Symbol of the Shining Sun.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Wisdom +7",
+      "tooltip": "Wisdom +7: This item makes the wearer more in tune with her surroundings, granting a +7 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +7"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Charisma +2",
+      "tooltip": "Insightful Charisma +2: This item makes the wearer have more flair, granting a +2 Insight bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Insightful Charisma +2"
+        }
+      ]
+    },
+    {
+      "text": "Concentration +15",
+      "tooltip": "Concentration +15: Passive: +15 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +15"
+        }
+      ]
+    },
+    {
+      "text": "Amaunator's Blessing",
+      "tooltip": "Amaunator's Blessing: When all three items from the set are equipped, you will gain a 10% Enhancement discount to the Spell Point cost of all your spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Amaunator's_Blessing",
+          "title": "Named item sets",
+          "text": "Amaunator's Blessing"
+        }
+      ]
+    }
+  ]
+}

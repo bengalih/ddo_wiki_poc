@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Cloak of the Ambassador",
+  "page_id": 113769,
+  "revision_id": 685086,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:23:28.276313+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Cloak of the Ambassador\n  | type                     = Cloak\n  | cost                     = 1201 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Back\n  | durability               = 130\n  | material                 = Cloth\n  | hardness                 = 23\n  | minlevel                 = 3\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 73\n  | quest                    = Sleeping with the Fishes\n  | chest                    = House Lyrandar uprising optional chest\n  | end reward               = \n  | enhancements             = \n* {{Deception|2}}\n* {{Deception|6|Bluff=Improved}}\n* {{Accuracy|5}}\n* {{Accuracy|1|Quality}}\n* {{Augment|Blue}}\n* {{Augment|Sun}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Cloak of the Ambassador shown.jpg\n  | picdesc                  = Cloak of the Ambassador.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Deception +2",
+      "tooltip": "Deception +2: +2 Enhancement bonus to hit and +3 to damage for any hit that would qualify as a sneak attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Deception +2"
+        }
+      ]
+    },
+    {
+      "text": "Improved Deception +6",
+      "tooltip": "Improved Deception: This item makes your weapons hard to focus upon and thus provides a +6 enhancement bonus to Bluff checks. In addition, while using this item your weapons have a chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception#Improved_Deception",
+          "title": "Deception",
+          "text": "Improved Deception +6"
+        }
+      ]
+    },
+    {
+      "text": "Accuracy +5",
+      "tooltip": "Accuracy +5: Passive: +5 Competence bonus to attack rolls",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accuracy",
+          "title": "Accuracy",
+          "text": "Accuracy +5"
+        }
+      ]
+    },
+    {
+      "text": "Quality Accuracy +1",
+      "tooltip": "Quality Accuracy +1: Passive: +1 Quality bonus to attack rolls",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accuracy",
+          "title": "Accuracy",
+          "text": "Quality Accuracy +1"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

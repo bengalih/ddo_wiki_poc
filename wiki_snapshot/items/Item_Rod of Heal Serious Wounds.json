@@ -1,0 +1,43 @@
+{
+  "page_title": "Item:Rod of Heal Serious Wounds",
+  "page_id": 108531,
+  "revision_id": 642884,
+  "revision_timestamp": "2025-05-31T05:13:12Z",
+  "fetched_at": "2026-08-17T22:48:42.977077+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Rod of Heal Serious Wounds\n  | damage                   = [1d6] + 2 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 5\n  | durability               = 100\n  | material                 = Wood\n  | hardness                 = 10\n  | cost                     = 2000 pp 1 cp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = \n  | quest                    = DDO Store\n  | chest                    = \n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Clicky|Heal Serious Wounds|7|50|no}}\n  | description              = A sceptre containing multiple charges of Heal Serious Wounds.\n  | pic                      = Rod of Heal Serious Wounds shown.jpg\n  | picdesc                  = Rod of Heal Serious Wounds.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Heal Serious Wounds — 50 Charges",
+      "tooltip": "Heal Serious WoundsCaster level: 7Charges: 50",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heal_Serious_Wounds",
+          "title": "Heal Serious Wounds",
+          "text": "Heal Serious Wounds"
+        }
+      ]
+    }
+  ]
+}

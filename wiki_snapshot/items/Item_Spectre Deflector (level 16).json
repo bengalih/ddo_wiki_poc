@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Spectre Deflector (level 16)",
+  "page_id": 72642,
+  "revision_id": 662990,
+  "revision_timestamp": "2025-10-11T17:55:03Z",
+  "fetched_at": "2026-08-17T23:03:53.854676+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = {{Item|Spectre Deflector}}\n  | type                     = Buckler\n  | prof                     = General\n  | reqtrait                 = \n  | minlevel                 = 16\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +7\n  | maxdexbonus              = \n  | dr                       = 8\n  | acp                      = 0\n  | asf                      = 0\n  | dmg                      = 2.20[1d6] + 5\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attmod                   = STR\n  | damagemod                = STR\n  | durability               = 235\n  | material                 = Magesteel\n  | hardness                 = 26\n  | basevalue                = 6,401pp 5gp\n  | weight                   = 5 lbs\n  | quest                    = The Night Revels\n  | turn in                  = {{Item|Spectre Deflector (level 12)}}{{Br}}{{Tab}}and {{NightRevelsRecipe|ing_chocolate= 120|ing_almond= 30|ing_cinnamon= 60}} at [[Joe Candymaker]]\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|s|5}}\n* {{Protection from Evil}}\n* {{Ghostbane|4}}\n* {{Ghostly}}\n* {{Lifesealed|24}}\n* {{Augment|Blue}}\n  | crafting                 = The Night Revels\n  | craftingupgrade          = Epic Spectre Deflector (level 20)\n  | description              = Deflects all spectres.\n  | pic                      = Swashbuckler shown.jpg\n  | picdesc                  = Spectre Deflector (level 16).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Magesteel",
+  "item_type": "Buckler",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Protection from Evil",
+      "tooltip": "Protection from Evil: Passive: You gain the benefit of the spell Protection from Evil.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection_from_Evil",
+          "title": "Protection from Evil",
+          "text": "Protection from Evil"
+        }
+      ]
+    },
+    {
+      "text": "Ghostbane 4",
+      "tooltip": "Ghostbane 4: This weapon is attuned specifically to hunt the risen dead, dealing an additional 4d10 bane damage vs. Undead monsters.Passive: This weapon has Ghost Touch, and bypasses ethereal monster's 50% chance to evade bane damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostbane",
+          "title": "Ghostbane",
+          "text": "Ghostbane 4"
+        }
+      ]
+    },
+    {
+      "text": "Ghostly",
+      "tooltip": "Ghostly: Equipping this item causes you to become partially incorporeal. Your melee attacks do not roll a miss chance for Incorporeal targets. Enemy attacks have a 10% chance to miss you due to incorporeality. You receive a +5 enhancement bonus to your Hide and Move Silently skills.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostly",
+          "title": "Ghostly",
+          "text": "Ghostly"
+        }
+      ]
+    },
+    {
+      "text": "Lifesealed +24",
+      "tooltip": "Lifesealed +24: You are immune to magical effects that cause instant death. In addition, you have a +24% enhancement bonus to Negative Energy Absorption.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lifesealed",
+          "title": "Lifesealed",
+          "text": "Lifesealed +24"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

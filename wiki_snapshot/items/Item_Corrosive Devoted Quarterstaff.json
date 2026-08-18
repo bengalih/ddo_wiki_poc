@@ -1,0 +1,175 @@
+{
+  "page_title": "Item:Corrosive Devoted Quarterstaff",
+  "page_id": 88827,
+  "revision_id": 689882,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:26:31.424068+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Corrosive Devoted Quarterstaff\n  | minlevel                 = 12\n  | type                     = Quarterstaff\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = Two-handed\n  | damage                   = 1.40[1d6] + 6 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | race                     = \n  | slot                     = \n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 200\n  | material                 = Wood\n  | hardness                 = 22\n  | cost                     = 4,800 pp 1 cp\n  | weight                   = 4 lbs\n  | released                 = Update 49\n  | revamped                 = Update 80\n  | quest                    = Cauldron of Sora Katra\n  | end reward               = \n  | turn in                  = \n  | chest                    = [[Item:Fusible Sceptre of Corrosion]] + [[Item:Malleable Sceptre of Devotion]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|6|12}}\n* {{Spelllore|Acid|12}}\n* {{Spelllore|Healing|12}}\n* {{SpellPower|Corrosion|84}}\n* {{SpellPower|Devotion|84}}\n* {{SpellPower|Corrosion|42|Insight}}\n* {{SpellPower|Devotion|42|Insight}}\n* {{Spell Focus|Conjuration|4}}\n* {{Sheltering|16|Enhancement|Physical}}\n* {{Magical Efficiency|5}}\n* {{Augment|Red}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | description              = This quarterstaff is fused from two separate sceptres.\n  | pic                      = Impulsive Reconstructed Quarterstaff Shown.jpg\n  | picdesc                  = Corrosive Devoted Quarterstaff.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +12",
+      "tooltip": "Spellcasting Implement +12: Passive: +12 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +12"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Acid Lore +12%",
+      "tooltip": "Acid Lore +12: Passive: Your Acid spells gain a 12% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Acid Lore +12%"
+        }
+      ]
+    },
+    {
+      "text": "Healing Lore +12%",
+      "tooltip": "Healing Lore +12: Passive: Your Positive Energy spells gain a 12% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Healing Lore +12%"
+        }
+      ]
+    },
+    {
+      "text": "Corrosion +84",
+      "tooltip": "Corrosion +84: Passive: +84 Equipment bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Corrosion +84"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +84",
+      "tooltip": "Devotion +84: Passive: +84 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +84"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Corrosion +42",
+      "tooltip": "Insightful Corrosion +42: Passive: +42 Insight bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Insightful Corrosion +42"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Devotion +42",
+      "tooltip": "Insightful Devotion +42: Passive: +42 Insight bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Insightful Devotion +42"
+        }
+      ]
+    },
+    {
+      "text": "Conjuration Focus +4",
+      "tooltip": "Conjuration Focus +4: +4 Equipment bonus to the DC of Conjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Conjuration Focus +4"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +16",
+      "tooltip": "Physical Sheltering +16: +16 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +16"
+        }
+      ]
+    },
+    {
+      "text": "Magical Efficiency 5%",
+      "tooltip": "Magical Efficiency 5%: You take a 5% Enhancement discount to the Spell Point cost of your spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magical_Efficiency",
+          "title": "Magical Efficiency",
+          "text": "Magical Efficiency 5%"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    }
+  ]
+}

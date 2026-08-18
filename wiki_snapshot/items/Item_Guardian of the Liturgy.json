@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Guardian of the Liturgy",
+  "page_id": 7876,
+  "revision_id": 691254,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:17:32.220037+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Guardian of the Liturgy\n  | damage                   = 1.40[1d10] + 5 Slash, Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Dagger\n  | class                    = Piercing\n  | prof                     = Simple\n  | hand                     = One-handed\n  | minlevel                 = 12\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 22\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = Desecrated Temple of Vol\n  | chest                    = End Chest\n  | revamped                 = Update 76\n  | basevalue                = 4,800pp 2gp\n  | weight                   = 1.00 lbs\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Bleed}}\n* {{Heartseeker|IV}}\n* {{Augment|Red}}\n  | pic                      = Miasma's Fang shown.jpg\n  | picdesc                  = Guardian of the Liturgy.png\n  | description              = This dagger was once used in the blood rituals to Vol performed in this ancient shrine.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Bleed",
+      "tooltip": "Bleed: This weapon is cruelly sharp and will do an additional 1 to 8 damage to targets that are vulnerable to bleeding.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleed#Bleed",
+          "title": "Bleed",
+          "text": "Bleed"
+        }
+      ]
+    },
+    {
+      "text": "Heartseeker IV",
+      "tooltip": "Heartseeker IV: On Critical Hit: 9 to 54 Piercing damage from weapons with a x2 Critical Multiplier, 9 to 72 Piercing damage from weapons with a x3 Critical Multiplier, and 9 to 90 Piercing damage from weapons with a x4 or greater Critical Multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heartseeker",
+          "title": "Heartseeker",
+          "text": "Heartseeker IV"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

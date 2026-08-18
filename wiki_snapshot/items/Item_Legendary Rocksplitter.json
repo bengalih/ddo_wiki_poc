@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Legendary Rocksplitter",
+  "page_id": 101354,
+  "revision_id": 632795,
+  "revision_timestamp": "2025-04-22T01:29:13Z",
+  "fetched_at": "2026-08-17T22:04:35.114408+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Rocksplitter\n  | damage                   = 5.20[1d6+2] + 15 Pierce, Adamantine, Magic\n  | crit                     = 20 / x4\n  | type                     = Heavy Pick\n  | class                    = Piercing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 390\n  | material                 = Adamantine\n  | hardness                 = 51\n  | minlevel                 = 31\n  | basevalue                = 12,700pp 8gp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | released                 = Update 59\n  | quest                    = Eyes of Stone\n  | chest                    = End chest\n  | mythic                   = yes\n  | enhancements             = \n* {{Enhancement_bonus|w|15}}\n* {{Shockwave|Overwhelming}}\n* {{Reverberating|6}}\n* {{Destruction|Improved}}\n* {{Mat|Adamantine}}\n* {{CraftingEffects|Fusible}}\n* {{Augment|Red}}\n* {{Augment|Purple}}\n  | crafting                 = Fusible\n  | craftingupgrade          = Legendary Crippling Rocksplitter¦Legendary Maiming Rocksplitter¦Legendary Vengeful Rocksplitter¦Legendary Vampiric Rocksplitter\n  | description              = Diggers in the [[Droaam]] Army who were attempting to tunnel beneath Stormreach and gain the element of surprise used picks like this to aid them.\n  | pic                      = Rocksplitter shown.jpg\n  | picdesc                  = Legendary Rocksplitter.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Heavy Pick",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 31,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Overwhelming Shockwave",
+      "tooltip": "Overwhelming Shockwave: This legendary weapon resonates with incredible power. On a Vorpal strike that is confirmed as a critical hit, it releases a Shockwave that does tremendous Sonic damage to all foes. Furthermore, the enemy that the shockwave is released on is Dazed from the force of the blast.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shockwave#Overwhelming_Shockwave",
+          "title": "Shockwave",
+          "text": "Overwhelming Shockwave"
+        }
+      ]
+    },
+    {
+      "text": "Reverberating 6",
+      "tooltip": "Reverberating 6: This effect causes the edges of this weapon to pulse with sound, dealing 6d6 sonic damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reverberating",
+          "title": "Reverberating",
+          "text": "Reverberating 6"
+        }
+      ]
+    },
+    {
+      "text": "Improved Destruction",
+      "tooltip": "Improved Destruction: On Hit: Your target gains a stack of Armor Destruction. (-1 penalty to Armor Class, -1% of its Fortification. 20 Second Duration. Stacks up to 15 times.) This effect may trigger once every second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Improved_Destruction",
+          "title": "Improved Destruction",
+          "text": "Improved Destruction"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Fusible",
+      "tooltip": "Fusible: Something about this item looks incomplete. Perhaps in the future it will be compatible with another item to create a brand-new fusion of the two.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cauldron_of_Sora_Katra",
+          "title": "Cauldron of Sora Katra",
+          "text": "Fusible"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

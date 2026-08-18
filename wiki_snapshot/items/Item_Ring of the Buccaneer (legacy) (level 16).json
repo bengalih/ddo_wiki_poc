@@ -1,0 +1,145 @@
+{
+  "page_title": "Item:Ring of the Buccaneer (legacy) (level 16)",
+  "page_id": 13966,
+  "revision_id": 634281,
+  "revision_timestamp": "2025-04-22T03:11:16Z",
+  "fetched_at": "2026-08-17T22:46:12.842865+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = {{Item|Ring of the Buccaneer}}\n  | type                     = Ring\n  | basevalue                = 8,120 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Finger\n  | durability               = 100\n  | material                 = Steel\n  | hardness                 = 11\n  | minlevel                 = 16\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = at [[Dusty Old Treasure of Crystal Cove]]\n  | end reward               = \n  | enhancements             = \n* [[Upgradeable - Tier 1]]\n* {{Skills|Swim|13}}\n* {{Stat|DEX|5}}\n* {{Underwater Action}}\n* {{Good Luck|1}}\n** [[Upgradeable - Tier 2]]\n*** Adds {{ProtectionBonus|4}}\n** [[Upgradeable - Tier 3]]\n*** {{Stat|DEX|5}} becomes {{Stat|DEX|6}}\n  | crafting                 = Treasure of Crystal Cove\n  | craftingupgrade          = <!--yes-->\n  | description              = This ring is coveted by many who travel by sea for its ability to make one more dexterous, and better able to survive the perils of the ocean.\n  | pic                      = Ring Generic Buccaneer.png\n  | picdesc                  = Ring of the Buccaneer (Level 16).png\n  | tips                     = See also: [[Item:Ring of the Buccaneer|Ring of the Buccaneer]] - Full table of the Ring of the Buccaneer line <br /><br />\nTier 2: <br />\n[[:File:Ring of the Buccaneer (Level 16) (Tier 2).jpg]]\n}}<noinclude>[[Category:Treasure of Crystal Cove legacy reward items]]</noinclude>",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Swim +13",
+      "tooltip": "Swim +13: Passive: +13 Competence bonus to the Swim skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Swim",
+          "title": "Swim",
+          "text": "Swim +13"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +5",
+      "tooltip": "Dexterity +5: This item makes the wearer more nimble and dexterous, granting a +5 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +5"
+        }
+      ]
+    },
+    {
+      "text": "Underwater Action",
+      "tooltip": "Underwater Action: This item grants the wearer the ability to breathe water as if it were air.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Underwater_Action",
+          "title": "Underwater Action",
+          "text": "Underwater Action"
+        }
+      ]
+    },
+    {
+      "text": "Good Luck +1",
+      "tooltip": "Good Luck +1: This item gives a +1 Luck bonus to all saves and skill checks.",
+      "children": [
+        {
+          "text": "Upgradeable - Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Protection +4",
+              "tooltip": "Protection +4: Passive: +4 Deflection bonus to Armor Class.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Protection",
+                  "title": "Protection",
+                  "text": "Protection +4"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_2",
+              "title": "Upgradeable - Tier 2",
+              "text": "Upgradeable - Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Upgradeable - Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Dexterity +5 becomes Dexterity +6",
+              "tooltip": "Dexterity +5: This item makes the wearer more nimble and dexterous, granting a +5 Enhancement bonus to Dexterity. Dexterity +6: This item makes the wearer more nimble and dexterous, granting a +6 Enhancement bonus to Dexterity.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Dexterity",
+                  "title": "Dexterity",
+                  "text": "Dexterity +5"
+                },
+                {
+                  "target": "/page/Dexterity",
+                  "title": "Dexterity",
+                  "text": "Dexterity +6"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_3",
+              "title": "Upgradeable - Tier 3",
+              "text": "Upgradeable - Tier 3"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Good_Luck",
+          "title": "Good Luck",
+          "text": "Good Luck +1"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

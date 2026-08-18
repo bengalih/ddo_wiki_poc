@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Summoner's Spectacles",
+  "page_id": 67238,
+  "revision_id": 689562,
+  "revision_timestamp": "2026-06-20T13:32:39Z",
+  "fetched_at": "2026-08-17T23:07:35.303750+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Summoner's Spectacles\n  | type                     = Goggles\n  | class                    = Goggles\n  | slot                     = Eye\n  | durability               = 200\n  | material                 = Steel\n  | hardness                 = 30\n  | basevalue                = 4001 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 37\n  | revamped                 = Update 80\n  | quest                    = Mad Tea Party\n  | chest                    = end chest\n  | end reward               = \n  | enhancements             = \n* {{Spell Focus|Conjuration|4}}\n* {{Spell Focus|Conjuration|2|Ins}}\n* {{Spellpen|4}}\n* {{Diversion|2|Mystic|Quality}}\n* {{Augment|Green}}\n* {{Named item sets|Adherent of the Mists Set (Heroic)}}\n  | pic                      = Summoner's Spectacles shown.jpg\n  | picdesc                  = Summoner's Spectacles.png\n  | description              = These finely-crafted glasses are best used in tandem with a large and terrifying wolf.\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Conjuration Focus +4",
+      "tooltip": "Conjuration Focus +4: +4 Equipment bonus to the DC of Conjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Conjuration Focus +4"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Conjuration Focus +2",
+      "tooltip": "Insightful Conjuration Focus +2: +2 Insight bonus to the DC of Conjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Conjuration Focus +2"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration +4",
+      "tooltip": "Spell Penetration +4: Passive: +4 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration +4"
+        }
+      ]
+    },
+    {
+      "text": "Quality Mystic Diversion +2%",
+      "tooltip": "Quality Mystic Diversion +2%: +2% Quality bonus to decreased threat generated from spell damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Diversion",
+          "title": "Diversion",
+          "text": "Quality Mystic Diversion +2%"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Adherent of the Mists Set (Heroic)",
+      "tooltip": "Adherent of the Mists Set (Heroic): 5 Pieces Equipped:+5 Profane bonus to Physical Resistance Rating+10 Profane bonus to Positive, Negative, and Repair Amplification+5 Profane bonus to Melee and Ranged Power+10 Profane bonus to Universal Spell Power",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Adherent_of_the_Mists_Set_(Heroic)",
+          "title": "Named item sets",
+          "text": "Adherent of the Mists Set (Heroic)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Goggle Boost +1 or +3",
+      "tooltip": "Mythic Goggle Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Goggle Boost"
+        }
+      ]
+    }
+  ]
+}

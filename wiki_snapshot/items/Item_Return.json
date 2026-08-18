@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Return",
+  "page_id": 79635,
+  "revision_id": 634215,
+  "revision_timestamp": "2025-04-22T03:06:52Z",
+  "fetched_at": "2026-08-17T22:44:36.721584+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Return\n  | damage                   = 1.50[1d8] + 3 Bludgeon, Magic\n  | type                     = Heavy Mace\n  | crit                     = 20 / x2\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | race                     = Aasimar Scourge\n  | damagemod                = STR\n  | attackmod                = STR\n  | minlevel                 = 15\n  | durability               = 210\n  | material                 = Steel\n  | hardness                 = 25\n  | cost                     = 6,001pp 2gp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 36\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}} \n* {{Bludgeoning|3}}\n* {{Shockwave}}\n  | description              = \n  | pic                      = Return Redeem shown.jpg\n  | picdesc                  = Return.png\n  | food                     = no\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Heavy Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Bludgeoning 3",
+      "tooltip": "Bludgeoning 3: The edges of this weapon are blunted, dealing an additional 3d6 bludgeon damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bludgeoning",
+          "title": "Bludgeoning",
+          "text": "Bludgeoning 3"
+        }
+      ]
+    },
+    {
+      "text": "Shockwave",
+      "tooltip": "Shockwave: On Vorpal, this weapon triggers a Shockwave, striking its target with bludgeoning damage and dealing damage to surrounding enemies.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shockwave#Shockwave",
+          "title": "Shockwave",
+          "text": "Shockwave"
+        }
+      ]
+    }
+  ]
+}

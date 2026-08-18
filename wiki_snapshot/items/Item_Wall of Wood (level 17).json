@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:Wall of Wood (level 17)",
+  "page_id": 49658,
+  "revision_id": 635747,
+  "revision_timestamp": "2025-04-22T04:48:29Z",
+  "fetched_at": "2026-08-17T23:24:53.409750+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = {{Item|Wall of Wood}}\n  | type                     = Large\n  | prof                     = General\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 17\n  | damagemod                = STR\n  | attmod                   = STR\n  | bind                     = {{Bind|BtC|BoE}}\n  | sb                       = +11\n  | dr                       = 11\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = [2d4] + 5\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 / x2\n  | durability               = 250\n  | material                 = Densewood\n  | hardness                 = 25\n  | basevalue                = 7,003 pp \n  | weight                   = 10 lbs\n  | released                 = Update 15\n  | quest                    = Overgrowth\n  | chest                    = Wood Woad's chest (Heroic Elite)\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|si|5}}\n* {{Shield Bashing|%=10}}\n* {{NaturalArmor|5}}\n* {{HealingAmp|40|h|Equipment}}\n* {{SpellPower|Devotion|84}}\n* {{DR|10|Slashing}}\n  | description              = This splendid heavy shield is made out of rare densewood, harvested from the King's Forest. Obviously reinforced with magical enchantments, it provides much greater protection than a normal shield of its size.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Wharfrat's Plank shown.jpg\n  | picdesc                  = Wall of Wood (Level 17).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Densewood",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 17,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +15",
+      "tooltip": "Spellcasting Implement +15: Passive: +15 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +15"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Shield Bashing +10%",
+      "tooltip": "Shield Bashing +10%: +10% Enhancement bonus to your chance of a Secondary Shield Bash. This stacks with bonuses granted by any relevant feats.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bashing",
+          "title": "Shield Bashing",
+          "text": "Shield Bashing +10%"
+        }
+      ]
+    },
+    {
+      "text": "Natural Armor +5",
+      "tooltip": "Natural Armor +5: Passive: +5 Natural Armor Bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Natural_armor_bonus",
+          "title": "Natural armor bonus",
+          "text": "Natural Armor +5"
+        }
+      ]
+    },
+    {
+      "text": "Equipment Healing Amplification +40",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +40 (Equipment bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Equipment Healing Amplification +40"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +84",
+      "tooltip": "Devotion +84: Passive: +84 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +84"
+        }
+      ]
+    },
+    {
+      "text": "DR 10/Slashing",
+      "tooltip": "Damage Reduction 10/Slashing: Reduces physical damage by 10, except from Slashing attacks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

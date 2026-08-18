@@ -1,0 +1,163 @@
+{
+  "page_title": "Item:Legendary Slave Master's Staff",
+  "page_id": 61299,
+  "revision_id": 690661,
+  "revision_timestamp": "2026-06-30T16:39:51Z",
+  "fetched_at": "2026-08-17T22:09:07.388649+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Slave Master's Staff <!-- https://ddowiki.com/page/Update_32_Patch_1_Release_Notes -->\n  | damage                   = 4.60[1d6] + 14 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 28\n  | durability               = 360\n  | material                 = Steel\n  | hardness                 = 38\n  | basevalue                = 11,250 pp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Assault on the Aerie of the Slave Lords\n  | released                 = Update 32\n  | end reward               = <!-- Leave blank if not used-->\n  | turn in                  = <!-- Leave blank if not used-->\n  | chest                    = End chest\n  | enhancements             = \n* {{Enhancement bonus|i|14|28}}\n* {{Spelllore|Fire|21}}\n* {{Spelllore|Lightning|21}}\n* {{Spell Focus|Evocation|3|Insightful}}\n* {{Wizardry|269}}\n* {{SpellPower|Elemental Resonance|142}}\n* {{Spelllore|Acid|21}}\n* {{Spell Focus|Conjuration|3|Insightful}}\n* {{CraftingEffects|Against the Slave Lords Set Bonus}}\n* {{Augment|Orange}}\n  | epic                     = no\n  | crafting                 = Slave Lords Crafting\n  | craftingupgrade          = \n  | description              = This staff contains the power of Fire, the wrath of Electricity, and the corruption of Acid.\n  | pic                      = Slave Master's Staff shown.jpg\n  | picdesc                  = Legendary Slave Master's Staff.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +28",
+      "tooltip": "Spellcasting Implement +28: Passive: +28 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +28"
+        }
+      ]
+    },
+    {
+      "text": "+14 Enhancement Bonus",
+      "tooltip": "+14 Enhancement Bonus: +14 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+14 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fire Lore +21%",
+      "tooltip": "Fire Lore +21: Passive: Your Fire spells gain a 21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Lore +21%",
+      "tooltip": "Lightning Lore +21: Passive: Your Electricity spells gain a 21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Evocation Focus +3",
+      "tooltip": "Insightful Evocation Focus +3: +3 Insight bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Evocation Focus +3"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry +269",
+      "tooltip": "Wizardry +269: +269 Enhancement bonus to spell points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry +269"
+        }
+      ]
+    },
+    {
+      "text": "Elemental Resonance +142",
+      "tooltip": "Elemental Resonance +142: Passive: +142 Equipment bonus to Acid, Fire, Electric and Cold Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Elemental_Resonance",
+          "title": "Elemental Resonance",
+          "text": "Elemental Resonance"
+        }
+      ]
+    },
+    {
+      "text": "Acid Lore +21%",
+      "tooltip": "Acid Lore +21: Passive: Your Acid spells gain a 21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Acid Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Conjuration Focus +3",
+      "tooltip": "Insightful Conjuration Focus +3: +3 Insight bonus to the DC of Conjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Conjuration Focus +3"
+        }
+      ]
+    },
+    {
+      "text": "Against the Slave Lords Set Bonus",
+      "tooltip": "Against the Slave Lords Set Bonus: An Against the Slave Lords Set Bonus can be applied to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slave_Lords_Crafting",
+          "title": "Slave Lords Crafting",
+          "text": "Against the Slave Lords Set Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

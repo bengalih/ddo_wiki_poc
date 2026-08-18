@@ -1,0 +1,40 @@
+{
+  "page_title": "Item:Battered Helm",
+  "page_id": 9625,
+  "revision_id": 628484,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:09:16.708496+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Battered Helm\n  | type                     = Helm\n  | class                    = Clothing\n  | basevalue                = 110 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Head\n  | durability               = 20\n  | material                 = Leather\n  | hardness                 = 6\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|boa}}\n  | quest                    = Stopping the Sahuagin\n  | chest                    = \n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|intim|1}}\n* {{Skills|Haggle|1}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This battered helm has seen a good deal of use.\n  | pic                      = Battered Helm shown.jpg\n  | picdesc                  = Battered Helm.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "enchantments": [
+    {
+      "text": "Intimidate +1",
+      "tooltip": "Intimidate +1: Passive: +1 Competence bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Intimidate +1"
+        }
+      ]
+    },
+    {
+      "text": "Haggle +1",
+      "tooltip": "Haggle +1: Passive: +1 Competence bonus to the Haggle skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Haggle",
+          "title": "Haggle",
+          "text": "Haggle +1"
+        }
+      ]
+    }
+  ]
+}

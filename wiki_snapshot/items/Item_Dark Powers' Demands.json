@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Dark Powers' Demands",
+  "page_id": 117176,
+  "revision_id": 691115,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:30:10.371887+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Dark Powers' Demands\n  | minlevel                 = 15\n  | type                     = Sickle\n  | class                    = Slashing\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damage                   = [1d6] + 3 Slash, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | race                     = Dhampir Dark Bargainer\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 200\n  | material                 = Steel\n  | hardness                 = 114\n  | cost                     = 6,000 pp 6 cp\n  | weight                   = 2 lbs\n  | released                 = Update 74\n  | revamped                 = Update 76\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Spell Lore|Kinetic|12}}\n* {{Spell Focus|Evocation|2|Insightful}}\n  | crafting                 = \n  | description              = \n  | pic                      = Null, the Darkness Without shown.jpg\n  | picdesc                  = Dark Powers' Demands.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Sickle",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Kinetic Lore +12%",
+      "tooltip": "Kinetic Lore +12: Passive: Your Force, Physical and Untyped spells gain a 12% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Kinetic Lore +12%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Evocation Focus +2",
+      "tooltip": "Insightful Evocation Focus +2: +2 Insight bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Evocation Focus +2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "page_title": "Item:Dink's Leather Wraps",
+  "page_id": 12722,
+  "revision_id": 629473,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:33:56.342752+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Dink's Leather Wraps\n  | type                     = Leather\n  | feat                     = Light\n  | race                     = None\n  | ac                       = +4\n  | maxdexbonus              = 6\n  | asf                      = 10%\n  | durability               = 34\n  | material                 = Leather\n  | hardness                 = 9\n  | minlevel                 = 1\n  | quest                    = Irestone Inlet\n  | chest                    = [[Dinks]]' Chest\n  | basevalue                = 401 pp\n  | weight                   = 15 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|1}}\n* {{Augment|Blue}}\n  | crafting                 = <!--Type of crafting. Leave blank if none. -->\n  | craftingupgrade          = <!--What item can be upgraded to. Leave blank if none.-->\n  | pic                      = Dink's Leather Wraps shown.jpg\n  | picdesc                  = Dink's Leather Wraps.png\n  | description              = This magical armor, a trophy of battle, is magically enhanced.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

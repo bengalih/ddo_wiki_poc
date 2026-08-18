@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Phiarlan Mirror Cloak",
+  "page_id": 11695,
+  "revision_id": 633948,
+  "revision_timestamp": "2025-04-22T02:48:31Z",
+  "fetched_at": "2026-08-17T22:37:39.114684+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Phiarlan Mirror Cloak\n  | basevalue                = 1605 pp\n  | weight                   = 0.10 lbs\n  | type                     = Cloak\n  | class                    = Clothing\n  | slot                     = Back\n  | released                 = Update 5\n  | revamped                 = Update 39\n  | quest                    = Partycrashers\n  | chest                    = Rest Room chest; End chest\n  | durability               = 140\n  | material                 = Leather\n  | hardness                 = 24\n  | minlevel                 = 4\n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|Hide|6}}\n* {{Skills|Move Silently|6}}  \n* {{Spell Resistance|17}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Phiarlan Mirror Cloak\n  | description              = House Phiarlan spies keep many tools to help them in their trade. This cloak is a prime example of such a tool, and reflects light in such a way that the wearer is made partially invisible.  This effect also wards it against certain harmful spells.\n  | pic                      = Phiarlan Mirror Cloak Shown.jpg\n  | picdesc                  = Phiarlan Mirror Cloak.png\n  | tips                     = [[Category:Eleven Year Old Cake items]]\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Hide +6",
+      "tooltip": "Hide +6: Passive: +6 Competence bonus to the Hide skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hide",
+          "title": "Hide",
+          "text": "Hide +6"
+        }
+      ]
+    },
+    {
+      "text": "Move Silently +6",
+      "tooltip": "Move Silently +6: Passive: +6 Competence bonus to the Move Silently skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Move_Silently",
+          "title": "Move Silently",
+          "text": "Move Silently +6"
+        }
+      ]
+    },
+    {
+      "text": "Spell Resistance +17",
+      "tooltip": "Spell Resistance +17: +17 Enhancement bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Spell Resistance +17"
+        }
+      ]
+    }
+  ]
+}

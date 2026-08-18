@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Sworn Silver Heavy Crossbow",
+  "page_id": 83281,
+  "revision_id": 666268,
+  "revision_timestamp": "2025-11-19T15:25:37Z",
+  "fetched_at": "2026-08-17T23:09:11.641451+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Sworn Silver Heavy Crossbow\n  | damage                   = [1d10] + 1 Pierce, Silver, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Heavy Crossbow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = DEX\n  | attackmod                = DEX\n  | durability               = 105\n  | material                 = Silver\n  | hardness                 = 10\n  | minlevel                 = 2\n  | revamped                 = Update 76\n  | quest                    = Morten Edgewright\n  | chest                    = \n  | end reward               = \n  | turn in                  = 1 Silver Ingot\n  | epic                     = \n  | basevalue                = 807pp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 44\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|1}}\n* {{Mat|silver}}, Alchemical\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Heavy Crossbow Generic Borderlands pic.jpg\n  | picdesc                  = Sworn Silver Heavy Crossbow.png\n  | description              = This is a fine weapon, crafted of exquisite Silver. It's likely quite useful against the Undead or certain, powerful Devils.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Heavy Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Silver , Alchemical",
+      "tooltip": "Silver: A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as devils and vampires. Silver weapons have 2 points lower hardness then equivalent steel weapons, and as such aren't quite as durable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Silver",
+          "title": "Silver",
+          "text": "Silver"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

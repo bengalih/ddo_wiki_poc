@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Accomplice",
+  "page_id": 10503,
+  "revision_id": 628141,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:01:09.276506+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Accomplice\n  | type                     = Cloak\n  | slot                     = Back\n  | durability               = 100\n  | material                 = Leather\n  | hardness                 = 14\n  | basevalue                = 3,605 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 9\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = The Abandoned Excavation\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|ms|10}}\n* {{Skills|Hide|10}}\n* {{Cursed|Charisma}}\n* {{Augment|Green}}\n  | description              = A thief's best friend is a good accomplice, they say. A cloak that can shield a thief from spying eyes is even better.\n  | pic                      = Accomplice Shown.jpg\n  | picdesc                  = Accomplice.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Move Silently +10",
+      "tooltip": "Move Silently +10: Passive: +10 Competence bonus to the Move Silently skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Move_Silently",
+          "title": "Move Silently",
+          "text": "Move Silently +10"
+        }
+      ]
+    },
+    {
+      "text": "Hide +10",
+      "tooltip": "Hide +10: Passive: +10 Competence bonus to the Hide skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hide",
+          "title": "Hide",
+          "text": "Hide +10"
+        }
+      ]
+    },
+    {
+      "text": "Curse of Repulsiveness",
+      "tooltip": "Curse of Repulsiveness: Passive -1 Penalty to Charisma. (The minimum level required to equip this item is lower than normal due to this curse.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cursed",
+          "title": "Cursed",
+          "text": "Curse of Repulsiveness"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

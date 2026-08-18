@@ -1,0 +1,128 @@
+{
+  "page_title": "Item:Duelist's Leathers (legacy) (level 4)",
+  "page_id": 14976,
+  "revision_id": 629669,
+  "revision_timestamp": "2025-04-21T22:10:13Z",
+  "fetched_at": "2026-08-17T04:13:43.159262+00:00",
+  "categories": [],
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Feat: Mobility",
+      "tooltip": "Feat: Mobility: While equipped this armor grants the wielder the Mobility feat: increases the maximum dexterity bonus permitted by armor and tower shields by 2, adds a +4 bonus to Armor Class while tumbling, and gain a 2% dodge bonus.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feat",
+          "title": "Feat",
+          "text": "Feat"
+        }
+      ]
+    },
+    {
+      "text": "Balance +5",
+      "tooltip": "Balance +5: Passive: +5 Competence bonus to the Balance skill.",
+      "children": [
+        {
+          "text": "Upgradeable - Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "+1 Enhancement Bonus → +2 Enhancement Bonus",
+              "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class.+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+1 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+2 Enhancement Bonus"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_2",
+              "title": "Upgradeable - Tier 2",
+              "text": "Upgradeable - Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Upgradeable - Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Balance +5 → Balance +7",
+              "tooltip": "Balance +5: Passive: +5 Competence bonus to the Balance skill.Balance +7: Passive: +7 Competence bonus to the Balance skill.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Balance",
+                  "title": "Balance",
+                  "text": "Balance +5"
+                },
+                {
+                  "target": "/page/Balance",
+                  "title": "Balance",
+                  "text": "Balance +7"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_3",
+              "title": "Upgradeable - Tier 3",
+              "text": "Upgradeable - Tier 3"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Balance",
+          "title": "Balance",
+          "text": "Balance +5"
+        }
+      ]
+    }
+  ],
+  "item_class": "Armor",
+  "item_template": ""
+}

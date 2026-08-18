@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Entropic Edge",
+  "page_id": 107810,
+  "revision_id": 691083,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:43:59.412627+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Entropic Edge\n  | minlevel                 = 15\n  | type                     = Long Sword\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = 1.50[1d8] + 3 Slash, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | race                     = Eladrin Chaosmancer\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 220\n  | material                 = Steel\n  | hardness                 = 25\n  | cost                     = 6,000 pp 5 gp\n  | weight                   = 4 lbs\n  | released                 = Update 68\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|3|15}}\n* {{SpellPower|Radiance|81}}\n* {{Spell Focus|Evocation|2|Insightful}}\n* {{ItemGrantedFeat|Longsword}}\n  | crafting                 = \n  | description              = \n  | pic                      = Entropic Edge shown.jpg\n  | picdesc                  = Entropic Edge.png\n  | tips                     = \n}}\n[[Category:Weapons that grant their own proficiency]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +15",
+      "tooltip": "Spellcasting Implement +15: Passive: +15 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +15"
+        }
+      ]
+    },
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Radiance +81",
+      "tooltip": "Radiance +81: Passive: +81 Equipment bonus to Light and Alignment Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiance_(spell_boost)",
+          "title": "Radiance (spell boost)",
+          "text": "Radiance +81"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Evocation Focus +2",
+      "tooltip": "Insightful Evocation Focus +2: +2 Insight bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Evocation Focus +2"
+        }
+      ]
+    },
+    {
+      "text": "Proficiency: Longsword",
+      "tooltip": "Proficiency: Longsword: While equipped this item grants the wielder all required knowledge to wield a Longsword without proficiency penalties.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proficiency:_Longsword",
+          "title": "Proficiency: Longsword",
+          "text": "Proficiency: Longsword"
+        }
+      ]
+    }
+  ]
+}

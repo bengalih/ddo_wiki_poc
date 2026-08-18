@@ -1,0 +1,43 @@
+{
+  "page_title": "Item:Rod of Heal Critical Wounds",
+  "page_id": 116813,
+  "revision_id": 642549,
+  "revision_timestamp": "2025-05-22T23:48:59Z",
+  "fetched_at": "2026-08-17T22:48:38.831970+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Rod of Heal Critical Wounds\n  | damage                   = [1d6] + 3 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 8\n  | durability               = 130\n  | material                 = Wood\n  | hardness                 = 13\n  | cost                     = 3200 pp 1 cp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = \n  | quest                    = DDO Store\n  | chest                    = \n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Clicky|Heal Critical Wounds|9|50|no}}\n  | description              = A sceptre containing multiple charges of Heal Critical Wounds.\n  | pic                      = Rod of Heal Critical Wounds shown.jpg\n  | picdesc                  = Rod of Heal Critical Wounds.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Heal Critical Wounds — 50 Charges",
+      "tooltip": "Heal Critical WoundsCaster level: 9Charges: 50",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heal_Critical_Wounds",
+          "title": "Heal Critical Wounds",
+          "text": "Heal Critical Wounds"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Enlightened Robes",
+  "page_id": 10306,
+  "revision_id": 686699,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:43:56.594503+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Enlightened Robes\n  | type                     = Robe\n  | feat                     = Cloth\n  | ac                       = +5\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 65\n  | material                 = Cloth\n  | hardness                 = 8\n  | basevalue                = 2,405 pp 5 gp\n  | weight                   = 0 lbs\n  | quest                    = The Pit\n  | chest                    = end chest\n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|5}}\n* {{Stat|WIS|3}}\n* {{Fortification|2}}\n* {{Augment|Green}}\n  | pic                      = Enlightened Robes shown.jpg\n  | picdesc                  = Enlightened Robes.png\n  | description              = A robe spun from acid infused threads that glow with power.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +5",
+      "tooltip": "Armor Bonus +5: This item surrounds the wearer with an invisible but tangible field of force, granting +5 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +5"
+        }
+      ]
+    },
+    {
+      "text": "Wisdom +3",
+      "tooltip": "Wisdom +3: This item makes the wearer more in tune with her surroundings, granting a +3 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +3"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +75%",
+      "tooltip": "Fortification +75%: This suit of armor or shield produces a magical force that protects vital areas of the wearer much more effectively. When a critical hit or sneak attack is scored on the wearer, there is a 75% chance that the critical hit or sneak attack is negated and damage is instead rolled normally.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +75%"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

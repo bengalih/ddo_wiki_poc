@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Clockwork Boots",
+  "page_id": 80270,
+  "revision_id": 629067,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:24:04.921973+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Clockwork Boots\n  | type                     = Boots\n  | class                    = Clothing\n  | basevalue                = 1201pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 130\n  | material                 = Copper\n  | hardness                 = 23\n  | bind                     = {{Bind|BtA|BoA}}\n  | minlevel                 = 3\n  | quest                    = Heart of the Problem\n  | chest                    = end chest\n  | released                 = Update 46\n  | end reward               = \n  | enhancements             = \n* {{Stat|Int|2}}\n* {{Shatter|3}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | description              = These carry a subtle heat, as if they were still warm from the forge.\n  | pic                      = Boots Generic Gray.png\n  | picdesc                  = Clockwork Boots.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Copper",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Intelligence +2",
+      "tooltip": "Intelligence +2: This item focuses the power of the wearer's mind, granting a +2 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +2"
+        }
+      ]
+    },
+    {
+      "text": "Shatter +3",
+      "tooltip": "Shatter +3: This effect gives a +3 Enhancement bonus to the DC to resist the character's Sunder and Improved Sunder attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shatter",
+          "title": "Shatter",
+          "text": "Shatter +3"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Boot Boost +1 or +3",
+      "tooltip": "Mythic Boot Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Boot Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "page_title": "Item:Legendary Cowl of the Drow Devotee",
+  "page_id": 126766,
+  "revision_id": 700287,
+  "revision_timestamp": "2026-07-26T00:57:55Z",
+  "fetched_at": "2026-08-17T21:38:42.701421+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Legendary Cowl of the Drow Devotee\n  | type                     = Helm\n  | class                    = Clothing\n  | slot                     = Head\n  | durability               = 450\n  | material                 = Gem\n  | hardness                 = 55\n  | basevalue                = 14,001 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 35\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Catalyst Crafting\n  | turn in                  = {{Item|Legendary Cowl of the Devotee}}, its Legendary [[Deep Catalyst]] and 5 {{Item|Legendary Abyssal Gem}}s at the [[Strange Catalyst Forge]]\n  | epic                     = no\n  | released                 = Update 81\n  | mythic                   = no\n  | enhancements             = \n* {{Freedom of Movement}}\n* {{Dodge|16}}\n* {{Sheltering|41|Enhancement}}\n* {{Nearly Complete|Healing Amplification|1}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n* {{Augment|Sun}}\n  | crafting                 = Nearly Complete\n  | description              = A covering made for those devoted to Lolth, the Spider Queen.\n  | pic                      = Cowl of the Drow Devotee shown.jpg\n  | picdesc                  = Legendary Cowl of the Drow Devotee.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 35,
+  "enchantments": [
+    {
+      "text": "Freedom of Movement",
+      "tooltip": "Freedom of Movement: This item grants its wearer the ability to move and attack normally while under the influence of magic that impedes movement, such as paralysis, solid fog, slow and web.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Freedom_of_Movement_(item_enchantment)",
+          "title": "Freedom of Movement (item enchantment)",
+          "text": "Freedom of Movement"
+        }
+      ]
+    },
+    {
+      "text": "Dodge +16%",
+      "tooltip": "Dodge +16%: +16% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +16%"
+        }
+      ]
+    },
+    {
+      "text": "Sheltering +41",
+      "tooltip": "Sheltering +41: +41 Enhancement bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Sheltering +41"
+        }
+      ]
+    },
+    {
+      "text": "Nearly Complete: Healing Amplification",
+      "tooltip": "Nearly Complete: Healing Amplification: This item isn't quite finished, but it's only a step away from completion. Bring it to the forges on the upper floor of Gravenhollow and combine it with melted materials to restore this item to its full potential.",
+      "children": [
+        {
+          "text": "This item can be upgraded with one of the following:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Competence Healing Amplification +62",
+              "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +62 (Competence bonus). Includes spells, potions, and other effects.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Healing_Amplification",
+                  "title": "Healing Amplification",
+                  "text": "Competence Healing Amplification +62"
+                }
+              ]
+            },
+            {
+              "text": "Profane Negative Amplification +62",
+              "tooltip": "Negative Amplification: This effect amplifies all incoming negative energy healing by +62 (Profane bonus). Includes spells, potions, and other effects.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Negative_Amplification",
+                  "title": "Negative Amplification",
+                  "text": "Profane Negative Amplification +62"
+                }
+              ]
+            },
+            {
+              "text": "Repair Amplification +62",
+              "tooltip": "Repair Amplification: This effect amplifies all incoming repair healing by +62 (Enhancement bonus). Includes spells, potions, and other effects.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Repair_Amplification",
+                  "title": "Repair Amplification",
+                  "text": "Repair Amplification +62"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Nearly_Complete",
+          "title": "Nearly Complete",
+          "text": "Nearly Complete: Healing Amplification"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Mummified Bat",
+  "page_id": 10023,
+  "revision_id": 633633,
+  "revision_timestamp": "2025-04-22T02:26:29Z",
+  "fetched_at": "2026-08-17T22:29:03.159191+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Mummified Bat\n  | slot                     = Trinket\n  | type                     = Trinket\n  | durability               = 100\n  | material                 = Gem \n  | hardness                 = 19\n  | basevalue                = 3620pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 9\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Cult of the Six\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|listen|10}}\n* {{Skills|spot|10}}\n* {{Feather Falling}}\n  | description              = A tiny, desiccated bat corpse. Tribal elders carry these charms into battle, enabling them to perform supernatural feats.\n  | pic                      = Trinket Generic Bat.png\n  | picdesc                  = Mummified_Bat.png\n  | tips                     = This item was changed to Bound to Account with Mod 9/Update 1. Older versions remain Bound to Character.\n}}\n[[C:Eleven Year Old Cake items]]",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Listen +10",
+      "tooltip": "Listen +10: Passive: +10 Competence bonus to the Listen skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Listen",
+          "title": "Listen",
+          "text": "Listen +10"
+        }
+      ]
+    },
+    {
+      "text": "Spot +10",
+      "tooltip": "Spot +10: Passive: +10 Competence bonus to the Spot skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spot",
+          "title": "Spot",
+          "text": "Spot +10"
+        }
+      ]
+    },
+    {
+      "text": "Feather Falling",
+      "tooltip": "Feather Falling: This item is engraved with feathers and bestows a powerful magical effect. Whenever the wearer begins to fall from any height, this effect slows the descent dramatically, causing the wearer to fall like a feather.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feather_Falling",
+          "title": "Feather Falling",
+          "text": "Feather Falling"
+        }
+      ]
+    }
+  ]
+}

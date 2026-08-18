@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Mirage",
+  "page_id": 8015,
+  "revision_id": 672781,
+  "revision_timestamp": "2026-01-25T19:20:08Z",
+  "fetched_at": "2026-08-17T22:25:23.534464+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Mirage\n  | type                     = Scimitar\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | minlevel                 = 10\n  | reqtrait                 = \n  | UMD DC                   = \n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = [1d6] + 5 Slash, Magic\n  | crit                     = 18-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 160\n  | material                 = Steel \n  | hardness                 = 20\n  | basevalue                = 4,002pp\n  | weight                   = 4 lbs\n  | quest                    = Sands of Menechtarun\n  | chest                    = Drow Area:[[Utach Sandcrawl]] Chest ; <br /> [[Masei Mkembe]] sells for 625 [[Antique Bronze Tokens]]\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|5}}\n* {{Deception|Bluff=yes}}\n* {{Ghost Touch}}\n* {{Deception|4}}\n* {{Seeker|6}}\n* {{Augment|Red}}\n* {{Named item sets|Windlasher's Ferocity}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Mirage\n  | pic                      = Mirage shown.jpg\n  | picdesc                  = Mirage.png\n  | description              = The blade of this scimitar shimmers in and out of focus.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Scimitar",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Deception",
+      "tooltip": "Deception: This weapon is hard to focus upon and thus provides a +3 enhancement bonus to Bluff checks. In addition, Deception weapons have a small chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Deception"
+        }
+      ]
+    },
+    {
+      "text": "Ghost Touch",
+      "tooltip": "Ghost Touch: An incorporeal creature's 50% chance to avoid damage does not apply to attacks with ghost touch weapons.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghost_Touch",
+          "title": "Ghost Touch",
+          "text": "Ghost Touch"
+        }
+      ]
+    },
+    {
+      "text": "Deception +4",
+      "tooltip": "Deception +4: +4 Enhancement bonus to hit and +6 to damage for any hit that would qualify as a sneak attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Deception +4"
+        }
+      ]
+    },
+    {
+      "text": "Seeker +6",
+      "tooltip": "Seeker +6: Provides a +6 Enhancement bonus to confirm critical hits, and a +6 Enhancement bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Seeker +6"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Windlasher's Ferocity",
+      "tooltip": "Windlasher's Ferocity: 2 Pieces Equipped:+5% Artifact bonus to Doublestrike and Doubleshot+5 Artifact bonus to Melee and Ranged Power",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Windlasher's_Ferocity",
+          "title": "Named item sets",
+          "text": "Windlasher's Ferocity"
+        }
+      ]
+    }
+  ]
+}

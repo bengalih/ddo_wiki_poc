@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Asbestos Booties",
+  "page_id": 10504,
+  "revision_id": 628330,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:05:36.325637+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Asbestos Booties\n  | basevalue                = 3,605 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | type                     = Boots\n  | durability               = 100\n  | material                 = Leather\n  | hardness                 = 14\n  | bind                     = {{Bind|BtA|BoA}}\n  | minlevel                 = 9\n  | quest                    = The Abandoned Excavation\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Elemental Resistance|Fire|30}}\n* {{Save|r|-2||1}}\n* {{Augment|Yellow}}\n  | description              = Heavy, cumbersome boots that enable their wearer to trod red-hot coals and other burning debris.\n  | pic                      = Boots Generic.png\n  | picdesc                  = Asbestos Booties.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Fire Resistance +30",
+      "tooltip": "Fire Resistance +30: Passive: +30 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +30"
+        }
+      ]
+    },
+    {
+      "text": "Reflex Save -2",
+      "tooltip": "Reflex Save -2: This item gives a -2 penalty to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save -2"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

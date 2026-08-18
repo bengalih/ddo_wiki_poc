@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Drysvayla's Razor",
+  "page_id": 124514,
+  "revision_id": 683735,
+  "revision_timestamp": "2026-04-11T19:11:44Z",
+  "fetched_at": "2026-08-17T21:43:15.582966+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Drysvayla's Razor\n  | minlevel                 = 34\n  | type                     = Long Sword\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = 6.30[1d8+2] + 15 Slash, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 390\n  | material                 = Steel\n  | hardness                 = 44\n  | cost                     = 13,601 pp 5 gp\n  | weight                   = 3 lbs\n  | released                 = Update 79\n  | quest                    = Going Rogue\n  | chest                    = end chest\n  | rare                     =\n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Poisonous|7}}\n* {{Toxic|16}}\n* {{Vorpal|Sovereign}}\n* {{Dragon's Edge|7}}\n* {{Augment|Orange}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A fragment of the great Green Dragon's power made manifest, a sad reminder of a day where reason failed.\n  | pic                      = Drysvayla's Razor shown.jpg\n  | picdesc                  = Legendary Drysvayla's Razor.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 34,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Poisonous 7",
+      "tooltip": "Poisonous 7: This effect causes the edges of this weapon to drip with a vile venom, dealing 7d6 poison damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Poisonous",
+          "title": "Poisonous",
+          "text": "Poisonous 7"
+        }
+      ]
+    },
+    {
+      "text": "Toxic 16",
+      "tooltip": "Toxic 16: This effect causes the edges of this weapon to drip with a vile venom, dealing 16d6 poison damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Toxic",
+          "title": "Toxic",
+          "text": "Toxic 16"
+        }
+      ]
+    },
+    {
+      "text": "Sovereign Vorpal",
+      "tooltip": "Sovereign Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 3000 Hit Points, they are instantly slain. If your target has above 3000 Hit Points, they take 300 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Sovereign_Vorpal",
+          "title": "Vorpal",
+          "text": "Sovereign Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Dragon's Edge 7",
+      "tooltip": "Dragon's Edge 7: +23% Enhancement bonus to bypass enemy Fortification. On Crit: 7d8 Bleeding Damage to those that are vulnerable to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dragon%27s_Edge",
+          "title": "Dragon's Edge",
+          "text": "Dragon's Edge 7"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

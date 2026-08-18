@@ -50,21 +50,46 @@
 
 <div class="field">
 
-<label for="item_type">Type</label>
+<label for="category">Category</label>
 
-<select id="item_type" name="item_type">
+<select id="category" name="category">
 
 <option value="">Any</option>
 
-{% for item_type in item_types %}
+{% for category in categories %}
 
 <option
-    value="{{ item_type }}"
-    {% if search.item_type == item_type %}
+    value="{{ category }}"
+    {% if search.category == category %}
     selected
     {% endif %}
 >
-    {{ item_type }}
+    {{ category }}
+</option>
+
+{% endfor %}
+
+</select>
+
+</div>
+
+<div class="field">
+
+<label for="type">Type</label>
+
+<select id="type" name="type">
+
+<option value="">List by Category</option>
+
+{% for type in types %}
+
+<option
+    value="{{ type.value }}"
+    {% if search.type == type.value %}
+    selected
+    {% endif %}
+>
+    {{ type.label }}
 </option>
 
 {% endfor %}
@@ -128,32 +153,32 @@
 
 <div style="clear: both;"></div>
 
-<label>Enhancements</label>
+<label>Enchantments</label>
 
 <div
-    id="enhancement-filters"
-    class="enhancement-filters"
+    id="enchantment-filters"
+    class="enchantment-filters"
 >
 
-{% for filter in search.enhancement_filters %}
+{% for filter in search.enchantment_filters %}
 
-<div class="enhancement-filter">
+<div class="enchantment-filter">
 
 <select
-    name="enhancement_{{ forloop.counter0 }}"
-    class="enhancement-name"
+    name="enchantment_{{ forloop.counter0 }}"
+    class="enchantment-name"
 >
-    <option value="">Any enhancement</option>
+    <option value="">Any enchantment</option>
 
-    {% for enhancement in enhancements %}
+    {% for enchantment in enchantments %}
 
     <option
-        value="{{ enhancement.name }}"
-        {% if filter.enhancement == enhancement.name %}
+        value="{{ enchantment.name }}"
+        {% if filter.enchantment == enchantment.name %}
         selected
         {% endif %}
     >
-        {{ enhancement.label }}
+        {{ enchantment.label }}
     </option>
 
     {% endfor %}
@@ -161,8 +186,8 @@
 </select>
 
 <select
-    name="enhancement_value_{{ forloop.counter0 }}"
-    class="enhancement-value"
+    name="enchantment_value_{{ forloop.counter0 }}"
+    class="enchantment-value"
     data-selected-value="{{ filter.value|escape }}"
 >
     <option value="">Any value</option>
@@ -170,19 +195,19 @@
 
 <input
     type="number"
-    name="enhancement_min_{{ forloop.counter0 }}"
-    class="enhancement-min"
+    name="enchantment_min_{{ forloop.counter0 }}"
+    class="enchantment-min"
     min="0"
     step="any"
     placeholder="Min"
     value="{{ filter.min|floatformat }}"
-    title="Match items with this enhancement at or above this magnitude (e.g. 20 matches +22% and +26%)"
+    title="Match items with this enchantment at or above this magnitude (e.g. 20 matches +22% and +26%)"
 >
 
 <button
     type="button"
-    class="remove-enhancement"
-    onclick="removeEnhancement(this)"
+    class="remove-enchantment"
+    onclick="removeEnchantment(this)"
 >
     Remove
 </button>
@@ -191,18 +216,18 @@
 
 {% empty %}
 
-<div class="enhancement-filter">
+<div class="enchantment-filter">
 
 <select
-    name="enhancement_0"
-    class="enhancement-name"
+    name="enchantment_0"
+    class="enchantment-name"
 >
-    <option value="">Any enhancement</option>
+    <option value="">Any enchantment</option>
 
-    {% for enhancement in enhancements %}
+    {% for enchantment in enchantments %}
 
-    <option value="{{ enhancement.name }}">
-        {{ enhancement.label }}
+    <option value="{{ enchantment.name }}">
+        {{ enchantment.label }}
     </option>
 
     {% endfor %}
@@ -210,26 +235,26 @@
 </select>
 
 <select
-    name="enhancement_value_0"
-    class="enhancement-value"
+    name="enchantment_value_0"
+    class="enchantment-value"
 >
     <option value="">Any value</option>
 </select>
 
 <input
     type="number"
-    name="enhancement_min_0"
-    class="enhancement-min"
+    name="enchantment_min_0"
+    class="enchantment-min"
     min="0"
     step="any"
     placeholder="Min"
-    title="Match items with this enhancement at or above this magnitude (e.g. 20 matches +22% and +26%)"
+    title="Match items with this enchantment at or above this magnitude (e.g. 20 matches +22% and +26%)"
 >
 
 <button
     type="button"
-    class="remove-enhancement"
-    onclick="removeEnhancement(this)"
+    class="remove-enchantment"
+    onclick="removeEnchantment(this)"
 >
     Remove
 </button>
@@ -242,10 +267,10 @@
 
 <button
     type="button"
-    class="add-enhancement"
-    onclick="addEnhancement()"
+    class="add-enchantment"
+    onclick="addEnchantment()"
 >
-    Add Enhancement
+    Add Enchantment
 </button>
 
 <button type="submit">
@@ -292,7 +317,7 @@
     {% if sort == 'minimum_level' %}<span class="sort-indicator sort-active">&#9650;</span>{% elif sort == '-minimum_level' %}<span class="sort-indicator sort-active">&#9660;</span>{% else %}<span class="sort-indicator sort-idle">&#9650;&#9660;</span>{% endif %}
 </a>
 </th>
-<th>Enhancements</th>
+<th>Enchantments</th>
 
 </tr>
 
@@ -326,20 +351,28 @@
 
 <td>
 
-{% for entry in item.ordered_enhancements %}
+{% if item.enchantment_tree %}
+
+<ul class="enchantment-tree">
+{% include "catalog/_enchantment_tree.html" with nodes=item.enchantment_tree %}
+</ul>
+
+{% else %}
+
+{% for entry in item.ordered_enchantments %}
 
 {% if entry.type == "tier" %}
 
-<div class="enhancement-tier">
+<div class="enchantment-tier">
 
-<div class="enhancement-tier-label">
+<div class="enchantment-tier-label">
     Tier {{ entry.tier }}
 </div>
 
-{% for item_enhancement in entry.items %}
+{% for item_enchantment in entry.items %}
 
-<div class="enhancement enhancement-tier-item">
-    {{ item_enhancement.display_name }}
+<div class="enchantment enchantment-tier-item">
+    {{ item_enchantment.display_name }}
 </div>
 
 {% endfor %}
@@ -348,8 +381,8 @@
 
 {% else %}
 
-<div class="enhancement">
-    {{ entry.enhancement.display_name }}
+<div class="enchantment">
+    {{ entry.enchantment.display_name }}
 </div>
 
 {% endif %}
@@ -359,6 +392,8 @@
 None
 
 {% endfor %}
+
+{% endif %}
 
 </td>
 

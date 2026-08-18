@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Blockade",
+  "page_id": 39257,
+  "revision_id": 628617,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:12:06.220125+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Blockade\n  | type                     = Large\n  | race                     = Purple Dragon Knight\n  | prof                     = General\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 15\n  | bind                     = {{Bind|BTC|BoA}}\n  | sb                       = +9\n  | maxdexbonus              = \n  | dr                       = 9\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = [1d8] + 4\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | durability               = 270\n  | material                 = Dwarven Iron\n  | hardness                 = 40\n  | basevalue                = 6,404pp\n  | weight                   = 15 lbs\n  | quest                    = Advance to level 15\n  | end reward               = yes\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|s|4}}\n* {{Bashing|IV}}\n* {{Riposte|IV}}\n  | description              = \n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Blockade shown.jpg\n  | picdesc                  = Blockade.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Dwarven Iron",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Bashing IV",
+      "tooltip": "Bashing IV: On Shield Bash: +2d4 Bludgeoning damage.On Melee Hit: +4% Chance to automatically hit your enemy with a Shield Bash attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bashing",
+          "title": "Bashing",
+          "text": "Bashing IV"
+        }
+      ]
+    },
+    {
+      "text": "Riposte IV",
+      "tooltip": "Riposte IV: When Missed by an attack: Deals 4 to 16 damage to your attacker. Passive: +2 Insight bonus to Armor Class, +2 Insight bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Riposte",
+          "title": "Riposte",
+          "text": "Riposte IV"
+        }
+      ]
+    }
+  ]
+}

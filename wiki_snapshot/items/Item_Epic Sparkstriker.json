@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Epic Sparkstriker",
+  "page_id": 86029,
+  "revision_id": 630464,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:56:43.103405+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Sparkstriker\n  | basevalue                = 10,300pp 8gp\n  | weight                   = 6 lbs\n  | damage                   = 4[1d6] + 8 Pierce, Adamantine, Magic\n  | crit                     = 20 / x4\n  | type                     = Heavy Pick\n  | class                    = Piercing\n  | hand                     = One-handed\n  | damagemod                = STR \n  | attackmod                = STR\n  | prof                     = Martial\n  | durability               = 315\n  | material                 = Steel\n  | hardness                 = 45\n  | minlevel                 = 25\n  | quest                    = The Mystery of Delera's Tomb\n  | chest                    = End chest\n  | bind                     = {{Bind|BtA|boa}}\n  | enhancements             = \n* {{Enhancement bonus|w|8}}\n* {{Electrifying|5}}\n* {{Jolting|12}}\n* {{Seeker|5|insight}}\n* {{Mat|Adamantine}}\n* {{Augment|Orange}}\n  | description              = Forged from dwarven steel and meteoric iron, this pick shoots out a torrent of sparks when it strikes a foe.\n  | pic                      = Sparkstriker shown.jpg\n  | picdesc                  = Epic Sparkstriker.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Heavy Pick",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "+8 Enhancement Bonus",
+      "tooltip": "+8 Enhancement Bonus: +8 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+8 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Electrifying 5",
+      "tooltip": "Electrifying 5: This effect causes the edges of this weapon to arc with electricity, dealing 5d6 Lightning damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electrifying",
+          "title": "Electrifying",
+          "text": "Electrifying 5"
+        }
+      ]
+    },
+    {
+      "text": "Jolting 12",
+      "tooltip": "Jolting 12: This effect causes the edges of this weapon to arc with electricity, dealing 12d6 Lightning damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Jolting",
+          "title": "Jolting",
+          "text": "Jolting 12"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Seeker +5",
+      "tooltip": "Insightful Seeker +5: Provides a +5 Insight bonus to confirm critical hits, and a +5 Insight bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Insightful Seeker +5"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

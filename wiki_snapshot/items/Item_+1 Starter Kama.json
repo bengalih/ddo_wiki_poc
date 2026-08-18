@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:+1 Starter Kama",
+  "page_id": 11745,
+  "revision_id": 672436,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T19:50:38.089308+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = +1 Starter Kama\n  | basevalue                = 2 gp\n  | weight                   = 2 lbs\n  | damage                   = [1d6] + 1 Slash, Magic\n  | crit                     = 20 / x2\n  | type                     = Kama\n  | class                    = Slashing\n  | prof                     = Exotic\n  | hand                     = One-handed\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | umd dc                   = \n  | reqtrait                 = \n  | durability               = 80\n  | material                 = Steel\n  | hardness                 = 12\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtC|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|1}}\n* {{Flaming}}\n* {{Starter}}\n  | quest                    = The Voyage\n  | end reward               = yes\n  | revamped                 = Update 76\n  | description              = A weapon with a straight inside edge attached perpendicularly to a thin wooden haft and wielded with one hand. The wooden haft appears to have been sanded down to remove a series of marks that would have made this item identifiable.\n  | pic                      = +1 Starter Kama shown.jpg\n  | picdesc                  = +1 Starter Kama.png\n  | tips                     = \n  | food                     = no\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Kama",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Flaming",
+      "tooltip": "Flaming: This weapon is sheathed in fire. A flaming weapon deals an extra 1 to 6 points of fire damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flaming#Flaming",
+          "title": "Flaming",
+          "text": "Flaming"
+        }
+      ]
+    },
+    {
+      "text": "Starter",
+      "tooltip": "Starter: Starter equipment cannot be traded, sold or crafted.This item cannot be fed to sentient jewels.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Starter",
+          "title": "Starter",
+          "text": "Starter"
+        }
+      ]
+    }
+  ]
+}

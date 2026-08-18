@@ -1,0 +1,128 @@
+{
+  "page_title": "Item:Legendary Robe of Fire",
+  "page_id": 92654,
+  "revision_id": 689263,
+  "revision_timestamp": "2026-06-19T11:18:50Z",
+  "fetched_at": "2026-08-17T22:04:14.786774+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Robe of Fire\n  | minlevel                 = 30\n  | type                     = Clothing\n  | feat                     = Cloth\n  | ac                       = +15\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | bind                     = {{Bind|BtA|BoA|exclusive=1}}\n  | durability               = 305\n  | material                 = Cloth\n  | hardness                 = 32\n  | basevalue                = 12,005 pp 5 gp\n  | weight                   = \n  | released                 = Update 51\n  | revamped                 = Update 80\n  | quest                    = \n  | legendary                = Epic Robe of Fire\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Spell Focus|Evocation|8}}\n* {{Absorption|Fire|35}}\n* {{Elemental Resistance|Fire|51}}\n* {{Fire Shield|Hot}}\n* {{SpellPower|Combustion|36|Quality}}\n* {{Guard|Legendary Magma Surge}}\n* {{Augment|Blue}}\n* {{Named item sets|The Legendary Desert's Burning Sun}}\n  | crafting                 = \n  | description              = A small fire elemental has been bound into the silken cloth of this robe enhancing many aspects of the wearer's command of fire.\n  | pic                      = Robe of Fire shown.jpg\n  | picdesc                  = Legendary Robe of Fire.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Clothing",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus +8",
+      "tooltip": "Evocation Focus +8: +8 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus +8"
+        }
+      ]
+    },
+    {
+      "text": "Fire Absorption +35%",
+      "tooltip": "Fire Absorption +35%: Passive: 35% Enhancement Bonus to Fire Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Fire Absorption +35%"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +51",
+      "tooltip": "Fire Resistance +51: Passive: +51 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +51"
+        }
+      ]
+    },
+    {
+      "text": "Fire Shield (Hot)",
+      "tooltip": "Fire Shield (Hot): When you are successfully attacked, there is a 10% chance that a Fire Shield (Hot) will be cast on you. If this effect activates while you have an active Fire Shield (Cold) from another item source, they will nullify each-other.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Shield_(Hot)",
+          "title": "Fire Shield (Hot)",
+          "text": "Fire Shield (Hot)"
+        }
+      ]
+    },
+    {
+      "text": "Quality Combustion +36",
+      "tooltip": "Quality Combustion +36: Passive: +36 Quality bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Quality Combustion +36"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Magma Surge Guard",
+      "tooltip": "Legendary Magma Surge Guard: This item stores the immeasurable heat of the planet's molten mantle. When the wearer of this item is successfully attacked in melee, superheated magma occasionally surges to the surface, causing a tremendous amount of Fire damage to the attacker.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Legendary_Magma_Surge_Guard",
+          "title": "Legendary Magma Surge Guard",
+          "text": "Legendary Magma Surge Guard"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Legendary Desert's Burning Sun",
+      "tooltip": "The Legendary Desert's Burning Sun: 2 Pieces Equipped:+6% Artifact bonus to Fire Spellcrit Chance+30 Artifact bonus to Fire Spellpower+15 Artifact bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Legendary_Desert's_Burning_Sun",
+          "title": "Named item sets",
+          "text": "The Legendary Desert's Burning Sun"
+        }
+      ]
+    }
+  ]
+}

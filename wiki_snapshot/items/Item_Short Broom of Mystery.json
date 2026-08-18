@@ -1,0 +1,30 @@
+{
+  "page_title": "Item:Short Broom of Mystery",
+  "page_id": 53796,
+  "revision_id": 663004,
+  "revision_timestamp": "2025-10-11T18:51:37Z",
+  "fetched_at": "2026-08-17T22:57:44.233567+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Short Broom of Mystery\n  | damage                   = [1d6] + 0 Bludgeoning\n  | crit                     = 20 / x2\n  | type                     = Club\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = <!-- Leave blank if not used-->\n  | UMD DC                   = <!-- Leave blank if not used-->\n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 0\n  | durability               = 50\n  | material                 = Wood\n  | hardness                 = 5\n  | basevalue                = 20pp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | quest                    = The Night Revels\n  | chest                    = \n  | end reward               = \n  | turn in                  = {{NightRevelsRecipe|ing_chocolate= 60|ing_almond= 10|ing_cinnamon= 5|ing_caramel= 10}} at [[Joe Candymaker]]\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Faerie Fire|3|3|1|label=Purple Faerie Fire}}\n  | crafting                 = <!--Type of crafting-->\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | description              = This short broom is home to some dark energies.\n  | pic                      = Short Broom of Mystery shown.jpg\n  | picdesc                  = Short Broom of Mystery.png\n  | tips                     = Purple Faerie Fire effect:\n\n[[File:Purple Faerie Fire.jpg]]\n}}\n[[Category:The Night Revels reward items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "Purple Faerie Fire — 3 Charges (Recharged/Day:1)",
+      "tooltip": "Purple Faerie FireCaster level: 3Charges: 3 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Faerie_Fire",
+          "title": "Faerie Fire",
+          "text": "Purple Faerie Fire"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Luck Blade",
+  "page_id": 9116,
+  "revision_id": 672875,
+  "revision_timestamp": "2026-01-25T19:51:57Z",
+  "fetched_at": "2026-08-17T22:18:58.674154+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Luck Blade\n  | damage                   = [1d7] + 2 Pierce, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Short Sword\n  | hand                     = One-handed\n  | class                    = Piercing\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | minlevel                 = 8\n  | prof                     = Martial\n  | durability               = 135\n  | material                 = Steel\n  | hardness                 = 18\n  | basevalue                = 3,201 pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = The Subterrane - Central\n  | chest                    = [[Garamol]]'s chest, rare drop in any level 6 chest or level 3 quest reward\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Good Luck|1}}\n* {{Augment|Red}}\n* {{Augment|Orange}}\n* {{Augment|Purple}}\n  | epic                     = no\n  | pic                      = Luck Blade shown.png\n  | picdesc                  = Luck Blade.png\n  | description              = This short sword blesses its wielder with good fortune.\n  | tips                     = \n}}\n[[Category:Random loot]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Short Sword",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Good Luck +1",
+      "tooltip": "Good Luck +1: This item gives a +1 Luck bonus to all saves and skill checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Good_Luck",
+          "title": "Good Luck",
+          "text": "Good Luck +1"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

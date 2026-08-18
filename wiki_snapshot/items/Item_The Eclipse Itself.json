@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:The Eclipse Itself",
+  "page_id": 75704,
+  "revision_id": 690680,
+  "revision_timestamp": "2026-06-30T16:55:17Z",
+  "fetched_at": "2026-08-17T23:13:46.136499+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = The Eclipse Itself\n  | damage                   = 4.80[1d6+6] + 15 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 29\n  | durability               = 370\n  | material                 = Steel\n  | hardness                 = 39 \n  | basevalue                = 11,600.002pp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 42\n  | quest                    = Project Nemesis\n  | end reward               = <!-- Leave blank if not used-->\n  | turn in                  = <!-- Leave blank if not used-->\n  | chest                    = Raid Warded Chest\n  | enhancements             = \n* {{Enhancement bonus|i|15|29}}\n* {{Nearly Finished}}\n* {{SpellPower|Potency|25|Quality|prefix=Quality}}\n* {{Spelllore|Spell|12}}\n* {{Spell Focus|Mastery|2|Quality}}\n* {{Augmentation|2|Arcane|9}}\n* {{Augment|Red}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This was taken from the hands of the Radiant Idol, Qaspiel Mistwalker, before his departure. It resonates with latent fury.\n  | pic                      = The Eclipse Itself shown.jpg\n  | picdesc                  = The_Eclipse_Itself.png\n  | tips                     =\n* {{Popup|Image of completed version (fire + evocation)|[[File:The Eclipse Itself (Completed).png]]|long=y}}\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +29",
+      "tooltip": "Spellcasting Implement +29: Passive: +29 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +29"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Nearly Finished (unlock additional powers)",
+      "tooltip": "Nearly Finished: This item isn't quite finished, but it's only a step away from completion. Bring it to a Cannith Reforging Station and combine it with melted materials to restore this item to its full potential.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nearly_Finished",
+          "title": "Nearly Finished",
+          "text": "Nearly Finished"
+        }
+      ]
+    },
+    {
+      "text": "Quality Potency +25",
+      "tooltip": "Quality Potency +25: Passive: +25 Quality bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Quality Potency +25"
+        }
+      ]
+    },
+    {
+      "text": "Spell Lore +12",
+      "tooltip": "Spell Lore 12: Passive: All of your spells gain a 12% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Spell Lore +12"
+        }
+      ]
+    },
+    {
+      "text": "Quality Spell Focus Mastery +2",
+      "tooltip": "Quality Spell Focus Mastery +2: +2 Quality bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Quality Spell Focus Mastery +2"
+        }
+      ]
+    },
+    {
+      "text": "Arcane Augmentation IX",
+      "tooltip": "Arcane Augmentation IX: Increases the wearer's caster level when casting ninth level or lower sorcerer or wizard spells by two.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Augmentation",
+          "title": "Spell Augmentation",
+          "text": "Arcane Augmentation IX"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

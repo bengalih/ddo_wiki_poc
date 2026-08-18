@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Armor of the Amok",
+  "page_id": 10518,
+  "revision_id": 628318,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:05:17.416559+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Armor of the Amok\n  | type                     = Leather\n  | feat                     = Light\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtC|BoE}}\n  | ac                       = +7\n  | maxdexbonus              = 8\n  | acp                      = 0\n  | asf                      = 10%\n  | durability               = 92\n  | material                 = Leather\n  | hardness                 = 14\n  | basevalue                = 2,401 pp\n  | weight                   = 15 lbs\n  | quest                    = The Tear of Dhakaan\n  | chest                    = [[Champion Guptrak]]'s Chest\n  | enhancements             = \n* {{Clicky|Rage (spell)|5|3|label=Rage}}\n* {{Enhancement bonus|a|3}}\n* {{Augment|Blue}}\n  | pic                      = Armor of the Amok shown.jpg\n  | picdesc                  = Armor of the Amok.png\n  | description              = These animal skins are dyed a dull red and are stitched together in a mad patchwork of occult symbols.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "Rage — 3 Charges (Recharged/Day:3)",
+      "tooltip": "RageCaster level: 5Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rage_(spell)",
+          "title": "Rage (spell)",
+          "text": "Rage"
+        }
+      ]
+    },
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

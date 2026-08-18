@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Epic Boots of the Mire",
+  "page_id": 11947,
+  "revision_id": 629853,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:44:55.443437+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Epic Boots of the Mire\n  | type                     = Boots\n  | minlevel                 = 20\n  | slot                     = Feet\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 210\n  | material                 = Steel\n  | hardness                 = 30\n  | basevalue                = 8,005 pp\n  | weight                   = 0.10 lbs.\n  | quest                    = Altar of Epic Rituals\n  | chest                    = {{Item|Boots of the Mire}}\n  | epic                     = Boots of the Mire\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CON|+2|Quality}}\n* {{Sheltering|+24}}\n* {{Skills|Balance|+17}}\n* {{Underwater Action}}\n* {{Augment|Yellow}}\n* {{Augment|Colorless}}\n* {{Named item sets|Epic Marshwalker}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Boots of the Mire\n  | description              = These boots were designed to ease travel through swampy, water-logged regions.\n  | pic                      = Boots Generic Dark.png\n  | picdesc                  = Epic Boots of the Mire.png\n  | tips                     = \n  | revamped                 = Update 50\n  }}\n[[Category:The Red Fens epic items]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Quality Constitution +2",
+      "tooltip": "Quality Constitution +2: This item gives the wearer improved health, granting a +2 Quality bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Quality Constitution +2"
+        }
+      ]
+    },
+    {
+      "text": "Sheltering +24",
+      "tooltip": "Sheltering +24: +24 Enhancement bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Sheltering +24"
+        }
+      ]
+    },
+    {
+      "text": "Balance +17",
+      "tooltip": "Balance +17: Passive: +17 Competence bonus to the Balance skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Balance",
+          "title": "Balance",
+          "text": "Balance +17"
+        }
+      ]
+    },
+    {
+      "text": "Underwater Action",
+      "tooltip": "Underwater Action: This item grants the wearer the ability to breathe water as if it were air.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Underwater_Action",
+          "title": "Underwater Action",
+          "text": "Underwater Action"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Epic Marshwalker",
+      "tooltip": "Epic Marshwalker: 2 Pieces Equipped:+30% Enhancement bonus to movement speed+3 Artifact bonus to all Saving Throws+5 Artifact bonus to Jump and Tumble",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Epic_Marshwalker",
+          "title": "Named item sets",
+          "text": "Epic Marshwalker"
+        }
+      ]
+    }
+  ]
+}

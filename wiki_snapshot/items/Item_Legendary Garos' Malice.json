@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Garos' Malice",
+  "page_id": 91340,
+  "revision_id": 672864,
+  "revision_timestamp": "2026-01-25T19:49:51Z",
+  "fetched_at": "2026-08-17T21:49:33.726453+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Garos' Malice\n  | minlevel                 = 30\n  | type                     = Short Sword\n  | class                    = Piercing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = 5.50[1d6+2] + 15 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 355\n  | material                 = Steel\n  | hardness                 = 40\n  | cost                     = 12,001 pp\n  | weight                   = 2 lbs\n  | released                 = Update 50\n  | revamped                 = Update 76\n  | quest                    = Legendary Crafting\n  | legendary                = Epic Garos' Malice\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Blast|Flaming|6}}\n* {{Blinding Embers|Legendary}}\n* {{Vorpal|Sovereign}}\n* {{Incineration|Overwhelming}}\n* {{Augment|Red}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | description              = A shortsword imbued with the essence of a powerful red abishai. It assails those it is wielded against with flames, and its attacks on unaware targets are stronger.\n  | pic                      = Garos' Malice shown.jpg\n  | picdesc                  = Legendary Garos' Malice.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Short Sword",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Flaming Blast 6",
+      "tooltip": "Flaming Blast 6: This weapon burns with deadly magical fire, dealing 6d6 Fire damage on a successful hit, and an additional 6d6 Fire damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Flaming Blast 6"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Blinding Embers",
+      "tooltip": "Legendary Blinding Embers: This weapon sheds tiny embers that can impair a creatures sight. If you roll a 20 when attacking and confirm the critical hit, the target will become blinded by a burst of fiery sparks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blinding_Embers",
+          "title": "Blinding Embers",
+          "text": "Legendary Blinding Embers"
+        }
+      ]
+    },
+    {
+      "text": "Sovereign Vorpal",
+      "tooltip": "Sovereign Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 3000 Hit Points, they are instantly slain. If your target has above 3000 Hit Points, they take 300 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Sovereign_Vorpal",
+          "title": "Vorpal",
+          "text": "Sovereign Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Overwhelming Incineration",
+      "tooltip": "Overwhelming Incineration: This weapon stores the power of a raging inferno deep within. Occasionally, this destructive power comes to the surface, devastating enemies with overwhelming fire damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incineration",
+          "title": "Incineration",
+          "text": "Overwhelming Incineration"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Ring of the Buccaneer (level 8)",
+  "page_id": 71174,
+  "revision_id": 634287,
+  "revision_timestamp": "2025-04-22T03:11:40Z",
+  "fetched_at": "2026-08-17T22:46:21.741622+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry  \n  | name                     = {{Item|Ring of the Buccaneer}}\n  | minlevel                 = 8\n  | type                     = Ring\n  | race                     = \n  | slot                     = Finger\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 90<!--2024-06-07-->\n  | material                 = Steel\n  | hardness                 = 10<!--2024-06-07-->\n  | cost                     = 3,220 pp\n  | weight                   = 0.10 lbs\n  | epic                     = \n  | quest                    = Treasure of Crystal Cove \n  | turn in                  = {{CCi|silver|250}}{{CCi|golden|100}}{{CCi|obsidian|20}}{{CCi|green|400}} at [[Euphonia's Barter Box]]\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|DEX|5}}\n* {{Good Luck|1}}\n* {{Underwater Action}}\n* {{ProtectionBonus|4}}\n* {{Augment|green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This ring is coveted by many who travel by sea for its ability to make one more dexterous, and better able to survive the perils of the ocean.\n  | pic                      = Ring_Generic_Buccaneer.png\n  | picdesc                  = Ring of the Buccaneer (level 8).png\n  | tips                     = To exchange historic (Tiered) items for U39 item of same level, talk to [[Euphonia Teles]] to open up [[Conversions of Crystal Cove]].  Beware: new items can be powerful, but may contain different enhancements than Tiered items.\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Dexterity +5",
+      "tooltip": "Dexterity +5: This item makes the wearer more nimble and dexterous, granting a +5 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +5"
+        }
+      ]
+    },
+    {
+      "text": "Good Luck +1",
+      "tooltip": "Good Luck +1: This item gives a +1 Luck bonus to all saves and skill checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Good_Luck",
+          "title": "Good Luck",
+          "text": "Good Luck +1"
+        }
+      ]
+    },
+    {
+      "text": "Underwater Action",
+      "tooltip": "Underwater Action: This item grants the wearer the ability to breathe water as if it were air.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Underwater_Action",
+          "title": "Underwater Action",
+          "text": "Underwater Action"
+        }
+      ]
+    },
+    {
+      "text": "Protection +4",
+      "tooltip": "Protection +4: Passive: +4 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +4"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

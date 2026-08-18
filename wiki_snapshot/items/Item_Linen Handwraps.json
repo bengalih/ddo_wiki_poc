@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Linen Handwraps",
+  "page_id": 4858,
+  "revision_id": 633259,
+  "revision_timestamp": "2025-04-22T02:01:46Z",
+  "fetched_at": "2026-08-17T22:17:54.377278+00:00",
+  "categories": [],
+  "wikitext": "{{History|item}}\n{{Named item|Clothing\n  | name                     = Linen Handwraps\n  | slot                     = Hand\n  | type                     = Gloves\n  | durability               = 60\n  | material                 = Leather\n  | hardness                 = 10\n  | minlevel                 = 7\n  | bind                     = {{Bind|BtA|BoA}}\n  | basevalue                = 2805 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Delera's Tomb\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|STR|+4}}\n* {{Cursed|DEX}}\n* {{Proof|Disease|6}}\n* {{Augment|Colorless}}\n  | description              = Filthy bandages that smell of gravedust and mildew. When worn, the wraps seem to enhance the strength of the wearer.\n  | pic                      = Gloves Generic.png\n  | picdesc                  = Linen Handwraps.png\n  | tips                     = \n}}",
+  "item_template": "History",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Strength +4",
+      "tooltip": "Strength +4: This item gives the wearer the power of Ogre Strength, granting a +4 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +4"
+        }
+      ]
+    },
+    {
+      "text": "Curse of Clumsiness",
+      "tooltip": "Curse of Clumsiness: Passive -1 Penalty to Dexterity. (The minimum level required to equip this item is lower than normal due to this curse.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cursed",
+          "title": "Cursed",
+          "text": "Curse of Clumsiness"
+        }
+      ]
+    },
+    {
+      "text": "Proof Against Disease +6",
+      "tooltip": "Proof Against Disease +6: This item grants its wearer immunity to natural diseases. This item also grants a +6 Enhancement bonus to saving throws against magical diseases, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical diseases with a DC of less than 7 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Disease",
+          "title": "Proof Against Disease",
+          "text": "Proof Against Disease +6"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

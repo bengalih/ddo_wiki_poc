@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Dusk, the Light Descends",
+  "page_id": 67145,
+  "revision_id": 688903,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:40:58.225389+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Dusk, the Light Descends\n  | damage                   = 4.60[1d8+3] + 15 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Battle Axe\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 350\n  | material                 = Steel\n  | hardness                 = 38\n  | minlevel                 = 28\n  | released                 = Update 37 \n  | revamped                 = Update 80\n  | quest                    = Old Baba's Hut\n  | chest                    = Raid Chest\n  | basevalue                = 11,300 pp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | enhancements             = \n* {{Enhancement_bonus|i|15|28}}\n* {{SpellPower|Radiance|145}}\n* {{Spelllore|Radiance|21}}\n* {{Spell Focus|Evocation|7}}\n* {{Brazen Brilliance}}\n* {{Augment|Orange}}\n* {{Augment|Red}}\n  | pic                      = Dusk, the Light Descends shown.jpg\n  | picdesc                  = Dusk, the Light Descends.png\n  | description              = The light shines strongest at the end of days.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Battle Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +28",
+      "tooltip": "Spellcasting Implement +28: Passive: +28 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +28"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Radiance +145",
+      "tooltip": "Radiance +145: Passive: +145 Equipment bonus to Light and Alignment Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiance_(spell_boost)",
+          "title": "Radiance (spell boost)",
+          "text": "Radiance +145"
+        }
+      ]
+    },
+    {
+      "text": "Radiance Lore +21%",
+      "tooltip": "Radiance Lore +21: Passive: Your Light and Aligned spells gain a 21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Radiance Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus +7",
+      "tooltip": "Evocation Focus +7: +7 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus +7"
+        }
+      ]
+    },
+    {
+      "text": "Brazen Brilliance",
+      "tooltip": "Brazen Brilliance: With this item equipped, your offensive attacks and spells have a chance of creating a burst of pure light, dealing Light damage and blinding enemies.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Brazen_Brilliance",
+          "title": "Brazen Brilliance",
+          "text": "Brazen Brilliance"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

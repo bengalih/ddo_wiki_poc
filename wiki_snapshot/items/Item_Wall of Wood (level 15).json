@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:Wall of Wood (level 15)",
+  "page_id": 26841,
+  "revision_id": 635745,
+  "revision_timestamp": "2025-04-22T04:48:21Z",
+  "fetched_at": "2026-08-17T23:24:50.661687+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = {{Item|Wall of Wood}}\n  | type                     = Large\n  | prof                     = General\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoE}}\n  | sb                       = +10\n  | dr                       = 10\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = [2d4] + 4\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 / x2\n  | durability               = 230\n  | material                 = Densewood\n  | hardness                 = 23\n  | basevalue                = 6,203 pp \n  | weight                   = 10 lbs\n  | released                 = Update 15\n  | quest                    = Overgrowth\n  | chest                    = Wood Woads chest (Heroic Normal) ; <br /> [[The Druid's Deep]], Quest chain end reward\n  | enhancements             = \n* {{Enhancement_bonus|si|4}}\n* {{Shield Bashing|%=10}}\n* {{NaturalArmor|5}}\n* {{HealingAmp|20|h|Exceptional}}\n* {{SpellPower|Devotion|78}}\n* {{DR|5|Slashing}}\n  | description              = This splendid heavy shield is made out of rare densewood, harvested from the King's Forest. Obviously reinforced with magical enchantments, it provides much greater protection than a normal shield of its size.\n  | crafting                 = <!--Type of crafting-->\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | pic                      = Wharfrat's Plank shown.jpg\n  | picdesc                  = Wall of Wood (Level 15).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Densewood",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +12",
+      "tooltip": "Spellcasting Implement +12: Passive: +12 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +12"
+        }
+      ]
+    },
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Shield Bashing +10%",
+      "tooltip": "Shield Bashing +10%: +10% Enhancement bonus to your chance of a Secondary Shield Bash. This stacks with bonuses granted by any relevant feats.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bashing",
+          "title": "Shield Bashing",
+          "text": "Shield Bashing +10%"
+        }
+      ]
+    },
+    {
+      "text": "Natural Armor +5",
+      "tooltip": "Natural Armor +5: Passive: +5 Natural Armor Bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Natural_armor_bonus",
+          "title": "Natural armor bonus",
+          "text": "Natural Armor +5"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Healing Amplification +20",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +20 (Exceptional bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Exceptional Healing Amplification +20"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +78",
+      "tooltip": "Devotion +78: Passive: +78 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +78"
+        }
+      ]
+    },
+    {
+      "text": "DR 5/Slashing",
+      "tooltip": "Damage Reduction 5/Slashing: Reduces physical damage by 5, except from Slashing attacks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

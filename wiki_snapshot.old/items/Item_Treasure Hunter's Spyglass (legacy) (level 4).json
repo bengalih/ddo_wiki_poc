@@ -1,0 +1,137 @@
+{
+  "page_title": "Item:Treasure Hunter's Spyglass (legacy) (level 4)",
+  "page_id": 14300,
+  "revision_id": 635612,
+  "revision_timestamp": "2025-04-22T04:39:29Z",
+  "fetched_at": "2026-08-17T06:37:28.951369+00:00",
+  "categories": [],
+  "material": "Gem",
+  "item_type": "Trinket",
+  "slot": "Trinket",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Detect Secret Doors — 5 Charges (Recharged/Day:5)",
+      "tooltip": "Detect Secret DoorsCaster level: 10Charges: 5 (5/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Detect_Secret_Doors",
+          "title": "Detect Secret Doors",
+          "text": "Detect Secret Doors"
+        }
+      ]
+    },
+    {
+      "text": "Spot +5",
+      "tooltip": "Spot +5: Passive: +5 Competence bonus to the Spot skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spot",
+          "title": "Spot",
+          "text": "Spot +5"
+        }
+      ]
+    },
+    {
+      "text": "Search +5",
+      "tooltip": "Search +5: Passive: +5 Competence bonus to the Search skill.",
+      "children": [
+        {
+          "text": "Upgradeable - Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Spot +5 → Spot +7",
+              "tooltip": "Spot +5: Passive: +5 Competence bonus to the Spot skill.Spot +7: Passive: +7 Competence bonus to the Spot skill.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Spot",
+                  "title": "Spot",
+                  "text": "Spot +5"
+                },
+                {
+                  "target": "/page/Spot",
+                  "title": "Spot",
+                  "text": "Spot +7"
+                }
+              ]
+            },
+            {
+              "text": "Search +5 → Search +7",
+              "tooltip": "Search +5: Passive: +5 Competence bonus to the Search skill.Search +7: Passive: +7 Competence bonus to the Search skill.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Search",
+                  "title": "Search",
+                  "text": "Search +5"
+                },
+                {
+                  "target": "/page/Search",
+                  "title": "Search",
+                  "text": "Search +7"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_2",
+              "title": "Upgradeable - Tier 2",
+              "text": "Upgradeable - Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Upgradeable - Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Intelligence +3",
+              "tooltip": "Intelligence +3: This item focuses the power of the wearer's mind, granting a +3 Enhancement bonus to Intelligence.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Intelligence",
+                  "title": "Intelligence",
+                  "text": "Intelligence +3"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_3",
+              "title": "Upgradeable - Tier 3",
+              "text": "Upgradeable - Tier 3"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Search",
+          "title": "Search",
+          "text": "Search +5"
+        }
+      ]
+    }
+  ],
+  "item_class": "Jewelry",
+  "item_template": ""
+}

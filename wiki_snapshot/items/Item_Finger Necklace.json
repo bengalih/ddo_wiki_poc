@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Finger Necklace",
+  "page_id": 11131,
+  "revision_id": 630832,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:04:20.629830+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Finger Necklace\n  | type                     = Necklace\n  | class                    = Jewelry\n  | slot                     = Neck\n  | durability               = 140\n  | material                 = Gold\n  | hardness                 = 18\n  | basevalue                = 5,220pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 13\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = Litany of the Dead\n  | chest                    = [[Mentau]]'s chest\n  | enhancements             = \n* {{Fleshmaker}}\n* {{Augment|Colorless}}\n  | description              = This necklace is a set of two dozen fingers, each from a different race.\n  | picdesc                  = Finger Necklace.png\n  | pic                      = Necklace Generic Bright.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Fleshmaker",
+      "tooltip": "Fleshmaker: Magical insight into the ways of the flesh allow the wearer of this item to receive more effect from healing spells cast on them. +20 Positive Healing Amplification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fleshmaker",
+          "title": "Fleshmaker",
+          "text": "Fleshmaker"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

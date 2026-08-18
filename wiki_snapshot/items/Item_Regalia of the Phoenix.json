@@ -1,0 +1,144 @@
+{
+  "page_title": "Item:Regalia of the Phoenix",
+  "page_id": 9859,
+  "revision_id": 690593,
+  "revision_timestamp": "2026-06-30T16:00:45Z",
+  "fetched_at": "2026-08-17T22:43:41.946963+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Regalia of the Phoenix\n  | type                     = Robe\n  | feat                     = Cloth\n  | minlevel                 = 18\n  | ac                       = +0\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | maxdexbonus              = None\n  | acp                      = None\n  | asf                      = None\n  | durability               = 105\n  | material                 = Cloth\n  | hardness                 = 12\n  | basevalue                = 10,005 pp 5 gp\n  | weight                   = 0 lbs\n  | quest                    = The Mindsunder\n  | chest                    = Disc locked optional end chest\n  | mythic                   = no\n  | enhancements             = \n* {{SpellPower|Inferno|20}}\n* {{Spell Focus|Evocation|I}}\n* {{SpellPower|Combustion|78}}\n* {{Spelllore|Fire|iii}}\n* {{Feather Falling}}\n* {{SuppressedPower}}\n  | crafting                 = Suppressed Power\n  | craftingupgrade          = \n  | pic                      = Phoenix Robe shown.jpg <!-- Same Style -->\n  | picdesc                  = Regalia of the Phoenix.png\n  | description              = This robe was the final true creation of the ancient tailor Sursadir, who was inspired by a vision of a mighty Phoenix flying overhead. Unable to ever capture the power and purity of that flame again, he found that all his subsequent attempts at art were mere ashes.\n  | notes                    = \nUnsuppressed version:\n[[Image:Regalia of the Phoenix (unsuppressed).png]]\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Greater Inferno - 3 Charges (Recharged/Day: 3)",
+      "tooltip": "Greater Inferno: When Activated, this effect provides a +20 Alchemical bonus to Fire Spell Power for three minutes.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Inferno",
+          "title": "Inferno",
+          "text": "Greater Inferno"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus I",
+      "tooltip": "Evocation Focus I: +1 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus I"
+        }
+      ]
+    },
+    {
+      "text": "Combustion +78",
+      "tooltip": "Combustion +78: Passive: +78 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +78"
+        }
+      ]
+    },
+    {
+      "text": "Fire Lore III",
+      "tooltip": "Fire Lore III: Passive: Your Fire spells gain a 13% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore III"
+        }
+      ]
+    },
+    {
+      "text": "Feather Falling",
+      "tooltip": "Feather Falling: This item is engraved with feathers and bestows a powerful magical effect. Whenever the wearer begins to fall from any height, this effect slows the descent dramatically, causing the wearer to fall like a feather.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feather_Falling",
+          "title": "Feather Falling",
+          "text": "Feather Falling"
+        }
+      ]
+    },
+    {
+      "text": "Suppressed Power",
+      "tooltip": "Suppressed Power: This psionic item is powerful, but you sense that it has not unlocked all of its secrets to you at this time.",
+      "children": [
+        {
+          "text": "Evocation Focus I → Evocation Focus II",
+          "tooltip": "Evocation Focus I: +1 Equipment bonus to the DC of Evocation spells. Evocation Focus II: +2 Equipment bonus to the DC of Evocation spells.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Focus",
+              "title": "Spell Focus",
+              "text": "Evocation Focus I"
+            },
+            {
+              "target": "/page/Spell_Focus",
+              "title": "Spell Focus",
+              "text": "Evocation Focus II"
+            }
+          ]
+        },
+        {
+          "text": "Fire Lore III → Fire Lore V",
+          "tooltip": "Fire Lore III: Passive: Your Fire spells gain a 13% Equipment bonus to their chance to critical hit.Fire Lore V: Passive: Your Fire spells gain a 15% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Fire Lore III"
+            },
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Fire Lore V"
+            }
+          ]
+        },
+        {
+          "text": "Becomes Bound to Character on Acquire, Exclusive",
+          "tooltip": null,
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bind",
+              "title": "Bind",
+              "text": "Bound to Character on Acquire"
+            },
+            {
+              "target": "/page/Exclusive",
+              "title": "Exclusive",
+              "text": "Exclusive"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Suppressed_Power",
+          "title": "Suppressed Power",
+          "text": "Suppressed Power"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "page_title": "Item:Purple Dragon Shield",
+  "page_id": 44050,
+  "revision_id": 634074,
+  "revision_timestamp": "2025-04-22T02:57:11Z",
+  "fetched_at": "2026-08-17T06:01:38.091915+00:00",
+  "categories": [],
+  "proficiency_class": "Tower Shield Proficiency",
+  "material": "Planeforged Steel",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "+8 Enhancement Bonus",
+      "tooltip": "+8 Enhancement Bonus: +8 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+8 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +10",
+      "tooltip": "Constitution +10: This item gives the wearer improved health, granting a +10 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +10"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +10",
+      "tooltip": "Charisma +10: This item makes the wearer have more flair, granting a +10 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +10"
+        }
+      ]
+    },
+    {
+      "text": "Improved Bashing X",
+      "tooltip": "Improved Bashing X: On Shield Bash: +5d4 Bludgeoning damage.On Melee Hit: +20% Chance to automatically hit your enemy with a Shield Bash attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Improved_Bashing",
+          "title": "Improved Bashing",
+          "text": "Improved Bashing X"
+        }
+      ]
+    },
+    {
+      "text": "Sovereign Vorpal",
+      "tooltip": "Sovereign Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 3000 Hit Points, they are instantly slain. If your target has above 3000 Hit Points, they take 300 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Sovereign_Vorpal",
+          "title": "Vorpal",
+          "text": "Sovereign Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Block Elements",
+      "tooltip": "Block Elements: On Shield Block: Gain 15% damage absorption versus acid, cold, electric, fire, and sonic damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Block Elements"
+        }
+      ]
+    },
+    {
+      "text": "Zhentarim Attuned",
+      "tooltip": "Zhentarim Attuned: This item has been attuned by the the Zhentarim mage, Whisper. It can be upgraded with Zhentarim Black Stones.",
+      "children": [
+        {
+          "text": "Adds +8 Orb Bonus",
+          "tooltip": "+8 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +8 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+8 Orb Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Adds Purple Augment Slot",
+          "tooltip": "Blue, Purple, Red, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Purple Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Zhentarim_Attuned",
+          "title": "Zhentarim Attuned",
+          "text": "Zhentarim Attuned"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ],
+  "item_class": "Shield",
+  "item_template": ""
+}

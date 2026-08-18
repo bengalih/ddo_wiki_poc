@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Staff of the Demonic Resurrector",
+  "page_id": 126758,
+  "revision_id": 700285,
+  "revision_timestamp": "2026-07-26T00:55:35Z",
+  "fetched_at": "2026-08-17T22:09:57.624248+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Staff of the Demonic Resurrector\n  | damage                   = 6[1d6+6] + 16 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = Two-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 430\n  | material                 = Steel\n  | hardness                 = 45\n  | minlevel                 = 35\n  | basevalue                = 14,000pp 1cp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 81\n  | quest                    = Catalyst Crafting\n  | turn in                  = {{Item|Staff of the Necromancer}}, its Legendary [[Abyssal Catalyst]] and 5 {{Item|Legendary Abyssal Gems}} at the [[Strange Catalyst Forge]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|16|35}}\n* {{Spell Focus|Necromancy|7|Insightful}}\n* {{Spell Lore|Blighted|25}}\n* {{SpellPower|Power of the Blight|169}}\n* {{Augmentation|2|Arcane|IX}}\n* {{Augment|Orange}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Fallen Demons have a curious habit of returning.\n  | pic                      = Staff of the Demonic Resurrector shown.jpg\n  | picdesc                  = Legendary Staff of the Demonic Resurrector.png\n  | tips                     = Makes pink swooshes in the air when you swing it. :D\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 35,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +35",
+      "tooltip": "Spellcasting Implement +35: Passive: +35 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +35"
+        }
+      ]
+    },
+    {
+      "text": "+16 Enhancement Bonus",
+      "tooltip": "+16 Enhancement Bonus: +16 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+16 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Necromancy Focus +7",
+      "tooltip": "Insightful Necromancy Focus +7: +7 Insight bonus to the DC of Necromancy spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Necromancy Focus +7"
+        }
+      ]
+    },
+    {
+      "text": "Blighted Lore +25%",
+      "tooltip": "Blighted Lore +25: Passive: Your Acid, Negative, Poison and Evil spells gain a 25% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Blighted Lore +25%"
+        }
+      ]
+    },
+    {
+      "text": "Power of the Blight +169",
+      "tooltip": "Power of the Blight +169: Passive: +169 Equipment bonus to Acid, Negative, Poison and Evil Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power_of_the_Blight",
+          "title": "Power of the Blight",
+          "text": "Power of the Blight"
+        }
+      ]
+    },
+    {
+      "text": "Arcane Augmentation IX",
+      "tooltip": "Arcane Augmentation IX: Increases the wearer's caster level when casting ninth level or lower sorcerer or wizard spells by two.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Augmentation",
+          "title": "Spell Augmentation",
+          "text": "Arcane Augmentation IX"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

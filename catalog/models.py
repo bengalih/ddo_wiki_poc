@@ -19,13 +19,102 @@ class Item(models.Model):
             "field existed."
         ),
     )
+    fetched_at = models.DateTimeField(
+        null=True,
+        blank=True,
+        help_text=(
+            "When we pulled this page from the wiki (the item "
+            "file's fetched_at), i.e. when the imported data was "
+            "captured. Paired with wiki_revision_timestamp so stale "
+            "data can be traced to 'we never pulled it' vs 'the "
+            "wiki changed after we pulled'."
+        ),
+    )
     updated_at = models.DateTimeField(
         auto_now=True,
         help_text="When this row was last written by the importer.",
     )
     item_type = models.CharField(max_length=255, blank=True)
+    item_template = models.CharField(
+        max_length=255,
+        blank=True,
+        help_text=(
+            "Wikitext template name parsed at load (e.g. 'Named item')."
+        ),
+    )
+    item_class = models.CharField(
+        max_length=255,
+        blank=True,
+        help_text=(
+            "Template class from the wiki infobox: Armor, Clothing, "
+            "Cosmetic, Jewelry, Quiver, Shield, Weapon. Blank for "
+            "items whose infobox has no categorizable type row "
+            "(e.g. eternal wands)."
+        ),
+    )
+    slot = models.CharField(
+        max_length=255,
+        blank=True,
+        help_text=(
+            "Equipment slot per the wiki's Equipment_slot page "
+            "(e.g. 'Armor', 'Main Hand', 'Back', 'Finger'), derived "
+            "from the category/type at load."
+        ),
+    )
     item_kind = models.CharField(max_length=255, blank=True)
+    weapon_class = models.CharField(
+        max_length=255,
+        blank=True,
+        help_text=(
+            "Weapon proficiency class from 'Weapon Type: "
+            "Bastard Sword / Slashing weapons', e.g. 'Slashing "
+            "weapons'."
+        ),
+    )
+    proficiency_class = models.CharField(
+        max_length=255,
+        blank=True,
+        help_text=(
+            "Weapon proficiency requirement row (e.g. 'Exotic "
+            "Weapon Proficiency') or a shield's 'Proficiency' row."
+        ),
+    )
+    armor_type = models.CharField(
+        max_length=255,
+        blank=True,
+        help_text=(
+            "Raw 'Armor Type' infobox value (e.g. 'Breastplate / "
+            "Scalemail', 'Docent'); item_type holds the derived "
+            "'Armor: <Class>'."
+        ),
+    )
+    feat_requirement = models.CharField(
+        max_length=255,
+        blank=True,
+        help_text=(
+            "Raw 'Feat Requirement' infobox row used to classify "
+            "armor (e.g. 'Light Armor Proficiency')."
+        ),
+    )
+    material = models.CharField(
+        max_length=255,
+        blank=True,
+        help_text=(
+            "Material shown in the infobox (e.g. 'Mithral'), "
+            "tooltip description stripped."
+        ),
+    )
     minimum_level = models.PositiveIntegerField(null=True, blank=True)
+    enchantment_tree = models.JSONField(
+        null=True,
+        blank=True,
+        help_text=(
+            "The parsed Enchantments cell tree (nested tiers, "
+            "tooltips, alternatives) captured from the item's "
+            "rendered wiki page. Used for display; null when the "
+            "item predates the tree capture."
+        ),
+    )
 
     def __str__(self):
         return self.name
@@ -40,7 +129,7 @@ class Item(models.Model):
 
         return self.wiki_title
 
-    def ordered_enhancements(self):
+    def ordered_enchantments(self):
         # Preserve the wiki's wikitext order: base lines and tier
         # groups stay interleaved (tiers appear right after the
         # "Upgradeable Item" CraftingEffects line), with consecutive
@@ -48,14 +137,14 @@ class Item(models.Model):
         ordered = []
         current_tier_group = None
 
-        for enhancement in self.enhancements.all():
-            if enhancement.tier is None:
+        for enchantment in self.enchantments.all():
+            if enchantment.tier is None:
                 current_tier_group = None
 
                 ordered.append(
                     {
                         "type": "item",
-                        "enhancement": enhancement,
+                        "enchantment": enchantment,
                     }
                 )
 
@@ -64,11 +153,11 @@ class Item(models.Model):
             if (
                 current_tier_group is None
                 or current_tier_group["tier"]
-                != enhancement.tier
+                != enchantment.tier
             ):
                 current_tier_group = {
                     "type": "tier",
-                    "tier": enhancement.tier,
+                    "tier": enchantment.tier,
                     "items": [],
                 }
 
@@ -77,13 +166,26 @@ class Item(models.Model):
                 )
 
             current_tier_group["items"].append(
-                enhancement
+                enchantment
             )
 
         return ordered
 
+    @property
+    def stale_status(self):
+        # Admin-readable freshness: distinguish "we never captured
+        # this page" from "captured, but before revision tracking
+        # existed" from "captured with revision info".
+        if self.fetched_at is None:
+            return "Never fetched"
 
-class Enhancement(models.Model):
+        if self.wiki_revision_timestamp is None:
+            return "No revision info"
+
+        return "OK"
+
+
+class Enchantment(models.Model):
     name = models.CharField(
         max_length=255,
         unique=True,
@@ -97,7 +199,7 @@ class Enhancement(models.Model):
         blank=True,
         help_text=(
             "Editable override shown to users everywhere the "
-            "enhancement appears (dropdowns, item pages). "
+            "enchantment appears (dropdowns, item pages). "
             "Leave blank to use the wiki name. Never changes "
             "the name field above."
         ),
@@ -120,14 +222,14 @@ class Enhancement(models.Model):
                     ),
                     "name",
                 ),
-                name="unique_enhancement_effective_label",
+                name="unique_enchantment_effective_label",
             )
         ]
 
     def clean(self):
         if self.display_name:
             conflicts = (
-                Enhancement.objects
+                Enchantment.objects
                 .filter(
                     models.Q(name__iexact=self.display_name)
                     | models.Q(
@@ -143,47 +245,23 @@ class Enhancement(models.Model):
                     {
                         "display_name": (
                             "This display name conflicts with an "
-                            "existing enhancement name or display "
+                            "existing enchantment name or display "
                             "name."
                         )
                     }
                 )
 
 
-class EnhancementRule(models.Model):
-    SCOPE_CHOICES = [
-        ("list", "Enhancement list"),
-        ("item", "Item-wide"),
-    ]
-
-    template_name = models.CharField(max_length=255, unique=True)
-    scope = models.CharField(
-        max_length=10,
-        choices=SCOPE_CHOICES,
-        default="list",
-    )
-    handler = models.CharField(max_length=100)
-    config = models.JSONField(default=dict, blank=True)
-    enabled = models.BooleanField(default=True)
-    order = models.PositiveIntegerField(default=0)
-
-    class Meta:
-        ordering = ["order", "template_name"]
-
-    def __str__(self):
-        return self.template_name
-
-
-class EnhancementVariant(models.Model):
-    """One row per distinct rendered version of an enhancement.
+class EnchantmentVariant(models.Model):
+    """One row per distinct rendered version of an enchantment.
 
     e.g. "Spell Power" with value "Combustion 54" appears on hundreds
-    of items; it is stored here once and every item-enhancement row
+    of items; it is stored here once and every item-enchantment row
     points to it. Editing a variant updates every item that uses it.
     """
 
-    enhancement = models.ForeignKey(
-        Enhancement,
+    enchantment = models.ForeignKey(
+        Enchantment,
         on_delete=models.CASCADE,
         related_name="variants",
     )
@@ -216,18 +294,18 @@ class EnhancementVariant(models.Model):
         constraints = [
             models.UniqueConstraint(
                 fields=[
-                    "enhancement",
+                    "enchantment",
                     "value",
                     "detail",
                     "display_text",
                 ],
-                name="unique_enhancement_variant",
+                name="unique_enchantment_variant",
             )
         ]
-        ordering = ["enhancement__name", "value"]
+        ordering = ["enchantment__name", "value"]
 
     def __str__(self):
-        label = self.enhancement.label
+        label = self.enchantment.label
 
         if self.value:
             label = f"{label} {self.value}"
@@ -235,14 +313,14 @@ class EnhancementVariant(models.Model):
         return label
 
 
-class ItemEnhancement(models.Model):
+class ItemEnchantment(models.Model):
     item = models.ForeignKey(
         Item,
         on_delete=models.CASCADE,
-        related_name="enhancements",
+        related_name="enchantments",
     )
     variant = models.ForeignKey(
-        EnhancementVariant,
+        EnchantmentVariant,
         on_delete=models.CASCADE,
         related_name="items",
     )
@@ -250,15 +328,19 @@ class ItemEnhancement(models.Model):
         null=True,
         blank=True,
         help_text=(
-            "Upgrade tier number when this enhancement only "
+            "Upgrade tier number when this enchantment only "
             "exists after an item upgrade; blank for base."
         ),
     )
-    raw_template = models.CharField(
-        max_length=500,
-        blank=True,
+    possible = models.BooleanField(
+        default=False,
+        help_text=(
+            "True when this is one of several mutually-exclusive "
+            "options the item can have (e.g. 'A Mysterious Effect - "
+            "can be any one of these 4 sets'), not a guaranteed "
+            "effect."
+        ),
     )
-
     class Meta:
         constraints = [
             models.UniqueConstraint(
@@ -267,13 +349,13 @@ class ItemEnhancement(models.Model):
                     "variant",
                     "tier",
                 ],
-                name="unique_item_enhancement",
+                name="unique_item_enchantment",
             )
         ]
 
     @property
-    def enhancement(self):
-        return self.variant.enhancement
+    def enchantment(self):
+        return self.variant.enchantment
 
     @property
     def value(self):
@@ -309,8 +391,8 @@ class ItemEnhancement(models.Model):
 
     @property
     def display_name(self):
-        override = self.enhancement.display_name.strip()
-        name = override or self.enhancement.name.strip()
+        override = self.enchantment.display_name.strip()
+        name = override or self.enchantment.name.strip()
 
         # When no override is set, the wiki's verbatim rendered
         # text wins (e.g. "Fire Absorption +26%"). An override

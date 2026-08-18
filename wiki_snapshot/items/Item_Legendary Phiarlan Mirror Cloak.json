@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Legendary Phiarlan Mirror Cloak",
+  "page_id": 92007,
+  "revision_id": 632696,
+  "revision_timestamp": "2025-04-22T01:22:41Z",
+  "fetched_at": "2026-08-17T22:02:00.717670+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Legendary Phiarlan Mirror Cloak\n  | minlevel                 = 30\n  | type                     = Cloak\n  | slot                     = Back\n  | bind                     = {{Bind|BtA|BoA|exclusive=1}}\n  | durability               = 310\n  | material                 = Leather\n  | hardness                 = 32\n  | cost                     = 12,005 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 50\n  | legendary                = Epic Phiarlan Mirror Cloak\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | enhancements             = \n* {{Skills|Hide|10|Insight|prefix=Insightful}}\n* {{Skills|Move Silently|10|Insight|prefix=Insightful}}\n* {{Spell Resistance|39}}\n* {{Elemental Resistance|Light|51}}\n* {{Absorption|Spell|0|20|5}}\n* {{Augment|Colorless}}\n  | mythic                   = no\n  | crafting                 = \n  | description              = House Phiarlan spies keep many tools to help them in their trade. This cloak is a prime example of such a tool, and reflects light in such a way that the wearer is made partially invisible. This effect also wards it against certain harmful spells.\n  | pic                      = Phiarlan Mirror Cloak Shown.jpg\n  | picdesc                  = Legendary Phiarlan Mirror Cloak.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "Insightful Hide +10",
+      "tooltip": "Insightful Hide +10: Passive: +10 Insight bonus to the Hide skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hide",
+          "title": "Hide",
+          "text": "Insightful Hide +10"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Move Silently +10",
+      "tooltip": "Insightful Move Silently +10: Passive: +10 Insight bonus to the Move Silently skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Move_Silently",
+          "title": "Move Silently",
+          "text": "Insightful Move Silently +10"
+        }
+      ]
+    },
+    {
+      "text": "Spell Resistance +39",
+      "tooltip": "Spell Resistance +39: +39 Enhancement bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Spell Resistance +39"
+        }
+      ]
+    },
+    {
+      "text": "Light Resistance +51",
+      "tooltip": "Light Resistance +51: Passive: +51 Enhancement bonus to your Light Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Light_Resistance",
+          "title": "Light Resistance",
+          "text": "Light Resistance +51"
+        }
+      ]
+    },
+    {
+      "text": "Spell Absorption - 20 Charges (Recharged/Day: 5)",
+      "tooltip": "Spell Absorption: This effect absorbs harmful spells targeted at the wearer.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Absorption",
+          "title": "Spell Absorption",
+          "text": "Spell Absorption"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

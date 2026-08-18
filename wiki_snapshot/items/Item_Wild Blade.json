@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Wild Blade",
+  "page_id": 107811,
+  "revision_id": 691084,
+  "revision_timestamp": "2026-07-01T14:07:25Z",
+  "fetched_at": "2026-08-17T23:26:37.053870+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Wild Blade\n  | minlevel                 = 15\n  | type                     = Long Sword\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = 1.50[1d8] + 3 Slash, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | race                     = Eladrin Chaosmancer\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 220\n  | material                 = Steel\n  | hardness                 = 25\n  | cost                     = 6,000 pp 1 cp\n  | weight                   = 4 lbs\n  | released                 = Update 68\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Spell Lore|Radiance|12}}\n* {{Spell Focus|Conjuration|2|Insightful}}\n* {{ItemGrantedFeat|Longsword}}\n  | crafting                 = \n  | description              = \n  | pic                      = Entropic Edge shown.jpg\n  | picdesc                  = Wild Blade.png\n  | tips                     = \n}}\n[[Category:Weapons that grant their own proficiency]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Radiance Lore +12%",
+      "tooltip": "Radiance Lore +12: Passive: Your Light and Aligned spells gain a 12% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Radiance Lore +12%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Conjuration Focus +2",
+      "tooltip": "Insightful Conjuration Focus +2: +2 Insight bonus to the DC of Conjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Conjuration Focus +2"
+        }
+      ]
+    },
+    {
+      "text": "Proficiency: Longsword",
+      "tooltip": "Proficiency: Longsword: While equipped this item grants the wielder all required knowledge to wield a Longsword without proficiency penalties.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proficiency:_Longsword",
+          "title": "Proficiency: Longsword",
+          "text": "Proficiency: Longsword"
+        }
+      ]
+    }
+  ]
+}

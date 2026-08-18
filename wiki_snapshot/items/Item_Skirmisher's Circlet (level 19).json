@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Skirmisher's Circlet (level 19)",
+  "page_id": 41308,
+  "revision_id": 649780,
+  "revision_timestamp": "2025-07-26T19:12:48Z",
+  "fetched_at": "2026-08-17T23:00:06.231740+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Skirmisher's Circlet\n  | type                     = Helm\n  | class                    = Clothing\n  | basevalue                = 7,620pp\n  | weight                   = 0.10 lbs\n  | slot                     = Head\n  | durability               = 110\n  | material                 = Steel\n  | hardness                 = 20\n  | minlevel                 = 19\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 19\n  | quest                    = Breaking the Ranks\n  | end reward               = yes\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Fortification|100}}\n* {{Tactics|Combat Mastery|3|Insightful}}\n  | crafting                 = \n  | description              = \n  | pic                      = Skirmisher's Circlet shown.jpg\n  | picdesc                  = Skirmisher's Circlet (Level 19).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 19,
+  "enchantments": [
+    {
+      "text": "Fortification +100%",
+      "tooltip": "Fortification +100%: +100% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +100%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Combat Mastery +3",
+      "tooltip": "Insightful Combat Mastery +3: +3 Insight bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combat_Mastery",
+          "title": "Combat Mastery",
+          "text": "Insightful Combat Mastery +3"
+        }
+      ]
+    }
+  ]
+}

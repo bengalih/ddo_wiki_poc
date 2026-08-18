@@ -1,0 +1,128 @@
+{
+  "page_title": "Item:Legendary Docent of Sunlight",
+  "page_id": 108782,
+  "revision_id": 685304,
+  "revision_timestamp": "2026-05-06T13:12:25Z",
+  "fetched_at": "2026-08-17T21:42:09.877041+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Docent of Sunlight\n  | minlevel                 = 33\n  | type                     = Docent\n  | feat                     = Docent\n  | ac                       = {{WFABonus|a=26|m=15|c=6}}\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | race                     = Warforged\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 380\n  | material                 = Crystal\n  | hardness                 = 43\n  | basevalue                = 13,250 pp\n  | weight                   = \n  | released                 = Update 69\n  | quest                    = Seeds of Decay\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Accuracy|23}}\n* {{Deadly|12}}\n* {{Deadly|3|Quality}}\n* {{Protection|12}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n* {{Augment|Sun}}\n  | crafting                 = \n  | description              = The sun's rays embolden those who seek it.\n  | pic                      = Docent of Sunlight shown.jpg\n  | picdesc                  = Legendary Docent of Sunlight.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Crystal",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 33,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Accuracy +23",
+      "tooltip": "Accuracy +23: Passive: +23 Competence bonus to attack rolls",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accuracy",
+          "title": "Accuracy",
+          "text": "Accuracy +23"
+        }
+      ]
+    },
+    {
+      "text": "Deadly +12",
+      "tooltip": "Deadly +12: +12 Competence bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Deadly +12"
+        }
+      ]
+    },
+    {
+      "text": "Quality Deadly +3",
+      "tooltip": "Quality Deadly +3: +3 Quality bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Quality Deadly +3"
+        }
+      ]
+    },
+    {
+      "text": "Protection +12",
+      "tooltip": "Protection +12: Passive: +12 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +12"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

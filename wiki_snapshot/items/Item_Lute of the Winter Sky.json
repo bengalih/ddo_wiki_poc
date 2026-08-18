@@ -1,0 +1,42 @@
+{
+  "page_title": "Item:Lute of the Winter Sky",
+  "page_id": 122456,
+  "revision_id": 666823,
+  "revision_timestamp": "2025-11-20T12:33:10Z",
+  "fetched_at": "2026-08-17T22:19:23.737298+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Lute of the Winter Sky\n  | type                     = Cosmetic\n  | prof                     = General\n  | reqtrait                 = Cosmetic\n  | UMD DC                   = None\n  | minlevel                 = 1 \n  | bind                     = Destroyed on Death, {{Bind|BtC|BoA|1|bank=no}}, No Mail\n  | sb                       = N/A\n  | maxdexbonus              = N/A\n  | dr                       = N/A\n  | acp                      = N/A\n  | asf                      = 0\n  | ap                       = N/A\n  | dmg                      = N/A\n  | dmgtype                  = \n  | crit                     = N/A\n  | attmod                   = None\n  | damagemod                = None\n  | durability               = 1 (Max 1500)\n  | material                 = Gem\n  | hardness                 = 99\n  | basevalue                = 1 pp\n  | weight                   = 0.10 lbs \n  | released                 = Update 76\n  | quest                    = Hilda Bitterspine\n  | chest                    = [[The Hut from Beyond]]\n  | mythic                   = no\n  | enhancements             = \n* {{clicky|Play for the Fey|3|3}} \n* {{Lute|Lute of the Winter Sky}}\n  | description              = \n  | pic                      = QuestionOrb.png\n  | picdesc                  = Lute of the Winter Sky.png\n  | tips                     = This item gains durability as you use it to absorb Motes of Music. When fully repaired, turn it in for your reward! This particular Lute may only be charged in [[Reaper difficulty]].\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Gem",
+  "item_kind": "Cosmetic",
+  "item_class": "Cosmetic",
+  "item_type": "Shield",
+  "slot": "Off Hand",
+  "enchantments": [
+    {
+      "text": "Play for the Fey — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Play for the FeyCaster level: 3Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Play_for_the_Fey",
+          "title": "Play for the Fey",
+          "text": "Play for the Fey"
+        }
+      ]
+    },
+    {
+      "text": "Lute of the Winter Sky",
+      "tooltip": "Lute of the Winter Sky: Equipping this instrument allows you to hear the scattered notes of Hyrsam's music. Finds these motes of music and play this instrument to claim them, but beware their guardians.This lute can only advance or find it's golden mote on reaper difficulty.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lute_of_the_Winter_Sky",
+          "title": "Lute of the Winter Sky",
+          "text": "Lute of the Winter Sky"
+        }
+      ]
+    }
+  ]
+}

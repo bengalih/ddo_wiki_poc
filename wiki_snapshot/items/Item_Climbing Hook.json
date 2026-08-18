@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Climbing Hook",
+  "page_id": 56414,
+  "revision_id": 629006,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:22:17.983190+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Climbing Hook\n  | minlevel                 = 15\n  | type                     = Trinket\n  | slot                     = Trinket\n  | race                     = Deep Gnome\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Skills|Balance|13}}\n* {{Stat|Dex|4}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Trinket Generic Book.png\n  | picdesc                  = Climbing Hook.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Balance +13",
+      "tooltip": "Balance +13: Passive: +13 Competence bonus to the Balance skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Balance",
+          "title": "Balance",
+          "text": "Balance +13"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +4",
+      "tooltip": "Dexterity +4: This item makes the wearer more nimble and dexterous, granting a +4 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +4"
+        }
+      ]
+    }
+  ]
+}

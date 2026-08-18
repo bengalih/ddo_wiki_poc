@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Lightning Rod",
+  "page_id": 7882,
+  "revision_id": 633255,
+  "revision_timestamp": "2025-04-22T02:01:30Z",
+  "fetched_at": "2026-08-17T22:17:47.066109+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Lightning Rod\n  | damage                   = [1d6] + 4 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 18\n  | minlevel                 = 8\n  | quest                    = Haywire Foundry\n  | chest                    = 1 guaranteed at end of the quest\n  | basevalue                = 3200pp1cp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtC|boe}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|4}}\n* {{SpellPower|Magnetism|54}}\n* {{Shock}}\n* {{Elemental Resistance|Electric|3}}\n* {{Augment|Red}}\n  | pic                      = Lightning Rod shown.jpg\n  | picdesc                  = Lightning Rod.png\n  | description              = A long stout staff of wrought iron that can be used as a simple weapon. The Lightning Rod crackles with electricity and arcane power.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +12",
+      "tooltip": "Spellcasting Implement +12: Passive: +12 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +12"
+        }
+      ]
+    },
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Magnetism +54",
+      "tooltip": "Magnetism +54: Passive: +54 Equipment bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Magnetism +54"
+        }
+      ]
+    },
+    {
+      "text": "Shock",
+      "tooltip": "Shock: This weapon is sheathed in crackling electricity. A shock weapon deals an extra 1 to 6 points of electricity damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shock",
+          "title": "Shock",
+          "text": "Shock"
+        }
+      ]
+    },
+    {
+      "text": "Electric Resistance +3",
+      "tooltip": "Electric Resistance +3: Passive: +3 Enhancement bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Electric Resistance +3"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Spinneret",
+  "page_id": 61302,
+  "revision_id": 690662,
+  "revision_timestamp": "2026-06-30T16:40:31Z",
+  "fetched_at": "2026-08-17T23:04:30.508731+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Spinneret\n  | minlevel                 = 8\n  | type                     = Ring\n  | race                     = \n  | slot                     = Finger\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 90\n  | material                 = Gold\n  | hardness                 = 18\n  | basevalue                = 3,220 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Slave Pits of the Undercity\n  | released                 = Update 32\n  | end reward               = <!-- Any 1 of these 3 required. Leave blank if not used-->\n  | turn in                  = <!-- Leave blank if not used-->\n  | chest                    = End chest\n  | enhancements             = \n* {{Spelllore|Spell|4}}\n* {{SpellPower|Potency|9|Quality}}\n* {{Spell Focus|Mastery|1|Quality}}\n* {{Spellpen|3}}\n* {{CraftingEffects|Against the Slave Lords Set Bonus}}\n* {{Augment|Green}}\n  | crafting                 = Slave Lords Crafting\n  | craftingupgrade          = \n  | description              = Loops of the chain attached to rings ornately decorate the hand.\n  | pic                      = \n  | picdesc                  = Spinneret.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Spell Lore +4",
+      "tooltip": "Spell Lore 4: Passive: All of your spells gain a 4% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Spell Lore +4"
+        }
+      ]
+    },
+    {
+      "text": "Quality Potency +9",
+      "tooltip": "Quality Potency +9: Passive: +9 Quality bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Quality Potency +9"
+        }
+      ]
+    },
+    {
+      "text": "Quality Spell Focus Mastery +1",
+      "tooltip": "Quality Spell Focus Mastery +1: +1 Quality bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Quality Spell Focus Mastery +1"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration +3",
+      "tooltip": "Spell Penetration +3: Passive: +3 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration +3"
+        }
+      ]
+    },
+    {
+      "text": "Against the Slave Lords Set Bonus",
+      "tooltip": "Against the Slave Lords Set Bonus: An Against the Slave Lords Set Bonus can be applied to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slave_Lords_Crafting",
+          "title": "Slave Lords Crafting",
+          "text": "Against the Slave Lords Set Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

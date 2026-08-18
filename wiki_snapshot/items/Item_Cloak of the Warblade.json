@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Cloak of the Warblade",
+  "page_id": 108741,
+  "revision_id": 685091,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:24:02.305396+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Cloak of the Warblade\n  | minlevel                 = 13\n  | type                     = Cloak\n  | slot                     = Back\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 230\n  | material                 = Cloth\n  | hardness                 = 33\n  | cost                     = 5201 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 69\n  | quest                    = Ruins of Myth Drannor\n  | chest                    = [[Goranathanil]]'s chest\n  | rare                     = yes\n  | end reward               = \n  | enhancements             = \n* {{Seeker|7}}\n* {{Sheltering|8|Insightful|Physical}}\n* {{Concealment|Lesser Displacement}}\n* {{Armor-Piercing|11}}\n* {{Augment|blue}}\n* {{Augment|Sun}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = When the Echo broke off from the Warblade, the force of its defiance manifested this cloak, and shares its clarity of purpose.\n  | pic                      = Cloak of the Warblade shown.jpg\n  | picdesc                  = Cloak of the Warblade.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Seeker +7",
+      "tooltip": "Seeker +7: Provides a +7 Enhancement bonus to confirm critical hits, and a +7 Enhancement bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Seeker +7"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Physical Sheltering +8",
+      "tooltip": "Insightful Physical Sheltering +8: +8 Insight bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Insightful Physical Sheltering +8"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Displacement",
+      "tooltip": "Lesser Displacement: Equipping this item causes light to distort around you. Attacks from enemies have a 25% chance to miss you due to concealment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lesser_Displacement",
+          "title": "Lesser Displacement",
+          "text": "Lesser Displacement"
+        }
+      ]
+    },
+    {
+      "text": "Armor-Piercing 11%",
+      "tooltip": "Armor-Piercing 11%: Passive: +11% Enhancement bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Armor-Piercing 11%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

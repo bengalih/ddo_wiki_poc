@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Ethereal Throwing Axe",
+  "page_id": 100018,
+  "revision_id": 667575,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:01:13.580588+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Ethereal Throwing Axe\n  | damage                   = [1d6] + 1 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Throwing Axe\n  | hand                     = Thrown\n  | class                    = Thrown\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 50\n  | material                 = Steel\n  | hardness                 = 12\n  | minlevel                 = 2\n  | quest                    = Morten Edgewright\n  | chest                    = \n  | end reward               = \n  | turn in                  = 1 Ethereal Ingot\n  | epic                     = \n  | basevalue                = 800pp 6gp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 44\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|1}}\n* {{Ghost Touch}}\n* {{Returning}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Throwing Axe Borderlands Generic shown.jpg\n  | picdesc                  = Ethereal Throwing Axe.png\n  | description              = A subtle mist surrounds this weapon. It is likely quite useful against certain Undead foes that other weapons have a hard time connecting with.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Throwing Axe",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Ghost Touch",
+      "tooltip": "Ghost Touch: An incorporeal creature's 50% chance to avoid damage does not apply to attacks with ghost touch weapons.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghost_Touch",
+          "title": "Ghost Touch",
+          "text": "Ghost Touch"
+        }
+      ]
+    },
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

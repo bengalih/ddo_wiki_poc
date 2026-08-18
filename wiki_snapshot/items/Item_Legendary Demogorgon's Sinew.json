@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Demogorgon's Sinew",
+  "page_id": 126190,
+  "revision_id": 699950,
+  "revision_timestamp": "2026-07-25T06:08:13Z",
+  "fetched_at": "2026-08-17T21:41:41.998761+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Demogorgon's Sinew\n  | damage                   = 6[1d8+3] + 16 Pierce, Chaotic, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Long Bow\n  | class                    = Ranged\n  | prof                     = Martial\n  | hand                     = Ranged\n  | damagemod                = DEX\n  | attackmod                = DEX\n  | durability               = 430\n  | material                 = Steel\n  | hardness                 = 45\n  | minlevel                 = 35\n  | basevalue                = 14,007pp 5gp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 81\n  | quest                    = Back to the Abyss\n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|w|16}}\n* {{Burst|Anarchic|7|16}}\n* {{Paralyzing||117}}\n* {{Anarchic|7}}\n* {{Elasticity}}\n* {{Augment|Orange}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A powerful tendon from the mighty Demon Lord forms the string of this bow.\n  | pic                      = Demogorgon's Sinew shown.jpg\n  | picdesc                  = Legendary Demogorgon's Sinew.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 35,
+  "enchantments": [
+    {
+      "text": "+16 Enhancement Bonus",
+      "tooltip": "+16 Enhancement Bonus: +16 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+16 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Anarchic Burst 7",
+      "tooltip": "Anarchic Burst 7: This weapon is a chaotic conduit, dealing 7d6 Chaos damage on a successful hit to Lawful enemies, and 16d6 Chaos damage on a critical hit to Lawful enemies. This effect makes the weapon chaotically aligned.Lawful characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Anarchic_Burst#Anarchic_Burst",
+          "title": "Anarchic Burst",
+          "text": "Anarchic Burst 7"
+        }
+      ]
+    },
+    {
+      "text": "Paralyzing 117",
+      "tooltip": "Paralyzing 117: Any creature struck by this weapon must succeed on a DC 117 Will save or be paralyzed. The target may attempt a new save to end the effect every several seconds; otherwise the paralysis lasts for 1 minute.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Paralyzing",
+          "title": "Paralyzing",
+          "text": "Paralyzing 117"
+        }
+      ]
+    },
+    {
+      "text": "Anarchic 7",
+      "tooltip": "Anarchic 7: On Hit: 7 to 28 Chaos damage. Chaos-aligned creatures are immune to this effect.Penalty: If equipped by a Lawful user, they receive 1 Negative Level for as long as this item is equipped.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Anarchic 7"
+        }
+      ]
+    },
+    {
+      "text": "Elasticity",
+      "tooltip": "Elasticity: This bow is strung with special fibers that cause it to occasionally launch arrows with shocking force. When rolling a 19 or 20 on a ranged attack, your critical multiplier is increased by +1.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Elasticity",
+          "title": "Elasticity",
+          "text": "Elasticity"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

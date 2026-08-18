@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Epic Collapsible Shortbow",
+  "page_id": 10396,
+  "revision_id": 640347,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:46:23.638798+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Collapsible Shortbow\n  | damage                   = 3[1d6] + 6 Slash, Pierce, Magic\n  | crit                     = 19-20 / x3\n  | type                     = Short Bow\n  | class                    = Ranged\n  | hand                     = Ranged\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | minlevel                 = 20\n  | prof                     = Martial\n  | durability               = 265\n  | material                 = Wood\n  | hardness                 = 25\n  | bind                     = {{Bind|BtA|BoA}}\n  | basevalue                = 8003pp\n  | weight                   = 2 lbs\n  | epic                     = Collapsible Shortbow\n  | quest                    = Epic Crafting\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|6}}\n* {{Blast|Force|4}}\n* {{Deception|17|Bluff=Improved}}\n* {{Skills|Jump|+17}}\n* {{Skills|Tumble|+17}}\n* {{Skills|Swim|+17}}\n* {{Augment|Colorless}}\n* {{Augment|Red}}\n* {{Named item sets|Epic Vulkoor's Chosen}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Collapsible Shortbow\n  | description              = A small bow ingeniously jointed to collapse into a small pack.  Wielding this bow, allows a rogue to perform prodigious athletic feats.  Arrows fired from this bow gain magical barbs of force, dealing slashing and piercing damage.\n  | pic                      = Collapsible Shortbow shown.jpg\n  | picdesc                  = Epic Collapsible Shortbow.png\n  | tips                     = \n}}\n[[Category:Sands of Menechtarun epic items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Short Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Force Blast 4",
+      "tooltip": "Force Blast 4: This weapon ripples with intense force, dealing 4d6 Force damage on a successful hit, and an additional 4d6 Force damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Force Blast 4"
+        }
+      ]
+    },
+    {
+      "text": "Improved Deception +17",
+      "tooltip": "Improved Deception: This item makes your weapons hard to focus upon and thus provides a +17 enhancement bonus to Bluff checks. In addition, while using this item your weapons have a chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception#Improved_Deception",
+          "title": "Deception",
+          "text": "Improved Deception +17"
+        }
+      ]
+    },
+    {
+      "text": "Jump +17",
+      "tooltip": "Jump +17: Passive: +17 Competence bonus to the Jump skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Jump_(skill)",
+          "title": "Jump (skill)",
+          "text": "Jump +17"
+        }
+      ]
+    },
+    {
+      "text": "Tumble +17",
+      "tooltip": "Tumble +17: Passive: +17 Competence bonus to the Tumble skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Tumble_(skill)",
+          "title": "Tumble (skill)",
+          "text": "Tumble +17"
+        }
+      ]
+    },
+    {
+      "text": "Swim +17",
+      "tooltip": "Swim +17: Passive: +17 Competence bonus to the Swim skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Swim",
+          "title": "Swim",
+          "text": "Swim +17"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Epic Vulkoor's Chosen",
+      "tooltip": "Epic Vulkoor's Chosen: 2 Pieces Equipped:+20 Artifact bonus to Poison Resistance+2 Artifact bonus to Sneak Attack Dice+2 Artifact bonus to Saving Throws+2 Artifact bonus to Dexterity and Constitution",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Epic_Vulkoor's_Chosen",
+          "title": "Named item sets",
+          "text": "Epic Vulkoor's Chosen"
+        }
+      ]
+    }
+  ]
+}

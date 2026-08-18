@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Polycurse Dagger",
+  "page_id": 14535,
+  "revision_id": 671153,
+  "revision_timestamp": "2026-01-08T22:52:04Z",
+  "fetched_at": "2026-08-17T22:39:02.141552+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Polycurse Dagger\n  | damage                   = 2[1d4] + 5 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Dagger\n  | hand                     = One-handed\n  | class                    = Piercing\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Simple\n  | durability               = 120\n  | material                 = Steel\n  | hardness                 = 18\n  | minlevel                 = 14\n  | released                 = Update 9\n  | quest                    = Harbinger of Madness\n  | end reward               = yes\n  | revamped                 = Update 76\n  | basevalue                = 12,800pp 2gp\n  | weight                   = 1.00 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Polycurse}}\n* {{Sneak Attack Bonus|3}}\n* {{Deception|Bluff=yes}}\n* {{Curse Vector}}\n* {{Corrosive Salt}}\n  | description              = An unusually large dagger turned vile and unpredictable after being wielded by the creatures of Xoriat.  Enemies cut by the dagger's blade are subject to a wide array of debilitating curses.\n  | pic                      = Polycurse Dagger shown.jpg\n  | picdesc                  = Polycurse Dagger.png\n  | tips                     = You can remove the [[Curse Vector]] penalty with a [[Sustaining Symbiont]].\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Polycurse",
+      "tooltip": "Polycurse: This weapon is enchanted with many diverse curses. On a critical hit an enemy may be hit with one of these effects at random: Blindness, Exhaustion, Bestow Curse, or Enervation.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Polycurse",
+          "title": "Polycurse",
+          "text": "Polycurse"
+        }
+      ]
+    },
+    {
+      "text": "Sneak Attack Bonus +3",
+      "tooltip": "Sneak Attack Bonus +3 : Provides a +3 Enhancement modifier to your attack bonus and a +5 Enhancement bonus to damage for any attack that would qualify as a Sneak Attack, even if the wielder is not a Rogue.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sneak_Attack_Bonus",
+          "title": "Sneak Attack Bonus",
+          "text": "Sneak Attack Bonus +3"
+        }
+      ]
+    },
+    {
+      "text": "Deception",
+      "tooltip": "Deception: This weapon is hard to focus upon and thus provides a +3 enhancement bonus to Bluff checks. In addition, Deception weapons have a small chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Deception"
+        }
+      ]
+    },
+    {
+      "text": "Curse Vector",
+      "tooltip": "Curse Vector: This item is a carrier of curses. It can apply them to your foes, but also to you- when you are damaged there is a small chance that you will have a Bestow Curse cast on you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Curse_Vector",
+          "title": "Curse Vector",
+          "text": "Curse Vector"
+        }
+      ]
+    },
+    {
+      "text": "Corrosive Salt",
+      "tooltip": "Corrosive Salt: This weapon stores a caustic, insatiable power deep within. When this weapon is used, this power can come to the surface in the form of a noxious, corrosive salt that dissolves all substances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosive_Salt",
+          "title": "Corrosive Salt",
+          "text": "Corrosive Salt"
+        }
+      ]
+    }
+  ]
+}

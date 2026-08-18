@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Blasting Chime (level 3)",
+  "page_id": 42521,
+  "revision_id": 648901,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:11:49.712195+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = [[Blasting Chime]]\n  | type                     = Trinket\n  | minlevel                 = 3\n  | slot                     = Trinket\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 40\n  | material                 = Gem\n  | hardness                 = 23\n  | basevalue                = 1205pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various ingredients\n  | mythic                   = no\n  | enhancements             = \n* {{Weaken Construct}}\n* {{Spelllore|Sonic|8}}\n* {{SpellPower|Resonance|54}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = \n  | description              = A small set of chimes that greatly amplifies any sonic energy channeled through it.\n  | pic                      = Blasting Chime Orb.png\n  | picdesc                  = Blasting Chime (level 3).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Weaken Construct",
+      "tooltip": "Weaken Construct: While wearing this item, your attacks cause constructs to lose 20% of their Fortification for the next 20 seconds. This effect does not stack with itself.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Weaken_Construct",
+          "title": "Weaken Construct",
+          "text": "Weaken Construct"
+        }
+      ]
+    },
+    {
+      "text": "Sonic Lore +8%",
+      "tooltip": "Sonic Lore +8: Passive: Your Sonic spells gain a 8% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Sonic Lore +8%"
+        }
+      ]
+    },
+    {
+      "text": "Resonance +54",
+      "tooltip": "Resonance +54: Passive: +54 Equipment bonus to Sonic Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resonance",
+          "title": "Resonance",
+          "text": "Resonance +54"
+        }
+      ]
+    }
+  ]
+}

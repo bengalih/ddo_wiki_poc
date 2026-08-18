@@ -1,0 +1,126 @@
+{
+  "page_title": "Item:Star of Day",
+  "page_id": 24868,
+  "revision_id": 672891,
+  "revision_timestamp": "2026-01-25T19:59:54Z",
+  "fetched_at": "2026-08-17T06:23:27.187577+00:00",
+  "categories": [],
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Short Sword",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Brilliance",
+      "tooltip": "Brilliance: This weapon glows with the light of Irian. This weapon deals an extra 1 to 6 points of light damage on a successful hit. In addition, critical hits deal an additional 1 to 10 light damage for weapons with a x2 critical multiplier, 2 to 20 for a x3 critical multiplier and 3 to 30 for a x4 multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Brilliance_(enchantment)",
+          "title": "Brilliance (enchantment)",
+          "text": "Brilliance"
+        }
+      ]
+    },
+    {
+      "text": "One of the following:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "Fiery Detonation",
+          "tooltip": "Fiery Detonation: This weapon is imbued with a fiery wrath. On an attack roll of 20 which is confirmed as a critical hit this burning power will be released, dealing damage to the target and all enemies near it for 15d6 fire damage.A successful Fortitude save (DC 39) reduces this by half.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Fiery_Detonation#Fiery_Detonation",
+              "title": "Fiery Detonation",
+              "text": "Fiery Detonation"
+            }
+          ]
+        },
+        {
+          "text": "Radiance",
+          "tooltip": "Radiance: This weapon is imbued with a brilliant, radiant power that deals an additional 4 to 24 points of light damage and blinds the target on a successful critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Radiance_(enchantment)",
+              "title": "Radiance (enchantment)",
+              "text": "Radiance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "One of the following:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "Disruption",
+          "tooltip": "Disruption: On Hit: 4 to 24 Bane damage to Undead.On Vorpal Hit: If an undead struck by this weapon has fewer than 1000 Hit Points, it is instantly slain. If the undead has above 1000 Hit Points, it takes 100 damage.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Disruption#Disruption",
+              "title": "Disruption",
+              "text": "Disruption"
+            }
+          ]
+        },
+        {
+          "text": "Flaming Burst",
+          "tooltip": "Flaming Burst: This weapon is sheathed in fire, and deals 1 to 6 fire damage each hit. Critical hits deal an additional 1 to 10 fire damage for weapons with a x2 critical multiplier, 2 to 20 for a x3 multiplier and 3 to 30 for a x4 multiplier.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Flaming_Burst#Flaming_Burst",
+              "title": "Flaming Burst",
+              "text": "Flaming Burst"
+            }
+          ]
+        },
+        {
+          "text": "Greater Good",
+          "tooltip": "Greater Good: This weapon is infused with the ultimate power of Good. It does an additional 2 to 12 damage to non-good targets and can only be wielded by Good-aligned characters.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Greater_Good",
+              "title": "Greater Good",
+              "text": "Greater Good"
+            }
+          ]
+        },
+        {
+          "text": "Holy Burst",
+          "tooltip": "Holy Burst: A holy weapon is imbued with holy power. This power makes the weapon good-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2 to 12 points of damage against all of evil alignment and an extra 3 to 18 on a critical for weapons with a x2 critical multiplier, 4 to 24 for a x3 multiplier, and 5 to 30 for a x4 multiplier.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Holy_Burst#Holy_Burst",
+              "title": "Holy Burst",
+              "text": "Holy Burst"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "item_class": "Weapon",
+  "item_template": ""
+}

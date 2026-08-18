@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Plateshard Belt",
+  "page_id": 66433,
+  "revision_id": 633991,
+  "revision_timestamp": "2025-04-22T02:51:43Z",
+  "fetched_at": "2026-08-17T22:38:44.352016+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Plateshard Belt\n  | basevalue                = 4,020 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | type                     = Belt\n  | durability               = 200\n  | material                 = Steel\n  | hardness                 = 30\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 37\n  | revamped                 = Update 59\n  | quest                    = Sunrise\n  | chest                    = End chest, Abbot chest\n  | enhancements             = \n* {{Save|Fortitude|6}}\n* {{Incite|59}}\n* {{Stat|Constitution|6}}\n* {{Incite|22|Insightful}}\n* {{Augment|Yellow}}\n* {{Named item sets|Knight of the Shadows Set (Heroic)}}\n  | pic                      = Belt Generic Faith.png\n  | picdesc                  = Plateshard Belt.png\n  | description              = This makeshift belt is fastened from the broken steel of other suits of armor.\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Fortitude Save +6",
+      "tooltip": "Fortitude Save +6: This item gives a +6 Resistance bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Fortitude Save +6"
+        }
+      ]
+    },
+    {
+      "text": "Incite +59",
+      "tooltip": "Incite +59: +59% Enhancement bonus to increased threat generation from melee damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incite",
+          "title": "Incite",
+          "text": "Incite +59"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +6",
+      "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +6"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Incite +22",
+      "tooltip": "Insightful Incite +22: +22% Insight bonus to increased threat generation from melee damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incite",
+          "title": "Incite",
+          "text": "Insightful Incite +22"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Knight of the Shadows Set (Heroic)",
+      "tooltip": "Knight of the Shadows Set (Heroic): 3 Pieces Equipped:+5 Artifact bonus to Physical and Magical Resistance Rating+50% Artifact bonus to threat generation with melee attacks+10% Artifact Bonus to your Armor Class",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Knight_of_the_Shadows_Set_(Heroic)",
+          "title": "Named item sets",
+          "text": "Knight of the Shadows Set (Heroic)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Belt Boost +1 or +3",
+      "tooltip": "Mythic Belt Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Belt Boost"
+        }
+      ]
+    }
+  ]
+}

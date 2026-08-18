@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Skirmisher's Cloak (level 19)",
+  "page_id": 40721,
+  "revision_id": 649799,
+  "revision_timestamp": "2025-07-26T19:12:48Z",
+  "fetched_at": "2026-08-17T23:00:09.361811+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Skirmisher's Cloak\n  | type                     = Cloak\n  | class                    = Clothing\n  | basevalue                = 7,620pp\n  | weight                   = 0.10 lbs\n  | slot                     = Back\n  | durability               = 110\n  | material                 = Cloth\n  | hardness                 = 20\n  | minlevel                 = 19\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 19\n  | quest                    = The Tracker's Trap\n  | end reward               = yes\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Elemental Resistance|Acid|25}}\n* {{Elemental Resistance|Electric|25}}\n  | crafting                 = \n  | description              = \n  | pic                      = Sage's Mantle Shown.jpg\n  | picdesc                  = Skirmisher's Cloak (Level 19).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 19,
+  "enchantments": [
+    {
+      "text": "Acid Resistance +25",
+      "tooltip": "Acid Resistance +25: Passive: +25 Enhancement bonus to your Acid Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Acid_Resistance",
+          "title": "Acid Resistance",
+          "text": "Acid Resistance +25"
+        }
+      ]
+    },
+    {
+      "text": "Electric Resistance +25",
+      "tooltip": "Electric Resistance +25: Passive: +25 Enhancement bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Electric Resistance +25"
+        }
+      ]
+    }
+  ]
+}

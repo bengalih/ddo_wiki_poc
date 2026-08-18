@@ -1,0 +1,52 @@
+{
+  "page_title": "Item:Power Evidence",
+  "page_id": 24641,
+  "revision_id": 634007,
+  "revision_timestamp": "2025-04-22T02:52:47Z",
+  "fetched_at": "2026-08-17T22:39:11.291314+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Power Evidence\n  | minlevel                 = 0\n  | type                     = Trinket\n  | slot                     = Trinket\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = N/A\n  | material                 = None\n  | hardness                 = N/A\n  | basevalue                = 20pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Special event items\n  | chest                    = Steam DDO: Half-Orc Pack\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|STR|1}} \n* {{Stat|CON|1}} \n* {{Stat|DEX|1}} \n  | description              = A finely crafted ornament that enhances the wearer's physical statistics.\n  | pic                      = Necklace Generic Green.png\n  | picdesc                  = Power Evidence.png\n  | tips                     = Each character will receive one of these upon purchase and also after any reincarnation, so it may be safely destroyed if you have no current need for it.\n}}",
+  "item_template": "Named item",
+  "material": "None",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "enchantments": [
+    {
+      "text": "Strength +1",
+      "tooltip": "Strength +1: This item gives the wearer the power of Ogre Strength, granting a +1 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +1"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +1",
+      "tooltip": "Constitution +1: This item gives the wearer improved health, granting a +1 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +1"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +1",
+      "tooltip": "Dexterity +1: This item makes the wearer more nimble and dexterous, granting a +1 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +1"
+        }
+      ]
+    }
+  ]
+}

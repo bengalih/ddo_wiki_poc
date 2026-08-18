@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Legendary Wild Flame",
+  "page_id": 68315,
+  "revision_id": 690573,
+  "revision_timestamp": "2026-06-30T15:43:43Z",
+  "fetched_at": "2026-08-17T22:15:45.114416+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Wild Flame\n  | damage                   = 4.80[1d6+2] + 15 Slash, Magic\n  | crit                     = 20 / x2\n  | type                     = Sickle\n  | hand                     = One-handed\n  | class                    = Slashing\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | prof                     = Simple\n  | durability               = 340\n  | material                 = Steel\n  | hardness                 = 39\n  | minlevel                 = 29\n  | bind                     = {{Bind|BtA|BoA}}\n  | basevalue                = 11,600pp 6gp\n  | weight                   = 2 lbs\n  | released                 = Update 38\n  | revamped                 = Update 76\n  | revamped2                = Update 80\n  | quest                    = The Madness of Crowds\n  | chest                    = End chest\n  | enhancements             = \n* {{Enhancement bonus|i|15|29}}\n* {{SpellPower|Combustion|142}}\n* {{SpellPower|Combustion|71|Insight}}\n* {{Spelllore|Fire|21}}\n* {{Spell Focus|Evocation|7}}\n* {{Augment|Red}}\n* {{Named item sets|Seasons of Change (Legendary)}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = The rage of a wildfire, harnessed.\n  | pic                      = Legendary Wild Flame shown.jpg\n  | picdesc                  = Legendary Wild Flame.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Sickle",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +29",
+      "tooltip": "Spellcasting Implement +29: Passive: +29 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +29"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Combustion +142",
+      "tooltip": "Combustion +142: Passive: +142 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +142"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Combustion +71",
+      "tooltip": "Insightful Combustion +71: Passive: +71 Insight bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Insightful Combustion +71"
+        }
+      ]
+    },
+    {
+      "text": "Fire Lore +21%",
+      "tooltip": "Fire Lore +21: Passive: Your Fire spells gain a 21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus +7",
+      "tooltip": "Evocation Focus +7: +7 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus +7"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Seasons of Change (Legendary)",
+      "tooltip": "Seasons of Change (Legendary): 2 Pieces Equipped:+30 Artifact Bonus to Fire and Cold Spell Power+3 Artifact Bonus to Evocation DCs",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Seasons_of_Change_(Legendary)",
+          "title": "Named item sets",
+          "text": "Seasons of Change (Legendary)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

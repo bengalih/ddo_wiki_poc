@@ -1,0 +1,43 @@
+{
+  "page_title": "Item:+1 Starter Dagger",
+  "page_id": 17500,
+  "revision_id": 671095,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T19:50:26.022956+00:00",
+  "categories": [],
+  "wikitext": "{{Non-food|WAI=true}}\n{{Named item|Weapon\n  | name                     = +1 Starter Dagger\n  | damage                   = [1d4] + 1 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Dagger\n  | hand                     = One-handed\n  | class                    = Piercing\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Simple\n  | durability               = 60\n  | material                 = Steel\n  | hardness                 = 12\n  | minlevel                 = 2\n  | quest                    = The Voyage\n  | chest                    = \n  | end reward               = yes\n  | basevalue                = 2 gp\n  | weight                   = 1.00 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|1}}\n* {{Starter}}\n  | epic                     = no\n  | revamped                 = Update 76\n  | pic                      = \n  | picdesc                  = Item_Starter Dagger.jpg\n  | description              = A short simple weapon with a pointed blade used for stabbing.\n  | tips                     = This item is also a [[Veteran Award Starter Items|Veteran Award Starter Item]] for [[Fighter]], [[Barbarian]], [[Paladin]], [[Favored Soul]], [[Ranger]], [[Rogue]] or [[Bard]]. \n}}",
+  "item_template": "Non-food",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Starter",
+      "tooltip": "Starter: Starter equipment cannot be traded, sold or crafted.This item cannot be fed to sentient jewels.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Starter",
+          "title": "Starter",
+          "text": "Starter"
+        }
+      ]
+    }
+  ]
+}

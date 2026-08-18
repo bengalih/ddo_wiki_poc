@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Creation Forge Bassinet",
+  "page_id": 37966,
+  "revision_id": 629199,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:27:32.339530+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Creation Forge Bassinet\n  | type                     = Helm\n  | race                     = Bladeforged\n  | slot                     = Head\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6,010 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Fortification|75}}\n* {{SpellPower|Reconstruction|72}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Creation Forge Bassinet shown.jpg\n  | picdesc                  = Creation Forge Bassinet.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Fortification +75%",
+      "tooltip": "Fortification +75%: +75% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +75%"
+        }
+      ]
+    },
+    {
+      "text": "Reconstruction +72",
+      "tooltip": "Reconstruction +72: Passive: +72 Equipment bonus to Repair and Rust Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reconstruction",
+          "title": "Reconstruction",
+          "text": "Reconstruction +72"
+        }
+      ]
+    }
+  ]
+}

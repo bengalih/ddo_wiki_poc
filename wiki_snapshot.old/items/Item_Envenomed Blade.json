@@ -1,0 +1,90 @@
+{
+  "page_title": "Item:Envenomed Blade",
+  "page_id": 20819,
+  "revision_id": 629814,
+  "revision_timestamp": "2025-04-21T22:19:46Z",
+  "fetched_at": "2026-08-17T04:18:10.646897+00:00",
+  "categories": [],
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Short Sword",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Poison Blast 4",
+      "tooltip": "Poison Blast 4: This weapon drips with vile poison, dealing 4d6 Poison damage on a successful hit, and an additional 4d6 Poison damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Poison Blast 4"
+        }
+      ]
+    },
+    {
+      "text": "Paralyzing",
+      "tooltip": "Paralyzing : Any creature struck by this weapon must succeed on a DC 17 Will save or be paralyzed. The target may attempt a new save to end the effect every several seconds; otherwise the paralysis lasts for 1 minute.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Paralyzing",
+          "title": "Paralyzing",
+          "text": "Paralyzing"
+        }
+      ]
+    },
+    {
+      "text": "Armor-Piercing 12%",
+      "tooltip": "Armor-Piercing 12%: Passive: +12% Enhancement bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Armor-Piercing 12%"
+        }
+      ]
+    },
+    {
+      "text": "Deadly Spider Venom",
+      "tooltip": "Deadly Spider Venom: This item is steeped in deadly spider venom. On an attack roll of 20 which is confirmed as a critical hit it will inflict the target with a poison that deals 10d6 poison damage every 2 seconds for 6 seconds. When the poison wears off, it also deals 3d6 Constitution damage to the target. A successful Fortitude save (DC 34) negates the Constitution damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly_Spider_Venom",
+          "title": "Deadly Spider Venom",
+          "text": "Deadly Spider Venom"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ],
+  "item_class": "Weapon",
+  "item_template": ""
+}

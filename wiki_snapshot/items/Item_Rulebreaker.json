@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Rulebreaker",
+  "page_id": 107807,
+  "revision_id": 690555,
+  "revision_timestamp": "2026-06-30T15:24:04Z",
+  "fetched_at": "2026-08-17T22:49:20.742232+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Rulebreaker\n  | minlevel                 = 15\n  | type                     = Ring\n  | race                     = Eladrin Chaosmancer\n  | slot                     = Finger\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | cost                     = 6,020 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 68\n  | revamped                 = Update 80\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Spell Focus|Conjuration|4}}\n* {{Stat|CHA|6}}\n  | crafting                 = \n  | description              = This ring compels you to ignore the rules.\n  | pic                      = Ring Generic Beholder.png\n  | picdesc                  = Rulebreaker.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Conjuration Focus +4",
+      "tooltip": "Conjuration Focus +4: +4 Equipment bonus to the DC of Conjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Conjuration Focus +4"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +6",
+      "tooltip": "Charisma +6: This item makes the wearer have more flair, granting a +6 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +6"
+        }
+      ]
+    }
+  ]
+}

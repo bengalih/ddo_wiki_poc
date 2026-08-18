@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Axe of the Unseen Blow",
+  "page_id": 7847,
+  "revision_id": 671289,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:07:08.436865+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Axe of the Unseen Blow \n  | damage                   = 1.80[2d4] + 5 Slash, Chaotic, Magic\n  | crit                     = 20 / x4\n  | type                     = Hand Axe\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | reqtrait                 = Chaotic\n  | UMD DC                   = 20\n  | durability               = 190\n  | material                 = Steel\n  | hardness                 = 24\n  | minlevel                 = 14\n  | bind                     = {{Bind|BtC|boe}}\n  | basevalue                = 5,600pp 6gp\n  | weight                   = 3 lbs\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Finesse}}\n* {{Chaos|True}}\n* {{Augment|Red}}\n  | quest                    = Litany of the Dead\n  | chest                    = [[Cholthulzz]] Chest, [[Mentau]] Chest, [[High Priest of Vol]] Chest, [[Cinnis]] Chest \n  | revamped                 = Update 76\n  | description              = Dwarven smiths crafted this hand axe to be an off-hand companion to a Dwarven Waraxe. This hand axe is especially well balanced for off hand use reducing the off hand penalty by 4 instead of the normal 2 for a light weapon.\n  | tips                     = \n  | pic                      = Axe of the Unseen Blow shown.jpg\n  | picdesc                  = Axe of the Unseen Blow.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Hand Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Finesse",
+      "tooltip": "Finesse : This weapon has a Small air elemental bound to it. The wielder can use a finesse weapon as if he had the Weapon Finesse feat. In addition, the weapon grants a +2 enhancement bonus to the wielder's Dexterity score.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Finesse",
+          "title": "Finesse",
+          "text": "Finesse"
+        }
+      ]
+    },
+    {
+      "text": "True Chaos",
+      "tooltip": "True Chaos: This weapon is infused with the power of True Chaos. It does an additional 1 to 6 damage to non-chaotic targets and can only be wielded by Chaotic-aligned characters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/True_Chaos",
+          "title": "True Chaos",
+          "text": "True Chaos"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

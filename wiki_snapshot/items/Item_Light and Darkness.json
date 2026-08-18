@@ -1,0 +1,152 @@
+{
+  "page_title": "Item:Light and Darkness",
+  "page_id": 10877,
+  "revision_id": 633251,
+  "revision_timestamp": "2025-04-22T02:01:14Z",
+  "fetched_at": "2026-08-17T22:17:41.232940+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Large\n  | prof                     = General\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtA|BoE}}\n  | sb                       = +12\n  | dr                       = 11\n  | acp                      = None\n  | asf                      = 5\n  | dmg                      = 2.60[1d8] + 5\n  | dmgtype                  = Bludgeon, Silver, Adamantine, Mithral, Magic\n  | crit                     = 20 / x2\n  | durability               = 175\n  | material                 = Mithral\n  | hardness                 = 35\n  | basevalue                = 10,800 pp\n  | weight                   = 15 lbs\n  | quest                    = The Mindsunder\n  | chest                    = Disc locked optional end chest ; <br /> Chance on every 3rd completion of [[The Mindsunder]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|a|5}}\n* {{Stability|6}}\n* {{ProtectionBonus|4}}\n* {{Resistance|4}}\n* {{DR|3}}\n* {{Mat|Adamantine|a|1}}\n* {{Mat|Mithral}}\n* {{SuppressedPower}}\n  | description              = Long ago a champion of light and a champion of darkness faced off against one another in perfect balance. Neither could defeat the other until the champion of light sacrificed herself to mortally wound her foe. In the days that followed, this item was forged from the shattered remains of their shields.\n  | crafting                 = Suppressed Power\n  | craftingupgrade          = <!-- -->\n  | pic                      = Light and Darkness shown.jpg\n  | picdesc                  = Light and Darkness.png\n  | tips                     =\n* Superior Stability and Protection are both deflection bonuses to armor, also note that Shield of Faith is also. Resistance +4 and Superior Stability are also the same type of bonus. The resultant bonuses are that if your character's alignment is True Neutral, you'll get +6 to Saves and AC, otherwise you'll get +4.\n* Post U14.1 Light and Darkness became Bound to Account on Equip. <br />\n* Unsuppressed : <br />\n[[File:Light and Darkness (unsuppressed).png|315px]]\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Mithral",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Superior Stability",
+      "tooltip": "Superior Stability: This armor grants a + 6 deflection bonus to AC and a + 6 resistance bonus to saves for characters of True Neutral alignment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Superior_Stability",
+          "title": "Superior Stability",
+          "text": "Superior Stability"
+        }
+      ]
+    },
+    {
+      "text": "Protection +4",
+      "tooltip": "Protection +4: Passive: +4 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +4"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +4",
+      "tooltip": "Resistance +4: Passive: +4 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +4"
+        }
+      ]
+    },
+    {
+      "text": "DR 3/-",
+      "tooltip": "Damage Reduction 3/-: Reduces all physical damage by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Light armor and shields made from adamantine grant their user damage reduction of 1/-.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Mithral",
+      "tooltip": "Mithral: Mithral armor is one type lighter then normal. Arcane Spell Failure decreased by 10%. Maximum dexterity bonus increased by 2. Armor check penalty reduced by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mithral",
+          "title": "Mithral",
+          "text": "Mithral"
+        }
+      ]
+    },
+    {
+      "text": "Suppressed Power",
+      "tooltip": "Suppressed Power: This psionic item is powerful, but you sense that it has not unlocked all of its secrets to you at this time.",
+      "children": [
+        {
+          "text": "Adds DR 5/Epic",
+          "tooltip": "Damage Reduction 5/Epic: Reduces physical damage by 5, except from Epic aligned attacks.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Damage_Reduction",
+              "title": "Damage Reduction",
+              "text": "DR"
+            }
+          ]
+        },
+        {
+          "text": "Adds Bashing",
+          "tooltip": "Bashing: This shield does an additional 1 to 6 damage when used to shield bash.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bashing",
+              "title": "Bashing",
+              "text": "Bashing"
+            }
+          ]
+        },
+        {
+          "text": "Becomes Bound to Character on Equip",
+          "tooltip": null,
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bind",
+              "title": "Bind",
+              "text": "Bound to Character on Equip"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Suppressed_Power",
+          "title": "Suppressed Power",
+          "text": "Suppressed Power"
+        }
+      ]
+    }
+  ]
+}

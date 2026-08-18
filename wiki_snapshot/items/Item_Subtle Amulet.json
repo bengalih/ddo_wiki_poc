@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Subtle Amulet",
+  "page_id": 39599,
+  "revision_id": 635102,
+  "revision_timestamp": "2025-04-22T04:05:29Z",
+  "fetched_at": "2026-08-17T23:07:30.970140+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Subtle Amulet\n  | type                     = Necklace\n  | race                     = Shadar-kai\n  | slot                     = Neck\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Stat|CON|1|exceptional}}\n* {{ProtectionBonus|5}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Necklace Generic Silver.png\n  | picdesc                  = Subtle Amulet.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Exceptional Constitution +1",
+      "tooltip": "Exceptional Constitution +1: This item gives the wearer improved health, granting a +1 Exceptional bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Exceptional Constitution +1"
+        }
+      ]
+    },
+    {
+      "text": "Protection +5",
+      "tooltip": "Protection +5: Passive: +5 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +5"
+        }
+      ]
+    }
+  ]
+}

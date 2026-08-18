@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Spiked Boots (historic)",
+  "page_id": 37044,
+  "revision_id": 634992,
+  "revision_timestamp": "2025-04-22T03:58:09Z",
+  "fetched_at": "2026-08-17T23:04:15.736838+00:00",
+  "categories": [],
+  "wikitext": "{{History|replaced={{Item|Spiked Boots}}}}\n{{Named item|Clothing\n  | name                     = [[Spiked Boots]]\n  | type                     = Boots\n  | class                    = Clothing\n  | basevalue                = 2,520 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 60\n  | material                 = Leather\n  | hardness                 = 15\n  | bind                     = {{Bind|no}}\n  | minlevel                 = 11\n  | quest                    = The Prison of the Planes\n  | chest                    = Risia Room Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|bal|7}}\n* {{Immunity|Slippery Surface}}\n  | description              = The heels and soles of these heavy boots are covered in metallic spikes that give its wearer excellent traction on all surfaces.\n  | pic                      = Boots Spike.png\n  | picdesc                  = Spiked Boots (Level 11).png\n}}",
+  "item_template": "History",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Balance +7",
+      "tooltip": "Balance +7: Passive: +7 Competence bonus to the Balance skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Balance",
+          "title": "Balance",
+          "text": "Balance +7"
+        }
+      ]
+    },
+    {
+      "text": "Immunity to Slippery Surfaces",
+      "tooltip": "Immunity to Slippery Surfaces: The wearer of this item is not affected when walking on slippery surfaces.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Immunity_to_Slippery_Surfaces",
+          "title": "Immunity to Slippery Surfaces",
+          "text": "Immunity to Slippery Surfaces"
+        }
+      ]
+    }
+  ]
+}

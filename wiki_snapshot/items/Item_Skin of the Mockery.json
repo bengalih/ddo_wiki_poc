@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Skin of the Mockery",
+  "page_id": 10498,
+  "revision_id": 672408,
+  "revision_timestamp": "2026-01-25T17:29:56Z",
+  "fetched_at": "2026-08-17T22:59:53.664360+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Skin of the Mockery\n  | pic                      = Handwraps Generic.png\n  | damage                   = [1d6] + 4 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Handwrap\n  | hand                     = Simple\n  | class                    = Bludgeoning\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Exotic\n  | minlevel                 = 8\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 210\n  | material                 = Flesh\n  | hardness                 = 23\n  | basevalue                = 3,203 pp\n  | weight                   = 0.50 lbs\n  | revamped                 = Update 76\n  | quest                    = Cult of the Six\n  | end reward               = yes\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement bonus|w|4}}\n* {{Bane|Human}}\n* {{Augment|Red}}\n* {{Augment|Orange}}\n  | description              = These handwraps appear to be made of flayed human flesh, and are inscribed with blasphemous sigils associated with the Mockery, a [[Deities|god]] of the Dark Six.\n  | picdesc                  = Skin of the Mockery.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Handwrap",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Human Bane",
+      "tooltip": "Human Bane: A bane weapon excels at attacking one type or subtype of creature. Against Humans, this weapon's effective enhancement bonus is +2 better than its normal enhancement bonus. It deals an extra 2 to 12 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Human Bane"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    }
+  ]
+}

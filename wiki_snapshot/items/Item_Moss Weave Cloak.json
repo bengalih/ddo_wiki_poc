@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Moss Weave Cloak",
+  "page_id": 2770,
+  "revision_id": 633586,
+  "revision_timestamp": "2025-04-22T02:23:21Z",
+  "fetched_at": "2026-08-17T22:27:52.817181+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Moss Weave Cloak\n  | type                     = Cloak\n  | slot                     = Back\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 40\n  | material                 = Leather\n  | hardness                 = 8\n  | basevalue                = 1,205 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 3\n  | quest                    = The Lost Seekers\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Save|F|3}}\n* {{Augment|Yellow}}\n  | description              = This cloak is made from stitched together pieces of moss and lichen which increases the hardiness of the wearer.\n  | tips                     = This item also exists as part of [[Veteran Status I starter item|Veteran I Starter equipment]].\n  | pic                      = Moss Weave Cloak shown.jpg\n  | picdesc                  = Moss Weave Cloak.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Fortitude Save +3",
+      "tooltip": "Fortitude Save +3: This item gives a +3 Resistance bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Fortitude Save +3"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Orb of Many Charts",
+  "page_id": 97610,
+  "revision_id": 633823,
+  "revision_timestamp": "2025-04-22T02:39:49Z",
+  "fetched_at": "2026-08-17T22:33:52.996931+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Orb of Many Charts\n  | minlevel                 = 4\n  | type                     = Orb\n  | prof                     = Magical Training\n  | sb                       = +0\n  | maxdexbonus              = 0\n  | dr                       = 0\n  | acp                      = 0\n  | asf                      = \n  | dmg                      = [1d4] + 0 Force\n  | crit                     = 19-20 / x2\n  | attackmod                = INT\n  | damagemod                = CHA\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 105\n  | material                 = Wood\n  | hardness                 = 24\n  | cost                     = 1,700 pp\n  | weight                   = 3 lbs\n  | released                 = Update 56\n  | quest                    = Treasure of Crystal Cove\n  | end reward               = \n  | turn in                  = {{CCi|silver|100}}{{CCi|golden|50}}{{CCi|pyrite|15}}{{CCi|green|300}} at [[Euphonia's Barter Box]]\n  | chest                    = \n  | enhancements             = \n* {{Enhancement bonus|o|2}}\n* {{Wizardry|63}}\n* {{Good Luck|1}}\n* {{Augment|Orange}}\n  | mythic                   = no\n  | crafting                 = \n  | description              = Folded magical charts form the heart of this magical focus.\n  | pic                      = Orb of Many Charts shown.jpg\n  | picdesc                  = Orb of Many Charts.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Magical Training",
+  "material": "Wood",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Orb Bonus",
+      "tooltip": "+2 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +2 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Orb Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry +63",
+      "tooltip": "Wizardry +63: +63 Enhancement bonus to spell points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry +63"
+        }
+      ]
+    },
+    {
+      "text": "Good Luck +1",
+      "tooltip": "Good Luck +1: This item gives a +1 Luck bonus to all saves and skill checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Good_Luck",
+          "title": "Good Luck",
+          "text": "Good Luck +1"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    }
+  ]
+}

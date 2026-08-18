@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Docent of the Crownblade",
+  "page_id": 108753,
+  "revision_id": 685120,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:36:22.610771+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Docent of the Crownblade\n  | minlevel                 = 13\n  | type                     = Docent\n  | feat                     = Docent\n  | ac                       = {{WFABonus|a=15|m=8|c=6}}\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | race                     = Warforged\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 180\n  | material                 = Crystal\n  | hardness                 = 23\n  | basevalue                = 5,250 pp\n  | weight                   = \n  | released                 = Update 69\n  | quest                    = Book Burning\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | rare                     = yes\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{HealingAmp|14||Equipment}}\n* {{HealingAmp|7||Exceptional}}\n* {{Elemental Resistance|Elemental|5|Competence}}\n* {{Skills|Linguistics|15}}\n* {{Augment|Blue}}\n* {{Augment|Sun}}\n  | crafting                 = \n  | description              = When the Echo broke off from the Crownblade, the force of its defiance manifested this docent, and shares its clarity of purpose.\n  | pic                      = Docent of the Crownblade shown.jpg\n  | picdesc                  = Docent of the Crownblade.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Crystal",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Equipment Healing Amplification +14",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +14 (Equipment bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Equipment Healing Amplification +14"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Healing Amplification +7",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +7 (Exceptional bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Exceptional Healing Amplification +7"
+        }
+      ]
+    },
+    {
+      "text": "Competence Elemental Resistance - 5",
+      "tooltip": "Competence Elemental Resistance - 5: This item provides a +5 Competence bonus to your Acid, Cold, Fire, and Electrical resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Elemental_Resistance#Inherent_Resistances",
+          "title": "Elemental Resistance",
+          "text": "Competence Elemental Resistance - 5"
+        }
+      ]
+    },
+    {
+      "text": "Linguistics 15%",
+      "tooltip": "Linguistics: This item reduced the cooldowns of your Social skills (Diplomacy, Bluff, Intimidate) by 15%. This does not stack with the Negotiator ability.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Linguistics",
+          "title": "Linguistics",
+          "text": "Linguistics"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "page_title": "Item:Green Steel Heavy Crossbow",
+  "page_id": 17594,
+  "revision_id": 666277,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:16:21.166055+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Green Steel Heavy Crossbow\n  | damage                   = 1.50[1d10] + 5 Pierce, Evil, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Heavy Crossbow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = DEX\n  | attackmod                = DEX\n  | prof                     = Simple\n  | minlevel                 = 12\n  | revamped                 = Update 76\n  | quest                    = Altar of Fecundity\n  | chest                    = [[Altar of Fecundity - Manufactured Ingredient Recipes|Manufactured Ingredient Recipes]]\n  | durability               = 135\n  | material                 = Steel\n  | hardness                 = 25\n  | basevalue                = 5,405pp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|5}}\n* {{CraftingEffects|Green Steel}}\n  | crafting                 = Green Steel\n  | craftingupgrade          = <!-- yep -->\n  | pic                      = Green Steel Heavy Crossbow shown.jpg\n  | picdesc                  = Green Steel Heavy Crossbow.png\n  | description              = A ranged weapon consisting of a small bow mounted crosswise on a heavy wooden stock. This weapon is large enough to require a winch for reloading, yet is surprisingly simple to use. \n  | tips                     = \n'''+5 Green Steel Heavy Crossbow'''\n{{Greensteel material|oot|bt|wj|ss|l}}\n}}\n[[Category:Green Steel items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Heavy Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Green Steel",
+      "tooltip": "Green Steel: This planar alloy has a greasy green-colored sheen and is favored by the Baatezu the devils of Shavarath. Green steel weapons leave terrible wounds, increasing the damage die type of the weapon and are treated as evil-aligned for the purpose of bypassing damage reduction.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Green_Steel",
+          "title": "Green Steel",
+          "text": "Green Steel"
+        }
+      ]
+    }
+  ]
+}

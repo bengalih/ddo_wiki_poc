@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Spiked Mace of the Elements",
+  "page_id": 4897,
+  "revision_id": 634993,
+  "revision_timestamp": "2025-04-22T03:58:13Z",
+  "fetched_at": "2026-08-17T23:04:26.033129+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Spiked Mace of the Elements\n  | type                     = Morningstar\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = [1d8] + 2 Pierce, Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 85\n  | material                 = Steel\n  | hardness                 = 12\n  | basevalue                = 800 pp 8 gp\n  | weight                   = 6 lbs\n  | quest                    = The Seal of Shan-To-Kor\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|2}}\n* {{Bane|Elemental|lesser}}\n* {{Augment|Red}}\n  | description              = A large Morningstar used to when carving out the Hobgoblin caves to smash Earth Elementals into bits and pieces.\n  | pic                      = Spiked Mace of the Elements shown.jpg\n  | picdesc                  = Spiked Mace of the Elements.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Morningstar",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Elemental Bane",
+      "tooltip": "Lesser Elemental Bane: A bane weapon excels at attacking one type or subtype of creature. Against Elementals, this weapon's effective enhancement bonus is +1 better than its normal enhancement bonus. It deals an extra 1 to 6 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Lesser Elemental Bane"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

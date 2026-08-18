@@ -1,0 +1,126 @@
+{
+  "page_title": "Item:Ring of the Stalker (level 7)",
+  "page_id": 42518,
+  "revision_id": 649387,
+  "revision_timestamp": "2025-07-26T19:12:37Z",
+  "fetched_at": "2026-08-17T22:46:50.656973+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = [[Ring of the Stalker]]\n  | type                     = Ring\n  | minlevel                 = 7\n  | slot                     = Finger\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 80\n  | material                 = Steel\n  | hardness                 = 9\n  | basevalue                = 2820pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Vaults of the Artificers\n  | turn in                  = Ingredients\n  | mythic                   = no\n  | enhancements             = \n{{VaultsOfTheArtificersUpgrade}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = <!--yes -->\n  | craftingnotes            = <!-- Any notes about the crafteable item -->\n  | description              = A bound Invisible Stalker makes this ring a dangerous asset for anyone striking their enemies from the shadows.\n  | pic                      = Ring of the Stalker Orb.png\n  | picdesc                  = Ring of the Stalker (Level 7).png\n  | tips                     =\n* {{Popup|Tier 2|[[Image:Ring of the Stalker (Level 7)(Tier 2).png|452 px]]|long=y}}\n* {{Popup|Tier 3|[[Image:Ring of the Stalker (Level 7)(Tier 3).png|452 px]]|long=y}}\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": "Upgradeable - Tier 1: This item is a Tier 1 upgradable item.",
+      "children": [
+        {
+          "text": "Deception +3",
+          "tooltip": "Deception +3: +3 Enhancement bonus to hit and +5 to damage for any hit that would qualify as a sneak attack.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Deception",
+              "title": "Deception",
+              "text": "Deception +3"
+            }
+          ]
+        },
+        {
+          "text": "Seeker +5",
+          "tooltip": "Seeker +5: Provides a +5 Enhancement bonus to confirm critical hits, and a +5 Enhancement bonus to critical hit damage (before multipliers are applied).",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Seeker",
+              "title": "Seeker",
+              "text": "Seeker +5"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": "Upgradeable - Tier 2: This item is a Tier 2 upgradable item.",
+      "children": [
+        {
+          "text": "Deception +3 → Insightful Deception +2",
+          "tooltip": "Deception +3: +3 Enhancement bonus to hit and +5 to damage for any hit that would qualify as a sneak attack.Insightful Deception +2: +2 Insight bonus to hit and +3 to damage for any hit that would qualify as a sneak attack.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Deception",
+              "title": "Deception",
+              "text": "Deception +3"
+            },
+            {
+              "target": "/page/Deception",
+              "title": "Deception",
+              "text": "Insightful Deception +2"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This item is a Tier 3 upgradable item.",
+      "children": [
+        {
+          "text": "Seeker +5 → Seeker +6",
+          "tooltip": "Seeker +5: Provides a +5 Enhancement bonus to confirm critical hits, and a +5 Enhancement bonus to critical hit damage (before multipliers are applied). Seeker +6: Provides a +6 Enhancement bonus to confirm critical hits, and a +6 Enhancement bonus to critical hit damage (before multipliers are applied).",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Seeker",
+              "title": "Seeker",
+              "text": "Seeker +5"
+            },
+            {
+              "target": "/page/Seeker",
+              "title": "Seeker",
+              "text": "Seeker +6"
+            }
+          ]
+        },
+        {
+          "text": "Adds Green Augment Slot",
+          "tooltip": "Blue, Green, Yellow, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Green Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

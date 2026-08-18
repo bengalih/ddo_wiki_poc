@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Cyran Guard (level 28)",
+  "page_id": 41975,
+  "revision_id": 649040,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:29:29.073916+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Cyran Guard}}\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=25|m=13|c=5}}\n  | minlevel                 = 28\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 355\n  | material                 = Steel\n  | hardness                 = 38\n  | basevalue                = 11,210 pp\n  | weight                   = 0 lbs\n  | released                 = Update 20\n  | quest                    = Brothers of the Forge\n  | chest                    = End chest (Epic Elite)\n  | enhancements             = \n* {{Enhancement bonus|a|9}}\n* {{Absorption|Elemental|20|yes}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n  | pic                      = Cyran Guard shown.jpg\n  | picdesc                  = Cyran Guard (Level 28).png\n  | description              = 'There is no greater honor than to give your life for Cyre, other than to make taking your life as punishing as possible.' <br /> - Unknown Cyran General\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Steel",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+9 Enhancement Bonus",
+      "tooltip": "+9 Enhancement Bonus: +9 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+9 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Elemental Absorption +20%",
+      "tooltip": "Elemental Absorption +20%: Passive: 20% Enhancement Bonus to Acid, Cold, Fire, Electrical, and Sonic Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Elemental Absorption +20%"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

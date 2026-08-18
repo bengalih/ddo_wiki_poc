@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Glorious Dawn (level 14)",
+  "page_id": 41137,
+  "revision_id": 649350,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:11:43.356794+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = [[Item:Glorious Dawn|Glorious Dawn]]\n  | minlevel                 = 14\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 150\n  | material                 = Gold\n  | hardness                 = 24\n  | basevalue                = 5,620pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 19\n  | quest                    = A Lesson in Deception\n  | chest                    = end chest (Heroic Normal); [[Shadow Over Wheloon]], quest chain end reward (Heroic) \n  | enhancements             = \n* {{Deathblock|iv}}\n* {{Guard|solar|iii}}\n* {{Augment|Green}}\n  | description              = A ring blessed with Amaunator's love.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Glorious Dawn (Level 14).png\n  | tips                     = \n}}\n[[Category:Shadow Over Wheloon rewards]]",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "Deathblock IV",
+      "tooltip": "Deathblock IV: Passive: 12% Enhancement Bonus to Negative Energy Absorption. In addition, you are immune to magical effects that can cause instant death.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock IV"
+        }
+      ]
+    },
+    {
+      "text": "Solar Guard III",
+      "tooltip": "Solar Guard III: When Hit in Melee: Deals 3 to 12 Light damage to your attacker.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Solar_Guard",
+          "title": "Solar Guard",
+          "text": "Solar Guard III"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

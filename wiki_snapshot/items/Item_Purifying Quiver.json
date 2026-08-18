@@ -1,0 +1,29 @@
+{
+  "page_title": "Item:Purifying Quiver",
+  "page_id": 67191,
+  "revision_id": 634069,
+  "revision_timestamp": "2025-04-22T02:56:51Z",
+  "fetched_at": "2026-08-17T22:40:42.143493+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Quiver\n  | name                     = Purifying Quiver\n  | type                     = Thin Quiver\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = \n  | material                 = None\n  | hardness                 = \n  | cost                     = 4,500pp\n  | weight                   = 1.00 lbs\n  | released                 = Update 37\n  | quest                    = Oath of Vengeance\n  | chest                    = end chest (heroic)\n  | capacity                 = 5\n  | maxstack                 = 3000\n  | enhancements             = \n* {{Burning Ammunition|1|2}}\n  | description              = While using this quiver, your ranged weapons will burn with enchanted flames.\n  | pic                      = Quiver Generic Large Wide.png\n  | picdesc                  = Purifying Quiver.png\n  | icon pic                 = \n  | notes                    = \n  | food                     = true\n}}",
+  "item_template": "Named item",
+  "material": "None",
+  "item_type": "Thin Quiver",
+  "item_class": "Quiver",
+  "slot": "Quiver",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Burning Ammunition - 1d2",
+      "tooltip": "Burning Ammunition - 1d2: On Ranged Attack: 1 to 2 Fire damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Burning_Ammunition",
+          "title": "Burning Ammunition",
+          "text": "Burning Ammunition - 1d2"
+        }
+      ]
+    }
+  ]
+}

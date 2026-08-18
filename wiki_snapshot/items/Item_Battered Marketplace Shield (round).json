@@ -1,0 +1,54 @@
+{
+  "page_title": "Item:Battered Marketplace Shield (round)",
+  "page_id": 14200,
+  "revision_id": 677538,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:09:19.323072+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Large\n  | prof                     = General\n  | minlevel                 = None\n  | bind                     = {{Bind|BtC|boa}}\n  | sb                       = +6\n  | maxdexbonus              = None\n  | dr                       = 6\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = [1d6] + 3 \n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | durability               = 165\n  | material                 = Steel\n  | hardness                 = 19\n  | basevalue                = 8,102 pp\n  | weight                   = 15 lbs\n  | released                 = Update 7\n  | quest                    = The Chronoscope\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{Skills|Haggle|3|enh|prefix=Enhanced}}\n* {{Regeneration}}\n  | description              = A depiction of a large tent is just barely visible on the surface of this rusted, battle-worn shield. Perhaps there is some way to make the image clear again by combining this shield with another Marketplace shield that is in better shape.\n  | crafting                 = Stone of Change\n  | craftingupgrade          = Enhanced Stormreach Marketplace Shield (round)\n  | pic                      = Battered Guardian Shield shown.jpg\n  | picdesc                  = Battered Marketplace Shield (round).png\n  | tips                     = You can change the appearance of the shield with the {{Item|Stormreach Marketplace Shield (round)}} from the [[DDO Store]].\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Steel",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Enhanced Haggle +3",
+      "tooltip": "Enhanced Haggle +3: Passive: +3 Enhancement bonus to the Haggle skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Haggle",
+          "title": "Haggle",
+          "text": "Enhanced Haggle +3"
+        }
+      ]
+    },
+    {
+      "text": "Regeneration",
+      "tooltip": "Regeneration: Causes the wearer to regenerate 1 hit point a minute using positive energy.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Regeneration",
+          "title": "Regeneration",
+          "text": "Regeneration"
+        }
+      ]
+    }
+  ]
+}

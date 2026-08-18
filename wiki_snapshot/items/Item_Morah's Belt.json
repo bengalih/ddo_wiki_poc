@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Morah's Belt",
+  "page_id": 11370,
+  "revision_id": 633529,
+  "revision_timestamp": "2025-04-22T02:19:36Z",
+  "fetched_at": "2026-08-17T22:26:13.393035+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Morah's Belt\n  | type                     = Belt\n  | class                    = Clothing\n  | basevalue                = 10,005 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 110\n  | material                 = Leather\n  | hardness                 = 15\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | quest                    = Bastion of Power\n  | chest                    = Any end chest ; [[Tower of Despair]], [[Nythirios]] chest\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Jump (spell)|15|3|label=Jump}}\n* {{Stat|CON|6}}\n* {{Skills|Tumble|15}}\n* {{Named item sets|Thief Acrobat}}\n  | description              = This thin leather belt is braided with scarves of many different colors. It was worn by the famous street performer Morah when she disappeared through a portal to Shavarath.\n  | pic                      = Belt Generic.png\n  | picdesc                  = Morah's Belt.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Jump — 3 Charges (Recharged/Day:3)",
+      "tooltip": "JumpCaster level: 15Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Jump_(spell)",
+          "title": "Jump (spell)",
+          "text": "Jump"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +6",
+      "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +6"
+        }
+      ]
+    },
+    {
+      "text": "Tumble +15",
+      "tooltip": "Tumble +15: Passive: +15 Competence bonus to the Tumble skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Tumble_(skill)",
+          "title": "Tumble (skill)",
+          "text": "Tumble +15"
+        }
+      ]
+    },
+    {
+      "text": "Thief Acrobat",
+      "tooltip": "Thief Acrobat: +15 to Jump, ? % chance weapons will unbalance an opponent, causing -2 to AC.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Thief_Acrobat",
+          "title": "Named item sets",
+          "text": "Thief Acrobat"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Purple Dragon Helm",
+  "page_id": 24220,
+  "revision_id": 634072,
+  "revision_timestamp": "2025-04-22T02:57:03Z",
+  "fetched_at": "2026-08-17T22:40:47.409663+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Purple Dragon Helm\n  | type                     = Helm\n  | slot                     = Head\n  | durability               = 210\n  | material                 = Dwarven Iron\n  | hardness                 = 35\n  | basevalue                = 8,005 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Eveningstar\n  | turn in                  = {{Commendation|PDK|5}}\n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CON|7}}\n* {{Stat|STR|2|Insightful}}\n* {{Skills|Intimidate|15}}\n* {{Named item sets|Knight's Loyalty}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This helmet is of the same make as those worn by the famed Purple Dragon Knights of Cormyr.\n  | pic                      = Purple Dragon Helm shown.jpg\n  | picdesc                  = Purple Dragon Helm.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Dwarven Iron",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Constitution +7",
+      "tooltip": "Constitution +7: This item gives the wearer improved health, granting a +7 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +7"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Strength +2",
+      "tooltip": "Insightful Strength +2: This item gives the wearer the power of Ogre Strength, granting a +2 Insight bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Insightful Strength +2"
+        }
+      ]
+    },
+    {
+      "text": "Intimidate +15",
+      "tooltip": "Intimidate +15: Passive: +15 Competence bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Intimidate +15"
+        }
+      ]
+    },
+    {
+      "text": "Knight's Loyalty",
+      "tooltip": "Knight's Loyalty: When all three items from the set are equipped, you will gain a +3 artifact bonus to your To-Hit and Damage rolls, and a +3 Insight bonus to Natural Armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Knight's_Loyalty",
+          "title": "Named item sets",
+          "text": "Knight's Loyalty"
+        }
+      ]
+    }
+  ]
+}

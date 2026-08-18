@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:Coalesced Coinage",
+  "page_id": 72270,
+  "revision_id": 629079,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:24:21.821809+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Coalesced Coinage\n  | minlevel                 = 6\n  | type                     = Orb\n  | race                     = \n  | damagemod                = CHA\n  | attmod                   = INT\n  | dr                       = 0\n  | acp                      = 0\n  | asf                      = 0\n  | dmg                      = [1d4] + 0\n  | dmgtype                  = Force\n  | crit                     = 19-20 / x2\n  | slot                     = Off Hand\n  | prof                     = Magical Training\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 125\n  | material                 = Platinum\n  | hardness                 = 26\n  | basevalue                = 2,500 pp\n  | weight                   = 3 lbs\n  | epic                     = no\n  | released                 = Update 39\n  | quest                    = Another Man's Treasure\n  | end reward               = <!-- Any 1 of these 3 required. Leave blank if not used-->\n  | turn in                  = <!-- Leave blank if not used-->\n  | chest                    = End chest\n  | enhancements             = \n* {{Enhancement bonus|oi|3|6}}\n* {{Stat|Charisma|4}}\n* {{Skills|Alluring|4|Insightful}}\n* {{Spell Power|Radiance|31|Insight}}\n* {{Spell Lore|Radiance|7|Insight}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This solid chunk of magically transmuted platinum could fetch quite the price, but where's the harm in showing it off?\n  | pic                      = Coalesced Coinage shown.jpg\n  | picdesc                  = Coalesced Coinage.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Magical Training",
+  "material": "Platinum",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +6",
+      "tooltip": "Spellcasting Implement +6: Passive: +6 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +6"
+        }
+      ]
+    },
+    {
+      "text": "+3 Orb Bonus",
+      "tooltip": "+3 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +3 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Orb Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +4",
+      "tooltip": "Charisma +4: This item makes the wearer have more flair, granting a +4 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +4"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Alluring Skills Bonus +4",
+      "tooltip": "Insightful Alluring Skills Bonus: +4 Insight bonus to Bluff, Diplomacy, Haggle, Intimidate, and Perform.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Skill",
+          "title": "Skill",
+          "text": "Insightful Alluring Skills Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Radiance +31",
+      "tooltip": "Insightful Radiance +31: Passive: +31 Insight bonus to Light and Alignment Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiance_(spell_boost)",
+          "title": "Radiance (spell boost)",
+          "text": "Insightful Radiance +31"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Radiance Lore +7%",
+      "tooltip": "Insightful Radiance Lore +7: Passive: Your Light and Aligned spells gain a 7% Insight bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Insightful Radiance Lore +7%"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "page_title": "Item:Tarnished Deneith Heavy Chain",
+  "page_id": 12219,
+  "revision_id": 635249,
+  "revision_timestamp": "2025-04-22T04:15:17Z",
+  "fetched_at": "2026-08-17T23:11:12.088784+00:00",
+  "categories": [],
+  "wikitext": "{{History|Item}}\n{{Named item|Armor\n  | name                     = Tarnished Deneith Heavy Chain\n  | type                     = Chainmail\n  | feat                     = Medium\n  | minlevel                 = 5\n  | ac                       = +9\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 90\n  | material                 = Steel\n  | hardness                 = 13\n  | quest                    = The Tide Turns\n  | chest                    = End Chest, End Reward\n  | basevalue                = 930 pp\n  | weight                   = 55 lbs\n  | bind                     = {{Bind|BtA|BoE}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|1}}\n* {{CraftingEffects|Unraveling Enchantments}}\n  | crafting                 = Unraveling Enchantments\n  | craftingupgrade          = Deneith Heavy Chain\n  | pic                      = Deneith Heavy Chain shown.jpg\n  | picdesc                  = Tarnished Deneith Heavy Chain.png\n  | description              = This armor is made of doubled layers of heavy chainmail that rival the protection of plate. It is typically worn by elite mercenaries serving House Deneith that prefer strength of protection over mobility, but still wish to wear medium armor. This particular suit has seen better days .\n  | notes                    = \n}}",
+  "item_template": "History",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Chainmail",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Unraveling Enchantments",
+      "tooltip": "Unraveling Enchantments: The enchantments on this item have become unstable and weakened with time, but those serving House Deneith may be able to restore it. Combine this item in Visbane's Folly atop Sentinel's Tower in House Deneith Enclave with a Sigil of the Goat, a Sigil of the Lion, and a Sigil of the Dragon to restore its original enchantments.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Unraveling_Enchantments",
+          "title": "Unraveling Enchantments",
+          "text": "Unraveling Enchantments"
+        }
+      ]
+    }
+  ]
+}

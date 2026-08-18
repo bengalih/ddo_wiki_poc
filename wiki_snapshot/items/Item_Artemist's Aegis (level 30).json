@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Artemist's Aegis (level 30)",
+  "page_id": 79191,
+  "revision_id": 628328,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:05:33.698017+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = {{Item|Artemist's Aegis}}\n  | type                     = Large\n  | prof                     = General\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 30\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +26\n  | maxdexbonus              = \n  | dr                       = 22\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = 5[1d10] + 14\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | durability               = 420\n  | material                 = Wood\n  | hardness                 = 55\n  | basevalue                = 12,404 pp\n  | weight                   = 10 lbs\n  | quest                    = Anniversary Party\n  | turn in                  = {{U30 ingredient|100}}\n  | revamped                 = Update 59\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|s|14}}\n* {{Fortification|146}}\n* {{Save|F|12}}\n* {{Save|Fort|6|Insight}}\n* {{Save|Fort|3|Quality}}\n* {{Augment|Purple}}\n  | description              = This hefty shield is quite good at blocking Kookies and errant Darts.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Artemist's Aegis shown.jpg\n  | picdesc                  = Artemist's Aegis (level 30).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Wood",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+14 Enhancement Bonus",
+      "tooltip": "+14 Enhancement Bonus: +14 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+14 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +146%",
+      "tooltip": "Fortification +146%: +146% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +146%"
+        }
+      ]
+    },
+    {
+      "text": "Fortitude Save +12",
+      "tooltip": "Fortitude Save +12: This item gives a +12 Resistance bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Fortitude Save +12"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Fortitude Save +6",
+      "tooltip": "Insightful Fortitude Save +6: This item gives a +6 Insight bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Insightful Fortitude Save +6"
+        }
+      ]
+    },
+    {
+      "text": "Quality Fortitude Save +3",
+      "tooltip": "Quality Fortitude Save +3: This item gives a +3 Quality bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Quality Fortitude Save +3"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

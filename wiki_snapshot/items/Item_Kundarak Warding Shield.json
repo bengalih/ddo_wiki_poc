@@ -1,0 +1,108 @@
+{
+  "page_title": "Item:Kundarak Warding Shield",
+  "page_id": 5710,
+  "revision_id": 631702,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:27:50.330217+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Large\n  | prof                     = General\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtC|boa}}\n  | sb                       = +10\n  | dr                       = 10\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = [1d8] + 5\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | durability               = 175\n  | material                 = Dwarven Iron\n  | hardness                 = 20\n  | basevalue                = 4,002 pp\n  | weight                   = 15 lbs\n  | quest                    = Plane of Night\n  | chest                    = Raid warded End Chest\n  | enhancements             = \n* {{Enhancement_bonus|a|5}}\n* {{Resistance|5}}\n* {{Spell Resistance|16}}\n* {{Hp|Vitality|19}}\n* {{Hp|False Life|21}}\n* {{Named item sets|Wards of House Kundarak}}\n  | description              = Very few non-dwarves have ever possessed a Kundarak Warding Shield.\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Kundarak Warding Shield\n  | pic                      = Kundarak Warding Shield shown.jpg\n  | picdesc                  = Kundarak Warding Shield.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Dwarven Iron",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +5",
+      "tooltip": "Resistance +5: Passive: +5 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +5"
+        }
+      ]
+    },
+    {
+      "text": "Spell Resistance +16",
+      "tooltip": "Spell Resistance +16: +16 Enhancement bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Spell Resistance +16"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +19",
+      "tooltip": "Vitality +19: Passive: +19 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +19"
+        }
+      ]
+    },
+    {
+      "text": "False Life +21",
+      "tooltip": "False Life +21: +21 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +21"
+        }
+      ]
+    },
+    {
+      "text": "Wards of House Kundarak",
+      "tooltip": "Wards of House Kundarak: 2 Pieces Equipped:+5% Artifact bonus to Armor Class+10 Artifact bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Wards_of_House_Kundarak",
+          "title": "Named item sets",
+          "text": "Wards of House Kundarak"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

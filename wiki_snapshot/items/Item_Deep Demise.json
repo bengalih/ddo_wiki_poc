@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Deep Demise",
+  "page_id": 64782,
+  "revision_id": 689648,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:31:36.443974+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Deep Demise\n  | damage                   = 2[1d4] + 5 Pierce, Magic, Crystal\n  | crit                     = 19-20 / x2\n  | type                     = Dagger\n  | hand                     = One-handed\n  | class                    = Piercing\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Simple\n  | durability               = 190\n  | material                 = Crystal\n  | hardness                 = 25\n  | minlevel                 = 15\n  | released                 = Update 36\n  | revamped                 = Update 76\n  | revamped2                = Update 80\n  | quest                    = Desire in the Dark\n  | chest                    = End chest\n  | basevalue                = 6000pp 2gp\n  | weight                   = 1.00 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Stat|INT|8}}\n* {{Spell Focus|Illusion|5}}\n* {{Spell Focus|Illusion|2|Insightful}}\n* {{Spellpen|2|Quality|prefix=Quality}}\n* {{Augment|Red}}\n  | description              = This wicked crystal dagger gleams with dark malevolence. A face much like yours is reflected across its surface, but unlike you it wears a wide grin.\n  | pic                      = Deep Demise shown.jpg\n  | picdesc                  = Deep Demise.png\n  | tips                     = Bug : {{Item|Mirror of Glamering|Glamers}} of this weapon do not display {{Item|Glamered Weapon Aura|cosmetic auras}}.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Intelligence +8",
+      "tooltip": "Intelligence +8: This item focuses the power of the wearer's mind, granting a +8 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +8"
+        }
+      ]
+    },
+    {
+      "text": "Illusion Focus +5",
+      "tooltip": "Illusion Focus +5: +5 Equipment bonus to the DC of Illusion spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Illusion Focus +5"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Illusion Focus +2",
+      "tooltip": "Insightful Illusion Focus +2: +2 Insight bonus to the DC of Illusion spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Illusion Focus +2"
+        }
+      ]
+    },
+    {
+      "text": "Quality Spell Penetration +2",
+      "tooltip": "Quality Spell Penetration +2: Passive: +2 Quality bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Quality Spell Penetration +2"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

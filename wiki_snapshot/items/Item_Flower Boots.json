@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Flower Boots",
+  "page_id": 83943,
+  "revision_id": 630965,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:07:34.341423+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Flower Boots\n  | type                     = Boots\n  | class                    = Clothing\n  | basevalue                = 11,601 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 390\n  | material                 = Cloth\n  | hardness                 = 49\n  | minlevel                 = 29\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = The Feywild\n  | chest                    = Feytwisted chests\n  | released                 = Update 48\n  | enhancements             = \n* {{Nymph's Healing Empowerment}}\n* {{Spelllore|Healing|21}}\n* {{SpellPower|Devotion|35|Quality}}\n* {{Elemental Resistance|elemental|45|4=1}}\n* {{Augment|Green}}\n* {{Named item sets|Eminence of Spring}}\n  | description              = {{Feytwisted}} form of {{Item|Thorn Boots}}<br/><br/>A pair of boots with living vines and calm flowers wound around them.\n  | pic                      = \n  | picdesc                  = Flower Boots.png\n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Nymph's Healing Empowerment",
+      "tooltip": "Nymph's Healing Empowerment: This soft and soothing magic empowers your ability to heal others. Your Empower Healing metamagic costs 3SP less to use.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nymph%27s_Healing_Empowerment",
+          "title": "Nymph's Healing Empowerment",
+          "text": "Nymph's Healing Empowerment"
+        }
+      ]
+    },
+    {
+      "text": "Healing Lore +21%",
+      "tooltip": "Healing Lore +21: Passive: Your Positive Energy spells gain a 21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Healing Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Quality Devotion +35",
+      "tooltip": "Quality Devotion +35: Passive: +35 Quality bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Quality Devotion +35"
+        }
+      ]
+    },
+    {
+      "text": "Elemental Resistance +45",
+      "tooltip": "Elemental Resistance +45: Passive: +45 Enhancement bonus to your Acid, Cold, Electricity, Fire, and Sonic Resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Elemental_Resistance",
+          "title": "Elemental Resistance",
+          "text": "Elemental Resistance +45"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Eminence of Spring",
+      "tooltip": "Eminence of Spring:",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Eminence_of_Spring",
+          "title": "Named item sets",
+          "text": "Eminence of Spring"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Boot Boost +1 or +3",
+      "tooltip": "Mythic Boot Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Boot Boost"
+        }
+      ]
+    }
+  ]
+}

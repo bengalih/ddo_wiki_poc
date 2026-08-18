@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Dragoncrafted Robe",
+  "page_id": 8669,
+  "revision_id": 686691,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:37:38.052998+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=item}}\n{{Named item|Armor\n  | name                     = Dragoncrafted Robe\n  | type                     = Robe\n  | feat                     = Cloth\n  | minlevel                 = 10\n  | ac                       = +4\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 65\n  | material                 = Cloth\n  | hardness                 = 8\n  | basevalue                = 3,605 pp 5 gp\n  | weight                   = 0 lbs\n  | quest                    = Dragoncraft Armor\n  | turn in                  = 10 [[Ancient Dragon Relic]]s\n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|4}}\n* {{Spell Focus|Conjuration|1}}\n* {{Wizardry|III}}\n  | pic                      = Dragoncrafted Robe shown.jpg\n  | picdesc                  = Dragoncrafted Robe.png\n  | description              = An ancient robe imbued with the power of dragons for the rare humanoids that they favored.\n  | notes                    = Turn in 10 [[Ancient Dragon Relic]]s to Horatin in [[Gianthold]].\n}}",
+  "item_template": "History",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +4",
+      "tooltip": "Armor Bonus +4: This item surrounds the wearer with an invisible but tangible field of force, granting +4 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +4"
+        }
+      ]
+    },
+    {
+      "text": "Conjuration Focus +1",
+      "tooltip": "Conjuration Focus +1: +1 Equipment bonus to the DC of Conjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Conjuration Focus +1"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry III",
+      "tooltip": "Wizardry III: This item grants the wearer +75 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry III"
+        }
+      ]
+    }
+  ]
+}

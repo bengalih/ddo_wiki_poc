@@ -1,0 +1,123 @@
+{
+  "page_title": "Item:Swashbuckler (legacy) (level 4)",
+  "page_id": 14973,
+  "revision_id": 635141,
+  "revision_timestamp": "2025-04-22T04:08:05Z",
+  "fetched_at": "2026-08-17T23:08:29.555815+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Buckler\n  | prof                     = General\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 4\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +2\n  | maxdexbonus              = \n  | dr                       = 2\n  | acp                      = 0\n  | asf                      = 0\n  | ap                       = \n  | dmg                      = [1d6] + 1\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attmod                   = STR\n  | damagemod                = STR\n  | durability               = 105\n  | material                 = Steel\n  | hardness                 = 13\n  | basevalue                = 901pp 5gp\n  | weight                   = 5 lbs\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|copper|500}}{{CCi|silver|250}}{{CCi|alabaster|15}} at [[Dusty Old Treasure of Crystal Cove]]\n  | mythic                   = no \n  | enhancements             = \n* [[Upgradeable - Tier 1]]\n** {{Enhancement bonus|a|1}}\n** {{Parrying|I}}\n** {{Doublestrike|3}}\n* [[Upgradeable - Tier 2]]\n** {{Enhancement bonus|a|1}} &rarr; {{Enhancement bonus|a|2}}\n* [[Upgradeable - Tier 3]]\n** Adds {{Guardbreaking}}\n  | crafting                 = Treasure of Crystal Cove\n  | craftingupgrade          = \n  | description              = An indispensable tool for many a pirate when dueling with a single blade. It can parry an enemy's blows effectively and even leave them open to counterattack.\n  | pic                      = Swashbuckler shown.png\n  | picdesc                  = Swashbuckler (Level 4).png\n  | tips                     = See also: {{Item|Swashbuckler}} - Full table of the Swashbuckler line\n* {{CCi|alabaster|15}}{{CCi|pyrite|30}}{{CCi|green|100}}: {{Popup|Tier 2|[[File:Swashbuckler (level 4)(tier 2).png|450 px]]|long=y}}\n* {{CCi|alabaster|50}}{{CCi|pyrite|30}}{{CCi|green|200}}{{CCi|nimble|1}}: {{Popup|Tier 3|[[File:Swashbuckler (level 4)(tier 3).png|450 px]]|long=y}}\n}}<noinclude>[[Category:Treasure of Crystal Cove legacy reward items]]</noinclude>",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Steel",
+  "item_type": "Buckler",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "+1 Enhancement Bonus",
+          "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+1 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Parrying I",
+          "tooltip": "Parrying I: Passive: +1 Insight bonus to Armor Class, +1 Insight bonus to Fortitude, Reflex, and Will Saving throws.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Parrying",
+              "title": "Parrying",
+              "text": "Parrying I"
+            }
+          ]
+        },
+        {
+          "text": "Doublestrike 3%",
+          "tooltip": "Doublestrike 3%: Passive: 3% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Doublestrike",
+              "title": "Doublestrike",
+              "text": "Doublestrike 3%"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "+1 Enhancement Bonus → +2 Enhancement Bonus",
+          "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class.+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+1 Enhancement Bonus"
+            },
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+2 Enhancement Bonus"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_2",
+          "title": "Upgradeable - Tier 2",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "Adds Guardbreaking",
+          "tooltip": "Guardbreaking: This item enables you to break an enemy's guard in between your melee attacks. On critical hits with your melee weapons, enemies will become dazed as a result.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Guardbreaking",
+              "title": "Guardbreaking",
+              "text": "Guardbreaking"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_3",
+          "title": "Upgradeable - Tier 3",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

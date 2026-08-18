@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Restored Giantcraft Breastplate",
+  "page_id": 33454,
+  "revision_id": 634209,
+  "revision_timestamp": "2025-04-22T03:06:28Z",
+  "fetched_at": "2026-08-17T22:44:27.877300+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Restored Giantcraft Breastplate\n  | type                     = Breastplate\n  | feat                     = Medium\n  | race                     = \n  | minlevel                 = 23\n  | bind                     = {{Bind|BtC|BoA}}\n  | epic                     = no\n  | ac                       = +20\n  | maxdexbonus              = 6\n  | acp                      = -2\n  | asf                      = 25%\n  | durability               = 342\n  | material                 = Adamantine\n  | hardness                 = 43\n  | basevalue                = 10,220pp\n  | weight                   = 30 lbs\n  | released                 = Update 17\n  | quest                    = Giantcraft Armor\n  | chest                    = \n  | end reward               = \n  | turn in                  = 10 [[Restored Giant Relic]]s\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|6}}\n* {{Guard|Haste}}\n* {{ArmorPiercing|15}}\n* {{RelentlessFury}}\n* {{Mat|Adamantine}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Giantcraft Breastplate shown.jpg\n  | picdesc                  = Restored Giantcraft Breastplate.png\n  | description              = A breastplate imbued with the magic of the ancient giant empire.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Adamantine",
+  "armor_type": "Breastplate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Haste Guard",
+      "tooltip": "Haste Guard: When you are hit by enemies, there is a chance you will be Hasted, quickening your attack and movement speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Haste_Guard",
+          "title": "Haste Guard",
+          "text": "Haste Guard"
+        }
+      ]
+    },
+    {
+      "text": "Armor-Piercing 15%",
+      "tooltip": "Armor-Piercing 15%: Passive: +15% Enhancement bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Armor-Piercing 15%"
+        }
+      ]
+    },
+    {
+      "text": "Relentless Fury",
+      "tooltip": "Relentless Fury: While this item is equipped, any killing blows you strike against enemies may drive you into a furious rage, providing a 5% Enhancement damage bonus to your melee, ranged and unarmed attacks for 30 seconds. Slaying weaker opponents has a reduced chance of producing this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Relentless_Fury",
+          "title": "Relentless Fury",
+          "text": "Relentless Fury"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    }
+  ]
+}

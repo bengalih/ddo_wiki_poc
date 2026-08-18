@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Blade of the High Priestess",
+  "page_id": 24440,
+  "revision_id": 671190,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:11:35.618858+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Blade of the High Priestess\n  | damage                   = 3.20[1d4] + 6 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Dagger\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Simple\n  | minlevel                 = 21\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 250\n  | material                 = Steel\n  | hardness                 = 31\n  | quest                    = The Portal Opens\n  | chest                    = End chest ; [[Menace of the Underdark: City of Portals]], Quest chain end reward\n  | revamped                 = Update 76\n  | epic                     = no\n  | basevalue                = 8400.2pp\n  | weight                   = 1.00 lbs\n  | bind                     = {{Bind|BtC|BoE}} or {{Bind|BtC|BoA}}\n  | enhancements             = \n* {{Enhancement_bonus|i|6}}\n* {{SpellPower|Potency|72}}\n* {{Paralyzing|Improved}}\n* {{Bewildering}}\n* {{Wounding}}\n* {{Slay Living}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Blade of the High Priestess shown.jpg\n  | picdesc                  = Blade of the High Priestess.png\n  | description              = This blade has been used as an implement in the working of countless dark rituals.\n  | tips                     = This item, like the others from this chain, can be acquired as an end reward for the chain as {{Bind|BtC|BoA}}.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 21,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +18",
+      "tooltip": "Spellcasting Implement +18: Passive: +18 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +18"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Potency +72",
+      "tooltip": "Potency +72: Passive: +72 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +72"
+        }
+      ]
+    },
+    {
+      "text": "Improved Paralyzing",
+      "tooltip": "Improved Paralyzing : Any creature struck by this weapon must succeed on a DC 28 Will save or be paralyzed. The target may attempt a new save to end the effect every several seconds; otherwise the paralysis lasts for 1 minute.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Improved_Paralyzing",
+          "title": "Improved Paralyzing",
+          "text": "Improved Paralyzing"
+        }
+      ]
+    },
+    {
+      "text": "Bewildering",
+      "tooltip": "Bewildering: Targets of this weapon can feel their willpower slipping away. They lose -1 Wisdom on a successful attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bewildering",
+          "title": "Bewildering",
+          "text": "Bewildering"
+        }
+      ]
+    },
+    {
+      "text": "Wounding",
+      "tooltip": "Wounding: A wounding weapon deals 1 point of Constitution damage from blood loss when it hits a creature. Creatures immune to critical hits are immune to the Constitution damage dealt by this weapon.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wounding",
+          "title": "Wounding",
+          "text": "Wounding"
+        }
+      ]
+    },
+    {
+      "text": "Slay Living",
+      "tooltip": "Slay Living: This weapon stores a dark and sinister power deep within. When the weapon is used, this power occasionally comes to the surface, attempting to instantly snuff out the life force of the enemy.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slay_Living_(enchantment)",
+          "title": "Slay Living (enchantment)",
+          "text": "Slay Living"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

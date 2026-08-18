@@ -1,0 +1,130 @@
+{
+  "page_title": "Item:Epic Locus of Vol",
+  "page_id": 48425,
+  "revision_id": 693990,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:51:58.985480+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Epic Locus of Vol\n  | minlevel                 = 27\n  | type                     = Necklace\n  | slot                     = Neck\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 280\n  | material                 = Leather\n  | hardness                 = 33\n  | basevalue                = 10,820pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | released                 = Update 23\n  | quest                    = Desecrated Temple of Vol (epic)\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Taint of Evil}}\n* {{Fearsome}}\n* {{Bloodrage}}\n* {{Manslayer}}\n* {{Hp|Vitality|40}}\n* {{Skills|Intimidate|20}}\n* {{UpgradeableAugment|Primary|0}}\n* {{UpgradeableAugment|Secondary|0}}\n  | crafting                 = Catalyst Crafting\n  | craftingupgrade          = Legendary The Blood of Demons\n  | description              = This amulet looks nearly identical to the symbol of Vol, with a vial of real blood flowing in the center. Rumors persist that these ancient amulets allowed Vol to influence her followers directly.\n  | pic                      = Necklace Generic.png\n  | picdesc                  = Epic Locus of Vol.png\n  | tips                     = {{Bug|Epic Locus of Vol uses a weapon version of {{Manslayer}} effect. It doesn't work on a necklace.}}\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "Taint of Evil",
+      "tooltip": "Taint of Evil: Good aligned characters equipping this item suffer a temporary negative level until the item is removed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Taint_of_Evil",
+          "title": "Taint of Evil",
+          "text": "Taint of Evil"
+        }
+      ]
+    },
+    {
+      "text": "Fearsome",
+      "tooltip": "Fearsome: This item causes those who strike the user to be overcome with terror, as from the Fear spell.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fearsome",
+          "title": "Fearsome",
+          "text": "Fearsome"
+        }
+      ]
+    },
+    {
+      "text": "Blood Rage",
+      "tooltip": "Blood Rage: Anytime you are hit there is a chance that you will fall into a Blood Rage. Blood Rage gives up to a +8 bonus to Strength and Constitution but will also cause short periods of lethargy when your lust for blood becomes sated.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blood_Rage",
+          "title": "Blood Rage",
+          "text": "Blood Rage"
+        }
+      ]
+    },
+    {
+      "text": "Manslayer",
+      "tooltip": "Manslayer: While wearing this item, your weapon attacks gain the devastating ability to defeat a humanoid opponent with a single decisive blow. On an attack roll of 20 which is confirmed as a critical hit a humanoid target will be killed. Powerful humanoids may resist the vorpal strike and instead take 100 points of damage until they have been sufficiently weakened.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Manslayer",
+          "title": "Manslayer",
+          "text": "Manslayer"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +40",
+      "tooltip": "Vitality +40: Passive: +40 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +40"
+        }
+      ]
+    },
+    {
+      "text": "Intimidate +20",
+      "tooltip": "Intimidate +20: Passive: +20 Competence bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Intimidate +20"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Primary Augment (Yellow Augment Slot or Blue Augment Slot)",
+      "tooltip": "Upgradeable - Primary Augment: This item can be upgraded to contain a Yellow, Blue or Red (weapons and shields only) augment. Bring this item to the Fountain of Necrotic Might outside the Black Mausoleum and combine it with Item:Epic Tapestry Shreds to upgrade the item.Yellow and ColorlessBlue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        },
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Secondary Augment (Green Augment Slot)",
+      "tooltip": "Upgradeable - Secondary Augment: This item can be upgraded to contain a Green, Orange (weapons and shields only) or Purple (weapons and shields only) augment. Bring this item to the Fountain of Necrotic Might outside the Black Mausoleum and combine it with Item:Masterwork Tapestry Shreds to upgrade the item.Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

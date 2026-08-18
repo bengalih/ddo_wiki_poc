@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Crochet Crusher",
+  "page_id": 105829,
+  "revision_id": 629228,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:28:08.909235+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Crochet Crusher\n  | minlevel                 = 4\n  | type                     = Heavy Mace\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damage                   = [1d8] + 2 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 100\n  | material                 = Cloth\n  | hardness                 = 14\n  | cost                     = 1,601 pp 2 gp\n  | weight                   = 8 lbs\n  | released                 = Update 65\n  | quest                    = Catastrophe\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Slowburst}}\n* {{Entangling Yarn}}\n* {{Impactful|2}}\n* {{Bludgeoning|2}}\n* {{Augment|Red}}\n  | crafting                 = \n  | description              = Hurts more than you'd think yarn would.\n  | pic                      = Crochet Crusher shown.jpg\n  | picdesc                  = Crochet Crusher.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Heavy Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Slowburst",
+      "tooltip": "Slowburst: This weapon has an image of a snail worked into its hilt or grip, and it feels cold to the touch. Whenever you score a critical hit with this weapon, the target is slowed for 30 seconds. A DC 15 Will save negates this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slowburst",
+          "title": "Slowburst",
+          "text": "Slowburst"
+        }
+      ]
+    },
+    {
+      "text": "Entangling Yarn",
+      "tooltip": "Entangling Yarn: Enemies struck by this weapon have a small chance to be tangled up in its enchanted yarn, becoming Entangled and preventing all movement for 9 seconds. A DC 35 Reflex Save negates this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Entangling_Yarn#Entangling_Yarn",
+          "title": "Entangling Yarn",
+          "text": "Entangling Yarn"
+        }
+      ]
+    },
+    {
+      "text": "Impactful 2",
+      "tooltip": "Impactful 2: This effect causes the edges of this weapon to ripple with force, dealing 2 to 12 force on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impactful",
+          "title": "Impactful",
+          "text": "Impactful 2"
+        }
+      ]
+    },
+    {
+      "text": "Bludgeoning 2",
+      "tooltip": "Bludgeoning 2: The edges of this weapon are blunted, dealing an additional 2d6 bludgeon damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bludgeoning",
+          "title": "Bludgeoning",
+          "text": "Bludgeoning 2"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Unfinished Elemental Platemail",
+  "page_id": 4915,
+  "revision_id": 635653,
+  "revision_timestamp": "2025-04-22T04:42:13Z",
+  "fetched_at": "2026-08-17T23:22:15.552654+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Unfinished Elemental Platemail\n  | type                     = Half Plate\n  | feat                     = Heavy\n  | race                     = \n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +9\n  | maxdexbonus              = 2\n  | acp                      = -6\n  | asf                      = 40%\n  | durability               = 76\n  | material                 = Steel\n  | hardness                 = 13\n  | basevalue                = 860 pp\n  | weight                   = 50 lbs\n  | quest                    = The Seal of Shan-To-Kor\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|2}}\n* {{Elemental Resistance|Fire|3}}\n* {{Elemental Resistance|Electric|3}}\n* {{Augment|Green}}\n  | pic                      = Unfinished Elemental Platemail shown.jpg\n  | picdesc                  = Unfinished Elemental Platemail.png\n  | description              = This suit of half-plate was discovered in an unfinished state during the raid on Shaagh Caverns. Presumably, had it been completed, it would have protected its wearer from all elemental energy.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Half Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +3",
+      "tooltip": "Fire Resistance +3: Passive: +3 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +3"
+        }
+      ]
+    },
+    {
+      "text": "Electric Resistance +3",
+      "tooltip": "Electric Resistance +3: Passive: +3 Enhancement bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Electric Resistance +3"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Nightforge Docent",
+  "page_id": 17517,
+  "revision_id": 684568,
+  "revision_timestamp": "2026-04-25T23:19:09Z",
+  "fetched_at": "2026-08-17T22:31:18.941593+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Nightforge Docent\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+12|m=+5|c=+1}}\n  | durability               = 130\n  | material                 = Adamantine\n  | hardness                 = 28\n  | basevalue                = 3,210pp\n  | weight                   = 0 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 8\n  | quest                    = A Relic of a Sovereign Past\n  | turn in                  = [[Adamantine Ore|12 Adamantine Ore]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{False Life|10}}\n* {{Augment|Blue}}\n* {{Augment|Colorless}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Docent of the Tomb shown.jpg <!-- shares same armor style&color-->\n  | picdesc                  = Nightforge Docent.png\n  | description              = Duergar engineers have fashioned several docents to reward those Warforged that have gained their favor.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Adamantine",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "False Life",
+      "tooltip": "False Life: This item grants the wearer +10 maximum health.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)#False_Life",
+          "title": "False Life (enchantment)",
+          "text": "False Life"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

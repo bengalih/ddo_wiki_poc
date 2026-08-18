@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Purple Dragon Armor",
+  "page_id": 24219,
+  "revision_id": 634070,
+  "revision_timestamp": "2025-04-22T02:56:55Z",
+  "fetched_at": "2026-08-17T22:40:44.788071+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Purple Dragon Armor\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | race                     = None\n  | ac                       = +26\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 360\n  | material                 = Dwarven Iron\n  | hardness                 = 31\n  | basevalue                = 8,150 pp\n  | weight                   = 50 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 20\n  | quest                    = Eveningstar\n  | chest                    = \n  | end reward               = \n  | turn in                  = {{Commendation|PDK|10}}\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|6}}\n* {{Fortification|heavy}}\n* {{False Life|superior}}\n* {{DR|5}}\n* {{Named item sets|Knight's Loyalty}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Purple Dragon Armor shown.jpg\n  | picdesc                  = Purple Dragon Armor.png\n  | description              = This exquisite platemail armor is of the same make as that worn by the famed Purple Dragon Knights of Cormyr. The smithies of Cormyr are renowned for the quality of their work, and equipment intended for use in service to the kingdom is layered with powerful enchantments by the War Wizards.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Dwarven Iron",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +100%",
+      "tooltip": "Fortification +100%: This suit of armor or shield produces a magical force that protects vital areas of the wearer much more effectively. When a critical hit or sneak attack is scored on the wearer, there is a 100% chance that the critical hit or sneak attack is negated and damage is instead rolled normally.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +100%"
+        }
+      ]
+    },
+    {
+      "text": "Superior False Life",
+      "tooltip": "Superior False Life: This item grants the wearer +40 maximum health.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)#Superior_False_Life",
+          "title": "False Life (enchantment)",
+          "text": "Superior False Life"
+        }
+      ]
+    },
+    {
+      "text": "DR 5/-",
+      "tooltip": "Damage Reduction 5/-: Reduces all physical damage by 5.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Knight's Loyalty",
+      "tooltip": "Knight's Loyalty: When all three items from the set are equipped, you will gain a +3 artifact bonus to your To-Hit and Damage rolls, and a +3 Insight bonus to Natural Armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Knight's_Loyalty",
+          "title": "Named item sets",
+          "text": "Knight's Loyalty"
+        }
+      ]
+    }
+  ]
+}

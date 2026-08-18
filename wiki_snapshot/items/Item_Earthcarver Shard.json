@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Earthcarver Shard",
+  "page_id": 25050,
+  "revision_id": 671183,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:41:20.643994+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Earthcarver Shard\n  | sentience                = no\n  | damage                   = 2[1d4] + 6 Pierce, Epic, Magic\n  | crit                     = 19-20 / x3\n  | type                     = Dagger\n  | hand                     = One-handed\n  | class                    = Piercing\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | minlevel                 = 20\n  | prof                     = Simple\n  | durability               = 240\n  | material                 = Glass\n  | hardness                 = 30\n  | quest                    = In the Belly of the Beast\n  | chest                    = Special quest only temporary weapon\n  | revamped                 = Update 76\n  | epic                     = no\n  | basevalue                = 8000pp 2gp\n  | weight                   = 1 lbs\n  | bind                     = {{Bind|no|drops=both}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|6}}\n* {{Incandescence}}\n* {{Bane|ooze}}\n* {{Bane|aberration}}\n* {{Bane|magical beast}}\n* {{Acidic Reaping}}\n  | crafting                 = \n  | craftingupgrade          = \n  | craftingnotes            = \n  | pic                      = Earthcarver Shard shown.jpg\n  | picdesc                  = Earthcarver Shard.png\n  | description              = This appears to be merely the broken shard of a much more powerful implement. Nevertheless, it's extremely effective against purple worms and the digestive slimes that inhabit their stomachs.\n  | tips                     = This is an in-quest only item. You need to gather all pieces to form an {{Item|Earthcarver}} to finish the quest. \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Incandescence",
+      "tooltip": "Incandescence: This weapon glows with the light of Irian. This weapon deals an extra 1 to 6 points of light damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incandescence",
+          "title": "Incandescence",
+          "text": "Incandescence"
+        }
+      ]
+    },
+    {
+      "text": "Ooze Bane",
+      "tooltip": "Ooze Bane: A bane weapon excels at attacking one type or subtype of creature. Against Oozes, this weapon's effective enhancement bonus is +2 better than its normal enhancement bonus. It deals an extra 2 to 12 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Ooze Bane"
+        }
+      ]
+    },
+    {
+      "text": "Aberration Bane",
+      "tooltip": "Aberration Bane: A bane weapon excels at attacking one type or subtype of creature. Against Aberrations, this weapon's effective enhancement bonus is +2 better than its normal enhancement bonus. It deals an extra 2 to 12 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Aberration Bane"
+        }
+      ]
+    },
+    {
+      "text": "Magical Beast Bane",
+      "tooltip": "Magical Beast Bane: A bane weapon excels at attacking one type or subtype of creature. Against Magical Beasts, this weapon's effective enhancement bonus is +2 better than its normal enhancement bonus. It deals an extra 2 to 12 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Magical Beast Bane"
+        }
+      ]
+    },
+    {
+      "text": "Acidic Reaping",
+      "tooltip": "Acidic Reaping: While this item is equipped, any killing blows you strike against enemies grants you 40 Acid resistance for 30 seconds. Slaying weaker opponents has a reduced chance of producing this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Acidic_Reaping",
+          "title": "Acidic Reaping",
+          "text": "Acidic Reaping"
+        }
+      ]
+    }
+  ]
+}

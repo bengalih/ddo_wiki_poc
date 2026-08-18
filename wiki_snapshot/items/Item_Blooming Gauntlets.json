@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Blooming Gauntlets",
+  "page_id": 113767,
+  "revision_id": 689433,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:12:31.266858+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Blooming Gauntlets\n  | type                     = Gloves\n  | class                    = Clothing\n  | slot                     = Hand\n  | durability               = 150\n  | material                 = Leather\n  | hardness                 = 25\n  | basevalue                = 2,001 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 5\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Toil and Trouble\n  | chest                    = end chest\n  | epic                     = no\n  | released                 = Update 73\n  | revamped                 = Update 80\n  | mythic                   = \n  | enhancements             = \n* {{Spell Focus|Conjuration|3}}\n* {{Spellpen|2|Insight|prefix=Insightful}}\n* {{Undying|50}}\n* {{Hp|Profane Lifeforce|12}}\n* {{Augment|Yellow}}\n* {{Augment|Moon}}\n  | description              = \n  | pic                      = \n  | picdesc                  = Blooming Gauntlets.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Conjuration Focus +3",
+      "tooltip": "Conjuration Focus +3: +3 Equipment bonus to the DC of Conjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Conjuration Focus +3"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Spell Penetration +2",
+      "tooltip": "Insightful Spell Penetration +2: Passive: +2 Insight bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Insightful Spell Penetration +2"
+        }
+      ]
+    },
+    {
+      "text": "Undying +50",
+      "tooltip": "Undying +50: Bound to service beyond death, you gain a +50 Enhancement bonus to your Incapacitation range.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Undying",
+          "title": "Undying",
+          "text": "Undying +50"
+        }
+      ]
+    },
+    {
+      "text": "Profane Lifeforce +12",
+      "tooltip": "Profane Lifeforce +12: +12 Profane bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hit_Point",
+          "title": "Hit Point",
+          "text": "Profane Lifeforce +12"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Moon Augment Slot",
+      "tooltip": "Moon",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Moon Augment Slot"
+        }
+      ]
+    }
+  ]
+}

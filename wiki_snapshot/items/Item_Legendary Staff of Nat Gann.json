@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Legendary Staff of Nat Gann",
+  "page_id": 91331,
+  "revision_id": 632975,
+  "revision_timestamp": "2025-04-22T01:42:10Z",
+  "fetched_at": "2026-08-17T22:09:54.807140+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Staff of Nat Gann\n  | minlevel                 = 30\n  | type                     = Quarterstaff\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = Two-handed\n  | damage                   = 5[1d6+6] + 15 Bludgeon, Silver, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 380\n  | material                 = Silver\n  | hardness                 = 38\n  | cost                     = 12,018 pp 1 cp\n  | weight                   = 4 lbs\n  | released                 = Update 50\n  | quest                    = Legendary Crafting\n  | legendary                = Epic Staff of Nat Gann\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | mythic                   = yes\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Dodge|14}}\n* {{Stat|Dexterity|14}}\n* {{Deception|11}}\n* {{Seeker|14}}\n* {{Mat|Silver}}, Alchemical\n* {{Augment|Red}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | description              = This weapon once belonged to the famed performer Nat Gann. Though he remains lost to time, his staff lives on in his memory, and is an ideal tool for the aspiring acrobat.\n  | pic                      = Staff of Nat Gann shown.jpg \n  | picdesc                  = Legendary Staff of Nat Gann.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Dodge +14%",
+      "tooltip": "Dodge +14%: +14% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +14%"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +14",
+      "tooltip": "Dexterity +14: This item makes the wearer more nimble and dexterous, granting a +14 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +14"
+        }
+      ]
+    },
+    {
+      "text": "Deception +11",
+      "tooltip": "Deception +11: +11 Enhancement bonus to hit and +17 to damage for any hit that would qualify as a sneak attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Deception +11"
+        }
+      ]
+    },
+    {
+      "text": "Seeker +14",
+      "tooltip": "Seeker +14: Provides a +14 Enhancement bonus to confirm critical hits, and a +14 Enhancement bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Seeker +14"
+        }
+      ]
+    },
+    {
+      "text": "Silver , Alchemical",
+      "tooltip": "Silver: A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as devils and vampires. Silver weapons have 2 points lower hardness then equivalent steel weapons, and as such aren't quite as durable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Silver",
+          "title": "Silver",
+          "text": "Silver"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Shrunken Head",
+  "page_id": 4861,
+  "revision_id": 634735,
+  "revision_timestamp": "2025-04-22T03:41:17Z",
+  "fetched_at": "2026-08-17T22:58:02.200063+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Shrunken Head\n  | slot                     = Neck\n  | minlevel                 = 9\n  | type                     = Necklace\n  | bind                     = {{Bind|BtA|boa}}\n  | durability               = 100\n  | material                 = Leather\n  | hardness                 = 14\n  | basevalue                = 3620 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Cult of the Six\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Resistance|3}}\n* {{Augment|Yellow}}\n  | description              = A gruesome artifact worn about the neck on a leather cord.\n  | pic                      = Necklace Generic Silver.png\n  | picdesc                  = Shrunken Head.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Resistance +3",
+      "tooltip": "Resistance +3: Passive: +3 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +3"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

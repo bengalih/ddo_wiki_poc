@@ -1,0 +1,198 @@
+{
+  "page_title": "Item:Mournlode Chain (level 12)",
+  "page_id": 58444,
+  "revision_id": 633593,
+  "revision_timestamp": "2025-04-22T02:23:49Z",
+  "fetched_at": "2026-08-17T05:50:19.140139+00:00",
+  "categories": [],
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Chainmail",
+  "item_kind": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": "Upgradeable - Tier 1: This item is a Tier 1 upgradable item.",
+      "children": [
+        {
+          "text": "+3 Enhancement Bonus",
+          "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+3 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Protection +5",
+          "tooltip": "Protection +5: Passive: +5 Deflection bonus to Armor Class.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Protection",
+              "title": "Protection",
+              "text": "Protection +5"
+            }
+          ]
+        },
+        {
+          "text": "Resistance +5",
+          "tooltip": "Resistance +5: Passive: +5 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Resistance_(enchantment)",
+              "title": "Resistance (enchantment)",
+              "text": "Resistance +5"
+            }
+          ]
+        },
+        {
+          "text": "Undead Guard +3",
+          "tooltip": "Undead Guard +3: Chance to deal 3d8 Good damage to undead when hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Guards",
+              "title": "Guards",
+              "text": "Undead Guard"
+            }
+          ]
+        },
+        {
+          "text": "Protection from Evil",
+          "tooltip": "Protection from Evil: Passive: You gain the benefit of the spell Protection from Evil.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Protection_from_Evil",
+              "title": "Protection from Evil",
+              "text": "Protection from Evil"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": "Upgradeable - Tier 2: This item is a Tier 2 upgradable item.",
+      "children": [
+        {
+          "text": "+3 Enhancement Bonus → +4 Enhancement Bonus",
+          "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+3 Enhancement Bonus"
+            },
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+4 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Protection +5 → Protection +6",
+          "tooltip": "Protection +5: Passive: +5 Deflection bonus to Armor Class.Protection +6: Passive: +6 Deflection bonus to Armor Class.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Protection",
+              "title": "Protection",
+              "text": "Protection +5"
+            },
+            {
+              "target": "/page/Protection",
+              "title": "Protection",
+              "text": "Protection +6"
+            }
+          ]
+        },
+        {
+          "text": "Resistance +5 → Resistance +6",
+          "tooltip": "Resistance +5: Passive: +5 Resistance bonus to Fortitude, Reflex, and Will Saving Throws. Resistance +6: Passive: +6 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Resistance_(enchantment)",
+              "title": "Resistance (enchantment)",
+              "text": "Resistance +5"
+            },
+            {
+              "target": "/page/Resistance_(enchantment)",
+              "title": "Resistance (enchantment)",
+              "text": "Resistance +6"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This item is a Tier 3 upgradable item.",
+      "children": [
+        {
+          "text": "Undead Guard +3 → Undead Guard +4",
+          "tooltip": "Undead Guard +3: Chance to deal 3d8 Good damage to undead when hit.Undead Guard +4: Chance to deal 4d8 Good damage to undead when hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Guards",
+              "title": "Guards",
+              "text": "Undead Guard"
+            },
+            {
+              "target": "/page/Guards",
+              "title": "Guards",
+              "text": "Undead Guard"
+            }
+          ]
+        },
+        {
+          "text": "Adds Green Augment Slot",
+          "tooltip": "Blue, Green, Yellow, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Green Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ],
+  "item_class": "Armor",
+  "item_template": ""
+}

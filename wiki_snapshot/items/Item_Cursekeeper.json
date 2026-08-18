@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Cursekeeper",
+  "page_id": 68863,
+  "revision_id": 629275,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:29:12.812049+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Cursekeeper\n  | minlevel                 = 14\n  | type                     = Trinket\n  | race                     = \n  | slot                     = Trinket\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 240\n  | material                 = Steel\n  | hardness                 = 34\n  | cost                     = 5601pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | released                 = Update 38\n  | quest                    = The Age of Rage\n  | end reward               = \n  | turn in                  = \n  | chest                    = End chest\n  | enhancements             = \n* {{HealingAmp|15|n|Insight}}\n* {{Elemental Resistance|Light|13|Insightful}} \n* {{Hp|Vitality|24}}\n* {{Magical Efficiency|10}}\n* {{Augment|Green}}\n* {{Named item sets|Curse Necromancer}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = The red stone in the center of this small treasure houses unspeakable death.\n  | pic                      = Trinket_Geneic_Heartstone.png\n  | picdesc                  = Cursekeeper.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "Insightful Negative Amplification +15",
+      "tooltip": "Negative Amplification: This effect amplifies all incoming negative energy healing by +15 (Insight bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Amplification",
+          "title": "Negative Amplification",
+          "text": "Insightful Negative Amplification +15"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Light Resistance +13",
+      "tooltip": "Insightful Light Resistance +13: Passive: +13 Insight bonus to your Light Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Light_Resistance",
+          "title": "Light Resistance",
+          "text": "Insightful Light Resistance +13"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +24",
+      "tooltip": "Vitality +24: Passive: +24 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +24"
+        }
+      ]
+    },
+    {
+      "text": "Magical Efficiency 10%",
+      "tooltip": "Magical Efficiency 10%: You take a 10% Enhancement discount to the Spell Point cost of your spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magical_Efficiency",
+          "title": "Magical Efficiency",
+          "text": "Magical Efficiency 10%"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Curse Necromancer",
+      "tooltip": "Curse Necromancer: 2 Pieces Equipped:+5 Artifact bonus to Negative Amplification.Whenever you cast a Negative or Poison spell, you have a chance to apply a stack of Dreadful Curse, reducing the enemy's fortitude by 1. This can stack up to 3 times, and each stack lasts 30 seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Curse_Necromancer",
+          "title": "Named item sets",
+          "text": "Curse Necromancer"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Trinket Boost +1 or +3",
+      "tooltip": "Mythic Trinket Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Trinket Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Legendary Thief's Escape",
+  "page_id": 105842,
+  "revision_id": 633076,
+  "revision_timestamp": "2025-04-22T01:48:54Z",
+  "fetched_at": "2026-08-17T22:12:48.648670+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Legendary Thief's Escape\n  | minlevel                 = 32\n  | type                     = Boots\n  | cost                     = 12,801 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 420\n  | material                 = Leather\n  | hardness                 = 52\n  | released                 = Update 65\n  | quest                    = Catastrophe\n  | chest                    = End chest\n  | enhancements             = \n* {{Speed|30}}\n* {{Stat|Dexterity|14}}\n* {{Concealment|Lesser Displacement}}\n* {{Save|Reflex|12}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n  | epic                     = no\n  | legendary                = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = For when one must go quickly.\n  | pic                      = \n  | picdesc                  = Legendary Thief's Escape.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 32,
+  "enchantments": [
+    {
+      "text": "Speed +30%",
+      "tooltip": "Speed +30%: +30% enhancement bonus to movement speed, 15% bonus to attack speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Speed",
+          "title": "Speed",
+          "text": "Speed +30%"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +14",
+      "tooltip": "Dexterity +14: This item makes the wearer more nimble and dexterous, granting a +14 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +14"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Displacement",
+      "tooltip": "Lesser Displacement: Equipping this item causes light to distort around you. Attacks from enemies have a 25% chance to miss you due to concealment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lesser_Displacement",
+          "title": "Lesser Displacement",
+          "text": "Lesser Displacement"
+        }
+      ]
+    },
+    {
+      "text": "Reflex Save +12",
+      "tooltip": "Reflex Save +12: This item gives a +12 Resistance bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save +12"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Boot Boost +1 or +3",
+      "tooltip": "Mythic Boot Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Boot Boost"
+        }
+      ]
+    }
+  ]
+}

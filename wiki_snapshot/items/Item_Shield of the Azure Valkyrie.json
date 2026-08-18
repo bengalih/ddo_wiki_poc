@@ -1,0 +1,102 @@
+{
+  "page_title": "Item:Shield of the Azure Valkyrie",
+  "page_id": 15708,
+  "revision_id": 634639,
+  "revision_timestamp": "2025-04-22T03:34:53Z",
+  "fetched_at": "2026-08-17T22:55:37.379506+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Tower\n  | prof                     = Tower\n  | minlevel                 = None\n  | bind                     = {{Bind|no|drops=both}} (Part 1) \n  | sb                       = +15\n  | maxdexbonus              = 2\n  | dr                       = 15\n  | acp                      = -9\n  | asf                      = 50\n  | dmg                      = [1d12] + 5\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | durability               = 170\n  | material                 = Dwarven Iron\n  | hardness                 = 17\n  | basevalue                = 4,904pp 5gp\n  | weight                   = 50 lbs\n  | quest                    = The Shroud\n  | chest                    = phase 1\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|s|5}}\n* {{Armor Mastery|2}}\n* {{ItemGrantedFeat|Tower Shield}}\n* {{Deathblock}}\n* {{Fortification|100}}\n* {{Regeneration}}\n* {{TrueSeeing}}\n  | description              = This shield was taken from the body of the Azure Valkyrie, a great heroine of legend.\n  | pic                      = Shield of the Azure Valkyrie shown.jpg\n  | picdesc                  = Shield of the Azure Valkyrie.png\n  | tips                     = This is an in-quest only item and drops upon leaving part 1 of the adventure. \n}}\n[[Category:Weapons that grant their own proficiency]]",
+  "item_template": "Named item",
+  "proficiency_class": "Tower Shield Proficiency",
+  "material": "Dwarven Iron",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Armor Mastery +2",
+      "tooltip": "Armor Mastery +2: Passive: +2 Enhancement bonus to the Max Dex Bonus of your equipped light, medium, or heavy armor. This benefit does not apply to the Max Dex Bonus of a Tower Shield.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Mastery",
+          "title": "Armor Mastery",
+          "text": "Armor Mastery +2"
+        }
+      ]
+    },
+    {
+      "text": "Shield Proficiency: Tower Shield",
+      "tooltip": "Shield Proficiency: Tower Shield: While equipped this item grants the feat Shield Proficiency: Tower Shields.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Tower_Shield_Proficiency",
+          "title": "Tower Shield Proficiency",
+          "text": "Shield Proficiency: Tower Shield"
+        }
+      ]
+    },
+    {
+      "text": "Deathblock",
+      "tooltip": "Deathblock: The wearer of this item is immune to all death spells and magical death effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +100%",
+      "tooltip": "Fortification +100%: +100% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +100%"
+        }
+      ]
+    },
+    {
+      "text": "Regeneration",
+      "tooltip": "Regeneration: Causes the wearer to regenerate 1 hit point a minute using positive energy.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Regeneration",
+          "title": "Regeneration",
+          "text": "Regeneration"
+        }
+      ]
+    },
+    {
+      "text": "True Seeing",
+      "tooltip": "True Seeing: Passive: You gain the benefit of the spell True Seeing.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/True_Seeing_(enchantment)",
+          "title": "True Seeing (enchantment)",
+          "text": "True Seeing"
+        }
+      ]
+    }
+  ]
+}

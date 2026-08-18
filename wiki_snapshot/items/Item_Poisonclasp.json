@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Poisonclasp",
+  "page_id": 78028,
+  "revision_id": 690854,
+  "revision_timestamp": "2026-07-01T07:09:51Z",
+  "fetched_at": "2026-08-17T22:39:00.612010+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Poisonclasp\n  | minlevel                 = 21\n  | type                     = Necklace\n  | race                     = \n  | slot                     = Neck\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 310\n  | material                 = Steel\n  | hardness                 = 41\n  | basevalue                = 8,401 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Treasure Hunt\n  | released                 = Update 44\n  | revamped                 = Update 80\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n*{{Spell Focus|Transmutation|6}}\n*{{Spell Focus|Conjuration|6}}\n*{{SpellPower|Nullification|57|Insightful}}\n*{{SpellPower|Nullification|28|Quality}}\n*{{Augment|Green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = It has a subtle snakeskin pattern.\n  | pic                      = Cracked Core orb.png\n  | picdesc                  = Poisonclasp.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 21,
+  "enchantments": [
+    {
+      "text": "Transmutation Focus +6",
+      "tooltip": "Transmutation Focus +6: +6 Equipment bonus to the DC of Transmutation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Transmutation Focus +6"
+        }
+      ]
+    },
+    {
+      "text": "Conjuration Focus +6",
+      "tooltip": "Conjuration Focus +6: +6 Equipment bonus to the DC of Conjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Conjuration Focus +6"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Nullification +57",
+      "tooltip": "Insightful Nullification +57: Passive: +57 Insightful bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Insightful Nullification +57"
+        }
+      ]
+    },
+    {
+      "text": "Quality Nullification +28",
+      "tooltip": "Quality Nullification +28: Passive: +28 Quality bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Quality Nullification +28"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

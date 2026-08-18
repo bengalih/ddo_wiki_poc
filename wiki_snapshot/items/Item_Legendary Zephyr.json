@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Zephyr",
+  "page_id": 92747,
+  "revision_id": 647436,
+  "revision_timestamp": "2025-06-28T21:37:36Z",
+  "fetched_at": "2026-08-17T22:16:18.792371+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Zephyr\n  | minlevel                 = 30\n  | type                     = Short Sword\n  | class                    = Piercing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = 5[1d6+2] + 15 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 355\n  | material                 = Steel\n  | hardness                 = 40\n  | cost                     = 12,001 pp\n  | weight                   = 2 lbs\n  | released                 = Update 51\n  | quest                    = Legendary Crafting\n  | legendary                = Epic Zephyr\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Destruction|Improved}}\n* {{Blast|Shocking|6}}\n* {{Concealment|Lesser Displacement}}\n* {{Doublestrike|15}}\n* {{Named item sets|The Legendary Desert's Writhing Storm}}\n* {{Augment|Red}}\n  | crafting                 = \n  | description              = A fine steel shortsword containing a bound air elemental. The elemental fights against those that try to wield it with brute force.\n  | pic                      = Zephyr shown.jpg\n  | picdesc                  = Legendary Zephyr.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Short Sword",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Improved Destruction",
+      "tooltip": "Improved Destruction: On Hit: Your target gains a stack of Armor Destruction. (-1 penalty to Armor Class, -1% of its Fortification. 20 Second Duration. Stacks up to 15 times.) This effect may trigger once every second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Improved_Destruction",
+          "title": "Improved Destruction",
+          "text": "Improved Destruction"
+        }
+      ]
+    },
+    {
+      "text": "Shocking Blast 6",
+      "tooltip": "Shocking Blast 6: This weapon arcs with deadly electricity, dealing 6d6 Electric damage on a successful hit, and an additional 6d6 Electric damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Shocking Blast 6"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Displacement",
+      "tooltip": "Lesser Displacement: Equipping this item causes light to distort around you. Attacks from enemies have a 25% chance to miss you due to concealment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lesser_Displacement",
+          "title": "Lesser Displacement",
+          "text": "Lesser Displacement"
+        }
+      ]
+    },
+    {
+      "text": "Doublestrike 15%",
+      "tooltip": "Doublestrike 15%: Passive: 15% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 15%"
+        }
+      ]
+    },
+    {
+      "text": "The Legendary Desert's Writhing Storm",
+      "tooltip": "The Legendary Desert's Writhing Storm: 2 Pieces Equipped:+6% Artifact bonus to Electric Spellcrit Chance+30 Artifact bonus to Electric Spellpower+30 Artifact bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Legendary_Desert's_Writhing_Storm",
+          "title": "Named item sets",
+          "text": "The Legendary Desert's Writhing Storm"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

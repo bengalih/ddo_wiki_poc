@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Epic Ornamented Dagger (level 24)",
+  "page_id": 71333,
+  "revision_id": 671198,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:52:55.299528+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Ornamented Dagger|Epic Ornamented Dagger}}\n  | damage                   = 3.80[1d4] + 7 Pierce, Magic\n  | crit                     = 19-20 / x2 \n  | type                     = Dagger\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Piercing\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 24\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 280\n  | material                 = Steel\n  | hardness                 = 34\n  | cost                     = 9,600pp 2gp\n  | weight                   = 1.00 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Treasure of Crystal Cove \n  | chest                    = \n  | end reward               = \n  | turn in                  = various ingredients at [[Euphonia's Barter Box]]\n  | revamped                 = Update 76\n  | epic                     = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|7|24}}\n* {{Skills|Concentration|18}}\n* {{SpellPower|Potency|84}}\n* {{Spelllore|Spell|10}}\n* {{Clicky|Lesser Maximize|12|3}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A dagger set with precious gems, each of which are enchanted with spell-enhancing magic. Most likely it was seized from nobles by a band of pirates as part of their pillaging.\n  | pic                      = Ornamented Dagger shown.jpg\n  | picdesc                  = Epic Ornamented Dagger (level 24).png\n  | tips                     = \n}}<noinclude>[[Category:Treasure of Crystal Cove epic items]]</noinclude>",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +24",
+      "tooltip": "Spellcasting Implement +24: Passive: +24 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +24"
+        }
+      ]
+    },
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Concentration +18",
+      "tooltip": "Concentration +18: Passive: +18 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +18"
+        }
+      ]
+    },
+    {
+      "text": "Potency +84",
+      "tooltip": "Potency +84: Passive: +84 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +84"
+        }
+      ]
+    },
+    {
+      "text": "Spell Lore +10",
+      "tooltip": "Spell Lore 10: Passive: All of your spells gain a 10% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Spell Lore +10"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Maximize — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Lesser MaximizeCaster level: 12Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lesser_Maximize",
+          "title": "Lesser Maximize",
+          "text": "Lesser Maximize"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    }
+  ]
+}

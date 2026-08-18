@@ -1,0 +1,128 @@
+{
+  "page_title": "Item:Legendary Lamordian Vest",
+  "page_id": 119124,
+  "revision_id": 685393,
+  "revision_timestamp": "2026-05-06T13:15:28Z",
+  "fetched_at": "2026-08-17T21:56:44.147736+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Lamordian Vest\n  | minlevel                 = 34\n  | type                     = Light Armor\n  | feat                     = Light\n  | ac                       = +49\n  | maxdexbonus              = 20\n  | acp                      = \n  | asf                      = 10%\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 612\n  | material                 = Leather\n  | hardness                 = 42\n  | basevalue                = 13,650 pp\n  | weight                   = 15 lbs\n  | released                 = Update 75\n  | quest                    = The Proper Authorities\n  | end reward               = \n  | turn in                  = \n  | chest                    = optional chest\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Ghostly|Enhanced}}\n* {{Fortification|159}}\n* {{Lamordia Slot|Melancholic|Armor}}\n* {{Lamordia Slot|Dolorous|Armor}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n* {{Augment|Sun}}\n  | crafting                 = Viktranium Experiment crafting\n  | description              = Timeless style, meant to protect from the bitter colds.\n  | pic                      = Lamordian Vest shown.jpg\n  | picdesc                  = Legendary Lamordian Vest.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Light Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 34,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Enhanced Ghostly",
+      "tooltip": "Enhanced Ghostly: Equipping this item causes you to become partially incorporeal. Your melee attacks do not roll a miss chance for Incorporeal targets. Enemy attacks have a 15% chance to miss you due to incorporeality. You receive a +5 enhancement bonus to your Hide and Move Silently skills.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostly",
+          "title": "Ghostly",
+          "text": "Enhanced Ghostly"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +159%",
+      "tooltip": "Fortification +159%: +159% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +159%"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Melancholic Slot (Armor)",
+      "tooltip": "Lamordia: Melancholic Slot (Armor):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Melancholic Slot (Armor)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Dolorous Slot (Armor)",
+      "tooltip": "Lamordia: Dolorous Slot (Armor):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Dolorous Slot (Armor)"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

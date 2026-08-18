@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:Legendary Smash 'n Grabber",
+  "page_id": 91683,
+  "revision_id": 632953,
+  "revision_timestamp": "2025-04-22T01:40:21Z",
+  "fetched_at": "2026-08-17T22:09:14.849898+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Legendary Smash 'n Grabber\n  | minlevel                 = 30\n  | type                     = Small\n  | prof                     = General\n  | sb                       = +19\n  | maxdexbonus              = None\n  | dr                       = 19\n  | acp                      = 0\n  | asf                      = 5\n  | dmg                      = 5[1d8+6] + 15 Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 420\n  | material                 = Steel\n  | hardness                 = 55\n  | cost                     = 12,404 pp\n  | weight                   = 5 lbs\n  | released                 = Update 50\n  | quest                    = What Sleeps Below\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest, or [[Legendary Crafting|Legendary version]] of {{Item|Epic Smash 'n Grabber}}\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Shield Bashing|+=21}}\n* {{Bludgeoning|6}}\n* {{Riposte|6}}\n* {{Parrying|6}}\n* {{Named item sets|Legendary Saltmarsh Explorer}}\n* {{Augment|Red}}\n  | crafting                 = \n  | description              = Made of wood and Saltiron, this small shield still allows the kind of mobility needed to get one's prize… and then get out.\n  | pic                      = Smash 'n Grabber shown.png\n  | picdesc                  = Legendary Smash 'n Grabber.png\n  | tips                     = Riposte and Parrying do not stack.\n}}\n[[Category:Legendary items]]\n[[C:Legendary small shields]]",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Steel",
+  "item_type": "Small Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Shield Bashing +21",
+      "tooltip": "Shield Bashing +21: +21 Enhancement bonus to Increased chance of Secondary Shield Bash.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bashing",
+          "title": "Shield Bashing",
+          "text": "Shield Bashing +21"
+        }
+      ]
+    },
+    {
+      "text": "Bludgeoning 6",
+      "tooltip": "Bludgeoning 6: The edges of this weapon are blunted, dealing an additional 6d6 bludgeon damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bludgeoning",
+          "title": "Bludgeoning",
+          "text": "Bludgeoning 6"
+        }
+      ]
+    },
+    {
+      "text": "Riposte +6",
+      "tooltip": "Riposte +6: This item enchants its user with incredible awareness and speed, granting a +6 Insight bonus to AC and to Saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Riposte",
+          "title": "Riposte",
+          "text": "Riposte +6"
+        }
+      ]
+    },
+    {
+      "text": "Parrying +6",
+      "tooltip": "Parrying +6: +6 Insight bonus to Armor Class, +6 Insight bonus to Saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Parrying",
+          "title": "Parrying",
+          "text": "Parrying +6"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Saltmarsh Explorer",
+      "tooltip": "Legendary Saltmarsh Explorer: 5 Pieces Equipped:+30 Artifact bonus to Physical and Magical Resistance Rating+15 Artifact bonus to Melee, Ranged, and Universal Spell Power+3 Artifact bonus to all Ability Scores+30 Artifact Bonus to Positive, Negative, and Repair Amplification",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Legendary_Saltmarsh_Explorer",
+          "title": "Named item sets",
+          "text": "Legendary Saltmarsh Explorer"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

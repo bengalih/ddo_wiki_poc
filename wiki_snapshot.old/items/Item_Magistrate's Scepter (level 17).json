@@ -1,0 +1,228 @@
+{
+  "page_title": "Item:Magistrate's Scepter (level 17)",
+  "page_id": 41234,
+  "revision_id": 649524,
+  "revision_timestamp": "2025-07-26T19:12:41Z",
+  "fetched_at": "2026-08-17T05:44:47.620202+00:00",
+  "categories": [],
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Heavy Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 17,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Axiomatic II",
+      "tooltip": "Axiomatic II: On Hit: 2 to 8 Law damage. Law-aligned creatures are immune to this effect.Penalty: If equipped by a Chaotic user, they receive 1 Negative Level for as long as this item is equipped.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Axiomatic II"
+        }
+      ]
+    },
+    {
+      "text": "One of the following:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "Dazing V",
+          "tooltip": "Dazing V: On Hit: Your target suffers a -1 Penalty to Will Saving Throws for 6 seconds. This effect stacks up to 5 times. This effect may only occur on-hit once every three seconds.Passive: The DC of the saving throw to resist your Stunning Blow and Stunning Fist combat feats is increased by 10.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Dazing",
+              "title": "Dazing",
+              "text": "Dazing V"
+            }
+          ]
+        },
+        {
+          "text": "Deception V",
+          "tooltip": "Deception V: 5% Chance on Hit: Your target becomes Bluffed for four seconds. (Bluffed enemies can be affected by Sneak Attacks even while targeting you.) On sneak attack: +5 to Attack Rolls, +10 to Damage.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Deception",
+              "title": "Deception",
+              "text": "Deception V"
+            }
+          ]
+        },
+        {
+          "text": "Doublestrike 5%",
+          "tooltip": "Doublestrike 5%: Passive: 5% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Doublestrike",
+              "title": "Doublestrike",
+              "text": "Doublestrike 5%"
+            }
+          ]
+        },
+        {
+          "text": "Draining V",
+          "tooltip": "Draining V: On Vorpal Hit: Your target incurs one Negative Level, and you gain +10 Temporary Spell Points. (These Temporary Spell Points last for one minute, or until used to reduce the cost of your next spell.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Draining",
+              "title": "Draining",
+              "text": "Draining V"
+            }
+          ]
+        },
+        {
+          "text": "Feeding V",
+          "tooltip": "Feeding V: On Vorpal Hit: Your target incurs one Negative Level, and you gain +25 temporary hit points. (These Temporary Hit Points last for one minute, or until used to negate incoming damage.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Feeding",
+              "title": "Feeding",
+              "text": "Feeding V"
+            }
+          ]
+        },
+        {
+          "text": "Ghostbane V",
+          "tooltip": "Ghostbane V: On Hit: 5 to 20 Bane Damage vs Undead. (Bane damage cannot be resisted.)Passive: Attacks from this weapon bypass the miss chance of incorporeal creatures, such as ghosts, shadows, and wraiths.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Ghostbane",
+              "title": "Ghostbane",
+              "text": "Ghostbane V"
+            }
+          ]
+        },
+        {
+          "text": "Humanoid Bane V",
+          "tooltip": "Humanoid Bane V: On Hit: 5 to 20 Bane Damage vs Humanoids and Giants. (Bane damage cannot be resisted.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Humanoid Bane V"
+            }
+          ]
+        },
+        {
+          "text": "Improved Destruction",
+          "tooltip": "Improved Destruction: On Hit: Your target gains a stack of Armor Destruction. (-1 penalty to Armor Class, -1% of its Fortification. 20 Second Duration. Stacks up to 15 times.) This effect may trigger once every second.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Improved_Destruction",
+              "title": "Improved Destruction",
+              "text": "Improved Destruction"
+            }
+          ]
+        },
+        {
+          "text": "Natural Bane V",
+          "tooltip": "Natural Bane V: On Hit: 5 to 20 Bane Damage vs Animals, Vermin, Magical Beasts, Plants and Fey. (Bane damage cannot be resisted.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Natural Bane V"
+            }
+          ]
+        },
+        {
+          "text": "Ribcracker V",
+          "tooltip": "Ribcracker V: On Critical Hit: 11 to 66 Bludgeoning damage from weapons with a x2 Critical Multiplier, 11 to 88 Bludgeoning damage from weapons with a x3 Critical Multiplier, and 11 to 110 Bludgeoning damage from weapons with a x4 or greater Critical Multiplier.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Ribcracker",
+              "title": "Ribcracker",
+              "text": "Ribcracker V"
+            }
+          ]
+        },
+        {
+          "text": "Riposte V",
+          "tooltip": "Riposte V: When Missed by an attack: Deals 5 to 20 damage to your attacker. Passive: +3 Insight bonus to Armor Class, +2 Insight bonus to Fortitude, Reflex, and Will Saving Throws.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Riposte",
+              "title": "Riposte",
+              "text": "Riposte V"
+            }
+          ]
+        },
+        {
+          "text": "Stumbling V",
+          "tooltip": "Stumbling V: On Hit: Your target suffers a -1 Penalty to Reflex Saving Throws for 6 seconds. This effect stacks up to 5 times. This effect may only occur on-hit once every three seconds.Passive: The DC of the saving throw to resist your Trip combat feats is increased by 10.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Stumbling",
+              "title": "Stumbling",
+              "text": "Stumbling V"
+            }
+          ]
+        },
+        {
+          "text": "Sundering V",
+          "tooltip": "Sundering V: On Hit: Your target suffers a -1 Penalty to Fortitude Saving Throws for 6 seconds. This effect stacks up to 5 times. This effect may only occur on-hit once every three seconds.Passive: The DC of the saving throw to resist your Sunder combat feats is increased by 10.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Sundering",
+              "title": "Sundering",
+              "text": "Sundering V"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ],
+  "item_class": "Weapon",
+  "item_template": ""
+}

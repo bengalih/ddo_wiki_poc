@@ -1,0 +1,128 @@
+{
+  "page_title": "Item:Downcast Docent",
+  "page_id": 118955,
+  "revision_id": 685131,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:36:59.071415+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Downcast Docent\n  | minlevel                 = 8\n  | type                     = Docent\n  | feat                     = Docent\n  | ac                       = {{WFABonus|a=15|m=8|c=6}}\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | race                     = Warforged\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 130\n  | material                 = Crystal\n  | hardness                 = 18\n  | basevalue                = 3,250 pp\n  | weight                   = lbs\n  | released                 = Update 75\n  | quest                    = Ends and Means\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | rare                     = yes\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Elemental Resistance|Elemental|5|Competence}}\n* {{Lamordia Slot|Melancholic|Armor}}\n* {{Lamordia Slot|Dolorous|Armor}}\n* {{Lamordia Slot|Miserable|Accessory}}\n* {{Lamordia Slot|Woeful|Accessory}}\n* {{Augment|Blue}}\n* {{Augment|Sun}}\n  | crafting                 = Viktranium Experiment crafting\n  | description              = Experimental socketry is integrated well into this docent, allowing it to push past its normal limits.\n  | pic                      = Downcast Docent shown.jpg\n  | picdesc                  = Downcast Docent.png\n  | tips                     =\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Crystal",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Competence Elemental Resistance - 5",
+      "tooltip": "Competence Elemental Resistance - 5: This item provides a +5 Competence bonus to your Acid, Cold, Fire, and Electrical resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Elemental_Resistance#Inherent_Resistances",
+          "title": "Elemental Resistance",
+          "text": "Competence Elemental Resistance - 5"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Melancholic Slot (Armor)",
+      "tooltip": "Lamordia: Melancholic Slot (Armor):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Melancholic Slot (Armor)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Dolorous Slot (Armor)",
+      "tooltip": "Lamordia: Dolorous Slot (Armor):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Dolorous Slot (Armor)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Miserable Slot (Accessory)",
+      "tooltip": "Lamordia: Miserable Slot (Accessory):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Miserable Slot (Accessory)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Woeful Slot (Accessory)",
+      "tooltip": "Lamordia: Woeful Slot (Accessory):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Woeful Slot (Accessory)"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:A Memento of Mori",
+  "page_id": 94783,
+  "revision_id": 628137,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:00:57.918673+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = A Memento of Mori\n  | minlevel                 = 29\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 390\n  | material                 = Platinum\n  | hardness                 = 49\n  | cost                     = 11,601 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 53\n  | quest                    = Hunt or Be Hunted\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Spell Focus|Spell Focus Mastery|II|Sacred}}\n* {{Spelllore|Sacred Ground|22}}\n* {{SpellPower|Power of the Sacred Ground|148}}\n* {{Absorption|Light|22}}\n* {{Augment|Green}}\n* {{Augment|Yellow}}\n  | crafting                 = \n  | description              = A token to remember you by...\n  | pic                      = \n  | picdesc                  = A Memento of Mori.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Platinum",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Sacred Spell Focus Mastery II",
+      "tooltip": "Sacred Spell Focus Mastery II: +2 Sacred bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Sacred Spell Focus Mastery II"
+        }
+      ]
+    },
+    {
+      "text": "Sacred Ground Lore +22%",
+      "tooltip": "Sacred Ground Lore +22: Passive: Your Acid, Light, and Alignment spells gain a 22% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Sacred Ground Lore +22%"
+        }
+      ]
+    },
+    {
+      "text": "Power of the Sacred Ground +148",
+      "tooltip": "Power of the Sacred Ground +148: Passive: +148 Equipment bonus to Acid, Light, and Alignment Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power_of_the_Sacred_Ground",
+          "title": "Power of the Sacred Ground",
+          "text": "Power of the Sacred Ground"
+        }
+      ]
+    },
+    {
+      "text": "Light Absorption +22%",
+      "tooltip": "Light Absorption +22%: Passive: 22% Enhancement Bonus to Light Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Light Absorption +22%"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

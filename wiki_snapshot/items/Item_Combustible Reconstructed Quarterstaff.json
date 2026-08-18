@@ -1,0 +1,175 @@
+{
+  "page_title": "Item:Combustible Reconstructed Quarterstaff",
+  "page_id": 88823,
+  "revision_id": 689880,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:25:01.702654+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Combustible Reconstructed Quarterstaff\n  | minlevel                 = 12\n  | type                     = Quarterstaff\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = Two-handed\n  | damage                   = 1.40[1d6] + 6 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | race                     = \n  | slot                     = \n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 200\n  | material                 = Wood\n  | hardness                 = 22\n  | cost                     = 4,800 pp 1 cp\n  | weight                   = 4 lbs\n  | released                 = Update 49\n  | revamped                 = Update 80\n  | quest                    = Cauldron of Sora Katra\n  | end reward               = \n  | turn in                  = \n  | chest                    = [[Item:Fusible Sceptre of Combustion]] + [[Item:Malleable Sceptre of Reconstruction]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|6|12}}\n* {{Spelllore|Fire|12}}\n* {{Spelllore|Repair|12}}\n* {{SpellPower|Combustion|84}}\n* {{SpellPower|Reconstruction|84}}\n* {{SpellPower|Combustion|42|Insight}}\n* {{SpellPower|Reconstruction|42|Insight}}\n* {{Spell Focus|Evocation|4}}\n* {{Hp|False Life|24}}\n* {{Magical Efficiency|5}}\n* {{Augment|Red}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | description              = This quarterstaff is fused from two separate sceptres.\n  | pic                      = Impulsive Reconstructed Quarterstaff Shown.jpg\n  | picdesc                  = Combustible Reconstructed Quarterstaff.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +12",
+      "tooltip": "Spellcasting Implement +12: Passive: +12 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +12"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fire Lore +12%",
+      "tooltip": "Fire Lore +12: Passive: Your Fire spells gain a 12% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore +12%"
+        }
+      ]
+    },
+    {
+      "text": "Repair Lore +12%",
+      "tooltip": "Repair Lore +12: Passive: Your Repair and Rust spells gain a 12% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Repair Lore +12%"
+        }
+      ]
+    },
+    {
+      "text": "Combustion +84",
+      "tooltip": "Combustion +84: Passive: +84 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +84"
+        }
+      ]
+    },
+    {
+      "text": "Reconstruction +84",
+      "tooltip": "Reconstruction +84: Passive: +84 Equipment bonus to Repair and Rust Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reconstruction",
+          "title": "Reconstruction",
+          "text": "Reconstruction +84"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Combustion +42",
+      "tooltip": "Insightful Combustion +42: Passive: +42 Insight bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Insightful Combustion +42"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Reconstruction +42",
+      "tooltip": "Insightful Reconstruction +42: Passive: +42 Insight bonus to Repair and Rust Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reconstruction",
+          "title": "Reconstruction",
+          "text": "Insightful Reconstruction +42"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus +4",
+      "tooltip": "Evocation Focus +4: +4 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus +4"
+        }
+      ]
+    },
+    {
+      "text": "False Life +24",
+      "tooltip": "False Life +24: +24 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +24"
+        }
+      ]
+    },
+    {
+      "text": "Magical Efficiency 5%",
+      "tooltip": "Magical Efficiency 5%: You take a 5% Enhancement discount to the Spell Point cost of your spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magical_Efficiency",
+          "title": "Magical Efficiency",
+          "text": "Magical Efficiency 5%"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    }
+  ]
+}

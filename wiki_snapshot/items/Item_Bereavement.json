@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Bereavement",
+  "page_id": 7971,
+  "revision_id": 628555,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:10:51.338948+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Bereavement\n  | damage                   = [1d8] + 5 Slash, Magic\n  | crit                     = 19-20 / x3\n  | type                     = Battle Axe\n  | hand                     = One-handed\n  | class                    = Slashing\n  | attackmod                = STR\n  | damagemod                = STR\n  | prof                     = Martial\n  | minlevel                 = 10\n  | reqtrait                 = \n  | UMD DC                   = \n  | durability               = 140\n  | material                 = Steel\n  | hardness                 = 17\n  | basevalue                = 9,801 pp 9 gp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = The Titan Awakes\n  | chest                    = Raid Warded chest \n  | enhancements             = \n* {{Enhancement_bonus|w|5}}\n* {{Seeker|10}}\n* {{Keen}}\n  | description              = A battle axe created in the Twilight Forge itself. This weapon was forged using some of the same processes as creating Warforged.\n  | pic                      = Bereavement shown.jpg\n  | picdesc                  = Bereavement.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Battle Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Seeker +10",
+      "tooltip": "Seeker +10: Provides a +10 Enhancement bonus to confirm critical hits, and a +10 Enhancement bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Seeker +10"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

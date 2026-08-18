@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Robe of the Locus",
+  "page_id": 96654,
+  "revision_id": 686716,
+  "revision_timestamp": "2026-05-27T18:50:55Z",
+  "fetched_at": "2026-08-17T22:48:12.884733+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Robe of the Locus\n  | type                     = Clothing\n  | feat                     = Cloth\n  | race                     = \n  | ac                       = +3\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 80\n  | material                 = Cloth\n  | hardness                 = 9\n  | minlevel                 = 7\n  | released                 = Update 55\n  | quest                    = Trials of the Triceratops\n  | chest                    = end chest\n  | epic                     = no\n  | legendary                = no\n  | basevalue                = 2805 pp 5 gp\n  | weight                   = 0 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{Stat|Constitution|5}}\n* {{Spell Resistance|7|Insightful}}\n* {{Dodge|1|Quality|prefix=Quality}}\n* {{Fortification|33|Insightful}}\n* {{Augment|Blue}}\n* {{Named item sets|The Dread Isle's Curse}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Robe of the Locus shown.jpg\n  | picdesc                  = Robe of the Locus.png\n  | description              = This enchanted robe protects you from the magical elements of the Isle of Dread.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Clothing",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +5",
+      "tooltip": "Constitution +5: This item gives the wearer improved health, granting a +5 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +5"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Spell Resistance +7",
+      "tooltip": "Insightful Spell Resistance +7: +7 Insight bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Insightful Spell Resistance +7"
+        }
+      ]
+    },
+    {
+      "text": "Quality Dodge +1%",
+      "tooltip": "Quality Dodge +1%: +1% Quality bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Quality Dodge +1%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Fortification +33%",
+      "tooltip": "Insightful Fortification +33%: +33% Insight bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Insightful Fortification +33%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Dread Isle's Curse",
+      "tooltip": "The Dread Isle's Curse: 5 Pieces Equipped:+5 Profane bonus to Melee and Ranged Power+10 Profane bonus to Universal Spellpower+10 Profane bonus to Physical Resistance Rating+1 Profane bonus to Spell DCs+1 Profane bonus to all Ability ScoresThe Isle of Dread beckons you...",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Dread_Isle's_Curse",
+          "title": "Named item sets",
+          "text": "The Dread Isle's Curse"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

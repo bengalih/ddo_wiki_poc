@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:The Morning Star (level 15)",
+  "page_id": 40041,
+  "revision_id": 668724,
+  "revision_timestamp": "2025-12-10T12:47:11Z",
+  "fetched_at": "2026-08-17T23:15:35.822172+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|The Morning Star}}\n  | type                     = Shuriken\n  | hand                     = Thrown\n  | class                    = Thrown\n  | prof                     = Exotic\n  | minlevel                 = 15\n  | reqtrait                 = \n  | UMD DC                   = \n  | bind                     = {{Bind|BtC|BoE}}\n  | damage                   = [1d2] + 5 Slash, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 165\n  | material                 = Steel\n  | hardness                 = 25\n  | basevalue                = 6000 pp, 2 sp\n  | weight                   = 0.50 lbs\n  | released                 = Update 19\n  | revamped                 = Update 76\n  | quest                    = Friends in Low Places \n  | chest                    = End chest (Heroic Hard)\n  | enhancements             = \n* {{Returning}}\n* {{Enhancement_bonus|w|5}}\n* {{Solar|I}}\n* {{Flaming|II}}\n* {{Ghostbane|II}}\n* {{Augment|Red}}\n  | description              = Sometimes the only star you need is the sun in the sky.\n  | pic                      = Weapon Generic Shuriken.png\n  | picdesc                  = The Morning Star (Level 15).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Shuriken",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Solar I",
+      "tooltip": "Solar I: On Hit: 1 to 6 Light Damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Solar",
+          "title": "Solar",
+          "text": "Solar I"
+        }
+      ]
+    },
+    {
+      "text": "Flaming II",
+      "tooltip": "Flaming II: On Hit: 2 to 8 Fire Damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flaming#Flaming",
+          "title": "Flaming",
+          "text": "Flaming II"
+        }
+      ]
+    },
+    {
+      "text": "Ghostbane II",
+      "tooltip": "Ghostbane II: On Hit: 2 to 8 Bane Damage vs Undead. (Bane damage cannot be resisted.)Passive: Attacks from this weapon bypass the miss chance of incorporeal creatures, such as ghosts, shadows, and wraiths.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostbane",
+          "title": "Ghostbane",
+          "text": "Ghostbane II"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

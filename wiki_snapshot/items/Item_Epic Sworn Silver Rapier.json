@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Epic Sworn Silver Rapier",
+  "page_id": 84192,
+  "revision_id": 672665,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:58:01.528067+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Sworn Silver Rapier\n  | damage                   = 3[1d6] + 6 Pierce, Good, Silver, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Rapier\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 245\n  | material                 = Silver\n  | hardness                 = 28\n  | minlevel                 = 20\n  | quest                    = Morten Edgewright\n  | chest                    = \n  | end reward               = \n  | turn in                  = 1 {{Item|Epic Silver Ingot}}\n  | epic                     = \n  | basevalue                = 8004pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 44\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|6}}\n* {{Mat|Silver}}, Alchemical\n* {{Bane|Unnatural|4}}\n* {{Destruction}}\n* {{Righteous}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Epic Sworn Silver Rapier shown.jpg\n  | picdesc                  = Epic Sworn Silver Rapier.png\n  | description              = This is a fine weapon, crafted of exquisite Silver. It's likely quite useful against the Undead or certain, powerful Devils.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Rapier",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Silver , Alchemical",
+      "tooltip": "Silver: A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as devils and vampires. Silver weapons have 2 points lower hardness then equivalent steel weapons, and as such aren't quite as durable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Silver",
+          "title": "Silver",
+          "text": "Silver"
+        }
+      ]
+    },
+    {
+      "text": "Unnatural Bane 4",
+      "tooltip": "Unnatural Bane 4: This weapon is attuned specifically to hunt beings that should not exist, dealing an additional 4d10 bane damage vs. Aberrations, Monstrous Humanoids, and Undead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Unnatural Bane 4"
+        }
+      ]
+    },
+    {
+      "text": "Destruction",
+      "tooltip": "Destruction: On Hit: Your target gains a stack of Armor Destruction. (-1 penalty to Armor Class, -1% of its Fortification. 20 Second Duration. Stacks up to 15 times.) This effect may trigger once every three seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Destruction",
+          "title": "Destruction",
+          "text": "Destruction"
+        }
+      ]
+    },
+    {
+      "text": "Righteous",
+      "tooltip": "Righteous: This weapon is imbued with holy power, giving it an additional +2 to attack bonus and damage against any evil creature. This power makes the weapon good-aligned.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Righteous",
+          "title": "Righteous",
+          "text": "Righteous"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

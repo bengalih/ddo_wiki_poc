@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Thunderstorm Crescent (level 24)",
+  "page_id": 26422,
+  "revision_id": 672980,
+  "revision_timestamp": "2026-01-25T20:20:18Z",
+  "fetched_at": "2026-08-17T23:19:21.373711+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | sentience                = no\n  | name                     = {{Item|Thunderstorm Crescent}}\n  | damage                   = [1d6] + 7 Slash, Magic\n  | crit                     = 20 / x2\n  | type                     = Sickle\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 24\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 290\n  | material                 = Steel\n  | hardness                 = 34\n  | quest                    = Outbreak\n  | chest                    = Optional chest\n  | revamped                 = Update 76\n  | end reward               = \n  | turn in                  = \n  | basevalue                = 9600pp 6gp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | enhancements             = \n* {{Enhancement bonus|i|7}}\n* {{Electrifying}}\n* {{Lightning Strike}}\n* {{SpellPower|Magnetism|114}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Thunderstorm Crescent shown.jpg\n  | picdesc                  = Thunderstorm Crescent (Level 24).png\n  | description              = This sickle sparks with electricity, summoning the power of a thunderstorm to your hand.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Sickle",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +21",
+      "tooltip": "Spellcasting Implement +21: Passive: +21 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +21"
+        }
+      ]
+    },
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Electrifying",
+      "tooltip": "Electrifying: This weapon is sheathed in sparking electricity. An electrifying weapon deals an extra 3 to 18 points of electricity damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electrifying",
+          "title": "Electrifying",
+          "text": "Electrifying"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Strike",
+      "tooltip": "Lightning Strike: This weapon stores the power of a volatile thunderstorm deep within. Occasionally, this dynamic power comes to the surface, devastating enemies with a massive lightning strike.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lightning_Strike",
+          "title": "Lightning Strike",
+          "text": "Lightning Strike"
+        }
+      ]
+    },
+    {
+      "text": "Magnetism +114",
+      "tooltip": "Magnetism +114: Passive: +114 Equipment bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Magnetism +114"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

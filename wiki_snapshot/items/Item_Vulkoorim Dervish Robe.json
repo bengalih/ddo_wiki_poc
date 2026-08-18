@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Vulkoorim Dervish Robe",
+  "page_id": 8665,
+  "revision_id": 686684,
+  "revision_timestamp": "2026-05-27T17:37:20Z",
+  "fetched_at": "2026-08-17T23:24:40.672367+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Vulkoorim Dervish Robe\n  | type                     = Clothing\n  | feat                     = Cloth\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 105\n  | ac                       = +6\n  | material                 = Cloth\n  | hardness                 = 12\n  | basevalue                = 4,005 pp 5 gp\n  | weight                   = \n  | quest                    = Sands of Menechtarun\n  | chest                    = Drow Area: [[Mendexethazz]]' Chest (Rare Encounter) ; <br /> [[Masei Mkembe]] sells for 625 [[Antique Bronze Tokens]]\n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|6}}\n* {{Fortification|77}}\n* {{SpellPower|Universal|15|Exceptional}}\n* {{Efficient Metamagic|Maximize|I}}\n* {{Guard|Disintegration}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n* {{named item sets|Vulkoor's Chosen}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Vulkoorim Dervish Robe\n  | pic                      = Vulkoorim Dervish Robe shown.jpg\n  | picdesc                  = Vulkoorim Dervish Robe.png\n  | description              = The Vulkoorim Dervish use silk robes to cover their Drow bodies from the baking heat of the desert.\n  | notes                    = \n  | revamped                 = Update 50\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Clothing",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +6",
+      "tooltip": "Armor Bonus +6: This item surrounds the wearer with an invisible but tangible field of force, granting +6 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +6"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +77%",
+      "tooltip": "Fortification +77%: +77% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +77%"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Universal Spell Power +15",
+      "tooltip": "Exceptional Universal Spell Power +15: Passive: +15 Exceptional bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Universal_Spell_Power",
+          "title": "Universal Spell Power",
+          "text": "Exceptional Universal Spell Power +15"
+        }
+      ]
+    },
+    {
+      "text": "Efficient Metamagic - Maximize I",
+      "tooltip": "Efficient Metamagic - Maximize I: The additional spell point cost for using the Maximize Metamagic feat is reduced by 2 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Maximize I"
+        }
+      ]
+    },
+    {
+      "text": "Disintegration Guard",
+      "tooltip": "Disintegration Guard: This item has a store of dark, insidious power deep within. When the wearer of this item is successfully attacked in melee, this power occasionally lashes out violently at enemies and attempts to disintegrate them.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disintegration_Guard",
+          "title": "Disintegration Guard",
+          "text": "Disintegration Guard"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Vulkoor's Chosen",
+      "tooltip": "Vulkoor's Chosen: 2 Pieces Equipped:+10 Artifact bonus to Poison Resistance+1 Artifact bonus to Sneak Attack Dice+1 Artifact bonus to Saving Throws+1 Artifact bonus to Dexterity and Constitution",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Vulkoor's_Chosen",
+          "title": "Named item sets",
+          "text": "Vulkoor's Chosen"
+        }
+      ]
+    }
+  ]
+}

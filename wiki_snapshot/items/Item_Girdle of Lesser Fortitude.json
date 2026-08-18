@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Girdle of Lesser Fortitude",
+  "page_id": 9946,
+  "revision_id": 631094,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:10:59.862891+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Girdle of Lesser Fortitude\n  | type                     = Belt\n  | basevalue                = 102 pp\n  | weight                   = 0.1 lb\n  | slot                     = Waist\n  | durability               = 20\n  | material                 = Leather\n  | hardness                 = 6\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = The Storehouse's Secret\n  | chest                    = \n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Save|F|1}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This leather girdle is said to make its wielder more hearty.\n  | pic                      = Belt Generic.png\n  | picdesc                  = Girdle of Lesser Fortitude.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "enchantments": [
+    {
+      "text": "Fortitude Save +1",
+      "tooltip": "Fortitude Save +1: This item gives a +1 Resistance bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Fortitude Save +1"
+        }
+      ]
+    }
+  ]
+}

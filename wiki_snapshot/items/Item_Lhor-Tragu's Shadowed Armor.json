@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Lhor-Tragu's Shadowed Armor",
+  "page_id": 5025,
+  "revision_id": 633222,
+  "revision_timestamp": "2025-04-22T01:58:58Z",
+  "fetched_at": "2026-08-17T22:16:52.677351+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Lhor-Tragu's Shadowed Armor\n  | type                     = Leather\n  | feat                     = Light\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +6\n  | maxdexbonus              = 8\n  | acp                      = \n  | asf                      = 10%\n  | durability               = 92\n  | material                 = Leather\n  | hardness                 = 14\n  | basevalue                = 2,401pp\n  | weight                   = 15 lbs\n  | quest                    = Assault on Splinterskull\n  | end reward               = yes\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement bonus|a|2}}\n* {{Skills|Shadow}}\n* {{Skills|Silent Moves}}\n* {{Augment|Blue}}\n  | pic                      = Lhor-Tragu's Shadowed Armor shown.jpg\n  | picdesc                  = Lhor-Tragu's Shadowed Armor.png\n  | description              = Lhor-Tragu, infamous hobgoblin assassin, wore this armor during missions of stealth.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Shadow",
+      "tooltip": "Shadow: This armor blurs the wearer whenever she tries to hide, granting a +5 competence bonus to Hide checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shadow_(armor)",
+          "title": "Shadow (armor)",
+          "text": "Shadow"
+        }
+      ]
+    },
+    {
+      "text": "Silent Moves",
+      "tooltip": "Silent Moves: This armor is well-oiled and magically constructed, so not only is it nearly silent, it also dampens surrounding sounds. It provides a competence bonus on its wearer's Move Silently checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Silent_Moves",
+          "title": "Silent Moves",
+          "text": "Silent Moves"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

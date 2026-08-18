@@ -1,0 +1,72 @@
+{
+  "page_title": "Item:Legendary Alchemical Orb",
+  "page_id": 101687,
+  "revision_id": 631757,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:29:42.134355+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Orb\n  | prof                     = Magical Training\n  | minlevel                 = 29\n  | sb                       = 0\n  | maxdexbonus              = None\n  | dr                       = 0\n  | acp                      = 0\n  | asf                      = 10\n  | ap                       = 0\n  | dmg                      = [1d4] + 0\n  | dmgtype                  = Force\n  | crit                     = 19-20 / x2\n  | attackmod                = INT\n  | damagemod                = CHA\n  | durability               = 355\n  | material                 = Gem\n  | hardness                 = 49\n  | basevalue                = 11,700 pp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = Legendary Master Artificer\n  | chest                    = Either End chest\n  | enhancements             = \n* {{Enhancement bonus|o|15}}\n* {{CraftingEffects|Legendary Alchemical Crafting (Prototype)}}\n* {{Augment|Red}}\n  | description              = Crafted of exquisite and delicate materials, an orb of this calibre is a true masterpiece of creation.\n  | crafting                 = Legendary Alchemical Crafting\n  | craftingupgrade          = <!-- -->\n  | pic                      = Legendary Alchemical Orb shown.jpg\n  | picdesc                  = Legendary Alchemical Orb.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Magical Training",
+  "material": "Gem",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Orb Bonus",
+      "tooltip": "+15 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +15 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Orb Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Alchemical Crafting (Prototype)",
+      "tooltip": "Legendary Alchemical Crafting (Prototype): This experimental item, crafted and enchanted at ancient Cannith creation forges using powerful alchemy, is made of a material that allows elemental power sources to be bound to it. This item is in a prototype state and is currently in need of refinement.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alchemical_Crafting#Legendary",
+          "title": "Alchemical Crafting",
+          "text": "Legendary Alchemical Crafting (Prototype)"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

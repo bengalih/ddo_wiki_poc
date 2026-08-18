@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Discarded Ring",
+  "page_id": 9544,
+  "revision_id": 629539,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:35:37.247981+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Discarded Ring\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 30\n  | material                 = Gold\n  | hardness                 = 3\n  | minlevel                 = 0\n  | basevalue                = 120 pp\n  | weight                   = 0.10 lbs\n  | bind                     = {{Bind|BtC|boa}}\n  | quest                    = The Collaborator\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Power|1}}\n  | description              = This simple gold ring glows faintly of magic.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Discarded Ring.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "enchantments": [
+    {
+      "text": "Power I",
+      "tooltip": "Power I: This item grants the wearer +10 maximum spell points. Favored Souls and Sorcerers gain double spell points from this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power",
+          "title": "Power",
+          "text": "Power I"
+        }
+      ]
+    }
+  ]
+}

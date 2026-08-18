@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Apprentice's Robe",
+  "page_id": 12738,
+  "revision_id": 628275,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:04:04.624291+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Apprentice's Robe\n  | type                     = Robe\n  | feat                     = Cloth\n  | ac                       = +0\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 25\n  | material                 = Cloth\n  | hardness                 = 4\n  | minlevel                 = 0\n  | basevalue                = 5 pp 5 gp\n  | weight                   = 0 lbs\n  | quest                    = The Grotto\n  | chest                    = [[Sahuagin High Priestess]]'s chest, Non-Warforged Artificers, Sorcerers, Warlocks, and Wizards\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|Concentration|1}}\n* {{Augmentation|1|Arcane|1}}\n* {{Starter}}\n  | pic                      = Apprentice's Robe shown.jpg\n  | picdesc                  = Apprentice's Robe.png\n  | description              = This slightly tattered cloth robe is said to provide assistance to those studying the arcane.\n  | notes                    = All new non-[[Veteran Status|Veteran]], non-[[Warforged]] [[Alchemist]]s, [[Sorcerer]]s, [[Wizard]]s, or [[Warlock]]s get this automatically upon completing (or electing to skip) [[The Grotto]].\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "enchantments": [
+    {
+      "text": "Concentration +1",
+      "tooltip": "Concentration +1: Passive: +1 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +1"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Arcane Augmentation I",
+      "tooltip": "Lesser Arcane Augmentation I: Increases the wearer's caster level when casting first level sorcerer or wizard spells by one.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Augmentation",
+          "title": "Spell Augmentation",
+          "text": "Lesser Arcane Augmentation I"
+        }
+      ]
+    },
+    {
+      "text": "Starter",
+      "tooltip": "Starter: Starter equipment cannot be traded, sold or crafted.This item cannot be fed to sentient jewels.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Starter",
+          "title": "Starter",
+          "text": "Starter"
+        }
+      ]
+    }
+  ]
+}

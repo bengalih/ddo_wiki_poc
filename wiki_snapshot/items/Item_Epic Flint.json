@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Epic Flint",
+  "page_id": 10401,
+  "revision_id": 671179,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:49:56.365378+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Flint\n  | basevalue                = 8000pp 2gp\n  | weight                   = 1.00 lbs\n  | damage                   = 3[1d4] + 6 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Dagger\n  | class                    = Piercing\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 240\n  | material                 = Stone\n  | hardness                 = 30\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtA|BoA}}\n  | epic                     = Flint\n  | quest                    = Epic Crafting\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|6|20}}\n* {{Lightning Strike}}\n* {{Blast|Shocking|4}}\n* {{Spelllore|Lightning|+16}}\n* {{SpellPower|Magnetism|111}}\n* {{Guard|Lightning Storm}}\n* {{Augment|Red}}\n* {{Named item sets|The Epic Desert's Writhing Storm}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Flint\n  | description              = A stone dagger crackling with magical energies.\n  | pic                      = Flint shown.jpg\n  | picdesc                  = Epic Flint.png\n  | tips                     = \n  | revamped                 = Update 76\n}}\n[[Category:Sands of Menechtarun epic items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +20",
+      "tooltip": "Spellcasting Implement +20: Passive: +20 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +20"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Strike",
+      "tooltip": "Lightning Strike: This weapon stores the power of a volatile thunderstorm deep within. Occasionally, this dynamic power comes to the surface, devastating enemies with a massive lightning strike.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lightning_Strike",
+          "title": "Lightning Strike",
+          "text": "Lightning Strike"
+        }
+      ]
+    },
+    {
+      "text": "Shocking Blast 4",
+      "tooltip": "Shocking Blast 4: This weapon arcs with deadly electricity, dealing 4d6 Electric damage on a successful hit, and an additional 4d6 Electric damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Shocking Blast 4"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Lore +16%",
+      "tooltip": "Lightning Lore +16: Passive: Your Electricity spells gain a +16% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore +16%"
+        }
+      ]
+    },
+    {
+      "text": "Magnetism +111",
+      "tooltip": "Magnetism +111: Passive: +111 Equipment bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Magnetism +111"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Storm Guard",
+      "tooltip": "Lightning Storm Guard: This item stores the power of a volatile thunderstorm deep within. When the wearer of this item is successfully attacked in melee, this dynamic power occasionally comes to the surface, devastating enemies with a massive lightning strike.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lightning_Storm_Guard",
+          "title": "Lightning Storm Guard",
+          "text": "Lightning Storm Guard"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Epic Desert's Writhing Storm",
+      "tooltip": "The Epic Desert's Writhing Storm: 2 Pieces Equipped:+4% Artifact bonus to Electric Spellcrit Chance+20 Artifact bonus to Electric Spellpower+20 Artifact bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Epic_Desert's_Writhing_Storm",
+          "title": "Named item sets",
+          "text": "The Epic Desert's Writhing Storm"
+        }
+      ]
+    }
+  ]
+}

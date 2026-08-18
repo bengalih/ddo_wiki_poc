@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Legendary Turncoat",
+  "page_id": 74137,
+  "revision_id": 647845,
+  "revision_timestamp": "2025-07-07T03:19:55Z",
+  "fetched_at": "2026-08-17T22:13:43.544790+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Turncoat\n  | basevalue                = 11,605 pp 5 gp\n  | ac                       = +15\n  | slot                     = Armor\n  | type                     = Clothing\n  | feat                     = Cloth\n  | durability               = 300\n  | material                 = Cloth\n  | hardness                 = 31\n  | minlevel                 = 29\n  | bind                     = {{Bind|BtA|BoA}}\n  | revamped                 = Update 50\n  | released                 = Update 42\n  | quest                    = A Sharn Welcome\n  | chest                    = End chest\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Fortification|142}}\n* {{Sheltering|33|Enhancement|Physical}}\n* {{HealingAmp|53|h|Competence}}\n* {{Hp|False Life|50}}\n* {{Augment|Green}}\n* {{Named item sets|Legendary Part of the Family}}\n  | pic                      = Turncoat shown.jpg\n  | picdesc                  = Legendary Turncoat.png\n  | description              = For when you can only truly trust yourself.\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Clothing",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +142%",
+      "tooltip": "Fortification +142%: +142% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +142%"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +33",
+      "tooltip": "Physical Sheltering +33: +33 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +33"
+        }
+      ]
+    },
+    {
+      "text": "Competence Healing Amplification +53",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +53 (Competence bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Competence Healing Amplification +53"
+        }
+      ]
+    },
+    {
+      "text": "False Life +50",
+      "tooltip": "False Life +50: +50 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +50"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Part of the Family",
+      "tooltip": "Legendary Part of the Family: 3 Pieces Equipped:+15% Artifact bonus to Doublestrike+15 Artifact bonus to Melee Power+15% Artifact bonus to damage versus the Helpless+30% Artifact bonus to Fortification Bypass",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Legendary_Part_of_the_Family",
+          "title": "Named item sets",
+          "text": "Legendary Part of the Family"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

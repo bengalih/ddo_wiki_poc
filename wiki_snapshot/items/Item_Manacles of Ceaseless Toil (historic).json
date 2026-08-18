@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Manacles of Ceaseless Toil (historic)",
+  "page_id": 11064,
+  "revision_id": 633406,
+  "revision_timestamp": "2025-04-22T02:11:35Z",
+  "fetched_at": "2026-08-17T22:22:22.722393+00:00",
+  "categories": [],
+  "wikitext": "{{History||type=item|replaced={{Item|Manacles of Ceaseless Toil}}}}\n{{Named item|Jewelry\n  | name                     = {{Item|Manacles of Ceaseless Toil}}\n  | type                     = Bracers\n  | basevalue                = 4,920 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Wrist\n  | durability               = 80\n  | material                 = Leather\n  | hardness                 = 17\n  | bind                     = {{Bind|no}}\n  | minlevel                 = 13\n  | quest                    = Gianthold Tor\n  | chest                    = Black Dragon chest\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Remove Exhaustion|3|3}}\n* {{Stat|STR|3}}\n* {{Stat|CON|3}}\n  | description              = These cuffs were symbols of authority given to the overseers of elven slave-bands. Bolstered by potent, compulsory magic, the cuff-wearers guided intricate work for weeks on end without complaint or loss of perception.\n  | pic                      = Bracers Generic Torn.png\n  | picdesc                  = Manacles of Ceaseless Toil.png\n}}",
+  "item_template": "History",
+  "material": "Leather",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Remove Exhaustion — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Remove ExhaustionCaster level: 3Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Remove_Exhaustion",
+          "title": "Remove Exhaustion",
+          "text": "Remove Exhaustion"
+        }
+      ]
+    },
+    {
+      "text": "Strength +3",
+      "tooltip": "Strength +3: This item gives the wearer the power of Ogre Strength, granting a +3 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +3"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +3",
+      "tooltip": "Constitution +3: This item gives the wearer improved health, granting a +3 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +3"
+        }
+      ]
+    }
+  ]
+}

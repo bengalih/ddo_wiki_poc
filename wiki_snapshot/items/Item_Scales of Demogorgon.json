@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Scales of Demogorgon",
+  "page_id": 126827,
+  "revision_id": 699161,
+  "revision_timestamp": "2026-07-23T15:48:06Z",
+  "fetched_at": "2026-08-17T22:51:07.094850+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Scales of Demogorgon\n  | type                     = Heavy Armor\n  | feat                     = Heavy\n  | race                     = \n  | ac                       = 25\n  | maxdexbonus              = 2\n  | acp                      = 5\n  | asf                      = 35%\n  | durability               = 270\n  | material                 = Steel\n  | hardness                 = 22\n  | minlevel                 = 11\n  | released                 = Update 81\n  | quest                    = Catalyst Crafting\n  | turn in                  = {{Item|Demon Scale Armor}}, its [[Abyssal Catalyst]] and 50 {{Item|Abyssal Gem}}s at the [[Strange Catalyst Forge]]\n  | epic                     = no\n  | basevalue                = 4,550 pp\n  | weight                   = 50 lbs\n  | mythic                   = no\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Absorption|Electricity|22}}\n* {{Elemental Resistance|Electric|23}}\n* {{Demonic Shield|Legendary}}\n* {{NaturalArmor|6}}\n* {{Smoke Screen|21}}\n* {{Augment|Blue}}\n* {{Augment|Sun}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Scales of Demogorgon shown.jpg\n  | picdesc                  = Scales of Demogorgon.png\n  | description              = Sharp scales line this armor, a memory of victory.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Heavy Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Electric Absorption +22%",
+      "tooltip": "Electric Absorption +22%: Passive: 22% Enhancement Bonus to Electric Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Electric Absorption +22%"
+        }
+      ]
+    },
+    {
+      "text": "Electric Resistance +23",
+      "tooltip": "Electric Resistance +23: Passive: +23 Enhancement bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Electric Resistance +23"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Demonic Shield",
+      "tooltip": "Legendary Demonic Shield: Each time you are hit in melee combat there is a chance that a shield of demonic energy will grant you a +240 Profane bonus to temporary hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Demonic_Shield#Legendary_Demonic_Shield",
+          "title": "Demonic Shield",
+          "text": "Legendary Demonic Shield"
+        }
+      ]
+    },
+    {
+      "text": "Natural Armor +6",
+      "tooltip": "Natural Armor +6: Passive: +6 Natural Armor Bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Natural_armor_bonus",
+          "title": "Natural armor bonus",
+          "text": "Natural Armor +6"
+        }
+      ]
+    },
+    {
+      "text": "Smoke Screen +21%",
+      "tooltip": "Smoke Screen +21%: +21% Enhancement bonus to Concealment Percentage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Smoke_Screen",
+          "title": "Smoke Screen",
+          "text": "Smoke Screen +21%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    }
+  ]
+}

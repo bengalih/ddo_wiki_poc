@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Lizardfolk Tooth Necklace",
+  "page_id": 91156,
+  "revision_id": 633275,
+  "revision_timestamp": "2025-04-22T02:02:51Z",
+  "fetched_at": "2026-08-17T22:18:17.522500+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Lizardfolk Tooth Necklace\n  | minlevel                 = 3\n  | type                     = Necklace\n  | slot                     = Neck\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 130\n  | material                 = Leather\n  | hardness                 = 23\n  | cost                     = 1,201 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 50\n  | quest                    = Danger at Dunwater\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Stat|Strength|3}}\n* {{Shatter|3}}\n* {{Augment|Blue}}\n* {{Named item sets|Saltmarsh Explorer}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Lizardfolk Tooth Necklace\n  | description              = A warning to Lizardfolk to watch their mouths around you.\n  | pic                      = \n  | picdesc                  = Lizardfolk Tooth Necklace.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Strength +3",
+      "tooltip": "Strength +3: This item gives the wearer the power of Ogre Strength, granting a +3 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +3"
+        }
+      ]
+    },
+    {
+      "text": "Shatter +3",
+      "tooltip": "Shatter +3: This effect gives a +3 Enhancement bonus to the DC to resist the character's Sunder and Improved Sunder attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shatter",
+          "title": "Shatter",
+          "text": "Shatter +3"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Saltmarsh Explorer",
+      "tooltip": "Saltmarsh Explorer: 5 Pieces Equipped:+5 Artifact bonus to PRR and MRR+1 Artifact bonus to all ability scores",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Saltmarsh_Explorer",
+          "title": "Named item sets",
+          "text": "Saltmarsh Explorer"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

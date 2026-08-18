@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Plume of Adherence",
+  "page_id": 10183,
+  "revision_id": 633996,
+  "revision_timestamp": "2025-04-22T02:52:03Z",
+  "fetched_at": "2026-08-17T22:38:51.794752+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Plume of Adherence\n  | slot                     = Head\n  | type                     = Helm\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 25\n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Emerald Claw Nugget\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Efficient Metamagic|Maximize|1}}\n* {{SpellPower|Magnetism|78}}\n* {{SpellPower|Combustion|78}} \n* {{Augment|Green}}\n  | pic                      = Plume of Adherence shown.jpg\n  | picdesc                  = Plume of Adherence.png\n  | description              = This helm is mainly an emerald color, with a bright blood red plume running down the center. An etched claw adorns the right side.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Efficient Metamagic - Maximize I",
+      "tooltip": "Efficient Metamagic - Maximize I: The additional spell point cost for using the Maximize Metamagic feat is reduced by 2 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Maximize I"
+        }
+      ]
+    },
+    {
+      "text": "Magnetism +78",
+      "tooltip": "Magnetism +78: Passive: +78 Equipment bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Magnetism +78"
+        }
+      ]
+    },
+    {
+      "text": "Combustion +78",
+      "tooltip": "Combustion +78: Passive: +78 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +78"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

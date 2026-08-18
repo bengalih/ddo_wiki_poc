@@ -1,0 +1,614 @@
+{
+  "page_title": "Item:Dream Edge",
+  "page_id": 11788,
+  "revision_id": 672440,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:38:29.082268+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Dream Edge\n  | damage                   = 2.60[1d7] + 5 Slash, Good, Evil, Lawful, Chaotic, Magic\n  | crit                     = 20 / x3\n  | type                     = Kama\n  | class                    = Slashing\n  | prof                     = Exotic\n  | hand                     = One-handed\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 170\n  | material                 = Steel\n  | hardness                 = 20\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtA|BoA}}\n  | basevalue                = 20,002pp 5gp\n  | weight                   = 6 lbs\n  | quest                    = The Mindsunder\n  | chest                    = Disc locked optional end chest\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|5}}\n* {{Maiming}}\n* {{Aligned}}\n* {{Bodyfeeder}}\n* Random effect:\n** {{Law|Absolute}}\n** {{Absorption|Acid|20}}\n** {{ArmorBonus|8}}\n** {{Banishing}}\n** {{Absorption|Cold|20}}\n** {{HealingAmp|60|h|Competence}}\n** {{Cursespewing}}\n** {{Deception|Bluff=yes}}\n** {{Destruction}}\n** {{Absorption|Electrical|20}}\n** {{Bane|Elf}}\n** {{Enhanced Ki|1}}\n** {{Everbright}}\n** {{Feather Falling}}\n** {{Finesse}}\n** {{Absorption|Fire|20}}\n** {{Ghostly}}\n** {{Bane|Gnoll}}\n** {{Good Luck|2}}\n** {{Bane|Goblinoid|greater}}\n** {{Good|Greater}}\n** {{Bane|Lawful Outsider|greater}}\n** {{Bane|Monstrous Humanoid|greater}}\n** {{Bane|Dwarf|lesser}}\n** {{Bane|Evil Outsider|lesser}}\n** {{Bane|Goblinoid|lesser}}\n** {{Bane|Reptilian|lesser}}\n** {{Alacrity|Melee|10}}\n** {{Mat|Metalline}}\n** {{NaturalArmor|4}}\n** {{Paralyzing}}\n** {{Parrying|I}}\n** {{Plant Slaying}}\n** {{Good|Pure}}\n** {{Resistance|5}}\n** {{Shattermantle}}\n** {{Smiting}}\n** {{Telekinetic}}\n** {{Law|True}}\n** {{Underwater Action}}\n** {{Vicious}}\n** {{Vorpal}}\n* {{SuppressedPower}}\n  | crafting                 = Suppressed Power\n  | craftingupgrade          = \n  | description              = A curious weapon favored by monks of Sarlona. Each Dream Edge bears the psychic imprint of its creator, cause many variations in their final enchantments.\n  | pic                      = Dream Edge shown.jpg\n  | picdesc                  = Dream Edge.png\n  | tips                     = \n{{Forums|p=2528833}} 100 variants of Dream Edge\n\nSome of the random effects are only available on higher difficulties (for example, weapons with a standard Bane enchantment can only be pulled on Hard or above, and only Elite weapons can have Greater Bane.) Copies of this weapon pulled from the quest reward list always use the Elite list.}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Kama",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Maiming",
+      "tooltip": "Maiming: This weapon has a twisted haft or grip and spikes along its blade, head, or point. Whenever you score a critical hit with this weapon it deals an amount of extra untyped damage depending on its critical multiplier: x2 - 1 to 6, x3 - 2 to 12, x4 - 3 to 18.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maiming",
+          "title": "Maiming",
+          "text": "Maiming"
+        }
+      ]
+    },
+    {
+      "text": "Aligned",
+      "tooltip": "Aligned: This weapon transmutes into a form that is able to bypass any alignment based Damage Reduction. (Chaotic, Good, Evil, Lawful)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Aligned",
+          "title": "Aligned",
+          "text": "Aligned"
+        }
+      ]
+    },
+    {
+      "text": "Bodyfeeder",
+      "tooltip": "Bodyfeeder: Whenever a bodyfeeder weapon you wield scores a critical hit, you gain 15 temporary hit points that last for up to 1 minute.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bodyfeeder",
+          "title": "Bodyfeeder",
+          "text": "Bodyfeeder"
+        }
+      ]
+    },
+    {
+      "text": "Random effect:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "Absolute Law",
+          "tooltip": "Absolute Law: This weapon is infused with the ultimate power of Law. It does an additional 2 to 12 damage to non-lawful targets and can only be wielded by Lawful-aligned characters.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Absolute_Law",
+              "title": "Absolute Law",
+              "text": "Absolute Law"
+            }
+          ]
+        },
+        {
+          "text": "Acid Absorption +20%",
+          "tooltip": "Acid Absorption +20%: Passive: 20% Enhancement Bonus to Acid Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Energy_Absorption",
+              "title": "Energy Absorption",
+              "text": "Acid Absorption +20%"
+            }
+          ]
+        },
+        {
+          "text": "Armor Bonus +8",
+          "tooltip": "Armor Bonus +8: This item surrounds the wearer with an invisible but tangible field of force, granting +8 armor bonus to AC, just as though he were wearing armor.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Armor_Bonus",
+              "title": "Armor Bonus",
+              "text": "Armor Bonus +8"
+            }
+          ]
+        },
+        {
+          "text": "Banishing",
+          "tooltip": "Banishing: On Hit: 4 to 24 Bane damage to Outsiders.On Vorpal Hit: If an outsider struck by this weapon has fewer than 1000 Hit Points, it is instantly slain. If the outsider has above 1000 Hit Points, it takes 100 damage.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Banishing#Banishing",
+              "title": "Banishing",
+              "text": "Banishing"
+            }
+          ]
+        },
+        {
+          "text": "Cold Absorption +20%",
+          "tooltip": "Cold Absorption +20%: Passive: 20% Enhancement Bonus to Cold Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Energy_Absorption",
+              "title": "Energy Absorption",
+              "text": "Cold Absorption +20%"
+            }
+          ]
+        },
+        {
+          "text": "Competence Healing Amplification +60",
+          "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +60 (Competence bonus). Includes spells, potions, and other effects.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Healing_Amplification",
+              "title": "Healing Amplification",
+              "text": "Competence Healing Amplification +60"
+            }
+          ]
+        },
+        {
+          "text": "Cursespewing",
+          "tooltip": "Cursespewing: On Vorpal Hit: Your enemy is cursed with a -4 morale penalty on attack rolls, saving throws, and skill checks. This painful curse also causes the victim to take 1d6 damage every two seconds for a duration of twelve seconds. Additional vorpal strikes while the curse is active will extend the duration by another twelve seconds.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Cursespewing",
+              "title": "Cursespewing",
+              "text": "Cursespewing"
+            }
+          ]
+        },
+        {
+          "text": "Deception",
+          "tooltip": "Deception: This weapon is hard to focus upon and thus provides a +3 enhancement bonus to Bluff checks. In addition, Deception weapons have a small chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Deception",
+              "title": "Deception",
+              "text": "Deception"
+            }
+          ]
+        },
+        {
+          "text": "Destruction",
+          "tooltip": "Destruction: On Hit: Your target gains a stack of Armor Destruction. (-1 penalty to Armor Class, -1% of its Fortification. 20 Second Duration. Stacks up to 15 times.) This effect may trigger once every three seconds.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Destruction",
+              "title": "Destruction",
+              "text": "Destruction"
+            }
+          ]
+        },
+        {
+          "text": "Electric Absorption +20%",
+          "tooltip": "Electric Absorption +20%: Passive: 20% Enhancement Bonus to Electric Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Energy_Absorption",
+              "title": "Energy Absorption",
+              "text": "Electric Absorption +20%"
+            }
+          ]
+        },
+        {
+          "text": "Elf Bane",
+          "tooltip": "Elf Bane: A bane weapon excels at attacking one type or subtype of creature. Against Elves, this weapon's effective enhancement bonus is +2 better than its normal enhancement bonus. It deals an extra 2 to 12 points of damage against the foe.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Elf Bane"
+            }
+          ]
+        },
+        {
+          "text": "Enhanced Ki +1",
+          "tooltip": "Enhanced Ki +1: Increases the rate at which the user gains ki with each successful attack.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhanced_Ki",
+              "title": "Enhanced Ki",
+              "text": "Enhanced Ki +1"
+            }
+          ]
+        },
+        {
+          "text": "Everbright",
+          "tooltip": "Everbright: Flecks of marble and pearl shimmer across this shield, set within images of bursting stars and beaming suns. An everbright shield will never take damage from rust or acid and can emit a Blinding Flash 3/rest.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Everbright",
+              "title": "Everbright",
+              "text": "Everbright"
+            }
+          ]
+        },
+        {
+          "text": "Feather Falling",
+          "tooltip": "Feather Falling: This item is engraved with feathers and bestows a powerful magical effect. Whenever the wearer begins to fall from any height, this effect slows the descent dramatically, causing the wearer to fall like a feather.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Feather_Falling",
+              "title": "Feather Falling",
+              "text": "Feather Falling"
+            }
+          ]
+        },
+        {
+          "text": "Finesse",
+          "tooltip": "Finesse : This weapon has a Small air elemental bound to it. The wielder can use a finesse weapon as if he had the Weapon Finesse feat. In addition, the weapon grants a +2 enhancement bonus to the wielder's Dexterity score.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Finesse",
+              "title": "Finesse",
+              "text": "Finesse"
+            }
+          ]
+        },
+        {
+          "text": "Fire Absorption +20%",
+          "tooltip": "Fire Absorption +20%: Passive: 20% Enhancement Bonus to Fire Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Energy_Absorption",
+              "title": "Energy Absorption",
+              "text": "Fire Absorption +20%"
+            }
+          ]
+        },
+        {
+          "text": "Ghostly",
+          "tooltip": "Ghostly: Equipping this item causes you to become partially incorporeal. Your melee attacks do not roll a miss chance for Incorporeal targets. Enemy attacks have a 10% chance to miss you due to incorporeality. You receive a +5 enhancement bonus to your Hide and Move Silently skills.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Ghostly",
+              "title": "Ghostly",
+              "text": "Ghostly"
+            }
+          ]
+        },
+        {
+          "text": "Gnoll Bane",
+          "tooltip": "Gnoll Bane: A bane weapon excels at attacking one type or subtype of creature. Against Gnolls, this weapon's effective enhancement bonus is +2 better than its normal enhancement bonus. It deals an extra 2 to 12 points of damage against the foe.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Gnoll Bane"
+            }
+          ]
+        },
+        {
+          "text": "Good Luck +2",
+          "tooltip": "Good Luck +2: This item gives a +2 Luck bonus to all saves and skill checks.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Good_Luck",
+              "title": "Good Luck",
+              "text": "Good Luck +2"
+            }
+          ]
+        },
+        {
+          "text": "Greater Goblinoid Bane",
+          "tooltip": "Greater Goblinoid Bane: A bane weapon excels at attacking one type or subtype of creature. Against Goblinoids, this weapon's effective enhancement bonus is +4 better than its normal enhancement bonus. It deals an extra 3 to 18 points of damage against the foe.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Greater Goblinoid Bane"
+            }
+          ]
+        },
+        {
+          "text": "Greater Good",
+          "tooltip": "Greater Good: This weapon is infused with the ultimate power of Good. It does an additional 2 to 12 damage to non-good targets and can only be wielded by Good-aligned characters.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Greater_Good",
+              "title": "Greater Good",
+              "text": "Greater Good"
+            }
+          ]
+        },
+        {
+          "text": "Greater Lawful Outsider Bane",
+          "tooltip": "Greater Lawful Outsider Bane: A bane weapon excels at attacking one type or subtype of creature. Against Lawful Outsiders, this weapon's effective enhancement bonus is +4 better than its normal enhancement bonus. It deals an extra 3 to 18 points of damage against the foe.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Greater Lawful Outsider Bane"
+            }
+          ]
+        },
+        {
+          "text": "Greater Monstrous Humanoid Bane",
+          "tooltip": "Greater Monstrous Humanoid Bane: A bane weapon excels at attacking one type or subtype of creature. Against Monstrous Humanoids, this weapon's effective enhancement bonus is +4 better than its normal enhancement bonus. It deals an extra 3 to 18 points of damage against the foe.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Greater Monstrous Humanoid Bane"
+            }
+          ]
+        },
+        {
+          "text": "Lesser Dwarf Bane",
+          "tooltip": "Lesser Dwarf Bane: A bane weapon excels at attacking one type or subtype of creature. Against Dwarves, this weapon's effective enhancement bonus is +1 better than its normal enhancement bonus. It deals an extra 1 to 6 points of damage against the foe.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Lesser Dwarf Bane"
+            }
+          ]
+        },
+        {
+          "text": "Lesser Evil Outsider Bane",
+          "tooltip": "Lesser Evil Outsider Bane: A bane weapon excels at attacking one type or subtype of creature. Against Evil Outsiders, this weapon's effective enhancement bonus is +1 better than its normal enhancement bonus. It deals an extra 1 to 6 points of damage against the foe.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Lesser Evil Outsider Bane"
+            }
+          ]
+        },
+        {
+          "text": "Lesser Goblinoid Bane",
+          "tooltip": "Lesser Goblinoid Bane: A bane weapon excels at attacking one type or subtype of creature. Against Goblinoids, this weapon's effective enhancement bonus is +1 better than its normal enhancement bonus. It deals an extra 1 to 6 points of damage against the foe.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Lesser Goblinoid Bane"
+            }
+          ]
+        },
+        {
+          "text": "Lesser Reptilian Bane",
+          "tooltip": "Lesser Reptilian Bane: A bane weapon excels at attacking one type or subtype of creature. Against Reptiles, this weapon's effective enhancement bonus is +1 better than its normal enhancement bonus. It deals an extra 1 to 6 points of damage against the foe.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Lesser Reptilian Bane"
+            }
+          ]
+        },
+        {
+          "text": "Melee Alacrity 10%",
+          "tooltip": "Melee Alacrity 10%: Gain 10% Enhancement bonus to Melee attack speed. Does not stack with the Haste spell.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Melee_Alacrity",
+              "title": "Melee Alacrity",
+              "text": "Melee Alacrity 10%"
+            }
+          ]
+        },
+        {
+          "text": "Metalline",
+          "tooltip": "Metalline: Metalline bypasses any metal based damage reduction. (Adamantine, \"Alchemical, Silver\", Byeshk, Cold Iron, Mithral)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Metalline",
+              "title": "Metalline",
+              "text": "Metalline"
+            }
+          ]
+        },
+        {
+          "text": "Natural Armor +4",
+          "tooltip": "Natural Armor +4: Passive: +4 Natural Armor Bonus to Armor Class.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Natural_armor_bonus",
+              "title": "Natural armor bonus",
+              "text": "Natural Armor +4"
+            }
+          ]
+        },
+        {
+          "text": "Paralyzing",
+          "tooltip": "Paralyzing : Any creature struck by this weapon must succeed on a DC 17 Will save or be paralyzed. The target may attempt a new save to end the effect every several seconds; otherwise the paralysis lasts for 1 minute.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Paralyzing",
+              "title": "Paralyzing",
+              "text": "Paralyzing"
+            }
+          ]
+        },
+        {
+          "text": "Parrying I",
+          "tooltip": "Parrying I: Passive: +1 Insight bonus to Armor Class, +1 Insight bonus to Fortitude, Reflex, and Will Saving throws.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Parrying",
+              "title": "Parrying",
+              "text": "Parrying I"
+            }
+          ]
+        },
+        {
+          "text": "Plant Slaying",
+          "tooltip": "Plant Slaying: This item is keyed to plants. If it strikes such a creature, the target must make a DC 20 Fortitude save or die instantly.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Plant_Slaying",
+              "title": "Plant Slaying",
+              "text": "Plant Slaying"
+            }
+          ]
+        },
+        {
+          "text": "Pure Good",
+          "tooltip": "Pure Good: This weapon is infused with the power of Pure Good. It does an additional 1 to 6 damage to non-good targets and can only be wielded by Good-aligned characters.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Pure_Good",
+              "title": "Pure Good",
+              "text": "Pure Good"
+            }
+          ]
+        },
+        {
+          "text": "Resistance +5",
+          "tooltip": "Resistance +5: Passive: +5 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Resistance_(enchantment)",
+              "title": "Resistance (enchantment)",
+              "text": "Resistance +5"
+            }
+          ]
+        },
+        {
+          "text": "Shattermantle",
+          "tooltip": "Shattermantle: Transluscent, writhing energy and blue sparks can be seen raging within this weapon. When a shattermantle weapon strikes a foe that has spell resistance, the value of that spell resistance is reduced by 3 for 9 seconds. A foe can only have its SR reduced by one Shattermantle effect at a time.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Shattermantle",
+              "title": "Shattermantle",
+              "text": "Shattermantle"
+            }
+          ]
+        },
+        {
+          "text": "Smiting",
+          "tooltip": "Smiting: On Hit: 4 to 24 Bane damage to Constructs.On Vorpal Hit: If a construct struck by this weapon has fewer than 1000 Hit Points, it is instantly slain. If the construct has above 1000 Hit Points, it takes 100 damage.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Smiting#Smiting",
+              "title": "Smiting",
+              "text": "Smiting"
+            }
+          ]
+        },
+        {
+          "text": "Telekinetic",
+          "tooltip": "Telekinetic: Targets that suffer a critical hit from a Telekinetic weapon must make a DC 17 Balance check or be knocked down.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Telekinetic",
+              "title": "Telekinetic",
+              "text": "Telekinetic"
+            }
+          ]
+        },
+        {
+          "text": "True Law",
+          "tooltip": "True Law: This weapon is infused with the power of True Law. It does an additional 1 to 6 damage to non-lawful targets and can only be wielded by Lawful-aligned characters.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/True_Law",
+              "title": "True Law",
+              "text": "True Law"
+            }
+          ]
+        },
+        {
+          "text": "Underwater Action",
+          "tooltip": "Underwater Action: This item grants the wearer the ability to breathe water as if it were air.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Underwater_Action",
+              "title": "Underwater Action",
+              "text": "Underwater Action"
+            }
+          ]
+        },
+        {
+          "text": "Vicious",
+          "tooltip": "Vicious: When a vicious weapon strikes an opponent, it creates a flash of disruptive energy that resonates between the opponent and the wielder. This energy deals an extra 2 to 12 points of damage to the opponent and 1 to 3 points of damage to the wielder.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Vicious",
+              "title": "Vicious",
+              "text": "Vicious"
+            }
+          ]
+        },
+        {
+          "text": "Vorpal",
+          "tooltip": "Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 1000 Hit Points, they are instantly slain. If your target has above 1000 Hit Points, they take 100 damage.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Vorpal#Vorpal",
+              "title": "Vorpal",
+              "text": "Vorpal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Suppressed Power",
+      "tooltip": "Suppressed Power: This psionic item is powerful, but you sense that it has not unlocked all of its secrets to you at this time.",
+      "children": [
+        {
+          "text": "Adds Lesser Vampirism",
+          "tooltip": "Lesser Vampirism: This weapon drains a tiny portion of the target's life force whenever it does damage.Note: provides 1 hp of healing per hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Vampirism",
+              "title": "Vampirism",
+              "text": "Lesser Vampirism"
+            }
+          ]
+        },
+        {
+          "text": "Becomes Bound to Character on Acquire",
+          "tooltip": null,
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bind",
+              "title": "Bind",
+              "text": "Bound to Character on Acquire"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Suppressed_Power",
+          "title": "Suppressed Power",
+          "text": "Suppressed Power"
+        }
+      ]
+    }
+  ]
+}

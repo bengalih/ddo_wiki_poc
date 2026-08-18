@@ -1,0 +1,140 @@
+{
+  "page_title": "Item:Lash, the Arbalest of Arcs",
+  "page_id": 113367,
+  "revision_id": 666426,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:28:40.113761+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Lash, the Arbalest of Arcs\n  | damage                   = 5.60[1d10+3] + 15 Pierce, Silver, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Repeating Heavy Crossbow\n  | class                    = Ranged\n  | prof                     = Exotic\n  | hand                     = Ranged\n  | damagemod                = DEX\n  | attackmod                = DEX\n  | durability               = 420\n  | material                 = Bone\n  | hardness                 = 43\n  | minlevel                 = 33\n  | basevalue                = 13,240 pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 72\n  | revamped                 = Update 76\n  | quest                    = Den of Vipers\n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement_bonus|w|15}}\n* {{Lightning Lash}}\n* {{Sparkscale}}\n* {{Armor-Piercing|5|Legendary}}\n* {{Sealed in Mist}}\n* {{Augment|Orange}}\n* {{Augment|Purple}}\n  | description              = Before being lost to the mists, this crossbow was once used to break a siege, raining bolts down on whole armies of attackers.\n  | crafting                 = Augmentation Altar\n  | pic                      = Attuned Bone Repeating Heavy Crossbow shown.jpg\n  | picdesc                  = Lash, the Arbalest of Arcs.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Repeating Heavy Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 33,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Lash",
+      "tooltip": "Lightning Lash: This item lashes electricity through your opponents. Your attacks and offensive spells have a high change to deal very strong Electric damage over time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lightning_Lash",
+          "title": "Lightning Lash",
+          "text": "Lightning Lash"
+        }
+      ]
+    },
+    {
+      "text": "Sparkscale",
+      "tooltip": "Sparkscale: Adds Silver material type. On hit: 15d6 Electric Damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sparkscale",
+          "title": "Sparkscale",
+          "text": "Sparkscale"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Armor-Piercing 5%",
+      "tooltip": "Legendary Armor-Piercing 5%: Passive: +5% Legendary bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Legendary Armor-Piercing 5%"
+        }
+      ]
+    },
+    {
+      "text": "Sealed in Mist • Legendary Ash • Legendary Dust • Legendary Ooze • Legendary Salt • Legendary Vacuum",
+      "tooltip": "Sealed in Mist: This weapon has its true power obscured by mist. It can have its power unsealed at the Augmentation Altar, adding one effect. Attempting to add another will remove the original.Effect options: Legendary AffirmationLegendary Affirmation: Your attacks and offensive spells have a chance to grant you 1,000 Temporary HP.Legendary Ash: Your attacks and offensive spells have a chance to reduce enemy Magical Resistance Rating and Universal Spell Power.Legendary Dust: Your attacks and offensive spells have a chance to reduce enemy Physical Resistance Rating and Positive Healing Amplification.Legendary Ooze: Your attacks and offensive spells have a chance to reduce enemy Physical and Magical Resistance Rating and summon oozes to your aid.(Note: Exactly which sort of ooze is summoned depends on what item this enchantment is found on.)Legendary Salt: Your attacks and offensive spells have a chance to significantly slow your enemies.Legendary Vacuum: Your Attacks and offensive spells have a chance to inflict multiple stacks of Vulnerable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sealed_in_Mist",
+          "title": "Sealed in Mist",
+          "text": "Sealed in Mist"
+        },
+        {
+          "target": "/page/Legendary_Ash",
+          "title": "Legendary Ash",
+          "text": "Legendary Ash"
+        },
+        {
+          "target": "/page/Legendary_Dust",
+          "title": "Legendary Dust",
+          "text": "Legendary Dust"
+        },
+        {
+          "target": "/page/Legendary_Ooze",
+          "title": "Legendary Ooze",
+          "text": "Legendary Ooze"
+        },
+        {
+          "target": "/page/Legendary_Salt",
+          "title": "Legendary Salt",
+          "text": "Legendary Salt"
+        },
+        {
+          "target": "/page/Legendary_Vacuum",
+          "title": "Legendary Vacuum",
+          "text": "Legendary Vacuum"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

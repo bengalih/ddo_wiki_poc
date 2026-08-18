@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Ring of Subtle Villainy",
+  "page_id": 78031,
+  "revision_id": 634266,
+  "revision_timestamp": "2025-04-22T03:10:16Z",
+  "fetched_at": "2026-08-17T22:45:50.928768+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Ring of Subtle Villainy\n  | minlevel                 = 21\n  | type                     = Ring\n  | race                     = \n  | slot                     = Finger\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 310\n  | material                 = Gem\n  | hardness                 = 41\n  | basevalue                = 8,401 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Caged Beast\n  | released                 = Update 44\n  | revamped                 = Update 59\n  | end reward               = \n  | turn in                  = \n  | chest                    = End chest\n  | enhancements             = \n* {{Stat|Dex|10}}\n* {{Save|reflex|9}}\n* {{Stat|Well Rounded|1|Profane}}\n* {{Hp|Profane Lifeforce|33}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Revel in your villainy.\n  | pic                      = Ring Generic Rectangle.png\n  | picdesc                  = Ring of Subtle Villainy.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 21,
+  "enchantments": [
+    {
+      "text": "Dexterity +10",
+      "tooltip": "Dexterity +10: This item makes the wearer more nimble and dexterous, granting a +10 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +10"
+        }
+      ]
+    },
+    {
+      "text": "Reflex Save +9",
+      "tooltip": "Reflex Save +9: This item gives a +9 Resistance bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save +9"
+        }
+      ]
+    },
+    {
+      "text": "Profane Well Rounded +1",
+      "tooltip": "Profane Well Rounded +1: +1 Profane bonus to all abilities.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ability",
+          "title": "Ability",
+          "text": "Profane Well Rounded +1"
+        }
+      ]
+    },
+    {
+      "text": "Profane Lifeforce +33",
+      "tooltip": "Profane Lifeforce +33: +33 Profane bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hit_Point",
+          "title": "Hit Point",
+          "text": "Profane Lifeforce +33"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

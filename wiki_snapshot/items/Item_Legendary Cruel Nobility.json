@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Legendary Cruel Nobility",
+  "page_id": 91337,
+  "revision_id": 672767,
+  "revision_timestamp": "2026-01-25T19:18:12Z",
+  "fetched_at": "2026-08-17T21:39:21.208062+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Cruel Nobility\n  | minlevel                 = 30\n  | type                     = Scimitar\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = 5[1d6+2] + 15 Slash, Evil, Magic\n  | crit                     = 18-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 360\n  | material                 = Steel\n  | hardness                 = 40\n  | cost                     = 12,002 pp\n  | weight                   = 4 lbs\n  | released                 = Update 50\n  | revamped                 = Update 76\n  | quest                    = Legendary Crafting\n  | legendary                = Epic Cruel Nobility\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Burst|Axiomatic|6|14}}\n* {{Blast|Evil|6}}\n* {{Bleeding|6}}\n* {{Utter Disintegration}}\n* {{Augment|Red}}\n  | crafting                 = \n  | description              = A finely wrought scimitar that once belonged to a Rakshasa noble, glowing darkly with an unholy aura. It tears into enemies visciously and is especially debilitating against those whose hearts are not evil.\n  | pic                      = Cruel Nobility shown.jpg\n  | picdesc                  = Legendary Cruel Nobility.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Scimitar",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Axiomatic Burst 6",
+      "tooltip": "Axiomatic Burst 6: This weapon is an implement of law, dealing 6d6 Law damage on a successful hit to Chaotic enemies, and 14d6 Law damage on a critical hit to Chaotic enemies. This effect makes the weapon lawfully aligned.Chaotic characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Axiomatic_Burst#Axiomatic_Burst",
+          "title": "Axiomatic Burst",
+          "text": "Axiomatic Burst 6"
+        }
+      ]
+    },
+    {
+      "text": "Evil Blast 6",
+      "tooltip": "Evil Blast 6: This weapon is a sinister implement of evil deeds, dealing 6d6 Evil damage on a successful hit, and an additional 6d6 Evil damage on a critical hit. This effect makes the weapon evil aligned.Good characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Evil Blast 6"
+        }
+      ]
+    },
+    {
+      "text": "Bleeding 6",
+      "tooltip": "Bleeding 6: This weapon is wickedly curved, with spines and hooks meant to cause damage to those with flesh. This weapon does 6d8 bleeding damage to those that are vulnerable to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleeding",
+          "title": "Bleeding",
+          "text": "Bleeding 6"
+        }
+      ]
+    },
+    {
+      "text": "Utter Disintegration",
+      "tooltip": "Utter Disintegration: This weapon has a dark, insidious power deep within. Occasionally, this power lashes out violently at enemies and attempts to disintegrate them. This disintegrate is incredibly powerful, and will utterly destroy weaker foes.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Utter_Disintegration",
+          "title": "Utter Disintegration",
+          "text": "Utter Disintegration"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

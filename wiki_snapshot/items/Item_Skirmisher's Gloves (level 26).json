@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Skirmisher's Gloves (level 26)",
+  "page_id": 41466,
+  "revision_id": 649802,
+  "revision_timestamp": "2025-07-26T19:12:48Z",
+  "fetched_at": "2026-08-17T23:00:13.788965+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Skirmisher's Gloves\n  | type                     = Gloves\n  | basevalue                = 10,420 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Hand\n  | durability               = 180\n  | material                 = Leather\n  | hardness                 = 27\n  | minlevel                 = 26\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 19\n  | quest                    = The Thrill of the Hunt\n  | end reward               = yes\n  | chest                    = \n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Stat|STR|9}}\n* {{Accuracy|viii}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Gloves Generic Brawling.png\n  | picdesc                  = Skirmisher's Gloves (Level 26).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "Strength +9",
+      "tooltip": "Strength +9: This item gives the wearer the power of Ogre Strength, granting a +9 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +9"
+        }
+      ]
+    },
+    {
+      "text": "Accuracy VIII",
+      "tooltip": "Accuracy VIII: Passive: +8 Competence bonus to attack rolls",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accuracy",
+          "title": "Accuracy",
+          "text": "Accuracy VIII"
+        }
+      ]
+    }
+  ]
+}

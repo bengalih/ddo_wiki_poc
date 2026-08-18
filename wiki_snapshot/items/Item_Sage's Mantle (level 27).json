@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Sage's Mantle (level 27)",
+  "page_id": 41520,
+  "revision_id": 690643,
+  "revision_timestamp": "2026-06-30T16:32:07Z",
+  "fetched_at": "2026-08-17T22:50:03.401497+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Sage's Mantle\n  | type                     = Cloak\n  | class                    = Clothing\n  | basevalue                = 10,820pp\n  | weight                   = 0.10 lbs\n  | slot                     = Back\n  | durability               = 190\n  | material                 = Cloth\n  | hardness                 = 28\n  | minlevel                 = 27\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 19\n  | quest                    = The Tracker's Trap\n  | end reward               = yes\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Spell Focus|Enchantment|V}}\n* {{Spell Focus|Illusion|IV}}\n  | crafting                 = \n  | description              = \n  | pic                      = Sage's Mantle Shown.jpg\n  | picdesc                  = Sage's Mantle (Level 27).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "Enchantment Focus V",
+      "tooltip": "Enchantment Focus V: +5 Equipment bonus to the DC of Enchantment spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Enchantment Focus V"
+        }
+      ]
+    },
+    {
+      "text": "Illusion Focus IV",
+      "tooltip": "Illusion Focus IV: +4 Equipment bonus to the DC of Illusion spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Illusion Focus IV"
+        }
+      ]
+    }
+  ]
+}

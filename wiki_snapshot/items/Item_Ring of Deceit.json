@@ -1,0 +1,128 @@
+{
+  "page_title": "Item:Ring of Deceit",
+  "page_id": 34001,
+  "revision_id": 634232,
+  "revision_timestamp": "2025-04-22T03:08:00Z",
+  "fetched_at": "2026-08-17T22:45:01.120301+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Ring of Deceit\n  | minlevel                 = 25\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 260\n  | material                 = Gold\n  | hardness                 = 35\n  | basevalue                = 10,020 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 17\n  | quest                    = The Fall of Truth \n  | chest                    = warded chest (Epic Normal)\n  | enhancements             = \n* {{Skills|Voice of Deceit}}\n* {{Stat|CHA|8}}\n* {{Deception|Bluff=improved}}\n* {{Attuned to Heroism}}\n  | crafting                 = Stormreaver Monument\n  | craftingupgrade          = \n  | pic                      = Ring Generic Lies.png\n  | picdesc                  = Ring of Deceit.png\n  | description              = This ring is a potent facilitator of deceptions and falsehoods, but it is risky to use. Not only may the weak-minded be seduced by their own inventions, but the ring constantly suggests new and profitable lies to its wearer, often leading to addiction and ruin.\n  | tips                     = \n* {{Popup|Tier 1|[[File:Ring of Deceit (Tier 1).png|450px]]|long=y}}: Epic Hard or with {{Commendation|Heroism|5}}\n* {{Popup|Tier 2|[[File:Ring of Deceit (Tier 2).png|450px]]|long=y}}: Epic Elite or with {{Commendation|Heroism|7}} (12 total)\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "Voice of Deceit",
+      "tooltip": "Voice of Deceit: Passive: +20 Competence bonus to Bluff, Diplomacy, Haggle, and Perform skills.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Voice_of_Deceit",
+          "title": "Voice of Deceit",
+          "text": "Voice of Deceit"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +8",
+      "tooltip": "Charisma +8: This item makes the wearer have more flair, granting a +8 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +8"
+        }
+      ]
+    },
+    {
+      "text": "Improved Deception",
+      "tooltip": "Improved Deception: This item makes your weapons hard to focus upon and thus provides a +5 enhancement bonus to Bluff checks. In addition, while using this item your weapons have a chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception#Improved_Deception",
+          "title": "Deception",
+          "text": "Improved Deception"
+        }
+      ]
+    },
+    {
+      "text": "Attuned to Heroism",
+      "tooltip": "This relic is attuned to heroic actions.",
+      "children": [
+        {
+          "text": "Attuned by Heroism: Tier 1",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Yellow Augment Slot",
+              "tooltip": "Yellow and Colorless",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Augment_Slot",
+                  "title": "Augment Slot",
+                  "text": "Yellow Augment Slot"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 1"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Colorless Augment Slot",
+              "tooltip": "Colorless",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Augment_Slot",
+                  "title": "Augment Slot",
+                  "text": "Colorless Augment Slot"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 2"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Attuned_to_Heroism",
+          "title": "Attuned to Heroism",
+          "text": "Attuned to Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

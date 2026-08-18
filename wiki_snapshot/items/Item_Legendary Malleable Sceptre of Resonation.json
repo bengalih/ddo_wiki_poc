@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Legendary Malleable Sceptre of Resonation",
+  "page_id": 88760,
+  "revision_id": 632589,
+  "revision_timestamp": "2025-04-22T01:14:57Z",
+  "fetched_at": "2026-08-17T21:58:39.808156+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Malleable Sceptre of Resonation\n  | minlevel                 = 29\n  | type                     = Club\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damage                   = 4.80[1d6+2] + 15 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | race                     = \n  | slot                     = \n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 340\n  | material                 = Wood\n  | hardness                 = 39\n  | cost                     = 11,600 pp 1 cp\n  | weight                   = 3 lbs\n  | released                 = Update 49\n  | revamped                 = Update 50\n  | quest                    = Eye Know Whodunnit\n  | end reward               = \n  | turn in                  = \n  | chest                    = End chest\n  | mythic                   = yes\n  | enhancements             = \n* {{Enhancement bonus|i|15|29}}\n* {{Spelllore|Sonic|21}}\n* {{SpellPower|Resonance|142}}\n* {{SpellPower|Resonance|71|Insight}}\n* {{Sheltering|33|Enhancement|Magical}}\n* {{CraftingEffects|Malleable}}\n* {{Augment|Red}}\n  | crafting                 = Cauldron of Sora Katra\n  | craftingupgrade          = Legendary Combustible Resonating Quarterstaff¦Legendary Corrosive Resonating Quarterstaff¦Legendary Glaciated Resonating Quarterstaff¦Legendary Impulsive Resonating Quarterstaff¦Legendary Magnetic Resonating Quarterstaff\n  | description              = This magical sceptre is attuned to Sonic spells.\n  | pic                      = Malleable Sceptre of Radiance shown.jpg\n  | picdesc                  = Legendary Malleable Sceptre of Resonation.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +29",
+      "tooltip": "Spellcasting Implement +29: Passive: +29 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +29"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Sonic Lore +21%",
+      "tooltip": "Sonic Lore +21: Passive: Your Sonic spells gain a 21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Sonic Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Resonance +142",
+      "tooltip": "Resonance +142: Passive: +142 Equipment bonus to Sonic Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resonance",
+          "title": "Resonance",
+          "text": "Resonance +142"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Resonance +71",
+      "tooltip": "Insightful Resonance +71: Passive: +71 Insight bonus to Sonic Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resonance",
+          "title": "Resonance",
+          "text": "Insightful Resonance +71"
+        }
+      ]
+    },
+    {
+      "text": "Magical Sheltering +33",
+      "tooltip": "Magical Sheltering +33: +33 Enhancement bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Magical Sheltering +33"
+        }
+      ]
+    },
+    {
+      "text": "Malleable",
+      "tooltip": "Malleable: This item has a magical aura of malleability and can be combined with any item that has the Fusible property to create a new, more powerful fusion of the two items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cauldron_of_Sora_Katra",
+          "title": "Cauldron of Sora Katra",
+          "text": "Malleable"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

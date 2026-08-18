@@ -1,0 +1,157 @@
+{
+  "page_title": "Item:Epic Emerald Guard",
+  "page_id": 48398,
+  "revision_id": 684816,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:48:12.127101+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Epic Emerald Guard\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | race                     = None\n  | ac                       = +36\n  | maxdexbonus              = 4\n  | acp                      = 0\n  | asf                      = 35%\n  | durability               = 470\n  | material                 = Steel\n  | hardness                 = 38\n  | basevalue                = 10,950 pp\n  | weight                   = 50 lbs\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | minlevel                 = 27\n  | released                 = Update 23\n  | quest                    = Inferno of the Damned (epic)\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Clicky|Nightshield|25|1}}\n* {{Enhancement bonus|a|11}}\n* {{Stat|CON|3|Insightful}}\n* {{Skills|Persuasion}}\n* {{Guard|Haste}}\n* {{Fortification|0|50}}\n* {{Nimbleness|Greater}}\n* {{UpgradeableAugment|Primary|0}}\n* {{UpgradeableAugment|Secondary|0}}\n* {{Named item sets|Unbreakable Adamancy}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Epic Emerald Guard shown.jpg\n  | picdesc                  = Epic Emerald Guard.png\n  | description              = This platemail has been tinted a bright emerald color. A deep imprint of a claw has been etched into the center of the chest.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "Nightshield — 1 Charges (Recharged/Day:1)",
+      "tooltip": "NightshieldCaster level: 25Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nightshield",
+          "title": "Nightshield",
+          "text": "Nightshield"
+        }
+      ]
+    },
+    {
+      "text": "+11 Enhancement Bonus",
+      "tooltip": "+11 Enhancement Bonus: +11 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+11 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Constitution +3",
+      "tooltip": "Insightful Constitution +3: This item gives the wearer improved health, granting a +3 Insight bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Insightful Constitution +3"
+        }
+      ]
+    },
+    {
+      "text": "Persuasion",
+      "tooltip": "Persuasion: This item gives a +3 competency bonus to all Charisma based skills.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Persuasion",
+          "title": "Persuasion",
+          "text": "Persuasion"
+        }
+      ]
+    },
+    {
+      "text": "Haste Guard",
+      "tooltip": "Haste Guard: When you are hit by enemies, there is a chance you will be Hasted, quickening your attack and movement speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Haste_Guard",
+          "title": "Haste Guard",
+          "text": "Haste Guard"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Fortification (+50%)",
+      "tooltip": "Exceptional Fortification (+50%): This item produces a magical force that protects vital areas of the wearer more effectively. When a critical hit or sneak attack is scored on the wearer, there is a +50% chance that the critical hit or sneak attack is negated and the damage is instead rolled normally. This ability is considered an Insight bonus when determining stacking with other sources of fortification",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Exceptional Fortification (+50%)"
+        }
+      ]
+    },
+    {
+      "text": "Greater Nimbleness",
+      "tooltip": "Greater Nimbleness: This suit of armor looks much less restrictive than others of its type. A suit of armor that has this property has a maximum Dexterity bonus 2 higher than normal, and its armor check penalty is reduced by 4.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nimbleness#Greater_Nimbleness",
+          "title": "Nimbleness",
+          "text": "Greater Nimbleness"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Primary Augment (Yellow Augment Slot or Blue Augment Slot)",
+      "tooltip": "Upgradeable - Primary Augment: This item can be upgraded to contain a Yellow, Blue or Red (weapons and shields only) augment. Bring this item to the Fountain of Necrotic Might outside the Black Mausoleum and combine it with Item:Epic Tapestry Shreds to upgrade the item.Yellow and ColorlessBlue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        },
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Secondary Augment (Green Augment Slot)",
+      "tooltip": "Upgradeable - Secondary Augment: This item can be upgraded to contain a Green, Orange (weapons and shields only) or Purple (weapons and shields only) augment. Bring this item to the Fountain of Necrotic Might outside the Black Mausoleum and combine it with Item:Masterwork Tapestry Shreds to upgrade the item.Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Unbreakable Adamancy",
+      "tooltip": "Unbreakable Adamancy: This item is part of the Unbreakable Adamancy set.When two items from this set are equipped, you gain a +5 Luck bonus to PRR and MRR.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Unbreakable_Adamancy",
+          "title": "Named item sets",
+          "text": "Unbreakable Adamancy"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Legendary Ring of Unbridled Might",
+  "page_id": 105632,
+  "revision_id": 632762,
+  "revision_timestamp": "2025-04-22T01:27:05Z",
+  "fetched_at": "2026-08-17T22:03:48.686164+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Legendary Ring of Unbridled Might\n  | minlevel                 = 32\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 420\n  | material                 = Gem\n  | hardness                 = 52\n  | cost                     = 12,801 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 63\n  | quest                    = Astral Ambush\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|STR|3|Quality}}\n* {{Tactics|Shatter|7|Insightful}}\n* {{Stunning|7|Insightful}}\n* {{Accuracy|10|Insightful}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n  | crafting                 = \n  | description              = This ring unlocks something deep within its wearer, giving them the might to tear through armor and debilitate foes.\n  | pic                      = \n  | picdesc                  = Legendary Ring of Unbridled Might.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 32,
+  "enchantments": [
+    {
+      "text": "Quality Strength +3",
+      "tooltip": "Quality Strength +3: This item gives the wearer the power of Ogre Strength, granting a +3 Quality bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Quality Strength +3"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Shatter +7",
+      "tooltip": "Insightful Shatter +7: +7 Insight bonus to the DC of character's Sunder and Improved Sunder attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shatter",
+          "title": "Shatter",
+          "text": "Insightful Shatter +7"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Stunning +7",
+      "tooltip": "Insightful Stunning +7: +7 Insight bonus to the DC of character's Stunning Blow and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stunning",
+          "title": "Stunning",
+          "text": "Insightful Stunning +7"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Accuracy +10",
+      "tooltip": "Insightful Accuracy +10: Passive: +10 Insight bonus to attack rolls",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accuracy",
+          "title": "Accuracy",
+          "text": "Insightful Accuracy +10"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

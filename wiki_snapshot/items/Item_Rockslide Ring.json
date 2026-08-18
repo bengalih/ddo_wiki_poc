@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Rockslide Ring",
+  "page_id": 83330,
+  "revision_id": 634368,
+  "revision_timestamp": "2025-04-22T03:17:05Z",
+  "fetched_at": "2026-08-17T22:48:33.272297+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Rockslide Ring\n  | type                     = Ring\n  | cost                     = 2001 pp\n  | weight                   = 0.10lbs\n  | slot                     = Finger\n  | durability               = 150\n  | material                 = Steel\n  | hardness                 = 25\n  | minlevel                 = 5\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 48\n  | quest                    = The Knight Who Cried Windmill\n  | chest                    = End Chest\n  | end reward               = \n  | enhancements             = \n* {{Shatter|4}}\n* {{Stat|Dex|1|Insightful}}\n* {{Tactics|Combat Mastery|2|Insightful}}\n* {{Guard|Earthen}}\n* {{Augment|Yellow}}\n* {{Named item sets|Seasons of the Feywild}} \n  | epic                     = \n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Crumble them under your avalanche.\n  | pic                      = \n  | picdesc                  = Rockslide Ring.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Shatter +4",
+      "tooltip": "Shatter +4: This effect gives a +4 Enhancement bonus to the DC to resist the character's Sunder and Improved Sunder attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shatter",
+          "title": "Shatter",
+          "text": "Shatter +4"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Dexterity +1",
+      "tooltip": "Insightful Dexterity +1: This item makes the wearer more nimble and dexterous, granting a +1 Insight bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Insightful Dexterity +1"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Combat Mastery +2",
+      "tooltip": "Insightful Combat Mastery +2: +2 Insight bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combat_Mastery",
+          "title": "Combat Mastery",
+          "text": "Insightful Combat Mastery +2"
+        }
+      ]
+    },
+    {
+      "text": "Earthen Guard",
+      "tooltip": "Earthen Guard: When you are successfully attacked, there is a chance that a Stone Skin will be cast on you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Earthen_Guard",
+          "title": "Earthen Guard",
+          "text": "Earthen Guard"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Seasons of the Feywild",
+      "tooltip": "Seasons of the Feywild:",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Seasons_of_the_Feywild",
+          "title": "Named item sets",
+          "text": "Seasons of the Feywild"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

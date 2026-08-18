@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Balanced Boots",
+  "page_id": 39428,
+  "revision_id": 628412,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:07:28.115345+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Balanced Boots\n  | type                     = Boots\n  | race                     = Sun Elf\n  | basevalue                = 6005 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 15\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Stat|CON|+5}}\n* {{Skills|Balance|13}}\n* {{Feather Falling}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Boots Generic Gray.png\n  | picdesc                  = Balanced_Boots.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Constitution +5",
+      "tooltip": "Constitution +5: This item gives the wearer improved health, granting a +5 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +5"
+        }
+      ]
+    },
+    {
+      "text": "Balance +13",
+      "tooltip": "Balance +13: Passive: +13 Competence bonus to the Balance skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Balance",
+          "title": "Balance",
+          "text": "Balance +13"
+        }
+      ]
+    },
+    {
+      "text": "Feather Falling",
+      "tooltip": "Feather Falling: This item is engraved with feathers and bestows a powerful magical effect. Whenever the wearer begins to fall from any height, this effect slows the descent dramatically, causing the wearer to fall like a feather.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feather_Falling",
+          "title": "Feather Falling",
+          "text": "Feather Falling"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:The Frozen Skull",
+  "page_id": 94553,
+  "revision_id": 672704,
+  "revision_timestamp": "2026-01-25T19:03:19Z",
+  "fetched_at": "2026-08-17T23:14:05.710039+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = The Frozen Skull\n  | minlevel                 = 4\n  | type                     = Rapier\n  | class                    = Piercing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = [1d6] + 2 Pierce, Magic\n  | crit                     = 18-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 85\n  | material                 = Ice\n  | hardness                 = 14\n  | cost                     = 1,602 pp\n  | weight                   = 2 lbs\n  | released                 = Update 52\n  | revamped                 = Update 76\n  | quest                    = Snowpeaks Festival\n  | turn in                  = various ingredients at [[Flurry]]\n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Chilling|2}}\n* {{Freezing Ice|Minor}}\n* {{Augment|Red}}\n  | crafting                 = \n  | description              = This Rapier features an icy skull carved along its handle.\n  | pic                      = The Frozen Skull shown.jpg\n  | picdesc                  = The Frozen Skull.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Rapier",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Chilling 2",
+      "tooltip": "Chilling 2: This effect causes the edges of this weapon to become frozen to the touch, dealing 2d6 Ice damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Chilling",
+          "title": "Chilling",
+          "text": "Chilling 2"
+        }
+      ]
+    },
+    {
+      "text": "Minor Freezing Ice",
+      "tooltip": "Minor Freezing Ice :",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Freezing_Ice",
+          "title": "Freezing Ice",
+          "text": "Minor Freezing Ice"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

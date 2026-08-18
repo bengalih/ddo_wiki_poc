@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Broccoli Bashers",
+  "page_id": 57348,
+  "revision_id": 628795,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:16:04.114994+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Broccoli Bashers\n  | minlevel                 = 25\n  | type                     = Club\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damage                   = 4[1d6] + 7 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | class                    = Bludgeoning\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 300\n  | material                 = Blueshine\n  | hardness                 = 30\n  | basevalue                = 10,020 pp\n  | weight                   = 3 lbs\n  | released                 = Update 30\n  | quest                    = Anniversary Party\n  | chest                    = \n  | end reward               = \n  | turn in                  = {{U30 ingredient|80}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|7}}\n* {{Bane|Ooze|5}}\n* {{Bludgeoning|5}}\n* {{Smashing|12}}\n* {{Everbright}}\n* {{Clicky|Blinding Flash|5|3}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = As everyone knows, Oozes hate broccoli.\n  | tips                     = Introduced with the celebration of the [[10th Anniversary]].\n  | pic                      = Broccoli Bashers shown.jpg\n  | picdesc                  = Broccoli Bashers.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Ooze Bane 5",
+      "tooltip": "Ooze Bane 5: This weapon is attuned specifically to disrupt Oozes, dealing an additional 5d10 bane damage vs. Oozes.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Ooze Bane 5"
+        }
+      ]
+    },
+    {
+      "text": "Bludgeoning 5",
+      "tooltip": "Bludgeoning 5: The edges of this weapon are blunted, dealing an additional 5d6 bludgeon damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bludgeoning",
+          "title": "Bludgeoning",
+          "text": "Bludgeoning 5"
+        }
+      ]
+    },
+    {
+      "text": "Smashing 12",
+      "tooltip": "Smashing 12: The edges of this weapon are blunted, dealing an additional 12d6 bludgeoning damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Smashing",
+          "title": "Smashing",
+          "text": "Smashing 12"
+        }
+      ]
+    },
+    {
+      "text": "Everbright",
+      "tooltip": "Everbright: Flecks of marble and pearl shimmer across this shield, set within images of bursting stars and beaming suns. An everbright shield will never take damage from rust or acid and can emit a Blinding Flash 3/rest.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Everbright",
+          "title": "Everbright",
+          "text": "Everbright"
+        }
+      ]
+    },
+    {
+      "text": "Blinding Flash — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Blinding FlashCaster level: 5Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blinding_Flash",
+          "title": "Blinding Flash",
+          "text": "Blinding Flash"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

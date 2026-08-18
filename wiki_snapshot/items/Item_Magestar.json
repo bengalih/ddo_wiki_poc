@@ -1,0 +1,83 @@
+{
+  "page_title": "Item:Magestar",
+  "page_id": 44040,
+  "revision_id": 633370,
+  "revision_timestamp": "2025-04-22T02:09:11Z",
+  "fetched_at": "2026-08-17T22:21:09.312104+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Magestar\n  | type                     = Trinket\n  | slot                     = Trinket\n  | durability               = 270\n  | material                 = Steel\n  | hardness                 = 36\n  | basevalue                = 10,420 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 26\n  | bind                     = {{Bind|BtC|BoE|1}}\n  | released                 = Update 21\n  | quest                    = The Haunted Halls of Eveningstar\n  | chest                    = [[Ancient Mummy]]'s, [[Lokelis Brightburn|Dragon]]'s or [[Whisper]]'s chest\n  | enhancements             = \n* {{Absorption|Magestar|0|5}}\n* {{ZhentarimAttuned}}\n  | crafting                 = Black Stone\n  | craftingupgrade          = \n  | description              = These devices appear as many-spined, silvery metal globes. When touched, they glow and levitate, floating beside the creature touching them, looking very much like will-o'-wisps. \n  | pic                      = Trinket Generic Magestar.png\n  | picdesc                  = Magestar.png\n  | tips                     =\n* {{Popup|Upgraded version|[[File:Magestar (Upgraded).png]]|long=y}}: with 150 [[Black Stone|Black Stones]].\nNote: Upgrade states - Effects Removed: 15 charges (also adds a Green Augment slot).  This is incorrect - instead the charges increase by 5 to a total of 10 only and adds the Green Augment slot.\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "Magestar Absorption - 5 Charges (Recharged/Day: 5)",
+      "tooltip": "Magestar Absorption: This effect absorbs harmful spells targeted at the wearer.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magestar_Absorption",
+          "title": "Magestar Absorption",
+          "text": "Magestar Absorption"
+        }
+      ]
+    },
+    {
+      "text": "Zhentarim Attuned",
+      "tooltip": "Zhentarim Attuned: This item has been attuned by the the Zhentarim mage, Whisper. It can be upgraded with Zhentarim Black Stones.",
+      "children": [
+        {
+          "text": "Magestar Absorption - 5 Charges (Recharged/Day: 5) → Magestar Absorption - 10 Charges (Recharged/Day: 5).",
+          "tooltip": "Magestar Absorption: This effect absorbs harmful spells targeted at the wearer.Magestar Absorption: This effect absorbs harmful spells targeted at the wearer.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Magestar_Absorption",
+              "title": "Magestar Absorption",
+              "text": "Magestar Absorption"
+            },
+            {
+              "target": "/page/Magestar_Absorption",
+              "title": "Magestar Absorption",
+              "text": "Magestar Absorption"
+            }
+          ]
+        },
+        {
+          "text": "Adds Green Augment Slot",
+          "tooltip": "Blue, Green, Yellow, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Green Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Zhentarim_Attuned",
+          "title": "Zhentarim Attuned",
+          "text": "Zhentarim Attuned"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Trinket Boost +1 or +3",
+      "tooltip": "Mythic Trinket Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Trinket Boost"
+        }
+      ]
+    }
+  ]
+}

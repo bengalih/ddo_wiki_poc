@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Runic Gloves",
+  "page_id": 11418,
+  "revision_id": 634408,
+  "revision_timestamp": "2025-04-22T03:19:41Z",
+  "fetched_at": "2026-08-17T22:49:31.766040+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Runic Gloves\n  | type                     = Gloves\n  | class                    = Clothing\n  | basevalue                = 105pp\n  | weight                   = 0.10 lbs\n  | slot                     = Hand\n  | durability               = 20\n  | material                 = Leather\n  | hardness                 = 3\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Necromancer's Doom\n  | chest                    = Chest behind locked door\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|umd|1}}\n  | description              = These gloves have small runes that glow when the wearer is holding an item that has magical properties.\n  | pic                      = Gloves Generic Forgotten.png\n  | picdesc                  = Runic Gloves.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "enchantments": [
+    {
+      "text": "Use Magic Device +1",
+      "tooltip": "Use Magic Device +1: Passive: +1 Competence bonus to the Use Magic Device skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Use_Magic_Device",
+          "title": "Use Magic Device",
+          "text": "Use Magic Device +1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Scepter of Healing",
+  "page_id": 10383,
+  "revision_id": 634489,
+  "revision_timestamp": "2025-04-22T03:25:05Z",
+  "fetched_at": "2026-08-17T22:51:34.738147+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Scepter of Healing\n  | damage                   = 1.25[1d8] + 5 Bludgeon, Good, Magic\n  | crit                     = 20 / x2\n  | type                     = Heavy Mace\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | attackmod                = WIS, CHA \n  | damagemod                = WIS, CHA \n  | minlevel                 = 10\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Flametouched Iron\n  | hardness                 = 20\n  | basevalue                = 4101pp 2gp\n  | weight                   = 8 lbs\n  | quest                    = Invasion Tokens\n  | turn in                  = 25 [[Outsider Token]]s\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|i|5}}\n* {{Spelllore|Healing|IV}}\n* {{SpellPower|Devotion|66}}\n* {{Mat|Flametouched Iron}}\n* {{Augment|Red}}\n  | description              = This Flametouched iron scepter has been enchanted to focus healing powers\n  | pic                      = Gerard Dryden's Mace shown.jpg\n  | picdesc                  = Scepter of Healing.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Heavy Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +15",
+      "tooltip": "Spellcasting Implement +15: Passive: +15 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +15"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Healing Lore IV",
+      "tooltip": "Healing Lore IV: Passive: Your Positive Energy spells gain a 14% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Healing Lore IV"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +66",
+      "tooltip": "Devotion +66: Passive: +66 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +66"
+        }
+      ]
+    },
+    {
+      "text": "Flametouched Iron",
+      "tooltip": "Flametouched Iron: Flametouched Iron grants +1 saves versus Evil Outsiders.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flametouched_Iron",
+          "title": "Flametouched Iron",
+          "text": "Flametouched Iron"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

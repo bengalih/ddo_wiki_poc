@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Whirlwind",
+  "page_id": 7952,
+  "revision_id": 635794,
+  "revision_timestamp": "2025-04-22T04:51:37Z",
+  "fetched_at": "2026-08-17T23:26:08.888997+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Whirlwind\n  | type                     = Great Sword\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | minlevel                 = 10\n  | reqtrait                 = None\n  | UMD DC                   = None\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = [2d6] + 5 Slash, Magic\n  | crit                     = 17-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 200\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 4,005 pp\n  | weight                   = 8 lbs\n  | quest                    = Sands of Menechtarun\n  | chest                    = Windlasher Area: [[Den Mother Fheena]]'s Chest (Rare Encounter) ; <br /> [[Masei Mkembe]] sells for 625 [[Antique Bronze Tokens]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Telekinetic}}\n* {{Blast|Shocking|3}}\n* {{Concealment|Dusk}}\n* {{Doublestrike|6}}\n* {{Augment|Red}}\n* {{Named item sets|The Desert's Writhing Storm}}\n  | description              = An air spirit bound to this greatsword shrieks when the sword is swept through the air. Swirling gusts of wind can knock the sword's target to the ground.\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Whirlwind\n  | pic                      = Whirlwind shown.jpg\n  | picdesc                  = Whirlwind.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Telekinetic",
+      "tooltip": "Telekinetic: Targets that suffer a critical hit from a Telekinetic weapon must make a DC 17 Balance check or be knocked down.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Telekinetic",
+          "title": "Telekinetic",
+          "text": "Telekinetic"
+        }
+      ]
+    },
+    {
+      "text": "Shocking Blast 3",
+      "tooltip": "Shocking Blast 3: This weapon arcs with deadly electricity, dealing 3d6 Electric damage on a successful hit, and an additional 3d6 Electric damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Shocking Blast 3"
+        }
+      ]
+    },
+    {
+      "text": "Dusk",
+      "tooltip": "Dusk: Equipping this item engulfs you in twilight shadows. Attacks from enemies have a 10% chance to miss you due to concealment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dusk_(enchantment)",
+          "title": "Dusk (enchantment)",
+          "text": "Dusk"
+        }
+      ]
+    },
+    {
+      "text": "Doublestrike 6%",
+      "tooltip": "Doublestrike 6%: Passive: 6% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 6%"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Desert's Writhing Storm",
+      "tooltip": "The Desert's Writhing Storm: 2 Pieces Equipped:+2% Artifact bonus to Electric Spellcrit Chance+10 Artifact bonus to Electric Spellpower+10 Artifact bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Desert's_Writhing_Storm",
+          "title": "Named item sets",
+          "text": "The Desert's Writhing Storm"
+        }
+      ]
+    }
+  ]
+}

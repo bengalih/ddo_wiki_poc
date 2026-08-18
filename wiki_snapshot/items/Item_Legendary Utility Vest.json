@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Legendary Utility Vest",
+  "page_id": 91236,
+  "revision_id": 633137,
+  "revision_timestamp": "2025-04-22T01:52:58Z",
+  "fetched_at": "2026-08-17T22:14:30.619161+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Utility Vest\n  | minlevel                 = 30\n  | type                     = Light Armor\n  | feat                     = Light\n  | ac                       = +25\n  | maxdexbonus              = 20\n  | acp                      = \n  | asf                      = 10%\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 380\n  | material                 = Spiritcraft Leather\n  | hardness                 = 38\n  | basevalue                = 12,001 pp\n  | weight                   = 15 lbs\n  | released                 = Update 50\n  | quest                    = Legendary Crafting\n  | legendary                = Epic Utility Vest\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Stat|Dexterity|13}}\n* {{Stat|Intelligence|6|Insightful}}\n* {{Skills|Disable Device|20}}\n* {{Skills|Open Lock|20}}\n* {{Nimbleness|Epic}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | description              = It looks like this leather outfit was designed by someone who wanted to be able to tamper with or escape from any trap or device. It is filled with secret pockets and odd tools.\n  | pic                      = Utility Vest shown.jpg\n  | picdesc                  = Legendary Utility Vest.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Spiritcraft Leather",
+  "armor_type": "Light Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +13",
+      "tooltip": "Dexterity +13: This item makes the wearer more nimble and dexterous, granting a +13 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +13"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Intelligence +6",
+      "tooltip": "Insightful Intelligence +6: This item focuses the power of the wearer's mind, granting a +6 Insight bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Insightful Intelligence +6"
+        }
+      ]
+    },
+    {
+      "text": "Disable Device +20",
+      "tooltip": "Disable Device +20: Passive: +20 Competence bonus to the Disable Device skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disable_Device",
+          "title": "Disable Device",
+          "text": "Disable Device +20"
+        }
+      ]
+    },
+    {
+      "text": "Open Lock +20",
+      "tooltip": "Open Lock +20: Passive: +20 Competence bonus to the Open Lock skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Open_Lock",
+          "title": "Open Lock",
+          "text": "Open Lock +20"
+        }
+      ]
+    },
+    {
+      "text": "Epic Nimbleness",
+      "tooltip": "Epic Nimbleness: This suit of armor looks much less restrictive than others of its type. A suit of armor that has this property has a maximum Dexterity bonus 6 higher than normal, and its armor check penalty is reduced by 4.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nimbleness#Epic_Nimbleness",
+          "title": "Nimbleness",
+          "text": "Epic Nimbleness"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "page_title": "Item:Alchemical Stone",
+  "page_id": 81069,
+  "revision_id": 640716,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:02:54.025624+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Alchemical Stone\n  | type                     = Orb\n  | prof                     = Magical Training\n  | minlevel                 = 1\n  | bind                     = {{Bind|BtC|BoA}}\n  | attmod                   = INT\n  | damagemod                = CHA\n  | sb                       = +0\n  | maxdexbonus              = None\n  | dr                       = 0\n  | acp                      = 0\n  | asf                      = 0\n  | dmg                      = [1d4] + 0\n  | dmgtype                  = Force\n  | crit                     = 19-20 / x2\n  | durability               = 75\n  | material                 = Gem\n  | hardness                 = 21\n  | basevalue                = 500pp\n  | weight                   = 3 lbs\n  | released                 = Update 45\n  | revamped                 = \n  | quest                    = Veteran Status II starter item\n  | chest                    = \n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement bonus|oi|1|1}}\n* {{SpellPower|Potency|16}}\n  | description              = Alchemical Mysteries swirl within.\n  | pic                      = Alchemical Stone shown.png\n  | picdesc                  = Alchemical Stone.png\n  | tips                     = Before U48.5.1 this item had Potency +66 and was {{Bind|BtA|BoA|nocat=yes}}.\n}}\n[[Category:Veteran Status II reward items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Magical Training",
+  "material": "Gem",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +1",
+      "tooltip": "Spellcasting Implement +1: Passive: +1 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +1"
+        }
+      ]
+    },
+    {
+      "text": "+1 Orb Bonus",
+      "tooltip": "+1 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +1 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Orb Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Potency +16",
+      "tooltip": "Potency +16: Passive: +16 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +16"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Resonant Cloth",
+  "page_id": 77531,
+  "revision_id": 634193,
+  "revision_timestamp": "2025-04-22T03:05:24Z",
+  "fetched_at": "2026-08-17T22:44:04.622113+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Resonant Cloth\n  | type                     = Cloak\n  | cost                     = 8401 pp\n  | weight                   = 0.10lbs\n  | slot                     = Back\n  | durability               = 310\n  | material                 = Cloth\n  | hardness                 = 41\n  | minlevel                 = 21\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Total Chaos\n  | released                 = Update 44\n  | end reward               = \n  | chest                    = End Chest\n  | enhancements             = \n* {{SpellPower|Resonance|57|Insight}}\n* {{SpellPower|Devotion|57|Insight}}\n* {{Resistance|1|Quality}}\n* {{Dodge|4|Insightful|prefix=Insightful}}\n* {{Augment|yellow}}\n  | epic                     = \n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Wearing this makes you feel just a bit more alive.\n  | pic                      = Resonant Cloth shown.png\n  | picdesc                  = Resonant Cloth.jpg\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 21,
+  "enchantments": [
+    {
+      "text": "Insightful Resonance +57",
+      "tooltip": "Insightful Resonance +57: Passive: +57 Insight bonus to Sonic Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resonance",
+          "title": "Resonance",
+          "text": "Insightful Resonance +57"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Devotion +57",
+      "tooltip": "Insightful Devotion +57: Passive: +57 Insight bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Insightful Devotion +57"
+        }
+      ]
+    },
+    {
+      "text": "Quality Resistance +1",
+      "tooltip": "Quality Resistance +1: Passive: +1 Quality bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Quality Resistance +1"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Dodge +4%",
+      "tooltip": "Insightful Dodge +4%: +4% Insightful bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Insightful Dodge +4%"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

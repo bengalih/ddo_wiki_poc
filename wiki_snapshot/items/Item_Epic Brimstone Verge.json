@@ -1,0 +1,86 @@
+{
+  "page_title": "Item:Epic Brimstone Verge",
+  "page_id": 12648,
+  "revision_id": 690566,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:45:23.114768+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Eternal wand\n  | name                     = Epic Brimstone Verge\n  | umd                      = 45\n  | noumd                    = Wiz, Sor\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | durability               = 225\n  | material                 = Wood\n  | hardness                 = 30\n  | weight                   = 0.10 lbs\n  | cost                     = 19,600 pp\n  | epic                     = Brimstone Verge\n  | released                 = Update 5\n  | revamped                 = Update 80\n  | description              = A thin rod of blackened wood containing charges of the Fireball spell. Eternal wands recharge over time if they are not actively being used.\n  | icon                     = DelayedBlastFireball.png\n  | spell                    = Delayed Blast Fireball (Instant)\n  | casterlvl                = 20\n  | charge                   = 15\n  | enhancements             = \n* {{Clicky|Delayed Blast Fireball|20|15|label=Delayed Blast Fireball (Instant)}}\n* {{Spell Lore|Fire|+16}}\n* {{SpellPower|Combustion|111}}\n* {{Spell Focus|Evocation|+6}}\n* {{Absorption|Fire|27}}\n* {{Wand Maximizing}}\n  | mythic                   = no\n  | picdesc                  = Epic Brimstone Verge.png\n  | notes                    = \n}}\n[[Category:Phiarlan Carnival epic items]]",
+  "item_template": "Named item",
+  "material": "Wood",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Delayed Blast Fireball (Instant) — 15 Charges (Recharged/Day:15)",
+      "tooltip": "Delayed Blast Fireball (Instant)Caster level: 20Charges: 15 (15/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Delayed_Blast_Fireball",
+          "title": "Delayed Blast Fireball",
+          "text": "Delayed Blast Fireball (Instant)"
+        }
+      ]
+    },
+    {
+      "text": "Fire Lore +16%",
+      "tooltip": "Fire Lore +16: Passive: Your Fire spells gain a +16% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore +16%"
+        }
+      ]
+    },
+    {
+      "text": "Combustion +111",
+      "tooltip": "Combustion +111: Passive: +111 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +111"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus +6",
+      "tooltip": "Evocation Focus +6: +6 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus +6"
+        }
+      ]
+    },
+    {
+      "text": "Fire Absorption +27%",
+      "tooltip": "Fire Absorption +27%: Passive: 27% Enhancement Bonus to Fire Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Fire Absorption +27%"
+        }
+      ]
+    },
+    {
+      "text": "Wand Maximizing",
+      "tooltip": "Wand Maximizing: Spells cast from this wand are treated as though they were Maximized, dealing 100% more damage than they normally would. This damage increase does not stack with bonuses granted by enhancements.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wand_Maximizing",
+          "title": "Wand Maximizing",
+          "text": "Wand Maximizing"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Ornamented Dagger (level 8)",
+  "page_id": 71326,
+  "revision_id": 671132,
+  "revision_timestamp": "2026-01-08T22:45:48Z",
+  "fetched_at": "2026-08-17T22:34:13.940021+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Ornamented Dagger}}\n  | damage                   = [1d4] + 3 Pierce, Magic\n  | crit                     = 19-20 / x2 \n  | type                     = Dagger\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Piercing\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 8\n  | durability               = 120\n  | material                 = Steel\n  | hardness                 = 18\n  | cost                     = 3,200pp 2gp\n  | weight                   = 1 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Treasure of Crystal Cove \n  | chest                    = \n  | end reward               = \n  | turn in                  = various ingredients at [[Euphonia's Barter Box]]\n  | revamped                 = Update 76\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Skills|Concentration|10}}\n* {{Spell Lore|Fire|10}}\n* {{Spell Lore|Ice|10}}\n* {{Spell Lore|Lightning|10}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A dagger set with precious gems, each of which are enchanted with spell-enhancing magic. Most likely it was seized from nobles by a band of pirates as part of their pillaging.\n  | pic                      = Ornamented Dagger shown.jpg\n  | picdesc                  = Ornamented Dagger (level 8).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Concentration +10",
+      "tooltip": "Concentration +10: Passive: +10 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +10"
+        }
+      ]
+    },
+    {
+      "text": "Fire Lore +10%",
+      "tooltip": "Fire Lore +10: Passive: Your Fire spells gain a 10% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore +10%"
+        }
+      ]
+    },
+    {
+      "text": "Ice Lore +10%",
+      "tooltip": "Ice Lore +10: Passive: Your Cold spells gain a 10% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Ice Lore +10%"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Lore +10%",
+      "tooltip": "Lightning Lore +10: Passive: Your Electricity spells gain a 10% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore +10%"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

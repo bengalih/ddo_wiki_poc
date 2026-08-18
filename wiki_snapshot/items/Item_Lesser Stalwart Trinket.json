@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Lesser Stalwart Trinket",
+  "page_id": 14283,
+  "revision_id": 633216,
+  "revision_timestamp": "2025-04-22T01:58:34Z",
+  "fetched_at": "2026-08-17T22:16:43.882091+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Lesser Stalwart Trinket\n  | type                     = Trinket\n  | class                    = Jewelry\n  | basevalue                = 905 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Trinket\n  | durability               = 40\n  | material                 = Gem\n  | hardness                 = 23\n  | minlevel                 = 4\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = at [[Dusty Old Treasure of Crystal Cove]]\n  | mythic                   = no\n  | enhancements             = \n* {{Popup|long=yes|[[Upgradeable - Tier 1]]|'''Upgradeable - Tier 1:''' This is a tier 1 upgradeable item.}}\n* {{hp|Pirate Vitality}}\n  | description              = A pirate is steadfast and won't back down, even if the odds look grim. This trinket gives you boosts to your survivability.\n  | crafting                 = Treasure of Crystal Cove\n  | craftingupgrade          = Stalwart Trinket\n  | pic                      = Necklace Generic Bright.png\n  | picdesc                  = Lesser Stalwart Trinket.png\n  | tips                     = \n}}<noinclude>[[Category:Treasure of Crystal Cove legacy reward items]]</noinclude>",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": "Upgradeable - Tier 1: This is a tier 1 upgradeable item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Pirate Vitality",
+      "tooltip": "Pirate Vitality: You gain the toughness of a pirate, which bestows a +10 bonus to your maximum hit points. This stacks with all bonuses except itself.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Pirate_Vitality",
+          "title": "Pirate Vitality",
+          "text": "Pirate Vitality"
+        }
+      ]
+    }
+  ]
+}

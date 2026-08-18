@@ -1,0 +1,82 @@
+{
+  "page_title": "Item:Deep Red Ioun Stone",
+  "page_id": 11079,
+  "revision_id": 629373,
+  "revision_timestamp": "2025-04-21T21:50:15Z",
+  "fetched_at": "2026-08-17T04:06:04.262191+00:00",
+  "categories": [],
+  "material": "Gem",
+  "item_type": "Trinket",
+  "slot": "Trinket",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "Dexterity +2",
+      "tooltip": "Dexterity +2: This item makes the wearer more nimble and dexterous, granting a +2 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +2"
+        }
+      ]
+    },
+    {
+      "text": "Suppressed Power",
+      "tooltip": "Suppressed Power: This psionic item is powerful, but you sense that it has not unlocked all of its secrets to you at this time.",
+      "children": [
+        {
+          "text": "Dexterity +2 → Dexterity +6",
+          "tooltip": "Dexterity +2: This item makes the wearer more nimble and dexterous, granting a +2 Enhancement bonus to Dexterity. Dexterity +6: This item makes the wearer more nimble and dexterous, granting a +6 Enhancement bonus to Dexterity.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Dexterity",
+              "title": "Dexterity",
+              "text": "Dexterity +2"
+            },
+            {
+              "target": "/page/Dexterity",
+              "title": "Dexterity",
+              "text": "Dexterity +6"
+            }
+          ]
+        },
+        {
+          "text": "Adds Dexterity Skills - Exceptional Bonus +2",
+          "tooltip": "Dexterity Skills - Exceptional Bonus +2: Passive +2 Exceptional bonus to the Dexterity based skills of: Balance, Hide, Move Silently, Open Lock, and Tumble",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Skills",
+              "title": "Skills",
+              "text": "Dexterity Skills - Exceptional Bonus +2"
+            }
+          ]
+        },
+        {
+          "text": "Becomes Bound to Character on Acquire",
+          "tooltip": null,
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bind",
+              "title": "Bind",
+              "text": "Bound to Character on Acquire"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Suppressed_Power",
+          "title": "Suppressed Power",
+          "text": "Suppressed Power"
+        }
+      ]
+    }
+  ],
+  "item_class": "Jewelry",
+  "item_template": ""
+}

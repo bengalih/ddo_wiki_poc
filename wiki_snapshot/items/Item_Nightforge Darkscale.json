@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Nightforge Darkscale",
+  "page_id": 17515,
+  "revision_id": 633723,
+  "revision_timestamp": "2025-04-22T02:32:49Z",
+  "fetched_at": "2026-08-17T22:31:17.556057+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Nightforge Darkscale\n  | type                     = Scalemail\n  | feat                     = Medium\n  | race                     = \n  | minlevel                 = 8\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +11\n  | maxdexbonus              = 6\n  | acp                      = -2\n  | asf                      = 20%\n  | durability               = 128\n  | material                 = Adamantine\n  | hardness                 = 27\n  | basevalue                = 4205 pp\n  | weight                   = 30 lbs\n  | quest                    = A Relic of a Sovereign Past\n  | chest                    = \n  | end reward               = \n  | turn in                  = [[Adamantine Ore|12 Adamantine Ore]]\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Mat|Adamantine|a|2}}\n* {{Augment|Blue}}\n* {{Augment|Colorless}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Nightforge Darkscale shown.jpg\n  | picdesc                  = Nightforge Darkscale.png\n  | description              = At first glance, this armor looks crafted from the hide of some reptilian beast. On closed inspection, the 'scales' are revealed to be made from adamantine.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Adamantine",
+  "armor_type": "Scalemail",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Medium armor made from adamantine grants its wearer damage reduction of 2/-.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

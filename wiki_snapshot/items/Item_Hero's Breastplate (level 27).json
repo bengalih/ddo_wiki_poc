@@ -1,0 +1,44 @@
+{
+  "page_title": "Item:Hero's Breastplate (level 27)",
+  "page_id": 41481,
+  "revision_id": 675114,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:21:16.640797+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Hero's Breastplate\n  | type                     = Breastplate\n  | feat                     = Medium\n  | minlevel                 = 27\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +28\n  | maxdexbonus              = 7\n  | acp                      = -3\n  | asf                      = 25%\n  | durability               = 324\n  | material                 = Dwarven Iron\n  | hardness                 = 28\n  | basevalue                = 10,820pp\n  | weight                   = 15 lbs\n  | released                 = Update 19\n  | quest                    = Through a Mirror Darkly\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|10}}\n* {{Heroism|Greater}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Hero's Breastplate shown.jpg\n  | picdesc                  = Hero's Breastplate (Level 27).png\n  | description              = \n  | notes                    = {{Non-food}} It is also able to be disjuncted/dissolved, functioning like a non-blue item.\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Dwarven Iron",
+  "armor_type": "Breastplate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "+10 Enhancement Bonus",
+      "tooltip": "+10 Enhancement Bonus: +10 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+10 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Greater Heroism",
+      "tooltip": "Greater Heroism: Passive: +4 morale bonus to all your attack rolls, saving throws, and skill checks. Does not grant immunity to Fear.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heroism_(enchantment)",
+          "title": "Heroism (enchantment)",
+          "text": "Greater Heroism"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Epic Unkor's Cleaver",
+  "page_id": 10424,
+  "revision_id": 645951,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:59:00.956284+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Unkor's Cleaver\n  | damage                   = 3.50[1d8] + 6 Slash, Magic\n  | crit                     = 19-20 / x3\n  | type                     = Battle Axe\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | minlevel                 = 20\n  | umd dc                   = \n  | reqtrait                 = \n  | durability               = 260\n  | material                 = Steel\n  | hardness                 = 29\n  | bind                     = {{Bind|BtA|BoA}}\n  | basevalue                = 8,001pp 9gp\n  | weight                   = 6 lbs\n  | epic                     = Unkor's Cleaver\n  | quest                    = Epic Crafting\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|6}}\n* {{Keen}}\n* {{Vorpal|Improved}}\n* {{Bleeding|4}}\n* {{Fracturing|4}}\n* {{Limb Chopper}}\n* {{Clicky|Jerky|10|1}}\n* {{Augment|Red}}\n* {{Named item sets|Epic Windlasher's Ferocity}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Unkor's Cleaver\n  | description              = The blade on this enormous meat cleaver is pitted and scarred by use. Chunks of meat occasionally get stuck on the blade.\n  | pic                      = Unkor's Cleaver shown.jpg\n  | picdesc                  = Epic Unkor's Cleaver.png\n  | tips                     = \n}}\n[[Category:Sands of Menechtarun epic items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Battle Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Improved Vorpal",
+      "tooltip": "Improved Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 1500 Hit Points, they are instantly slain. If your target has above 1500 Hit Points, they take 150 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Improved_Vorpal",
+          "title": "Vorpal",
+          "text": "Improved Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Bleeding 4",
+      "tooltip": "Bleeding 4: This weapon is wickedly curved, with spines and hooks meant to cause damage to those with flesh. This weapon does 4d8 bleeding damage to those that are vulnerable to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleeding",
+          "title": "Bleeding",
+          "text": "Bleeding 4"
+        }
+      ]
+    },
+    {
+      "text": "Fracturing 4",
+      "tooltip": "Fracturing 4: This weapon is ideal for breaking bones and does 4d8 damage to targets that have skeletons or are made of bone.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fracturing",
+          "title": "Fracturing",
+          "text": "Fracturing 4"
+        }
+      ]
+    },
+    {
+      "text": "Limb Chopper",
+      "tooltip": "Limb Chopper: This potent and feared ability allows the weapon to sever the limbs of those it strikes. On an attack roll of 20 which is confirmed as a critical hit, the weapon severs an opponent's limb from its body. Some creatures, including many aberrations and all oozes, have no limbs. Others, such as golems and undead creatures, are not affected by the loss of their limbs. Most other creatures, however, have their movement slowed 75% and attacks slowed by 50% when a limb is cut off.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Limb_Chopper",
+          "title": "Limb Chopper",
+          "text": "Limb Chopper"
+        }
+      ]
+    },
+    {
+      "text": "Jerky — 1 Charges (Recharged/Day:1)",
+      "tooltip": "JerkyCaster level: 10Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Jerky",
+          "title": "Jerky",
+          "text": "Jerky"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Epic Windlasher's Ferocity",
+      "tooltip": "Epic Windlasher's Ferocity: 2 Pieces Equipped:+10% Artifact bonus to Doublestrike and Doubleshot+10 Artifact bonus to Melee and Ranged Power",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Epic_Windlasher's_Ferocity",
+          "title": "Named item sets",
+          "text": "Epic Windlasher's Ferocity"
+        }
+      ]
+    }
+  ]
+}

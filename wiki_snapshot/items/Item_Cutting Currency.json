@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Cutting Currency",
+  "page_id": 70541,
+  "revision_id": 687512,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:29:25.025735+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Cutting Currency\n  | damage                   = [1d10] + 3 Slash, Silver, Adamantine, Mithral, Cold Iron, Magic, Byeshk\n  | crit                     = 19-20 / x2\n  | type                     = Bastard Sword\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Exotic\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | minlevel                 = 6\n  | durability               = 140\n  | material                 = Platinum\n  | hardness                 = 16\n  | basevalue                = 3400 pp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 39\n  | quest                    = Another Man's Treasure\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Transmuted Platinum}}\n* {{Bludgeoning|2}}\n* {{Mat|Metalline}}\n* {{Gashing|5}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Cutting Currency shown.jpg\n  | picdesc                  = Cutting Currency.png\n  | description              = It's garish but effective.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Bastard Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Transmuted Platinum",
+      "tooltip": "Transmuted Platinum: This weapon, made of transmuted platinum, is slightly magically unstable, and has a chance to transfer its magic to those it strikes. Struck enemies have a small chance to turn into transmuted platinum, preventing all movement, with a DC of 35 negating this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Transmuted_Platinum",
+          "title": "Transmuted Platinum",
+          "text": "Transmuted Platinum"
+        }
+      ]
+    },
+    {
+      "text": "Bludgeoning 2",
+      "tooltip": "Bludgeoning 2: The edges of this weapon are blunted, dealing an additional 2d6 bludgeon damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bludgeoning",
+          "title": "Bludgeoning",
+          "text": "Bludgeoning 2"
+        }
+      ]
+    },
+    {
+      "text": "Metalline",
+      "tooltip": "Metalline: Metalline bypasses any metal based damage reduction. (Adamantine, \"Alchemical, Silver\", Byeshk, Cold Iron, Mithral)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Metalline",
+          "title": "Metalline",
+          "text": "Metalline"
+        }
+      ]
+    },
+    {
+      "text": "Gashing 5",
+      "tooltip": "Gashing 5: The edges of this weapon are sharpened beyond belief, dealing an additional 5d6 slashing damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Gashing",
+          "title": "Gashing",
+          "text": "Gashing 5"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Treasure Hunter's Spyglass (level 8)",
+  "page_id": 71167,
+  "revision_id": 635617,
+  "revision_timestamp": "2025-04-22T04:39:49Z",
+  "fetched_at": "2026-08-17T23:21:18.182078+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = {{Item|Treasure Hunter's Spyglass}}\n  | minlevel                 = 8\n  | type                     = Trinket\n  | race                     = \n  | slot                     = Trinket\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 90<!-- previously 60 -->\n  | material                 = Gem\n  | hardness                 = 28<!-- previously 25 -->\n  | cost                     = 3,205pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Treasure of Crystal Cove \n  | end reward               = \n  | turn in                  = various ingredients at [[Euphonia's Barter Box]]\n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Detect Secret Doors|10|1}}\n* {{Stat|INT|5}}\n* {{Skills|Astute|5|Exceptional}}\n* {{Skills|Prudent|5|Exceptional}}\n* {{Augment|green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A tool such as this is a great aid to the treasure-seeking pirate, for it allows him or her to locate small details, find secret passages and notice any traps that might be lurking along the way.\n  | pic                      = Trinket_Generic_Spyglass.png\n  | picdesc                  = Treasure Hunter's Spyglass (level 8).png\n  | tips                     = To exchange historic (Tiered) items for U39 item of same level, talk to [[Euphonia Teles]] to open up [[Conversions of Crystal Cove]].  Beware: new items can be powerful, but may contain different enhancements than Tiered items.\n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Detect Secret Doors — 1 Charges (Recharged/Day:1)",
+      "tooltip": "Detect Secret DoorsCaster level: 10Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Detect_Secret_Doors",
+          "title": "Detect Secret Doors",
+          "text": "Detect Secret Doors"
+        }
+      ]
+    },
+    {
+      "text": "Intelligence +5",
+      "tooltip": "Intelligence +5: This item focuses the power of the wearer's mind, granting a +5 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +5"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Astute Skills Bonus +5",
+      "tooltip": "Exceptional Astute Skills Bonus: +5 Exceptional bonus to Disable Device, Repair and Search.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Skill",
+          "title": "Skill",
+          "text": "Exceptional Astute Skills Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Prudent Skills Bonus +5",
+      "tooltip": "Exceptional Prudent Skills Bonus: +5 Exceptional bonus to Heal, Listen and Spot.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Skill",
+          "title": "Skill",
+          "text": "Exceptional Prudent Skills Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

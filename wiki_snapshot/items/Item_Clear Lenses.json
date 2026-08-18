@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Clear Lenses",
+  "page_id": 39446,
+  "revision_id": 629002,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:22:11.411351+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Clear Lenses\n  | minlevel                 = 15\n  | type                     = Goggles\n  | slot                     = Eye\n  | race                     = Sun Elf\n  | durability               = 160\n  | material                 = Glass\n  | hardness                 = 20\n  | basevalue                = 6020 pp\n  | weight                   = 0.10 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Stat|WIS|+1|Exceptional}}\n* {{Immunity|Blindness}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Clear Lenses shown.jpg\n  | picdesc                  = Clear Lenses.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Glass",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Exceptional Wisdom +1",
+      "tooltip": "Exceptional Wisdom +1: This item makes the wearer more in tune with her surroundings, granting a +1 Exceptional bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Exceptional Wisdom +1"
+        }
+      ]
+    },
+    {
+      "text": "Blindness Immunity",
+      "tooltip": "Blindness Immunity: Grants its wearer immunity to blindness effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blindness_Immunity",
+          "title": "Blindness Immunity",
+          "text": "Blindness Immunity"
+        }
+      ]
+    }
+  ]
+}

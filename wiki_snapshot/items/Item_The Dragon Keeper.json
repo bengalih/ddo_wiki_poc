@@ -1,0 +1,72 @@
+{
+  "page_title": "Item:The Dragon Keeper",
+  "page_id": 80157,
+  "revision_id": 635326,
+  "revision_timestamp": "2025-04-22T04:20:25Z",
+  "fetched_at": "2026-08-17T23:13:33.057599+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Rune Arm\n  | name                     = The Dragon Keeper\n  | minlevel                 = 1\n  | reqtrait                 = [[Rune Arm Use|Artificer Rune Arm Use]]\n  | durability               = 45\n  | material                 = Gem\n  | hardness                 = 10\n  | quest                    = Morten Edgewright\n  | turn in                  = 1 Ethereal, 1 Arcane, and 1 Silver Ingot\n  | basevalue                = 25pp\n  | weight                   = 0.25 lbs.\n  | bind                     = {{Bind|BtC|BoA}}\n  | spell                    = Fire Blast\n  | target                   = Foe, Directional, Breakable\n  | school                   = Evocation\n  | sr                       = no\n  | spell desc               = Deals fire damage to a target with a cone shaped blast of fire.  At higher charge tiers the blast is larger.  Opponents within the blast receive a Reflex save for half damage.\n  | max charge               = 2\n  | imbue                    = Fire I\n  | imbue die                = 1d4\n  | imbue dmg                = fire\n  | mythic                   = no\n  | enhancements             = \n* [[Fire Blast]]\n* {{SpellPower|Combustion|30}}\n* {{Augment|Green}}\n  | epic                     = no\n  | craftable rune arm       = no\n  | pic                      = Fire Blast icon.png\n  | picdesc                  = The Dragon Keeper description.png\n  | description              = This arcane device can release a torrent of dragonfire to assault your enemies.\n  | tips                     = \n}}\n[[Category:Update 44 named items]]",
+  "item_template": "Named item",
+  "enchantments": [
+    {
+      "text": "Maximum Charge Tier: II",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maximum_Charge_Tier",
+          "title": "Maximum Charge Tier",
+          "text": "Maximum Charge Tier"
+        }
+      ]
+    },
+    {
+      "text": "Fire Blast",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Blast",
+          "title": "Fire Blast",
+          "text": "Fire Blast"
+        }
+      ]
+    },
+    {
+      "text": "Combustion +30",
+      "tooltip": "Combustion +30: Passive: +30 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +30"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Rune Arm Imbue: Fire I",
+      "tooltip": "Rune Arm Imbue: Fire I: Wearing this Rune Arm will imbue any weapon you wield, dealing 1d4 points of fire damage per hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rune_Arm_Imbue",
+          "title": "Rune Arm Imbue",
+          "text": "Rune Arm Imbue"
+        }
+      ]
+    }
+  ]
+}

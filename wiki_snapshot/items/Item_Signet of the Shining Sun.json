@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Signet of the Shining Sun",
+  "page_id": 24425,
+  "revision_id": 634762,
+  "revision_timestamp": "2025-04-22T03:43:05Z",
+  "fetched_at": "2026-08-17T22:58:45.209777+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Signet of the Shining Sun\n  | minlevel                 = 20\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 210\n  | material                 = Gold\n  | hardness                 = 25\n  | basevalue                = 8,020 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Eveningstar\n  | end reward               = \n  | turn in                  = {{Commendation|Clerics|5}}\n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CHA|7}}\n* {{Stat|WIS|2|Insightful}}\n* {{Spelllore|Healing|VI}}\n* {{Named item sets|Amaunator's Blessing}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This gold ring is shaped to resemble a rising sun.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Signet of the Shining Sun.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Charisma +7",
+      "tooltip": "Charisma +7: This item makes the wearer have more flair, granting a +7 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +7"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Wisdom +2",
+      "tooltip": "Insightful Wisdom +2: This item makes the wearer more in tune with her surroundings, granting a +2 Insight bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Insightful Wisdom +2"
+        }
+      ]
+    },
+    {
+      "text": "Healing Lore VI",
+      "tooltip": "Healing Lore VI: Passive: Your Positive Energy spells gain a 16% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Healing Lore VI"
+        }
+      ]
+    },
+    {
+      "text": "Amaunator's Blessing",
+      "tooltip": "Amaunator's Blessing: When all three items from the set are equipped, you will gain a 10% Enhancement discount to the Spell Point cost of all your spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Amaunator's_Blessing",
+          "title": "Named item sets",
+          "text": "Amaunator's Blessing"
+        }
+      ]
+    }
+  ]
+}

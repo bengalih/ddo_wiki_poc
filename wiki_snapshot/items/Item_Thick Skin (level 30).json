@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Thick Skin (level 30)",
+  "page_id": 57309,
+  "revision_id": 681337,
+  "revision_timestamp": "2026-03-29T02:29:32Z",
+  "fetched_at": "2026-08-17T23:17:21.951302+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Thick Skin}}\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+26|m=+14|c=+6}}\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 375\n  | material                 = Gem\n  | hardness                 = 40\n  | minlevel                 = 30\n  | released                 = Update 30\n  | quest                    = Anniversary Party\n  | chest                    = \n  | end reward               = \n  | turn in                  = {{U30 ingredient|100}}\n  | epic                     = no\n  | basevalue                = 12,010 pp\n  | weight                   = \n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|14}}\n* {{Sheltering|16|Insight|Physical}}\n* {{Fortification|+73|Insightful}}\n* {{Augment|Green}}\n  | pic                      = Stone Exoskeleton shown.jpg\n  | picdesc                  = Thick Skin (level 30).png\n  | description              = Sticks and stones may break these bones, but the outside is sturdy as leather.\n  | notes                    = The Docent’s color is based on the Warforged’s skin color.\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+14 Enhancement Bonus",
+      "tooltip": "+14 Enhancement Bonus: +14 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+14 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Physical Sheltering +16",
+      "tooltip": "Insightful Physical Sheltering +16: +16 Insight bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Insightful Physical Sheltering +16"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Fortification +73%",
+      "tooltip": "Insightful Fortification +73%: +73% Insight bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Insightful Fortification +73%"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

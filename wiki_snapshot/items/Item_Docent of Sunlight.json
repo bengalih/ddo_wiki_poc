@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Docent of Sunlight",
+  "page_id": 108734,
+  "revision_id": 685117,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:36:13.233425+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Docent of Sunlight\n  | minlevel                 = 13\n  | type                     = Docent\n  | feat                     = Docent\n  | ac                       = {{WFABonus|a=15|m=8|c=6}}\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | race                     = Warforged\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 180\n  | material                 = Crystal\n  | hardness                 = 23\n  | basevalue                = 5,250 pp\n  | weight                   = \n  | released                 = Update 69\n  | quest                    = Seeds of Decay\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Accuracy|11}}\n* {{Deadly|6}}\n* {{Deadly|2|Quality}}\n* {{Protection|6}}\n* {{Augment|Blue}}\n* {{Augment|Sun}}\n  | crafting                 = \n  | description              = The sun's rays embolden those who seek it.\n  | pic                      = Docent of Sunlight shown.jpg\n  | picdesc                  = Docent of Sunlight.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Crystal",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Accuracy +11",
+      "tooltip": "Accuracy +11: Passive: +11 Competence bonus to attack rolls",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accuracy",
+          "title": "Accuracy",
+          "text": "Accuracy +11"
+        }
+      ]
+    },
+    {
+      "text": "Deadly +6",
+      "tooltip": "Deadly +6: +6 Competence bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Deadly +6"
+        }
+      ]
+    },
+    {
+      "text": "Quality Deadly +2",
+      "tooltip": "Quality Deadly +2: +2 Quality bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Quality Deadly +2"
+        }
+      ]
+    },
+    {
+      "text": "Protection +6",
+      "tooltip": "Protection +6: Passive: +6 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +6"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

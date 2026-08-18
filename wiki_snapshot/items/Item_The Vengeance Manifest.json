@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:The Vengeance Manifest",
+  "page_id": 122011,
+  "revision_id": 665642,
+  "revision_timestamp": "2025-11-07T20:58:51Z",
+  "fetched_at": "2026-08-17T23:17:00.336659+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name            = The Vengeance Manifest\n  | historic        = FALSE\n  | type            = Large\n  | prof            = General\n  | reqtrait        = <!-- Required Trait. Leave this comment if none.  -->\n  | UMD DC          = <!-- Use Magic Device DC. Leave this comment if none.  -->\n  | minlevel        = 34\n  | bind            = {{Bind|BtA|BoA}}\n  | sb              = 38\n  | maxdexbonus     = \n  | dr              = 19\n  | acp             = -1\n  | asf             = 15\n  | dmg             = 5.80[1d10+8] + 15\n  | dmgtype         = Bludgeon, Silver, Adamantine, Mithral, Cold Iron, Magic, Byeshk\n  | crit            = 19-20 / x3\n  | durability      = 460\n  | material        = Wood\n  | hardness        = 59\n  | basevalue       = 14004000cp\n  | weight          = 10 lbs\n  | released        = Update 75\n  | revamped        =\n  | quest           = Relentless\n  | chest           = end chest\n  | enhancements    =\n* {{Enhancement bonus|s|15}}\n* {{Murderous|Spikes}}\n* {{Revel in Blood|Shield}}\n* {{Lamordia Slot|Melancholic|Weapon}}\n* {{Lamordia Slot|Dolorous|Weapon}}\n* {{Augment|Purple}}\n* {{Augment|Orange}}\n  | crafting        = Viktranium Experiment crafting\n  | craftingupgrade = <!-- can leave blank, though comment required if |crafting is used -->\n  | description     = Augmentation slots line the back of this shield, allowing tinkerers to unlock its full potential.\n  | pic             = The Vengeance Manifest shown.jpg\n  | picdesc         = The Vengeance Manifest.png\n  | tips            = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Wood",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 34,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Murderous Spikes",
+      "tooltip": "Murderous Spikes: On hit: 16d6 Piercing Damage. This item is considered Metalline, bypassing all kinds of material damage resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Murderous_Spikes",
+          "title": "Murderous Spikes",
+          "text": "Murderous Spikes"
+        }
+      ]
+    },
+    {
+      "text": "Revel in Blood (Shield)",
+      "tooltip": "Revel in Blood (Shield): Your weapon hungers to let blood flow. Your attacks and offensive spells have a high chance to deal very strong Bane damage over time to creatures vulnerable to Bleeding. +24% Enhancement Bonus to Shield Bashing.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Revel_in_Blood",
+          "title": "Revel in Blood",
+          "text": "Revel in Blood (Shield)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Melancholic Slot (Weapon)",
+      "tooltip": "Lamordia: Melancholic Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Melancholic Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Dolorous Slot (Weapon)",
+      "tooltip": "Lamordia: Dolorous Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Dolorous Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Legendary Drow Outrunner Armor",
+  "page_id": 58542,
+  "revision_id": 647809,
+  "revision_timestamp": "2025-07-07T01:47:40Z",
+  "fetched_at": "2026-08-17T21:43:06.773113+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Drow Outrunner Armor\n  | type                     = Light Armor\n  | feat                     = Light\n  | race                     = \n  | ac                       = 22\n  | maxdexbonus              = 22\n  | acp                      = 0\n  | asf                      = 10%\n  | durability               = 344\n  | material                 = Leather\n  | hardness                 = 36\n  | minlevel                 = 28\n  | released                 = Update 31\n  | revamped                 = Update 36\n  | quest                    = Search and Rescue\n  | chest                    = Drow Priestess chest \n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | basevalue                = 11,250 pp\n  | weight                   = 15 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|14}}\n* {{Spell Resistance|10|Quality}}\n* {{Resistance|10}}\n* {{Proof|Poison|2|Quality}}\n* {{Save|Spell|2|Quality}}\n* {{Augment|Blue}}\n* {{Augment|Green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Drow Outrunner Armor shown.jpg\n  | picdesc                  = Legendary Drow Outrunner Armor.png\n  | description              = This armor is favored by the scouts of a Drow war party due to the protective enchantments placed upon it.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Light Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+14 Enhancement Bonus",
+      "tooltip": "+14 Enhancement Bonus: +14 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+14 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Quality Spell Resistance +10",
+      "tooltip": "Quality Spell Resistance +10: +10 Quality bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Quality Spell Resistance +10"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +10",
+      "tooltip": "Resistance +10: Passive: +10 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +10"
+        }
+      ]
+    },
+    {
+      "text": "Quality Proof Against Poison +2",
+      "tooltip": "Quality Proof Against Poison +2: This item grants its wearer immunity to natural poisons. This item also grants a +2 Quality bonus to saving throws against magical poisons, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical poisons with a DC of less than 3 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Poison",
+          "title": "Proof Against Poison",
+          "text": "Quality Proof Against Poison +2"
+        }
+      ]
+    },
+    {
+      "text": "Quality Spell Save +2",
+      "tooltip": "Quality Spell Save +2: This item gives a +2 Quality bonus to your saves versus spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Saving_throw",
+          "title": "Saving throw",
+          "text": "Quality Spell Save +2"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

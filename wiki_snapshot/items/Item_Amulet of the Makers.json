@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Amulet of the Makers",
+  "page_id": 64853,
+  "revision_id": 628246,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:03:27.105184+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Amulet of the Makers\n  | minlevel                 = 15\n  | type                     = Necklace\n  | race                     = \n  | slot                     = Neck\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 160\n  | material                 = Leather\n  | hardness                 = 25\n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | released                 = Update 36\n  | quest                    = Records of the Past\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{SpellPower|Reconstruction|101}}\n* {{SpellPower|Reconstruction|47|Insight}}\n* {{Hp|Vitality|25}}\n* {{Wizardry|38|Quality}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = The Dwarf blacksmiths who wear these gleaming amulets are regarded as masters of their craft. As you drape it across your neck, you feel a surge of motivation to create, better and more than any smith before you.\n  | pic                      = Necklace Generic Gold.png\n  | picdesc                  = Amulet of the Makers.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Reconstruction +101",
+      "tooltip": "Reconstruction +101: Passive: +101 Equipment bonus to Repair and Rust Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reconstruction",
+          "title": "Reconstruction",
+          "text": "Reconstruction +101"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Reconstruction +47",
+      "tooltip": "Insightful Reconstruction +47: Passive: +47 Insight bonus to Repair and Rust Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reconstruction",
+          "title": "Reconstruction",
+          "text": "Insightful Reconstruction +47"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +25",
+      "tooltip": "Vitality +25: Passive: +25 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +25"
+        }
+      ]
+    },
+    {
+      "text": "Quality Wizardry +38",
+      "tooltip": "Quality Wizardry +38: +38 Quality bonus to spell points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Quality Wizardry +38"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

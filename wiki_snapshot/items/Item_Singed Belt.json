@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Singed Belt",
+  "page_id": 11374,
+  "revision_id": 634796,
+  "revision_timestamp": "2025-04-22T03:45:17Z",
+  "fetched_at": "2026-08-17T22:59:33.040282+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Singed Belt\n  | type                     = Belt\n  | class                    = Clothing\n  | basevalue                = 10,002 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 110\n  | material                 = Leather\n  | hardness                 = 15\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | quest                    = Genesis Point\n  | chest                    = Any End Chest; [[Tower of Despair]], [[Nythirios]] chest\n  | mythic                   = no\n  | enhancements             = \n* {{SpellPower|Inferno|20}}\n* {{Wizardry|VI}}\n* {{Named item sets|Fire Savant}}\n  | description              = This singed belt belonged to Kyrian, a dangerous Fire Savant.\n  | pic                      = Belt Generic.png\n  | picdesc                  = Singed Belt.png\n  | tips                     = ''The set bonuses of % chance to Spell Critical and Critical Damage Multiplier for the Sorcerer prestige sets do '''not''' stack with [[Lore]] bonuses, but that they are two separate bonuses (eg. One could use an item with Greater Fire Lore for +9% Chance to Critical, and the set bonus effect for +0.50 Critical Damage Multiplier, effectively having Major Fire Lore.)<br />\n\n'''Note:'''<br />\nMax Caster Level is not the same thing as [[Spell Augmentation]]. One increases the potential maximum level, the other increases the actual level. So this increase will only affect spells for which your character already has capped.\n}}\n[[Category:Tower of Despair loot]]",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Greater Inferno - 3 Charges (Recharged/Day: 3)",
+      "tooltip": "Greater Inferno: When Activated, this effect provides a +20 Alchemical bonus to Fire Spell Power for three minutes.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Inferno",
+          "title": "Inferno",
+          "text": "Greater Inferno"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry VI",
+      "tooltip": "Wizardry VI: This item grants the wearer +150 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry VI"
+        }
+      ]
+    },
+    {
+      "text": "Fire Savant",
+      "tooltip": "Fire Savant: This item is one of the two pieces of the Fire Savant set. When both items are equipped, you gain a +2% Artifact bonus to your Fire Spell Critical Chance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Fire_Savant",
+          "title": "Named item sets",
+          "text": "Fire Savant"
+        }
+      ]
+    }
+  ]
+}

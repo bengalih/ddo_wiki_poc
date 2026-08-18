@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Legendary Five Rings",
+  "page_id": 63103,
+  "revision_id": 632250,
+  "revision_timestamp": "2025-04-22T00:52:04Z",
+  "fetched_at": "2026-08-17T21:47:33.391317+00:00",
+  "categories": [],
+  "wikitext": "{{Non-food|WAI=TRUE}}\n{{Named item|Jewelry\n  | name                     = Legendary Five Rings\n  | minlevel                 = 28\n  | type                     = Ring\n  | race                     = <!-- Choices are Bladeforged, Warforged, Sun Elf, Shadar Kai, Purple Dragon Knight, or none -->\n  | slot                     = Finger\n  | bind                     = {{Bind|Bta|BoA}}\n  | durability               = 290\n  | material                 = Gold\n  | hardness                 = 38\n  | basevalue                = 11220pp\n  | weight                   = 0.1 lbs\n  | epic                     = no\n  | quest                    = Secret of the Slavers' Stockade\n  | released                 = Update 32\n  | end reward               = <!-- Any 1 of these 3 required. Leave blank if not used-->\n  | turn in                  = <!-- Leave blank if not used-->\n  | chest                    = Small chest\n  | enhancements             = \n* {{Slaver's Slot|Prefix|Legendary}}\n* {{Slaver's Slot|Suffix|Legendary}}\n* {{Slaver's Slot|Extra|Legendary}}\n* {{Slaver's Slot|Bonus|Legendary}}\n* {{CraftingEffects|Against the Slave Lords Set Bonus}}\n* {{Slaver's Slot|Augment|Legendary}}\n  | crafting                 = Slave Lords Crafting\n  | craftingupgrade          = \n  | description              = A set of rings which adorn each finger, torn from the dead hands of the Slave Masters.\n  | pic                      = \n  | picdesc                  = Legendary_Five_Rings.png\n  | tips                     = This unusual item can be worn in either Finger slot ''or'' the Trinket slot - it will default to a Finger if both types of slot are empty when you equip it. The item is always damaged when found.\n}}[[Category:Trinket items]]",
+  "item_template": "Non-food",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "Legendary Slaver's Prefix Slot",
+      "tooltip": "Legendary Slaver's Prefix Slot: Apply a Slaver's shard to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slave_Lords_Crafting",
+          "title": "Slave Lords Crafting",
+          "text": "Legendary Slaver's Prefix Slot"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Slaver's Suffix Slot",
+      "tooltip": "Legendary Slaver's Suffix Slot: Apply a Slaver's shard to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slave_Lords_Crafting",
+          "title": "Slave Lords Crafting",
+          "text": "Legendary Slaver's Suffix Slot"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Slaver's Extra Slot",
+      "tooltip": "Legendary Slaver's Extra Slot: Apply a Slaver's shard to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slave_Lords_Crafting",
+          "title": "Slave Lords Crafting",
+          "text": "Legendary Slaver's Extra Slot"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Slaver's Bonus Slot",
+      "tooltip": "Legendary Slaver's Bonus Slot: Apply a Slaver's shard to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slave_Lords_Crafting",
+          "title": "Slave Lords Crafting",
+          "text": "Legendary Slaver's Bonus Slot"
+        }
+      ]
+    },
+    {
+      "text": "Against the Slave Lords Set Bonus",
+      "tooltip": "Against the Slave Lords Set Bonus: An Against the Slave Lords Set Bonus can be applied to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slave_Lords_Crafting",
+          "title": "Slave Lords Crafting",
+          "text": "Against the Slave Lords Set Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Slaver's Augment Slot",
+      "tooltip": "Legendary Slaver's Augment Slot: Apply a Slaver's shard to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slave_Lords_Crafting",
+          "title": "Slave Lords Crafting",
+          "text": "Legendary Slaver's Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

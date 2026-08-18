@@ -1,0 +1,141 @@
+{
+  "page_title": "Item:Duelist's Leathers (legacy) (level 8)",
+  "page_id": 38652,
+  "revision_id": 629670,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:39:26.795371+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Duelist's Leathers}}\n  | type                     = Leather\n  | feat                     = Light\n  | race                     = \n  | minlevel                 = 8\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +6\n  | maxdexbonus              = 10\n  | acp                      = 0\n  | asf                      = 10%\n  | durability               = 112\n  | material                 = Leather\n  | hardness                 = 16\n  | basevalue                = 3,201 pp\n  | weight                   = 15 lbs\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|copper|650}}{{CCi|silver|375}}{{CCi|amber|20}} at [[Dusty Old Treasure of Crystal Cove]]\n  | mythic                   = no\n  | enhancements             = \n* [[Upgradeable - Tier 1]]\n* {{Enhancement bonus|a|2}}\n* {{ItemGrantedFeat|Mobility}}\n* {{Skills|Bal|7}}\n* {{Nimbleness|Greater}}\n** [[Upgradeable - Tier 2]]\n*** {{Enhancement bonus|a|2}} &rarr; {{Enhancement bonus|a|3}}\n** [[Upgradeable - Tier 3]]\n*** {{Nimbleness|Greater}} &rarr; {{Nimbleness|Superior}}\n  | crafting                 = Treasure of Crystal Cove\n  | craftingupgrade          = \n  | description              = When pirates who prefer light blades in battle need armor, this is the kind of item they will put their money on- a lightweight vest of leather or hide that allows plenty of stylish movement in combat.\n  | pic                      = Duelist's Leathers shown.jpg\n  | picdesc                  = Duelist's Leathers (Level 8).png\n  | notes                    = See also: {{Item|Duelist's Leathers}} - Full table of the Duelist's Leathers line\n* {{CCi|amber|45}}{{CCi|obsidian|30}}{{CCi|green|200}}: {{Popup|Tier 2|[[File:Duelist's Leathers (Level 8) (Tier 2).png|450 px]]|long=y}}\n* {{CCi|amber|70}}{{CCi|obsidian|50}}{{CCi|green|400}}{{CCi|nimble|1}}: {{Popup|Tier 3|[[File:Duelist's Leathers (level 8)(tier 3).png|450 px]]|long=y}}\n}}<noinclude>[[Category:Treasure of Crystal Cove legacy reward items]]</noinclude>",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Feat: Mobility",
+      "tooltip": "Feat: Mobility: While equipped this armor grants the wielder the Mobility feat: increases the maximum dexterity bonus permitted by armor and tower shields by 2, adds a +4 bonus to Armor Class while tumbling, and gain a 2% dodge bonus.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feat",
+          "title": "Feat",
+          "text": "Feat"
+        }
+      ]
+    },
+    {
+      "text": "Balance +7",
+      "tooltip": "Balance +7: Passive: +7 Competence bonus to the Balance skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Balance",
+          "title": "Balance",
+          "text": "Balance +7"
+        }
+      ]
+    },
+    {
+      "text": "Greater Nimbleness",
+      "tooltip": "Greater Nimbleness: This suit of armor looks much less restrictive than others of its type. A suit of armor that has this property has a maximum Dexterity bonus 2 higher than normal, and its armor check penalty is reduced by 4.",
+      "children": [
+        {
+          "text": "Upgradeable - Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "+2 Enhancement Bonus → +3 Enhancement Bonus",
+              "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+2 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+3 Enhancement Bonus"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_2",
+              "title": "Upgradeable - Tier 2",
+              "text": "Upgradeable - Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Upgradeable - Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Greater Nimbleness → Superior Nimbleness",
+              "tooltip": "Greater Nimbleness: This suit of armor looks much less restrictive than others of its type. A suit of armor that has this property has a maximum Dexterity bonus 2 higher than normal, and its armor check penalty is reduced by 4.Superior Nimbleness: This suit of armor looks much less restrictive than others of its type. A suit of armor that has this property has a maximum Dexterity bonus 4 higher than normal, and its armor check penalty is reduced by 4.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Nimbleness#Greater_Nimbleness",
+                  "title": "Nimbleness",
+                  "text": "Greater Nimbleness"
+                },
+                {
+                  "target": "/page/Nimbleness#Superior_Nimbleness",
+                  "title": "Nimbleness",
+                  "text": "Superior Nimbleness"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_3",
+              "title": "Upgradeable - Tier 3",
+              "text": "Upgradeable - Tier 3"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Nimbleness#Greater_Nimbleness",
+          "title": "Nimbleness",
+          "text": "Greater Nimbleness"
+        }
+      ]
+    }
+  ]
+}

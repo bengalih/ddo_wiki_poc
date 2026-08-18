@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:The Morning Star (level 25)",
+  "page_id": 41682,
+  "revision_id": 668733,
+  "revision_timestamp": "2025-12-10T12:48:51Z",
+  "fetched_at": "2026-08-17T23:15:38.827735+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = [[Item:The Morning Star|The Morning Star]]\n  | sentience                = no\n  | type                     = Shuriken\n  | hand                     = Thrown\n  | class                    = Thrown\n  | prof                     = Exotic\n  | minlevel                 = 25\n  | reqtrait                 = \n  | UMD DC                   = \n  | bind                     = {{Bind|BtC|BoE}}\n  | damage                   = [1d2] + 7 Slash, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 265\n  | material                 = Steel\n  | hardness                 = 35\n  | basevalue                = 10,000 pp 2 sp\n  | weight                   = 0.50 lbs\n  | released                 = Update 19\n  | revamped                 = Update 76\n  | quest                    = Friends in Low Places \n  | chest                    = End chest (Epic Normal);<br/>[[Shadow Over Wheloon]], Quest chain end reward (Epic)\n  | enhancements             = \n* {{Returning|100}}\n* {{Enhancement_bonus|w|7}}\n* {{Solar|IV}}\n* {{Flaming|V}}\n* {{Ghostbane|IV}}\n* {{Augment|Red}}\n  | description              = Sometimes the only star you need is the sun in the sky.\n  | pic                      = Weapon Generic Shuriken.png\n  | picdesc                  = The Morning Star (Level 25).png\n  | tips                     = \n}}\n[[Category:Shadow Over Wheloon rewards]]",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Shuriken",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Solar IV",
+      "tooltip": "Solar IV: On Hit: 4 to 16 Light Damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Solar",
+          "title": "Solar",
+          "text": "Solar IV"
+        }
+      ]
+    },
+    {
+      "text": "Flaming V",
+      "tooltip": "Flaming V: On Hit: 5 to 20 Fire Damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flaming#Flaming",
+          "title": "Flaming",
+          "text": "Flaming V"
+        }
+      ]
+    },
+    {
+      "text": "Ghostbane IV",
+      "tooltip": "Ghostbane IV: On Hit: 4 to 16 Bane Damage vs Undead. (Bane damage cannot be resisted.)Passive: Attacks from this weapon bypass the miss chance of incorporeal creatures, such as ghosts, shadows, and wraiths.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostbane",
+          "title": "Ghostbane",
+          "text": "Ghostbane IV"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

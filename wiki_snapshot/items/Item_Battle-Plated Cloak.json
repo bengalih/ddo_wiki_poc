@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Battle-Plated Cloak",
+  "page_id": 37971,
+  "revision_id": 628491,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:09:30.364452+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Battle-Plated Cloak\n  | type                     = Cloak\n  | race                     = Bladeforged\n  | slot                     = Back\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6,005 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{ProtectionBonus|4}}\n* {{False Life|greater}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Battle-Plated Cloak Shown.jpg\n  | picdesc                  = Battle-Plated Cloak.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Protection +4",
+      "tooltip": "Protection +4: Passive: +4 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +4"
+        }
+      ]
+    },
+    {
+      "text": "Greater False Life",
+      "tooltip": "Greater False Life: This item grants the wearer +30 maximum health.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)#Greater_False_Life",
+          "title": "False Life (enchantment)",
+          "text": "Greater False Life"
+        }
+      ]
+    }
+  ]
+}

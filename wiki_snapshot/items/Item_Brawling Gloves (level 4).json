@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Brawling Gloves (level 4)",
+  "page_id": 71337,
+  "revision_id": 628761,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:15:19.171382+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Brawling Gloves}}\n  | type                     = Gloves\n  | slot                     = Hand\n  | durability               = 50\n  | material                 = Leather\n  | hardness                 = 6\n  | basevalue                = 1,605pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 4\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Treasure of Crystal Cove\n  | end reward               = \n  | turn in                  = various ingredients at [[Euphonia's Barter Box]]\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|STR|3}}\n* {{Spike-Studded}}\n* {{Glass Jaw Strike}}\n* {{Deception|2}}\n* {{Augment|Green}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Some pirates prefer to brawl with their bare hands. These strength-enhancing gloves are perfect for their fighting style.\n  | pic                      = Gloves Generic Brawling.png\n  | picdesc                  = Brawling Gloves (level 4).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Strength +3",
+      "tooltip": "Strength +3: This item gives the wearer the power of Ogre Strength, granting a +3 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +3"
+        }
+      ]
+    },
+    {
+      "text": "Spike-Studded",
+      "tooltip": "Spike-Studded: This item is reinforced with metal studs that improve your unarmed strikes. Your unarmed attacks do an additional 1 to 4 piercing damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spike-Studded",
+          "title": "Spike-Studded",
+          "text": "Spike-Studded"
+        }
+      ]
+    },
+    {
+      "text": "Glass Jaw Strike",
+      "tooltip": "Glass Jaw Strike: While wearing this item, when you roll a 20 on an unarmed attack, you will deal a tremendous blow to your target that will daze it (as the Sap ability) and may knock it down as well.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Glass_Jaw_Strike",
+          "title": "Glass Jaw Strike",
+          "text": "Glass Jaw Strike"
+        }
+      ]
+    },
+    {
+      "text": "Deception +2",
+      "tooltip": "Deception +2: +2 Enhancement bonus to hit and +3 to damage for any hit that would qualify as a sneak attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Deception +2"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

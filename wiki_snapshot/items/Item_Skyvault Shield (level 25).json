@@ -1,0 +1,84 @@
+{
+  "page_title": "Item:Skyvault Shield (level 25)",
+  "page_id": 33143,
+  "revision_id": 649278,
+  "revision_timestamp": "2025-07-26T19:12:35Z",
+  "fetched_at": "2026-08-17T23:01:15.165723+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = {{Item|Skyvault Shield}}\n  | type                     = Tower\n  | prof                     = Tower\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 25\n  | bind                     = {{Bind|BtC|BoE}}\n  | sb                       = +18\n  | maxdexbonus              = 4\n  | dr                       = 14\n  | acp                      = -3\n  | asf                      = 0\n  | dmg                      = 2.50[2d6] + 7\n  | dmgtype                  = Bludgeon, Silver, Mithral, Magic\n  | crit                     = 20 / x2\n  | durability               = 370\n  | material                 = Mithral\n  | hardness                 = 45\n  | basevalue                = 10,404 pp 5gp\n  | weight                   = 25 lbs\n  | released                 = Update 17\n  | quest                    = Return to Gianthold Tor\n  | chest                    = Blue Dragon chest (Epic Elite)\n  | enhancements             = \n* {{Enhancement bonus|s|7}}\n* {{Augment|Purple}}\n* {{Augment|Red}}\n* {{Augment|Blue}}\n  | description              = A finely-detailed shield that, despite its impressive height, feels as light as a spellbook.\n  | pic                      = Skyvault Shield shown.jpg\n  | picdesc                  = Skyvault Shield (Level 25).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Tower Shield Proficiency",
+  "material": "Mithral",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

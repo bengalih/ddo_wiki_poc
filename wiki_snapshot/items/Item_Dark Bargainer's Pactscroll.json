@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Dark Bargainer's Pactscroll",
+  "page_id": 117174,
+  "revision_id": 653804,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:30:00.346844+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Dark Bargainer's Pactscroll\n  | type                     = Trinket\n  | race                     = Dhampir Dark Bargainer\n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Trinket\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 74\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Dodge|6}}\n* {{Hp|Vitality|20}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A small scroll case that bears the terms of the deals you've made.\n  | pic                      = Trinket Generic Book.png\n  | picdesc                  = Dark Bargainer's Pactscroll.png\n  | food                     = no\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Dodge +6%",
+      "tooltip": "Dodge +6%: +6% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +6%"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +20",
+      "tooltip": "Vitality +20: Passive: +20 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +20"
+        }
+      ]
+    }
+  ]
+}

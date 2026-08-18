@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:War Wizard's Robes",
+  "page_id": 24237,
+  "revision_id": 635769,
+  "revision_timestamp": "2025-04-22T04:49:57Z",
+  "fetched_at": "2026-08-17T23:25:26.973208+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = War Wizard's Robes\n  | type                     = Robe\n  | feat                     = Cloth\n  | ac                       = +0\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 210\n  | material                 = Cloth\n  | hardness                 = 22\n  | basevalue                = 8,005 pp 5 gp\n  | weight                   = \n  | released                 = Update 14\n  | quest                    = Eveningstar\n  | turn in                  = {{Commendation|WW|10}}\n  | mythic                   = no\n  | enhancements             = \n* {{Resistance|6}}\n* {{Wizardry|VIII}}\n* {{Absorption|Elemental|5}}\n* {{Skills|Concentration|15}}\n* {{Named item sets|Battle Arcanist}}\n  | pic                      = War Wizard's Robes shown.jpg\n  | picdesc                  = War Wizard's Robes.png\n  | description              = Layered with protective enhancements, these are the robes that the War Wizards of Cormyr wear into battle.\n  | notes                    = Unlike most enchanted clothing, this does not provide any Armor Bonus. It is intended to be worn alongside the [[War Wizard's Bracers]] which offers {{ArmorBonus|9}}.\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Resistance +6",
+      "tooltip": "Resistance +6: Passive: +6 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +6"
+        }
+      ]
+    },
+    {
+      "text": "Archmagi",
+      "tooltip": "Archmagi: This item grants the wearer +200 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Archmagi"
+        }
+      ]
+    },
+    {
+      "text": "Elemental Absorption +5%",
+      "tooltip": "Elemental Absorption +5%: Passive: 5% Enhancement Bonus to Acid, Cold, Fire, and Electrical Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Elemental Absorption +5%"
+        }
+      ]
+    },
+    {
+      "text": "Concentration +15",
+      "tooltip": "Concentration +15: Passive: +15 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +15"
+        }
+      ]
+    },
+    {
+      "text": "Battle Arcanist",
+      "tooltip": "Battle Arcanist: When all three items from the set are equipped, you will gain a 10% Enhancement discount to the Spell Point cost of all your spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Battle_Arcanist",
+          "title": "Named item sets",
+          "text": "Battle Arcanist"
+        }
+      ]
+    }
+  ]
+}

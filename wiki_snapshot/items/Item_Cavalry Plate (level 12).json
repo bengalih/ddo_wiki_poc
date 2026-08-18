@@ -1,0 +1,92 @@
+{
+  "page_title": "Item:Cavalry Plate (level 12)",
+  "page_id": 72542,
+  "revision_id": 628908,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:19:40.002120+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Cavalry Plate}}\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | race                     = \n  | minlevel                 = 12\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +16\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 216\n  | material                 = Mithral\n  | hardness                 = 23\n  | basevalue                = 4,950 pp\n  | weight                   = 50 lbs\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|silver|500}}{{CCi|golden|200}}{{CCi|amethyst|25}}{{CCi|green|500}} at [[Euphonia's Barter Box]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Life Shield}}\n* {{Hp|False Life|24}} \n* {{DR|10|Chaotic}}\n* {{Resistance|5}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = High-seas pirates plundered this richly-decorated plate mail from naval cavalry officers. Although it did not suit the pirates well, a fighter looking for better protection may benefit from it.\n  | pic                      = Cavalry Plate shown.jpg\n  | picdesc                  = Cavalry Plate (level 12).png\n  | notes                    = See also: {{Item|Cavalry Plate}} - Full table of the Cavalry Plate line\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Life Shield",
+      "tooltip": "Life Shield: Every time you are hit while wearing a Life Shield item there is a 10% chance you gain 15 temporary hitpoints that last for up to 1 minute.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Life_Shield",
+          "title": "Life Shield",
+          "text": "Life Shield"
+        }
+      ]
+    },
+    {
+      "text": "False Life +24",
+      "tooltip": "False Life +24: +24 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +24"
+        }
+      ]
+    },
+    {
+      "text": "DR 10/Chaotic",
+      "tooltip": "Damage Reduction 10/Chaotic: Reduces physical damage by 10, except from Chaotic attacks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +5",
+      "tooltip": "Resistance +5: Passive: +5 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +5"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

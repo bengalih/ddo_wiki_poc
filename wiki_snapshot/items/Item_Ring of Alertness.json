@@ -1,0 +1,52 @@
+{
+  "page_title": "Item:Ring of Alertness",
+  "page_id": 11186,
+  "revision_id": 634225,
+  "revision_timestamp": "2025-04-22T03:07:32Z",
+  "fetched_at": "2026-08-17T22:44:51.062996+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Ring of Alertness\n  | type                     = Ring\n  | class                    = Jewelry\n  | basevalue                = 120 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Finger\n  | durability               = 30\n  | material                 = Gold\n  | hardness                 = 3\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|boa}}\n  | quest                    = Korthos Island\n  | chest                    = Any of the rares\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|ms|3}}\n* {{Skills|Spot|1}}\n* {{Starter}}\n  | description              = This silver band has small blue stones set into it.\n  | pic                      = Ring Generic.png\n  | picdesc                  = Ring of Alertness.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "enchantments": [
+    {
+      "text": "Move Silently +3",
+      "tooltip": "Move Silently +3: Passive: +3 Competence bonus to the Move Silently skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Move_Silently",
+          "title": "Move Silently",
+          "text": "Move Silently +3"
+        }
+      ]
+    },
+    {
+      "text": "Spot +1",
+      "tooltip": "Spot +1: Passive: +1 Competence bonus to the Spot skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spot",
+          "title": "Spot",
+          "text": "Spot +1"
+        }
+      ]
+    },
+    {
+      "text": "Starter",
+      "tooltip": "Starter: Starter equipment cannot be traded, sold or crafted.This item cannot be fed to sentient jewels.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Starter",
+          "title": "Starter",
+          "text": "Starter"
+        }
+      ]
+    }
+  ]
+}

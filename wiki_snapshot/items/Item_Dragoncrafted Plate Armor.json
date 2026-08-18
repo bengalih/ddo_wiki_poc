@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Dragoncrafted Plate Armor",
+  "page_id": 10303,
+  "revision_id": 629611,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:37:36.930410+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=item}}\n{{Named item|Armor\n  | name                     = Dragoncrafted Plate Armor\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +16\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 156\n  | material                 = Steel\n  | hardness                 = 17\n  | basevalue                = 3,750pp\n  | weight                   = 50 lbs\n  | quest                    = Dragoncraft Armor\n  | turn in                  = 10 [[Ancient Dragon Relic]]s\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Bonus Turning|Sacred}}\n* {{Wizardry|III}}\n  | epic                     = no\n  | crafting                 = \n  | pic                      = Dragoncrafted Plate Armor shown.jpg\n  | picdesc                  = Dragoncrafted Plate Armor.png\n  | description              = Plate armor imbued with the power of the ancient dragons for the few humanoids they favored.\n  | notes                    = Turn in 10 [[Ancient Dragon Relic]]s to Horatin in [[Gianthold]].\n}}",
+  "item_template": "History",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Sacred",
+      "tooltip": "Sacred: An item with this quality assists only wearers who have the ability to turn undead. Sacred items provide an +2 Enhancement bonus to your effective level for Turning Undead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sacred",
+          "title": "Sacred",
+          "text": "Sacred"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry III",
+      "tooltip": "Wizardry III: This item grants the wearer +75 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry III"
+        }
+      ]
+    }
+  ]
+}

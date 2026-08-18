@@ -1,0 +1,113 @@
+{
+  "page_title": "Item:Legendary Lightning Railworker's Boots",
+  "page_id": 102626,
+  "revision_id": 632551,
+  "revision_timestamp": "2025-04-22T01:12:25Z",
+  "fetched_at": "2026-08-17T21:57:32.365812+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Legendary Lightning Railworker's Boots\n  | minlevel                 = 32\n  | type                     = Boots\n  | slot                     = Feet\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 420\n  | material                 = Leather\n  | hardness                 = 52\n  | cost                     = 12,801 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 61\n  | quest                    = Grand Theft Aureon\n  | end reward               = \n  | turn in                  = \n  | chest                    = End chest\n  | enhancements             = \n* {{Stat|Constitution|6|Insightful}}\n* {{Incite|130}}\n* {{Absorption|Electricity|36}}\n* {{Elemental Resistance|Elemental|45}}\n* {{Named item sets|Legendary Forbidden Knowledge}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n  | crafting                 = \n  | description              = The perfect boots for those who wish to work hard and expect to withstand a massive electric shock. Or ten. In one day.\n  | pic                      = \n  | picdesc                  = Legendary Lightning Railworker's Boots.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 32,
+  "enchantments": [
+    {
+      "text": "Insightful Constitution +6",
+      "tooltip": "Insightful Constitution +6: This item gives the wearer improved health, granting a +6 Insight bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Insightful Constitution +6"
+        }
+      ]
+    },
+    {
+      "text": "Incite +130",
+      "tooltip": "Incite +130: +130% Enhancement bonus to increased threat generation from melee damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incite",
+          "title": "Incite",
+          "text": "Incite +130"
+        }
+      ]
+    },
+    {
+      "text": "Electric Absorption +36%",
+      "tooltip": "Electric Absorption +36%: Passive: 36% Enhancement Bonus to Electric Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Electric Absorption +36%"
+        }
+      ]
+    },
+    {
+      "text": "Elemental Resistance +45",
+      "tooltip": "Elemental Resistance +45: Passive: +45 Enhancement bonus to your Acid, Cold, Electricity, and Fire Resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Elemental_Resistance",
+          "title": "Elemental Resistance",
+          "text": "Elemental Resistance +45"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Forbidden Knowledge",
+      "tooltip": "Legendary Forbidden Knowledge: 3 Pieces Equipped:+30 Profane bonus to PRR4 Pieces Equipped:+3 Profane bonus to all ability scores+4 Profane bonus to attack and damage5 Pieces Equipped:+15 Profane bonus to Melee and Ranged Power+25 Profane bonus to Universal Spell Power+3 Profane bonus to Spell DCs",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Legendary_Forbidden_Knowledge",
+          "title": "Named item sets",
+          "text": "Legendary Forbidden Knowledge"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Boot Boost +1 or +3",
+      "tooltip": "Mythic Boot Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Boot Boost"
+        }
+      ]
+    }
+  ]
+}

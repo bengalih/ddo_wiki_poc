@@ -1,0 +1,44 @@
+{
+  "page_title": "Item:Thuranni Stalker's Mail",
+  "page_id": 8140,
+  "revision_id": 635541,
+  "revision_timestamp": "2025-04-22T04:34:45Z",
+  "fetched_at": "2026-08-17T23:19:24.275785+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Thuranni Stalker's Mail\n  | type                     = Chain Shirt\n  | feat                     = Light\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtC|BoE}}\n  | ac                       = +9\n  | maxdexbonus              = 7\n  | acp                      = -1\n  | asf                      = 15%\n  | durability               = 100\n  | material                 = Steel\n  | hardness                 = 15\n  | basevalue                = 2410 pp\n  | weight                   = 25 lbs\n  | quest                    = Gwylan's Stand\n  | chest                    = [[Lyardiir Arrowfel]]'s Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Augment|Blue}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Gerard's Mail shown.jpg <!--same style-->\n  | picdesc                  = Thuranni Stalker's Mail.png\n  | description              = A chain shirt protects your torso while leaving your limbs free and mobile. It includes a layer of quilted fabric worn underneath to prevent chafing and to cushion the impact of blows. Several layers of mail are hung over vital areas.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Chain Shirt",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

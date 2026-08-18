@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Hull-Wrecker's Hammer (level 12)",
+  "page_id": 82135,
+  "revision_id": 631490,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:22:22.804831+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Hull-Wrecker's Hammer}}\n  | type                     = War Hammer\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | minlevel                 = 12\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = 1.40[1d8] + 4 Bludgeon, Magic\n  | crit                     = 20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 185\n  | material                 = Steel\n  | hardness                 = 22\n  | basevalue                = 4,801pp 2gp\n  | weight                   = 2 lbs\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|silver|500}}{{CCi|golden|200}}{{CCi|amethyst|25}}{{CCi|green|500}} at [[Euphonia's Barter Box]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|4}}\n* {{Bludgeoning|3}}\n* {{Bane|Construct|3}}\n* {{Destruction}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Sometimes, the best tool for putting holes in the enemy's hull is a big ol' hammer.\n  | pic                      = Hull-Wrecker's Hammer shown.jpg\n  | picdesc                  = Hull-Wrecker's Hammer (level 12).png\n  | tips                     = See also: [[Item:Hull-Wrecker's Hammer|Hull-Wrecker's Hammer]] - Full table of the Hull-Wrecker's Hammer line.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "War Hammer",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Bludgeoning 3",
+      "tooltip": "Bludgeoning 3: The edges of this weapon are blunted, dealing an additional 3d6 bludgeon damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bludgeoning",
+          "title": "Bludgeoning",
+          "text": "Bludgeoning 3"
+        }
+      ]
+    },
+    {
+      "text": "Construct Bane 3",
+      "tooltip": "Construct Bane 3: This weapon is attuned specifically to disrupt creations, dealing an additional 3d10 bane damage vs. Constructs.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Construct Bane 3"
+        }
+      ]
+    },
+    {
+      "text": "Destruction",
+      "tooltip": "Destruction: On Hit: Your target gains a stack of Armor Destruction. (-1 penalty to Armor Class, -1% of its Fortification. 20 Second Duration. Stacks up to 15 times.) This effect may trigger once every three seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Destruction",
+          "title": "Destruction",
+          "text": "Destruction"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Epic Fury of the Flame",
+  "page_id": 21925,
+  "revision_id": 630133,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:50:09.153985+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Fury of the Flame\n  | type                     = Maul\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = 3[1d10] + 6 Bludgeon, Adamantine, Magic\n  | crit                     = 19-20 / x3\n  | damagemod                = STR\n  | attackmod                = STR\n  | minlevel                 = 20\n  | durability               = 285\n  | material                 = Adamantine\n  | hardness                 = 40\n  | basevalue                = 8301.2 pp\n  | weight                   = 10 lbs\n  | released                 = Update 13\n  | quest                    = Epic Crafting\n  | epic                     = Fury of the Flame\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|6}}\n* {{Impact}}\n* {{Blast|Flaming|4}}\n* {{Coruscating|4}}\n* {{Fracturing|4}}\n* {{Mat|Adamantine}}\n* {{Augment|Red}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Fury of the Flame\n  | description              = A mighty weapon forged by request of the Silver Flame templars and imbued with the fiery wrath of the Silver Flame itself. It metes out judgement in the form of blinding light, burns, and broken bones.\n  | pic                      = Fury of the Flame shown.jpg\n  | picdesc                  = Epic Fury of the Flame.png\n  | tips                     = Seal drops in Servants of the Overlord, shard drops in The Spinner of Shadows\n}}\n[[Category:Web of Chaos epic items|Fury of the Flame]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Maul",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Flaming Blast 4",
+      "tooltip": "Flaming Blast 4: This weapon burns with deadly magical fire, dealing 4d6 Fire damage on a successful hit, and an additional 4d6 Fire damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Flaming Blast 4"
+        }
+      ]
+    },
+    {
+      "text": "Coruscating 4",
+      "tooltip": "Coruscating 4: This effect causes the edges of this weapon to coruscate, dealing 4d6 Light damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Coruscating",
+          "title": "Coruscating",
+          "text": "Coruscating 4"
+        }
+      ]
+    },
+    {
+      "text": "Fracturing 4",
+      "tooltip": "Fracturing 4: This weapon is ideal for breaking bones and does 4d8 damage to targets that have skeletons or are made of bone.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fracturing",
+          "title": "Fracturing",
+          "text": "Fracturing 4"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Epic Purifying Quiver",
+  "page_id": 66507,
+  "revision_id": 630281,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:53:21.160167+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Quiver\n  | name                     = Epic Purifying Quiver\n  | type                     = Thin Quiver\n  | minlevel                 = 29\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = \n  | material                 = None\n  | hardness                 = \n  | cost                     = 12,100pp\n  | weight                   = 1.00 lbs\n  | released                 = Update 37\n  | quest                    = Oath of Vengeance\n  | chest                    = end chest (legendary)\n  | capacity                 = 5\n  | maxstack                 = 3,000\n  | enhancements             = \n* {{Burning Ammunition|1|8}}\n* {{Blunted Ammunition|nonweapon}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = While using this quiver, your ranged weapons will burn with enchanted flames.\n  | pic                      = Quiver Generic Large Wide.png\n  | picdesc                  = Epic Purifying Quiver.png\n  | icon pic                 = Icon Item Slot Quiver.png\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "material": "None",
+  "item_type": "Thin Quiver",
+  "item_class": "Quiver",
+  "slot": "Quiver",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Burning Ammunition - 1d8",
+      "tooltip": "Burning Ammunition - 1d8: On Ranged Attack: 1 to 8 Fire damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Burning_Ammunition",
+          "title": "Burning Ammunition",
+          "text": "Burning Ammunition - 1d8"
+        }
+      ]
+    },
+    {
+      "text": "Blunted Ammunition",
+      "tooltip": "Blunted Ammunition: While you are wearing this item, ammunition fired from your main hand deals blunt damage in addition to its normal damage types.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blunted_Ammunition",
+          "title": "Blunted Ammunition",
+          "text": "Blunted Ammunition"
+        }
+      ]
+    }
+  ]
+}

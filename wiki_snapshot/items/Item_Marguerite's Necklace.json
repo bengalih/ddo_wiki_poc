@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Marguerite's Necklace",
+  "page_id": 5045,
+  "revision_id": 633428,
+  "revision_timestamp": "2025-04-22T02:13:00Z",
+  "fetched_at": "2026-08-17T22:23:02.238719+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Marguerite's Necklace\n  | type                     = Necklace\n  | slot                     = Neck\n  | durability               = 40\n  | material                 = Cold Iron\n  | hardness                 = 8\n  | basevalue                = 1,220pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 3\n  | bind                     = {{Bind|BtA|boa}}\n  | quest                    = The Crypt of Gerard Dryden\n  | chest                    = end chest\n  | enhancements             = \n* {{Deathblock}}\n* {{Hp|Profane Lifeforce|7}}\n* {{Augment|Colorless}}\n  | description              = This necklace is forged of interlocked black iron links. Its edges are sharp and cut at the flesh, and it glows with a sickly light.\n  | pic                      = Necklace Generic Silver.png\n  | picdesc                  = Marguerite's Necklace.png\n}}",
+  "item_template": "Named item",
+  "material": "Cold Iron",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Deathblock",
+      "tooltip": "Deathblock: The wearer of this item is immune to all death spells and magical death effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock"
+        }
+      ]
+    },
+    {
+      "text": "Profane Lifeforce +7",
+      "tooltip": "Profane Lifeforce +7: +7 Profane bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hit_Point",
+          "title": "Hit Point",
+          "text": "Profane Lifeforce +7"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

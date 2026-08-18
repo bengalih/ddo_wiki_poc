@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Kilau's Necklace",
+  "page_id": 11136,
+  "revision_id": 631657,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:26:47.093955+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Kilau's Necklace\n  | type                     = Necklace\n  | class                    = Jewelry\n  | basevalue                = 10,005pp\n  | weight                   = 0.10 lbs\n  | slot                     = Neck\n  | durability               = 110\n  | material                 = Steel\n  | minlevel                 = 18\n  | hardness                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Sins of Attrition\n  | chest                    = Any end chest ; [[Tower of Despair]], [[Nythirios]] chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CON|6}}\n* {{Skills|bal|15}}\n* {{Named item sets|Tempest}}\n  | description              = This thin wooden necklace belonged to the notorious Tempest, Kilaui, and is infused with elemental energy.\n  | pic                      = Necklace Generic.png\n  | picdesc                  = Kilau's Necklace.png\n  | tips                     = Despite the description, the set bonus appears to do bleeding damage, and not slashing (undead and constructs are immune to it).\n}}\n[[Category:Tower of Despair loot]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Constitution +6",
+      "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +6"
+        }
+      ]
+    },
+    {
+      "text": "Balance +15",
+      "tooltip": "Balance +15: Passive: +15 Competence bonus to the Balance skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Balance",
+          "title": "Balance",
+          "text": "Balance +15"
+        }
+      ]
+    },
+    {
+      "text": "Tempest",
+      "tooltip": "Tempest: 1d4 Additional Slash Damage. If have Tempest III Enhancement: +3 To-Hit Bonus.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Tempest",
+          "title": "Named item sets",
+          "text": "Tempest"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "page_title": "Item:Amulet of the Brute",
+  "page_id": 9503,
+  "revision_id": 628245,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:03:25.694648+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Amulet of the Brute\n  | type                     = Necklace\n  | class                    = Jewelry\n  | slot                     = Neck\n  | durability               = 20\n  | material                 = Gold\n  | hardness                 = 6\n  | basevalue                = 120 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Heyton's Rest\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Cursed|INT}}\n* {{Cursed|WIS}}\n* {{Stat|CON|1}}\n  | description              = This simple amulet is said to toughen its wielder at a cost.\n  | pic                      = Necklace Generic Green.png\n  | picdesc                  = Amulet of the Brute.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "enchantments": [
+    {
+      "text": "Curse of Dullness",
+      "tooltip": "Curse of Dullness: Passive -1 Penalty to Intelligence. (The minimum level required to equip this item is lower than normal due to this curse.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cursed",
+          "title": "Cursed",
+          "text": "Curse of Dullness"
+        }
+      ]
+    },
+    {
+      "text": "Curse of Foolishness",
+      "tooltip": "Curse of Foolishness: Passive -1 Penalty to Wisdom. (The minimum level required to equip this item is lower than normal due to this curse.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cursed",
+          "title": "Cursed",
+          "text": "Curse of Foolishness"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +1",
+      "tooltip": "Constitution +1: This item gives the wearer improved health, granting a +1 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +1"
+        }
+      ]
+    }
+  ]
+}

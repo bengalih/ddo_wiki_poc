@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Fernian Wraps",
+  "page_id": 10499,
+  "revision_id": 672353,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:02:46.939526+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Fernian Wraps\n  | damage                   = [1d6] + 4 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Handwrap\n  | hand                     = Simple\n  | class                    = Bludgeoning\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Exotic\n  | minlevel                 = 8\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 200\n  | material                 = Cloth\n  | hardness                 = 21\n  | basevalue                = 3,203pp\n  | weight                   = 0.50 lbs\n  | revamped                 = Update 76\n  | quest                    = The Abandoned Excavation\n  | end reward               = yes\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement bonus|w|4}}\n* {{Burst|Flaming}}\n* {{Save|r|4}}\n* {{SpellPower|Path of the Fire Dragon}}\n* {{Augment|Red}}\n  | description              = These charred wraps survived a Fernian conjunction, and absorbed some of the plane of fire's power.\n  | pic                      = Handwraps Generic.png\n  | picdesc                  = Fernian Wraps.png\n  | tips                     = Old versions of the handwraps had no minimum level making them really good for the early levels.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Handwrap",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Flaming Burst",
+      "tooltip": "Flaming Burst: This weapon is sheathed in fire, and deals 1 to 6 fire damage each hit. Critical hits deal an additional 1 to 10 fire damage for weapons with a x2 critical multiplier, 2 to 20 for a x3 multiplier and 3 to 30 for a x4 multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flaming_Burst#Flaming_Burst",
+          "title": "Flaming Burst",
+          "text": "Flaming Burst"
+        }
+      ]
+    },
+    {
+      "text": "Reflex Save +4",
+      "tooltip": "Reflex Save +4: This item gives a +4 Resistance bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save +4"
+        }
+      ]
+    },
+    {
+      "text": "Path of the Fire Dragon",
+      "tooltip": "Path of the Fire Dragon: While wearing this item and in sun stance, you gain a +54 Equipment bonus to Fire Spell Power , which increases damage from spells and fire finishing moves such as Breath of the Fire Dragon.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Path_of_the_Fire_Dragon",
+          "title": "Path of the Fire Dragon",
+          "text": "Path of the Fire Dragon"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

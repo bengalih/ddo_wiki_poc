@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Guardian's Dagger",
+  "page_id": 4894,
+  "revision_id": 631323,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:17:42.156044+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Guardian's Dagger\n  | type                     = Great Sword\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|boa}}\n  | damage                   = [2d6] + 2 Slash, Pierce, Magic\n  | crit                     = 17-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 120\n  | material                 = Steel \n  | hardness                 = 12\n  | basevalue                = 805pp\n  | weight                   = 8 lbs\n  | quest                    = The Seal of Shan-To-Kor\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Keen|I}}\n* {{Augment|Red}}\n  | description              = This menacing sword was found on the body of the [[Guardian of Shan-To-Kor]]. To him, it was a tiny dagger, great for throwing with precision at unwary adversaries. To you, it is a razor-sharp Great Sword.\n  | pic                      = Guardian's Dagger shown.jpg\n  | picdesc                  = Guardian's Dagger.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

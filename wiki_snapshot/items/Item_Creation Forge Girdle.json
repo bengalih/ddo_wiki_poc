@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Creation Forge Girdle",
+  "page_id": 37973,
+  "revision_id": 629202,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:27:36.289167+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Creation Forge Girdle\n  | type                     = Belt\n  | race                     = Bladeforged\n  | basevalue                = 6,002 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 15\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|STR|5}}\n* {{Stat|DEX|4}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Belt Generic Gold.png\n  | picdesc                  = Creation Forge Girdle.png\n  | tips                     = Bladeforged starter item\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Strength +5",
+      "tooltip": "Strength +5: This item gives the wearer the power of Ogre Strength, granting a +5 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +5"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +4",
+      "tooltip": "Dexterity +4: This item makes the wearer more nimble and dexterous, granting a +4 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +4"
+        }
+      ]
+    }
+  ]
+}

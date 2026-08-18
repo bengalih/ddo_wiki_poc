@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Mournlode Light Mace (level 4)",
+  "page_id": 47470,
+  "revision_id": 650069,
+  "revision_timestamp": "2025-07-26T19:12:55Z",
+  "fetched_at": "2026-08-17T22:28:28.642196+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Mournlode Light Mace}}\n  | damage                   = [1d6] + 1 Bludgeon, Good, Magic\n  | crit                     = 20 / x2\n  | type                     = Light Mace\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 90\n  | material                 = Steel\n  | hardness                 = 14\n  | minlevel                 = 4\n  | basevalue                = 1,600pp 5gp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various challenge ingredients\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|1}}\n* {{Righteous}}\n* {{Bane|Undead|2}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = \n  | description              = A weapon crafted from valuable purple Mournlode crystal is especially effective against the undead.\n  | pic                      = Mournlode Light Mace shown.jpg\n  | picdesc                  = Mournlode Light Mace (level 4).png\n  | tips                     = '''See also:''' {{Item|Mournlode Light Mace}} - Full table of the  Mournlode Light Mace\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Light Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Righteous",
+      "tooltip": "Righteous: This weapon is imbued with holy power, giving it an additional +2 to attack bonus and damage against any evil creature. This power makes the weapon good-aligned.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Righteous",
+          "title": "Righteous",
+          "text": "Righteous"
+        }
+      ]
+    },
+    {
+      "text": "Undead Bane 2",
+      "tooltip": "Undead Bane 2: Those that have died must return, and this weapon is attuned specifically to lay them to rest. This weapon deals an additional 2d10 bane damage vs. Undead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Undead Bane 2"
+        }
+      ]
+    }
+  ]
+}

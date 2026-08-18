@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Silver Blade of the Flame",
+  "page_id": 80495,
+  "revision_id": 634770,
+  "revision_timestamp": "2025-04-22T03:43:37Z",
+  "fetched_at": "2026-08-17T22:58:56.899126+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Silver Blade of the Flame\n  | type                     = Long Sword\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | minlevel                 = 3\n  | bind                     = {{Bind|BtA}}\n  | damage                   = [1d8] + 3 Slash, Silver, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 100\n  | material                 = Silver \n  | hardness                 = 11\n  | basevalue                = 1,203pp 5gp\n  | weight                   = 4 lbs\n  | released                 = Update 46\n  | quest                    = Housekeeping\n  | chest                    = End chest\n  | enhancements             = \n* {{Enhancement_bonus|w|3}}\n* {{Favored Weapon}}\n* {{Mat|Silver|Alchemical}}\n* {{Augment|Red}}\n  | description              = This Silver weapons seems to call to you...\n  | pic                      = Silver Blade of the Flame shown.jpg\n  | picdesc                  = Silver Blade of the Flame.jpg\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Favored Weapon",
+      "tooltip": "Favored Weapon: This weapon has a divine attunement and gains bonuses as if it were a Favored Weapon regardless of your Deity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Favored_weapon",
+          "title": "Favored weapon",
+          "text": "Favored Weapon"
+        }
+      ]
+    },
+    {
+      "text": "Silver",
+      "tooltip": "Silver: A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as devils and vampires. Silver weapons have 2 points lower hardness then equivalent steel weapons, and as such aren't quite as durable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Silver",
+          "title": "Silver",
+          "text": "Silver"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

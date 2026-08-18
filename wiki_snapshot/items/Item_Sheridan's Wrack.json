@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Sheridan's Wrack",
+  "page_id": 8024,
+  "revision_id": 671129,
+  "revision_timestamp": "2026-01-08T22:43:57Z",
+  "fetched_at": "2026-08-17T22:55:23.832594+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Sheridan's Wrack\n  | type                     = Dagger\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Simple\n  | minlevel                 = 8\n  | reqtrait                 = \n  | UMD DC                   = \n  | damage                   = 1.50[2d3] + 4 Slash, Pierce, Magic\n  | crit                     = 17-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 120\n  | material                 = Steel\n  | hardness                 = 18\n  | basevalue                = 3,200 pp 2 gp\n  | weight                   = 1.00 lbs\n  | bind                     = {{Bind|BtA|boa}}\n  | quest                    = Cult of the Six\n  | end reward               = yes\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|4}}\n* {{Keen}}\n* {{Augment|Red}}\n  | description              = Sheridan was a highwayman of little consequence. His blades, on the other hand, are of superb sharpness and balance. A shame he couldn't hold onto them.\n  | pic                      = Sheridan's Wrack shown.jpg\n  | picdesc                  = Sheridan's Wrack.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

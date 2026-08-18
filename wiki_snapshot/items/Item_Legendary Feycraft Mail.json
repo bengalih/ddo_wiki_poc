@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Legendary Feycraft Mail",
+  "page_id": 76849,
+  "revision_id": 647816,
+  "revision_timestamp": "2025-07-07T01:52:37Z",
+  "fetched_at": "2026-08-17T21:47:13.731743+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Feycraft Mail\n  | type                     = Light Armor\n  | feat                     = Light\n  | race                     = \n  | ac                       = +25\n  | maxdexbonus              = 20\n  | acp                      = \n  | asf                      = 10%\n  | durability               = 370\n  | material                 = Leather\n  | hardness                 = 38\n  | minlevel                 = 29\n  | released                 = Update 43\n  | quest                    = Safety in Numbers\n  | chest                    = end chest\n  | epic                     = no\n  | basevalue                = 11650 pp\n  | weight                   = 30 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Fortification|142}}\n* {{Sheltering|33|Enhancement|Physical}}\n* {{HealingAmp|53|h|Competence}}\n* {{Hp|False Life|50}}\n* {{Augment|Green}}\n* {{Named item sets|Legendary Feywild Dreamer}}\n  | crafting                 = <!--Type of crafting. Leave blank if none.-->\n  | craftingupgrade          = <!--What item can be upgraded to. Leave blank if none.-->\n  | pic                      = Feycraft Mail shown.jpg\n  | picdesc                  = Legendary Faycraft Mail.png\n  | description              = Crafted of exquisite Feycraft leather, this ornate light armor looks very distinctly prim and proper.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Light Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +142%",
+      "tooltip": "Fortification +142%: +142% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +142%"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +33",
+      "tooltip": "Physical Sheltering +33: +33 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +33"
+        }
+      ]
+    },
+    {
+      "text": "Competence Healing Amplification +53",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +53 (Competence bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Competence Healing Amplification +53"
+        }
+      ]
+    },
+    {
+      "text": "False Life +50",
+      "tooltip": "False Life +50: +50 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +50"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Feywild Dreamer",
+      "tooltip": "Legendary Feywild Dreamer: 3 Pieces Equipped: +30 Artifact bonus to Sonic, Force, Light/Alignment, and Acid Spell Power+6% Artifact bonus to Sonic, Force, Light/Alignment, and Acid Spell Critical Chance+3 Artifact bonus to Charisma+3 Artifact bonus to Spell DCs",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Legendary_Feywild_Dreamer",
+          "title": "Named item sets",
+          "text": "Legendary Feywild Dreamer"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

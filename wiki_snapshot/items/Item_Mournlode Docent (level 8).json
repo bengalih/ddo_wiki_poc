@@ -1,0 +1,187 @@
+{
+  "page_title": "Item:Mournlode Docent (level 8)",
+  "page_id": 40993,
+  "revision_id": 675422,
+  "revision_timestamp": "2026-02-16T08:24:27Z",
+  "fetched_at": "2026-08-17T22:28:12.975239+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Mournlode Docent (Level 8)\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+12|m=+5|c=+1}}\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 130\n  | material                 = Gem\n  | hardness                 = 18\n  | basevalue                = 3,610 pp\n  | weight                   = 0 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | minlevel                 = 8\n  | quest                    = Vaults of the Artificers\n  | chest                    = \n  | end reward               = \n  | turn in                  = 400 Antique Coins; 400 Crude Talismans; 400 Necromantic Charms\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n{{VaultsOfTheArtificersUpgrade}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = Mournlode Docent (Level 12)\n  | pic                      = Mournlode Docent shown.jpg\n  | picdesc                  = Mournlode Docent (Level 8) (Tier 1).png\n  | description              = Metal armor constructed from valuable purple Mournlode crystal is imbued with a protective, almost holy power. Undead are seared by it, and it protects the wearer from evil.\n  | notes                    = \n* In the picture, from left to right: on [[Composite Plating]], on [[Mithral Body]], on [[Adamantine Body]].\n* See also: {{Item|Mournlode Armors|Mournlode Armors}} - Full table of the Mournlode Armors line\n* {{Popup|Tier 2|[[Image:Mournlode Docent (Level 8) (Tier 2).png|452 px]]|long=y}}\n* {{Popup|Tier 3|[[Image:Mournlode Docent (Level 8) (Tier 3).png|452 px]]|long=y}}\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": "Upgradeable - Tier 1: This item is a Tier 1 upgradable item.",
+      "children": [
+        {
+          "text": "+2 Enhancement Bonus",
+          "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+2 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Protection +4",
+          "tooltip": "Protection +4: Passive: +4 Deflection bonus to Armor Class.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Protection",
+              "title": "Protection",
+              "text": "Protection +4"
+            }
+          ]
+        },
+        {
+          "text": "Resistance +4",
+          "tooltip": "Resistance +4: Passive: +4 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Resistance_(enchantment)",
+              "title": "Resistance (enchantment)",
+              "text": "Resistance +4"
+            }
+          ]
+        },
+        {
+          "text": "Undead Guard +2",
+          "tooltip": "Undead Guard +2: Chance to deal 2d8 Good damage to undead when hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Guards",
+              "title": "Guards",
+              "text": "Undead Guard"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": "Upgradeable - Tier 2: This item is a Tier 2 upgradable item.",
+      "children": [
+        {
+          "text": "+2 Enhancement Bonus → +3 Enhancement Bonus",
+          "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+2 Enhancement Bonus"
+            },
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+3 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Undead Guard +2 → Undead Guard +3",
+          "tooltip": "Undead Guard +2: Chance to deal 2d8 Good damage to undead when hit.Undead Guard +3: Chance to deal 3d8 Good damage to undead when hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Guards",
+              "title": "Guards",
+              "text": "Undead Guard"
+            },
+            {
+              "target": "/page/Guards",
+              "title": "Guards",
+              "text": "Undead Guard"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This item is a Tier 3 upgradable item.",
+      "children": [
+        {
+          "text": "Protection +4 → Protection +5",
+          "tooltip": "Protection +4: Passive: +4 Deflection bonus to Armor Class.Protection +5: Passive: +5 Deflection bonus to Armor Class.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Protection",
+              "title": "Protection",
+              "text": "Protection +4"
+            },
+            {
+              "target": "/page/Protection",
+              "title": "Protection",
+              "text": "Protection +5"
+            }
+          ]
+        },
+        {
+          "text": "Resistance +4 → Resistance +5",
+          "tooltip": "Resistance +4: Passive: +4 Resistance bonus to Fortitude, Reflex, and Will Saving Throws. Resistance +5: Passive: +5 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Resistance_(enchantment)",
+              "title": "Resistance (enchantment)",
+              "text": "Resistance +4"
+            },
+            {
+              "target": "/page/Resistance_(enchantment)",
+              "title": "Resistance (enchantment)",
+              "text": "Resistance +5"
+            }
+          ]
+        },
+        {
+          "text": "Adds Green Augment Slot",
+          "tooltip": "Blue, Green, Yellow, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Green Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

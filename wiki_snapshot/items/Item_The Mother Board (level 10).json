@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:The Mother Board (level 10)",
+  "page_id": 73492,
+  "revision_id": 635403,
+  "revision_timestamp": "2025-04-22T04:25:33Z",
+  "fetched_at": "2026-08-17T23:15:43.309345+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = {{Item|The Mother Board}}\n  | type                     = Tower\n  | prof                     = Tower\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 10\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +9\n  | maxdexbonus              = 2\n  | dr                       = 10\n  | acp                      = -9\n  | asf                      = 50\n  | dmg                      = [1d12] + 4\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 18-20 / x3\n  | durability               = 220\n  | material                 = Wood\n  | hardness                 = 35\n  | basevalue                = 4,404 pp\n  | weight                   = 45 lbs\n  | quest                    = Anniversary Party\n  | turn in                  = {{U30 ingredient|20}}\n  | epic                     = no <!-- If yes, replace \"no\" with name of non-epic version, above 3 fields not displayed/required if filled-->\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|s|4}}\n* {{Bashing|3}}\n* {{Bludgeoning|3}}\n* {{Ghost Touch}}\n* {{Impact|I}}\n* {{Augment|Purple}}\n  | description              = At the heart of the old speaking forum in Stormreach was a large tree. People would come and post messages on the tree, in the hopes that others would read them and benefit from their sage words. When that tree fell, the wood was used to make this shield.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = The Mother Board shown.jpg\n  | picdesc                  = The Mother Board (level 10).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Tower Shield Proficiency",
+  "material": "Wood",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Bashing 3",
+      "tooltip": "Bashing 3: This shield is exceptionally durable and dense, and does an additional 3d6 damage when used to shield bash.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bashing",
+          "title": "Bashing",
+          "text": "Bashing 3"
+        }
+      ]
+    },
+    {
+      "text": "Bludgeoning 3",
+      "tooltip": "Bludgeoning 3: The edges of this weapon are blunted, dealing an additional 3d6 bludgeon damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bludgeoning",
+          "title": "Bludgeoning",
+          "text": "Bludgeoning 3"
+        }
+      ]
+    },
+    {
+      "text": "Ghost Touch",
+      "tooltip": "Ghost Touch: An incorporeal creature's 50% chance to avoid damage does not apply to attacks with ghost touch weapons.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghost_Touch",
+          "title": "Ghost Touch",
+          "text": "Ghost Touch"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

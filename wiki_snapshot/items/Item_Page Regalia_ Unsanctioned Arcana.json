@@ -1,0 +1,113 @@
+{
+  "page_title": "Item:Page Regalia: Unsanctioned Arcana",
+  "page_id": 104398,
+  "revision_id": 689074,
+  "revision_timestamp": "2026-06-18T17:16:58Z",
+  "fetched_at": "2026-08-17T22:34:53.459309+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Page Regalia: Unsanctioned Arcana\n  | type                     = Cloak\n  | cost                     = 12,801 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Back\n  | durability               = 420\n  | bind                     = {{Bind|BtC|BoA}}\n  | material                 = Cloth\n  | hardness                 = 52\n  | minlevel                 = 32\n  | released                 = Update 61\n  | revamped                 = Update 80\n  | quest                    = Fire Over Morgrave\n  | chest                    = end chest\n  | enhancements             = \n* {{Clicky|Turn the Page (effect)|label=Turn the Page|12|5|5}}\n* {{Spell Focus|Spell Focus Mastery|4|Insightful}}\n* {{Spell Focus|Spell Focus Mastery|2|Quality}}\n* {{Guard|Nullmagic}}\n* {{Lost Purpose}}\n* {{Augment|Green}}\n* {{Augment|Yellow}}\n  | epic                     = no\n  | legendary                = no\n  | crafting                 = Cannith Repurposing Station{{CloseLinkBracket}} to gain set bonus<br>{{OpenLinkBracket}}Cauldron of Cadence\n  | craftingupgrade          = Set Augment: Subtle Blade\n  | description              = This page, filled with knowledge and power from other tomes across Eberron, gained so much power it somehow manifested into a Cloak. It now seeks purpose.\n  | pic                      = Page Regalia Unsanctioned Arcana shown.jpg\n  | picdesc                  = Page Regalia Unsanctioned Arcana.png\n  | tips                     = Can be crafted into the [[Item:Set Augment: Subtle Blade|Subtle Blade]] [[Augment_Slot#Set_augments|set augment]] for +3 Artifact Bonus to [[Assassinate]] DCs.\n}}\n[[C:Set augment material items]]",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 32,
+  "enchantments": [
+    {
+      "text": "Turn the Page — 5 Charges (Recharged/Day:5)",
+      "tooltip": "Turn the PageCaster level: 12Charges: 5 (5/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Turn_the_Page_(effect)",
+          "title": "Turn the Page (effect)",
+          "text": "Turn the Page"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Spell Focus Mastery +4",
+      "tooltip": "Insightful Spell Focus Mastery +4: +4 Insight bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Insightful Spell Focus Mastery +4"
+        }
+      ]
+    },
+    {
+      "text": "Quality Spell Focus Mastery +2",
+      "tooltip": "Quality Spell Focus Mastery +2: +2 Quality bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Quality Spell Focus Mastery +2"
+        }
+      ]
+    },
+    {
+      "text": "Nullmagic Guard",
+      "tooltip": "Nullmagic Guard: On being hit with a spell: There is a small chance that you explode in arcane energies. Foes hit are subject to a silencing effect, preventing their spellcasts and dampening their magical protections for 10 seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullmagic_Guard",
+          "title": "Nullmagic Guard",
+          "text": "Nullmagic Guard"
+        }
+      ]
+    },
+    {
+      "text": "Lost Purpose",
+      "tooltip": "Lost Purpose: This item is missing some parts that made it unique. Perhaps you can fix that at a Cannith Repurposing Station.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lost_Purpose",
+          "title": "Lost Purpose",
+          "text": "Lost Purpose"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

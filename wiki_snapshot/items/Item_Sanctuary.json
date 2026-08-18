@@ -1,0 +1,84 @@
+{
+  "page_title": "Item:Sanctuary",
+  "page_id": 5038,
+  "revision_id": 634458,
+  "revision_timestamp": "2025-04-22T03:23:01Z",
+  "fetched_at": "2026-08-17T22:50:42.258118+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Sanctuary\n  | type                     = Large\n  | prof                     = General\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|boa}}\n  | sb                       = +5\n  | maxdexbonus              = None\n  | dr                       = 5\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = [1d6] + 2\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | durability               = 95\n  | material                 = Steel\n  | hardness                 = 12\n  | basevalue                = 802pp\n  | weight                   = 15 lbs\n  | released                 = Update 45\n  | quest                    = Endgame: Marguerite \n  | chest                    = End chest\n  | enhancements             = \n* {{Enhancement_bonus|s|2}}\n* {{Resistance|2}}\n* {{Sheltering|2|Insightful}}\n* {{Augment|Purple}}\n  | description              = This shield protects its wearer from magical harm.\n  | pic                      = Alveo shown.jpg\n  | picdesc                  = Sanctuary.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Steel",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +2",
+      "tooltip": "Resistance +2: Passive: +2 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +2"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Sheltering +2",
+      "tooltip": "Insightful Sheltering +2: +2 Insight bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Insightful Sheltering +2"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Disc of Acid Warding",
+  "page_id": 21040,
+  "revision_id": 668406,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:35:34.634309+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Disc of Acid Warding\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+8|m=+4}}\n  | minlevel                 = 4\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 90\n  | material                 = Gem\n  | hardness                 = 14\n  | basevalue                = 1,610 pp\n  | weight                   = \n  | quest                    = Redwillow's Ruins\n  | chest                    = [[Black Bile Eater]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{Absorption|Acid|15}}\n* {{Augment|Blue}}\n  | pic                      = Disc of Acid Warding shown.jpg\n  | picdesc                  = Disc of Acid Warding.png\n  | description              = This metal disc is engraved with the runes of warding, and a colored gemstone is set at its center.\n  | notes                    = \n}}\n[[Category:Docents]]\n[[Category:Minimum level 4 docents]]",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Acid Absorption +15%",
+      "tooltip": "Acid Absorption +15%: Passive: 15% Enhancement Bonus to Acid Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Acid Absorption +15%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

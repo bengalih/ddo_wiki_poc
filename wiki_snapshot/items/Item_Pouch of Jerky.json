@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Pouch of Jerky",
+  "page_id": 5720,
+  "revision_id": 634005,
+  "revision_timestamp": "2025-04-22T02:52:39Z",
+  "fetched_at": "2026-08-17T22:39:08.428247+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Pouch of Jerky\n  | basevalue                = 4,420 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Trinket\n  | type                     = Trinket\n  | durability               = 120\n  | material                 = Leather\n  | hardness                 = 16\n  | minlevel                 = 11\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Zawabi's Revenge\n  | chest                    = Raid Warded Chest\n  | enhancements             = \n* {{Clicky|Jerky|10|3}}\n* {{Stat|Con|6}} \n* {{Hp|False Life|23}}\n* {{HealingAmp|24|h|Competence}}\n* {{Skills|Heal|+13}}\n* {{Named item sets|Vulkoor's Chosen}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Pouch of Jerky\n  | description              = This leather pouch contains many shreds of dried meat. It's probably best that you don't ask what kind of meat.\n  | pic                      = Trinket Generic Jerky.png\n  | picdesc                  = Pouch of Jerky.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Jerky — 3 Charges (Recharged/Day:3)",
+      "tooltip": "JerkyCaster level: 10Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Jerky",
+          "title": "Jerky",
+          "text": "Jerky"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +6",
+      "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +6"
+        }
+      ]
+    },
+    {
+      "text": "False Life +23",
+      "tooltip": "False Life +23: +23 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +23"
+        }
+      ]
+    },
+    {
+      "text": "Competence Healing Amplification +24",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +24 (Competence bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Competence Healing Amplification +24"
+        }
+      ]
+    },
+    {
+      "text": "Heal +13",
+      "tooltip": "Heal +13: Passive: +13 Competence bonus to the Heal skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heal_(skill)",
+          "title": "Heal (skill)",
+          "text": "Heal +13"
+        }
+      ]
+    },
+    {
+      "text": "Vulkoor's Chosen",
+      "tooltip": "Vulkoor's Chosen: 2 Pieces Equipped:+10 Artifact bonus to Poison Resistance+1 Artifact bonus to Sneak Attack Dice+1 Artifact bonus to Saving Throws+1 Artifact bonus to Dexterity and Constitution",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Vulkoor's_Chosen",
+          "title": "Named item sets",
+          "text": "Vulkoor's Chosen"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Trinket Boost +1 or +3",
+      "tooltip": "Mythic Trinket Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Trinket Boost"
+        }
+      ]
+    }
+  ]
+}

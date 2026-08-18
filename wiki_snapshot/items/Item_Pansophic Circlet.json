@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Pansophic Circlet",
+  "page_id": 58508,
+  "revision_id": 693838,
+  "revision_timestamp": "2026-07-09T18:40:20Z",
+  "fetched_at": "2026-08-17T22:35:12.979412+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Pansophic Circlet\n  | type                     = Helm\n  | basevalue                = 5220 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Head\n  | durability               = 140\n  | material                 = Steel\n  | hardness                 = 23\n  | minlevel                 = 13\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 31\n  | quest                    = The Mask of Deception\n  | end reward               = \n  | chest                    = left end chest\n  | enhancements             = \n* {{SpellPower|Potency|63|Equipment}}\n* {{SpellPower|Potency|31|Insightful|prefix=Insightful}}\n* {{SpellPower|Potency|8|Quality}}\n* {{Magical Efficiency|5}}\n* {{Augment|Green}}\n  | epic                     = no\n  | crafting                 = Catalyst Crafting\n  | craftingupgrade          = Occultic Circlet\n  | description              = While wearing this circlet, you feel a surge of immense power.\n  | pic                      = Circlet of Persuasion shown.jpg <!--Identical Style-->\n  | picdesc                  = Pansophic Circlet.png\n  | tips                     = This item formerly dropped in [[Memoirs of an Illusory Larcener]] before that quest was closed.\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Potency +63",
+      "tooltip": "Potency +63: Passive: +63 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +63"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Potency +31",
+      "tooltip": "Insightful Potency +31: Passive: +31 Insightful bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Insightful Potency +31"
+        }
+      ]
+    },
+    {
+      "text": "Quality Potency +8",
+      "tooltip": "Quality Potency +8: Passive: +8 Quality bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Quality Potency +8"
+        }
+      ]
+    },
+    {
+      "text": "Magical Efficiency 5%",
+      "tooltip": "Magical Efficiency 5%: You take a 5% Enhancement discount to the Spell Point cost of your spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magical_Efficiency",
+          "title": "Magical Efficiency",
+          "text": "Magical Efficiency 5%"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Head Boost +1 or +3",
+      "tooltip": "Mythic Head Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Head Boost"
+        }
+      ]
+    }
+  ]
+}

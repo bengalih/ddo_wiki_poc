@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Brutish Cuirass",
+  "page_id": 12814,
+  "revision_id": 628817,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:16:32.674413+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Brutish Cuirass\n  | feat                     = Heavy\n  | type                     = Full Plate\n  | minlevel                 = 12\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +17\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 216\n  | material                 = Adamantine\n  | hardness                 = 33\n  | basevalue                = 6,450 pp\n  | weight                   = 50 lbs\n  | released                 = Update 8\n  | revamped                 = Update 59\n  | quest                    = Blockade Buster\n  | chest                    = Bash's Chest\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Stat|Strength|6}}\n* {{Save|Fortitude|6}}\n* {{Staggering Blow}}\n* {{Elemental Resistance|Acid|24}}\n* {{Mat|Adamantine}}\n* {{Augment|Green}}\n  | description              = This suit of armor seems to have been crafted for [[Droaam]] troops to enhance their aggressive tendencies. It invests the wearer's attacks with great fervor, causing them to stun enemies occasionally.\n  | pic                      = Brutish Cuirass shown.jpg\n  | picdesc                  = Brutish Cuirass.png\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Adamantine",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Strength +6",
+      "tooltip": "Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +6"
+        }
+      ]
+    },
+    {
+      "text": "Fortitude Save +6",
+      "tooltip": "Fortitude Save +6: This item gives a +6 Resistance bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Fortitude Save +6"
+        }
+      ]
+    },
+    {
+      "text": "Staggering Blow",
+      "tooltip": "Staggering Blow: This item is enchanted to make your attacks send enemies reeling. When you roll a 20 on an attack with a melee weapon you will knock the target down unless it makes a DC 17 Balance check.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Staggering_Blow",
+          "title": "Staggering Blow",
+          "text": "Staggering Blow"
+        }
+      ]
+    },
+    {
+      "text": "Acid Resistance +24",
+      "tooltip": "Acid Resistance +24: Passive: +24 Enhancement bonus to your Acid Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Acid_Resistance",
+          "title": "Acid Resistance",
+          "text": "Acid Resistance +24"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

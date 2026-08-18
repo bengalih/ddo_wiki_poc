@@ -1,0 +1,44 @@
+{
+  "page_title": "Item:Hero's Plate (level 16)",
+  "page_id": 42354,
+  "revision_id": 649242,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:21:20.843510+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Hero's Plate\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | minlevel                 = 16\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +18\n  | maxdexbonus              = 4\n  | acp                      = -4\n  | asf                      = 30%\n  | durability               = 194\n  | material                 = Dwarven Iron\n  | hardness                 = 20\n  | basevalue                = 6,460pp\n  | weight                   = 50 lbs\n  | released                 = Update 19\n  | quest                    = Through a Mirror Darkly\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Heroism}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Hero's Plate shown.jpg\n  | picdesc                  = Hero's Plate (Level 16).png\n  | description              = \n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Dwarven Iron",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Heroism",
+      "tooltip": "Heroism: Passive: +2 morale bonus to all your attack rolls, saving throws, and skill checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heroism_(enchantment)",
+          "title": "Heroism (enchantment)",
+          "text": "Heroism"
+        }
+      ]
+    }
+  ]
+}

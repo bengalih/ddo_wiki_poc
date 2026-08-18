@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Whisperdoom's Fang",
+  "page_id": 5032,
+  "revision_id": 691262,
+  "revision_timestamp": "2026-07-02T05:25:49Z",
+  "fetched_at": "2026-08-17T23:26:20.130330+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Whisperdoom's Fang\n  | type                     = Dagger\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Simple\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = 1.50[1d6] + 3 Slash, Pierce, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 100\n  | material                 = Bone\n  | hardness                 = 13\n  | basevalue                = 2,400pp 2gp\n  | weight                   = 1.00 lbs\n  | quest                    = Assault on Splinterskull\n  | end reward               = yes\n  | revamped                 = Update 76\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Enfeebling}}\n* {{Augment|Red}}\n  | description              = The fang of [[Whisperdoom]], great spider of Splinterskull, drips with toxic venom.\n  | pic                      = Bloodletter's Knife shown.jpg\n  | picdesc                  = Whisperdoom's Fang.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Enfeebling",
+      "tooltip": "Enfeebling: Critical hits by this weapon deal an extra 1 to 6 points of Strength damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enfeebling",
+          "title": "Enfeebling",
+          "text": "Enfeebling"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

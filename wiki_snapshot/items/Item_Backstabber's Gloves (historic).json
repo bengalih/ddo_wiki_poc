@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Backstabber's Gloves (historic)",
+  "page_id": 11410,
+  "revision_id": 677086,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:07:18.767974+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=item|replaced={{Item|Backstabber's Gloves}}}}\n{{Named item|Clothing\n  | name                     = {{Item|Backstabber's Gloves}}\n  | type                     = Gloves\n  | class                    = Clothing\n  | slot                     = Hand\n  | durability               = 60\n  | material                 = Leather\n  | hardness                 = 15\n  | basevalue                = 2,520 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 11\n  | bind                     = {{Bind|no}}\n  | quest                    = The Crucible\n  | chest                    = [[Vrall the Fearless|Vrall]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|Bluff|10}}\n* {{Sneak Attack Bonus|2}}\n  | description              = These leather gloves were once worn by Vrall the Fearless of the Cloven-Jaw. They are soaked with the blood of his enemies... or perhaps his allies.\n  | pic                      = Gloves Generic Claw.png\n  | picdesc                  = Backstabber's Gloves (Level 11).png\n}}",
+  "item_template": "History",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Bluff +10",
+      "tooltip": "Bluff +10: Passive: +10 Competence bonus to the Bluff skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bluff",
+          "title": "Bluff",
+          "text": "Bluff +10"
+        }
+      ]
+    },
+    {
+      "text": "Sneak Attack Bonus +2",
+      "tooltip": "Sneak Attack Bonus +2 : Provides a +2 Enhancement modifier to your attack bonus and a +3 Enhancement bonus to damage for any attack that would qualify as a Sneak Attack, even if the wielder is not a Rogue.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sneak_Attack_Bonus",
+          "title": "Sneak Attack Bonus",
+          "text": "Sneak Attack Bonus +2"
+        }
+      ]
+    }
+  ]
+}

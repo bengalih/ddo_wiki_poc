@@ -1,0 +1,146 @@
+{
+  "page_title": "Item:Shadowmail (level 16)",
+  "page_id": 51407,
+  "revision_id": 649478,
+  "revision_timestamp": "2025-07-26T19:12:39Z",
+  "fetched_at": "2026-08-17T22:54:17.662207+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Shadowmail}}\n  | type                     = Scalemail\n  | feat                     = Medium\n  | race                     = \n  | ac                       = +12\n  | maxdexbonus              = 10\n  | acp                      = -2\n  | asf                      = 10%\n  | durability               = 224\n  | material                 = Spiritforged Iron\n  | hardness                 = 25\n  | basevalue                = 6,405pp\n  | weight                   = 15 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | minlevel                 = 16\n  | quest                    = The End of the Road\n  | chest                    = [[Greenstalker]] Chest (Heroic Normal)\n  | end reward               = \n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Twilight}}\n* One of the following:\n** {{SpellPower|Combustion|78}}\n** {{SpellPower|Corrosion|78}}\n** {{SpellPower|Glaciation|78}}\n** {{SpellPower|Impulse|78}}\n** {{SpellPower|Magnetism|78}}\n* {{Wizardry|VII}}\n* {{Spelllore|Spell|iii}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Shadowmail shown.jpg\n  | picdesc                  = Shadowmail (Level 16).png\n  | description              = The lightweight, magical construction of this metal scale armor allows wearers the ease of movement for the arcane spellcasting with minimal chance of spell failure.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Spiritforged Iron",
+  "armor_type": "Scalemail",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Twilight",
+      "tooltip": "Twilight: This suit of armor, favored by eladrin spellcasters, becomes semi-incorporeal when donned. The twilight armor reduces the chance of arcane spell failure by -10%.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Twilight_(enchantment)#Twilight",
+          "title": "Twilight (enchantment)",
+          "text": "Twilight"
+        }
+      ]
+    },
+    {
+      "text": "One of the following:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "Combustion +78",
+          "tooltip": "Combustion +78: Passive: +78 Equipment bonus to Fire Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Combustion",
+              "title": "Combustion",
+              "text": "Combustion +78"
+            }
+          ]
+        },
+        {
+          "text": "Corrosion +78",
+          "tooltip": "Corrosion +78: Passive: +78 Equipment bonus to Acid Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Corrosion_(spell_boost)",
+              "title": "Corrosion (spell boost)",
+              "text": "Corrosion +78"
+            }
+          ]
+        },
+        {
+          "text": "Glaciation +78",
+          "tooltip": "Glaciation +78: Passive: +78 Equipment bonus to Cold Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Glaciation",
+              "title": "Glaciation",
+              "text": "Glaciation +78"
+            }
+          ]
+        },
+        {
+          "text": "Impulse +78",
+          "tooltip": "Impulse +78: Passive: +78 Equipment bonus to Force, Untyped, Slashing, Piercing, and Bludgeoning Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Impulse",
+              "title": "Impulse",
+              "text": "Impulse +78"
+            }
+          ]
+        },
+        {
+          "text": "Magnetism +78",
+          "tooltip": "Magnetism +78: Passive: +78 Equipment bonus to Electricity Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Magnetism",
+              "title": "Magnetism",
+              "text": "Magnetism +78"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Wizardry VII",
+      "tooltip": "Wizardry VII: This item grants the wearer +175 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry VII"
+        }
+      ]
+    },
+    {
+      "text": "Spell Lore III",
+      "tooltip": "Spell Lore III: Passive: All of your spells gain a 3% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Spell Lore III"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

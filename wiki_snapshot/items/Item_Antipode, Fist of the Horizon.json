@@ -1,0 +1,209 @@
+{
+  "page_title": "Item:Antipode, Fist of the Horizon",
+  "page_id": 26555,
+  "revision_id": 672325,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:03:59.319154+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Antipode, Fist of the Horizon\n  | damage                   = 3.60[1d6] + 7 Bludgeon, Good, Evil, Lawful, Chaotic, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Handwrap\n  | hand                     = Simple\n  | class                    = Bludgeoning\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Exotic\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 290\n  | material                 = Gold\n  | hardness                 = 43\n  | minlevel                 = 23\n  | released                 = Update 14\n  | revamped                 = Update 76\n  | quest                    = Caught in the Web\n  | chest                    = End Chest\n  | basevalue                = 9,203 pp\n  | weight                   = 0.50 lbs\n  | enhancements             = \n* {{Enhancement bonus|w|7}}\n* {{Antipodal}}\n* {{Doublestrike|6}}\n* {{Reinforced Fists}}\n* {{Stunning|10}}\n* {{Attuned to Heroism}}\n  | crafting                 = Attuned to Heroism\n  | craftingupgrade          = \n  | pic                      = Handwraps Generic.png\n  | picdesc                  = Antipode, Fist of the Horizon.png\n  | description              = Spun from enchanted golden thread, this cloth was created to harness and contain planer energies. When wrapped around ones hands, their unarmed attacks can unleash those energies to devastating effect.\n  | tips                     = This weapon is the best way to determine a monster's [[alignment]]. For instance, if the target takes Chaotic and Good damage, it must be Lawful Evil; but if it takes Evil, Good, and Lawful damage, it's Chaotic Neutral. \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Handwrap",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Antipodal",
+      "tooltip": "Antipodal: This weapon is a carefully balanced confluence of diametrically opposed planar energies. This weapon deals an extra 1d6 points of Good damage to non-Good enemies, an extra 1d6 points of Evil damage to non-Evil enemies, an extra 1d6 points of Law damage to non-Lawful enemies, and an extra 1d6 points of Chaotic damage to non-Chaotic enemies.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Antipodal",
+          "title": "Antipodal",
+          "text": "Antipodal"
+        }
+      ]
+    },
+    {
+      "text": "Doublestrike 6%",
+      "tooltip": "Doublestrike 6%: Passive: 6% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 6%"
+        }
+      ]
+    },
+    {
+      "text": "Reinforced Fists",
+      "tooltip": "Reinforced Fists: This item surrounds your fists with kinetic energy. Your unarmed damage is boosted by one half die.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reinforced_Fists",
+          "title": "Reinforced Fists",
+          "text": "Reinforced Fists"
+        }
+      ]
+    },
+    {
+      "text": "Stunning +10",
+      "tooltip": "Stunning +10: +10 Enhancement bonus to the DC of character's Stunning Blow and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stunning",
+          "title": "Stunning",
+          "text": "Stunning +10"
+        }
+      ]
+    },
+    {
+      "text": "Attuned to Heroism",
+      "tooltip": "This relic is attuned to heroic actions.",
+      "children": [
+        {
+          "text": "Attuned by Heroism: Tier 1",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Planar Conflux",
+              "tooltip": "Planar Conflux: When this item is equipped at the same time as a Planar Focus, you will gain set bonuses based on the Planar Focus that you have equipped.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Named_item_sets#Planar_Conflux",
+                  "title": "Named item sets",
+                  "text": "Planar Conflux"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 1"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "+7 Enhancement Bonus → +8 Enhancement Bonus",
+              "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.+8 Enhancement Bonus: +8 enhancement bonus to attack and damage rolls.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+7 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+8 Enhancement Bonus"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds +0.5 weapon dice multiplier",
+              "tooltip": null,
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Weapon_dice_multiplier",
+                  "title": "Weapon dice multiplier",
+                  "text": "weapon dice multiplier"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 3"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 4",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Red Augment Slot",
+              "tooltip": "Red and Colorless",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Augment_Slot",
+                  "title": "Augment Slot",
+                  "text": "Red Augment Slot"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 4"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Attuned_to_Heroism",
+          "title": "Attuned to Heroism",
+          "text": "Attuned to Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

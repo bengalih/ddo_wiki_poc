@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Lacerator",
+  "page_id": 7881,
+  "revision_id": 672761,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:27:57.522144+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Lacerator\n  | weight                   = 4 lbs\n  | damage                   = [1d6] + 2 Slash, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Scimitar\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | minlevel                 = 4\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 100\n  | material                 = Steel\n  | hardness                 = 14\n  | bind                     = {{Bind|BtC|BoE}}\n  | basevalue                = 1,602 pp\n  | quest                    = The Bloody Crypt\n  | chest                    = End Chest\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Bleed}}\n* {{Augment|Red}}\n  | pic                      = Lacerator shown.jpg\n  | picdesc                  = Lacerator.png\n  | description              = This razor sharp sickle seeks out veins and arteries as it slashes across its victim's skin.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Scimitar",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Bleed",
+      "tooltip": "Bleed: This weapon is cruelly sharp and will do an additional 1 to 8 damage to targets that are vulnerable to bleeding.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleed#Bleed",
+          "title": "Bleed",
+          "text": "Bleed"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

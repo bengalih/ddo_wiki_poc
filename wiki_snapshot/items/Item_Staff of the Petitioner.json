@@ -1,0 +1,140 @@
+{
+  "page_title": "Item:Staff of the Petitioner",
+  "page_id": 10176,
+  "revision_id": 690595,
+  "revision_timestamp": "2026-06-30T16:01:53Z",
+  "fetched_at": "2026-08-17T23:05:03.729641+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Staff of the Petitioner\n  | damage                   = 1.80[1d6] + 5 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | minlevel                 = 14\n  | bind                     = {{Bind|BtC|BoA}}\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 160\n  | material                 = Wood \n  | hardness                 = 18\n  | basevalue                = 12,800pp 1cp\n  | weight                   = 4 lbs\n  | quest                    = Ascension Chamber\n  | chest                    = Raid Warded chest\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Power Store}}\n* {{Spell Focus|Enchantment|II}}\n* {{Spell Focus|Necromancy|II}}\n* {{Skills|concentration|5}}\n* {{Spellpen|iii}}\n* {{UpgradeableItem|Black Abbot}}\n  | description              = The favored implement of the Black Abbot.\n  | crafting                 = Fountain of Necrotic Might\n  | craftingupgrade          = \n  | pic                      = Staff of the Petitioner shown.jpg\n  | picdesc                  = Staff of the Petitioner.png\n  | tips                     = [[File:Staff of the Petitioner (upgraded).png|375px]]\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Power Store",
+      "tooltip": "Power Store: This item collects and stores magical energy. Any spellcaster can use this energy to partially power their spells. All spells cast while using this item receive an enhancement bonus of -10% to their spell point costs.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power_Store",
+          "title": "Power Store",
+          "text": "Power Store"
+        }
+      ]
+    },
+    {
+      "text": "Enchantment Focus II",
+      "tooltip": "Enchantment Focus II: +2 Equipment bonus to the DC of Enchantment spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Enchantment Focus II"
+        }
+      ]
+    },
+    {
+      "text": "Necromancy Focus II",
+      "tooltip": "Necromancy Focus II: +2 Equipment bonus to the DC of Necromancy spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Necromancy Focus II"
+        }
+      ]
+    },
+    {
+      "text": "Concentration +5",
+      "tooltip": "Concentration +5: Passive: +5 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +5"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration III",
+      "tooltip": "Spell Penetration III: Passive: +3 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration III"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable Item (Black Abbot)",
+      "tooltip": "Upgradeable Item (Black Abbot): This item could be upgraded if you found a Seal of the Black Abbot to combine it with. Bring this item to the Fountain of Necrotic Might outside the Black Mausoleum and combine it with a Seal of the Black Abbot to upgrade the item to a more powerful form.",
+      "children": [
+        {
+          "text": "Adds Potency +48",
+          "tooltip": "Potency +48: Passive: +48 Equipment bonus to each Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Potency",
+              "title": "Potency",
+              "text": "Potency +48"
+            }
+          ]
+        },
+        {
+          "text": "Adds Spellcasting Implement +15",
+          "tooltip": "Spellcasting Implement +15: Passive: +15 Implement bonus to Universal Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spellcasting_Implement",
+              "title": "Spellcasting Implement",
+              "text": "Spellcasting Implement +15"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_Item_(Black_Abbot)",
+          "title": "Upgradeable Item (Black Abbot)",
+          "text": "Upgradeable Item (Black Abbot)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

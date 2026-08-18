@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Warded Sewer Waders",
+  "page_id": 99662,
+  "revision_id": 635775,
+  "revision_timestamp": "2025-04-22T04:50:21Z",
+  "fetched_at": "2026-08-17T23:25:35.407944+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Warded Sewer Waders\n  | type                     = Boots\n  | cost                     = 7201pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 280\n  | bind                     = {{Bind|BtA|BoA}}\n  | material                 = Leather\n  | hardness                 = 38\n  | minlevel                 = 18\n  | released                 = Update 58\n  | revamped                 = Update 59\n  | quest                    = Kill Ten Rats\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Proof|Poison|7}}\n* {{Proof|Disease|7}}\n* {{Save|Fortitude|2|Quality}}\n* {{Speed|28}}\n* {{Augment|Blue}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = These boots help the user ward off sicknesses one might acquire in the sewers. Given that they were dredged up from its depths without their user, they seem less effective at warding off the sewers' inhabitants.\n  | pic                      = \n  | picdesc                  = Warded Sewer Waders.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Proof Against Poison +7",
+      "tooltip": "Proof Against Poison +7: This item grants its wearer immunity to natural poisons. This item also grants a +7 Enhancement bonus to saving throws against magical poisons, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical poisons with a DC of less than 8 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Poison",
+          "title": "Proof Against Poison",
+          "text": "Proof Against Poison +7"
+        }
+      ]
+    },
+    {
+      "text": "Proof Against Disease +7",
+      "tooltip": "Proof Against Disease +7: This item grants its wearer immunity to natural diseases. This item also grants a +7 Enhancement bonus to saving throws against magical diseases, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical diseases with a DC of less than 8 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Disease",
+          "title": "Proof Against Disease",
+          "text": "Proof Against Disease +7"
+        }
+      ]
+    },
+    {
+      "text": "Quality Fortitude Save +2",
+      "tooltip": "Quality Fortitude Save +2: This item gives a +2 Quality bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Quality Fortitude Save +2"
+        }
+      ]
+    },
+    {
+      "text": "Speed +28%",
+      "tooltip": "Speed +28%: +28% enhancement bonus to movement speed, 13% bonus to attack speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Speed",
+          "title": "Speed",
+          "text": "Speed +28%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Boot Boost +1 or +3",
+      "tooltip": "Mythic Boot Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Boot Boost"
+        }
+      ]
+    }
+  ]
+}

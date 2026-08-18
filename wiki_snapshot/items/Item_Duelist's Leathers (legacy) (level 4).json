@@ -1,0 +1,129 @@
+{
+  "page_title": "Item:Duelist's Leathers (legacy) (level 4)",
+  "page_id": 14976,
+  "revision_id": 629669,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:39:25.362765+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Duelist's Leathers}}\n  | type                     = Leather\n  | feat                     = Light\n  | race                     = \n  | minlevel                 = 4\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +4\n  | maxdexbonus              = 6\n  | acp                      = 0\n  | asf                      = 10%\n  | durability               = 64\n  | material                 = Leather\n  | hardness                 = 12\n  | basevalue                = 1,601 pp\n  | weight                   = 15 lbs\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|copper|500}}{{CCi|silver|250}}{{CCi|alabaster|15}} at [[Dusty Old Treasure of Crystal Cove]]\n  | mythic                   = no\n  | enhancements             = \n* [[Upgradeable - Tier 1]]\n* {{Enhancement bonus|a|1}}\n* {{ItemGrantedFeat|Mobility}}\n* {{Skills|Bal|5}}\n** [[Upgradeable - Tier 2]]\n*** {{Enhancement bonus|a|1}} &rarr; {{Enhancement bonus|a|2}}\n** [[Upgradeable - Tier 3]]\n*** {{Skills|Bal|5}} &rarr; {{Skills|Bal|7}}\n  | crafting                 = Treasure of Crystal Cove\n  | craftingupgrade          = \n  | description              = When pirates who prefer light blades in battle need armor, this is the kind of item they will put their money on- a lightweight vest of leather or hide that allows plenty of stylish movement in combat.\n  | pic                      = Duelist's Leathers shown.jpg\n  | picdesc                  = Duelist's Leathers (Level 4).png\n  | notes                    = See also: {{Item|Duelist's Leathers}} - Full table of the Duelist's Leathers line\n* {{CCi|alabaster|15}}{{CCi|pyrite|30}}{{CCi|green|100}}: {{Popup|Tier 2|[[File:Duelist's Leathers (level 4)(tier 2).png|450 px]]|long=y}}\n* {{CCi|alabaster|50}}{{CCi|pyrite|30}}{{CCi|green|200}}{{CCi|nimble|1}}: {{Popup|Tier 3|[[File:Duelist's Leathers (level 4)(tier 3).png|450 px]]|long=y}}\n}}<noinclude>[[Category:Treasure of Crystal Cove legacy reward items]]</noinclude>",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Feat: Mobility",
+      "tooltip": "Feat: Mobility: While equipped this armor grants the wielder the Mobility feat: increases the maximum dexterity bonus permitted by armor and tower shields by 2, adds a +4 bonus to Armor Class while tumbling, and gain a 2% dodge bonus.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feat",
+          "title": "Feat",
+          "text": "Feat"
+        }
+      ]
+    },
+    {
+      "text": "Balance +5",
+      "tooltip": "Balance +5: Passive: +5 Competence bonus to the Balance skill.",
+      "children": [
+        {
+          "text": "Upgradeable - Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "+1 Enhancement Bonus → +2 Enhancement Bonus",
+              "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class.+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+1 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+2 Enhancement Bonus"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_2",
+              "title": "Upgradeable - Tier 2",
+              "text": "Upgradeable - Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Upgradeable - Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Balance +5 → Balance +7",
+              "tooltip": "Balance +5: Passive: +5 Competence bonus to the Balance skill.Balance +7: Passive: +7 Competence bonus to the Balance skill.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Balance",
+                  "title": "Balance",
+                  "text": "Balance +5"
+                },
+                {
+                  "target": "/page/Balance",
+                  "title": "Balance",
+                  "text": "Balance +7"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_3",
+              "title": "Upgradeable - Tier 3",
+              "text": "Upgradeable - Tier 3"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Balance",
+          "title": "Balance",
+          "text": "Balance +5"
+        }
+      ]
+    }
+  ]
+}

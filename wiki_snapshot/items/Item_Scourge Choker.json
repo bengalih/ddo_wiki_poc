@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Scourge Choker",
+  "page_id": 11141,
+  "revision_id": 634531,
+  "revision_timestamp": "2025-04-22T03:27:41Z",
+  "fetched_at": "2026-08-17T22:52:50.968110+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Scourge Choker\n  | type                     = Necklace\n  | class                    = Jewelry\n  | slot                     = Neck\n  | durability               = 120 \n  | material                 = Bone \n  | hardness                 = 19\n  | basevalue                = 4,420 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 11 \n  | bind                     = {{Bind|BtC|BoE}} \n  | quest                    = The Cursed Crypt\n  | chest                    = end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Proof|Disease|6}}\n* {{Bloodrage}}\n  | description              = This necklace is made from the teeth of several dozen carcass eaters.\n  | pic                      = Necklace Generic Bright.png\n  | picdesc                  = Scourge Choker.png\n}}",
+  "item_template": "Named item",
+  "material": "Bone",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Proof Against Disease +6",
+      "tooltip": "Proof Against Disease +6: This item grants its wearer immunity to natural diseases. This item also grants a +6 Enhancement bonus to saving throws against magical diseases, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical diseases with a DC of less than 7 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Disease",
+          "title": "Proof Against Disease",
+          "text": "Proof Against Disease +6"
+        }
+      ]
+    },
+    {
+      "text": "Blood Rage",
+      "tooltip": "Blood Rage: Anytime you are hit there is a chance that you will fall into a Blood Rage. Blood Rage gives up to a +8 bonus to Strength and Constitution but will also cause short periods of lethargy when your lust for blood becomes sated.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blood_Rage",
+          "title": "Blood Rage",
+          "text": "Blood Rage"
+        }
+      ]
+    }
+  ]
+}

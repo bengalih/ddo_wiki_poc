@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Giantcraft Leather Armor",
+  "page_id": 33340,
+  "revision_id": 668412,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:10:19.927901+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Giantcraft Leather Armor\n  | type                     = Leather\n  | feat                     = Light\n  | race                     = \n  | minlevel                 = 10\n  | bind                     = {{Bind|BtC|BoA}}\n  | epic                     = no\n  | ac                       = +8\n  | maxdexbonus              = 8\n  | acp                      = \n  | asf                      = 15%\n  | durability               = 132\n  | material                 = Feyleather\n  | hardness                 = 18\n  | basevalue                = 4,001pp\n  | weight                   = 15 lbs\n  | released                 = Update 17\n  | quest                    = Giantcraft Armor\n  | chest                    = \n  | end reward               = \n  | turn in                  = 10 [[Ancient Giant Relic]]s\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Guard|Haste}}\n* {{Guard|Vengeful|guard=off}}\n* {{RelentlessFury}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Giantcraft Leather Armor shown.jpg\n  | picdesc                  = Giantcraft Leather Armor.png\n  | description              = Leather armor imbued with the magic of the ancient giant empire.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Feyleather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Haste Guard",
+      "tooltip": "Haste Guard: When you are hit by enemies, there is a chance you will be Hasted, quickening your attack and movement speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Haste_Guard",
+          "title": "Haste Guard",
+          "text": "Haste Guard"
+        }
+      ]
+    },
+    {
+      "text": "Vengeful",
+      "tooltip": "Vengeful: When its wielder is hit in battle, this weapon has a 10% chance to cause him or her to become full of anger and go into a Rage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vengeful",
+          "title": "Vengeful",
+          "text": "Vengeful"
+        }
+      ]
+    },
+    {
+      "text": "Relentless Fury",
+      "tooltip": "Relentless Fury: While this item is equipped, any killing blows you strike against enemies may drive you into a furious rage, providing a 5% Enhancement damage bonus to your melee, ranged and unarmed attacks for 30 seconds. Slaying weaker opponents has a reduced chance of producing this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Relentless_Fury",
+          "title": "Relentless Fury",
+          "text": "Relentless Fury"
+        }
+      ]
+    }
+  ]
+}

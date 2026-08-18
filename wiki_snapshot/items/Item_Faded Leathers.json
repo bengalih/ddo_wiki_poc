@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Faded Leathers",
+  "page_id": 77428,
+  "revision_id": 630714,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:01:56.194743+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Faded Leathers\n  | type                     = Light Armor\n  | feat                     = Light\n  | race                     = \n  | ac                       = 3\n  | maxdexbonus              = 5\n  | acp                      = 0\n  | asf                      = 10%\n  | durability               = 26\n  | material                 = Leather\n  | hardness                 = 9\n  | minlevel                 = 1\n  | released                 = Update 44\n  | quest                    = The Hobgoblin Horde\n  | chest                    = End Chest\n  | end reward               = \n  | turn in                  = \n  | basevalue                = 450 pp\n  | weight                   = 15 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|1}}\n* {{Fortification|38}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Faded Leathers shown.jpg\n  | picdesc                  = Faded Leathers.png\n  | description              = Light and flexible, it won't do much to protect against heavy hits, but it's better than nothing.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Light Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +38%",
+      "tooltip": "Fortification +38%: +38% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +38%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "page_title": "Item:Lesser Vial of Seafog",
+  "page_id": 14118,
+  "revision_id": 668181,
+  "revision_timestamp": "2025-11-27T11:47:21Z",
+  "fetched_at": "2026-08-17T22:16:45.230120+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Lesser Vial of Seafog\n  | damage                   = [1d4] + 0 Bludgeon\n  | crit                     = 20 / x1\n  | type                     = Dart\n  | hand                     = Thrown\n  | class                    = Thrown\n  | prof                     = Simple\n  | UMD DC                   = 20\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 5\n  | material                 = Glass\n  | hardness                 = 5\n  | minlevel                 = 5\n  | revamped                 = Update 76\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = 50 copper [[doubloons]] at [[Euphonia's Barter Box]]\n  | basevalue                = 5cp\n  | weight                   = 0.05 lbs\n  | bind                     = {{Bind|no}}\n  | mythic                   = no\n  | enhancements             = \n* Special: Casts [[Obscuring Mist]] at caster level 10.\n  | pic                      = Lesser Vial of Seafog shown.jpg\n  | picdesc                  = Lesser Vial of Seafog.png\n  | description              = A glass vial filled with water and thick mist. When it breaks on impact, a bank of Obscuring Mist is created on the enemy it struck.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dart",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Special: Casts Obscuring Mist at caster level 10.",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Obscuring_Mist",
+          "title": "Obscuring Mist",
+          "text": "Obscuring Mist"
+        }
+      ]
+    }
+  ]
+}

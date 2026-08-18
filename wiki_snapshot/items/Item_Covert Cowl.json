@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Covert Cowl",
+  "page_id": 39592,
+  "revision_id": 629192,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:27:18.966088+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Covert Cowl\n  | type                     = Helm\n  | race                     = Shadar-kai\n  | slot                     = Head\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6,010 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Deathblock}}\n* {{Skills|Disable Device|13}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Covert Cowl shown.jpg\n  | picdesc                  = Covert Cowl.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Deathblock",
+      "tooltip": "Deathblock: The wearer of this item is immune to all death spells and magical death effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock"
+        }
+      ]
+    },
+    {
+      "text": "Disable Device +13",
+      "tooltip": "Disable Device +13: Passive: +13 Competence bonus to the Disable Device skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disable_Device",
+          "title": "Disable Device",
+          "text": "Disable Device +13"
+        }
+      ]
+    }
+  ]
+}

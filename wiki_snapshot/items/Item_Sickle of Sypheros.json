@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Sickle of Sypheros",
+  "page_id": 7940,
+  "revision_id": 672961,
+  "revision_timestamp": "2026-01-25T20:16:06Z",
+  "fetched_at": "2026-08-17T22:58:09.396790+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Sickle of Sypheros\n  | type                     = Sickle\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Simple\n  | minlevel                 = 6\n  | reqtrait                 = \n  | UMD DC                   = \n  | bind                     = {{Bind|BtC|boe}}\n  | damage                   = 1.50[1d6] + 3 Slash, Magic\n  | crit                     = 18-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 110\n  | material                 = Steel\n  | hardness                 = 16\n  | basevalue                = 2400 pp, 6 gp\n  | weight                   = 2 lbs\n  | released                 = Update 17\n  | revamped                 = Update 76\n  | quest                    = The Grey Moon's Den: Extermination\n  | chest                    = End Chest\n  | mythic                   = no\n  | enhancements             = \n* {{enhancement bonus|w|3}}\n* {{Frost}}\n* {{Augment|Red}}\n  | description              = This grayish sickle with a bloodstained edge freezes the skin when touched. While not evil in itself, its past has been long and troubled.\n  | pic                      = Sickle of Sypheros Shown.jpg‎\n  | picdesc                  = Sickle_of_Sypheros.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Sickle",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Frost",
+      "tooltip": "Frost: This weapon is sheathed in icy cold. A frost weapon deals an extra 1 to 6 points of cold damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Frost",
+          "title": "Frost",
+          "text": "Frost"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

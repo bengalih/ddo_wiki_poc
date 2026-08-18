@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Legendary Greatclub of the Scrag",
+  "page_id": 91317,
+  "revision_id": 632365,
+  "revision_timestamp": "2025-04-22T00:59:44Z",
+  "fetched_at": "2026-08-17T21:51:52.680762+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Greatclub of the Scrag\n  | minlevel                 = 30\n  | type                     = Great Club\n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | hand                     = Two-handed\n  | damage                   = 5[1d10+4] + 15 Bludgeon, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 375\n  | material                 = Wood\n  | hardness                 = 35\n  | cost                     = 12,000 pp 5 gp\n  | weight                   = 8 lbs\n  | released                 = Update 50\n  | quest                    = Legendary Crafting\n  | legendary                = Epic Greatclub of the Scrag\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Strength of Purpose}}\n* {{Burst|Anarchic|6}}\n* {{Blast|Icy|6}}\n* {{Impact}}\n* {{Augment|Orange}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | description              = This particularly nasty weapon once belonged to one of the Scrag in High Priestess' Slikir's service. It seems that when the troll was killed, its blood seeped into this club, granting the weapon some of the creature's characteristics.\n  | pic                      = Dampened Greatclub of the Scrag shown.jpg\n  | picdesc                  = Legendary Greatclub of the Scrag.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Strength of Purpose",
+      "tooltip": "Strength of Purpose: You gain a +128 Enhancement Bonus to Unconsciousness Range, and regenerate 16 Hit Points using Positive Healing every 10 seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength_of_Purpose",
+          "title": "Strength of Purpose",
+          "text": "Strength of Purpose"
+        }
+      ]
+    },
+    {
+      "text": "Anarchic Burst 6",
+      "tooltip": "Anarchic Burst 6: This weapon is a chaotic conduit, dealing 6d6 Chaos damage on a successful hit to Lawful enemies, and 1d6 Chaos damage on a critical hit to Lawful enemies. This effect makes the weapon chaotically aligned.Lawful characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Anarchic_Burst#Anarchic_Burst",
+          "title": "Anarchic Burst",
+          "text": "Anarchic Burst 6"
+        }
+      ]
+    },
+    {
+      "text": "Icy Blast 6",
+      "tooltip": "Icy Blast 6: This weapon is sheathed in icy cold, dealing 6d6 Cold damage on a successful hit, and an additional 6d6 Cold damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Icy Blast 6"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

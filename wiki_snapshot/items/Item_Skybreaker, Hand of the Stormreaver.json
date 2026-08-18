@@ -1,0 +1,159 @@
+{
+  "page_title": "Item:Skybreaker, Hand of the Stormreaver",
+  "page_id": 33992,
+  "revision_id": 634856,
+  "revision_timestamp": "2025-04-22T03:49:17Z",
+  "fetched_at": "2026-08-17T23:01:03.553393+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | sentience                = no\n  | name                     = Skybreaker, Hand of the Stormreaver\n  | damage                   = 4[3d6] +7 Slash, Silver, Mithral, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Great Sword\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 350\n  | material                 = Mithral\n  | hardness                 = 50\n  | minlevel                 = 25\n  | released                 = Update 17\n  | quest                    = The Fall of Truth \n  | chest                    = Raid Warded chest (Epic Normal)\n  | basevalue                = 10,005 pp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|w|7}}\n* {{Skybreaker}}\n* {{The Reaver's Resolve}}\n* {{Attuned to Heroism}}\n  | crafting                 = Stormreaver Monument\n  | craftingupgrade          = \n  | pic                      = Skybreaker, Hand of the Stormreaver shown.jpg\n  | picdesc                  = Skybreaker, Hand of the Stormreaver.png <!-- Non Upgraded Base Item (Epic Normal) -->\n  | description              = None\n  | tips                     = \n* {{Popup|Tier 1|[[File:Skybreaker, Hand of the Stormreaver (Tier 1).png|450px]]|long=y}}: Epic Hard or with {{Commendation|Heroism|5}}\n* {{Popup|Tier 2|[[File:Skybreaker, Hand of the Stormreaver (Tier 2).png|450px]]|long=y}}: Epic Elite or with {{Commendation|Heroism|7}} (12 total)\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Skybreaker",
+      "tooltip": "Skybreaker: On Hit: 3 to 18 Electric damage. On Critical Hit: 10 to 60 additional Sonic damage. On Vorpal Hit: 60-120 additional Electric damage to your target, plus a shockwave that deals an additional 45-90 Sonic damage to all nearby foes.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Skybreaker",
+          "title": "Skybreaker",
+          "text": "Skybreaker"
+        }
+      ]
+    },
+    {
+      "text": "The Reaver's Resolve",
+      "tooltip": "The Reaver's Resolve: While the Stormreaver was a guest of The Celestial One, Ternathear, some know that he wallowed for a time in drink. He had lost everything he had once held dear- even his prized blade, Cloudburst. After a group of adventurers defeated his former lieutenant, the storm giant lich Sor'jek Incanni, the Stormreaver resolved to take matters into his own two hands.(This enchantment has no effect.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/The_Reaver%27s_Resolve",
+          "title": "The Reaver's Resolve",
+          "text": "The Reaver's Resolve"
+        }
+      ]
+    },
+    {
+      "text": "Attuned to Heroism",
+      "tooltip": "This relic is attuned to heroic actions.",
+      "children": [
+        {
+          "text": "Attuned by Heroism: Tier 1",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "+7 Enhancement Bonus → +8 Enhancement Bonus",
+              "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.+8 Enhancement Bonus: +8 enhancement bonus to attack and damage rolls.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+7 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+8 Enhancement Bonus"
+                }
+              ]
+            },
+            {
+              "text": "Adds The Reaver's Quest",
+              "tooltip": "The Reaver's Quest: The Stormreaver slipped from The Celestial One's care, and set out across Xen'drik for the components to craft a new sword. Purest Mithral was gathered from the Bluespine Peaks, and diamonds from the Burning Mountain, ground to dust under his heel. He forged his blade in the heart of Mount Reysalon's volcano, and quenched it in the fury of a hurricane that was battering itself against Shargon's Teeth.(This enchantment has no effect.)",
+              "children": [],
+              "links": [
+                {
+                  "target": "/edit/The_Reaver%27s_Quest?redlink=1",
+                  "title": "The Reaver's Quest (page does not exist)",
+                  "text": "The Reaver's Quest"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 1"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds The Reaver's Fate",
+              "tooltip": "The Reaver's Fate: With Skybreaker in hand, The Stormreaver returned to Gianthold to fight the menace to his people, and to seek triumph where he had once found only failure.(This enchantment has no effect.)",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/The_Reaver%27s_Fate",
+                  "title": "The Reaver's Fate",
+                  "text": "The Reaver's Fate"
+                }
+              ]
+            },
+            {
+              "text": "Adds Red Augment Slot",
+              "tooltip": "Red and Colorless",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Augment_Slot",
+                  "title": "Augment Slot",
+                  "text": "Red Augment Slot"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 2"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Attuned_to_Heroism",
+          "title": "Attuned to Heroism",
+          "text": "Attuned to Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

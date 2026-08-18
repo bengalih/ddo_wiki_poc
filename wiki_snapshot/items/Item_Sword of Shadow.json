@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Sword of Shadow",
+  "page_id": 5711,
+  "revision_id": 635152,
+  "revision_timestamp": "2025-04-22T04:08:49Z",
+  "fetched_at": "2026-08-17T23:08:45.537721+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Sword of Shadow\n  | type                     = Great Sword\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtC|BoA}}\n  | damage                   = [2d6] + 5 Slash, Adamantine, Magic\n  | crit                     = 17-20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 200\n  | material                 = Adamantine\n  | hardness                 = 30\n  | basevalue                = 4,305 pp\n  | weight                   = 8 lbs\n  | quest                    = Plane of Night\n  | chest                    = Raid Warded Chest\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Mat|Adamantine}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Sword of Shadow\n  | description              = This great sword was forged inside the Vault of Night itself. The essence of Shadow has seeped into this sword granting it exceptional death-dealing abilities.\n  | pic                      = Sword of Shadow shown.jpg\n  | picdesc                  = Sword of Shadow.png\n  | tips                     = This greatsword has both an expanded critical threat range (same as a falchion with improved crit) and the x3 multiplier of a greataxe.\n}}\n[[Category:Draconic Raider's Reward Box items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

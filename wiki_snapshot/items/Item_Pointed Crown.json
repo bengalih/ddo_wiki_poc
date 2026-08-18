@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Pointed Crown",
+  "page_id": 117179,
+  "revision_id": 645620,
+  "revision_timestamp": "2025-06-21T12:53:30Z",
+  "fetched_at": "2026-08-17T22:38:54.765829+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Pointed Crown\n  | minlevel                 = 15\n  | type                     = Helmet\n  | race                     = Dhampir Dark Bargainer\n  | slot                     = Head\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | cost                     = 6,010 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 74\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CHA|2|Insightful}}\n* {{Speed|V}}\n  | crafting                 = \n  | description              = \n  | pic                      = Pointed Crown shown.jpg\n  | picdesc                  = Pointed Crown.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helmet",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Insightful Charisma +2",
+      "tooltip": "Insightful Charisma +2: This item makes the wearer have more flair, granting a +2 Insight bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Insightful Charisma +2"
+        }
+      ]
+    },
+    {
+      "text": "Speed V",
+      "tooltip": "Speed V: Passive: +25% enhancement bonus to movement speed, +5% enhancement bonus to melee and ranged attack speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Speed",
+          "title": "Speed",
+          "text": "Speed V"
+        }
+      ]
+    }
+  ]
+}

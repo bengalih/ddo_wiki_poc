@@ -1,0 +1,133 @@
+{
+  "page_title": "Item:Sacrificial Dagger",
+  "page_id": 24467,
+  "revision_id": 671182,
+  "revision_timestamp": "2026-01-08T23:00:17Z",
+  "fetched_at": "2026-08-17T22:49:52.044640+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Sacrificial Dagger\n  | damage                   = 3[1d4] + 6 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Dagger\n  | hand                     = One-handed\n  | class                    = Piercing\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | minlevel                 = 20\n  | prof                     = Simple\n  | durability               = 240\n  | material                 = Steel\n  | hardness                 = 30\n  | quest                    = Impossible Demands\n  | chest                    = End Chest ; <br/> [[Menace of the Underdark: The Darkening]], Quest chain end reward\n  | revamped                 = Update 76\n  | basevalue                = 8000pp 2gp\n  | weight                   = 1.00 lbs\n  | bind                     = {{Bind|BtC|BoE}} or {{Bind|BtC|BoA}}\n  | enhancements             = \n* {{Enhancement_bonus|w|6}}\n* {{Burst|Poison}}\n* One of the following:\n** {{Poison|Virulent|CON}}\n** {{Poison|Virulent|DEX}}\n** {{Poison|Virulent|STR}}\n* {{Negative Energy Spike}}\n* {{Life Stealing}}\n* {{Vampirism|Lesser}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Sacrificial Dagger shown.jpg\n  | picdesc                  = Sacrificial Dagger.png\n  | description              = This vile blade was used by a drow priestess to sacrifice innocent farmers.\n  | tips                     = This item, like the others from this chain, can be acquired as an end reward for the chain as {{Bind|BtC|boa}}.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Poison Burst",
+      "tooltip": "Poison Burst: This weapon is dripping with poison, and deals 1 to 6 poison damage each hit. Critical hits deal an additional 1 to 10 poison damage for weapons with a x2 critical multiplier, 2 to 20 for a x3 multiplier and 3 to 30 for a x4 multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Poison_Burst#Poison_Burst",
+          "title": "Poison Burst",
+          "text": "Poison Burst"
+        }
+      ]
+    },
+    {
+      "text": "One of the following:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "Constitution Poison, Virulent",
+          "tooltip": "Constitution Poison, Virulent: The deadly poison coating this weapon deals one point of constitution damage every time it strikes an enemy, and an additional 1 to 6 points of constitution damage when it scores a critical hit. Some creatures may be immune or resistant to ability damage.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Poison_(enchantment)#Constitution_Poison,_Virulent",
+              "title": "Poison (enchantment)",
+              "text": "Constitution Poison, Virulent"
+            }
+          ]
+        },
+        {
+          "text": "Dexterity Poison, Virulent",
+          "tooltip": "Dexterity Poison, Virulent: The deadly poison coating this weapon deals one point of dexterity damage every time it strikes an enemy, and an additional 1 to 6 points of dexterity damage when it scores a critical hit. Some creatures may be immune or resistant to ability damage.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Poison_(enchantment)#Dexterity_Poison,_Virulent",
+              "title": "Poison (enchantment)",
+              "text": "Dexterity Poison, Virulent"
+            }
+          ]
+        },
+        {
+          "text": "Strength Poison, Virulent",
+          "tooltip": "Strength Poison, Virulent: The deadly poison coating this weapon deals one point of strength damage every time it strikes an enemy, and an additional 1 to 6 points of strength damage when it scores a critical hit. Some creatures may be immune or resistant to ability damage.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Poison_(enchantment)#Strength_Poison,_Virulent",
+              "title": "Poison (enchantment)",
+              "text": "Strength Poison, Virulent"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Negative Energy Spike",
+      "tooltip": "Negative Energy Spike: This weapon is pulsating with negative energy. It deals an extra 2 to 12 points of negative energy damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Energy_Spike",
+          "title": "Negative Energy Spike",
+          "text": "Negative Energy Spike"
+        }
+      ]
+    },
+    {
+      "text": "Life Stealing",
+      "tooltip": "Life Stealing: This weapon has a chance to drain 1 to 3 levels from its target on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Life_Stealing",
+          "title": "Life Stealing",
+          "text": "Life Stealing"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Vampirism",
+      "tooltip": "Lesser Vampirism: This weapon drains a tiny portion of the target's life force whenever it does damage.Note: provides 1 hp of healing per hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Lesser Vampirism"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

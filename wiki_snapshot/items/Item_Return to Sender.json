@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Return to Sender",
+  "page_id": 53542,
+  "revision_id": 667662,
+  "revision_timestamp": "2025-11-21T13:33:29Z",
+  "fetched_at": "2026-08-17T22:44:38.109122+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Return to Sender\n  | damage                   = 1.80[1d4] + 5 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Throwing Dagger\n  | hand                     = Thrown\n  | race                     = \n  | class                    = Thrown\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 14\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 180\n  | material                 = Steel\n  | hardness                 = 24\n  | basevalue                = 5620 pp\n  | weight                   = 1.00 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 28\n  | revamped                 = Update 76\n  | quest                    = Tavern Brawl\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Returning}}\n* {{Enhancement bonus|w|5}}\n* {{Solar|II}}\n* {{Phlebotomizing}}\n* {{Paralyzing}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Magically Murderous Missive.\n  | pic                      = Return to Sender shown.jpg\n  | picdesc                  = Return to Sender.png\n  | tips                     = {{Bug|{{Item|Return to Sender}} does not cause damage if [[Improved Precise Shot]] is toggled on.{{Ref|1={{Forums|478575}}}}}}\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Throwing Dagger",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Solar II",
+      "tooltip": "Solar II: On Hit: 2 to 8 Light Damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Solar",
+          "title": "Solar",
+          "text": "Solar II"
+        }
+      ]
+    },
+    {
+      "text": "Phlebotomizing",
+      "tooltip": "Phlebotomizing: This weapon is wickedly sharp and will do an additional 3 to 24 damage to targets that are vulnerable to bleeding.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleed#Phlebotomizing",
+          "title": "Bleed",
+          "text": "Phlebotomizing"
+        }
+      ]
+    },
+    {
+      "text": "Paralyzing",
+      "tooltip": "Paralyzing : Any creature struck by this weapon must succeed on a DC 17 Will save or be paralyzed. The target may attempt a new save to end the effect every several seconds; otherwise the paralysis lasts for 1 minute.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Paralyzing",
+          "title": "Paralyzing",
+          "text": "Paralyzing"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

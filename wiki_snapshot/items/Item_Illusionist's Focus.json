@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Illusionist's Focus",
+  "page_id": 56437,
+  "revision_id": 690656,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:23:15.023178+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Illusionist's Focus\n  | damage                   = 1.50[1d4] + 3 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Light Hammer\n  | hand                     = One-handed\n  | race                     = Deep Gnome\n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | UMD DC                   = \n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 200\n  | material                 = Steel\n  | hardness                 = 25\n  | minlevel                 = 15\n  | quest                    = Advance to level 15\n  | chest                    = \n  | end reward               = true\n  | revamped                 = Update 76\n  | turn in                  = \n  | epic                     = no\n  | basevalue                = 60001 gp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Wizardry|V}}\n* {{Spell Focus|Illusion|2|Insightful}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Illusionist's Focus shown.jpg\n  | picdesc                  = Illusionist's Focus.png\n  | description              = \n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Light Hammer",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry V",
+      "tooltip": "Wizardry V: This item grants the wearer +125 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry V"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Illusion Focus +2",
+      "tooltip": "Insightful Illusion Focus +2: +2 Insight bonus to the DC of Illusion spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Illusion Focus +2"
+        }
+      ]
+    }
+  ]
+}

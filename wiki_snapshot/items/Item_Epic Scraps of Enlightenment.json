@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Epic Scraps of Enlightenment",
+  "page_id": 52674,
+  "revision_id": 672348,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:55:26.036822+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Scraps of Enlightenment\n  | damage                   = 4.60[1d6] + 12 Bludgeon, Good, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Handwrap\n  | hand                     = Simple\n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Exotic\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 28\n  | durability               = 400\n  | material                 = Cloth\n  | hardness                 = 41\n  | basevalue                = 11,203 pp\n  | weight                   = 0.50 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | revamped                 = Update 76\n  | released                 = Update 27\n  | quest                    = The Archons' Trial\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|12}}\n* {{Holy|VI}}\n* {{Solar|VI}}\n* {{Impact}}\n* {{Reinforced Fists|Greater}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = These thin shreds of fabric once covered the shoulders of a mighty Paladin who ventured into the Battlefield. After he was burned alive, this is all that remains of him.\n  | pic                      = Handwraps Generic.png\n  | picdesc                  = Epic Scraps of Enlightenment.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Handwrap",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+12 Enhancement Bonus",
+      "tooltip": "+12 Enhancement Bonus: +12 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+12 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Holy VI",
+      "tooltip": "Holy VI: On Hit: 6 to 24 Good damage. Good-aligned creatures are immune to this effect.Penalty: If equipped by a Evil user, they receive 1 Negative Level for as long as this item is equipped.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Holy VI"
+        }
+      ]
+    },
+    {
+      "text": "Solar VI",
+      "tooltip": "Solar VI: On Hit: 6 to 24 Light Damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Solar",
+          "title": "Solar",
+          "text": "Solar VI"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Greater Reinforced Fists",
+      "tooltip": "Reinforced Fists: This item surrounds your fists with kinetic energy. Your unarmed damage is boosted by one die.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Greater_Reinforced_Fists",
+          "title": "Greater Reinforced Fists",
+          "text": "Greater Reinforced Fists"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

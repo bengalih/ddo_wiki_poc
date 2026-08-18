@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Hobble's Crossbow",
+  "page_id": 12762,
+  "revision_id": 666369,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:21:38.371844+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Hobble's Crossbow\n  | type                     = Repeating Heavy Crossbow\n  | damage                   = [1d10] + 2 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | hand                     = Ranged\n  | class                    = Ranged\n  | prof                     = Exotic\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | durability               = 110\n  | material                 = Wood\n  | hardness                 = 7\n  | basevalue                = 840pp\n  | weight                   = 12 lbs\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtC|BoE}}\n  | revamped                 = Update 76\n  | quest                    = Irestone Inlet\n  | chest                    = Hobble's chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Cold Touch}}\n* {{Augment|Red}}\n  | description              = This magical crossbow, a trophy of battle, is magically enhanced.\n  | pic                      = Doublecross Bow shown.jpg <!--same style -->\n  | picdesc                  = Hobble's Crossbow.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Repeating Heavy Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Cold Touch",
+      "tooltip": "Cold Touch: The temperature around this weapon is colder than normal. A cold touch weapon deals an additional +1 cold damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Touch",
+          "title": "Cold Touch",
+          "text": "Cold Touch"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

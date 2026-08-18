@@ -1,0 +1,54 @@
+{
+  "page_title": "Item:Rod of Teleport",
+  "page_id": 22973,
+  "revision_id": 682870,
+  "revision_timestamp": "2026-04-08T21:30:24Z",
+  "fetched_at": "2026-08-17T22:48:47.341222+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Rod of Teleport\n  | damage                   = [1d6] + 1 Bludgeoning, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 80\n  | material                 = Wood\n  | hardness                 = 8\n  | minlevel                 = 0\n  | quest                    = Anniversary Card Collection\n  | chest                    = <!-- Leave blank if not used-->\n  | end reward               = <!-- Leave blank if not used-->\n  | turn in                  = {{Anniversary card combo|III|IV|2}}; [[DDO_Store#Fast Travel|Fast Travel]] from the DDO Store; or as a [[Special event history#Festival of the Traveler|Festival of the Traveler 2010]] Special event common reward\n  | basevalue                = 1cp\n  | weight                   = 3 lbs\n  | bind                     = Varies, see tips\n  | enhancements             = \n* {{Enhancement bonus|w|1}}\n* {{Clicky|Teleport|9|50|None}}\n  | pic                      = Scepter of Mad Trickery shown.jpg\n  | picdesc                  = Rod of Teleport.png\n  | description              = A sceptre containing multiple charges of [[Teleport]]. This spell can instantly transport you to a variety of locations.\n  | tips                     = <nowiki />\n[[File:Teleport.jpg|thumb|300px|right|The Teleport destination selection screen]]\n* The rods received from the Anniversary Card Collection are {{Bind|BtC|BoA}}.\n* The ones from the 2010 Festival were all {{Bind|BtC|BoA}}.\n* The ones purchased from the store are {{Bind|BtA|BoA}}.\n* '''[[Teleport]] Destinations:'''\n** [[Fare Trades]] shop in [[House Deneith]]\n** [[House of Wizardry]] shop in [[House Jorasco]]\n** [[Kundarak Bank]] in [[House Kundarak]]\n** [[The Marketplace]]\n** [[House Phiarlan]], by the [[Trainer]]s\n** [[The Portable Hole]]\n** [[Meridia]] - Requires completing the quest by the same name, which can be started in the [[Tower of the Twelve]].\n** [[The Twelve]]\n** [[The Harbor]] - Next to the entrance to the [[Inspired Quarter]]\n** [[Essence Crafting|The Crafting Hall]] located in [[House Cannith]]\n** [[The Necropolis|Lower Necropolis]]\n** [[The Gatekeepers' Grove]]\n}}\n[[Category:Anniversary_Card_Collection_reward_items]]\n[[Category:DDO Store items]]\n[[Category:Event and Festival items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Teleport — 50 Charges (Recharged/Day:None)",
+      "tooltip": "TeleportCaster level: 9Charges: 50 (None/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Teleport",
+          "title": "Teleport",
+          "text": "Teleport"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

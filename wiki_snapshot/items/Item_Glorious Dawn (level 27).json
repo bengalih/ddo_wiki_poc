@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Glorious Dawn (level 27)",
+  "page_id": 42080,
+  "revision_id": 649342,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:11:50.360600+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Glorious Dawn\n  | minlevel                 = 27\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 280\n  | material                 = Gold\n  | hardness                 = 37\n  | basevalue                = 10,820pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 19\n  | quest                    = A Lesson in Deception\n  | chest                    = end chest (Epic Elite)\n  | enhancements             = \n* {{Deathblock|vi}}\n* {{Guard|solar|viii}}\n* {{Augment|Green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A ring blessed with Amaunator's love.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Glorious Dawn (Level 27).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "Deathblock VI",
+      "tooltip": "Deathblock VI: Passive: 18% Enhancement Bonus to Negative Energy Absorption. In addition, you are immune to magical effects that can cause instant death.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock VI"
+        }
+      ]
+    },
+    {
+      "text": "Solar Guard VIII",
+      "tooltip": "Solar Guard VIII: When Hit in Melee: Deals 8 to 32 Light damage to your attacker.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Solar_Guard",
+          "title": "Solar Guard",
+          "text": "Solar Guard VIII"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Epic Sceptre of Nullification",
+  "page_id": 87489,
+  "revision_id": 630380,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:55:11.728055+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Sceptre of Nullification\n  | damage                   = 3[1d6] + 6 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 250\n  | material                 = Steel\n  | hardness                 = 30\n  | minlevel                 = 20\n  | released                 = Update 44\n  | revamped                 = Update 50\n  | quest                    = Morten Edgewright\n  | chest                    = \n  | end reward               = \n  | turn in                  = 1 [[Epic Arcane Ingot]]\n  | epic                     = \n  | basevalue                = 8000pp 1cp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|6|20}}\n* {{Spelllore|Void|16}}\n* {{SpellPower|Nullification|111}}\n* {{SpellPower|Nullification|55|Insight}}\n* {{Wizardry|97|Insight}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Sceptre Generic Borderlands pic.jpg\n  | picdesc                  = Epic Sceptre of Nullification.png\n  | description              = This magical sceptre is attuned to Negative Energy and Poison spells.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +20",
+      "tooltip": "Spellcasting Implement +20: Passive: +20 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +20"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Void Lore +16%",
+      "tooltip": "Void Lore +16: Passive: Your Negative Energy and Poison spells gain a 16% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Void Lore +16%"
+        }
+      ]
+    },
+    {
+      "text": "Nullification +111",
+      "tooltip": "Nullification +111: Passive: +111 Equipment bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Nullification +111"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Nullification +55",
+      "tooltip": "Insightful Nullification +55: Passive: +55 Insight bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Insightful Nullification +55"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Wizardry +97",
+      "tooltip": "Insightful Wizardry +97: +97 Insight bonus to spell points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Insightful Wizardry +97"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

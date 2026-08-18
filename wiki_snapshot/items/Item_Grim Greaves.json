@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Grim Greaves",
+  "page_id": 39593,
+  "revision_id": 631306,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:17:15.489248+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Grim Greaves\n  | type                     = Bracers\n  | race                     = Shadar-kai\n  | basevalue                = 6,010 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Wrist\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Fortification|100}}\n* {{hp|vitality|20}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Bracers Generic.png\n  | picdesc                  = Grim Greaves.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Fortification +100%",
+      "tooltip": "Fortification +100%: +100% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +100%"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +20",
+      "tooltip": "Vitality +20: Passive: +20 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +20"
+        }
+      ]
+    }
+  ]
+}

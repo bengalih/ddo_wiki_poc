@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Arlyn's Ring",
+  "page_id": 10513,
+  "revision_id": 628308,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:04:50.926441+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Arlyn's Ring\n  | type                     = Ring\n  | slot                     = Finger\n  | durability               = 60\n  | material                 = Leather\n  | hardness                 = 7\n  | basevalue                = 2,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 5\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = Gwylan's Stand\n  | chest                    = [[Arlyn Feathercrest]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|DEX|3}}\n* {{Augment|Green}}\n  | description              = A ring engraved with the name 'Arlyn Feathercrest'.\n  | pic                      = Ring Generic.png\n  | picdesc                  = Arlyn's Ring.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Dexterity +3",
+      "tooltip": "Dexterity +3: This item makes the wearer more nimble and dexterous, granting a +3 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +3"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

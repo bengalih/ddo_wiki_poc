@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Club of the Holy Flame (starter)",
+  "page_id": 23985,
+  "revision_id": 640746,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:24:18.007149+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Club of the Holy Flame\n  | basevalue                = 1 cp\n  | weight                   = 3 lbs\n  | damage                   = [1d6] - 1 Bludgeon, Good\n  | crit                     = 20 / x2\n  | type                     = Club\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 50\n  | material                 = Wood\n  | hardness                 = 5\n  | minlevel                 = 10\n  | reqtrait                 = Good\n  | UMD DC                   = 26\n  | quest                    = Stone of Experience\n  | bind                     = {{Bind|BtC|boa}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|-1}}\n* {{Starter}}\n* {{Good|Greater}}\n* {{SpellPower|Potency|44}} \n  | description              = This club glows faintly and is inscribed with religious markings. \n  | pic                      = Club of the Holy Flame shown.jpg\n  | picdesc                  = Club of the Holy Flame (Stone_of_Experience).png\n  | tips                     = \nEquipment granted from use of [[Stone of Experience]].<br />\nThis weapon does not make monks uncentered.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "-1 Enhancement Bonus",
+      "tooltip": "-1 Enhancement Bonus: This weapon is less well-made than normal, giving a -1 penalty to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "-1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Starter",
+      "tooltip": "Starter: Starter equipment cannot be traded, sold or crafted.This item cannot be fed to sentient jewels.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Starter",
+          "title": "Starter",
+          "text": "Starter"
+        }
+      ]
+    },
+    {
+      "text": "Greater Good",
+      "tooltip": "Greater Good: This weapon is infused with the ultimate power of Good. It does an additional 2 to 12 damage to non-good targets and can only be wielded by Good-aligned characters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Greater_Good",
+          "title": "Greater Good",
+          "text": "Greater Good"
+        }
+      ]
+    },
+    {
+      "text": "Potency +44",
+      "tooltip": "Potency +44: Passive: +44 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +44"
+        }
+      ]
+    }
+  ]
+}

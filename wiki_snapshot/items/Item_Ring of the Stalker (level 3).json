@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Ring of the Stalker (level 3)",
+  "page_id": 27168,
+  "revision_id": 649383,
+  "revision_timestamp": "2025-07-26T19:12:37Z",
+  "fetched_at": "2026-08-17T22:46:49.087438+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = [[Ring of the Stalker]]\n  | type                     = Ring\n  | basevalue                = 1220pp\n  | weight                   = 0.10 lbs\n  | slot                     = Finger\n  | durability               = 40\n  | material                 = Steel\n  | hardness                 = 5\n  | minlevel                 = 3\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various challenge ingredients\n  | mythic                   = no\n  | enhancements             = \n* {{Deception|2}}\n* {{Seeker|3}}\n  | crafting                 = Vaults of the Artificers\n  | description              = A bound Invisible Stalker makes this ring a dangerous asset for anyone striking their enemies from the shadows.\n  | pic                      = Ring_of_the Stalker_Orb.png\n  | picdesc                  = Ring_of_the_Stalker_(Level_3).png\n  | tips                     = '''See also:''' [[Ring of the Stalker]] - Full table of the Ring of the Stalker line\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Deception +2",
+      "tooltip": "Deception +2: +2 Enhancement bonus to hit and +3 to damage for any hit that would qualify as a sneak attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Deception +2"
+        }
+      ]
+    },
+    {
+      "text": "Seeker +3",
+      "tooltip": "Seeker +3: Provides a +3 Enhancement bonus to confirm critical hits, and a +3 Enhancement bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Seeker +3"
+        }
+      ]
+    }
+  ]
+}

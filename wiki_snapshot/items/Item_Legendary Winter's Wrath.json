@@ -1,0 +1,62 @@
+{
+  "page_title": "Item:Legendary Winter's Wrath",
+  "page_id": 95322,
+  "revision_id": 633191,
+  "revision_timestamp": "2025-04-22T01:56:34Z",
+  "fetched_at": "2026-08-17T22:16:03.046402+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Eternal wand\n  | name                     = Legendary Winter's Wrath\n  | umd                      = 45\n  | noumd                    = [[Wizard|Wiz]], [[Sorcerer|Sor]]\n  | minlevel                 = 30\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | durability               = 325\n  | material                 = Wood\n  | hardness                 = 40\n  | weight                   = 0.10 lbs\n  | cost                     = 10,000 pp\n  | icon                     = PolarRay.png\n  | spell                    = Polar Ray\n  | casterlvl                = 30\n  | charge                   = 15\n  | released                 = Update 50\n  | quest                    = Legendary Crafting\n  | legendary                = Epic Winter's Wrath\n  | end reward               = \n  | turn in                  = \n  | chest                    = legendary version of {{Item|Epic Winter's Wrath}}\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Polar Ray|30|15|15}}\n* {{SpellPower|Glaciation|146}}\n* {{Spelllore|Ice|+21}}\n* {{Wand Maximizing}}\n  | crafting                 = \n  | description              = A thin rod of blackened wood containing charges of the Polar Ray spell. Eternal wands recharge over time if they are not actively being used.\n  | picdesc                  = Legendary Winter's Wrath.png\n  | notes                    = Recharges at a rate of 1 charge per 30 seconds\n}}\n[[Category:Legendary items]]",
+  "item_template": "Named item",
+  "material": "Wood",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "Polar Ray — 15 Charges (Recharged/Day:15)",
+      "tooltip": "Polar RayCaster level: 30Charges: 15 (15/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Polar_Ray",
+          "title": "Polar Ray",
+          "text": "Polar Ray"
+        }
+      ]
+    },
+    {
+      "text": "Glaciation +146",
+      "tooltip": "Glaciation +146: Passive: +146 Equipment bonus to Cold Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Glaciation",
+          "title": "Glaciation",
+          "text": "Glaciation +146"
+        }
+      ]
+    },
+    {
+      "text": "Ice Lore +21%",
+      "tooltip": "Ice Lore +21: Passive: Your Cold spells gain a +21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Ice Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Wand Maximizing",
+      "tooltip": "Wand Maximizing: Spells cast from this wand are treated as though they were Maximized, dealing 100% more damage than they normally would. This damage increase does not stack with bonuses granted by enhancements.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wand_Maximizing",
+          "title": "Wand Maximizing",
+          "text": "Wand Maximizing"
+        }
+      ]
+    }
+  ]
+}

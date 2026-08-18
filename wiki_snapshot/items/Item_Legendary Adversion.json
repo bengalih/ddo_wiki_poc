@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Legendary Adversion",
+  "page_id": 66836,
+  "revision_id": 690523,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:29:16.310077+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Legendary Adversion\n  | type                     = Ring\n  | slot                     = Finger\n  | durability               = 390\n  | material                 = Steel\n  | hardness                 = 49\n  | weight                   = 0.10 lbs\n  | basevalue                = 11,601 pp\n  | minlevel                 = 29\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 37 \n  | revamped                 = Update 80\n  | quest                    = Mad Tea Party\n  | chest                    = End chest \n  | crafting                 = \n  | enhancements             = \n* {{Spell Focus|Abjuration|7}}\n* {{Spell Focus|Abjuration|3|Insightful|prefix=Insightful}}\n* {{Wizardry|269}}\n* {{Spellpen|8}}\n* {{Augment|yellow}}\n* {{Named item sets|Adherent of the Mists Set (Legendary)}}\n  | description              = A strange force pushes away from this ring when it is brought near a metal.\n  | tips                     = \n  | pic                      = \n  | picdesc                  = Legendary Adversion.png\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Abjuration Focus +7",
+      "tooltip": "Abjuration Focus +7: +7 Equipment bonus to the DC of Abjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Abjuration Focus +7"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Abjuration Focus +3",
+      "tooltip": "Insightful Abjuration Focus +3: +3 Insight bonus to the DC of Abjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Abjuration Focus +3"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry +269",
+      "tooltip": "Wizardry +269: +269 Enhancement bonus to spell points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry +269"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration +8",
+      "tooltip": "Spell Penetration +8: Passive: +8 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration +8"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Adherent of the Mists Set (Legendary)",
+      "tooltip": "Adherent of the Mists Set (Legendary): 5 Pieces Equipped:+30 Profane bonus to Physical Resistance Rating+30 Profane bonus to Positive, Negative, and Repair Amplification+15 Profane bonus to Melee and Ranged Power+15 Profane bonus to Universal Spell Power",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Adherent_of_the_Mists_Set_(Legendary)",
+          "title": "Named item sets",
+          "text": "Adherent of the Mists Set (Legendary)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

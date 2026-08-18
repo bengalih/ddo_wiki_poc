@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Allegiance (level 12)",
+  "page_id": 35324,
+  "revision_id": 648765,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:03:05.586505+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Allegiance}}\n  | damage                   = 1.50[1d8] + 5 Slash, Magic\n  | crit                     = 19-20 / x3\n  | type                     = Khopesh\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Exotic\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 12\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 185\n  | material                 = Steel\n  | hardness                 = 17\n  | basevalue                = 4,802 pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | released                 = Update 17\n  | quest                    = Gianthold Tor\n  | chest                    = Black Dragon Chest (Heroic Normal)\n  | enhancements             = \n* {{Enhancement_bonus|w|5}}\n* {{Bane|Elf}}\n* {{ItemGrantedFeat|Khopesh}}\n  | pic                      = Allegiance shown.jpg\n  | picdesc                  = Allegiance (Level 12).png\n  | description              = A fine khopesh enchanted to do battle against the rebellious elves in the last days of the Lost Empire. Most likely, it was wielded by a loyal servant to spill his own kin's blood.\n  | tips                     = \n}}\n[[Category:Weapons that grant their own proficiency]]",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Khopesh",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Elf Bane",
+      "tooltip": "Elf Bane: A bane weapon excels at attacking one type or subtype of creature. Against Elves, this weapon's effective enhancement bonus is +2 better than its normal enhancement bonus. It deals an extra 2 to 12 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Elf Bane"
+        }
+      ]
+    },
+    {
+      "text": "Proficiency: Khopesh",
+      "tooltip": "Proficiency: Khopesh: While equipped this item grants the wielder all required knowledge to wield a Khopesh without proficiency penalties.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proficiency",
+          "title": "Proficiency",
+          "text": "Proficiency"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

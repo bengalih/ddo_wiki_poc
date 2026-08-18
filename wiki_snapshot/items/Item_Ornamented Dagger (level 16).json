@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Ornamented Dagger (level 16)",
+  "page_id": 71330,
+  "revision_id": 671167,
+  "revision_timestamp": "2026-01-08T22:55:25Z",
+  "fetched_at": "2026-08-17T22:34:10.872451+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Ornamented Dagger}}\n  | damage                   = 2.20[1d4] + 5 Pierce, Magic\n  | crit                     = 19-20 / x2 \n  | type                     = Dagger\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Piercing\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 16\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 200\n  | material                 = Steel\n  | hardness                 = 26\n  | cost                     = 6,400pp 2gp\n  | weight                   = 1.00 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Treasure of Crystal Cove \n  | chest                    = \n  | end reward               = \n  | turn in                  = various ingredients at [[Euphonia's Barter Box]]\n  | revamped                 = Update 76\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Skills|Concentration|16}}\n* {{Spell Lore|Fire|14}}\n* {{Spell Lore|Ice|14}}\n* {{Spell Lore|Lightning|14}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A dagger set with precious gems, each of which are enchanted with spell-enhancing magic. Most likely it was seized from nobles by a band of pirates as part of their pillaging.\n  | pic                      = Ornamented Dagger shown.jpg\n  | picdesc                  = Ornamented Dagger (level 16).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Concentration +16",
+      "tooltip": "Concentration +16: Passive: +16 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +16"
+        }
+      ]
+    },
+    {
+      "text": "Fire Lore +14%",
+      "tooltip": "Fire Lore +14: Passive: Your Fire spells gain a 14% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore +14%"
+        }
+      ]
+    },
+    {
+      "text": "Ice Lore +14%",
+      "tooltip": "Ice Lore +14: Passive: Your Cold spells gain a 14% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Ice Lore +14%"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Lore +14%",
+      "tooltip": "Lightning Lore +14: Passive: Your Electricity spells gain a 14% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore +14%"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

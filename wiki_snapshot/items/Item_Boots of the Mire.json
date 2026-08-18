@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Boots of the Mire",
+  "page_id": 12174,
+  "revision_id": 628681,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:13:36.281513+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Boots of the Mire\n  | type                     = Boots\n  | class                    = Boots\n  | basevalue                = 1,605pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 50\n  | material                 = Steel\n  | hardness                 = 14\n  | minlevel                 = 7\n  | bind                     = {{Bind|BtA|BoA}}\n  | revamped                 = Update 36\n  | released                 = Update 6\n  | quest                    = Fathom the Depths\n  | end reward               = yes \n  | mythic                   = no\n  | enhancements             = \n* {{Named item sets|Marshwalker}}\n* {{Underwater Action}}\n* {{Skills|bal|10}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Boots of the Mire\n  | description              = These boots were designed to ease travel through swampy, water-logged regions.\n  | pic                      = Boots Generic Dark.png\n  | picdesc                  = Boots of the Mire.png\n  | tips                     = Old versions had {{Skills|bal|7}}. They don't retroactively change but have to be reacquired.\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Marshwalker",
+      "tooltip": "Marshwalker: 2 Pieces Equipped:+30% Enhancement bonus to movement speed+3 Artifact bonus to Jump and Tumble",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Marshwalker",
+          "title": "Named item sets",
+          "text": "Marshwalker"
+        }
+      ]
+    },
+    {
+      "text": "Underwater Action",
+      "tooltip": "Underwater Action: This item grants the wearer the ability to breathe water as if it were air.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Underwater_Action",
+          "title": "Underwater Action",
+          "text": "Underwater Action"
+        }
+      ]
+    },
+    {
+      "text": "Balance +10",
+      "tooltip": "Balance +10: Passive: +10 Competence bonus to the Balance skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Balance",
+          "title": "Balance",
+          "text": "Balance +10"
+        }
+      ]
+    }
+  ]
+}

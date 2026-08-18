@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Twisted Willow",
+  "page_id": 74700,
+  "revision_id": 681361,
+  "revision_timestamp": "2026-03-29T02:45:16Z",
+  "fetched_at": "2026-08-17T23:21:51.393977+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Twisted Willow\n  | damage                   = 2[1d8] + 5 Pierce, Magic\n  | crit                     = 19-20 / x3\n  | type                     = Long Bow\n  | hand                     = Ranged\n  | race                     = \n  | class                    = Ranged\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = DEX\n  | damagemod                = DEX\n  | minlevel                 = 15\n  | durability               = 230\n  | material                 = Densewood\n  | hardness                 = 25\n  | cost                     = 6007pp 5gp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 42\n  | quest                    = Just Business\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Keen|I}}\n* {{Elasticity}}\n* {{Poisonous|4}}\n* {{Armor-Piercing|12}}\n* {{Augment|Red}}\n  | description              = This powerful longbow is fashioned from a beam from an enchanted Willow tree.\n  | pic                      = Twisted Willow shown.jpg\n  | picdesc                  = Twisted Willow.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Elasticity",
+      "tooltip": "Elasticity: This bow is strung with special fibers that cause it to occasionally launch arrows with shocking force. When rolling a 19 or 20 on a ranged attack, your critical multiplier is increased by +1.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Elasticity",
+          "title": "Elasticity",
+          "text": "Elasticity"
+        }
+      ]
+    },
+    {
+      "text": "Poisonous 4",
+      "tooltip": "Poisonous 4: This effect causes the edges of this weapon to drip with a vile venom, dealing 4d6 poison damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Poisonous",
+          "title": "Poisonous",
+          "text": "Poisonous 4"
+        }
+      ]
+    },
+    {
+      "text": "Armor-Piercing 12%",
+      "tooltip": "Armor-Piercing 12%: Passive: +12% Enhancement bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Armor-Piercing 12%"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

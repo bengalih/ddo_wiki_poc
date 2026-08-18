@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Circlet of Silver Flame",
+  "page_id": 5043,
+  "revision_id": 676194,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:21:51.708393+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=item|replaced=[[Silver Flame Bracers]]}}\n{{Named item|Jewelry\n  | historic                 = true\n  | nocat                    = true\n  | name                     = Circlet of Silver Flame\n  | type                     = Bracers\n  | basevalue                = 420 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Wrist\n  | durability               = 30\n  | material                 = Steel\n  | hardness                 = 10\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA|nocat=true}}\n  | quest                    = Catacombs\n\n  |end reward = yes\n  | mythic                   = no\n  | enhancements             = \n* {{clicky|Protection from Evil|1|3|nocat=true}}\n  | description              = This white gold bracelet is formed from flame shaped links.\n  | pic                      = Bracers Generic.png\n  | picdesc                  = Circlet of Silver Flame.png\n  | tips                     = \n}}",
+  "item_template": "History",
+  "material": "Steel",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "enchantments": [
+    {
+      "text": "Protection from Evil — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Protection from EvilCaster level: 1Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection_from_Evil",
+          "title": "Protection from Evil",
+          "text": "Protection from Evil"
+        }
+      ]
+    }
+  ]
+}

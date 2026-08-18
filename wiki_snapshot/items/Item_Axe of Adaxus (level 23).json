@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Axe of Adaxus (level 23)",
+  "page_id": 34358,
+  "revision_id": 648842,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:07:00.331097+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Axe of Adaxus}}\n  | damage                   = 2.50[1d10] + 6 Slash, Magic, Crystal\n  | crit                     = 20 / x4\n  | type                     = Battle Axe\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | minlevel                 = 23\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 300\n  | material                 = Crystal\n  | hardness                 = 28\n  | released                 = Update 17\n  | quest                    = Return to Madstone Crater\n  | chest                    = End chest (Epic Normal)\n  | basevalue                = 9,201pp 9gp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | enhancements             = \n* {{Enhancement_bonus|w|6}}\n* {{Augment|Orange}}\n* {{Augment|Red}}\n  | pic                      = Axe of Adaxus shown.jpg\n  | picdesc                  = Axe of Adaxus (Level 23).png\n  | description              = Legends speak of the first fire giant, Adaxus, whose fiendish alliances led to the formation of the Sul'at League. Although the knowledge and wisdom of these giants was lost in the cataclysm that destroyed Xen'drik, the once powerful leader's axe apparently was not.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Battle Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

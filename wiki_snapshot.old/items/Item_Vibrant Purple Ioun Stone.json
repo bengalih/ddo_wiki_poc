@@ -1,0 +1,82 @@
+{
+  "page_title": "Item:Vibrant Purple Ioun Stone",
+  "page_id": 11100,
+  "revision_id": 635718,
+  "revision_timestamp": "2025-04-22T04:46:33Z",
+  "fetched_at": "2026-08-17T06:39:47.708753+00:00",
+  "categories": [],
+  "material": "Gem",
+  "item_type": "Trinket",
+  "slot": "Trinket",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "Power III",
+      "tooltip": "Power III: This item grants the wearer +30 maximum spell points. Favored Souls and Sorcerers gain double spell points from this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power",
+          "title": "Power",
+          "text": "Power III"
+        }
+      ]
+    },
+    {
+      "text": "Suppressed Power",
+      "tooltip": "Suppressed Power: This psionic item is powerful, but you sense that it has not unlocked all of its secrets to you at this time.",
+      "children": [
+        {
+          "text": "Power III → Archmagi",
+          "tooltip": "Power III: This item grants the wearer +30 maximum spell points. Favored Souls and Sorcerers gain double spell points from this item.Archmagi: This item grants the wearer +200 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Power",
+              "title": "Power",
+              "text": "Power III"
+            },
+            {
+              "target": "/page/Wizardry",
+              "title": "Wizardry",
+              "text": "Archmagi"
+            }
+          ]
+        },
+        {
+          "text": "Adds Spell Penetration III",
+          "tooltip": "Spell Penetration III: Passive: +3 Equipment bonus to Spell Penetration checks.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_penetration",
+              "title": "Spell penetration",
+              "text": "Spell Penetration III"
+            }
+          ]
+        },
+        {
+          "text": "Becomes Bound to Character on Acquire",
+          "tooltip": null,
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bind",
+              "title": "Bind",
+              "text": "Bound to Character on Acquire"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Suppressed_Power",
+          "title": "Suppressed Power",
+          "text": "Suppressed Power"
+        }
+      ]
+    }
+  ],
+  "item_class": "Jewelry",
+  "item_template": ""
+}

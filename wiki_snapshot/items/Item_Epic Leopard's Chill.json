@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Epic Leopard's Chill",
+  "page_id": 51203,
+  "revision_id": 700638,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:51:46.510779+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Leopard's Chill\n  | damage                   = 4.20[1d6] + 7 Slash, Good, Silver, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Scimitar\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | minlevel                 = 26\n  | durability               = 320\n  | material                 = Steel\n  | hardness                 = 34\n  | basevalue                = 10,429pp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 25\n  | revamped                 = Update 76\n  | quest                    = ToEE: Water Node\n  | chest                    = [[Jotun Rimeblade]]'s chest\n  | crafting                 = Schism Shard Crafting\n  | craftingupgrade          = Reflection of The Frostblade\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|7}}\n* {{Bane|Evil Outsider|greater}} \n* {{Mat|Silver}}, Alchemical\n* {{Freezing Ice|Epic}}\n* {{Augment|Purple}}\n  | pic                      = Leopard's Chill shown.jpg\n  | picdesc                  = Epic Leopard's Chill.png\n  | description              = \n  | tips                     = This weapon can be upgraded to a legendary version with 5 Schism Shards found in [[Killing Time]].\nThere is one upgrade option: {{Item|Reflection of The Frostblade}} (a Scimitar).\nThe Schism shard collector, [[Varron Tertius]] can be found in [[The Gatekeepers' Grove]].\n\n'''WARNING:''' Any Mythic or Reaper bonuses will be lost on upgrade, and it cannot be upgraded if a sentient gem is slotted into it.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Scimitar",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Greater Evil Outsider Bane",
+      "tooltip": "Greater Evil Outsider Bane: A bane weapon excels at attacking one type or subtype of creature. Against Evil Outsiders, this weapon's effective enhancement bonus is +4 better than its normal enhancement bonus. It deals an extra 3 to 18 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Greater Evil Outsider Bane"
+        }
+      ]
+    },
+    {
+      "text": "Silver , Alchemical",
+      "tooltip": "Silver: A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as devils and vampires. Silver weapons have 2 points lower hardness then equivalent steel weapons, and as such aren't quite as durable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Silver",
+          "title": "Silver",
+          "text": "Silver"
+        }
+      ]
+    },
+    {
+      "text": "Epic Freezing Ice",
+      "tooltip": "Epic Freezing Ice :",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Freezing_Ice",
+          "title": "Freezing Ice",
+          "text": "Epic Freezing Ice"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

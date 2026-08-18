@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Defiled Reliquary Throwing Hammer",
+  "page_id": 105328,
+  "revision_id": 667622,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:33:00.474268+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Defiled Reliquary Throwing Hammer\n  | minlevel                 = 18\n  | type                     = Throwing Hammer\n  | class                    = Thrown\n  | prof                     = Martial\n  | hand                     = Thrown\n  | damage                   = 2.60[1d4] + 5 Bludgeon, Evil, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 210\n  | material                 = Steel\n  | hardness                 = 28\n  | cost                     = 7,200 pp 1 gp\n  | weight                   = 2 lbs\n  | released                 = Update 61\n  | revamped                 = Update 76\n  | quest                    = Unholy Defiler of the Hidden Hand\n  | end reward               = \n  | turn in                  = \n  | chest                    = defiled version of {{Item|Shining Reliquary Throwing Hammer}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Destruction|Improved}}\n* {{Unholy|4}}\n* {{Blast|Evil|4}}\n* {{Vile Grip of the Hidden Hand}}\n* {{Returning}}\n* {{Augment|Red}}\n  | crafting                 = \n  | description              = The shine of this weapon is gone; there is now only malice within it.\n  | pic                      = Defiled Reliquary Throwing Hammer shown.jpg\n  | picdesc                  = Defiled Reliquary Throwing Hammer.png\n  | tips                     = \n}}\n\n[[Category:Defiled Reliquary weapons]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Throwing Hammer",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Improved Destruction",
+      "tooltip": "Improved Destruction: On Hit: Your target gains a stack of Armor Destruction. (-1 penalty to Armor Class, -1% of its Fortification. 20 Second Duration. Stacks up to 15 times.) This effect may trigger once every second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Improved_Destruction",
+          "title": "Improved Destruction",
+          "text": "Improved Destruction"
+        }
+      ]
+    },
+    {
+      "text": "Unholy 4",
+      "tooltip": "Unholy 4: On Hit: 4 to 24 Evil damage. Evil-aligned creatures are immune to this effect.Penalty: If equipped by a Good user, they receive 1 Negative Level for as long as this item is equipped.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Unholy 4"
+        }
+      ]
+    },
+    {
+      "text": "Evil Blast 4",
+      "tooltip": "Evil Blast 4: This weapon is a sinister implement of evil deeds, dealing 4d6 Evil damage on a successful hit, and an additional 4d6 Evil damage on a critical hit. This effect makes the weapon evil aligned.Good characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Evil Blast 4"
+        }
+      ]
+    },
+    {
+      "text": "Vile Grip of the Hidden Hand",
+      "tooltip": "Vile Grip of the Hidden Hand: Attacks and offensive spells have a small chance to deal massive evil damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vile_Grip_of_the_Hidden_Hand",
+          "title": "Vile Grip of the Hidden Hand",
+          "text": "Vile Grip of the Hidden Hand"
+        }
+      ]
+    },
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

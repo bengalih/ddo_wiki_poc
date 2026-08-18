@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Vestments of the Sun Soul",
+  "page_id": 24448,
+  "revision_id": 686655,
+  "revision_timestamp": "2026-05-27T17:31:09Z",
+  "fetched_at": "2026-08-17T23:23:59.939154+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Vestments of the Sun Soul\n  | type                     = Outfit\n  | feat                     = Cloth\n  | ac                       = +9\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 210\n  | material                 = Cloth\n  | hardness                 = 22\n  | basevalue                = 8,005 pp 5 gp\n  | weight                   = \n  | quest                    = Eveningstar\n  | turn in                  = {{Commendation|Villagers|10}}\n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|9}}\n* {{Resistance|6}}\n* {{Enhanced Ki|1}}\n* {{Reinforced Fists}}\n* {{Named item sets|Way of the Sun Soul}}\n  | pic                      = Vestments of the Sun Soul shown.jpg\n  | picdesc                  = Vestments of the Sun Soul.png\n  | description              = The Order of the Sun Soul is a monastic order dedicated to the welfare of the common fold of Faerun. This simple travelling garb is typical of the adventuring members of their order.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Outfit",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +9",
+      "tooltip": "Armor Bonus +9: This item surrounds the wearer with an invisible but tangible field of force, granting +9 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +9"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +6",
+      "tooltip": "Resistance +6: Passive: +6 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +6"
+        }
+      ]
+    },
+    {
+      "text": "Enhanced Ki +1",
+      "tooltip": "Enhanced Ki +1: Increases the rate at which the user gains ki with each successful attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhanced_Ki",
+          "title": "Enhanced Ki",
+          "text": "Enhanced Ki +1"
+        }
+      ]
+    },
+    {
+      "text": "Reinforced Fists",
+      "tooltip": "Reinforced Fists: This item surrounds your fists with kinetic energy. Your unarmed damage is boosted by one half die.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reinforced_Fists",
+          "title": "Reinforced Fists",
+          "text": "Reinforced Fists"
+        }
+      ]
+    },
+    {
+      "text": "Way of the Sun Soul",
+      "tooltip": "Way of the Sun Soul: When all three item from the set are equipped and you are in a centered state, you will gain +2 artifact bonus to To-Hit and Damage rolls. In addition, when you roll a natural 20 on an attack roll that is confirmed as a critical hit, you will gain temporary benefit based on the elemental stance you are in, if any.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Way_of_the_Sun_Soul",
+          "title": "Named item sets",
+          "text": "Way of the Sun Soul"
+        }
+      ]
+    }
+  ]
+}

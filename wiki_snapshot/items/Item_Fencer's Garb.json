@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Fencer's Garb",
+  "page_id": 8142,
+  "revision_id": 630756,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:02:45.511976+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Fencer's Garb\n  | type                     = Leather\n  | feat                     = Light\n  | minlevel                 = 8\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +9\n  | maxdexbonus              = 9\n  | asf                      = 10%\n  | durability               = 112\n  | material                 = Leather\n  | hardness                 = 16\n  | basevalue                = 3,201pp\n  | weight                   = 15 lbs\n  | quest                    = The Abandoned Excavation\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Spearblock|iii}}\n* {{Augment|Blue}}\n  | description              = An immaculate suit of leather armor made to turn aside a rapier's point.\n  | pic                      = Fencer's Garb shown.jpg\n  | picdesc                  = Fencer's Garb.png\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Spearblock III",
+      "tooltip": "Spearblock III: Passive: Reduces physical damage taken by 6, except from Bludgeoning or Slashing weapons. (Damage Reduction: 6/Slash, Bludgeon)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spearblock",
+          "title": "Spearblock",
+          "text": "Spearblock III"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Pendant of Combat",
+  "page_id": 77801,
+  "revision_id": 633892,
+  "revision_timestamp": "2025-04-22T02:44:46Z",
+  "fetched_at": "2026-08-17T22:35:41.987320+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Pendant of Combat\n  | minlevel                 = 21\n  | type                     = Necklace\n  | race                     = \n  | slot                     = Neck\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 310\n  | material                 = Steel\n  | hardness                 = 41\n  | basevalue                = 8,401 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = The Bugbear Bandits\n  | released                 = Update 44\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Tactics|Combat Mastery|8}}\n* {{Accuracy|15}}\n* {{Deadly|8}}\n* {{Alacrity|Melee|15}}\n* {{Augment|Yellow}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This enchanted necklace seems to glow brighter as more blood is shed.\n  | pic                      = Cracked Core orb.png\n  | picdesc                  = Pendant of Combat.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 21,
+  "enchantments": [
+    {
+      "text": "Combat Mastery +8",
+      "tooltip": "Combat Mastery +8: +8 Enhancement bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combat_Mastery",
+          "title": "Combat Mastery",
+          "text": "Combat Mastery +8"
+        }
+      ]
+    },
+    {
+      "text": "Accuracy +15",
+      "tooltip": "Accuracy +15: Passive: +15 Competence bonus to attack rolls",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accuracy",
+          "title": "Accuracy",
+          "text": "Accuracy +15"
+        }
+      ]
+    },
+    {
+      "text": "Deadly +8",
+      "tooltip": "Deadly +8: +8 Competence bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Deadly +8"
+        }
+      ]
+    },
+    {
+      "text": "Melee Alacrity 15%",
+      "tooltip": "Melee Alacrity 15%: Gain 15% Enhancement bonus to Melee attack speed. Does not stack with the Haste spell.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Melee_Alacrity",
+          "title": "Melee Alacrity",
+          "text": "Melee Alacrity 15%"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

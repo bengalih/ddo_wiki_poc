@@ -1,0 +1,132 @@
+{
+  "page_title": "Item:Legendary Flickering Divinity",
+  "page_id": 119286,
+  "revision_id": 703430,
+  "revision_timestamp": "2026-08-05T20:23:37Z",
+  "fetched_at": "2026-08-17T21:48:41.627706+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Legendary Flickering Divinity\n  | type                     = Orb\n  | prof                     = Magical Training\n  | race                     = \n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 34\n  | damagemod                = INT\n  | attmod                   = CHA\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +0\n  | maxdexbonus              = None\n  | dr                       = 0\n  | acp                      = 0\n  | asf                      = 0%\n  | dmg                      = [1d6] + 0\n  | dmgtype                  = Force\n  | crit                     = 20 / x2\n  | durability               = 395\n  | material                 = Wood\n  | hardness                 = 53\n  | basevalue                = 13,300 pp\n  | weight                   = 3 lbs\n  | quest                    = Cold Snap\n  | released                 = Update 75\n  | chest                    = [[Althea (monster)|Althea]]'s chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|oi|15|34}}\n* {{Spell Power|Radiance|39|Quality}}\n* {{Spellpen|10}}\n* {{Lamordia Slot|Melancholic|Weapon}}\n* {{Lamordia Slot|Dolorous|Weapon}}\n* {{Augment|Purple}}\n* {{Augment|Orange}}\n  | description              = Light sputters softly somewhere within this orb, a lingering link to some far-off divinity.\n  | crafting                 =\n  | craftingupgrade          = \n  | pic                      = Death's Anchor shown.jpg\n  | picdesc                  = Legendary Flickering Divinity.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Magical Training",
+  "material": "Wood",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 34,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +34",
+      "tooltip": "Spellcasting Implement +34: Passive: +34 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +34"
+        }
+      ]
+    },
+    {
+      "text": "+15 Orb Bonus",
+      "tooltip": "+15 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +15 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Orb Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Quality Radiance +39",
+      "tooltip": "Quality Radiance +39: Passive: +39 Quality bonus to Light and Alignment Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiance_(spell_boost)",
+          "title": "Radiance (spell boost)",
+          "text": "Quality Radiance +39"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration +10",
+      "tooltip": "Spell Penetration +10: Passive: +10 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration +10"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Melancholic Slot (Weapon)",
+      "tooltip": "Lamordia: Melancholic Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Melancholic Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Dolorous Slot (Weapon)",
+      "tooltip": "Lamordia: Dolorous Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Dolorous Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

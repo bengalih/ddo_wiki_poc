@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Restored Giantcraft Leather Armor",
+  "page_id": 33453,
+  "revision_id": 668411,
+  "revision_timestamp": "2025-12-03T01:50:37Z",
+  "fetched_at": "2026-08-17T22:44:30.794379+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Restored Giantcraft Leather Armor\n  | type                     = Leather\n  | feat                     = Light\n  | race                     = \n  | minlevel                 = 23\n  | bind                     = {{Bind|BtC|BoA}}\n  | epic                     = no\n  | ac                       = +13\n  | maxdexbonus              = 14\n  | acp                      = \n  | asf                      = 15%\n  | durability               = 286\n  | material                 = Spiritcraft Leather\n  | hardness                 = 31\n  | basevalue                = 9,201pp\n  | weight                   = 15 lbs\n  | released                 = Update 17\n  | quest                    = Giantcraft Armor\n  | chest                    = \n  | end reward               = \n  | turn in                  = 10 [[Restored Giant Relic]]s\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|6}}\n* {{Guard|Haste}}\n* {{ArmorPiercing|15}}\n* {{RelentlessFury}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Giantcraft Leather Armor shown.jpg\n  | picdesc                  = Restored Giantcraft Leather Armor.png\n  | description              = Leather armor imbued with the magic of the ancient giant empire.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Spiritcraft Leather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Haste Guard",
+      "tooltip": "Haste Guard: When you are hit by enemies, there is a chance you will be Hasted, quickening your attack and movement speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Haste_Guard",
+          "title": "Haste Guard",
+          "text": "Haste Guard"
+        }
+      ]
+    },
+    {
+      "text": "Armor-Piercing 15%",
+      "tooltip": "Armor-Piercing 15%: Passive: +15% Enhancement bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Armor-Piercing 15%"
+        }
+      ]
+    },
+    {
+      "text": "Relentless Fury",
+      "tooltip": "Relentless Fury: While this item is equipped, any killing blows you strike against enemies may drive you into a furious rage, providing a 5% Enhancement damage bonus to your melee, ranged and unarmed attacks for 30 seconds. Slaying weaker opponents has a reduced chance of producing this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Relentless_Fury",
+          "title": "Relentless Fury",
+          "text": "Relentless Fury"
+        }
+      ]
+    }
+  ]
+}

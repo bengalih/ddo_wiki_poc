@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Fiendish Requisition",
+  "page_id": 126721,
+  "revision_id": 699485,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:04:11.747933+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Fiendish Requisition\n  | type                     = Tower\n  | prof                     = Tower\n  | race                     = \n  | reqtrait                 = \n  | UMD DC                   = \n  | mythic                   = no\n  | minlevel                 = 11\n  | damagemod                = STR\n  | attmod                   = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +17\n  | maxdexbonus              = 2\n  | dr                       = 13\n  | acp                      = -9\n  | asf                      = 50\n  | dmg                      = 1.20[1d12] + 5\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | durability               = 230\n  | material                 = Bone\n  | hardness                 = 36\n  | basevalue                = 4,804 pp\n  | weight                   = 50 lbs\n  | released                 = Update 81\n  | quest                    = Catalyst Crafting\n  | turn in                  = {{Item|Ultimatum}}, its [[Abyssal Catalyst]] and 50 {{Item|Abyssal Gem}}s at the [[Strange Catalyst Forge]] \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|s|5}}\n* {{Bleeding|3}}\n* {{Conditioning|20|Legendary}}\n* {{Shield Bashing|%=10}}\n* {{Unholy|3}}\n* {{Immunity|Petrification}}\n* {{Augment|Red}}\n  | description              = The demonic energy of the Abyss is capable of corrupting even the most Divine.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Fiendish Requisition shown.jpg\n  | picdesc                  = Fiendish Requisition.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Tower Shield Proficiency",
+  "material": "Bone",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Bleeding 3",
+      "tooltip": "Bleeding 3: This weapon is wickedly curved, with spines and hooks meant to cause damage to those with flesh. This weapon does 3d8 bleeding damage to those that are vulnerable to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleeding",
+          "title": "Bleeding",
+          "text": "Bleeding 3"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Conditioning +20%",
+      "tooltip": "Legendary Conditioning +20%: You have a +20% Legendary bonus to Maximum Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Conditioning",
+          "title": "Conditioning",
+          "text": "Legendary Conditioning +20%"
+        }
+      ]
+    },
+    {
+      "text": "Shield Bashing +10%",
+      "tooltip": "Shield Bashing +10%: +10% Enhancement bonus to your chance of a Secondary Shield Bash. This stacks with bonuses granted by any relevant feats.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bashing",
+          "title": "Shield Bashing",
+          "text": "Shield Bashing +10%"
+        }
+      ]
+    },
+    {
+      "text": "Unholy 3",
+      "tooltip": "Unholy 3: On Hit: 3 to 18 Evil damage. Evil-aligned creatures are immune to this effect.Penalty: If equipped by a Good user, they receive 1 Negative Level for as long as this item is equipped.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Unholy 3"
+        }
+      ]
+    },
+    {
+      "text": "Petrification Immunity",
+      "tooltip": "Petrification Immunity: This items gives immunity to Petrification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Petrification_Immunity",
+          "title": "Petrification Immunity",
+          "text": "Petrification Immunity"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

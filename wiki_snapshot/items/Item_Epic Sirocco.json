@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Epic Sirocco",
+  "page_id": 10416,
+  "revision_id": 645297,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:56:10.096787+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Sirocco\n  | damage                   = 3[1d8] + 6 Slash, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Long Sword\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | reqtrait                 = None\n  | UMD DC                   = None\n  | damagemod                = STR\n  | attackmod                = STR\n  | minlevel                 = 20\n  | durability               = 250\n  | material                 = Steel\n  | hardness                 = 30\n  | basevalue                = 8,801pp 5gp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 5\n  | revamped                 = Update 9\n  | quest                    = Epic Crafting\n  | chest                    = \n  | end reward               = \n  | turn in                  = \n  | epic                     = Sirocco\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|6}}\n* {{Telekinetic|Epic}}\n* {{Blast|Force|4}}\n* {{Sirocco|Greater}}\n* {{Concealment|Smoke Screen}}\n* {{Guard|Air}}\n* {{Augment|Red}}\n* {{Named item sets|The Epic Desert's Biting Sands}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Sirocco\n  | description              = A desert spirit bound to this sword summons a tiny sandstorm around its target on each hit. This sandstorm can blind even knock down your opponent.\n  | pic                      = Sirocco shown.jpg\n  | picdesc                  = Epic Sirocco.png\n  | tips                     = \n}}\n[[Category:Sands of Menechtarun epic items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Epic Telekinetic",
+      "tooltip": "Epic Telekinetic: Targets that suffer a critical hit from a Telekinetic weapon must make a DC 35 Strength or Dexterity check or be knocked down. The target will then be forced to make DC 16 Balance checks to recover from this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Telekinetic#Epic_Telekinetic",
+          "title": "Telekinetic",
+          "text": "Epic Telekinetic"
+        }
+      ]
+    },
+    {
+      "text": "Force Blast 4",
+      "tooltip": "Force Blast 4: This weapon ripples with intense force, dealing 4d6 Force damage on a successful hit, and an additional 4d6 Force damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Force Blast 4"
+        }
+      ]
+    },
+    {
+      "text": "Greater Sirocco",
+      "tooltip": "Greater Sirocco: A critical hit with this weapon causes a whirlwind of desert sand to swirl about the target, temporarily blinding it. A successful Reflex save (DC 35) prevents the effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sirocco#Greater_Sirocco",
+          "title": "Sirocco",
+          "text": "Greater Sirocco"
+        }
+      ]
+    },
+    {
+      "text": "Smoke Screen",
+      "tooltip": "Smoke Screen: You are surrounded by wisps of concealing smoke, giving opponents a 20% concealment chance to miss you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Smoke_Screen",
+          "title": "Smoke Screen",
+          "text": "Smoke Screen"
+        }
+      ]
+    },
+    {
+      "text": "Air Guard",
+      "tooltip": "Air Guard: This Weapon stores the incredible, dynamic power of the air deep within. When the user of this weapon is successfully attacked in melee, this power occasionally comes to the surface, knocking enemies over or speeding up the wearer with rushing winds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Air_Guard",
+          "title": "Air Guard",
+          "text": "Air Guard"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Epic Desert's Biting Sands",
+      "tooltip": "The Epic Desert's Biting Sands: 2 Pieces Equipped:+4% Artifact bonus to Force Spellcrit Chance+20 Artifact bonus to Force Spellpower+20 Artifact bonus to Magical Resistance Rating Cap",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Epic_Desert's_Biting_Sands",
+          "title": "Named item sets",
+          "text": "The Epic Desert's Biting Sands"
+        }
+      ]
+    }
+  ]
+}

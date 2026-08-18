@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:+1 Starter Great Axe",
+  "page_id": 11724,
+  "revision_id": 627665,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T19:50:29.978053+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = +1 Starter Great Axe\n  | basevalue                = 2 pp\n  | weight                   = 12 lbs\n  | damage                   = [1d12] + 1 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Great Axe\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = Two-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 120\n  | material                 = Steel\n  | hardness                 = 12\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtC|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|1}}\n* {{Flaming}}\n* {{Starter}}\n  | quest                    = The Voyage\n  | end reward               = yes\n  | description              = A big, heavy, double-bladed axe wieldable only with two hands.\n  | pic                      = +1 Starter Great Axe shown.jpg\n  | picdesc                  = +1 Starter Great Axe.png\n  | tips                     = This is one of the starting weapon selection choices for [[Veteran Status I Starter Items|Veteran Status I (4)]].\n  | food                     = no\n}}\n{{DEFAULTSORT:Starter Great Axe Plus 1}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Flaming",
+      "tooltip": "Flaming: This weapon is sheathed in fire. A flaming weapon deals an extra 1 to 6 points of fire damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flaming#Flaming",
+          "title": "Flaming",
+          "text": "Flaming"
+        }
+      ]
+    },
+    {
+      "text": "Starter",
+      "tooltip": "Starter: Starter equipment cannot be traded, sold or crafted.This item cannot be fed to sentient jewels.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Starter",
+          "title": "Starter",
+          "text": "Starter"
+        }
+      ]
+    }
+  ]
+}

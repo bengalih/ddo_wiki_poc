@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Sceptre of the Oozing Hunger",
+  "page_id": 129528,
+  "revision_id": 703490,
+  "revision_timestamp": "2026-08-05T21:01:27Z",
+  "fetched_at": "2026-08-17T22:51:55.854287+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Sceptre of the Oozing Hunger\n  | damage                   = 1.20[1d6] + 5 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 21\n  | minlevel                 = 11\n  | basevalue                = 4,401pp 1cp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 81\n  | quest                    = Sealed Altar\n  | turn in                  = {{Item|Duergarcraft Sceptre}} and 50 {{Item|Abyssal Gem}}s\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|5|11}}\n* {{SpellPower|Potency|49}}\n* {{Spelllore|Blighted|12}}\n* {{Intensity|Acid|7|Insightful}}\n* {{Intensity|Acid|12}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = An aspect of the Unspeakable.\n  | pic                      = Sceptre of the Oozing Hunger shown.jpg\n  | picdesc                  = Sceptre of the Oozing Hunger.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +11",
+      "tooltip": "Spellcasting Implement +11: Passive: +11 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +11"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Potency +49",
+      "tooltip": "Potency +49: Passive: +49 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +49"
+        }
+      ]
+    },
+    {
+      "text": "Blighted Lore +12%",
+      "tooltip": "Blighted Lore +12: Passive: Your Acid, Negative, Poison and Evil spells gain a 12% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Blighted Lore +12%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Acid Intensity +7%",
+      "tooltip": "Insightful Acid Intensity +7%: +7% Insightful bonus to critical damage with Acid spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intensity",
+          "title": "Intensity",
+          "text": "Insightful Acid Intensity"
+        }
+      ]
+    },
+    {
+      "text": "Acid Intensity +12%",
+      "tooltip": "Acid Intensity +12%: +12% Enhancement bonus to critical damage with Acid spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intensity",
+          "title": "Intensity",
+          "text": "Acid Intensity"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

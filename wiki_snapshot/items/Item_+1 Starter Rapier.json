@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:+1 Starter Rapier",
+  "page_id": 17490,
+  "revision_id": 672635,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T19:50:46.163584+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = +1 Starter Rapier\n  | damage                   = [1d6] + 1 Pierce, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Rapier\n  | hand                     = One-handed\n  | class                    = Piercing\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Martial\n  | durability               = 65\n  | material                 = Steel\n  | hardness                 = 12\n  | minlevel                 = 2\n  | quest                    = The Voyage\n  | chest                    = \n  | end reward               = yes\n  | revamped                 = Update 76\n  | basevalue                = 2 pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|1}}\n* {{Flaming}}\n* {{Starter}}\n  | epic                     = no\n  | pic                      = \n  | picdesc                  = +1 Starter Rapier.png\n  | description              = A long, thin sword with a fine point. Unlike other swords, this weapon lacks an edged blade, and can only be used for thrusting attacks.\n  | tips                     = \n  | food                     = no\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Rapier",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Flaming",
+      "tooltip": "Flaming: This weapon is sheathed in fire. A flaming weapon deals an extra 1 to 6 points of fire damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flaming#Flaming",
+          "title": "Flaming",
+          "text": "Flaming"
+        }
+      ]
+    },
+    {
+      "text": "Starter",
+      "tooltip": "Starter: Starter equipment cannot be traded, sold or crafted.This item cannot be fed to sentient jewels.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Starter",
+          "title": "Starter",
+          "text": "Starter"
+        }
+      ]
+    }
+  ]
+}

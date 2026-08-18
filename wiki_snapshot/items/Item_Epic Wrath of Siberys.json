@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:Epic Wrath of Siberys",
+  "page_id": 79327,
+  "revision_id": 630598,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:59:28.887562+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Epic Wrath of Siberys\n  | type                     = Large\n  | prof                     = General\n  | minlevel                 = 25\n  | bind                     = {{Bind|BtA|BoA}}\n  | exclusive                = no\n  | sb                       = +12\n  | maxdexbonus              = None\n  | dr                       = 12\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = 4[1d6] + 8\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attmod                   = STR\n  | damagemod                = STR\n  | durability               = 325\n  | material                 = Steel\n  | hardness                 = 35\n  | basevalue                = 10002 pp\n  | weight                   = 15 lbs\n  | released                 = Update 45\n  | revamped                 = Update 59\n  | quest                    = Thrall of the Necromancer\n  | chest                    = End chest\n  | enhancements             = \n* {{Clicky|Blinding Flash |5|3}} \n* {{Enhancement bonus|s|8}}\n* {{Heroism|Improved}}\n* {{Blinding}}\n* {{Save|r|10}}\n* {{Save|r|5|Insightful}}\n* {{Augment|Purple}}\n  | description              = The once gaudy-finish of this shield is worn away by time and use, revealing a bright and shining surface underneath. \n  | pic                      = Ooze Guard shown.jpg\n  | picdesc                  = Epic Wrath of Siberys.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Steel",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "Blinding Flash — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Blinding Flash Caster level: 5Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blinding_Flash",
+          "title": "Blinding Flash",
+          "text": "Blinding Flash"
+        }
+      ]
+    },
+    {
+      "text": "+8 Enhancement Bonus",
+      "tooltip": "+8 Enhancement Bonus: +8 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+8 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Improved Heroism",
+      "tooltip": "Improved Heroism: Passive: +3 morale bonus to all your attack rolls, saving throws, and skill checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heroism_(enchantment)",
+          "title": "Heroism (enchantment)",
+          "text": "Improved Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Blinding",
+      "tooltip": "Blinding: This item can generate a flash of light that has a chance to blind opponents.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blinding",
+          "title": "Blinding",
+          "text": "Blinding"
+        }
+      ]
+    },
+    {
+      "text": "Reflex Save +10",
+      "tooltip": "Reflex Save +10: This item gives a +10 Resistance bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save +10"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Reflex Save +5",
+      "tooltip": "Insightful Reflex Save +5: This item gives a +5 Insight bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Insightful Reflex Save +5"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

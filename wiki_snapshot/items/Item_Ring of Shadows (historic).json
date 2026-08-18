@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Ring of Shadows (historic)",
+  "page_id": 11189,
+  "revision_id": 634262,
+  "revision_timestamp": "2025-04-22T03:10:00Z",
+  "fetched_at": "2026-08-17T22:45:35.461338+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=item|replaced={{Item|Ring of Shadows }}}}\n{{Named item|Jewelry\n  | name                     = {{Item|Ring of Shadows}}\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 60\n  | material                 = Gold \n  | hardness                 = 15\n  | basevalue                = 2,520 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 11 \n  | bind                     = {{Bind|no}} \n  | quest                    = The Prison of the Planes\n  | chest                    = [[Mabar]] room chest\n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* {{Skills|Hide|10}}\n* {{Skills|ms|10}}\n* {{Concealment|Dusk}}\n  | description              = You can just barely make out the outline of this ring as you hold it in your hand. It seems almost as if it has been formed out of dark clouds.\n  | pic                      = Ring Generic Shadows.png\n  | picdesc                  = Ring of Shadows (historic).png\n}}",
+  "item_template": "History",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Hide +10",
+      "tooltip": "Hide +10: Passive: +10 Competence bonus to the Hide skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hide",
+          "title": "Hide",
+          "text": "Hide +10"
+        }
+      ]
+    },
+    {
+      "text": "Move Silently +10",
+      "tooltip": "Move Silently +10: Passive: +10 Competence bonus to the Move Silently skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Move_Silently",
+          "title": "Move Silently",
+          "text": "Move Silently +10"
+        }
+      ]
+    },
+    {
+      "text": "Dusk",
+      "tooltip": "Dusk: Equipping this item engulfs you in twilight shadows. Attacks from enemies have a 10% chance to miss you due to concealment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dusk_(enchantment)",
+          "title": "Dusk (enchantment)",
+          "text": "Dusk"
+        }
+      ]
+    }
+  ]
+}

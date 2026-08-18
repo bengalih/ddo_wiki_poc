@@ -1,0 +1,70 @@
+{
+  "page_title": "Item:Dusty Rose Ioun Stone",
+  "page_id": 11080,
+  "revision_id": 629686,
+  "revision_timestamp": "2025-04-21T22:11:22Z",
+  "fetched_at": "2026-08-17T04:15:17.459886+00:00",
+  "categories": [],
+  "material": "Gem",
+  "item_type": "Trinket",
+  "slot": "Trinket",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "Protection +1",
+      "tooltip": "Protection +1: Passive: +1 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +1"
+        }
+      ]
+    },
+    {
+      "text": "Suppressed Power",
+      "tooltip": "Suppressed Power: This psionic item is powerful, but you sense that it has not unlocked all of its secrets to you at this time.",
+      "children": [
+        {
+          "text": "Protection +1 → Protection +5",
+          "tooltip": "Protection +1: Passive: +1 Deflection bonus to Armor Class.Protection +5: Passive: +5 Deflection bonus to Armor Class.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Protection",
+              "title": "Protection",
+              "text": "Protection +1"
+            },
+            {
+              "target": "/page/Protection",
+              "title": "Protection",
+              "text": "Protection +5"
+            }
+          ]
+        },
+        {
+          "text": "Becomes Bound to Character on Acquire",
+          "tooltip": null,
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bind",
+              "title": "Bind",
+              "text": "Bound to Character on Acquire"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Suppressed_Power",
+          "title": "Suppressed Power",
+          "text": "Suppressed Power"
+        }
+      ]
+    }
+  ],
+  "item_class": "Jewelry",
+  "item_template": ""
+}

@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Tornado",
+  "page_id": 72221,
+  "revision_id": 671298,
+  "revision_timestamp": "2026-01-09T13:35:48Z",
+  "fetched_at": "2026-08-17T23:20:00.308879+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Tornado\n  | damage                   = 4.60[1d6+3] +15 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Handaxe\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Slashing\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 28\n  | durability               = 330\n  | material                 = Steel\n  | hardness                 = 38\n  | cost                     = 11,200 pp 6 gp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 40\n  | revamped                 = Update 76\n  | quest                    = Killing Time\n  | chest                    = end chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Reverberating|6}}\n* {{Slicing Winds|Legendary}}\n* {{Telekinetic|Legendary}}\n* {{Sirocco|Legendary}}\n* {{Augment|Red}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This simple handaxe is surprising sturdy and extremely light. Those that seek to master it should flow with the wind rather than fight against it.\n  | pic                      = Tornado shown.jpg\n  | picdesc                  = Tornado.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Handaxe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Reverberating 6",
+      "tooltip": "Reverberating 6: This effect causes the edges of this weapon to pulse with sound, dealing 6d6 sonic damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reverberating",
+          "title": "Reverberating",
+          "text": "Reverberating 6"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Slicing Winds",
+      "tooltip": "Legendary Slicing Winds: This weapon whistles with the wind. On hit, this mysterious power has a chance of coming to the surface, slicing at the struck enemy for a significant amount of Slashing damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slicing_Winds#Legendary_Slicing_Winds",
+          "title": "Slicing Winds",
+          "text": "Legendary Slicing Winds"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Telekinetic",
+      "tooltip": "Legendary Telekinetic: On hit, this has a chance of knocking your enemies off their feet. Struck enemies must make a DC 100 Reflex save or be knocked down.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Telekinetic#Legendary_Telekinetic",
+          "title": "Telekinetic",
+          "text": "Legendary Telekinetic"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Sirocco",
+      "tooltip": "Legendary Sirocco: On hit, this has a chance of blinding your enemies with whirling sand. Struck enemies must make a DC 100 Fortitude save or be blinded.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sirocco#Legendary_Sirocco",
+          "title": "Sirocco",
+          "text": "Legendary Sirocco"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

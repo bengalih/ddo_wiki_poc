@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Bloody Cleaver",
+  "page_id": 101340,
+  "revision_id": 631843,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:32:13.146584+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Bloody Cleaver\n  | type                     = Falchion\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | minlevel                 = 31\n  | bind                     = {{Bind|BtC|BoE}}\n  | damage                   = 5.20[2d4+4] + 15 Slash, Magic\n  | crit                     = 18-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 390\n  | material                 = Wood\n  | hardness                 = 36\n  | basevalue                = 12,407 pp 5gp\n  | weight                   = 8 lbs\n  | released                 = Update 59\n  | quest                    = Frame Work\n  | chest                    = End chests, [[Dorris]]' chests\n  | mythic                   = yes\n  | enhancements             = \n* {{Enhancement_bonus|w|15}}\n* {{Bleeding|6}}\n* {{Bane|Humanoid|6}}\n* {{Feeding|30}}\n* {{Augment|Red}}\n* {{Augment|Purple}}\n* {{CraftingEffects|Fusible}}\n  | crafting                 = Fusible\n  | craftingupgrade          = Legendary Crippling Cleaver¦Legendary Maiming Cleaver¦Legendary Vengeful Cleaver¦Legendary Vampiric Cleaver\n  | description              = This large blade was once wielded handily by one of the Droaam Army's half-orc chefs. As one can imagine, it's very well-sharpened and has been used to carry out many a gruesome deed.\n  | pic                      = Bloody Cleaver shown.jpg\n  | picdesc                  = Legendary Bloody Cleaver.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Falchion",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 31,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Bleeding 6",
+      "tooltip": "Bleeding 6: This weapon is wickedly curved, with spines and hooks meant to cause damage to those with flesh. This weapon does 6d8 bleeding damage to those that are vulnerable to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleeding",
+          "title": "Bleeding",
+          "text": "Bleeding 6"
+        }
+      ]
+    },
+    {
+      "text": "Humanoid Bane 6",
+      "tooltip": "Humanoid Bane 6: This weapon is attuned specifically to those that walk among us, dealing an additional 6d10 bane damage vs. Humanoids.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Humanoid Bane 6"
+        }
+      ]
+    },
+    {
+      "text": "Feeding 30",
+      "tooltip": "Feeding 30: On Vorpal Hit: Your target incurs one Negative Level, and you gain +30 temporary hit points. (These Temporary Hit Points last for one minute, or until used to negate incoming damage.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feeding",
+          "title": "Feeding",
+          "text": "Feeding 30"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Fusible",
+      "tooltip": "Fusible: Something about this item looks incomplete. Perhaps in the future it will be compatible with another item to create a brand-new fusion of the two.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cauldron_of_Sora_Katra",
+          "title": "Cauldron of Sora Katra",
+          "text": "Fusible"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

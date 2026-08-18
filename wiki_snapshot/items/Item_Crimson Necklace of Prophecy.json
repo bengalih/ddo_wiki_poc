@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Crimson Necklace of Prophecy",
+  "page_id": 11124,
+  "revision_id": 629212,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:27:47.895694+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Crimson Necklace of Prophecy\n  | type                     = Necklace\n  | class                    = Jewelry\n  | slot                     = Neck\n  | durability               = 110\n  | material                 = Gold\n  | hardness                 = 11\n  | basevalue                = 3,620 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 9\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Plane of Night\n  | chest                    = warded chest\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Crimson Necklace of Prophecy\n  | enhancements             = \n* {{Spelllore|Fire|11}}\n* {{SpellPower|Combustion|73}}\n* {{Absorption|Fire|19}}\n* {{Elemental Resistance|Fire|20}}\n* {{Named item sets|Draconic Prophecy}}\n  | description              = This glittering necklace is rumored to contain important hints of the draconic prophecy. They rarely fall in the hands of non-dragon kind.\n  | pic                      = Necklace Generic Crimson.png\n  | picdesc                  = Crimson Necklace of Prophecy.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Fire Lore +11%",
+      "tooltip": "Fire Lore +11: Passive: Your Fire spells gain a 11% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore +11%"
+        }
+      ]
+    },
+    {
+      "text": "Combustion +73",
+      "tooltip": "Combustion +73: Passive: +73 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +73"
+        }
+      ]
+    },
+    {
+      "text": "Fire Absorption +19%",
+      "tooltip": "Fire Absorption +19%: Passive: 19% Enhancement Bonus to Fire Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Fire Absorption +19%"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +20",
+      "tooltip": "Fire Resistance +20: Passive: +20 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +20"
+        }
+      ]
+    },
+    {
+      "text": "Draconic Prophecy",
+      "tooltip": "Draconic Prophecy: 2 Pieces Equipped:+5 Artifact bonus to Universal Spellpower+10 Artifact bonus to Magical Resistance Rating Cap",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Draconic_Prophecy",
+          "title": "Named item sets",
+          "text": "Draconic Prophecy"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

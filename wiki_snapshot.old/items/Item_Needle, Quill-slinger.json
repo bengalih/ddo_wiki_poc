@@ -1,0 +1,201 @@
+{
+  "page_title": "Item:Needle, Quill-slinger",
+  "page_id": 25657,
+  "revision_id": 668706,
+  "revision_timestamp": "2025-12-10T12:40:31Z",
+  "fetched_at": "2026-08-17T05:52:29.244352+00:00",
+  "categories": [],
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Repeating Light Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Ranged Alacrity 20%",
+      "tooltip": "Ranged Alacrity 20%: Gain 20% Enhancement bonus to Ranged attack speed. Does not stack with the Haste spell.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ranged_Alacrity",
+          "title": "Ranged Alacrity",
+          "text": "Ranged Alacrity 20%"
+        }
+      ]
+    },
+    {
+      "text": "Hemorrhaging",
+      "tooltip": "Hemorrhaging: This weapon is viciously sharp and will do an additional 2 to 16 damage to targets that are vulnerable to bleeding.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleed#Hemorrhaging",
+          "title": "Bleed",
+          "text": "Hemorrhaging"
+        }
+      ]
+    },
+    {
+      "text": "Attack Bonus +4",
+      "tooltip": "Attack Bonus +4: Provides a +4 competence bonus to your attack rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Attack_bonus",
+          "title": "Attack bonus",
+          "text": "Attack Bonus +4"
+        }
+      ]
+    },
+    {
+      "text": "Attuned to Heroism",
+      "tooltip": "This relic is attuned to heroic actions.",
+      "children": [
+        {
+          "text": "Attuned by Heroism: Tier 1",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Planar Conflux",
+              "tooltip": "Planar Conflux: When this item is equipped at the same time as a Planar Focus, you will gain set bonuses based on the Planar Focus that you have equipped.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Named_item_sets#Planar_Conflux",
+                  "title": "Named item sets",
+                  "text": "Planar Conflux"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 1"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "+7 Enhancement Bonus → +8 Enhancement Bonus",
+              "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.+8 Enhancement Bonus: +8 enhancement bonus to attack and damage rolls.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+7 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+8 Enhancement Bonus"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Hemorrhaging → Phlebotomizing",
+              "tooltip": "Hemorrhaging: This weapon is viciously sharp and will do an additional 2 to 16 damage to targets that are vulnerable to bleeding.Phlebotomizing: This weapon is wickedly sharp and will do an additional 3 to 24 damage to targets that are vulnerable to bleeding.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Bleed#Hemorrhaging",
+                  "title": "Bleed",
+                  "text": "Hemorrhaging"
+                },
+                {
+                  "target": "/page/Bleed#Phlebotomizing",
+                  "title": "Bleed",
+                  "text": "Phlebotomizing"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 3"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 4",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Red Augment Slot",
+              "tooltip": "Red and Colorless",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Augment_Slot",
+                  "title": "Augment Slot",
+                  "text": "Red Augment Slot"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 4"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Attuned_to_Heroism",
+          "title": "Attuned to Heroism",
+          "text": "Attuned to Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ],
+  "item_class": "Weapon",
+  "item_template": ""
+}

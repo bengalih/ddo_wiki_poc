@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Morninglord's Longsword",
+  "page_id": 89592,
+  "revision_id": 633563,
+  "revision_timestamp": "2025-04-22T02:21:53Z",
+  "fetched_at": "2026-08-17T22:27:13.120138+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Morninglord's Longsword\n  | minlevel                 = 29\n  | type                     = Long Sword\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = 4.80[1d8+2] + 15 Slash, Good, Silver, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | race                     = \n  | slot                     = \n  | bind                     = {{Bind|BtA|BoA}} from chest; {{Bind|BtC|BoA}} otherwise\n  | durability               = 360\n  | material                 = Steel\n  | hardness                 = 37\n  | cost                     = 11,603 pp 5 gp\n  | weight                   = 4 lbs\n  | released                 = Update 37\n  | quest                    = Blue Water Inn\n  | end reward               = \n  | turn in                  = 60 [[Vistani Totem]]s\n  | chest                    = \n  | mythic                   = yes\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Mat|Silver}}, Alchemical\n* {{Holy|6|1}}\n* {{Fiery|6}}\n* {{Bane|Undead|6}}\n* {{Augment|Red}}\n  | crafting                 = \n  | description              = This weapon was designed to serve the Morninglord, and has been blessed with unimaginable power... and something else?\n  | pic                      = Barovian's Longsword shown.jpg\n  | picdesc                  = Morninglord's Longsword.png\n  | tips                     = This and similar weapons are available from multiple sources:\n* For free, one per life, from [[Tobar the Smith]] in [[The Land of Barovia]]. BtC.\n* Purchased for [[Vistani Totem]]s in [[Blue Water Inn]]. BtC.\n* Looted in [[Mists of Ravenloft|Ravenloft]]'s 2nd story arc \"The Vampire Hunters\" quests. BtA + eligible for Mythic / Reaper bonuses.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Silver , Alchemical",
+      "tooltip": "Silver: A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as devils and vampires. Silver weapons have 2 points lower hardness then equivalent steel weapons, and as such aren't quite as durable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Silver",
+          "title": "Silver",
+          "text": "Silver"
+        }
+      ]
+    },
+    {
+      "text": "Holy 6",
+      "tooltip": "Holy 6: This weapon is wielded by the pure to smite the wicked, dealing an additional 6d6 good damage on each hit. This effect makes the weapon good aligned. Evil characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Holy 6"
+        }
+      ]
+    },
+    {
+      "text": "Fiery 6",
+      "tooltip": "Fiery 6: This effect causes the edges of this weapon to burn with enchanted flames, dealing 6d6 Fire damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fiery",
+          "title": "Fiery",
+          "text": "Fiery 6"
+        }
+      ]
+    },
+    {
+      "text": "Undead Bane 6",
+      "tooltip": "Undead Bane 6: Those that have died must return, and this weapon is attuned specifically to lay them to rest. This weapon deals an additional 6d10 bane damage vs. Undead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Undead Bane 6"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

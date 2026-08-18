@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Belt of the Seven Ideals (level 24)",
+  "page_id": 34391,
+  "revision_id": 648880,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:10:42.114186+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Belt of the Seven Ideals}}\n  | type                     = Belt\n  | class                    = Clothing\n  | basevalue                = 9,620 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | reqtrait                 = \n  | UMD DC                   = \n  | durability               = 250 \n  | material                 = Leather\n  | hardness                 = 34\n  | bind                     = {{Bind|BtC|BoE}}\n  | minlevel                 = 24\n  | released                 = Update 17\n  | quest                    = Return to Gianthold Tor\n  | chest                    = Black Dragon chest (Epic Hard)\n  | end reward               = \n  | enhancements             = \n* {{SpellPower|Potency|76}} \n* {{Spellpen|iii}}\n* {{Augment|Yellow}}\n* {{Augment|Colorless}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This gaudy belt is adorned with seven faceted stones that span every color of the rainbow. Surely they have magical as well as aesthetic properties.\n  | pic                      = Belt Generic Seven.png\n  | picdesc                  = Belt of the Seven Ideals (Level 24).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "Potency +76",
+      "tooltip": "Potency +76: Passive: +76 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +76"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration III",
+      "tooltip": "Spell Penetration III: Passive: +3 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration III"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Belt Boost +1 or +3",
+      "tooltip": "Mythic Belt Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Belt Boost"
+        }
+      ]
+    }
+  ]
+}

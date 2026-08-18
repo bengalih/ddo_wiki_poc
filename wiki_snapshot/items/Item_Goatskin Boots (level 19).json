@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Goatskin Boots (level 19)",
+  "page_id": 46821,
+  "revision_id": 649889,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:12:58.289531+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Goatskin Boots}}\n  | type                     = Boots\n  | class                    = Clothing\n  | basevalue                = 7,620 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 200\n  | material                 = Leather\n  | hardness                 = 29\n  | bind                     = {{Bind|BtC|BoE}}\n  | minlevel                 = 19\n  | quest                    = What Goes Up\n  | chest                    = end chest, jeweled key chest (heroic elite)\n  | enhancements             = \n* {{Speed|XI}}\n* {{Augment|Green}}\n  | description              = Before it met its end, this animal had only one thought. Escape.\n  | pic                      = Boots Generic GreenSteel.png\n  | picdesc                  = Goatskin Boots (Level 19).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 19,
+  "enchantments": [
+    {
+      "text": "Speed XI",
+      "tooltip": "Speed XI: Passive: +30% enhancement bonus to movement speed, +11% enhancement bonus to melee and ranged attack speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Speed",
+          "title": "Speed",
+          "text": "Speed XI"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Boot Boost +1 or +3",
+      "tooltip": "Mythic Boot Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Boot Boost"
+        }
+      ]
+    }
+  ]
+}

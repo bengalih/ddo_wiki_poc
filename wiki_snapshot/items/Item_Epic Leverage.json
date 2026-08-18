@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Epic Leverage",
+  "page_id": 51284,
+  "revision_id": 700619,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:51:48.021841+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Leverage\n  | damage                   = 4.20[2d8] + 7 Pierce, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Great Crossbow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | prof                     = Exotic\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 26\n  | damagemod                = DEX\n  | attackmod                = DEX\n  | durability               = 360\n  | material                 = Steel\n  | hardness                 = 36\n  | basevalue                = 10,420 pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 25\n  | revamped                 = Update 76\n  | quest                    = ToEE: Air Node\n  | chest                    = dragon's hoard chests\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|7}}\n* {{Bane|Human|Greater}}\n* {{Heartseeker|VI}}\n* {{Frostbite}}\n* {{Sneak Attack Bonus|6|Insightful}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Leverage shown.jpg\n  | picdesc                  = Epic Leverage.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Great Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Greater Human Bane",
+      "tooltip": "Greater Human Bane: A bane weapon excels at attacking one type or subtype of creature. Against Humans, this weapon's effective enhancement bonus is +4 better than its normal enhancement bonus. It deals an extra 3 to 18 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Greater Human Bane"
+        }
+      ]
+    },
+    {
+      "text": "Heartseeker VI",
+      "tooltip": "Heartseeker VI: On Critical Hit: 13 to 78 Piercing damage from weapons with a x2 Critical Multiplier, 13 to 104 Piercing damage from weapons with a x3 Critical Multiplier, and 13 to 130 Piercing damage from weapons with a x4 or greater Critical Multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heartseeker",
+          "title": "Heartseeker",
+          "text": "Heartseeker VI"
+        }
+      ]
+    },
+    {
+      "text": "Frostbite",
+      "tooltip": "Frostbite: On Hit: Applies a stack of Vulnerable (1% more damage for 3 seconds. This effect stacks up to 20 times, and loses one stack on expiration.). This effect may only occur on-hit once every two seconds.On Vorpal: Applies a stack of Lethargy (-1 to all Saving Throws. Non-bosses also move and attack 5% slower. This effect stacks up to 5 times.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Frostbite_(enchantment)",
+          "title": "Frostbite (enchantment)",
+          "text": "Frostbite"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Sneak Attack Bonus +6",
+      "tooltip": "Insightful Sneak Attack Bonus +6 : Provides a +6 Insightful modifier to your attack bonus and a +9 Insightful bonus to damage for any attack that would qualify as a Sneak Attack, even if the wielder is not a Rogue.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sneak_Attack_Bonus",
+          "title": "Sneak Attack Bonus",
+          "text": "Insightful Sneak Attack Bonus +6"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

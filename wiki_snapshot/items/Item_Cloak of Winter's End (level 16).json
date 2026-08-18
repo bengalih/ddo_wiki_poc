@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Cloak of Winter's End (level 16)",
+  "page_id": 123474,
+  "revision_id": 685078,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:23:17.562271+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Cloak of Winter's End\n  | type                     = Cloak\n  | cost                     = 6401 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Back\n  | durability               = 260\n  | material                 = Cloth\n  | hardness                 = 36\n  | minlevel                 = 16\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 78\n  | quest                    = Timeline Fragment Exchange\n  | turn in                  = 50 Timeline Fragments\n  | enhancements             = \n* {{Absorption|Force|13}}\n* {{Hp|Vitality|27}}\n* {{Immunity|Fear}}\n* {{Augment|Blue}}\n* {{Augment|Sun}}\n  | mythic                   = no\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = {{Cyan|Time-Twisted}} version of {{Orange|Cloak of Winter}}\n\nDawn breaks on eternal winter. This cloak manifested on the day the Winter Court melted to the unstoppable summer.\n  | pic                      = Cloak of Winter's End shown.jpg\n  | picdesc                  = Cloak of Winter's End (level 16).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Force Absorption +13%",
+      "tooltip": "Force Absorption +13%: Passive: 13% Enhancement Bonus to Force Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Force Absorption +13%"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +27",
+      "tooltip": "Vitality +27: Passive: +27 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +27"
+        }
+      ]
+    },
+    {
+      "text": "Immunity to Fear",
+      "tooltip": "Immunity to Fear: The wearer of this item is immune to all fear effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Immunity_to_Fear",
+          "title": "Immunity to Fear",
+          "text": "Immunity to Fear"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    }
+  ]
+}

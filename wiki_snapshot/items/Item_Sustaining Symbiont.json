@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Sustaining Symbiont",
+  "page_id": 16503,
+  "revision_id": 635129,
+  "revision_timestamp": "2025-04-22T04:07:17Z",
+  "fetched_at": "2026-08-17T23:08:12.126295+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Sustaining Symbiont\n  | minlevel                 = 15\n  | type                     = Trinket\n  | slot                     = Trinket\n  | bind                     = {{Bind|BtA|boa}}\n  | durability               = 61\n  | material                 = Flesh \n  | hardness                 = 21\n  | basevalue                = 3,620pp\n  | weight                   = 0.10 lbs\n  | quest                    = The Sane Asylum\n  | chest                    = Fred's chest\n  | mythic                   = no\n  | enhancements             = \n* {{False Life|greater}}\n* {{Suppress Madness}}\n* {{Stat|CON|1|Exceptional}}\n* {{Fortification|0}}\n  | description              = A leech-like creature bred as a counterbalance to certain other symbiotic creatures that cause harm to their wearers. It also grants its host increased physical durability.\n  | pic                      = Trinket Generic Symbiont.png\n  | picdesc                  = Sustaining Symbiont.png\n  | tips                     = The \"Suppress Madness\" effect is not currently affecting metal fatigue from Beholder Plate Docent (possibly others as well).\n}}\n[[C:Eleven Year Old Cake items]]",
+  "item_template": "Named item",
+  "material": "Flesh",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Greater False Life",
+      "tooltip": "Greater False Life: This item grants the wearer +30 maximum health.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)#Greater_False_Life",
+          "title": "False Life (enchantment)",
+          "text": "Greater False Life"
+        }
+      ]
+    },
+    {
+      "text": "Suppress Madness",
+      "tooltip": "Suppress Madness: This strange creature is enchanted with the ability to temporarily filter the maddening effects of certain Xoriat items. Wearing it will suppress the effects of the following: Curse Vector, Unwieldy, Overfocus, Mind Turbulence, Symbiotic Backlash, Metal Fatigue, Power Drain, and Single-Mindedness.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Suppress_Madness",
+          "title": "Suppress Madness",
+          "text": "Suppress Madness"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Constitution +1",
+      "tooltip": "Exceptional Constitution +1: This item gives the wearer improved health, granting a +1 Exceptional bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Exceptional Constitution +1"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Fortification (+10%)",
+      "tooltip": "Exceptional Fortification (+10%): This item produces a magical force that protects vital areas of the wearer more effectively. When a critical hit or sneak attack is scored on the wearer, there is a +10% chance that the critical hit or sneak attack is negated and the damage is instead rolled normally. This ability is considered an Insight bonus when determining stacking with other sources of fortification",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Exceptional Fortification (+10%)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "page_title": "Item:Large Shield of the Golden Age",
+  "page_id": 108624,
+  "revision_id": 678599,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:28:37.567797+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Large Shield of the Golden Age\n  | type                     = Large\n  | prof                     = General\n  | race                     = \n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 13\n  | damagemod                = STR\n  | attmod                   = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +18\n  | maxdexbonus              = None\n  | dr                       = 9\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = 1.60[1d10] + 5\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 /x3\n  | durability               = 250\n  | material                 = Steel\n  | hardness                 = 38\n  | basevalue                = 5,604 pp\n  | weight                   = 10 lbs\n  | released                 = Update 69\n  | quest                    = Ettercap Incursion\n  | chest                    = end chest\n  | rare                     = yes\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|s|5}}\n* {{Shield Bashing|%=11}}\n* {{Conditioning|15|Legendary}}\n* {{Shield Spikes|3}}\n* {{Guardbreaking}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Forged in the Glory of Cormanthor, this shield is remarkably well-preserved.\n  | pic                      = Large Shield of the Golden Age shown.jpg\n  | picdesc                  = Large Shield of the Golden Age.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Steel",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Shield Bashing +11%",
+      "tooltip": "Shield Bashing +11%: +11% Enhancement bonus to your chance of a Secondary Shield Bash. This stacks with bonuses granted by any relevant feats.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bashing",
+          "title": "Shield Bashing",
+          "text": "Shield Bashing +11%"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Conditioning +15%",
+      "tooltip": "Legendary Conditioning +15%: You have a +15% Legendary bonus to Maximum Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Conditioning",
+          "title": "Conditioning",
+          "text": "Legendary Conditioning +15%"
+        }
+      ]
+    },
+    {
+      "text": "Shield Spikes",
+      "tooltip": "Shield Spikes: This effect causes this shield to do an extra 3d6 Piercing damage when it is used to shield bash.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Spikes",
+          "title": "Shield Spikes",
+          "text": "Shield Spikes"
+        }
+      ]
+    },
+    {
+      "text": "Guardbreaking",
+      "tooltip": "Guardbreaking: This item enables you to break an enemy's guard in between your melee attacks. On critical hits with your melee weapons, enemies will become dazed as a result.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Guardbreaking",
+          "title": "Guardbreaking",
+          "text": "Guardbreaking"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

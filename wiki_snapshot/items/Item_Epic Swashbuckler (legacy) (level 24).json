@@ -1,0 +1,193 @@
+{
+  "page_title": "Item:Epic Swashbuckler (legacy) (level 24)",
+  "page_id": 48683,
+  "revision_id": 630484,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:57:11.786791+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Epic Swashbuckler\n  | type                     = Buckler\n  | prof                     = General\n  | reqtrait                 = \n  | minlevel                 = 24\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +8\n  | maxdexbonus              = \n  | dr                       = 10\n  | acp                      = 0\n  | asf                      = 0\n  | dmg                      = 3[2d6] + 6\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attmod                   = STR\n  | damagemod                = STR\n  | durability               = 315\n  | material                 = Dwarven Iron\n  | hardness                 = 34\n  | basevalue                = 15,001 pp 5 gp\n  | weight                   = 5 lbs\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|silver|1000}}{{CCi|golden|500}}{{CCi|malachite|40}} at [[Dusty Old Treasure of Crystal Cove]]\n  | mythic                   = no\n  | epic                     = no\n  | enhancements             = \n* [[Upgradeable - Tier 1]]\n** {{Enhancement bonus|s|6}}\n** {{Riposte|VIII}}\n** {{Doublestrike|7}}\n** {{Guardbreaking}}\n** {{Riposte}}\n* [[Upgradeable - Tier 2]]\n** {{Enhancement bonus|s|6}} &rarr; {{Enhancement bonus|s|7}}\n** {{Riposte|VIII}} &rarr; {{Riposte|X}}\n** Adds {{Stat|DEX|1|Insightful}}\n* [[Upgradeable - Tier 3]]\n** {{Stat|DEX|1|Insightful}} &rarr; {{Stat|DEX|2|Insightful}}\n** Adds {{Augment|Blue}}\n  | crafting                 = Treasure of Crystal Cove\n  | craftingupgrade          = \n  | description              = An indispensable tool for many a pirate when dueling with a single blade. It can parry an enemy's blows effectively and even leave them open to counterattack.\n  | pic                      = Swashbuckler shown.png\n  | picdesc                  = Epic Swashbuckler (level 24)(tier 1).png\n  | tips                     = See also: {{Item|Swashbuckler}} - Full table of the Swashbuckler line\n* {{CCi|malachite|80}}{{CCi|opal|55}}{{CCi|green|600}}: {{Popup|Tier 2|[[File:Epic Swashbuckler (level 24)(tier 2).png|450 px]]|long=y}}\n* {{CCi|malachite|110}}{{CCi|opal|90}}{{CCi|green|1100}}{{CCi|nimble|1}}: {{Popup|Tier 3|[[File:Epic Swashbuckler (level 24)(tier 3).png|450 px]]|long=y}}\n}}<noinclude>\n[[Category:Treasure of Crystal Cove legacy reward items]]\n[[Category:Treasure of Crystal Cove epic items]]\n</noinclude>",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Dwarven Iron",
+  "item_type": "Buckler",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "+6 Enhancement Bonus",
+          "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to Armor Class, attack and damage rolls.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+6 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Riposte VIII",
+          "tooltip": "Riposte VIII: When Missed by an attack: Deals 8 to 32 damage to your attacker. Passive: +4 Insight bonus to Armor Class, +4 Insight bonus to Fortitude, Reflex, and Will Saving Throws.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Riposte",
+              "title": "Riposte",
+              "text": "Riposte VIII"
+            }
+          ]
+        },
+        {
+          "text": "Doublestrike 7%",
+          "tooltip": "Doublestrike 7%: Passive: 7% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Doublestrike",
+              "title": "Doublestrike",
+              "text": "Doublestrike 7%"
+            }
+          ]
+        },
+        {
+          "text": "Guardbreaking",
+          "tooltip": "Guardbreaking: This item enables you to break an enemy's guard in between your melee attacks. On critical hits with your melee weapons, enemies will become dazed as a result.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Guardbreaking",
+              "title": "Guardbreaking",
+              "text": "Guardbreaking"
+            }
+          ]
+        },
+        {
+          "text": "Riposte",
+          "tooltip": "Riposte: When its wearer is successfully attacked in melee, this shield occasionally allows him or her to make an immediate counterattack, dealing bludgeoning damage to the offending enemy.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Riposte",
+              "title": "Riposte",
+              "text": "Riposte"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "+6 Enhancement Bonus → +7 Enhancement Bonus",
+          "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to Armor Class, attack and damage rolls.+7 Enhancement Bonus: +7 enhancement bonus to Armor Class, attack and damage rolls.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+6 Enhancement Bonus"
+            },
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+7 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Riposte VIII → Riposte X",
+          "tooltip": "Riposte VIII: When Missed by an attack: Deals 8 to 32 damage to your attacker. Passive: +4 Insight bonus to Armor Class, +4 Insight bonus to Fortitude, Reflex, and Will Saving Throws.Riposte X: When Missed by an attack: Deals 10 to 40 damage to your attacker. Passive: +5 Insight bonus to Armor Class, +5 Insight bonus to Fortitude, Reflex, and Will Saving Throws.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Riposte",
+              "title": "Riposte",
+              "text": "Riposte VIII"
+            },
+            {
+              "target": "/page/Riposte",
+              "title": "Riposte",
+              "text": "Riposte X"
+            }
+          ]
+        },
+        {
+          "text": "Adds Insightful Dexterity +1",
+          "tooltip": "Insightful Dexterity +1: This item makes the wearer more nimble and dexterous, granting a +1 Insight bonus to Dexterity.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Dexterity",
+              "title": "Dexterity",
+              "text": "Insightful Dexterity +1"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_2",
+          "title": "Upgradeable - Tier 2",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "Insightful Dexterity +1 → Insightful Dexterity +2",
+          "tooltip": "Insightful Dexterity +1: This item makes the wearer more nimble and dexterous, granting a +1 Insight bonus to Dexterity.Insightful Dexterity +2: This item makes the wearer more nimble and dexterous, granting a +2 Insight bonus to Dexterity.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Dexterity",
+              "title": "Dexterity",
+              "text": "Insightful Dexterity +1"
+            },
+            {
+              "target": "/page/Dexterity",
+              "title": "Dexterity",
+              "text": "Insightful Dexterity +2"
+            }
+          ]
+        },
+        {
+          "text": "Adds Blue Augment Slot",
+          "tooltip": "Blue and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Blue Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_3",
+          "title": "Upgradeable - Tier 3",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

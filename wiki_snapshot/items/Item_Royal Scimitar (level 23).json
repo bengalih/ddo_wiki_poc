@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Royal Scimitar (level 23)",
+  "page_id": 35265,
+  "revision_id": 672791,
+  "revision_timestamp": "2026-01-25T19:21:54Z",
+  "fetched_at": "2026-08-17T22:49:10.696418+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Royal Scimitar}}\n  | sentience                = no\n  | damage                   = 2.50[1d6] + 6 Slash, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Scimitar\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | minlevel                 = 23\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 290\n  | material                 = Steel\n  | hardness                 = 28\n  | released                 = Update 17\n  | revamped                 = Update 76\n  | quest                    = Return to Prison of the Planes\n  | chest                    = Shavarath room's chest (Epic Normal)\n  | basevalue                = 9,202 pp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | enhancements             = \n* {{Enhancement_bonus|w|6}}\n* {{Destruction|Improved}}\n* {{Bloodletter|v}}\n* {{Augment|Red}}\n  | pic                      = Royal Scimitar shown.jpg\n  | picdesc                  = Royal Scimitar (Level 23).png\n  | description              = One of six swords passed down through the royal family of Aurelia. Its edge is sharp enough to cut through even the toughest armor.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Scimitar",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Improved Destruction",
+      "tooltip": "Improved Destruction: On Hit: Your target gains a stack of Armor Destruction. (-1 penalty to Armor Class, -1% of its Fortification. 20 Second Duration. Stacks up to 15 times.) This effect may trigger once every second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Improved_Destruction",
+          "title": "Improved Destruction",
+          "text": "Improved Destruction"
+        }
+      ]
+    },
+    {
+      "text": "Bloodletter V",
+      "tooltip": "Bloodletter V: On Critical Hit: 11 to 66 Slashing damage from weapons with a x2 Critical Multiplier, 11 to 88 Slashing damage from weapons with a x3 Critical Multiplier, and 11 to 110 Slashing damage from weapons with a x4 or greater Critical Multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bloodletter",
+          "title": "Bloodletter",
+          "text": "Bloodletter V"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Forge",
+  "page_id": 65045,
+  "revision_id": 630978,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:07:51.508321+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Forge\n  | damage                   = 2[1d8] + 5 Bludgeon, Magic\n  | crit                     = 20 / x3\n  | type                     = War Hammer\n  | hand                     = One-handed \n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 15\n  | durability               = 215\n  | material                 = Steel\n  | hardness                 = 25\n  | cost                     = 6,001pp 2gp\n  | weight                   = 5 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | basevalue                = 6001pp 2gp\n  | released                 = Update 36\n  | quest                    = Strike Back\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Fiery|4}}\n* {{Flaming|9}}\n* {{Jolting|9}}\n* {{Seeker|8}}\n* {{Augment|Red}}\n  | description              = In years long passed, Dwarf blacksmiths used hammers such as this to forge the very blades that are still wielded against the Drow.\n  | pic                      = Forge shown.jpg\n  | picdesc                  = Forge.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "War Hammer",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fiery 4",
+      "tooltip": "Fiery 4: This effect causes the edges of this weapon to burn with enchanted flames, dealing 4d6 Fire damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fiery",
+          "title": "Fiery",
+          "text": "Fiery 4"
+        }
+      ]
+    },
+    {
+      "text": "Flaming 9",
+      "tooltip": "Flaming 9: This effect causes the edges of this weapon to burn with enchanted flames, dealing 9d6 Fire damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flaming#Flaming",
+          "title": "Flaming",
+          "text": "Flaming 9"
+        }
+      ]
+    },
+    {
+      "text": "Jolting 9",
+      "tooltip": "Jolting 9: This effect causes the edges of this weapon to arc with electricity, dealing 9d6 Lightning damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Jolting",
+          "title": "Jolting",
+          "text": "Jolting 9"
+        }
+      ]
+    },
+    {
+      "text": "Seeker +8",
+      "tooltip": "Seeker +8: Provides a +8 Enhancement bonus to confirm critical hits, and a +8 Enhancement bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Seeker +8"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

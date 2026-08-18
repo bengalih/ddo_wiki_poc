@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:The Legendary Forgehammer",
+  "page_id": 126203,
+  "revision_id": 703344,
+  "revision_timestamp": "2026-08-05T09:00:04Z",
+  "fetched_at": "2026-08-17T23:14:53.407392+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = The Legendary Forgehammer\n  | damage                   = 6[1d8+3] + 16 Bludgeon, Magic\n  | crit                     = 20 / x3\n  | type                     = War Hammer\n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | hand                     = Two-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 415\n  | material                 = Steel\n  | hardness                 = 45\n  | minlevel                 = 35\n  | basevalue                = 14,001pp 2gp\n  | weight                   = 5 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 81\n  | quest                    = Tower of Vengeance\n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|w|16}}\n* {{Fiery|7}}\n* {{Crushing|16}}\n* {{Magma Surge|7}}\n* {{Blunt Trauma}}\n* {{Augment|Orange}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Once a central fixture of the Great Forge, this hammer became lost to time.\n  | pic                      = The Forgehammer shown.jpg\n  | picdesc                  = The Legendary Forgehammer.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "War Hammer",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 35,
+  "enchantments": [
+    {
+      "text": "+16 Enhancement Bonus",
+      "tooltip": "+16 Enhancement Bonus: +16 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+16 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fiery 7",
+      "tooltip": "Fiery 7: This effect causes the edges of this weapon to burn with enchanted flames, dealing 7d6 Fire damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fiery",
+          "title": "Fiery",
+          "text": "Fiery 7"
+        }
+      ]
+    },
+    {
+      "text": "Crushing 16",
+      "tooltip": "Crushing 16: This effect causes the edges of this weapon to ripple with force, dealing 16d6 force damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crushing",
+          "title": "Crushing",
+          "text": "Crushing 16"
+        }
+      ]
+    },
+    {
+      "text": "Magma Surge 7",
+      "tooltip": "Magma Surge 7: Strikes with this weapon have a small chance to call forth a surge of superheated magma, dealing 7d20+72 fire damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magma_Surge",
+          "title": "Magma Surge",
+          "text": "Magma Surge 7"
+        }
+      ]
+    },
+    {
+      "text": "Blunt Trauma",
+      "tooltip": "Blunt Trauma: This weapon is incredibly dense and delivers especially powerful blows. When rolling a 19 or 20 on a melee attack, your critical multiplier is increased by +1.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blunt_Trauma",
+          "title": "Blunt Trauma",
+          "text": "Blunt Trauma"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "page_title": "Item:Eternal Wand of Magic Missile",
+  "page_id": 10452,
+  "revision_id": 630626,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:00:06.640798+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Eternal wand\n  | name                     = Eternal Wand of Magic Missile\n  | umd                      = 20\n  | noumd                    = Wiz, Sor\n  | minlevel                 = 1\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | durability               = 25\n  | material                 = Wood\n  | hardness                 = 10\n  | cost                     = 500 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Endgame: Marguerite\n  | chest                    = end chest\n  | icon                     = Spell_magicmissile.jpg\n  | spell                    = Magic Missile\n  | casterlvl                = 3\n  | charge                   = 50\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Magic Missile|3|50|50}}\n* {{SpellPower|Potency|20}}\n  | description              = A thin rod of blackened wood containing charges of the Magic Missile spell. Eternal wands recharge over time if they are not actively being used.<br />\n  | picdesc                  = Eternal Wand of Magic Missile.png\n  | notes                    = Even though it says it recharges every day, the wand actually recovers 1 charge every 4 seconds making this wand have effectively infinite charges.<br />\n[[File:Eternal Wand of Magic Missile shown.jpg|350px]]\n}}",
+  "item_template": "Named item",
+  "material": "Wood",
+  "minimum_level": 1,
+  "enchantments": [
+    {
+      "text": "Magic Missile — 50 Charges (Recharged/Day:50)",
+      "tooltip": "Magic MissileCaster level: 3Charges: 50 (50/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magic_Missile",
+          "title": "Magic Missile",
+          "text": "Magic Missile"
+        }
+      ]
+    },
+    {
+      "text": "Potency +20",
+      "tooltip": "Potency +20: Passive: +20 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +20"
+        }
+      ]
+    }
+  ]
+}

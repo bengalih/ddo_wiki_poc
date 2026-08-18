@@ -1,0 +1,44 @@
+{
+  "page_title": "Item:Purple Dragon Knight's Armor",
+  "page_id": 39274,
+  "revision_id": 634073,
+  "revision_timestamp": "2025-04-22T02:57:07Z",
+  "fetched_at": "2026-08-17T22:40:48.901202+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Purple Dragon Knight&#39;s Armor\n  | type                     = Heavy Armor\n  | feat                     = Heavy\n  | race                     = Purple Dragon Knight\n  | ac                       = +19\n  | maxdexbonus              = 4\n  | acp                      = -4\n  | asf                      = 30%\n  | durability               = 262\n  | material                 = Dwarven Iron\n  | hardness                 = 26\n  | basevalue                = 6,060pp\n  | weight                   = 50 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 15\n  | quest                    = Advance to level 15\n  | end reward               = y\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{DR|3|-}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Purple Dragon Knight's Armor shown.jpg\n  | picdesc                  = Purple Dragon Knight's Armor.png\n  | description              = The armor of a Purple Dragon Knight of Cormyr, this armor commands the instant respect of those who recognize it.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Dwarven Iron",
+  "armor_type": "Heavy Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "DR 3/-",
+      "tooltip": "Damage Reduction 3/-: Reduces all physical damage by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    }
+  ]
+}

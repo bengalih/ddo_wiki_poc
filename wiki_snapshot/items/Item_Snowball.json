@@ -1,0 +1,30 @@
+{
+  "page_title": "Item:Snowball",
+  "page_id": 62837,
+  "revision_id": 668171,
+  "revision_timestamp": "2025-11-27T11:43:46Z",
+  "fetched_at": "2026-08-17T23:02:02.421074+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Snowball\n  | damage                   = [1] + 0 Bludgeon\n  | crit                     = 20 / x1\n  | type                     = Dart\n  | hand                     = Thrown\n  | class                    = Thrown\n  | prof                     = Simple\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 25\n  | material                 = Ice\n  | hardness                 = 6\n  | minlevel                 = 1\n  | revamped                 = Update 76\n  | quest                    = Risia Ice Games\n  | chest                    = \n  | basevalue                = 1cp\n  | weight                   = 0.50 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Burst|Icy}}\n  | pic                      = Snowball shown.jpg\n  | picdesc                  = Snowball.png\n  | description              = A well packed snowball with perfect heft.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dart",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "Icy Burst",
+      "tooltip": "Icy Burst: This weapon is sheathed in icy cold, and deals 1 to 6 cold damage each hit. Critical hits deal an additional 1 to 10 cold damage for weapons with a x2 critical multiplier, 2 to 20 for a x3 multiplier and 3 to 30 for a x4 multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Icy_Burst#Icy_Burst",
+          "title": "Icy Burst",
+          "text": "Icy Burst"
+        }
+      ]
+    }
+  ]
+}

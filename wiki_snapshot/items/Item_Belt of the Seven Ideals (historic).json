@@ -1,0 +1,58 @@
+{
+  "page_title": "Item:Belt of the Seven Ideals (historic)",
+  "page_id": 11356,
+  "revision_id": 628549,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:10:35.287916+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=Item}}\n{{Named item|Clothing\n  | name                     = Belt of the Seven Ideals\n  | type                     = Belt\n  | class                    = Clothing\n  | basevalue                = 4,920 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | reqtrait                 = Lawful\n  | UMD DC                   = 24\n  | durability               = 80\n  | material                 = Leather\n  | hardness                 = 17\n  | minlevel                 = 13\n  | bind                     = {{Bind|no}}\n  | quest                    = Gianthold Tor\n  | chest                    = Black Dragon chest\n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* '''Required Trait:''' [[Lawful]] ([[UMD|UMD: 24]])\n* {{SpellPower|Potency|48}}\n* {{Spellpen|ii}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This gaudy belt is adorned with seven faceted stones that span every color of the rainbow. Surely they have magical as well as aesthetic properties.\n  | pic                      = Belt Generic Seven.png\n  | picdesc                  = Belt of the Seven Ideals.png\n  | tips                     = In order to use this belt, the wearer must have a [[lawful]] [[alignment]] or a [[UMD]] of at least 24.\n}}",
+  "item_template": "History",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Required Trait: Lawful (UMD: 24)",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lawful",
+          "title": "Lawful",
+          "text": "Lawful"
+        },
+        {
+          "target": "/page/UMD",
+          "title": "UMD",
+          "text": "UMD: 24"
+        }
+      ]
+    },
+    {
+      "text": "Potency +48",
+      "tooltip": "Potency +48: Passive: +48 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +48"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration II",
+      "tooltip": "Spell Penetration II: Passive: +2 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration II"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Scuffed Scoundrel's Boots",
+  "page_id": 83167,
+  "revision_id": 634536,
+  "revision_timestamp": "2025-04-22T03:28:01Z",
+  "fetched_at": "2026-08-17T22:52:58.325408+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Scuffed Scoundrel's Boots\n  | type                     = Boots\n  | race                     = Tiefling Scoundrel\n  | basevalue                = 6005 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 15\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|Cha|+6}}\n* {{Speed|V}}\n* {{Feather Falling}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Boots Generic Gray.png\n  | picdesc                  = Scuffed Scoundrel's Boots.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Charisma +6",
+      "tooltip": "Charisma +6: This item makes the wearer have more flair, granting a +6 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +6"
+        }
+      ]
+    },
+    {
+      "text": "Speed V",
+      "tooltip": "Speed V: Passive: +25% enhancement bonus to movement speed, +5% enhancement bonus to melee and ranged attack speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Speed",
+          "title": "Speed",
+          "text": "Speed V"
+        }
+      ]
+    },
+    {
+      "text": "Feather Falling",
+      "tooltip": "Feather Falling: This item is engraved with feathers and bestows a powerful magical effect. Whenever the wearer begins to fall from any height, this effect slows the descent dramatically, causing the wearer to fall like a feather.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feather_Falling",
+          "title": "Feather Falling",
+          "text": "Feather Falling"
+        }
+      ]
+    }
+  ]
+}

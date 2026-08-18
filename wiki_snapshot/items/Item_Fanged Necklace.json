@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Fanged Necklace",
+  "page_id": 80850,
+  "revision_id": 630729,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:02:18.993762+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Fanged Necklace\n  | minlevel                 = 6\n  | type                     = Necklace\n  | race                     = \n  | slot                     = Neck\n  | bind                     = {{Bind|BTA|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 26\n  | cost                     = 2,401 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | released                 = Update 47\n  | revamped                 = <!-- Update ## -->\n  | quest                    = The Promise of Fire<!-- *Required. Use only one of the following 3 fields to go with this, leave others blank! -->\n  | end reward               = <!-- Any 1 of these 3 required. Leave blank if not used-->\n  | turn in                  = <!-- Leave blank if not used-->\n  | chest                    = end chest<!-- Leave blank if not used-->\n  | enhancements             = \n* {{Druidic|Survival Mastery}}\n* {{Stat|Strength|4}}\n* {{Speed|16}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = The fangs on this necklace are actually made of what appears to be quartz.\n  | pic                      = QuestionOrb.png\n  | picdesc                  = Fanged Necklace.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "Druidic Survival Mastery",
+      "tooltip": "Druidic Survival Mastery: While in Wild Shape, you receive a Primal bonus to damage equal to half the number of Wilderness Lore feats you have.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Druidic_Survival_Mastery",
+          "title": "Druidic Survival Mastery",
+          "text": "Druidic Survival Mastery"
+        }
+      ]
+    },
+    {
+      "text": "Strength +4",
+      "tooltip": "Strength +4: This item gives the wearer the power of Ogre Strength, granting a +4 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +4"
+        }
+      ]
+    },
+    {
+      "text": "Speed +16%",
+      "tooltip": "Speed +16%: +16% enhancement bonus to movement speed, 5% bonus to attack speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Speed",
+          "title": "Speed",
+          "text": "Speed +16%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

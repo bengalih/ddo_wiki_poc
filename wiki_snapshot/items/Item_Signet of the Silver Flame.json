@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Signet of the Silver Flame",
+  "page_id": 10190,
+  "revision_id": 634763,
+  "revision_timestamp": "2025-04-22T03:43:09Z",
+  "fetched_at": "2026-08-17T22:58:46.699357+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Signet of the Silver Flame\n  | minlevel                 = 7\n  | type                     = Ring\n  | slot                     = Finger\n  | durability               = 90\n  | material                 = Gold\n  | hardness                 = 9\n  | bind                     = {{Bind|BtC|boa}}\n  | basevalue                = 3,620 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Necropolis\n  | turn in                  = [[Dark Scarab Powder|Dark Scarab Powder]]\n  | mythic                   = no\n  | enhancements             = \n* {{Guard|Undead}}\n* {{Stat|INT|4}}\n* {{Stat|CHA|4}}\n  | description              = This ring is enscribed with a series of arcane runes interwoven with symbols of the Silver Flame.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Signet of the Silver Flame.png\n}}\n[[Category:Necropolis_Scarab_collectable]]",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Undead Guard",
+      "tooltip": "Undead Guard: This armor burns those Undead that attack the wearer, causing 3d8 Good damage on a successful melee attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Undead_Guard",
+          "title": "Undead Guard",
+          "text": "Undead Guard"
+        }
+      ]
+    },
+    {
+      "text": "Intelligence +4",
+      "tooltip": "Intelligence +4: This item focuses the power of the wearer's mind, granting a +4 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +4"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +4",
+      "tooltip": "Charisma +4: This item makes the wearer have more flair, granting a +4 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +4"
+        }
+      ]
+    }
+  ]
+}

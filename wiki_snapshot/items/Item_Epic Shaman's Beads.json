@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Epic Shaman's Beads",
+  "page_id": 11986,
+  "revision_id": 689830,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:55:35.804755+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Epic Shaman's Beads\n  | type                     = Necklace\n  | minlevel                 = 20\n  | slot                     = Neck\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 100\n  | material                 = Steel\n  | hardness                 = 19\n  | basevalue                = 8,105pp\n  | weight                   = 0.10 lbs\n  | quest                    = Altar of Epic Rituals\n  | chest                    = {{Item|Shaman's Beads}}\n  | released                 = Update 6\n  | revamped                 = Update 80\n  | epic                     = Shaman's Beads\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CHA|+9}}\n* {{Spell Focus|Evocation|+6}}\n* {{Shield Bonus|9}}\n* {{Efficient Metamagic|Maximize|2}}\n* {{Augment|Yellow}}\n* {{Augment|Colorless}}\n* {{Named item sets|Epic Shaman's Fury}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Shaman's Beads\n  | description              = Favored by Drow shamans, necklaces such as this one are a powerful aid to spells in combat.\n  | pic                      = Necklace Generic Beads.png\n  | picdesc                  = Epic Shaman's Beads.png‎\n  | tips                     = \n}}\n[[Category:The Red Fens epic items]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Charisma +9",
+      "tooltip": "Charisma +9: This item makes the wearer have more flair, granting a +9 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +9"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus +6",
+      "tooltip": "Evocation Focus +6: +6 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus +6"
+        }
+      ]
+    },
+    {
+      "text": "Shield +9",
+      "tooltip": "Shield +9: While this item is equipped, you are partially protected by a field of magical force which can deflect enemy attacks. This item provides a +9 Shield bonus to Armor Class. It does not stack with an equipped shield.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bonus",
+          "title": "Shield Bonus",
+          "text": "Shield +9"
+        }
+      ]
+    },
+    {
+      "text": "Efficient Metamagic - Maximize II",
+      "tooltip": "Efficient Metamagic - Maximize II: The additional spell point cost for using the Maximize Metamagic feat is reduced by 4 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Maximize II"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Epic Shaman's Fury",
+      "tooltip": "Epic Shaman's Fury: 2 Pieces Equipped:+4% Artifact bonus to Fire, Cold, Electric, and Acid Spellcrit Chance+20 Artifact bonus to Fire, Cold, Electric, and Acid Spellpower",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Epic_Shaman's_Fury",
+          "title": "Named item sets",
+          "text": "Epic Shaman's Fury"
+        }
+      ]
+    }
+  ]
+}

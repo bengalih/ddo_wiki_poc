@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Teraza's Perfect Sight",
+  "page_id": 12887,
+  "revision_id": 635267,
+  "revision_timestamp": "2025-04-22T04:16:29Z",
+  "fetched_at": "2026-08-17T23:11:39.432003+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Teraza's Perfect Sight\n  | type                     = Helm\n  | class                    = Clothing\n  | slot                     = Head\n  | durability               = 140\n  | material                 = Steel\n  | hardness                 = 15\n  | minlevel                 = 13\n  | bind                     = {{Bind|BtA|BoA}}\n  | basevalue                = 5,210pp\n  | weight                   = 0.10 lbs\n  | revamped                 = Update 59\n  | quest                    = Cauldron of Sora Katra\n  | chest                    = Upgrade of [[Teraza's Sight]], a [[Mark of Tzaryan Rrac]], and a [[Mark of Sheshka]].\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|WIS|7}}\n* {{Skills|Heal|15}}\n* {{True Seeing}}\n* {{Save|Reflex|7}}\n* {{Augment|Green}}\n* {{Named item sets|Wrath of Sora Kell}}\n  | description              = This crown, said to have been originally crafted for the hag queen Sora Teraza, has been upgraded. It bestows its wearer with great wisdom, and the ability to see things as they truly are.\n  | pic                      = Mystic Band shown.jpg\n  | picdesc                  = Terazas Perfect Sight.png\n  | tips                     = Crafted from [[Teraza's Sight]], a [[Mark of Tzaryan Rrac]], and [[Mark of Sheshka]] in the [[Cauldron of Sora Katra]]\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Wisdom +7",
+      "tooltip": "Wisdom +7: This item makes the wearer more in tune with her surroundings, granting a +7 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +7"
+        }
+      ]
+    },
+    {
+      "text": "Heal +15",
+      "tooltip": "Heal +15: Passive: +15 Competence bonus to the Heal skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heal_(skill)",
+          "title": "Heal (skill)",
+          "text": "Heal +15"
+        }
+      ]
+    },
+    {
+      "text": "True Seeing",
+      "tooltip": "True Seeing: Passive: You gain the benefit of the spell True Seeing.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/True_Seeing_(enchantment)",
+          "title": "True Seeing (enchantment)",
+          "text": "True Seeing"
+        }
+      ]
+    },
+    {
+      "text": "Reflex Save +7",
+      "tooltip": "Reflex Save +7: This item gives a +7 Resistance bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save +7"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Wrath of Sora Kell",
+      "tooltip": "Wrath of Sora Kell: 3 Pieces Equipped:+20 Artifact bonus to Universal Spell Power+5 Artifact bonus to Physical Resistance Rating+3 Artifact bonus to Hit and Damage+1 Artifact bonus to Imbue Dice",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Wrath_of_Sora_Kell",
+          "title": "Named item sets",
+          "text": "Wrath of Sora Kell"
+        }
+      ]
+    }
+  ]
+}

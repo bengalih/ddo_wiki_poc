@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Shadow Sight",
+  "page_id": 39596,
+  "revision_id": 634583,
+  "revision_timestamp": "2025-04-22T03:31:09Z",
+  "fetched_at": "2026-08-17T22:54:06.320890+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Shadow Sight\n  | type                     = Goggles\n  | race                     = Shadar-kai\n  | slot                     = Eye\n  | durability               = 160\n  | material                 = Glass\n  | hardness                 = 20\n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | food                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|spot|13}}\n* {{Skills|search|13}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Shadow Sight shown.png\n  | picdesc                  = Shadow Sight.png\n  | description              = Night can be an ally to those who remain unhindered by her shadow.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Glass",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Spot +13",
+      "tooltip": "Spot +13: Passive: +13 Competence bonus to the Spot skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spot",
+          "title": "Spot",
+          "text": "Spot +13"
+        }
+      ]
+    },
+    {
+      "text": "Search +13",
+      "tooltip": "Search +13: Passive: +13 Competence bonus to the Search skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Search",
+          "title": "Search",
+          "text": "Search +13"
+        }
+      ]
+    }
+  ]
+}

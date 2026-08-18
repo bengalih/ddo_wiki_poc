@@ -1,0 +1,42 @@
+{
+  "page_title": "Item:Battleworn Sword",
+  "page_id": 7848,
+  "revision_id": 628500,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:09:41.917797+00:00",
+  "categories": [],
+  "wikitext": "{{History|Item}}\n{{Named item|Weapon\n  | name                     = Battleworn Sword\n  | type                     = Great Sword\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = Two-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | damage                   = [2d6] + 1 Slash, Magic\n  | crit                     = 19-20 / x2\n  | basevalue                = 205 pp\n  | weight                   = 8 lbs\n  | durability               = 110\n  | material                 = Steel\n  | hardness                 = 11\n  | minlevel                 = 0\n  | bind                     = {{Bind|no}}\n  | quest                    = The Crypt of Gerard Dryden\n  | chest                    = old End Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|1}}\n* {{Ghost Touch}}\n  | description              = This sword once belonged to [[Gerard Dryden]], and has seen much use.\n  | pic                      = Battleworn Sword shown.jpg\n  | picdesc                  = Battleworn Sword.png\n  | tips                     = Since [[U45|Update 45]] this item no longer drops in-game.\n}}",
+  "item_template": "History",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Ghost Touch",
+      "tooltip": "Ghost Touch: An incorporeal creature's 50% chance to avoid damage does not apply to attacks with ghost touch weapons.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghost_Touch",
+          "title": "Ghost Touch",
+          "text": "Ghost Touch"
+        }
+      ]
+    }
+  ]
+}

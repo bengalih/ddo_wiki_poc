@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Abyssal Arbalest",
+  "page_id": 126649,
+  "revision_id": 700101,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:29:03.119439+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Abyssal Arbalest\n  | damage                   = 6[1d10+2] + 16 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Repeating Heavy Crossbow\n  | class                    = Ranged\n  | prof                     = Exotic\n  | hand                     = Ranged\n  | damagemod                = DEX\n  | attackmod                = DEX\n  | durability               = 440\n  | material                 = Steel\n  | hardness                 = 45\n  | minlevel                 = 35\n  | basevalue                = 14,040pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 81\n  | quest                    = A Blood Pact\n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|w|16}}\n* {{Fiery|7}}\n* {{Toxic|16}}\n* {{Disintegrate|7}}\n* {{Vampirism|3}}\n* {{Augment|Orange}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Corruption seeps into your mind as your grip this crossbow.\n  | pic                      = Abyssal Arbalest shown.jpg\n  | picdesc                  = Legendary Abyssal Arbalest.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Repeating Heavy Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 35,
+  "enchantments": [
+    {
+      "text": "+16 Enhancement Bonus",
+      "tooltip": "+16 Enhancement Bonus: +16 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+16 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fiery 7",
+      "tooltip": "Fiery 7: This effect causes the edges of this weapon to burn with enchanted flames, dealing 7d6 Fire damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fiery",
+          "title": "Fiery",
+          "text": "Fiery 7"
+        }
+      ]
+    },
+    {
+      "text": "Toxic 16",
+      "tooltip": "Toxic 16: This effect causes the edges of this weapon to drip with a vile venom, dealing 16d6 poison damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Toxic",
+          "title": "Toxic",
+          "text": "Toxic 16"
+        }
+      ]
+    },
+    {
+      "text": "Disintegrate 7",
+      "tooltip": "Disintegrate 7: Strikes with this weapon have a small chance to call forth a strike of entropic force, dealing 7d20+72 untyped damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disintegrate",
+          "title": "Disintegrate",
+          "text": "Disintegrate 7"
+        }
+      ]
+    },
+    {
+      "text": "Vampirism 3",
+      "tooltip": "Vampirism 3: This weapon thirsts for the blood of your enemies, healing you for +3d2 hit points with each hit.Note: internal cooldown of 1 second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Vampirism 3"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

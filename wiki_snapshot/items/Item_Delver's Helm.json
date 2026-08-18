@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Delver's Helm",
+  "page_id": 56426,
+  "revision_id": 629440,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:33:08.503724+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Delver's Helm\n  | type                     = Helm\n  | race                     = Deep Gnome\n  | slot                     = Head\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6010 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{ProtectionBonus|5}}\n* {{HealingAmp|20|h|exceptional}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Delver's Helm shown.jpg\n  | picdesc                  = Delver's Helm.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Protection +5",
+      "tooltip": "Protection +5: Passive: +5 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +5"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Healing Amplification +20",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +20 (Exceptional bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Exceptional Healing Amplification +20"
+        }
+      ]
+    }
+  ]
+}

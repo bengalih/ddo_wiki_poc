@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Legendary Crippling Cleaver",
+  "page_id": 101546,
+  "revision_id": 631999,
+  "revision_timestamp": "2025-04-22T00:35:05Z",
+  "fetched_at": "2026-08-17T21:38:56.010375+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Crippling Cleaver\n  | type                     = Falchion\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | damage                   = 5.20[2d4+4] + 15 Slash, Magic\n  | crit                     = 18-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR \n  | durability               = 400\n  | material                 = Steel\n  | hardness                 = 41\n  | minlevel                 = 31\n  | basevalue                = 12,407pp 5gp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 59\n  | quest                    = Cauldron of Sora Katra\n  | chest                    = upgraded version of {{Item|Legendary Bloody Cleaver}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|15}}\n* {{Bleeding|6}}\n* {{Bane|Humanoid|6}}\n* {{Feeding|30}}\n* {{Crippling}}\n* {{Augment|Red}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This falchion, infused with the power to draw a living enemy's blood, can now cripple an enemy and hamper its movements.\n  | pic                      = Bloody Cleaver shown.jpg\n  | picdesc                  = Legendary Crippling Cleaver.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Falchion",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 31,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Bleeding 6",
+      "tooltip": "Bleeding 6: This weapon is wickedly curved, with spines and hooks meant to cause damage to those with flesh. This weapon does 6d8 bleeding damage to those that are vulnerable to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleeding",
+          "title": "Bleeding",
+          "text": "Bleeding 6"
+        }
+      ]
+    },
+    {
+      "text": "Humanoid Bane 6",
+      "tooltip": "Humanoid Bane 6: This weapon is attuned specifically to those that walk among us, dealing an additional 6d10 bane damage vs. Humanoids.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Humanoid Bane 6"
+        }
+      ]
+    },
+    {
+      "text": "Feeding 30",
+      "tooltip": "Feeding 30: On Vorpal Hit: Your target incurs one Negative Level, and you gain +30 temporary hit points. (These Temporary Hit Points last for one minute, or until used to negate incoming damage.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feeding",
+          "title": "Feeding",
+          "text": "Feeding 30"
+        }
+      ]
+    },
+    {
+      "text": "Crippling",
+      "tooltip": "Crippling: A crippling weapon is infused with binding power so that when a target is critically hit their movement is slowed by half.Note: Real slowdown is only 25%",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crippling",
+          "title": "Crippling",
+          "text": "Crippling"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

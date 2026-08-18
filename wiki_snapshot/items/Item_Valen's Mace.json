@@ -1,0 +1,30 @@
+{
+  "page_title": "Item:Valen's Mace",
+  "page_id": 9545,
+  "revision_id": 640779,
+  "revision_timestamp": "2025-05-17T05:54:29Z",
+  "fetched_at": "2026-08-17T23:23:12.728677+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Valen’s Mace\n  | type                     = Heavy Mace\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | minlevel                 = 0\n  | reqtrait                 = \n  | UMD DC                   = \n  | bind                     = {{Bind|BtC|boa}}\n  | damage                   = [1d8] + 0 Bludgeon\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 50\n  | material                 = Steel \n  | hardness                 = 11\n  | basevalue                = 201pp 2gp\n  | weight                   = 3 lbs\n  | quest                    = The Collaborator\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Bane|Monstrous Humanoid|lesser}}\n  | description              = This mace once belonged to Valen, a cleric of the Silver Flame. It is said to be quite potent against the Sahuagin.\n  | pic                      = Valen's Mace shown.jpg\n  | picdesc                  = Valen's Mace.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Heavy Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "Lesser Monstrous Humanoid Bane",
+      "tooltip": "Lesser Monstrous Humanoid Bane: A bane weapon excels at attacking one type or subtype of creature. Against Monstrous Humanoids, this weapon's effective enhancement bonus is +1 better than its normal enhancement bonus. It deals an extra 1 to 6 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Lesser Monstrous Humanoid Bane"
+        }
+      ]
+    }
+  ]
+}

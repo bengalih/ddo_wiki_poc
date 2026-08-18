@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Thunder-Forged Handwraps",
+  "page_id": 45253,
+  "revision_id": 672425,
+  "revision_timestamp": "2026-01-25T17:33:16Z",
+  "fetched_at": "2026-08-17T23:19:09.776886+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Thunder-Forged Handwraps\n  | sentience                = no\n  | damage                   = 3.40[1d6] + 9 Bludgeon, Silver, Adamantine, Mithral, Cold Iron, Magic, Byeshk\n  | crit                     = 20 / x2\n  | type                     = Handwrap\n  | hand                     = Simple\n  | class                    = Bludgeoning\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Exotic\n  | durability               = 340\n  | material                 = Adamantine\n  | hardness                 = 37\n  | minlevel                 = 22\n  | bind                     = {{Bind|BtC|BoE}}\n  | basevalue                = 8,803pp\n  | weight                   = 0.50 lbs\n  | quest                    = Magma Forge\n  | chest                    = Crafted from various ingredients\n  | released                 = Update 21\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|9}}\n* {{CraftingEffects|Thunder-Forged (Tier 0)}}\n* {{Augment|Orange}}\n  | crafting                 = Thunder-Forged\n  | craftingupgrade          = \n  | description              = Handwraps forged from metals long in proximity to dragons under Thunderholme.\n  | pic                      = Handwraps Generic.png\n  | picdesc                  = Thunder-Forged Handwraps.png\n  | tips                     = Turn-in:\n* {{DI|20}}\n* {{CoV|15}}\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Handwrap",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 22,
+  "enchantments": [
+    {
+      "text": "+9 Enhancement Bonus",
+      "tooltip": "+9 Enhancement Bonus: +9 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+9 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Thunder-Forged (Tier 0)",
+      "tooltip": "Thunder-Forged (Tier 0): This weapon has been made from Thunder-Forged Alloys in Thunderholme. Reforging the weapon with certain ingredients could unleash more power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Thunder-Forged",
+          "title": "Thunder-Forged",
+          "text": "Thunder-Forged (Tier 0)"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    }
+  ]
+}

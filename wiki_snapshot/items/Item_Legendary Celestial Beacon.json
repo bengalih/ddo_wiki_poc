@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Celestial Beacon",
+  "page_id": 70433,
+  "revision_id": 642632,
+  "revision_timestamp": "2025-05-24T01:06:01Z",
+  "fetched_at": "2026-08-17T21:36:47.764208+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Celestial Beacon\n  | damage                   = 4.80[1d6+2] + 15 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Simple\n  | durability               = 340\n  | material                 = Steel\n  | hardness                 = 39\n  | minlevel                 = 29\n  | released                 = Update 39\n  | revamped                 = Update 50\n  | quest                    = White Plume Mountain\n  | chest                    = Burket and Snarla's chest\n  | basevalue                = 11,600 pp 1 cp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|i|15|29}}\n* {{SpellPower|Radiance|142}}\n* {{Spelllore|Radiance|21}}\n* {{Bonus Turning|Hallowed|13}}\n* {{Magical Efficiency|10}}\n* {{Augment|Red}}\n  | pic                      = Barovian's Sceptre shown.jpg\n  | picdesc                  = Legendary Celestial Beacon.png\n  | description              = This sceptre radiates brilliant light. It's painful to look at, but at least you'll have trouble losing it.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +29",
+      "tooltip": "Spellcasting Implement +29: Passive: +29 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +29"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Radiance +142",
+      "tooltip": "Radiance +142: Passive: +142 Equipment bonus to Light and Alignment Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiance_(spell_boost)",
+          "title": "Radiance (spell boost)",
+          "text": "Radiance +142"
+        }
+      ]
+    },
+    {
+      "text": "Radiance Lore +21%",
+      "tooltip": "Radiance Lore +21: Passive: Your Light and Aligned spells gain a 21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Radiance Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Hallowed +13",
+      "tooltip": "Hallowed: An item with this quality assists only wearers who have the ability to turn undead. Hallowed items provide an +13 Enhancement bonus to the maximum Hit Dice of undead turned.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hallowed",
+          "title": "Hallowed",
+          "text": "Hallowed +13"
+        }
+      ]
+    },
+    {
+      "text": "Magical Efficiency 10%",
+      "tooltip": "Magical Efficiency 10%: You take a 10% Enhancement discount to the Spell Point cost of your spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magical_Efficiency",
+          "title": "Magical Efficiency",
+          "text": "Magical Efficiency 10%"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

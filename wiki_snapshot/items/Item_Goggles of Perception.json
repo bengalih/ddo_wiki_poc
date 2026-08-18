@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Goggles of Perception",
+  "page_id": 11113,
+  "revision_id": 631182,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:13:11.833167+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Goggles of Perception\n  | type                     = Goggles\n  | class                    = Goggles\n  | slot                     = Eye\n  | durability               = 100 \n  | material                 = Leather\n  | hardness                 = 11\n  | basevalue                = 3,620 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 9 \n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Tempest's Spine\n  | chest                    = [[Inevitable]]'s chest\n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* {{Attack Bonus|2}}\n* {{Skills|Spot|10}}\n* {{Skills|Search|10}}\n* {{Augment|Colorless}}\n  | pic                      = Goggles Generic Brown.png\n  | picdesc                  = Goggles of Perception.png\n  | description              = These goggles sharpen its wearer's eyes, giving a bonus on search and spot skills.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Attack Bonus +2",
+      "tooltip": "Attack Bonus +2: Provides a +2 competence bonus to your attack rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Attack_bonus",
+          "title": "Attack bonus",
+          "text": "Attack Bonus +2"
+        }
+      ]
+    },
+    {
+      "text": "Spot +10",
+      "tooltip": "Spot +10: Passive: +10 Competence bonus to the Spot skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spot",
+          "title": "Spot",
+          "text": "Spot +10"
+        }
+      ]
+    },
+    {
+      "text": "Search +10",
+      "tooltip": "Search +10: Passive: +10 Competence bonus to the Search skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Search",
+          "title": "Search",
+          "text": "Search +10"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

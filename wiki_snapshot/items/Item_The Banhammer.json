@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:The Banhammer",
+  "page_id": 67884,
+  "revision_id": 669994,
+  "revision_timestamp": "2025-12-17T16:16:32Z",
+  "fetched_at": "2026-08-17T23:12:20.867591+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = The Banhammer\n  | damage                   = 2.50[1d8] + 5 Bludgeon, Magic\n  | crit                     = 20 / x3\n  | type                     = War Hammer\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 15\n  | durability               = 215\n  | material                 = Wood\n  | hardness                 = 25\n  | cost                     = 6001pp 2gp\n  | weight                   = 5 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 37\n  | quest                    = Anniversary Party\n  | chest                    = \n  | end reward               = \n  | turn in                  = {{U30 ingredient|40}}\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Vorpal|improved}}\n* {{Banishing|improved}}\n* {{Smiting|improved}}\n* {{Disruption|improved}}\n* {{Anchoring}}\n* {{Augment|red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = You have received an infraction.<br/>-------<br/>Your very existence is being called into question.<br/>-------<br/><br/>Serious infractions will never expire.\n  | pic                      = The Banhammer shown.jpg\n  | picdesc                  = The Banhammer.png\n  | tips                     = This reward was introduced with the [[12th Anniversary]] (February 2018).\n\nFor characters that can afford to pass up their main hand weapon, this item is a much more convenient alternative to the [[Boots of Anchoring]] to avoid being banished from Shavarath in the end fight of [[Tower of Despair]], as it is significantly easier to obtain.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "War Hammer",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Improved Vorpal",
+      "tooltip": "Improved Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 1500 Hit Points, they are instantly slain. If your target has above 1500 Hit Points, they take 150 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Improved_Vorpal",
+          "title": "Vorpal",
+          "text": "Improved Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Improved Banishing",
+      "tooltip": "Improved Banishing: On Hit: 4 to 24 Bane damage to Outsiders.On Vorpal Hit: If an outsider struck by this weapon has fewer than 1500 Hit Points, it is instantly slain. If the outsider has above 1500 Hit Points, it takes 150 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Banishing#Improved_Banishing",
+          "title": "Banishing",
+          "text": "Improved Banishing"
+        }
+      ]
+    },
+    {
+      "text": "Improved Smiting",
+      "tooltip": "Improved Smiting: On Hit: 4 to 24 Bane damage to Constructs.On Vorpal Hit: If a construct struck by this weapon has fewer than 1500 Hit Points, it is instantly slain. If the construct has above 1500 Hit Points, it takes 150 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Smiting#Improved_Smiting",
+          "title": "Smiting",
+          "text": "Improved Smiting"
+        }
+      ]
+    },
+    {
+      "text": "Improved Disruption",
+      "tooltip": "Improved Disruption: On Hit: 4 to 24 Bane damage to Undead.On Vorpal Hit: If an undead struck by this weapon has fewer than 1500 Hit Points, it is instantly slain. If the undead has above 1500 Hit Points, it takes 150 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disruption#Improved_Disruption",
+          "title": "Disruption",
+          "text": "Improved Disruption"
+        }
+      ]
+    },
+    {
+      "text": "Anchoring",
+      "tooltip": "Anchoring: This item grants its wearer immunity to effects that are time based or involve planar displacement.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Anchoring",
+          "title": "Anchoring",
+          "text": "Anchoring"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

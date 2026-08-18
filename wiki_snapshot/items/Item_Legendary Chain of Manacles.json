@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Legendary Chain of Manacles",
+  "page_id": 88741,
+  "revision_id": 631923,
+  "revision_timestamp": "2025-04-22T00:30:21Z",
+  "fetched_at": "2026-08-17T21:36:55.159447+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Legendary Chain of Manacles\n  | minlevel                 = 29\n  | type                     = Belt\n  | race                     = \n  | slot                     = Waist\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 390\n  | material                 = Steel\n  | hardness                 = 49\n  | cost                     = 11,601 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 49\n  | quest                    = Eye Know Whodunnit\n  | end reward               = \n  | turn in                  = \n  | chest                    = End chest\n  | mythic                   = yes\n  | enhancements             = \n* {{HealingAmp|53|R}}\n* {{Hp|Vitality|44}}\n* {{Fortification|142}}\n* {{Sheltering|33}}\n* {{Augment|Green}}\n  | crafting                 = \n  | description              = This belt is made of several interlocking pairs of magical manacles, each containing their own subtle, lawful magic.\n  | pic                      = \n  | picdesc                  = Legendary Chain of Manacles.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Repair Amplification +53",
+      "tooltip": "Repair Amplification: This effect amplifies all incoming repair healing by +53 (Enhancement bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Repair_Amplification",
+          "title": "Repair Amplification",
+          "text": "Repair Amplification +53"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +44",
+      "tooltip": "Vitality +44: Passive: +44 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +44"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +142%",
+      "tooltip": "Fortification +142%: +142% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +142%"
+        }
+      ]
+    },
+    {
+      "text": "Sheltering +33",
+      "tooltip": "Sheltering +33: +33 Enhancement bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Sheltering +33"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Belt Boost +1 or +3",
+      "tooltip": "Mythic Belt Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Belt Boost"
+        }
+      ]
+    }
+  ]
+}

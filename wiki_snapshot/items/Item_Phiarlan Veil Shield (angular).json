@@ -1,0 +1,30 @@
+{
+  "page_title": "Item:Phiarlan Veil Shield (angular)",
+  "page_id": 25221,
+  "revision_id": 677543,
+  "revision_timestamp": "2026-03-04T06:33:02Z",
+  "fetched_at": "2026-08-17T22:37:41.835249+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Large\n  | prof                     = General\n  | minlevel                 = 0\n  | bind                     = {{Bind|btc}}\n  | sb                       = +6\n  | maxdexbonus              = None\n  | dr                       = 6\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = [1d6] + 3 \n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | durability               = 165\n  | material                 = Steel\n  | hardness                 = 19\n  | basevalue                = 8102pp\n  | weight                   = 15 lbs\n  | quest                    = DDO Store\n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|s|3}}\n  | crafting                 = Stone of Change\n  | craftingupgrade          = Enhanced Phiarlan Veil Shield (angular)\n  | description              = This shield has a mysterious vine motif that draws one in and hints at House Phiarlan's secretive ways.\n  | pic                      = Phiarlan Veil Shield (angular) shown.jpg\n  | picdesc                  = Phiarlan Veil Shield (angular).png\n  | tips                     = You can change the appearance of the {{Item|Battered Phiarlan Shield (angular)}} with the Phiarlan Veil Shield (round) by placing both shields into the [[Stone of Change]], combine and you'll have the {{Item|Enhanced Phiarlan Veil Shield (angular)}}.\n}}\n[[Category:DDO Store items]]\n[[Category:Cosmetic items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Steel",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    }
+  ]
+}

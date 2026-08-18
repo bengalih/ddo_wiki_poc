@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:The Legendary Gavel of Daanvi",
+  "page_id": 98787,
+  "revision_id": 635374,
+  "revision_timestamp": "2025-04-22T04:23:37Z",
+  "fetched_at": "2026-08-17T23:14:54.907433+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = The Legendary Gavel of Daanvi\n  | minlevel                 = 31\n  | type                     = Heavy Mace\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damage                   = 5.20[1d8+2] + 15 Bludgeon, Lawful, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 370\n  | material                 = Steel\n  | hardness                 = 41\n  | cost                     = 12,401 pp 2 gp\n  | weight                   = 8 lbs\n  | released                 = Update 57\n  | quest                    = Order in the Court!\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Axiomatic|6}}\n* {{Bane|Chaotic Outsider|6}}\n* {{Seeker|14}}\n* {{Favored Weapon}}\n* {{Augment|Orange}}\n* {{Augment|Red}}\n  | crafting                 = \n  | description              = Bring the law to your battlefield!\n  | pic                      = The Gavel of Daanvi shown.jpg\n  | picdesc                  = The Legendary Gavel of Daanvi.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Heavy Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 31,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Axiomatic 6",
+      "tooltip": "Axiomatic 6: On Hit: 6 to 24 Law damage. Law-aligned creatures are immune to this effect.Penalty: If equipped by a Chaotic user, they receive 1 Negative Level for as long as this item is equipped.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Axiomatic 6"
+        }
+      ]
+    },
+    {
+      "text": "Chaotic Outsider Bane 6",
+      "tooltip": "Chaotic Outsider Bane 6: This weapon is designed specifically to hunt the unnatural that does not belong, dealing an additional 6d10 bane damage vs. Chaotic Outsiders.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Chaotic Outsider Bane 6"
+        }
+      ]
+    },
+    {
+      "text": "Seeker +14",
+      "tooltip": "Seeker +14: Provides a +14 Enhancement bonus to confirm critical hits, and a +14 Enhancement bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Seeker +14"
+        }
+      ]
+    },
+    {
+      "text": "Favored Weapon",
+      "tooltip": "Favored Weapon: This weapon has a divine attunement and gains bonuses as if it were a Favored Weapon regardless of your Deity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Favored_weapon",
+          "title": "Favored weapon",
+          "text": "Favored Weapon"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

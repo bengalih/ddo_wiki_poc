@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Kardin's Eye (level 14)",
+  "page_id": 35378,
+  "revision_id": 649318,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:26:19.206888+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = {{Item|Kardin's Eye}}\n  | type                     = Trinket\n  | slot                     = Trinket\n  | durability               = 150\n  | material                 = Leather \n  | hardness                 = 24\n  | basevalue                = 5,620 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 14\n  | bind                     = {{Bind|BtC|boe}}\n  | released                 = Update 17\n  | quest                    = The Prison of the Planes \n  | chest                    = Xoriat room's chest (Heroic Elite)\n  | enhancements             = \n* {{Resistance|5}}\n* {{Heightened Awareness|4}}\n  | description              = One of the still living eye stalks from the Beholder Kardin. It wriggles in your hand and turns to gaze at danger.\n  | pic                      = Trinket Generic Stalk.png\n  | picdesc                  = Kardin's Eye (Level 14).png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "Resistance +5",
+      "tooltip": "Resistance +5: Passive: +5 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +5"
+        }
+      ]
+    },
+    {
+      "text": "Heightened Awareness 4",
+      "tooltip": "Heightened Awareness 4: This item helps you to quickly read situations with sharpness and clarity, allowing you to predict actions before they occur. You gain a +4 Insight bonus to AC.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heightened_Awareness",
+          "title": "Heightened Awareness",
+          "text": "Heightened Awareness 4"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Trinket Boost +1 or +3",
+      "tooltip": "Mythic Trinket Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Trinket Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "page_title": "Item:Legendary Concentrated Chaos",
+  "page_id": 78327,
+  "revision_id": 690673,
+  "revision_timestamp": "2026-06-30T16:51:40Z",
+  "fetched_at": "2026-08-17T21:38:15.821102+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Legendary Concentrated Chaos\n  | type                     = Orb\n  | prof                     = Magical Training\n  | minlevel                 = 29\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = 0\n  | maxdexbonus              = \n  | dr                       = \n  | acp                      = \n  | asf                      = \n  | dmg                      = [1d4] + 0 \n  | dmgtype                  = Force\n  | dmgmod                   = CHA\n  | attmod                   = INT\n  | crit                     = 19-20 / x2\n  | durability               = 355\n  | material                 = Gem\n  | hardness                 = 49\n  | basevalue                = 11,700 pp\n  | weight                   = 3 lbs\n  | released                 = Update 43\n  | quest                    = Finding Dorris\n  | chest                    = End Chest\n  | turn in                  = \n  | enhancements             = \n* {{Enhancement bonus|o|15}}\n* {{Nearly Finished|{{Stat|Int|3|Quality|}}|{{Stat|Wis|3|Quality|}}|{{Stat|Cha|3|Quality|}}}}\n* {{Spell Focus|Enchantment|3|Insight}}\n* {{Spell Focus|Necromancy|3|Insight}}\n* {{Absorption|Chaos|22}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Sow dissension in their ranks.\n  | pic                      = Concentrated Chaos shown.jpg\n  | picdesc                  = Legendary Concentrated Chaos.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Magical Training",
+  "material": "Gem",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Orb Bonus",
+      "tooltip": "+15 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +15 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Orb Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Nearly Finished",
+      "tooltip": "Nearly Finished: This item isn't quite finished, but it's only a step away from completion. Bring it to a Cannith Reforging Station and combine it with melted materials to restore this item to its full potential.",
+      "children": [
+        {
+          "text": "One of the following:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Quality Intelligence +3",
+              "tooltip": "Quality Intelligence +3: This item focuses the power of the wearer's mind, granting a +3 Quality bonus to Intelligence.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Intelligence",
+                  "title": "Intelligence",
+                  "text": "Quality Intelligence +3"
+                }
+              ]
+            },
+            {
+              "text": "Quality Wisdom +3",
+              "tooltip": "Quality Wisdom +3: This item makes the wearer more in tune with her surroundings, granting a +3 Quality bonus to Wisdom.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Wisdom",
+                  "title": "Wisdom",
+                  "text": "Quality Wisdom +3"
+                }
+              ]
+            },
+            {
+              "text": "Quality Charisma +3",
+              "tooltip": "Quality Charisma +3: This item makes the wearer have more flair, granting a +3 Quality bonus to Charisma.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Charisma",
+                  "title": "Charisma",
+                  "text": "Quality Charisma +3"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Nearly_Finished",
+          "title": "Nearly Finished",
+          "text": "Nearly Finished"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Enchantment Focus +3",
+      "tooltip": "Insightful Enchantment Focus +3: +3 Insight bonus to the DC of Enchantment spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Enchantment Focus +3"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Necromancy Focus +3",
+      "tooltip": "Insightful Necromancy Focus +3: +3 Insight bonus to the DC of Necromancy spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Necromancy Focus +3"
+        }
+      ]
+    },
+    {
+      "text": "Chaos Absorption +22%",
+      "tooltip": "Chaos Absorption +22%: Passive: 22% Enhancement Bonus to Chaos Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Chaos Absorption +22%"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

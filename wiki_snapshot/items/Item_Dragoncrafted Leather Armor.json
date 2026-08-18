@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Dragoncrafted Leather Armor",
+  "page_id": 10302,
+  "revision_id": 629610,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:37:35.546843+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=item}}\n{{Named item|Armor\n  | name                     = Dragoncrafted Leather Armor\n  | type                     = Leather\n  | feat                     = Light\n  | race                     = \n  | minlevel                 = 10\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +8\n  | maxdexbonus              = 8\n  | asf                      = 10%\n  | durability               = 92\n  | material                 = Leather\n  | hardness                 = 14\n  | basevalue                = 3,601pp\n  | weight                   = 15 lbs\n  | quest                    = Dragoncraft Armor\n  | chest                    = \n  | end reward               = \n  | turn in                  = 10 [[Ancient Dragon Relic]]s\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Skills|dd|10}}\n* {{Save|r|3}}\n* {{Skills|Spot|7}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Dragoncrafted Leather Armor shown.jpg\n  | picdesc                  = Dragoncrafted Leather Armor.png\n  | description              = Leather armor imbued with the power of the ancient dragons for the few humanoids they favored.\n  | notes                    = Turn in 10 [[Ancient Dragon Relic]]s to Singefur (now [[Sangefar]]) in [[Gianthold]].\n}}",
+  "item_template": "History",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Disable Device +10",
+      "tooltip": "Disable Device +10: Passive: +10 Competence bonus to the Disable Device skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disable_Device",
+          "title": "Disable Device",
+          "text": "Disable Device +10"
+        }
+      ]
+    },
+    {
+      "text": "Reflex Save +3",
+      "tooltip": "Reflex Save +3: This item gives a +3 Resistance bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save +3"
+        }
+      ]
+    },
+    {
+      "text": "Spot +7",
+      "tooltip": "Spot +7: Passive: +7 Competence bonus to the Spot skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spot",
+          "title": "Spot",
+          "text": "Spot +7"
+        }
+      ]
+    }
+  ]
+}

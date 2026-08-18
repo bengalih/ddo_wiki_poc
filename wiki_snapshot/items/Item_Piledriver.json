@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Piledriver",
+  "page_id": 8016,
+  "revision_id": 633964,
+  "revision_timestamp": "2025-04-22T02:49:35Z",
+  "fetched_at": "2026-08-17T22:38:02.365584+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Piledriver\n  | type                     = Maul\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | minlevel                 = 8\n  | reqtrait                 = \n  | UMD DC                   = \n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = 1.25[2d6] + 4 Bludgeon, Magic\n  | crit                     = 20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 165\n  | material                 = Steel \n  | hardness                 = 18\n  | basevalue                = 3,201pp 2gp\n  | weight                   = 10 lbs\n  | quest                    = Cult of the Six\n  | end reward               = yes\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement bonus|w|4}}\n* {{Stat|STR|2}}\n* {{cursed|DEX}}\n* {{Skills|bal|-5}}\n* {{Augment|Red}}\n  | description              = This heavy maul is unwieldy and crude, but it sure packs a wallop.\n  | pic                      = Piledriver shown.jpg\n  | picdesc                  = Piledriver.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Maul",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Strength +2",
+      "tooltip": "Strength +2: This item gives the wearer the power of Ogre Strength, granting a +2 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +2"
+        }
+      ]
+    },
+    {
+      "text": "Curse of Clumsiness",
+      "tooltip": "Curse of Clumsiness: Passive -1 Penalty to Dexterity. (The minimum level required to equip this item is lower than normal due to this curse.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cursed",
+          "title": "Cursed",
+          "text": "Curse of Clumsiness"
+        }
+      ]
+    },
+    {
+      "text": "Balance -5",
+      "tooltip": "Balance -5: Passive: -5 penalty to the Balance skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Balance",
+          "title": "Balance",
+          "text": "Balance -5"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

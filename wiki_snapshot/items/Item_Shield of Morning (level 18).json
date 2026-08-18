@@ -1,0 +1,186 @@
+{
+  "page_title": "Item:Shield of Morning (level 18)",
+  "page_id": 46825,
+  "revision_id": 649742,
+  "revision_timestamp": "2025-07-26T19:12:46Z",
+  "fetched_at": "2026-08-17T22:55:26.876699+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = {{Item|Shield of Morning}}\n  | type                     = Small\n  | prof                     = General\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoE}}\n  | sb                       = +9\n  | maxdexbonus              = \n  | dr                       = 8\n  | acp                      = 0\n  | asf                      = 0\n  | dmg                      = 2.60[1d6] + 4\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | durability               = 300\n  | material                 = Magesteel\n  | hardness                 = 43\n  | basevalue                = 7,604pp\n  | weight                   = 6 lbs\n  | released                 = Update 19\n  | quest                    = Breaking the Ranks\n  | chest                    = End chest (Heroic Hard)\n  | end reward               = \n  | turn in                  = \n  | enhancements             = \n* {{Sunburst|Shield of Lesser}}\n* {{Enhancement bonus|s|4}}\n* {{Guard|Solar|III}}\n* One of the following:\n** {{Axeblock|IV}}\n** {{Bashing|IV}}\n** {{Deathblock|IV}}\n** {{Hammerblock|IV}}\n** {{Riposte|IV}}\n** {{Spearblock|IV}}\n** {{Hp|Vitality|20}}\n* {{Augment|blue}}\n* {{Augment|red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Towards a brighter future.\n  | pic                      = Shield of Morning shown.jpg\n  | picdesc                  = Shield of Morning (Level 18).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Magesteel",
+  "item_type": "Small Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Shield of Lesser Sunburst",
+      "tooltip": "Shield of Lesser Sunburst: This item blazes with the eternal fury at the heart of a sun. Occasionally, this power comes to the surface, unleashing a nova of light which will blind the struck enemy, dealing severe light damage to it and any other nearby foes.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sun_Burst#Shield_of_Lesser_Sunburst",
+          "title": "Sun Burst",
+          "text": "Shield of Lesser Sunburst"
+        }
+      ]
+    },
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Solar Guard III",
+      "tooltip": "Solar Guard III: When Hit in Melee: Deals 3 to 12 Light damage to your attacker.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Solar_Guard",
+          "title": "Solar Guard",
+          "text": "Solar Guard III"
+        }
+      ]
+    },
+    {
+      "text": "One of the following:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "Axeblock IV",
+          "tooltip": "Axeblock IV: Passive: Reduces physical damage taken by 8, except from Bludgeoning or Piercing weapons. (Damage Reduction: 8/Pierce, Bludgeon)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Axeblock",
+              "title": "Axeblock",
+              "text": "Axeblock IV"
+            }
+          ]
+        },
+        {
+          "text": "Bashing IV",
+          "tooltip": "Bashing IV: On Shield Bash: +2d4 Bludgeoning damage.On Melee Hit: +4% Chance to automatically hit your enemy with a Shield Bash attack.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bashing",
+              "title": "Bashing",
+              "text": "Bashing IV"
+            }
+          ]
+        },
+        {
+          "text": "Deathblock IV",
+          "tooltip": "Deathblock IV: Passive: 12% Enhancement Bonus to Negative Energy Absorption. In addition, you are immune to magical effects that can cause instant death.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Deathblock",
+              "title": "Deathblock",
+              "text": "Deathblock IV"
+            }
+          ]
+        },
+        {
+          "text": "Hammerblock IV",
+          "tooltip": "Hammerblock IV: Passive: Reduces physical damage taken by 8, except from Piercing or Slashing weapons. (Damage Reduction: 8/Slash, Pierce)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Hammerblock",
+              "title": "Hammerblock",
+              "text": "Hammerblock IV"
+            }
+          ]
+        },
+        {
+          "text": "Riposte IV",
+          "tooltip": "Riposte IV: When Missed by an attack: Deals 4 to 16 damage to your attacker. Passive: +2 Insight bonus to Armor Class, +2 Insight bonus to Fortitude, Reflex, and Will Saving Throws.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Riposte",
+              "title": "Riposte",
+              "text": "Riposte IV"
+            }
+          ]
+        },
+        {
+          "text": "Spearblock IV",
+          "tooltip": "Spearblock IV: Passive: Reduces physical damage taken by 8, except from Bludgeoning or Slashing weapons. (Damage Reduction: 8/Slash, Bludgeon)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spearblock",
+              "title": "Spearblock",
+              "text": "Spearblock IV"
+            }
+          ]
+        },
+        {
+          "text": "Vitality +20",
+          "tooltip": "Vitality +20: Passive: +20 Vitality bonus to Hit Points.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Vitality",
+              "title": "Vitality",
+              "text": "Vitality +20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

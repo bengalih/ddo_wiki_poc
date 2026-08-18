@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Defiled Reliquary Quarterstaff",
+  "page_id": 105333,
+  "revision_id": 632089,
+  "revision_timestamp": "2025-04-22T00:41:23Z",
+  "fetched_at": "2026-08-17T21:41:20.055037+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Defiled Reliquary Quarterstaff\n  | minlevel                 = 32\n  | type                     = Quarterstaff\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = Two-handed\n  | damage                   = 5.40[1d6+4] + 15 Bludgeon, Evil, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 400\n  | material                 = Steel\n  | hardness                 = 42\n  | cost                     = 12,800 pp 1 cp\n  | weight                   = 4 lbs\n  | released                 = Update 61\n  | quest                    = Unholy Defiler of the Hidden Hand\n  | end reward               = \n  | turn in                  = \n  | chest                    = defiled version of {{Item|Legendary Shining Reliquary Quarterstaff}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Destruction|Improved}}\n* {{Unholy|6}}\n* {{Blast|Evil|6}}\n* {{Vile Grip of the Hidden Hand|Legendary}}\n* {{Taint of Evil}}\n* {{Augment|Orange}}\n* {{Augment|Purple}}\n  | crafting                 = Esoteric Table\n  | description              = The shine of this weapon is gone; there is now only malice within it.\n  | pic                      = Defiled Reliquary Quarterstaff shown.jpg\n  | picdesc                  = Legendary Defiled Reliquary Quarterstaff.png\n  | tips                     = \n}}\n[[Category:Legendary Defiled Reliquary weapons]]",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 32,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Improved Destruction",
+      "tooltip": "Improved Destruction: On Hit: Your target gains a stack of Armor Destruction. (-1 penalty to Armor Class, -1% of its Fortification. 20 Second Duration. Stacks up to 15 times.) This effect may trigger once every second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Improved_Destruction",
+          "title": "Improved Destruction",
+          "text": "Improved Destruction"
+        }
+      ]
+    },
+    {
+      "text": "Unholy 6",
+      "tooltip": "Unholy 6: On Hit: 6 to 36 Evil damage. Evil-aligned creatures are immune to this effect.Penalty: If equipped by a Good user, they receive 1 Negative Level for as long as this item is equipped.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Unholy 6"
+        }
+      ]
+    },
+    {
+      "text": "Evil Blast 6",
+      "tooltip": "Evil Blast 6: This weapon is a sinister implement of evil deeds, dealing 6d6 Evil damage on a successful hit, and an additional 6d6 Evil damage on a critical hit. This effect makes the weapon evil aligned.Good characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Evil Blast 6"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Vile Grip of the Hidden Hand",
+      "tooltip": "Legendary Vile Grip of the Hidden Hand: Attacks and offensive spells have a small chance to deal massive evil damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vile_Grip_of_the_Hidden_Hand#Legendary_Vile_Grip_of_the_Hidden_Hand",
+          "title": "Vile Grip of the Hidden Hand",
+          "text": "Legendary Vile Grip of the Hidden Hand"
+        }
+      ]
+    },
+    {
+      "text": "Taint of Evil",
+      "tooltip": "Taint of Evil: Good aligned characters equipping this item suffer a temporary negative level until the item is removed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Taint_of_Evil",
+          "title": "Taint of Evil",
+          "text": "Taint of Evil"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

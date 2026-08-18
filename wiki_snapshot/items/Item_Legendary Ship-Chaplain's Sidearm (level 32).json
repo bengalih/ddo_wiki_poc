@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Legendary Ship-Chaplain's Sidearm (level 32)",
+  "page_id": 97608,
+  "revision_id": 632903,
+  "revision_timestamp": "2025-04-22T01:37:05Z",
+  "fetched_at": "2026-08-17T22:07:52.241566+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Ship-Chaplain's Sidearm\n  | minlevel                 = 32\n  | type                     = Morningstar\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damage                   = 5.40[1d8+2] + 15 Bludgeon, Good, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 385\n  | material                 = Steel\n  | hardness                 = 42\n  | cost                     = 12,800 pp 8 gp\n  | weight                   = 2 lbs\n  | released                 = Update 56\n  | quest                    = Treasure of Crystal Cove\n  | end reward               = \n  | turn in                  = {{CCi|silver|1500}}{{CCi|golden|700}}{{CCi|jasper|45}}{{CCi|green|1000}} at [[Euphonia's Barter Box]]\n  | chest                    = \n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Holy|6}}\n* {{Ghostbane|6}}\n* {{Burst|Holy}}\n* {{Deadly|5|Insightful}}\n* {{Augment|Red}}\n  | crafting                 = \n  | description              = Even pirates, at times, need the guidance of the divine.\n  | pic                      = Ship-Chaplain's Sidearm shown.jpg\n  | picdesc                  = Legendary Ship-Chaplain's Sidearm (level 32).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Morningstar",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 32,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Holy 6",
+      "tooltip": "Holy 6: On Hit: 6 to 24 Good damage. Good-aligned creatures are immune to this effect.Penalty: If equipped by a Evil user, they receive 1 Negative Level for as long as this item is equipped.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Holy 6"
+        }
+      ]
+    },
+    {
+      "text": "Ghostbane 6",
+      "tooltip": "Ghostbane 6: This weapon is attuned specifically to hunt the risen dead, dealing an additional 6d10 bane damage vs. Undead monsters.Passive: This weapon has Ghost Touch, and bypasses ethereal monster's 50% chance to evade bane damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostbane",
+          "title": "Ghostbane",
+          "text": "Ghostbane 6"
+        }
+      ]
+    },
+    {
+      "text": "Holy Burst",
+      "tooltip": "Holy Burst: A holy weapon is imbued with holy power. This power makes the weapon good-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2 to 12 points of damage against all of evil alignment and an extra 3 to 18 on a critical for weapons with a x2 critical multiplier, 4 to 24 for a x3 multiplier, and 5 to 30 for a x4 multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Holy_Burst#Holy_Burst",
+          "title": "Holy Burst",
+          "text": "Holy Burst"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Deadly +5",
+      "tooltip": "Insightful Deadly +5: +5 Insight bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Insightful Deadly +5"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

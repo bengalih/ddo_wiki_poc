@@ -1,0 +1,52 @@
+{
+  "page_title": "Item:Necklace of Contemplation",
+  "page_id": 10041,
+  "revision_id": 633665,
+  "revision_timestamp": "2025-04-22T02:28:37Z",
+  "fetched_at": "2026-08-17T22:29:53.342183+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Necklace of Contemplation\n  | slot                     = Neck\n  | type                     = Necklace\n  | durability               = 20\n  | material                 = Leather\n  | hardness                 = 3\n  | basevalue                = 405pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 1\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = Caverns of Korromar\n  | chest                    = [[R'zzix the Beholder]] and [[Oglethorpe the Prospector]] chests <!-- oglethorpe location is suspicious -->\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|concentration|+5}}\n* {{False Life|10}}\n* {{Attack Bonus|1}}\n  | description              = This magical necklace gives the wearer a sense of calm, allowing them to concentrate more easily in battle, increasing his vitality, and his ability to hit slightly.\n  | pic                      = Necklace Generic Silver.png\n  | picdesc                  = Necklace of Contemplation.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "enchantments": [
+    {
+      "text": "Concentration +5",
+      "tooltip": "Concentration +5: Passive: +5 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +5"
+        }
+      ]
+    },
+    {
+      "text": "False Life",
+      "tooltip": "False Life: This item grants the wearer +10 maximum health.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)#False_Life",
+          "title": "False Life (enchantment)",
+          "text": "False Life"
+        }
+      ]
+    },
+    {
+      "text": "Attack Bonus +1",
+      "tooltip": "Attack Bonus +1: Provides a +1 competence bonus to your attack rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Attack_bonus",
+          "title": "Attack bonus",
+          "text": "Attack Bonus +1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Sceptre of Impulse",
+  "page_id": 81305,
+  "revision_id": 634498,
+  "revision_timestamp": "2025-04-22T03:25:41Z",
+  "fetched_at": "2026-08-17T22:51:47.244031+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Sceptre of Impulse\n  | damage                   = [1d6] + 1 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 70\n  | material                 = Steel\n  | hardness                 = 12\n  | minlevel                 = 2\n  | quest                    = Morten Edgewright\n  | chest                    = \n  | end reward               = \n  | turn in                  = 1 Arcane Ingot\n  | epic                     = \n  | basevalue                = 800pp 1cp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 44\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|1|2}}\n* {{Spelllore|Kinetic|6}}\n* {{SpellPower|Impulse|43}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Sceptre Generic Borderlands pic.jpg\n  | picdesc                  = Sceptre of Impulse desc.jpg\n  | description              = This magical sceptre is attuned to Force spells.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +2",
+      "tooltip": "Spellcasting Implement +2: Passive: +2 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +2"
+        }
+      ]
+    },
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Kinetic Lore +6%",
+      "tooltip": "Kinetic Lore +6: Passive: Your Force, Physical and Untyped spells gain a 6% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Kinetic Lore +6%"
+        }
+      ]
+    },
+    {
+      "text": "Impulse +43",
+      "tooltip": "Impulse +43: Passive: +43 Equipment bonus to Force, Untyped, Slashing, Piercing, and Bludgeoning Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impulse",
+          "title": "Impulse",
+          "text": "Impulse +43"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

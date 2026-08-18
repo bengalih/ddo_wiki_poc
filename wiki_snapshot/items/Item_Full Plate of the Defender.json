@@ -1,0 +1,92 @@
+{
+  "page_title": "Item:Full Plate of the Defender",
+  "page_id": 9108,
+  "revision_id": 631016,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:09:03.240553+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Full Plate of the Defender\n  | type                     = Full Plate\n  | feat                     = Medium\n  | minlevel                 = 14\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +25\n  | maxdexbonus              = 3\n  | acp                      = -2\n  | asf                      = 25%\n  | durability               = 240\n  | material                 = Mithral\n  | hardness                 = 24\n  | basevalue                = 7,450 pp\n  | weight                   = 25 lbs\n  | quest                    = A Vision of Destruction\n  | chest                    = End chest\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Mat|Mithral}}\n* {{Fortification|100}}\n* {{Attack Bonus|2}}\n* {{ProtectionBonus|4}}\n  | pic                      = Mithral Full Plate of Speed shown.jpg\n  | picdesc                  = Full Plate of the Defender.png\n  | description              = This mithral full plate is a masterpiece of armorsmithing. It is said to have been worn by Relk, a brave knight that adventured more than two centuries ago.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Mithral",
+      "tooltip": "Mithral: Mithral armor is one type lighter then normal. Arcane Spell Failure decreased by 10%. Maximum dexterity bonus increased by 2. Armor check penalty reduced by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mithral",
+          "title": "Mithral",
+          "text": "Mithral"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +100%",
+      "tooltip": "Fortification +100%: +100% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +100%"
+        }
+      ]
+    },
+    {
+      "text": "Attack Bonus +2",
+      "tooltip": "Attack Bonus +2: Provides a +2 competence bonus to your attack rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Attack_bonus",
+          "title": "Attack bonus",
+          "text": "Attack Bonus +2"
+        }
+      ]
+    },
+    {
+      "text": "Protection +4",
+      "tooltip": "Protection +4: Passive: +4 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +4"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

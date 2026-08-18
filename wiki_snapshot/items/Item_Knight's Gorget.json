@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Knight's Gorget",
+  "page_id": 39264,
+  "revision_id": 631673,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:27:10.088750+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Knight's Gorget\n  | minlevel                 = 15\n  | type                     = Necklace\n  | race                     = Purple Dragon Knight\n  | slot                     = Neck\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6,020pp\n  | weight                   = 0.10 lbs\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Stat|CON|+5}}\n* {{ProtectionBonus|5}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Necklace Generic Nightforge.png\n  | picdesc                  = Knight's Gorget.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Constitution +5",
+      "tooltip": "Constitution +5: This item gives the wearer improved health, granting a +5 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +5"
+        }
+      ]
+    },
+    {
+      "text": "Protection +5",
+      "tooltip": "Protection +5: Passive: +5 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +5"
+        }
+      ]
+    }
+  ]
+}

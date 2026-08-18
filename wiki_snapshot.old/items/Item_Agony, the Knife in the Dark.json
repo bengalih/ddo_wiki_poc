@@ -1,0 +1,225 @@
+{
+  "page_title": "Item:Agony, the Knife in the Dark",
+  "page_id": 25495,
+  "revision_id": 671194,
+  "revision_timestamp": "2026-01-08T23:04:50Z",
+  "fetched_at": "2026-08-17T03:36:56.504448+00:00",
+  "categories": [],
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Entropic",
+      "tooltip": "Entropic : An entropic weapon crackles with a sinister energy that seeks to unmake anything it contacts. When it strikes a target, they take an extra 2 to 12 points of untyped damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Entropic",
+          "title": "Entropic",
+          "text": "Entropic"
+        }
+      ]
+    },
+    {
+      "text": "Hemorrhaging",
+      "tooltip": "Hemorrhaging: This weapon is viciously sharp and will do an additional 2 to 16 damage to targets that are vulnerable to bleeding.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleed#Hemorrhaging",
+          "title": "Bleed",
+          "text": "Hemorrhaging"
+        }
+      ]
+    },
+    {
+      "text": "Disintegration",
+      "tooltip": "Disintegration: This weapon has a dark, insidious power deep within. Occasionally, this power lashes out violently at enemies and attempts to disintegrate them.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disintegration",
+          "title": "Disintegration",
+          "text": "Disintegration"
+        }
+      ]
+    },
+    {
+      "text": "Improved Deception",
+      "tooltip": "Improved Deception: This item makes your weapons hard to focus upon and thus provides a +5 enhancement bonus to Bluff checks. In addition, while using this item your weapons have a chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception#Improved_Deception",
+          "title": "Deception",
+          "text": "Improved Deception"
+        }
+      ]
+    },
+    {
+      "text": "Attuned to Heroism",
+      "tooltip": "This relic is attuned to heroic actions.",
+      "children": [
+        {
+          "text": "Attuned by Heroism: Tier 1",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Planar Conflux",
+              "tooltip": "Planar Conflux: When this item is equipped at the same time as a Planar Focus, you will gain set bonuses based on the Planar Focus that you have equipped.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Named_item_sets#Planar_Conflux",
+                  "title": "Named item sets",
+                  "text": "Planar Conflux"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 1"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "+7 Enhancement Bonus → +8 Enhancement Bonus",
+              "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.+8 Enhancement Bonus: +8 enhancement bonus to attack and damage rolls.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+7 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+8 Enhancement Bonus"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Hemorrhaging → Phlebotomizing",
+              "tooltip": "Hemorrhaging: This weapon is viciously sharp and will do an additional 2 to 16 damage to targets that are vulnerable to bleeding.Phlebotomizing: This weapon is wickedly sharp and will do an additional 3 to 24 damage to targets that are vulnerable to bleeding.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Bleed#Hemorrhaging",
+                  "title": "Bleed",
+                  "text": "Hemorrhaging"
+                },
+                {
+                  "target": "/page/Bleed#Phlebotomizing",
+                  "title": "Bleed",
+                  "text": "Phlebotomizing"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 3"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 4",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Red Augment Slot",
+              "tooltip": "Red and Colorless",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Augment_Slot",
+                  "title": "Augment Slot",
+                  "text": "Red Augment Slot"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 4"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Attuned_to_Heroism",
+          "title": "Attuned to Heroism",
+          "text": "Attuned to Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ],
+  "item_class": "Weapon",
+  "item_template": ""
+}

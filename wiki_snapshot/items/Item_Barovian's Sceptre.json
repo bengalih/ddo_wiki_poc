@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Barovian's Sceptre",
+  "page_id": 68771,
+  "revision_id": 642628,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:08:46.188633+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Barovian's Sceptre\n  | damage                   = [1d6] + 5 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | attackmod                = STR\n  | damagemod                = STR\n  | prof                     = Simple\n  | durability               = 150\n  | material                 = Steel\n  | hardness                 = 20\n  | minlevel                 = 10\n  | basevalue                = 4,000pp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}} from chest; {{Bind|BtC|BoA}} otherwise\n  | quest                    = Blue Water Inn\n  | turn in                  = 40 [[Vistani Talisman]]s\n  | enhancements             = \n* {{Enhancement bonus|i|5|10}}\n* {{SpellPower|Potency|46}}\n* {{SpellPower|Potency|23|Insight}}\n* {{Skills|Spellcraft|12}}\n* {{Skills|Spellcraft|6|Insight|prefix=Insightful}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This weapon was designed to help those lost in the mists.\n  | pic                      = Barovian's Sceptre shown.jpg\n  | picdesc                  = Barovian's Sceptre.png\n  | tips                     = This and similar weapons are available from multiple sources:\n* For free, one per life, from [[Tobar the Smith]] in [[The Land of Barovia]]. BtC.\n* Purchased for [[Vistani Talisman]]s in [[Blue Water Inn]]. BtC.\n* Looted in [[Mists of Ravenloft|Ravenloft]]'s 2nd story arc \"The Vampire Hunters\" quests. BtA + eligible for Mythic / Reaper bonuses.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +10",
+      "tooltip": "Spellcasting Implement +10: Passive: +10 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +10"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Potency +46",
+      "tooltip": "Potency +46: Passive: +46 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +46"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Potency +23",
+      "tooltip": "Insightful Potency +23: Passive: +23 Insight bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Insightful Potency +23"
+        }
+      ]
+    },
+    {
+      "text": "Spellcraft +12",
+      "tooltip": "Spellcraft +12: Passive: +12 Competence bonus to the Spellcraft skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcraft",
+          "title": "Spellcraft",
+          "text": "Spellcraft +12"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Spellcraft +6",
+      "tooltip": "Insightful Spellcraft +6: Passive: +6 Insight bonus to the Spellcraft skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcraft",
+          "title": "Spellcraft",
+          "text": "Insightful Spellcraft +6"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

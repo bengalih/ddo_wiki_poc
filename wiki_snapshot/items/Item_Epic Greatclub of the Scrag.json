@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Epic Greatclub of the Scrag",
+  "page_id": 11949,
+  "revision_id": 640436,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:50:43.268543+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Greatclub of the Scrag\n  | damage                   = 3[1d10] + 6 Bludgeon, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Great Club\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Martial\n  | durability               = 275\n  | material                 = Wood\n  | hardness                 = 25\n  | minlevel                 = 20\n  | quest                    = Epic Crafting\n  | chest                    =\n  | revamped                 = Update 50\n  | released                 = Update 6\n  | basevalue                = 8,000 pp 5 gp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | epic                     = Greatclub of the Scrag\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Greatclub of the Scrag\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|6}}\n* {{Regeneration|Greater}}\n* {{Burst|Anarchic|4|10}} \n* {{Blast|Icy|4}}\n* {{Impact}}\n* {{Augment|Red}}\n  | description              = This particularly nasty weapon once belonged to one of the Scrag in High Priestess' Slikir's service. It seems that when the troll was killed, its blood seeped into this club, granting the weapon some of the creature's characteristics.\n  | pic                      = Dampened Greatclub of the Scrag shown.jpg\n  | picdesc                  = Epic Greatclub of the Scrag.png\n  | tips                     = \n}}\n[[Category:The Red Fens epic items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Greater Regeneration",
+      "tooltip": "Greater Regeneration: This item is imbued with an undeniable goodness that freely flows outward in a pleasant palpable current, constantly healing the wearer over time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Regeneration",
+          "title": "Regeneration",
+          "text": "Greater Regeneration"
+        }
+      ]
+    },
+    {
+      "text": "Anarchic Burst 4",
+      "tooltip": "Anarchic Burst 4: This weapon is a chaotic conduit, dealing 4d6 Chaos damage on a successful hit to Lawful enemies, and 10d6 Chaos damage on a critical hit to Lawful enemies. This effect makes the weapon chaotically aligned.Lawful characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Anarchic_Burst#Anarchic_Burst",
+          "title": "Anarchic Burst",
+          "text": "Anarchic Burst 4"
+        }
+      ]
+    },
+    {
+      "text": "Icy Blast 4",
+      "tooltip": "Icy Blast 4: This weapon is sheathed in icy cold, dealing 4d6 Cold damage on a successful hit, and an additional 4d6 Cold damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Icy Blast 4"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

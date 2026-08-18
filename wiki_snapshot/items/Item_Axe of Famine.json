@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Axe of Famine",
+  "page_id": 14501,
+  "revision_id": 628396,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:07:04.446707+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Axe of Famine\n  | damage                   = 2[2d8] + 5 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Dwarven War Axe\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Exotic\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | minlevel                 = 14\n  | durability               = 165\n  | material                 = Steel\n  | hardness                 = 18\n  | basevalue                = 12,803 pp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 9\n  | quest                    = Harbinger of Madness\n  | chest                    = \n  | end reward               = yes\n  | turn in                  = \n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Life-Devouring}}\n* {{Strength Sapping}}\n* {{Weakening}}\n* {{Incite|15}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Axe of Famine shown.jpg\n  | picdesc                  = Axe of Famine.png\n  | description              = This weapon drives those it strikes mad with sensations of starvation, sapping their strength while simultaneously reversing damage to its wielder's body and mind.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Dwarven War Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Life-Devouring",
+      "tooltip": "Life-Devouring: This weapon deprives an enemy of its energy and passes it on to you. When you roll a 20 on an attack, the enemy must make a DC 28 Fortitude save or be subjected to a -6 penalty to all stats. At the same time you will feel your power return, as though Greater Restoration were cast on you. (Greater Restoration cures all temporary ability damage, restores all negative levels suffered from energy drain, and eliminates fatigue, exhaustion, confusion, and insanity suffered by you.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Life-Devouring",
+          "title": "Life-Devouring",
+          "text": "Life-Devouring"
+        }
+      ]
+    },
+    {
+      "text": "Strength Sapping",
+      "tooltip": "Strength Sapping: Every time this weapon deals damage, the target must succeed on a Fortitude save (DC 15) or become exhausted.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength_Sapping",
+          "title": "Strength Sapping",
+          "text": "Strength Sapping"
+        }
+      ]
+    },
+    {
+      "text": "Weakening",
+      "tooltip": "Weakening: This weapon drains the enemies' melee power. -1 Strength on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Weakening",
+          "title": "Weakening",
+          "text": "Weakening"
+        }
+      ]
+    },
+    {
+      "text": "Incite +15",
+      "tooltip": "Incite +15: +15% Enhancement bonus to increased threat generation from melee damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incite",
+          "title": "Incite",
+          "text": "Incite +15"
+        }
+      ]
+    }
+  ]
+}

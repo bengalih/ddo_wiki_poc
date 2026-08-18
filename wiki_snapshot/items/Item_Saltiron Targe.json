@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:Saltiron Targe",
+  "page_id": 92726,
+  "revision_id": 634449,
+  "revision_timestamp": "2025-04-22T03:22:25Z",
+  "fetched_at": "2026-08-17T22:50:30.075267+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Saltiron Targe\n  | minlevel                 = 3\n  | type                     = Large\n  | prof                     = General\n  | sb                       = +9\n  | maxdexbonus              = None\n  | dr                       = 6\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = [1d10] + 2 Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 150\n  | material                 = Crystal\n  | hardness                 = 28\n  | cost                     = 1,604 pp\n  | weight                   = 10 lbs\n  | released                 = Update 50\n  | quest                    = The Hijacked Haul\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|io|1}}\n* {{Enhancement bonus|a|2}}\n* {{Spelllore|Healing|8}}\n* {{SpellPower|Devotion|53}}\n* {{Bonus Turning|Minor Turning}}\n* {{Named item sets|Saltmarsh Explorer}}\n* {{Augment|Red}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Saltiron Targe\n  | description              = Saltiron and copper reinforce this heavy shield.\n  | pic                      = Saltiron Targe shown.jpg\n  | picdesc                  = Saltiron Targe.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Crystal",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +3",
+      "tooltip": "Spellcasting Implement +3: Passive: +3 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +3"
+        }
+      ]
+    },
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Healing Lore +8%",
+      "tooltip": "Healing Lore +8: Passive: Your Positive Energy spells gain a 8% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Healing Lore +8%"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +53",
+      "tooltip": "Devotion +53: Passive: +53 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +53"
+        }
+      ]
+    },
+    {
+      "text": "Minor Turning",
+      "tooltip": "Minor Turning: Increases total number of Turn Undead uses by 1, once wielder rests. If you unequip the item you will lose these turns.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Minor_Turning",
+          "title": "Minor Turning",
+          "text": "Minor Turning"
+        }
+      ]
+    },
+    {
+      "text": "Saltmarsh Explorer",
+      "tooltip": "Saltmarsh Explorer: 5 Pieces Equipped:+5 Artifact bonus to PRR and MRR+1 Artifact bonus to all ability scores",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Saltmarsh_Explorer",
+          "title": "Named item sets",
+          "text": "Saltmarsh Explorer"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Razorclaw's Mantle",
+  "page_id": 86987,
+  "revision_id": 634140,
+  "revision_timestamp": "2025-04-22T03:01:56Z",
+  "fetched_at": "2026-08-17T22:42:42.440557+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Razorclaw's Mantle\n  | type                     = Cloak\n  | race                     = Razorclaw Shifter\n  | slot                     = Back\n  | durability               = 160\n  | material                 = Cloth\n  | hardness                 = 20\n  | basevalue                = 6005 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | epic                     = no\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Dodge|6}}\n* {{Hp|Vitality|20}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Razorclaw's Mantle shown.jpg\n  | picdesc                  = Razorclaw's Mantle.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Dodge +6%",
+      "tooltip": "Dodge +6%: +6% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +6%"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +20",
+      "tooltip": "Vitality +20: Passive: +20 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +20"
+        }
+      ]
+    }
+  ]
+}

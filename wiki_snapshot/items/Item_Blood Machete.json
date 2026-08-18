@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Blood Machete",
+  "page_id": 7972,
+  "revision_id": 672495,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:12:07.570663+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Blood Machete\n  | damage                   = 1.50[1d6] + 4 Slash, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Kukri\n  | minlevel                 = 8\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 120\n  | material                 = Steel\n  | hardness                 = 18\n  | basevalue                = 3200pp 8gp\n  | weight                   = 2 lbs\n  | revamped                 = Update 76\n  | quest                    = Cult of the Six\n  | end reward               = yes\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement bonus|w|4}}\n* {{Slicing}}\n* {{Clicky|Rage (spell)|5|1|label=Rage}}\n* {{Augment|Purple}}\n* {{Augment|Red}}\n  | description              = The spirits haunting this cursed blade compel the wielder to acts of pure savagery. Even now, blood still drips from its cutting edge.\n  | pic                      = Blood Machete shown.jpg\n  | picdesc                  = Blood Machete.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Kukri",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Slicing",
+      "tooltip": "Slicing: This weapon is incredibly sharp and will do an additional 1 to 4 damage to targets that are vulnerable to bleeding.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleed#Slicing",
+          "title": "Bleed",
+          "text": "Slicing"
+        }
+      ]
+    },
+    {
+      "text": "Rage — 1 Charges (Recharged/Day:1)",
+      "tooltip": "RageCaster level: 5Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rage_(spell)",
+          "title": "Rage (spell)",
+          "text": "Rage"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

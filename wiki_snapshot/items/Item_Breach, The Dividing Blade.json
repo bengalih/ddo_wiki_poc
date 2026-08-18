@@ -1,0 +1,214 @@
+{
+  "page_title": "Item:Breach, The Dividing Blade",
+  "page_id": 25656,
+  "revision_id": 628766,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:15:25.625703+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Breach, The Dividing Blade\n  | damage                   = 3.60[2d6] + 7 Slash, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Falchion\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | prof                     = Martial \n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 230\n  | material                 = Steel\n  | hardness                 = 24\n  | minlevel                 = 23\n  | released                 = Update 14\n  | quest                    = Caught in the Web\n  | chest                    = End Chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | basevalue                = 9207pp 5gp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtC|boa}}\n  | enhancements             = \n* {{Enhancement bonus|w|7}}\n* {{Shrieking}}\n* {{Disintegration}}\n* {{Shatter|10}}\n* {{Doublestrike|6}}\n* {{Attuned to Heroism}}\n  | crafting                 = Attuned to Heroism\n  | craftingupgrade          = \n  | pic                      = Breach, The Dividing Blade shown.jpg\n  | picdesc                  = Breach, The Dividing Blade.png\n  | description              = This massive falchion has emerged in most of the Realm' notable conflicts in the past century. How it finds its way into the hands of so many different bearers is unknown, but when brought into battle, few can stand against its power.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Falchion",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Shrieking",
+      "tooltip": "Shrieking: Shrieking weapons emit a piercing screech whenever they are used to make a successful attack. This screech deals an additional 2 to 12 sonic damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shrieking",
+          "title": "Shrieking",
+          "text": "Shrieking"
+        }
+      ]
+    },
+    {
+      "text": "Disintegration",
+      "tooltip": "Disintegration: This weapon has a dark, insidious power deep within. Occasionally, this power lashes out violently at enemies and attempts to disintegrate them.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disintegration",
+          "title": "Disintegration",
+          "text": "Disintegration"
+        }
+      ]
+    },
+    {
+      "text": "Shatter +10",
+      "tooltip": "Shatter +10: This effect gives a +10 Enhancement bonus to the DC to resist the character's Sunder and Improved Sunder attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shatter",
+          "title": "Shatter",
+          "text": "Shatter +10"
+        }
+      ]
+    },
+    {
+      "text": "Doublestrike 6%",
+      "tooltip": "Doublestrike 6%: Passive: 6% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 6%"
+        }
+      ]
+    },
+    {
+      "text": "Attuned to Heroism",
+      "tooltip": "This relic is attuned to heroic actions.",
+      "children": [
+        {
+          "text": "Attuned by Heroism: Tier 1",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Planar Conflux",
+              "tooltip": "Planar Conflux: When this item is equipped at the same time as a Planar Focus, you will gain set bonuses based on the Planar Focus that you have equipped.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Named_item_sets#Planar_Conflux",
+                  "title": "Named item sets",
+                  "text": "Planar Conflux"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 1"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "+7 Enhancement Bonus → +8 Enhancement Bonus",
+              "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.+8 Enhancement Bonus: +8 enhancement bonus to attack and damage rolls.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+7 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+8 Enhancement Bonus"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Shrieking → Wailing",
+              "tooltip": "Shrieking: Shrieking weapons emit a piercing screech whenever they are used to make a successful attack. This screech deals an additional 2 to 12 sonic damage.Wailing: Shrieking weapons emit a haunting wail whenever they are used to make a successful attack. This wail deals an additional 3 to 18 sonic damage.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Shrieking",
+                  "title": "Shrieking",
+                  "text": "Shrieking"
+                },
+                {
+                  "target": "/page/Wailing",
+                  "title": "Wailing",
+                  "text": "Wailing"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 3"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 4",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Red Augment Slot",
+              "tooltip": "Red and Colorless",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Augment_Slot",
+                  "title": "Augment Slot",
+                  "text": "Red Augment Slot"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 4"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Attuned_to_Heroism",
+          "title": "Attuned to Heroism",
+          "text": "Attuned to Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

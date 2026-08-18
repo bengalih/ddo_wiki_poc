@@ -1,0 +1,108 @@
+{
+  "page_title": "Item:Brawling Gloves (legacy) (level 8)",
+  "page_id": 14142,
+  "revision_id": 628758,
+  "revision_timestamp": "2025-04-21T21:07:42Z",
+  "fetched_at": "2026-08-17T03:49:57.648713+00:00",
+  "categories": [],
+  "material": "Leather",
+  "item_type": "Gloves",
+  "slot": "Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Strength +3",
+      "tooltip": "Strength +3: This item gives the wearer the power of Ogre Strength, granting a +3 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +3"
+        }
+      ]
+    },
+    {
+      "text": "Spike-Studded",
+      "tooltip": "Spike-Studded: This item is reinforced with metal studs that improve your unarmed strikes. Your unarmed attacks do an additional 1 to 4 piercing damage.",
+      "children": [
+        {
+          "text": "Upgradeable - Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Sneak Attack Bonus +2",
+              "tooltip": "Sneak Attack Bonus +2 : Provides a +2 Enhancement modifier to your attack bonus and a +3 Enhancement bonus to damage for any attack that would qualify as a Sneak Attack, even if the wielder is not a Rogue.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Sneak_Attack_Bonus",
+                  "title": "Sneak Attack Bonus",
+                  "text": "Sneak Attack Bonus +2"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_2",
+              "title": "Upgradeable - Tier 2",
+              "text": "Upgradeable - Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Upgradeable - Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Strength +3 → Strength +4",
+              "tooltip": "Strength +3: This item gives the wearer the power of Ogre Strength, granting a +3 Enhancement bonus to Strength. Strength +4: This item gives the wearer the power of Ogre Strength, granting a +4 Enhancement bonus to Strength.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Strength",
+                  "title": "Strength",
+                  "text": "Strength +3"
+                },
+                {
+                  "target": "/page/Strength",
+                  "title": "Strength",
+                  "text": "Strength +4"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_3",
+              "title": "Upgradeable - Tier 3",
+              "text": "Upgradeable - Tier 3"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Spike-Studded",
+          "title": "Spike-Studded",
+          "text": "Spike-Studded"
+        }
+      ]
+    }
+  ],
+  "item_class": "Clothing",
+  "item_template": ""
+}

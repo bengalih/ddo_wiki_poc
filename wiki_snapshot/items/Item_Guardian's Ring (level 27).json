@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Guardian's Ring (level 27)",
+  "page_id": 41579,
+  "revision_id": 649941,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:17:59.760378+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Guardian's Ring\n  | minlevel                 = 27\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 190\n  | material                 = Gold\n  | hardness                 = 28\n  | basevalue                = 10,820pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 19\n  | quest                    = What Goes Up\n  | end reward               = yes\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Sheltering|24}}\n* {{Stat|STR|8}}\n* {{Augment|Yellow}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Ring Generic Chaos.png\n  | picdesc                  = Guardian's Ring (Level 27).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "Sheltering +24",
+      "tooltip": "Sheltering +24: +24 Enhancement bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Sheltering +24"
+        }
+      ]
+    },
+    {
+      "text": "Strength +8",
+      "tooltip": "Strength +8: This item gives the wearer the power of Ogre Strength, granting a +8 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +8"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

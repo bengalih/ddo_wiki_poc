@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Arlyn's Staff",
+  "page_id": 5522,
+  "revision_id": 628309,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:05:05.551730+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Arlyn's Staff\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | minlevel                 = 6\n  | reqtrait                 = \n  | UMD DC                   = \n  | bind                     = {{Bind|BtC|BoE}}\n  | damage                   = 1.50[1d6] + 3 Bludgeon, Magic\n  | crit                     = 20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 140\n  | material                 = Wood\n  | hardness                 = 16\n  | basevalue                = 2,400 pp 1 cp\n  | weight                   = 4 lbs\n  | quest                    = Gwylan's Stand\n  | chest                    = [[Arlyn Feathercrest]]'s Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{ProtectionBonus|3}}\n* {{Force}}\n* {{Augment|Red}}\n  | pic                      = Arlyn's Staff shown.jpg\n  | picdesc                  = Arlyn's Staff.png\n  | description              = A long, stout staff, engraved with the name 'Arlyn Feathercrest' and a displacer beast.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Protection +3",
+      "tooltip": "Protection +3: Passive: +3 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +3"
+        }
+      ]
+    },
+    {
+      "text": "Force",
+      "tooltip": "Force: This weapon is humming with magical force. It deals an additional 1 to 6 force damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Force_(enchantment)",
+          "title": "Force (enchantment)",
+          "text": "Force"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

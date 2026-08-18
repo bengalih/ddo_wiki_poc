@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Demon's Door",
+  "page_id": 126719,
+  "revision_id": 699502,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:33:16.932192+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Demon's Door\n  | type                     = Large\n  | prof                     = General\n  | race                     = \n  | reqtrait                 = \n  | UMD DC                   = \n  | mythic                   = no\n  | minlevel                 = 11\n  | damagemod                = STR\n  | attmod                   = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +15\n  | maxdexbonus              = None\n  | dr                       = 9\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = 1.20[1d10] + 5\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | durability               = 230\n  | material                 = Bone\n  | hardness                 = 36\n  | basevalue                = 4,804 pp\n  | weight                   = 10 lbs\n  | released                 = Update 81\n  | quest                    = Catalyst Crafting\n  | turn in                  = {{Item|Death's Door}}, its [[Abyssal Catalyst]] and 50 {{Item|Abyssal Gem}}s at the [[Strange Catalyst Forge]]\n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|s|5}}\n* {{Lifesealed|22}}\n* {{Demonic Shield|Improved}}\n* {{Shield Bashing|%=10}}\n* {{Bleeding|3}}\n* {{Shield Spikes|3}}\n* {{Augment|Red}}\n  | description              = The haunting visage in this shield was once something alive, but no one is quite sure what.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Demon's Door shown.jpg\n  | picdesc                  = Demon's Door.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Bone",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Lifesealed +22",
+      "tooltip": "Lifesealed +22: You are immune to magical effects that cause instant death. In addition, you have a +22% enhancement bonus to Negative Energy Absorption.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lifesealed",
+          "title": "Lifesealed",
+          "text": "Lifesealed +22"
+        }
+      ]
+    },
+    {
+      "text": "Improved Demonic Shield",
+      "tooltip": "Improved Demonic Shield: Each time you are hit in melee combat there is a chance that a shield of demonic energy will grant you a +120 Profane bonus to temporary hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Demonic_Shield#Improved_Demonic_Shield",
+          "title": "Demonic Shield",
+          "text": "Improved Demonic Shield"
+        }
+      ]
+    },
+    {
+      "text": "Shield Bashing +10%",
+      "tooltip": "Shield Bashing +10%: +10% Enhancement bonus to your chance of a Secondary Shield Bash. This stacks with bonuses granted by any relevant feats.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bashing",
+          "title": "Shield Bashing",
+          "text": "Shield Bashing +10%"
+        }
+      ]
+    },
+    {
+      "text": "Bleeding 3",
+      "tooltip": "Bleeding 3: This weapon is wickedly curved, with spines and hooks meant to cause damage to those with flesh. This weapon does 3d8 bleeding damage to those that are vulnerable to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleeding",
+          "title": "Bleeding",
+          "text": "Bleeding 3"
+        }
+      ]
+    },
+    {
+      "text": "Shield Spikes",
+      "tooltip": "Shield Spikes: This effect causes this shield to do an extra 3d6 Piercing damage when it is used to shield bash.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Spikes",
+          "title": "Shield Spikes",
+          "text": "Shield Spikes"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

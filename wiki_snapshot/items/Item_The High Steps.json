@@ -1,0 +1,64 @@
+{
+  "page_title": "Item:The High Steps",
+  "page_id": 77325,
+  "revision_id": 635354,
+  "revision_timestamp": "2025-04-22T04:22:17Z",
+  "fetched_at": "2026-08-17T23:14:22.873499+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = The High Steps\n  | type                     = Boots\n  | cost                     = 401 pp\n  | weight                   = 0.1 lbs\n  | slot                     = Feet\n  | durability               = 110\n  | bind                     = {{Bind|BtA|BoA}}\n  | material                 = Cloth\n  | hardness                 = 21\n  | minlevel                 = 1\n  | released                 = Update 44\n  | quest                    = Treasure Hunt\n  | end reward               = <!-- yes if end reward; leave blank otherwise -->\n  | chest                    = End chest\n  | enhancements             = \n* {{Skills|Jump|3}}\n* {{Skills|Tumble|3}}\n* {{Augment|Blue}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = These boots are enchanted to add a little spring to your step.\n  | pic                      = Boots Generic Gray.png\n  | picdesc                  = The High Steps.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "enchantments": [
+    {
+      "text": "Jump +3",
+      "tooltip": "Jump +3: Passive: +3 Competence bonus to the Jump skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Jump_(skill)",
+          "title": "Jump (skill)",
+          "text": "Jump +3"
+        }
+      ]
+    },
+    {
+      "text": "Tumble +3",
+      "tooltip": "Tumble +3: Passive: +3 Competence bonus to the Tumble skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Tumble_(skill)",
+          "title": "Tumble (skill)",
+          "text": "Tumble +3"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Boot Boost +1 or +3",
+      "tooltip": "Mythic Boot Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Boot Boost"
+        }
+      ]
+    }
+  ]
+}

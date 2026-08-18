@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Selune's Favor",
+  "page_id": 112437,
+  "revision_id": 678673,
+  "revision_timestamp": "2026-03-17T13:58:32Z",
+  "fetched_at": "2026-08-17T22:53:15.298376+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Selune's Favor\n  | prof                     = Martial\n  | damage                   = [1d8] + 2 Bludgeon, Good, Magic\n  | crit                     = 20 / x2\n  | type                     = Heavy Mace\n  | class                    = Bludgeoning\n  | race                     = \n  | minlevel                 = 4\n  | reqtrait                 = \n  | UMD DC                   = \n  | hand                     = One-handed\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 100\n  | material                 = Steel\n  | hardness                 = 14\n  | cost                     = 1,602 pp 2 gp\n  | weight                   = 8 lbs\n  | released                 = Update 71\n  | revamped                 = \n  | quest                    = The Darkness and the Light\n  | chest                    = end chest\n  | rare                     = yes\n  | turn in                  = \n  | mythic                   = \n  | epic                     = no\n  | legendary                = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Blunt Trauma}}\n* {{Coruscating|2}}\n* {{Impactful|2}}\n* {{Burst|Holy|2}}\n* {{Favored Weapon}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Favor follows those who choose to bear her light.\n  | pic                      = Selune's Favor shown.jpg\n  | picdesc                  = Selune's Favor.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Heavy Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Blunt Trauma",
+      "tooltip": "Blunt Trauma: This weapon is incredibly dense and delivers especially powerful blows. When rolling a 19 or 20 on a melee attack, your critical multiplier is increased by +1.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blunt_Trauma",
+          "title": "Blunt Trauma",
+          "text": "Blunt Trauma"
+        }
+      ]
+    },
+    {
+      "text": "Coruscating 2",
+      "tooltip": "Coruscating 2: This effect causes the edges of this weapon to coruscate, dealing 2d6 Light damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Coruscating",
+          "title": "Coruscating",
+          "text": "Coruscating 2"
+        }
+      ]
+    },
+    {
+      "text": "Impactful 2",
+      "tooltip": "Impactful 2: This effect causes the edges of this weapon to ripple with force, dealing 2 to 12 force on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impactful",
+          "title": "Impactful",
+          "text": "Impactful 2"
+        }
+      ]
+    },
+    {
+      "text": "Holy Burst 2",
+      "tooltip": "Holy Burst 2: This weapon sings of virtue, dealing 2d6 Good damage on a successful hit to Evil enemies, and 1d6 Good damage on a critical hit to Evil enemies. This effect makes the weapon good aligned.Evil characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Holy_Burst#Holy_Burst",
+          "title": "Holy Burst",
+          "text": "Holy Burst 2"
+        }
+      ]
+    },
+    {
+      "text": "Favored Weapon",
+      "tooltip": "Favored Weapon: This weapon has a divine attunement and gains bonuses as if it were a Favored Weapon regardless of your Deity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Favored_weapon",
+          "title": "Favored weapon",
+          "text": "Favored Weapon"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

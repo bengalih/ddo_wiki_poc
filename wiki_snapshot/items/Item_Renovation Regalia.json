@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Renovation Regalia",
+  "page_id": 107002,
+  "revision_id": 634185,
+  "revision_timestamp": "2025-04-22T03:04:52Z",
+  "fetched_at": "2026-08-17T22:43:49.716724+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Renovation Regalia\n  | minlevel                 = 18\n  | type                     = Medium Armor\n  | feat                     = Medium\n  | ac                       = +13\n  | maxdexbonus              = 3\n  | acp                      = -1\n  | asf                      = 25%\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = \n  | material                 = Steel\n  | hardness                 = \n  | basevalue                = 7,275 pp\n  | weight                   = 30 lbs\n  | released                 = Update 67\n  | quest                    = This Old Haunt\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest, Wraith chest\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Accuracy|14}}\n* {{Seeker|9}}\n* {{Concealment|Lesser Displacement}}\n* {{Speed|28}}\n* {{Augment|Blue}}\n* {{Named item sets|Remodeling Renegade}}\n  | crafting                 = \n  | description              = Move! That! Airship!\n  | pic                      = Renovation Regalia shown.jpg\n  | picdesc                  = Renovation Regalia.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Medium Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Accuracy +14",
+      "tooltip": "Accuracy +14: Passive: +14 Competence bonus to attack rolls",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accuracy",
+          "title": "Accuracy",
+          "text": "Accuracy +14"
+        }
+      ]
+    },
+    {
+      "text": "Seeker +9",
+      "tooltip": "Seeker +9: Provides a +9 Enhancement bonus to confirm critical hits, and a +9 Enhancement bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Seeker +9"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Displacement",
+      "tooltip": "Lesser Displacement: Equipping this item causes light to distort around you. Attacks from enemies have a 25% chance to miss you due to concealment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lesser_Displacement",
+          "title": "Lesser Displacement",
+          "text": "Lesser Displacement"
+        }
+      ]
+    },
+    {
+      "text": "Speed +28%",
+      "tooltip": "Speed +28%: +28% enhancement bonus to movement speed, 13% bonus to attack speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Speed",
+          "title": "Speed",
+          "text": "Speed +28%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Remodeling Renegade",
+      "tooltip": "Remodeling Renegade: 3 Pieces Equipped:+10% Artifact Bonus to Fortification Bypass+5% Artifact Bonus to Doublestrike and Doubleshot+10 Artifact Bonus to Physical Resistance Rating4 Pieces Equipped:+5 Artifact Bonus to Melee and Ranged Power+5% Artifact Bonus to Damage vs. Helpless opponents",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Remodeling_Renegade",
+          "title": "Named item sets",
+          "text": "Remodeling Renegade"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

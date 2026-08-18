@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Fellblade (falchion)",
+  "page_id": 7396,
+  "revision_id": 630754,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:02:42.563806+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Fellblade\n  | damage                   = [2d6] + 4 Slash, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Falchion\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = Two-handed\n  | minlevel                 = 8\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 170\n  | material                 = Steel\n  | hardness                 = 18\n  | bind                     = {{Bind|BtC|BoE}}\n  | basevalue                = 3207pp 5gp \n  | weight                   = 9.50 lbs\n  | quest                    = Bring Me the Head of Ghola-Fan!\n  | chest                    = Balcony Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|4}}\n* {{Vertigo|8}}\n* {{Augment|Red}}\n  | description              = This heavy falchion comes from Ghola-Fan's personal collection. Its design excels at sweeping enemies' feet out from under them. While very effective and well-made, the weapon shows few signs of use.\n  | pic                      = Fellblade shown.jpg\n  | picdesc                  = Fellblade.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Falchion",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Vertigo +8",
+      "tooltip": "Vertigo +8: This effect gives a +8 Enhancement bonus to the DC to resist the character's Trip and Improved Trip attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vertigo_(enchantment)",
+          "title": "Vertigo (enchantment)",
+          "text": "Vertigo +8"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

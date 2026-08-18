@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Filthy Kukri",
+  "page_id": 11874,
+  "revision_id": 672505,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:04:13.275981+00:00",
+  "categories": [],
+  "wikitext": "{{History|Item}}\n{{Named item|Weapon\n  | name                     = Filthy Kukri\n  | damage                   = [1d4] + 1 Slash, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Kukri\n  | hand                     = One-handed\n  | class                    = Slashing\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | prof                     = Martial\n  | durability               = 70\n  | material                 = Steel\n  | hardness                 = 13\n  | minlevel                 = 5\n  | basevalue                = 1,800pp 8gp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoE}}\n  | quest                    = The Tide Turns\n  | chest                    = Any End chest\n  | revamped                 = Update 76\n  | enhancements             = \n* {{Enhancement bonus|w|1}}\n* {{Deception|Bluff=yes}}\n* {{CraftingEffects|Unraveling Enchantments}}\n  | crafting                 = Unraveling Enchantments\n  | craftingupgrade          = Midnight Greetings\n  | description              = From the muck caked on the blade, it appears that this kukri was left in a swamp for a few decades. There's something extremely strange about the balance of it.\n  | pic                      = Filthy Kukri shown.jpg\n  | picdesc                  = Filthy Kukri.png\n}}",
+  "item_template": "History",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Kukri",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Deception",
+      "tooltip": "Deception: This weapon is hard to focus upon and thus provides a +3 enhancement bonus to Bluff checks. In addition, Deception weapons have a small chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Deception"
+        }
+      ]
+    },
+    {
+      "text": "Unraveling Enchantments",
+      "tooltip": "Unraveling Enchantments: The enchantments on this item have become unstable and weakened with time, but those serving House Deneith may be able to restore it. Combine this item in Visbane's Folly atop Sentinel's Tower in House Deneith Enclave with a Sigil of the Goat, a Sigil of the Lion, and a Sigil of the Dragon to restore its original enchantments.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Unraveling_Enchantments",
+          "title": "Unraveling Enchantments",
+          "text": "Unraveling Enchantments"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

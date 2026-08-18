@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Iron Beads (level 23)",
+  "page_id": 34347,
+  "revision_id": 650015,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:24:41.491763+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = {{Item|Iron Beads}}\n  | type                     = Necklace\n  | class                    = Jewelry\n  | slot                     = Neck\n  | durability               = 240\n  | material                 = Dwarven Iron\n  | hardness                 = 33\n  | basevalue                = 9,220pp\n  | weight                   = 2 lbs\n  | minlevel                 = 23\n  | bind                     = {{Bind|BtC|BoE}}\n  | released                 = Update 17\n  | quest                    = Return to Madstone Crater\n  | chest                    = end chest (Epic Normal); [[Return to Gianthold]], quest chain end reward\n  | end reward               = \n  | enhancements             = \n* {{SpellPower|Magnetism|108}} \n* {{Spelllore|Lightning|vi}}\n* {{Augment|Colorless}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = These beads are forged from iron and weigh bizarrely heavy in your hand. Obviously these were meant to be worn by a giant.\n  | pic                      = Necklace Generic Beads.png\n  | picdesc                  = Iron Beads (Level 23).png\n}}",
+  "item_template": "Named item",
+  "material": "Dwarven Iron",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "Magnetism +108",
+      "tooltip": "Magnetism +108: Passive: +108 Equipment bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Magnetism +108"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Lore VI",
+      "tooltip": "Lightning Lore VI: Passive: Your Electricity spells gain a 16% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore VI"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

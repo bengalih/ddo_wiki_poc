@@ -1,0 +1,82 @@
+{
+  "page_title": "Item:Magewright's Spectacles",
+  "page_id": 18843,
+  "revision_id": 633372,
+  "revision_timestamp": "2025-04-22T02:09:19Z",
+  "fetched_at": "2026-08-17T22:21:12.298701+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Magewright's Spectacles\n  | type                     = Goggles\n  | class                    = Goggles\n  | minlevel                 = 18\n  | slot                     = Eye\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 110\n  | material                 = Leather\n  | hardness                 = 12\n  | basevalue                = 10,020 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | released                 = Update 11\n  | quest                    = House Cannith Manufactury\n  | chest                    = [[Stellite]]'s Chest (Rare encounter)\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|INT|6}}\n* {{Spellpen|III}}\n* {{Skills|concentration|10}}\n* {{skills|concentration|5|enh|prefix=Enhanced}}\n* {{Nearly finished}}\n  | crafting                 = Cannith Reforging Station\n  | craftingupgrade          = \n  | craftingnotes            = \n  | description              = A pair of spectacles often worn by House Cannith magewrights. It enhances the functions of one's brain, improving the ability of the wearer to focus his or her energies.\n  | pic                      = Magewright's Spectacles shown.jpg\n  | picdesc                  = Magewright's Spectacles.png\n  | tips                     = <table border=\"0\" align=\"center\">\n<tr><td align=\"center\">{{Popup|[[File:1_Magewright's_Spectacles.jpg|link=]]| Magewright's Spectacles}} + {{Popup|[[File:1_Glowing_Ingot.jpg|link=]]| 1 Glowing Ingot}} + {{Popup|[[File:1_Pliable_Ingot.jpg|link=]]| 1 Pliable Ingot}} + {{Popup|[[File:1_Dense_Ingot.jpg|link=]]| 1 Dense Ingot}} + {{Popup|[[File:1_Lesser_Cannith_Power_Cell.jpg|link=]]| 1 Lesser Cannith Power Cell}}\n</td></tr><tr><td><hr width=\"100%\">\n</td></tr><tr><td>[[File:Magewright's Spectacles (Finished).png|400px]]\n</td></tr></table>\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Intelligence +6",
+      "tooltip": "Intelligence +6: This item focuses the power of the wearer's mind, granting a +6 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +6"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration III",
+      "tooltip": "Spell Penetration III: Passive: +3 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration III"
+        }
+      ]
+    },
+    {
+      "text": "Concentration +10",
+      "tooltip": "Concentration +10: Passive: +10 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +10"
+        }
+      ]
+    },
+    {
+      "text": "Enhanced Concentration +5",
+      "tooltip": "Enhanced Concentration +5: Passive: +5 Enhancement bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Enhanced Concentration +5"
+        }
+      ]
+    },
+    {
+      "text": "Nearly Finished - Magewright's Expertise",
+      "tooltip": "Magewright's Expertise: Spell Focus I: +1 to DCs for all spells.Magewright's Quick Wits: Chance to gain a 10 second buff of +12 Alchemical bonus to Universal Spell Power each time the wearer is hit by a physical attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nearly_Finished",
+          "title": "Nearly Finished",
+          "text": "Nearly Finished"
+        },
+        {
+          "target": "/page/Named_item_sets#Magewright's_Expertise",
+          "title": "Named item sets",
+          "text": "Magewright's Expertise"
+        }
+      ]
+    }
+  ]
+}

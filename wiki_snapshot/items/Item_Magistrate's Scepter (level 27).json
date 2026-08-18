@@ -1,0 +1,241 @@
+{
+  "page_title": "Item:Magistrate's Scepter (level 27)",
+  "page_id": 42186,
+  "revision_id": 649526,
+  "revision_timestamp": "2025-07-26T19:12:41Z",
+  "fetched_at": "2026-08-17T22:21:21.830462+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Magistrate's Scepter}}\n  | sentience                = no\n  | damage                   = 1.50[1d8] + 7 Bludgeon, Lawful, Magic\n  | crit                     = 20 / x2\n  | type                     = Heavy Mace\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 330\n  | material                 = Steel\n  | hardness                 = 37\n  | minlevel                 = 27\n  | quest                    = The Tracker's Trap\n  | chest                    = End chest (Epic Hard)\n  | basevalue                = 10,801 pp 2 gp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | enhancements             = \n* {{Enhancement bonus|w|7}}\n* {{Axiomatic|iv}}\n* One of the following:\n** {{Dazing|VIII}}\n** {{Deception|VIII}}\n** {{Doublestrike|8}}\n** {{Draining|VIII}}\n** {{Feeding|VIII}}\n** {{Ghostbane|VIII}}\n** {{Disruption|Greater}}\n** {{Smiting|Greater}}\n** {{Humanoid Bane|VIII}}\n** {{Natural Bane|VIII}}\n** {{Ribcracker|VIII}}\n** {{Riposte|VIII}}\n** {{Stumbling|VIII}}\n** {{Sundering|VIII}}\n* {{Augment|red}}\n  | description              = The weight of justice.\n  | pic                      = Magistrate's Scepter shown.jpg\n  | picdesc                  = Magistrate's Scepter (Level 27).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Heavy Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Axiomatic IV",
+      "tooltip": "Axiomatic IV: On Hit: 4 to 16 Law damage. Law-aligned creatures are immune to this effect.Penalty: If equipped by a Chaotic user, they receive 1 Negative Level for as long as this item is equipped.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Axiomatic IV"
+        }
+      ]
+    },
+    {
+      "text": "One of the following:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "Dazing VIII",
+          "tooltip": "Dazing VIII: On Hit: Your target suffers a -1 Penalty to Will Saving Throws for 6 seconds. This effect stacks up to 5 times. This effect may only occur on-hit once every three seconds.Passive: The DC of the saving throw to resist your Stunning Blow and Stunning Fist combat feats is increased by 13.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Dazing",
+              "title": "Dazing",
+              "text": "Dazing VIII"
+            }
+          ]
+        },
+        {
+          "text": "Deception VIII",
+          "tooltip": "Deception VIII: 5% Chance on Hit: Your target becomes Bluffed for four seconds. (Bluffed enemies can be affected by Sneak Attacks even while targeting you.) On sneak attack: +8 to Attack Rolls, +16 to Damage.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Deception",
+              "title": "Deception",
+              "text": "Deception VIII"
+            }
+          ]
+        },
+        {
+          "text": "Doublestrike 8%",
+          "tooltip": "Doublestrike 8%: Passive: 8% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Doublestrike",
+              "title": "Doublestrike",
+              "text": "Doublestrike 8%"
+            }
+          ]
+        },
+        {
+          "text": "Draining VIII",
+          "tooltip": "Draining VIII: On Vorpal Hit: Your target incurs one Negative Level, and you gain +16 Temporary Spell Points. (These Temporary Spell Points last for one minute, or until used to reduce the cost of your next spell.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Draining",
+              "title": "Draining",
+              "text": "Draining VIII"
+            }
+          ]
+        },
+        {
+          "text": "Feeding VIII",
+          "tooltip": "Feeding VIII: On Vorpal Hit: Your target incurs one Negative Level, and you gain +40 temporary hit points. (These Temporary Hit Points last for one minute, or until used to negate incoming damage.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Feeding",
+              "title": "Feeding",
+              "text": "Feeding VIII"
+            }
+          ]
+        },
+        {
+          "text": "Ghostbane VIII",
+          "tooltip": "Ghostbane VIII: On Hit: 8 to 32 Bane Damage vs Undead. (Bane damage cannot be resisted.)Passive: Attacks from this weapon bypass the miss chance of incorporeal creatures, such as ghosts, shadows, and wraiths.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Ghostbane",
+              "title": "Ghostbane",
+              "text": "Ghostbane VIII"
+            }
+          ]
+        },
+        {
+          "text": "Greater Disruption",
+          "tooltip": "Greater Disruption: On Hit: 4 to 24 Bane damage to Undead.On Vorpal Hit: If an undead struck by this weapon has fewer than 2000 Hit Points, it is instantly slain. If the undead has above 2000 Hit Points, it takes 200 damage.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Disruption#Greater_Disruption",
+              "title": "Disruption",
+              "text": "Greater Disruption"
+            }
+          ]
+        },
+        {
+          "text": "Greater Smiting",
+          "tooltip": "Greater Smiting: On Hit: 4 to 24 Bane damage to Constructs.On Vorpal Hit: If a construct struck by this weapon has fewer than 2000 Hit Points, it is instantly slain. If the construct has above 2000 Hit Points, it takes 200 damage.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Smiting#Greater_Smiting",
+              "title": "Smiting",
+              "text": "Greater Smiting"
+            }
+          ]
+        },
+        {
+          "text": "Humanoid Bane VIII",
+          "tooltip": "Humanoid Bane VIII: On Hit: 8 to 32 Bane Damage vs Humanoids and Giants. (Bane damage cannot be resisted.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Humanoid Bane VIII"
+            }
+          ]
+        },
+        {
+          "text": "Natural Bane VIII",
+          "tooltip": "Natural Bane VIII: On Hit: 8 to 32 Bane Damage vs Animals, Vermin, Magical Beasts, Plants and Fey. (Bane damage cannot be resisted.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Natural Bane VIII"
+            }
+          ]
+        },
+        {
+          "text": "Ribcracker VIII",
+          "tooltip": "Ribcracker VIII: On Critical Hit: 17 to 102 Bludgeoning damage from weapons with a x2 Critical Multiplier, 17 to 136 Bludgeoning damage from weapons with a x3 Critical Multiplier, and 17 to 170 Bludgeoning damage from weapons with a x4 or greater Critical Multiplier.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Ribcracker",
+              "title": "Ribcracker",
+              "text": "Ribcracker VIII"
+            }
+          ]
+        },
+        {
+          "text": "Riposte VIII",
+          "tooltip": "Riposte VIII: When Missed by an attack: Deals 8 to 32 damage to your attacker. Passive: +4 Insight bonus to Armor Class, +4 Insight bonus to Fortitude, Reflex, and Will Saving Throws.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Riposte",
+              "title": "Riposte",
+              "text": "Riposte VIII"
+            }
+          ]
+        },
+        {
+          "text": "Stumbling VIII",
+          "tooltip": "Stumbling VIII: On Hit: Your target suffers a -1 Penalty to Reflex Saving Throws for 6 seconds. This effect stacks up to 5 times. This effect may only occur on-hit once every three seconds.Passive: The DC of the saving throw to resist your Trip combat feats is increased by Expression error: Unexpected < operator..",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Stumbling",
+              "title": "Stumbling",
+              "text": "Stumbling VIII"
+            }
+          ]
+        },
+        {
+          "text": "Sundering VIII",
+          "tooltip": "Sundering VIII: On Hit: Your target suffers a -1 Penalty to Fortitude Saving Throws for 6 seconds. This effect stacks up to 5 times. This effect may only occur on-hit once every three seconds.Passive: The DC of the saving throw to resist your Sunder combat feats is increased by Expression error: Unexpected < operator..",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Sundering",
+              "title": "Sundering",
+              "text": "Sundering VIII"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Imbued Darkleaf Banded Armor",
+  "page_id": 8117,
+  "revision_id": 631526,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:23:17.994402+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Imbued Darkleaf Banded Armor\n  | type                     = Banded Mail\n  | feat                     = Medium\n  | race                     = \n  | minlevel                 = 8\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +16\n  | maxdexbonus              = 3\n  | acp                      = -3\n  | asf                      = 30%\n  | durability               = 168\n  | material                 = Darkwood\n  | hardness                 = 19\n  | basevalue                = 3,260 pp\n  | weight                   = 50 lbs\n  | quest                    = Tempest's Spine\n  | chest                    = End Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Resistance|4}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Enchanted Darkleaf Banded Armor shown.jpg <!--same style-->\n  | picdesc                  = Imbued Darkleaf Banded Armor.png\n  | description              = Banded armor crafted from darkleaf wood and imbued with ancient power.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Darkwood",
+  "armor_type": "Banded Mail",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +4",
+      "tooltip": "Resistance +4: Passive: +4 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +4"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

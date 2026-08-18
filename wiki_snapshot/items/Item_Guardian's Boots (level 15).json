@@ -1,0 +1,29 @@
+{
+  "page_title": "Item:Guardian's Boots (level 15)",
+  "page_id": 40723,
+  "revision_id": 649897,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:17:33.716112+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Guardian's Boots\n  | type                     = Boots\n  | class                    = Clothing\n  | basevalue                = 6,020pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 90\n  | material                 = Leather\n  | hardness                 = 18\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 19\n  | quest                    = Lines of Supply\n  | end reward               = yes\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{ProtectionBonus|8}}\n  | crafting                 = \n  | description              = \n  | pic                      = Boots Generic Grundok.png\n  | picdesc                  = Guardian's Boots (Level 15).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Protection +8",
+      "tooltip": "Protection +8: Passive: +8 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +8"
+        }
+      ]
+    }
+  ]
+}

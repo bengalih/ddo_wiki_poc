@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Severlin's Leaden Boots (level 10)",
+  "page_id": 68080,
+  "revision_id": 634562,
+  "revision_timestamp": "2025-04-22T03:29:45Z",
+  "fetched_at": "2026-08-17T22:53:36.263999+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Severlin's Leaden Boots}}\n  | type                     = Boots\n  | cost                     = 4,002 pp 5 gp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 110\n  | material                 = Leather\n  | hardness                 = 15\n  | bind                     = {{Bind|BtA|BoA}}\n  | minlevel                 = 10\n  | released                 = Update 30\n  | quest                    = Anniversary Party\n  | turn in                  = {{U30 ingredient|20}}\n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Stunning|6}}\n* {{Skills|Intimidate|12}}\n* {{Immunity|Whirlwind Ward}}\n* {{Stat|STR|2|Insightful}}\n* {{Augment|Green}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = When you just need to put your foot down.\n  | pic                      = Boots Generic Blue Gold.png\n  | picdesc                  = Severlin's Leaden Boots (level 10).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Stunning +6",
+      "tooltip": "Stunning +6: +6 Enhancement bonus to the DC of character's Stunning Blow and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stunning",
+          "title": "Stunning",
+          "text": "Stunning +6"
+        }
+      ]
+    },
+    {
+      "text": "Intimidate +12",
+      "tooltip": "Intimidate +12: Passive: +12 Competence bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Intimidate +12"
+        }
+      ]
+    },
+    {
+      "text": "Whirlwind Ward",
+      "tooltip": "Whirlwind Ward: This effect renders you immune to being knocked down by an Air Elemental's whirlwind. However, it does not prevent you from being knocked back or away from touching the Air Elemental.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Whirlwind_Ward",
+          "title": "Whirlwind Ward",
+          "text": "Whirlwind Ward"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Strength +2",
+      "tooltip": "Insightful Strength +2: This item gives the wearer the power of Ogre Strength, granting a +2 Insight bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Insightful Strength +2"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

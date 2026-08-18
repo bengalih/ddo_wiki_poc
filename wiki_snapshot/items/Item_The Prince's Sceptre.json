@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:The Prince's Sceptre",
+  "page_id": 83869,
+  "revision_id": 691042,
+  "revision_timestamp": "2026-07-01T13:50:52Z",
+  "fetched_at": "2026-08-17T23:16:15.301785+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon \n  | name                     = The Prince's Sceptre\n  | damage                   = [1d6] + 2 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | hand                     = One-handed\n  | race                     = \n  | reqtrait                 = \n  | UMD DC                   = \n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 5\n  | durability               = 100\n  | material                 = Cold Iron\n  | hardness                 = 15\n  | cost                     = 2,000pp 1cp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 48\n  | revamped                 = Update 50\n  | quest                    = Fables of the Feywild\n  | chest                    = any chest, or turn in 20 [[Item:Chunk of Ferrocrystal|Chunks of Ferrocrystal]] at the [[Cauldron of Cadence]]\n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Spell Focus|Mastery|2}}\n* {{Spell Focus|Mastery|1|Insight}}\n* {{Spellpen|3}}\n* {{Spellpen|2|Insight|prefix=Insightful}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Ferrocrystal Club shown.jpg\n  | picdesc                  = The Prince's Sceptre.png\n  | description              = This weapon seems to be sensitive to Cold, and bears a small seal of the Pale Prince.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Spell Focus Mastery +2",
+      "tooltip": "Spell Focus Mastery +2: +2 Equipment bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Spell Focus Mastery +2"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Spell Focus Mastery +1",
+      "tooltip": "Insightful Spell Focus Mastery +1: +1 Insight bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Insightful Spell Focus Mastery +1"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration +3",
+      "tooltip": "Spell Penetration +3: Passive: +3 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration +3"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Spell Penetration +2",
+      "tooltip": "Insightful Spell Penetration +2: Passive: +2 Insight bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Insightful Spell Penetration +2"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Pick of Endless Light (level 24)",
+  "page_id": 72649,
+  "revision_id": 672620,
+  "revision_timestamp": "2026-01-25T18:34:57Z",
+  "fetched_at": "2026-08-17T22:37:53.707799+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Pick of Endless Light}}\n  | sentience                = no\n  | damage                   = 3.80[1d4] + 7 Pierce, Magic\n  | crit                     = 20 / x4\n  | type                     = Light Pick\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Piercing\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 24\n  | durability               = 305\n  | material                 = Steel\n  | hardness                 = 34\n  | cost                     = 9,620 pp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = The Night Revels\n  | chest                    = \n  | end reward               = \n  | turn in                  = {{Item|Pick of Endless Light (level 20)}}{{Br}}{{Tab}}and {{NightRevelsRecipe|ing_chocolate= 200|ing_almond= 60|ing_cinnamon= 100}} at [[Joe Candymaker]]\n  | revamped                 = Update 76\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|7}}\n* {{Bane|Undead|Greater}}\n* {{Coruscating}}\n* {{Light Bringer}}\n* {{Sunburst|Greater}}\n  | crafting                 = Night Revels\n  | craftingupgrade          = Pick of Endless Light (level 28)\n  | description              = This pick is light upon light; both brilliant and lacking in weight.\n  | pic                      = Alchemical_Light_Pick_shown.jpg<!-- placeholder image for: Pick of Endless Light shown.jpg -->\n  | picdesc                  = Pick of Endless Light (level 24).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Light Pick",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Greater Undead Bane",
+      "tooltip": "Greater Undead Bane: A bane weapon excels at attacking one type or subtype of creature. Against Undeads, this weapon's effective enhancement bonus is +4 better than its normal enhancement bonus. It deals an extra 3 to 18 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Greater Undead Bane"
+        }
+      ]
+    },
+    {
+      "text": "Coruscating",
+      "tooltip": "Coruscating: This weapon shines with an inner light. A coruscating weapon deals an extra 2 to 12 points of light damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Coruscating",
+          "title": "Coruscating",
+          "text": "Coruscating"
+        }
+      ]
+    },
+    {
+      "text": "Light Bringer",
+      "tooltip": "Light Bringer: On Vorpal Hit: If an undead struck by this weapon has fewer than 1000 Hit Points, it is instantly slain. If the undead has above 1000 hit points, it takes 100 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Light_Bringer",
+          "title": "Light Bringer",
+          "text": "Light Bringer"
+        }
+      ]
+    },
+    {
+      "text": "Greater Sunburst",
+      "tooltip": "Greater Sunburst: This item blazes with the eternal fury at the heart of a sun. Occasionally, this power comes to the surface, unleashing a nova of light which will blind the struck enemy, dealing severe light damage to it and any other nearby foes.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sun_Burst#Greater_Sunburst",
+          "title": "Sun Burst",
+          "text": "Greater Sunburst"
+        }
+      ]
+    }
+  ]
+}

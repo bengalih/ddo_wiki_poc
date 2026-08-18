@@ -1,0 +1,40 @@
+{
+  "page_title": "Item:Gatewarden's Girdle",
+  "page_id": 13812,
+  "revision_id": 631034,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:09:28.756415+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Gatewarden's Girdle\n  | basevalue                = 405 pp\n  | weight                   = 0.10 lbs\n  | type                     = Belt\n  | slot                     = Waist\n  | quest                    = The Seal of Shan-To-Kor\n  | end reward               = yes\n  | durability               = 30\n  | material                 = Leather\n  | hardness                 = 6\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtA|boa}}\n  | mythic                   = no\n  | enhancements             = \n* {{Save|F|2}}\n* {{Fortification|1}}\n  | description              = [[Amrog the Gatewarden]] wore this large durable belt, which protected against many an adventurer who would try to force entry into the underground hobgoblin city.\n  | pic                      = Belt Generic.png\n  | picdesc                  = Gatewarden's Girdle.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "enchantments": [
+    {
+      "text": "Fortitude Save +2",
+      "tooltip": "Fortitude Save +2: This item gives a +2 Resistance bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Fortitude Save +2"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +25%",
+      "tooltip": "Fortification +25%: This suit of armor or shield produces a magical force that protects vital areas of the wearer much more effectively. When a critical hit or sneak attack is scored on the wearer, there is a 25% chance that the critical hit or sneak attack is negated and damage is instead rolled normally.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +25%"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "page_title": "Item:Cleaver, Hewer of Suffering",
+  "page_id": 24849,
+  "revision_id": 629004,
+  "revision_timestamp": "2025-04-21T21:24:58Z",
+  "fetched_at": "2026-08-17T03:56:47.831024+00:00",
+  "categories": [],
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Hemorrhaging",
+      "tooltip": "Hemorrhaging: This weapon is viciously sharp and will do an additional 2 to 16 damage to targets that are vulnerable to bleeding.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleed#Hemorrhaging",
+          "title": "Bleed",
+          "text": "Hemorrhaging"
+        }
+      ]
+    },
+    {
+      "text": "Limb Chopper",
+      "tooltip": "Limb Chopper: This potent and feared ability allows the weapon to sever the limbs of those it strikes. On an attack roll of 20 which is confirmed as a critical hit, the weapon severs an opponent's limb from its body. Some creatures, including many aberrations and all oozes, have no limbs. Others, such as golems and undead creatures, are not affected by the loss of their limbs. Most other creatures, however, have their movement slowed 75% and attacks slowed by 50% when a limb is cut off.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Limb_Chopper",
+          "title": "Limb Chopper",
+          "text": "Limb Chopper"
+        }
+      ]
+    },
+    {
+      "text": "Improved Cursespewing",
+      "tooltip": "Improved Cursespewing: On Vorpal Hit: Your enemy is cursed with a -4 morale penalty on attack rolls, saving throws, and skill checks. This painful curse also causes the victim to take 2d6 damage every two seconds for a duration of twelve seconds. Additional vorpal strikes while the curse is active will extend the duration by another twelve seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Improved_Cursespewing",
+          "title": "Improved Cursespewing",
+          "text": "Improved Cursespewing"
+        }
+      ]
+    },
+    {
+      "text": "Doublestrike 6%",
+      "tooltip": "Doublestrike 6%: Passive: 6% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 6%"
+        }
+      ]
+    },
+    {
+      "text": "Attuned to Heroism",
+      "tooltip": "This relic is attuned to heroic actions.",
+      "children": [
+        {
+          "text": "Attuned by Heroism: Tier 1",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Planar Conflux",
+              "tooltip": "Planar Conflux: When this item is equipped at the same time as a Planar Focus, you will gain set bonuses based on the Planar Focus that you have equipped.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Named_item_sets#Planar_Conflux",
+                  "title": "Named item sets",
+                  "text": "Planar Conflux"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 1"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "+7 Enhancement Bonus → +8 Enhancement Bonus",
+              "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.+8 Enhancement Bonus: +8 enhancement bonus to attack and damage rolls.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+7 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+8 Enhancement Bonus"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Hemorrhaging → Phlebotomizing",
+              "tooltip": "Hemorrhaging: This weapon is viciously sharp and will do an additional 2 to 16 damage to targets that are vulnerable to bleeding.Phlebotomizing: This weapon is wickedly sharp and will do an additional 3 to 24 damage to targets that are vulnerable to bleeding.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Bleed#Hemorrhaging",
+                  "title": "Bleed",
+                  "text": "Hemorrhaging"
+                },
+                {
+                  "target": "/page/Bleed#Phlebotomizing",
+                  "title": "Bleed",
+                  "text": "Phlebotomizing"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 3"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 4",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Red Augment Slot",
+              "tooltip": "Red and Colorless",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Augment_Slot",
+                  "title": "Augment Slot",
+                  "text": "Red Augment Slot"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 4"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Attuned_to_Heroism",
+          "title": "Attuned to Heroism",
+          "text": "Attuned to Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ],
+  "item_class": "Weapon",
+  "item_template": ""
+}

@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:War Wizard's Bracers",
+  "page_id": 24240,
+  "revision_id": 635768,
+  "revision_timestamp": "2025-04-22T04:49:53Z",
+  "fetched_at": "2026-08-17T23:25:25.729182+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = War Wizard's Bracers\n  | minlevel                 = 20\n  | type                     = Bracers\n  | slot                     = Wrist\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 210\n  | material                 = Magesteel\n  | hardness                 = 30\n  | basevalue                = 8,005 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Eveningstar\n  | end reward               = \n  | turn in                  = {{Commendation|WW|5}}\n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|9}}\n* {{Spellpen|III}}\n* {{Elemental Spell Power}}\n* {{Hp|Greater Elemental Energy}}\n* {{Named item sets|Battle Arcanist}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = These bracers have been layered with powerful enchantments to help a War Wizard in battle.\n  | pic                      = Bracers Generic.png\n  | picdesc                  = War Wizard's Bracers.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Magesteel",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +9",
+      "tooltip": "Armor Bonus +9: This item surrounds the wearer with an invisible but tangible field of force, granting +9 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +9"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration III",
+      "tooltip": "Spell Penetration III: Passive: +3 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration III"
+        }
+      ]
+    },
+    {
+      "text": "Elemental Spell Power",
+      "tooltip": "Elemental Spell Power: Harnessing a small amount of the power and potential of the raw elements, this item gives you a +50 bonus to your maximum spell points. This stacks with all other bonuses except Elemental Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Elemental_Spell_Power",
+          "title": "Elemental Spell Power",
+          "text": "Elemental Spell Power"
+        }
+      ]
+    },
+    {
+      "text": "Greater Elemental Energy",
+      "tooltip": "Greater Elemental Energy: Harnessing a small amount of power and potential of the raw elements, this item gives you a +20 bonus to your maximum hit points. This stacks with all bonuses except for Greater Elemental Energy.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Elemental_Energy",
+          "title": "Elemental Energy",
+          "text": "Greater Elemental Energy"
+        }
+      ]
+    },
+    {
+      "text": "Battle Arcanist",
+      "tooltip": "Battle Arcanist: When all three items from the set are equipped, you will gain a 10% Enhancement discount to the Spell Point cost of all your spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Battle_Arcanist",
+          "title": "Named item sets",
+          "text": "Battle Arcanist"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Hidden Armlets",
+  "page_id": 79655,
+  "revision_id": 631453,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:21:25.238229+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Hidden Armlets\n  | type                     = Bracers\n  | race                     = Aasimar Scourge\n  | basevalue                = 6,010 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Wrist\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 15\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Doublestrike|7}}\n* {{Stat|STR|1|Exceptional}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Bracers Generic.png\n  | picdesc                  = Hidden_Armlets.png\n  | food                     = no\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Doublestrike 7%",
+      "tooltip": "Doublestrike 7%: Passive: 7% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 7%"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Strength +1",
+      "tooltip": "Exceptional Strength +1: This item gives the wearer the power of Ogre Strength, granting a +1 Exceptional bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Exceptional Strength +1"
+        }
+      ]
+    }
+  ]
+}

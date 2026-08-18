@@ -1,0 +1,74 @@
+{
+  "page_title": "Item:Wand of the Temple's Black Earth",
+  "page_id": 97525,
+  "revision_id": 635757,
+  "revision_timestamp": "2025-04-22T04:49:09Z",
+  "fetched_at": "2026-08-17T23:25:09.375194+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Eternal wand\n  | name                     = Wand of the Temple's Black Earth\n  | umd                      = 20\n  | noumd                    = Wiz, Sor\n  | minlevel                 = 8\n  | bind                     = {{Bind|BtA|BoA|exclusive=1}}\n  | durability               = 105\n  | material                 = Wood\n  | hardness                 = 18\n  | cost                     = 1,200 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 56\n  | quest                    = The Temple of Elemental Evil\n  | chest                    = any chest\n  | icon                     = CausticBolt.png\n  | spell                    = Caustic Bolt\n  | casterlvl                = 8\n  | charge                   = 50\n  | enhancements             = \n* {{Clicky|Caustic Bolt|8|50|50}}\n* {{SpellPower|Corrosion|70}}\n* {{Spelllore|Acid|10}}\n* {{Augment|Green}}\n  | description              = A thin rod of blackened wood containing charges of the Caustic Bolt spell. Eternal wands recharge over time if they are not actively being used.\n  | pic                      = \n  | picdesc                  = Wand of the Temple's Black Earth.png\n  | notes                    = {{Non-food|wai}}\n{{Bug|All eternal wands in ToEE spawn with [[Spellcasting Implement]] enchantment that vanishes after first relog.}}\n}}",
+  "item_template": "Named item",
+  "material": "Wood",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Caustic Bolt — 50 Charges (Recharged/Day:50)",
+      "tooltip": "Caustic BoltCaster level: 8Charges: 50 (50/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Caustic_Bolt",
+          "title": "Caustic Bolt",
+          "text": "Caustic Bolt"
+        }
+      ]
+    },
+    {
+      "text": "Corrosion +70",
+      "tooltip": "Corrosion +70: Passive: +70 Equipment bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Corrosion +70"
+        }
+      ]
+    },
+    {
+      "text": "Acid Lore +10%",
+      "tooltip": "Acid Lore +10: Passive: Your Acid spells gain a 10% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Acid Lore +10%"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

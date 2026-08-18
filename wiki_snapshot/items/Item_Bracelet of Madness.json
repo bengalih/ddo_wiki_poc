@@ -1,0 +1,90 @@
+{
+  "page_title": "Item:Bracelet of Madness",
+  "page_id": 19716,
+  "revision_id": 690583,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:14:11.719597+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Bracelet of Madness\n  | type                     = Bracers\n  | minlevel                 = 20\n  | slot                     = Wrist\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 110\n  | material                 = gem\n  | hardness                 = 12\n  | basevalue                = 10,020pp\n  | weight                   = 0.10 lbs\n  | quest                    = Hound of Xoriat\n  | chest                    = Side chest (Hard/Elite)\n  | mythic                   = no\n  | enhancements             = \n* {{SpellPower|Potency|48}}\n* {{Spelllore|Spell|iii}}\n* {{Spell Focus|Evocation|II}}\n* {{Feeds Off Madness}}\n** {{Spellpen|ii}}\n** {{SpellPower|Potency|52}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This bracelet enhances your spellcasting power, but it seems to whisper to you, urging you to seek out other items touched by Xoriat. Wear it with other items affected by the Plane of Madness to gain further power.\n  | pic                      = Disc Generic Purple.png\n  | picdesc                  = Bracelet of Madness.png\n  | tips                     = \n* {{Feeds Off Madness}} adds these effects if certain items are equipped when the Bracelet of Madness is equipped. The effects remain active if the other items are un-equipped (probably a bug<!--{{Bug|bug}}-->):\n** Adds {{Spellpen|ii}} if [[Trace of Madness]] upgraded armor is equipped first\n** Adds {{SpellPower|Potency|52}} if [[Polycurse Dagger]], [[Glorious Obscenity]], or [[Trace of Madness]] upgraded armor is equipped first and [[Sustaining Symbiont]] is not equipped first. [[Sustaining Symbiont]] can be equipped after the Bracelet of Madness and this effect will remain <!--Tested with Glorious Obscenity for the +52 value.-->\n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Potency +48",
+      "tooltip": "Potency +48: Passive: +48 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +48"
+        }
+      ]
+    },
+    {
+      "text": "Spell Lore III",
+      "tooltip": "Spell Lore III: Passive: All of your spells gain a 3% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Spell Lore III"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus II",
+      "tooltip": "Evocation Focus II: +2 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus II"
+        }
+      ]
+    },
+    {
+      "text": "Feeds Off Madness",
+      "tooltip": "Feeds Off Madness: This item greedily feeds off the aura of madness related to certain Xoriat effects. The more of these its wearer is affected by, the stronger this item will become.",
+      "children": [
+        {
+          "text": "Spell Penetration II",
+          "tooltip": "Spell Penetration II: Passive: +2 Equipment bonus to Spell Penetration checks.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_penetration",
+              "title": "Spell penetration",
+              "text": "Spell Penetration II"
+            }
+          ]
+        },
+        {
+          "text": "Potency +52",
+          "tooltip": "Potency +52: Passive: +52 Equipment bonus to each Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Potency",
+              "title": "Potency",
+              "text": "Potency +52"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Feeds_Off_Madness",
+          "title": "Feeds Off Madness",
+          "text": "Feeds Off Madness"
+        }
+      ]
+    }
+  ]
+}

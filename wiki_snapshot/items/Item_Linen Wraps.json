@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Linen Wraps",
+  "page_id": 79452,
+  "revision_id": 633260,
+  "revision_timestamp": "2025-04-22T02:01:50Z",
+  "fetched_at": "2026-08-17T22:17:55.940855+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Linen Wraps\n  | minlevel                 = 7\n  | type                     = Gloves\n  | slot                     = Hand\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 80\n  | material                 = Leather\n  | hardness                 = 12\n  | basevalue                = 2805 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | released                 = Update 45\n  | quest                    = Thrall of the Necromancer\n  | chest                    = End chest\n  | enhancements             = \n* {{Stat|STR|+5}}\n* {{Proof|Disease|6}}\n* {{Cursed|DEX}}\n* {{Augment|Colorless}}\n  | description              = Filthy bandages that smell of gravedust and mildew. When worn, the wraps seem to enhance the strength of the wearer.\n  | pic                      = Gloves Generic.png\n  | picdesc                  = Linen Wraps.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Strength +5",
+      "tooltip": "Strength +5: This item gives the wearer the power of Ogre Strength, granting a +5 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +5"
+        }
+      ]
+    },
+    {
+      "text": "Proof Against Disease +6",
+      "tooltip": "Proof Against Disease +6: This item grants its wearer immunity to natural diseases. This item also grants a +6 Enhancement bonus to saving throws against magical diseases, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical diseases with a DC of less than 7 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Disease",
+          "title": "Proof Against Disease",
+          "text": "Proof Against Disease +6"
+        }
+      ]
+    },
+    {
+      "text": "Curse of Clumsiness",
+      "tooltip": "Curse of Clumsiness: Passive -1 Penalty to Dexterity. (The minimum level required to equip this item is lower than normal due to this curse.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cursed",
+          "title": "Cursed",
+          "text": "Curse of Clumsiness"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Hands Boost +1 or +3",
+      "tooltip": "Mythic Hands Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Hands Boost"
+        }
+      ]
+    }
+  ]
+}

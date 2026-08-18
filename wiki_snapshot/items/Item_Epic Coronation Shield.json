@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Epic Coronation Shield",
+  "page_id": 10397,
+  "revision_id": 629940,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:46:27.364028+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Epic Coronation Shield\n  | type                     = Large\n  | prof                     = General\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +13\n  | maxdexbonus              = \n  | dr                       = 12\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = 3[2d6] + 6\n  | dmgtype                  = Bludgeon, Good, Magic\n  | crit                     = 20 / x2\n  | durability               = 275\n  | material                 = Dwarven Iron\n  | hardness                 = 30\n  | basevalue                = 8,002pp\n  | weight                   = 15 lbs\n  | epic                     = Coronation Shield\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|6}}\n* {{Impact}}\n* {{Blast|Holy|4}}\n* {{Sirocco|Greater}}\n* {{Guard|Epic Paragon Light}}\n* {{Augment|Blue}}\n* {{Augment|Purple}}\n* {{Named item sets|Epic Oasis of Morality}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Coronation Shield\n  | description              = 12 shields were crafted for the personal guard of a long forgotten drow chieftain to use during his coronation ceremony. Only this one remains.\n  | pic                      = Coronation Shield shown.jpg\n  | picdesc                  = Epic Coronation Shield.png\n  | tips                     = \n}}\n[[Category:Sands of Menechtarun epic items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Dwarven Iron",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Holy Blast 4",
+      "tooltip": "Holy Blast 4: This weapon sings of virtue, dealing 4d6 Good damage on a successful hit, and an additional 4d6 Good damage on a critical hit. This effect makes the weapon good aligned.Evil characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Holy Blast 4"
+        }
+      ]
+    },
+    {
+      "text": "Greater Sirocco",
+      "tooltip": "Greater Sirocco: A critical hit with this weapon causes a whirlwind of desert sand to swirl about the target, temporarily blinding it. A successful Reflex save (DC 35) prevents the effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sirocco#Greater_Sirocco",
+          "title": "Sirocco",
+          "text": "Greater Sirocco"
+        }
+      ]
+    },
+    {
+      "text": "Epic Paragon Light Guard",
+      "tooltip": "Epic Paragon Light Guard: When hit or missed in combat, the attacking creature takes 8d8 Light damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Epic_Paragon_Light_Guard",
+          "title": "Epic Paragon Light Guard",
+          "text": "Epic Paragon Light Guard"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Epic Oasis of Morality",
+      "tooltip": "Epic Oasis of Morality: 2 Pieces Equipped:+4% Artifact bonus to Positive Spellcrit Chance+20 Artifact bonus to Positive Spellpower+10% Artifact bonus to Fortification Bypass",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Epic_Oasis_of_Morality",
+          "title": "Named item sets",
+          "text": "Epic Oasis of Morality"
+        }
+      ]
+    }
+  ]
+}

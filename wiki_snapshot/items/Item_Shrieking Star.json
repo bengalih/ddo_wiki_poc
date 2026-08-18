@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Shrieking Star",
+  "page_id": 7939,
+  "revision_id": 634732,
+  "revision_timestamp": "2025-04-22T03:41:05Z",
+  "fetched_at": "2026-08-17T22:57:57.576942+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Shrieking Star\n  | type                     = Morningstar\n  | damage                   = [1d10] + 4 Pierce, Bludgeon, Magic, Crystal\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 8\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 145\n  | material                 = Glass \n  | hardness                 = 15\n  | basevalue                = 3,200 pp 8 gp\n  | weight                   = 6 lbs\n  | quest                    = Slavers of the Shrieking Mines\n  | chest                    = Locked chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|4}}\n* {{Shrieking}}\n* {{Roaring}}\n* {{Augment|Red}}\n  | description              = The resonant crystals of the Shrieking Mines have an extreme affinity with sonic energy. A cunning ogre mage took advantage of this property, expertly fusing tiny crystal shards with metal to craft this powerful crystalline weapon.\n  | pic                      = Shrieking Star shown.jpg\n  | picdesc                  = Shrieking Star.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Morningstar",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Shrieking",
+      "tooltip": "Shrieking: Shrieking weapons emit a piercing screech whenever they are used to make a successful attack. This screech deals an additional 2 to 12 sonic damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shrieking",
+          "title": "Shrieking",
+          "text": "Shrieking"
+        }
+      ]
+    },
+    {
+      "text": "Roaring",
+      "tooltip": "Roaring: This weapon causes targets to become shaken (DC 25 Will save negates) and, on a critical hit, does 2 to 12 sonic damage to the target.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Roaring",
+          "title": "Roaring",
+          "text": "Roaring"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

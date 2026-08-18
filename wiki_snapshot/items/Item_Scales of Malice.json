@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Scales of Malice",
+  "page_id": 63608,
+  "revision_id": 634473,
+  "revision_timestamp": "2025-04-22T03:24:01Z",
+  "fetched_at": "2026-08-17T22:51:08.488398+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Scales of Malice\n  | type                     = Scalemail\n  | feat                     = Medium\n  | race                     = None\n  | ac                       = +17\n  | maxdexbonus              = 10\n  | acp                      = -2\n  | asf                      = 25%\n  | durability               = 204\n  | material                 = Blue Dragonscale\n  | hardness                 = 19\n  | minlevel                 = 10\n  | released                 = Update 35\n  | quest                    = Black and Blue\n  | chest                    = end chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | basevalue                = 4,075 pp\n  | weight                   = 30 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Stat|Con|2|Insightful}}\n* {{Hp|Vitality|19}}\n* {{Sheltering|14|Enhancement|Physical}}\n* {{Parrying|2}}\n* {{Augment|Green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Scales of Malice shown.jpg\n  | picdesc                  = Scales of Malice.png\n  | description              = Assembled from scales shed during Kor Kaza's imprisonment, this suit of armor was meant for one of the loyal followers that would free her.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Blue Dragonscale",
+  "armor_type": "Scalemail",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Constitution +2",
+      "tooltip": "Insightful Constitution +2: This item gives the wearer improved health, granting a +2 Insight bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Insightful Constitution +2"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +19",
+      "tooltip": "Vitality +19: Passive: +19 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +19"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +14",
+      "tooltip": "Physical Sheltering +14: +14 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +14"
+        }
+      ]
+    },
+    {
+      "text": "Parrying +2",
+      "tooltip": "Parrying +2: +2 Insight bonus to Armor Class, +2 Insight bonus to Saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Parrying",
+          "title": "Parrying",
+          "text": "Parrying +2"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

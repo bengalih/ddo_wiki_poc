@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Staff of the Deep",
+  "page_id": 126196,
+  "revision_id": 699173,
+  "revision_timestamp": "2026-07-23T16:28:57Z",
+  "fetched_at": "2026-08-17T23:04:57.844498+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Staff of the Deep\n  | damage                   = 1.20[1d6] + 5 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = Two-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 190\n  | material                 = Steel\n  | hardness                 = 21\n  | minlevel                 = 11\n  | basevalue                = 4,400pp 1cp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 81\n  | quest                    = Back to the Abyss\n  | chest                    = [[Forgefeeder]]'s chest\n  | mythic                   = yes\n  | enhancements             = \n* {{Enhancement bonus|i|5|11}}\n* {{SpellPower|Potency|49}}\n* {{SpellPower|Potency|24|Insightful}}\n* {{Spell Focus|Mastery|1|Quality}}\n* {{Spellpen|1|Quality|prefix=Quality}}\n* {{Equipoised Focus}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Lying in the darkness for centuries looks good on this expertly made staff.\n  | pic                      = Staff of the Deep shown.jpg\n  | picdesc                  = Staff of the Deep.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +11",
+      "tooltip": "Spellcasting Implement +11: Passive: +11 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +11"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Potency +49",
+      "tooltip": "Potency +49: Passive: +49 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +49"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Potency +24",
+      "tooltip": "Insightful Potency +24: Passive: +24 Insightful bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Insightful Potency +24"
+        }
+      ]
+    },
+    {
+      "text": "Quality Spell Focus Mastery +1",
+      "tooltip": "Quality Spell Focus Mastery +1: +1 Quality bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Quality Spell Focus Mastery +1"
+        }
+      ]
+    },
+    {
+      "text": "Quality Spell Penetration +1",
+      "tooltip": "Quality Spell Penetration +1: Passive: +1 Quality bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Quality Spell Penetration +1"
+        }
+      ]
+    },
+    {
+      "text": "Equipoised Focus",
+      "tooltip": "Equipoised Focus: Your two-handed weapon gains a +2 Exceptional focus to Spell DCs and is considered an Implement.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Equipoised_Focus",
+          "title": "Equipoised Focus",
+          "text": "Equipoised Focus"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

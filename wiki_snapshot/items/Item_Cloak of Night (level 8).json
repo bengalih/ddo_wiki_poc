@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Cloak of Night (level 8)",
+  "page_id": 12390,
+  "revision_id": 663128,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:22:47.248699+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Cloak of Night}}\n  | type                     = Cloak\n  | class                    = Clothing\n  | slot                     = Back\n  | durability               = 90\n  | material                 = Leather\n  | hardness                 = 10\n  | basevalue                = 3,205 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 8\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = The Night Revels\n  | turn in                  = {{Item|Cloak of Night (level 4)}}{{Br}}{{Tab}}and {{NightRevelsRecipe|ing_chocolate=80|ing_almond=30|ing_apple=10}} at [[Joe Candymaker]]\n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* {{Guard|Invisibility}}\n* {{Concealment|Dusk}}\n  | crafting                 = Joe Candymaker\n  | craftingupgrade          = Cloak of Night (level 12)\n  | pic                      = Cloak of Night shown.jpg\n  | picdesc                  = Cloak of Night (level 8).png\n  | description              = This Cloak is as smooth and dark as the most pitch-black of nights. Wearing it makes you difficult to spot and attack, and by awakening its powers you will enable it to aid you against creatures native to the darkness.\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Invisibility Guard",
+      "tooltip": "Invisibility Guard: This item has a chance of granting you temporary invisibility when you are hit by foes. The invisibility will not be removed when you attack or take damage, but it will wear off after 10 seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Invisibility_Guard",
+          "title": "Invisibility Guard",
+          "text": "Invisibility Guard"
+        }
+      ]
+    },
+    {
+      "text": "Dusk",
+      "tooltip": "Dusk: Equipping this item engulfs you in twilight shadows. Attacks from enemies have a 10% chance to miss you due to concealment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dusk_(enchantment)",
+          "title": "Dusk (enchantment)",
+          "text": "Dusk"
+        }
+      ]
+    }
+  ]
+}

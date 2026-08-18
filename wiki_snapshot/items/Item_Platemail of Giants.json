@@ -1,0 +1,44 @@
+{
+  "page_title": "Item:Platemail of Giants",
+  "page_id": 5457,
+  "revision_id": 633986,
+  "revision_timestamp": "2025-04-22T02:51:03Z",
+  "fetched_at": "2026-08-17T22:38:37.269809+00:00",
+  "categories": [],
+  "wikitext": "{{History}}\n{{Named item|Armor\n  | name                     = Platemail of Giants\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | race                     = \n  | minlevel                 = 8\n  | bind                     = {{Bind|no}}\n  | ac                       = +9\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 114\n  | material                 = Steel\n  | hardness                 = 16\n  | basevalue                = 2,650pp\n  | weight                   = 50 lbs\n  | quest                    = Tempest's Spine\n  | chest                    = End Chest\n  | end reward               = \n  | turn in                  = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|1}}\n* {{DR|5}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This armor consists of shaped and fitted metal plates riveted and interlocked to cover the whole body.\n  | pic                      = Full Plate of Giants shown.jpg <!--Same style-->\n  | picdesc                  = Platemail of Giants.png\n  | notes                    = This item has been replaced with the {{Item|Full Plate of Giants|Full Plate of Giants}} and no longer drops.\n}}",
+  "item_template": "History",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "DR 5/-",
+      "tooltip": "Damage Reduction 5/-: Reduces all physical damage by 5.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    }
+  ]
+}

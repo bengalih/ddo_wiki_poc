@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Dagger of the Deep Ones",
+  "page_id": 80854,
+  "revision_id": 679872,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:29:33.215596+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Dagger of the Deep Ones\n  | damage                   = [1d4] + 3 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Dagger\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Piercing\n  | prof                     = Simple\n  | reqtrait                 = <!-- Leave blank if not used-->\n  | UMD DC                   = <!-- Leave blank if not used-->\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 6\n  | durability               = 100 <!-- Durability-->\n  | material                 = Steel <!-- Steel, Silver, etc-->\n  | hardness                 = 16\n  | cost                     = 2400 pp 2 gp\n  | weight                   = 1.00 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 47\n  | revamped                 = Update 76\n  | quest                    = The Promise of Fire\n  | chest                    = end chest<!-- Leave blank if not used-->\n  | end reward               = <!-- Leave blank if not used-->\n  | turn in                  = <!-- Leave blank if not used-->\n  | epic                     = no <!-- If yes, replace \"no\" with name of non-epic version-->\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Tidal|2}}\n* {{Corrosive Salt}}\n* {{Bleeding|2}}\n* {{Maiming|2}}\n* {{Augment|Purple}}\n  | crafting                 = <!--Type of crafting-->\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | description              = A snake-like pattern winds its way around the handle.\n  | pic                      = Ethereal Dagger shown.jpg\n  | picdesc                  = Dagger of the Deep Ones.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Tidal 2",
+      "tooltip": "Tidal 2: This weapon is sheathed in water. A Tidal weapon deals an extra 2d6 points of damage on a successful hit. Creatures with the Fire trait take double this damage instead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Tidal",
+          "title": "Tidal",
+          "text": "Tidal 2"
+        }
+      ]
+    },
+    {
+      "text": "Corrosive Salt",
+      "tooltip": "Corrosive Salt: This weapon stores a caustic, insatiable power deep within. When this weapon is used, this power can come to the surface in the form of a noxious, corrosive salt that dissolves all substances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosive_Salt",
+          "title": "Corrosive Salt",
+          "text": "Corrosive Salt"
+        }
+      ]
+    },
+    {
+      "text": "Bleeding 2",
+      "tooltip": "Bleeding 2: This weapon is wickedly curved, with spines and hooks meant to cause damage to those with flesh. This weapon does 2d8 bleeding damage to those that are vulnerable to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleeding",
+          "title": "Bleeding",
+          "text": "Bleeding 2"
+        }
+      ]
+    },
+    {
+      "text": "Maiming 2",
+      "tooltip": "Maiming: This weapon has a twisted haft or grip and spikes along its blade, head, or point. When you score a critical hit with this weapon, it does an additional +2d8 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maiming",
+          "title": "Maiming",
+          "text": "Maiming 2"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

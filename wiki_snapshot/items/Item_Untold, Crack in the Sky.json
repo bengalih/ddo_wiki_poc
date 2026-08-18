@@ -1,0 +1,140 @@
+{
+  "page_title": "Item:Untold, Crack in the Sky",
+  "page_id": 74890,
+  "revision_id": 635677,
+  "revision_timestamp": "2025-04-22T04:43:49Z",
+  "fetched_at": "2026-08-17T23:23:05.329461+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Untold, Crack in the Sky\n  | type                     = Battle Axe\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | minlevel                 = 29\n  | bind                     = {{Bind|BtC|BoA}}\n  | damage                   = 4.80[1d8+3] + 15 Slash, Magic\n  | crit                     = 20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 360\n  | material                 = Steel\n  | hardness                 = 39\n  | basevalue                = 11,601 pp, 9gp\n  | weight                   = 6 lbs\n  | released                 = Update 42\n  | quest                    = Too Hot to Handle\n  | chest                    = End chest\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Nearly Finished|{{Augment|Purple}}|{{Armor-Piercing|21}}|{{Completed Weapon}}|and=true}}\n* {{Vulnerability|Fetters of Unreality}}\n* {{Electric Storm|Greater}}\n* {{Electrifying|6}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = The white feather drifts to the quiet sea below.\n  | pic                      = Untold, Crack in the Sky shown.jpg\n  | picdesc                  = Untold Crack In The Sky.png\n  | tips                     =\n* {{Popup|Image of completed version|[[File:Untold Crack In The Sky (Completed).png]]|long=y}}\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Battle Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Nearly Finished",
+      "tooltip": "Nearly Finished: This item isn't quite finished, but it's only a step away from completion. Bring it to a Cannith Reforging Station and combine it with melted materials to restore this item to its full potential.",
+      "children": [
+        {
+          "text": "Purple Augment Slot",
+          "tooltip": "Blue, Purple, Red, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Purple Augment Slot"
+            }
+          ]
+        },
+        {
+          "text": "Armor-Piercing 21%",
+          "tooltip": "Armor-Piercing 21%: Passive: +21% Enhancement bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Armor-Piercing",
+              "title": "Armor-Piercing",
+              "text": "Armor-Piercing 21%"
+            }
+          ]
+        },
+        {
+          "text": "Completed Weapon",
+          "tooltip": "Completed Weapon: This item is fully completed, and as a result deals an additional .5W damage.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Completed_Weapon",
+              "title": "Completed Weapon",
+              "text": "Completed Weapon"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Nearly_Finished",
+          "title": "Nearly Finished",
+          "text": "Nearly Finished"
+        }
+      ]
+    },
+    {
+      "text": "Fetters of Unreality",
+      "tooltip": "Fetters of Unreality: This weapon is cruel and deadly, and leaves behind wounds that affect both the body and the soul. This weapon has a chance to inflict multiple stacks of Vulnerable.Vulnerable: You take 1% more damage for 3 seconds. This effect stacks up to 20 times, and loses one stack on expiration.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fetters_of_Unreality",
+          "title": "Fetters of Unreality",
+          "text": "Fetters of Unreality"
+        }
+      ]
+    },
+    {
+      "text": "Greater Electric Storm",
+      "tooltip": "Greater Electric Storm: This weapon is imbued with an electrifying wrath. On an attack roll of 20 which is confirmed as a critical hit this power will be released, dealing damage to the target and all enemies near it for 30d3 + 90 electric damage. A successful Reflex save (DC 90) reduces this by half.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Storm#Greater_Electric_Storm",
+          "title": "Electric Storm",
+          "text": "Greater Electric Storm"
+        }
+      ]
+    },
+    {
+      "text": "Electrifying 6",
+      "tooltip": "Electrifying 6: This effect causes the edges of this weapon to arc with electricity, dealing 6d6 Lightning damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electrifying",
+          "title": "Electrifying",
+          "text": "Electrifying 6"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

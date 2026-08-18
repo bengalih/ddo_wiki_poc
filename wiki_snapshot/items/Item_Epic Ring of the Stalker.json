@@ -1,0 +1,208 @@
+{
+  "page_title": "Item:Epic Ring of the Stalker",
+  "page_id": 19534,
+  "revision_id": 630340,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:54:29.097500+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Epic [[Ring of the Stalker]]\n  | type                     = Ring\n  | minlevel                 = 20\n  | slot                     = Finger\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 210\n  | material                 = Steel\n  | hardness                 = 22\n  | basevalue                = 8020pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various ingredients\n  | mythic                   = no\n  | enhancements             = {{VaultsOfTheArtificersUpgrade}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = <!--yes -->\n  | craftingnotes            = <!-- Any notes about the crafteable item -->\n  | description              = A bound Invisible Stalker makes this ring a dangerous asset for anyone striking their enemies from the shadows.\n  | pic                      = Ring of the Stalker Orb.png\n  | picdesc                  = Epic Ring of the Stalker.png\n  | tips                     =\n* {{Popup|Tier 2|[[Image:Epic Ring of the Stalker (Tier 2).png|452 px]]|long=y}}\n* {{Popup|Tier 3|[[Image:Epic Ring of the Stalker (Tier 3).png|452 px]]|long=y}}\n\n}}\n[[Category:Cannith Challenge epic items]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": "Upgradeable - Tier 1: This item is a Tier 1 upgradable item.",
+      "children": [
+        {
+          "text": "Manslayer",
+          "tooltip": "Manslayer: While wearing this item, your weapon attacks gain the devastating ability to defeat a humanoid opponent with a single decisive blow. On an attack roll of 20 which is confirmed as a critical hit a humanoid target will be killed. Powerful humanoids may resist the vorpal strike and instead take 100 points of damage until they have been sufficiently weakened.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Manslayer",
+              "title": "Manslayer",
+              "text": "Manslayer"
+            }
+          ]
+        },
+        {
+          "text": "Insightful Deception +3",
+          "tooltip": "Insightful Deception +3: +3 Insight bonus to hit and +5 to damage for any hit that would qualify as a sneak attack.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Deception",
+              "title": "Deception",
+              "text": "Insightful Deception +3"
+            }
+          ]
+        },
+        {
+          "text": "Seeker +9",
+          "tooltip": "Seeker +9: Provides a +9 Enhancement bonus to confirm critical hits, and a +9 Enhancement bonus to critical hit damage (before multipliers are applied).",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Seeker",
+              "title": "Seeker",
+              "text": "Seeker +9"
+            }
+          ]
+        },
+        {
+          "text": "Ethereal",
+          "tooltip": "Ethereal: Equipping this item causes your hands and weapons to become partially incorporeal. Your melee attacks do not roll a miss chance for Incorporeal targets.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Ethereal",
+              "title": "Ethereal",
+              "text": "Ethereal"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": "Upgradeable - Tier 2: This item is a Tier 2 upgradable item.",
+      "children": [
+        {
+          "text": "Ethereal → Ghostly",
+          "tooltip": "Ethereal: Equipping this item causes your hands and weapons to become partially incorporeal. Your melee attacks do not roll a miss chance for Incorporeal targets. Ghostly: Equipping this item causes you to become partially incorporeal. Your melee attacks do not roll a miss chance for Incorporeal targets. Enemy attacks have a 10% chance to miss you due to incorporeality. You receive a +5 enhancement bonus to your Hide and Move Silently skills.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Ethereal",
+              "title": "Ethereal",
+              "text": "Ethereal"
+            },
+            {
+              "target": "/page/Ghostly",
+              "title": "Ghostly",
+              "text": "Ghostly"
+            }
+          ]
+        },
+        {
+          "text": "Insightful Deception +3 → Insightful Deception +4",
+          "tooltip": "Insightful Deception +3: +3 Insight bonus to hit and +5 to damage for any hit that would qualify as a sneak attack.Insightful Deception +4: +4 Insight bonus to hit and +6 to damage for any hit that would qualify as a sneak attack.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Deception",
+              "title": "Deception",
+              "text": "Insightful Deception +3"
+            },
+            {
+              "target": "/page/Deception",
+              "title": "Deception",
+              "text": "Insightful Deception +4"
+            }
+          ]
+        },
+        {
+          "text": "Seeker +9 → Seeker +10",
+          "tooltip": "Seeker +9: Provides a +9 Enhancement bonus to confirm critical hits, and a +9 Enhancement bonus to critical hit damage (before multipliers are applied). Seeker +10: Provides a +10 Enhancement bonus to confirm critical hits, and a +10 Enhancement bonus to critical hit damage (before multipliers are applied).",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Seeker",
+              "title": "Seeker",
+              "text": "Seeker +9"
+            },
+            {
+              "target": "/page/Seeker",
+              "title": "Seeker",
+              "text": "Seeker +10"
+            }
+          ]
+        },
+        {
+          "text": "Adds Colorless Augment Slot",
+          "tooltip": "Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Colorless Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This item is a Tier 3 upgradable item.",
+      "children": [
+        {
+          "text": "Seeker +10 → Seeker +11",
+          "tooltip": "Seeker +10: Provides a +10 Enhancement bonus to confirm critical hits, and a +10 Enhancement bonus to critical hit damage (before multipliers are applied). Seeker +11: Provides a +11 Enhancement bonus to confirm critical hits, and a +11 Enhancement bonus to critical hit damage (before multipliers are applied).",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Seeker",
+              "title": "Seeker",
+              "text": "Seeker +10"
+            },
+            {
+              "target": "/page/Seeker",
+              "title": "Seeker",
+              "text": "Seeker +11"
+            }
+          ]
+        },
+        {
+          "text": "Adds Deception +8",
+          "tooltip": "Deception +8: +8 Enhancement bonus to hit and +12 to damage for any hit that would qualify as a sneak attack.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Deception",
+              "title": "Deception",
+              "text": "Deception +8"
+            }
+          ]
+        },
+        {
+          "text": "Adds Green Augment Slot",
+          "tooltip": "Blue, Green, Yellow, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Green Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Amara's Band",
+  "page_id": 10198,
+  "revision_id": 628238,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:03:16.960848+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Amara's Band\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 120\n  | material                 = Gold\n  | hardness                 = 12\n  | basevalue                = 10,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | quest                    = Tower of Despair\n  | chest                    = right side end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|WIS|6}}\n* {{Stat|CHA|1|Exceptional}}\n* {{Named item sets|Exorcist of the Silver Flame}}\n* {{CraftingEffects|Incredible Potential}}\n  | crafting                 = Incredible Potential\n  | craftingupgrade          = <!-- leave me blank -->\n  | description              = This burnt ring of red gold is etched with images of stylized flame. It was worn by Amara, a powerful Exorcist of the Silverflame.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Amara's Band.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Wisdom +6",
+      "tooltip": "Wisdom +6: This item makes the wearer more in tune with her surroundings, granting a +6 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +6"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Charisma +1",
+      "tooltip": "Exceptional Charisma +1: This item makes the wearer have more flair, granting a +1 Exceptional bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Exceptional Charisma +1"
+        }
+      ]
+    },
+    {
+      "text": "Exorcist of the Silver Flame",
+      "tooltip": "Exorcist of the Silver Flame: 3 additional Turn Undead attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Exorcist_of_the_Silver_Flame",
+          "title": "Named item sets",
+          "text": "Exorcist of the Silver Flame"
+        }
+      ]
+    },
+    {
+      "text": "Incredible Potential",
+      "tooltip": "Incredible Potential: Incredible Potential: This ring's power has not been fully unleashed. When this ring is combined with 9 Shavarath War Trophies and ac Imbued Shard of Great Power in an Altar of Subjugation, its full potential will be reveled.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incredible_Potential",
+          "title": "Incredible Potential",
+          "text": "Incredible Potential"
+        }
+      ]
+    }
+  ]
+}

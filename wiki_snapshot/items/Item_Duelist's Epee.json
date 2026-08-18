@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Duelist's Epee",
+  "page_id": 91799,
+  "revision_id": 672651,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:39:21.472575+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Duelist's Epee\n  | prof                     = Martial\n  | sentience                = No\n  | type                     = Rapier\n  | hand                     = One-handed\n  | class                    = Piercing\n  | damage                   = [1d6] + 2 Pierce, Magic\n  | crit                     = 15-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 3\n  | durability               = 75\n  | material                 = Steel\n  | hardness                 = 13\n  | basevalue                = 1202pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 50\n  | revamped                 = Update 76\n  | quest                    = The Haunting of Saltmarsh\n  | chest                    = end chest\n  | turn in                  = \n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Duelist's Epee\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Keen}}\n* {{Bane|Humanoid|2}}\n* {{Deception|Bluff=yes}}\n* {{Augment|red}}\n  | description              = This Rapier is ideal for any who fancy themselves a duelist.\n  | pic                      = Duelist's Epee shown.jpg\n  | picdesc                  = Duelist%27s_Epee.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Rapier",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Humanoid Bane 2",
+      "tooltip": "Humanoid Bane 2: This weapon is attuned specifically to those that walk among us, dealing an additional 2d10 bane damage vs. Humanoids.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Humanoid Bane 2"
+        }
+      ]
+    },
+    {
+      "text": "Deception",
+      "tooltip": "Deception: This weapon is hard to focus upon and thus provides a +3 enhancement bonus to Bluff checks. In addition, Deception weapons have a small chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Deception"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

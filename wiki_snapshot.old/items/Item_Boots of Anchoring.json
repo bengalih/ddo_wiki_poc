@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Boots of Anchoring",
+  "page_id": 9462,
+  "revision_id": 652023,
+  "revision_timestamp": "2025-08-03T16:42:36Z",
+  "fetched_at": "2026-08-17T03:48:00.513590+00:00",
+  "categories": [],
+  "material": "Leather",
+  "item_type": "Boots",
+  "slot": "Feet",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Anchoring",
+      "tooltip": "Anchoring: This item grants its wearer immunity to effects that are time based or involve planar displacement.",
+      "children": [
+        {
+          "text": "Immunity to Haste",
+          "tooltip": null,
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Haste",
+              "title": "Haste",
+              "text": "Haste"
+            }
+          ]
+        },
+        {
+          "text": "Immunity to Banishment",
+          "tooltip": null,
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Banishment",
+              "title": "Banishment",
+              "text": "Banishment"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Anchoring",
+          "title": "Anchoring",
+          "text": "Anchoring"
+        }
+      ]
+    }
+  ],
+  "item_class": "Clothing",
+  "item_template": ""
+}

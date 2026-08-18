@@ -1,0 +1,40 @@
+{
+  "page_title": "Item:Boots of Nimbleness",
+  "page_id": 10663,
+  "revision_id": 628672,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:13:24.623536+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Boots of Nimbleness\n  | type                     = Boots\n  | class                    = Clothing\n  | basevalue                = 105pp\n  | weight                   = 0.01 lbs\n  | slot                     = Feet\n  | durability               = 20\n  | material                 = Leather\n  | hardness                 = 6\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Stopping the Sahuagin\n  | chest                    = Chest at Devourer altar near the Giantish device.\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|Jump|1}}\n* {{Skills|Tumble|1}}\n  | description              = These magical boots are sturdy and tough, but extremely light.\n  | pic                      = Boots Generic.png\n  | picdesc                  = Boots of Nimbleness.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "enchantments": [
+    {
+      "text": "Jump +1",
+      "tooltip": "Jump +1: Passive: +1 Competence bonus to the Jump skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Jump_(skill)",
+          "title": "Jump (skill)",
+          "text": "Jump +1"
+        }
+      ]
+    },
+    {
+      "text": "Tumble +1",
+      "tooltip": "Tumble +1: Passive: +1 Competence bonus to the Tumble skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Tumble_(skill)",
+          "title": "Tumble (skill)",
+          "text": "Tumble +1"
+        }
+      ]
+    }
+  ]
+}

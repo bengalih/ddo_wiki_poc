@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Tortured Livewood Bow (level 13)",
+  "page_id": 34908,
+  "revision_id": 649851,
+  "revision_timestamp": "2025-07-26T19:12:50Z",
+  "fetched_at": "2026-08-17T23:20:04.702983+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Tortured Livewood Bow}}\n  | type                     = Long Bow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | prof                     = Martial\n  | minlevel                 = 13\n  | basevalue                = 5,207pp 5gp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | damage                   = 1.50[1d8] + 5 Pierce, Magic\n  | crit                     = 20 / x3\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | durability               = 210\n  | material                 = Wood\n  | hardness                 = 18\n  | released                 = Update 17\n  | quest                    = Gianthold Tor\n  | chest                    = Black Dragon Chest (Heroic Hard)\n  | enhancements             = \n* {{Enhancement_bonus|w|5}}\n* {{Acid Arrow}}\n  | description              = This livewood bow has been charred, scarred and blackened by acid and fire. Yet the bow still draws true, the wood somehow enduring in timeless agony.\n  | pic                      = Tortured Livewood Bow shown.jpg\n  | picdesc                  = Tortured Livewood Bow (Level 13).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Acid Arrow",
+      "tooltip": "Acid Arrow: This bow coats your arrows in corrosive acid. A successful hit douses the target in acid causing an additional 6 to 15 damage after two seconds have passed. Each additional hit extends the duration of the acid damage by two seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Acid_Arrow#Acid_Arrow",
+          "title": "Acid Arrow",
+          "text": "Acid Arrow"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

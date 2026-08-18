@@ -1,0 +1,177 @@
+{
+  "page_title": "Item:Epic Duelist's Leathers (legacy) (level 24)",
+  "page_id": 48696,
+  "revision_id": 630006,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:47:38.863325+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Duelist's Leathers|Epic Duelist's Leathers}}\n  | type                     = Leather\n  | feat                     = Light\n  | race                     = \n  | minlevel                 = 24\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +14\n  | maxdexbonus              = 26\n  | acp                      = 0\n  | asf                      = 10%\n  | durability               = 312\n  | material                 = Spiritcraft Leather\n  | hardness                 = 32\n  | basevalue                = 9,601 pp\n  | weight                   = 15 lbs\n  | released                 = Update 23\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|silver|1000}}{{CCi|golden|500}}{{CCi|malachite|40}} at [[Dusty Old Treasure of Crystal Cove]]\n  | mythic                   = no\n  | enhancements             = \n* [[Upgradeable - Tier 1]]\n* {{Enhancement bonus|a|6}}\n* {{ItemGrantedFeat|Mobility}}\n* {{Skills|Bal|15}}\n* {{Nimbleness|Epic}}\n* {{Dodge|8}}\n* {{Attack Bonus|3}}\n** [[Upgradeable - Tier 2]]\n*** {{Enhancement bonus|a|6}} &rarr; {{Enhancement bonus|a|7}}\n** [[Upgradeable - Tier 3]]\n*** {{Dodge|8}} &rarr; {{Dodge|10}}\n*** Adds {{Augment|Blue}}\n  | crafting                 = Treasure of Crystal Cove\n  | craftingupgrade          = \n  | description              = When pirates who prefer light blades in battle need armor, this is the kind of item they will put their money on- a lightweight vest of leather or hide that allows plenty of stylish movement in combat.\n  | pic                      = Duelist's Leathers shown.jpg\n  | picdesc                  = Epic Duelist's Leathers (level 24)(tier 1).png\n  | notes                    = See also: {{Item|Duelist's Leathers}} - Full table of the Duelist's Leathers line\n* {{CCi|malachite|80}}{{CCi|opal|55}}{{CCi|green|600}}: {{Popup|Tier 2|[[File:Epic Duelist's Leathers (level 24)(tier 2).png|450 px]]|long=y}}\n* {{CCi|malachite|110}}{{CCi|opal|90}}{{CCi|green|1100}}{{CCi|nimble|1}}: {{Popup|Tier 3|[[File:Epic Duelist's Leathers (level 24)(tier 3).png|450 px]]|long=y}}\n}}<noinclude>\n[[Category:Treasure of Crystal Cove legacy reward items]]\n[[Category:Treasure of Crystal Cove epic items]]\n</noinclude>",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Spiritcraft Leather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Feat: Mobility",
+      "tooltip": "Feat: Mobility: While equipped this armor grants the wielder the Mobility feat: increases the maximum dexterity bonus permitted by armor and tower shields by 2, adds a +4 bonus to Armor Class while tumbling, and gain a 2% dodge bonus.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feat",
+          "title": "Feat",
+          "text": "Feat"
+        }
+      ]
+    },
+    {
+      "text": "Balance +15",
+      "tooltip": "Balance +15: Passive: +15 Competence bonus to the Balance skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Balance",
+          "title": "Balance",
+          "text": "Balance +15"
+        }
+      ]
+    },
+    {
+      "text": "Epic Nimbleness",
+      "tooltip": "Epic Nimbleness: This suit of armor looks much less restrictive than others of its type. A suit of armor that has this property has a maximum Dexterity bonus 6 higher than normal, and its armor check penalty is reduced by 4.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nimbleness#Epic_Nimbleness",
+          "title": "Nimbleness",
+          "text": "Epic Nimbleness"
+        }
+      ]
+    },
+    {
+      "text": "Dodge +8%",
+      "tooltip": "Dodge +8%: +8% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +8%"
+        }
+      ]
+    },
+    {
+      "text": "Attack Bonus +3",
+      "tooltip": "Attack Bonus +3: Provides a +3 competence bonus to your attack rolls.",
+      "children": [
+        {
+          "text": "Upgradeable - Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "+6 Enhancement Bonus → +7 Enhancement Bonus",
+              "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to Armor Class.+7 Enhancement Bonus: +7 enhancement bonus to Armor Class.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+6 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+7 Enhancement Bonus"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_2",
+              "title": "Upgradeable - Tier 2",
+              "text": "Upgradeable - Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Upgradeable - Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Dodge +8% → Dodge +10%",
+              "tooltip": "Dodge +8%: +8% Enhancement bonus to Dodge. Dodge +10%: +10% Enhancement bonus to Dodge.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Dodge_bonus",
+                  "title": "Dodge bonus",
+                  "text": "Dodge +8%"
+                },
+                {
+                  "target": "/page/Dodge_bonus",
+                  "title": "Dodge bonus",
+                  "text": "Dodge +10%"
+                }
+              ]
+            },
+            {
+              "text": "Adds Blue Augment Slot",
+              "tooltip": "Blue and Colorless",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Augment_Slot",
+                  "title": "Augment Slot",
+                  "text": "Blue Augment Slot"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_3",
+              "title": "Upgradeable - Tier 3",
+              "text": "Upgradeable - Tier 3"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Attack_bonus",
+          "title": "Attack bonus",
+          "text": "Attack Bonus +3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Knight's Helm",
+  "page_id": 39278,
+  "revision_id": 631674,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:27:11.491822+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Knight's Helm\n  | type                     = Helm\n  | race                     = Purple Dragon Knight\n  | slot                     = Head\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6010 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BTC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Fortification|100}}\n* {{Skills|Intimidate|13}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Knight's Helm shown.jpg\n  | picdesc                  = Knight's Helm.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Fortification +100%",
+      "tooltip": "Fortification +100%: +100% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +100%"
+        }
+      ]
+    },
+    {
+      "text": "Intimidate +13",
+      "tooltip": "Intimidate +13: Passive: +13 Competence bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Intimidate +13"
+        }
+      ]
+    }
+  ]
+}

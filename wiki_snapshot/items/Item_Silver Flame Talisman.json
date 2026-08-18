@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Silver Flame Talisman",
+  "page_id": 11148,
+  "revision_id": 634776,
+  "revision_timestamp": "2025-04-22T03:44:01Z",
+  "fetched_at": "2026-08-17T22:59:05.748898+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Silver Flame Talisman\n  | type                     = Necklace\n  | class                    = Jewelry\n  | basevalue                = 3,620 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Neck\n  | durability               = 70 \n  | material                 = Gold \n  | hardness                 = 11\n  | minlevel                 = 11\n  | bind                     = {{Bind|BtC|BoA}} \n  | quest                    = The Cursed Crypt\n  | chest                    = Altar; upgraded from the [[Silver Flame Pendant]]\n  | mythic                   = no\n  | enhancements             = \n* {{Absorption|negative energy|0|10}}\n* {{Deathblock}}\n* {{Protection from Evil}}\n  | crafting                 = Accursed Ascension\n  | craftingupgrade          = <!-- -->\n  | description              = This Talisman of the Silver Flame has been transformed by the altars of blood, darkness and damnation.\n  | pic                      = Necklace Generic Gray.png\n  | picdesc                  = Silver Flame Talisman.png\n  | tips                     = This is the third and final upgrade to the [[Silver Flame Nugget]] which you can get from [[Jakob Izakanos]] in the [[Necropolis]]. <br />\nIf you have any upgraded version of the [[Silver Flame Nugget]] (amulet, pendant or talisman), talking and accepting the [[Emerald Claw Nugget]] from [[Pok Tranh]] will delete the Silver Flame nugget and replace it with an un-upgraded Emerald Claw nugget. \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Negative Energy Absorption - 10 Charges (Recharged/Day: 10)",
+      "tooltip": "Negative Energy Absorption: This effect absorbs negative energy and energy drain effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Energy_Absorption",
+          "title": "Negative Energy Absorption",
+          "text": "Negative Energy Absorption"
+        }
+      ]
+    },
+    {
+      "text": "Deathblock",
+      "tooltip": "Deathblock: The wearer of this item is immune to all death spells and magical death effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock"
+        }
+      ]
+    },
+    {
+      "text": "Protection from Evil",
+      "tooltip": "Protection from Evil: Passive: You gain the benefit of the spell Protection from Evil.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection_from_Evil",
+          "title": "Protection from Evil",
+          "text": "Protection from Evil"
+        }
+      ]
+    }
+  ]
+}

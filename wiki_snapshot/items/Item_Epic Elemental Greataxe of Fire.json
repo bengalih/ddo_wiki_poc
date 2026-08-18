@@ -1,0 +1,217 @@
+{
+  "page_title": "Item:Epic Elemental Greataxe of Fire",
+  "page_id": 21559,
+  "revision_id": 630024,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:48:01.566559+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Elemental Greataxe of Fire|Epic Elemental Greataxe of Fire}}\n  | damage                   = 3[1d12] + 5 Slash, Silver, Adamantine, Mithral, Cold Iron, Magic, Byeshk\n  | crit                     = 20 / x3\n  | type                     = Great Axe\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Martial\n  | durability               = 300\n  | material                 = Steel\n  | hardness                 = 30\n  | minlevel                 = 20\n  | basevalue                = 8,002pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various challenge ingredients\n  | mythic                   = no\n  | enhancements             = \n{{VaultsOfTheArtificersUpgrade}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = \n  | description              = This greataxe is part of a mass-produced line of House Cannith weapons with elementals bound to them. This one is infused with fire and burns enemies as a result.\n  | pic                      = Elemental Greataxe of Fire shown.jpg\n  | picdesc                  = Epic Elemental Greataxe of Fire.png\n  | tips                     = '''See also:''' [[Elemental Greataxe of Fire]] - Full table of the Elemental Greataxe line\n\nGreater Fire Resistance was replace with Greater Cold Resistance during a past update.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": "Upgradeable - Tier 1: This item is a Tier 1 upgradable item.",
+      "children": [
+        {
+          "text": "+5 Enhancement Bonus",
+          "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+5 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Flaming Burst",
+          "tooltip": "Flaming Burst: This weapon is sheathed in fire, and deals 1 to 6 fire damage each hit. Critical hits deal an additional 1 to 10 fire damage for weapons with a x2 critical multiplier, 2 to 20 for a x3 multiplier and 3 to 30 for a x4 multiplier.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Flaming_Burst#Flaming_Burst",
+              "title": "Flaming Burst",
+              "text": "Flaming Burst"
+            }
+          ]
+        },
+        {
+          "text": "Brilliance",
+          "tooltip": "Brilliance: This weapon glows with the light of Irian. This weapon deals an extra 1 to 6 points of light damage on a successful hit. In addition, critical hits deal an additional 1 to 10 light damage for weapons with a x2 critical multiplier, 2 to 20 for a x3 critical multiplier and 3 to 30 for a x4 multiplier.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Brilliance_(enchantment)",
+              "title": "Brilliance (enchantment)",
+              "text": "Brilliance"
+            }
+          ]
+        },
+        {
+          "text": "Metalline",
+          "tooltip": "Metalline: Metalline bypasses any metal based damage reduction. (Adamantine, \"Alchemical, Silver\", Byeshk, Cold Iron, Mithral)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Metalline",
+              "title": "Metalline",
+              "text": "Metalline"
+            }
+          ]
+        },
+        {
+          "text": "Greater Incineration",
+          "tooltip": "Greater Incineration: This weapon stores the power of a raging inferno deep within. Occasionally, this destructive power comes to the surface, devastating enemies with massive fire damage. This damage will be dealt more often than a standard Incineration weapon.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Incineration",
+              "title": "Incineration",
+              "text": "Greater Incineration"
+            }
+          ]
+        },
+        {
+          "text": "Magma Surge",
+          "tooltip": "Magma Surge: This weapon stores the immeasurable heat of the planet's molten mantle. When this weapon is used, superheated magma occasionally surges to the surface, slowing an enemy down and inflicting massive fire damage over time.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Magma_Surge",
+              "title": "Magma Surge",
+              "text": "Magma Surge"
+            }
+          ]
+        },
+        {
+          "text": "Cold Resistance +36",
+          "tooltip": "Cold Resistance +36: Passive: +36 Enhancement bonus to your Cold Resistance.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Cold_Resistance",
+              "title": "Cold Resistance",
+              "text": "Cold Resistance +36"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": "Upgradeable - Tier 2: This item is a Tier 2 upgradable item.",
+      "children": [
+        {
+          "text": "+5 Enhancement Bonus → +6 Enhancement Bonus",
+          "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+5 Enhancement Bonus"
+            },
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+6 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Cold Resistance +36 → Cold Resistance +38",
+          "tooltip": "Cold Resistance +36: Passive: +36 Enhancement bonus to your Cold Resistance.Cold Resistance +38: Passive: +38 Enhancement bonus to your Cold Resistance.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Cold_Resistance",
+              "title": "Cold Resistance",
+              "text": "Cold Resistance +36"
+            },
+            {
+              "target": "/page/Cold_Resistance",
+              "title": "Cold Resistance",
+              "text": "Cold Resistance +38"
+            }
+          ]
+        },
+        {
+          "text": "Adds Colorless Augment Slot",
+          "tooltip": "Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Colorless Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This item is a Tier 3 upgradable item.",
+      "children": [
+        {
+          "text": "Cold Resistance +38 → Cold Resistance +41",
+          "tooltip": "Cold Resistance +38: Passive: +38 Enhancement bonus to your Cold Resistance.Cold Resistance +41: Passive: +41 Enhancement bonus to your Cold Resistance.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Cold_Resistance",
+              "title": "Cold Resistance",
+              "text": "Cold Resistance +38"
+            },
+            {
+              "target": "/page/Cold_Resistance",
+              "title": "Cold Resistance",
+              "text": "Cold Resistance +41"
+            }
+          ]
+        },
+        {
+          "text": "Adds Purple Augment Slot",
+          "tooltip": "Blue, Purple, Red, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Purple Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

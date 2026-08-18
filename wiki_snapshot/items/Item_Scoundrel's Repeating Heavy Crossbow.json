@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Scoundrel's Repeating Heavy Crossbow",
+  "page_id": 24366,
+  "revision_id": 666375,
+  "revision_timestamp": "2025-11-19T16:24:42Z",
+  "fetched_at": "2026-08-17T22:52:48.073029+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Scoundrel's Repeating Heavy Crossbow\n  | damage                   = [1d12] + 2 Pierce, Chaotic, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Repeating Heavy Crossbow\n  | class                    = Ranged\n  | prof                     = Exotic\n  | hand                     = Ranged\n  | damagemod                = DEX\n  | attackmod                = DEX\n  | durability               = 150\n  | material                 = Wood\n  | hardness                 = 11\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtC|BoA}}\n  | basevalue                = 2,440 pp\n  | weight                   = 12 lbs\n  | released                 = Update 14\n  | revamped                 = Update 76\n  | quest                    = Three-Barrel Cove (heroic)\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Acid}}\n* {{Anarchic}}\n* {{Augment|Red}}\n  | description              = A complex weapon consisting of a heavy crossbow and a clip for bolts that is loaded by pulling the lever.\n  | pic                      = Doublecross Bow shown.jpg <!--same style-->\n  | picdesc                  = Scoundrel's Repeating Heavy Crossbow.png\n  | tips                     = The {{Item|Pirate Treasure Map}}, the 3 items from the {{Named item sets|Corsair's Cunning}} set, the 4 'Scoundrel's type' weapons and {{Item|Brine Shaman's Staff}} have a chance of appearing in the end reward list of any of the [[Three-Barrel Cove (heroic)]] quests, except [[Guard Duty]]. Every third completion you will receive a complete list.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Repeating Heavy Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Acid",
+      "tooltip": "Acid: This weapon is sheathed in corrosive acid. An acid weapon deals an extra 1 to 6 points of acid damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Acid",
+          "title": "Acid",
+          "text": "Acid"
+        }
+      ]
+    },
+    {
+      "text": "Anarchic",
+      "tooltip": "Anarchic: An anarchic weapon is chaotically aligned and infused with the power of chaos. It makes the weapon chaos-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2 to 12 damage against all of lawful alignment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)#Anarchic",
+          "title": "Alignment damage (weapon)",
+          "text": "Anarchic"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

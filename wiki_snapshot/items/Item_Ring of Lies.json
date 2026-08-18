@@ -1,0 +1,148 @@
+{
+  "page_title": "Item:Ring of Lies",
+  "page_id": 8783,
+  "revision_id": 634239,
+  "revision_timestamp": "2025-04-22T03:08:28Z",
+  "fetched_at": "2026-08-17T22:45:11.084116+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Ring of Lies\n  | type                     = Ring\n  | class                    = Jewelry\n  | minlevel                 = 13\n  | slot                     = Finger\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 90\n  | material                 = Gold\n  | hardness                 = 18\n  | basevalue                = 6,420pp\n  | weight                   = 0.10 lbs\n  | quest                    = The Reaver's Fate\n  | chest                    = Raid Warded chest\n  | enhancements             = \n* {{Stat|CHA|6}}\n* {{Skills|diplo|10}}\n* {{Skills|Bluff|10}}\n* {{Skills|Haggle|10}}\n* {{Skills|Perform|10}}\n* {{Deception|Bluff=yes}}\n* {{Verified|''Hidden Effect: Increases spellcasting, melee, and ranged threat by 15%''}} <!-- see talk page for testing results -->\n* {{UpgradeableItem|Stormreaver}}\n  | crafting                 = Stormreaver Monument\n  | craftingupgrade          = \n  | description              = This ring is a potent facilitator of deceptions and falsehoods, but it is risky to use. Not only may the weak-minded be seduced by their own inventions, but the ring constantly suggests new and profitable lies to its wearer, often leading to addiction and ruin.\n  | pic                      = Ring Generic Lies.png\n  | picdesc                  = Ring of Lies.png\n  | tips                     = Hidden effect testing results: {{Forums|p=4048740}}\n[[File:Ring of Lies (upgraded).png]]\n}}\n[[Category:Draconic Raider's Reward Box items]]",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Charisma +6",
+      "tooltip": "Charisma +6: This item makes the wearer have more flair, granting a +6 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +6"
+        }
+      ]
+    },
+    {
+      "text": "Diplomacy +10",
+      "tooltip": "Diplomacy +10: Passive: +10 Competence bonus to the Diplomacy skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Diplomacy",
+          "title": "Diplomacy",
+          "text": "Diplomacy +10"
+        }
+      ]
+    },
+    {
+      "text": "Bluff +10",
+      "tooltip": "Bluff +10: Passive: +10 Competence bonus to the Bluff skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bluff",
+          "title": "Bluff",
+          "text": "Bluff +10"
+        }
+      ]
+    },
+    {
+      "text": "Haggle +10",
+      "tooltip": "Haggle +10: Passive: +10 Competence bonus to the Haggle skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Haggle",
+          "title": "Haggle",
+          "text": "Haggle +10"
+        }
+      ]
+    },
+    {
+      "text": "Perform +10",
+      "tooltip": "Perform +10: Passive: +10 Competence bonus to the Perform skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Perform",
+          "title": "Perform",
+          "text": "Perform +10"
+        }
+      ]
+    },
+    {
+      "text": "Deception",
+      "tooltip": "Deception: This weapon is hard to focus upon and thus provides a +3 enhancement bonus to Bluff checks. In addition, Deception weapons have a small chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Deception"
+        }
+      ]
+    },
+    {
+      "text": "Hidden Effect: Increases spellcasting, melee, and ranged threat by 15%",
+      "tooltip": null,
+      "children": []
+    },
+    {
+      "text": "Upgradeable Item (Stormreaver)",
+      "tooltip": "Upgradeable Item (Stormreaver): This item could be upgraded if you found a Seal of the Stormreaver to combine it with. Bring this item to the Stormreaver Monument in Gianthold and combine it with a Seal of the Stormreaver to upgrade the item to a more powerful form.",
+      "children": [
+        {
+          "text": "Adds Charisma Skills - Exceptional Bonus +2",
+          "tooltip": "Charisma Skills - Exceptional Bonus +2: Passive +2 Exceptional bonus to the Charisma based skills of: Bluff, Diplomacy, Haggle, Intimidate, Perform and Use Magic Device (UMD)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Skills",
+              "title": "Skills",
+              "text": "Charisma Skills - Exceptional Bonus +2"
+            }
+          ]
+        },
+        {
+          "text": "Deception → Improved Deception",
+          "tooltip": "Deception: This weapon is hard to focus upon and thus provides a +3 enhancement bonus to Bluff checks. In addition, Deception weapons have a small chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.Improved Deception: This item makes your weapons hard to focus upon and thus provides a +5 enhancement bonus to Bluff checks. In addition, while using this item your weapons have a chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Deception",
+              "title": "Deception",
+              "text": "Deception"
+            },
+            {
+              "target": "/page/Deception#Improved_Deception",
+              "title": "Deception",
+              "text": "Improved Deception"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_Item_(Stormreaver)",
+          "title": "Upgradeable Item (Stormreaver)",
+          "text": "Upgradeable Item (Stormreaver)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

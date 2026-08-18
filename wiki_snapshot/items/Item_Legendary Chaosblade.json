@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Legendary Chaosblade",
+  "page_id": 92735,
+  "revision_id": 640326,
+  "revision_timestamp": "2025-05-12T15:33:36Z",
+  "fetched_at": "2026-08-17T21:37:03.733813+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Chaosblade\n  | minlevel                 = 30\n  | type                     = Khopesh\n  | hand                     = One-handed\n  | class                    = Slashing\n  | reqtrait                 = Chaotic\n  | UMD DC                   = 26\n  | prof                     = Exotic\n  | damage                   = 5.50[1d8+3] + 15 Slash, Chaotic, Magic\n  | crit                     = 19-20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 365\n  | material                 = Steel\n  | hardness                 = 40\n  | cost                     = 12,002 pp\n  | weight                   = 12 lbs\n  | released                 = Update 51\n  | quest                    = Legendary Crafting\n  | legendary                = Epic Chaosblade\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Vorpal|Sovereign}}\n* {{Blast|Anarchic|6}}\n* {{Vampirism|3}}\n* {{Absorption|Chaos|23}}\n* {{Named item sets|Legendary Windlasher's Ferocity}}\n* {{Augment|Red}}\n  | crafting                 = \n  | description              = A sword wielded by the demonic Marilith.\n  | pic                      = Chaosblade shown.jpg\n  | picdesc                  = Legendary Chaosblade.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Khopesh",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Sovereign Vorpal",
+      "tooltip": "Sovereign Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 3000 Hit Points, they are instantly slain. If your target has above 3000 Hit Points, they take 300 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Sovereign_Vorpal",
+          "title": "Vorpal",
+          "text": "Sovereign Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Anarchic Blast 6",
+      "tooltip": "Anarchic Blast 6: This weapon is a chaotic conduit, dealing 6d6 Chaos damage on a successful hit, and an additional 6d6 Chaos damage on a critical hit. This effect makes the weapon chaotically aligned.Lawful characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Anarchic Blast 6"
+        }
+      ]
+    },
+    {
+      "text": "Vampirism 3",
+      "tooltip": "Vampirism 3: This weapon thirsts for the blood of your enemies, healing you for +3d2 hit points with each hit.Note: internal cooldown of 1 second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Vampirism 3"
+        }
+      ]
+    },
+    {
+      "text": "Chaos Absorption +23%",
+      "tooltip": "Chaos Absorption +23%: Passive: 23% Enhancement Bonus to Chaos Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Chaos Absorption +23%"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Windlasher's Ferocity",
+      "tooltip": "Legendary Windlasher's Ferocity: 2 Pieces Equipped:+15% Artifact bonus to Doublestrike and Doubleshot+15 Artifact bonus to Melee and Ranged Power",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Legendary_Windlasher's_Ferocity",
+          "title": "Named item sets",
+          "text": "Legendary Windlasher's Ferocity"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Gauntlets of the Stormreaver",
+  "page_id": 71519,
+  "revision_id": 631042,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:09:41.805515+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Gauntlets of the Stormreaver\n  | type                     = Gloves\n  | slot                     = Hand\n  | durability               = 380\n  | material                 = Leather\n  | hardness                 = 48\n  | cost                     = 11,201 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 28\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 40\n  | quest                    = Killing Time\n  | end reward               = \n  | chest                    = warded chest\n  | enhancements             = \n* {{Stormreaver's Thunderclap}}\n* {{ProtectionBonus|11}}\n* {{Sheltering|17|Insight}}\n* {{Elemental Resistance|Electric|51}}\n* {{Augment|Yellow}}\n* {{Augment|Green}}\n  | epic                     = no\n  | description              = These heavy gauntlets are inscribed with lightning, and seem to resonate while in your hands.\n  | pic                      = Gloves Generic Stormreaver.png\n  | picdesc                  = Gauntlets of the Stormreaver.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "Stormreaver's Thunderclap",
+      "tooltip": "Stormreaver's Thunderclap: This item crackles with power, flickers of lightning emenating from it. On a Melee strike of a Natural 20 that is confirmed as a critical hit, this item will strike your foe with a tremendous burst of lightning. A DC 100 Reflex save will prevent half of this damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stormreaver%27s_Thunderclap",
+          "title": "Stormreaver's Thunderclap",
+          "text": "Stormreaver's Thunderclap"
+        }
+      ]
+    },
+    {
+      "text": "Protection +11",
+      "tooltip": "Protection +11: Passive: +11 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +11"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Sheltering +17",
+      "tooltip": "Insightful Sheltering +17: +17 Insight bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Insightful Sheltering +17"
+        }
+      ]
+    },
+    {
+      "text": "Electric Resistance +51",
+      "tooltip": "Electric Resistance +51: Passive: +51 Enhancement bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Electric Resistance +51"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Hands Boost +1 or +3",
+      "tooltip": "Mythic Hands Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Hands Boost"
+        }
+      ]
+    }
+  ]
+}

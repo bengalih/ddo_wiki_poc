@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:Orb of Flame",
+  "page_id": 77537,
+  "revision_id": 633821,
+  "revision_timestamp": "2025-04-22T02:39:41Z",
+  "fetched_at": "2026-08-17T22:33:49.632851+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Orb of Flame\n  | type                     = Orb\n  | prof                     = Magical Training\n  | race                     = \n  | reqtrait                 = <!-- Required Trait. Leave this comment if none.  -->\n  | UMD DC                   = <!-- Use Magic Device DC. Leave this comment if none.  -->\n  | minlevel                 = 21\n  | damagemod                = CHA\n  | attmod                   = INT\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +0\n  | maxdexbonus              = \n  | dr                       = 0\n  | acp                      = 0\n  | asf                      = 0\n  | dmg                      = [1d4] + 0\n  | dmgtype                  = Force\n  | crit                     = 19-20 / x2\n  | durability               = 275\n  | material                 = Fire\n  | hardness                 = 41\n  | basevalue                = 8500 pp\n  | weight                   = 3 lbs\n  | quest                    = Caged Beast\n  | released                 = Update 44\n  | chest                    = End Chest\n  | end reward               = <!-- At least 1 of these 3 should be filled in. Leave other 2 alone. -->\n  | turn in                  = <!-- At least 1 of these 3 should be filled in. Leave other 2 alone. -->\n  | epic                     = no <!-- If yes, replace \"no\" with name of non-epic version, above 3 fields not displayed/required if filled-->\n  | enhancements             = \n* {{Enhancement bonus|oi|6|21}}\n* {{Spell Lore|Fire|17|Equipment}}\n* {{Spell Power|Combustion|115|Equipment}}\n* {{Spell Power|Combustion|57|Insight}}\n* {{Sheltering|6|Quality|Magical}}\n* {{Augment|Purple}}\n  | description              = This orb of coalesced magic is made entirely out of pure flame.\n  | crafting                 = <!--Type of crafting-->\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | pic                      = Orb of Flame shown.png\n  | picdesc                  = Orb of Flame.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Magical Training",
+  "material": "Fire",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 21,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +21",
+      "tooltip": "Spellcasting Implement +21: Passive: +21 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +21"
+        }
+      ]
+    },
+    {
+      "text": "+6 Orb Bonus",
+      "tooltip": "+6 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +6 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Orb Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fire Lore +17%",
+      "tooltip": "Fire Lore +17: Passive: Your Fire spells gain a 17% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore +17%"
+        }
+      ]
+    },
+    {
+      "text": "Combustion +115",
+      "tooltip": "Combustion +115: Passive: +115 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +115"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Combustion +57",
+      "tooltip": "Insightful Combustion +57: Passive: +57 Insight bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Insightful Combustion +57"
+        }
+      ]
+    },
+    {
+      "text": "Quality Magical Sheltering +6",
+      "tooltip": "Quality Magical Sheltering +6: +6 Quality bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Quality Magical Sheltering +6"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

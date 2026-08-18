@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Yarkuch's Helm",
+  "page_id": 5019,
+  "revision_id": 635876,
+  "revision_timestamp": "2025-04-22T04:57:25Z",
+  "fetched_at": "2026-08-17T23:28:13.409150+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Yarkuch's Helm\n  | slot                     = Head\n  | type                     = Helm\n  | durability               = 60\n  | material                 = Leather\n  | hardness                 = 7\n  | basevalue                = 2,005 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 5\n  | bind                     = {{Bind|BtA|boa}}\n  | quest                    = Assault on Splinterskull\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CHA|1}}\n* {{save|w|2}}\n* {{Stat|INT|1}}\n  | description              = This helm once belonged to Yarkuch, mighty warrior chief of Splinterskull.\n  | pic                      = Yarkuch's Helm shown.jpg\n  | picdesc                  = Yarkuch's Helm.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Charisma +1",
+      "tooltip": "Charisma +1: This item makes the wearer have more flair, granting a +1 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +1"
+        }
+      ]
+    },
+    {
+      "text": "Will Save +2",
+      "tooltip": "Will Save +2: This item gives a +2 Resistance bonus to your Will saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Will_save",
+          "title": "Will save",
+          "text": "Will Save +2"
+        }
+      ]
+    },
+    {
+      "text": "Intelligence +1",
+      "tooltip": "Intelligence +1: This item focuses the power of the wearer's mind, granting a +1 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +1"
+        }
+      ]
+    }
+  ]
+}

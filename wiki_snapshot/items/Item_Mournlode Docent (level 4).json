@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Mournlode Docent (level 4)",
+  "page_id": 40986,
+  "revision_id": 675423,
+  "revision_timestamp": "2026-02-16T08:24:31Z",
+  "fetched_at": "2026-08-17T22:28:11.494705+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Mournlode Armors|Mournlode Docent}}\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+8|m=+4}}\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 90\n  | material                 = Gem\n  | hardness                 = 14\n  | basevalue                = 1610 pp\n  | weight                   = \n  | bind                     = {{Bind|BtA|BoA}}\n  | minlevel                 = 4\n  | quest                    = Vaults of the Artificers\n  | chest                    = \n  | end reward               = \n  | turn in                  = 400 Antique Coins; 400 Crude Talismans\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n{{VaultsOfTheArtificersUpgrade}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = Mournlode Docent (Level 8)\n  | pic                      = Mournlode Docent shown.jpg\n  | picdesc                  = Mournlode Docent (Level 4).png\n  | description              = Metal armor constructed from valuable purple Mournlode crystal is imbued with a protective, almost holy power. Undead are seared by it, and it protects the wearer from evil.\n  | notes                    = \n* In the picture, from left to right: on [[Composite Plating]], on [[Mithral Body]], on [[Adamantine Body]].\n* See also: {{Item|Mournlode Armors|Mournlode Armors}} - Full table of the Mournlode Armors line\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Protection +3",
+      "tooltip": "Protection +3: Passive: +3 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +3"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +3",
+      "tooltip": "Resistance +3: Passive: +3 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +3"
+        }
+      ]
+    },
+    {
+      "text": "Undead Guard +2",
+      "tooltip": "Undead Guard +2: Chance to deal 2d8 Good damage to undead when hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Guards",
+          "title": "Guards",
+          "text": "Undead Guard"
+        }
+      ]
+    }
+  ]
+}

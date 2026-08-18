@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Goggles of the Inquisition",
+  "page_id": 5044,
+  "revision_id": 631188,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:13:21.873155+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Goggles of the Inquisition\n  | basevalue                = 1220pp\n  | weight                   = 0.10 lbs\n  | slot                     = Eye\n  | type                     = Goggles\n  | durability               = 40\n  | material                 = Gold\n  | hardness                 = 5\n  | minlevel                 = 3\n  | bind                     = {{Bind|BtA|boa}}\n  | quest                    = The Friar's Niece\n  | chest                    = End chest\n  | enhancements             = \n* {{Anger|Minor}}\n* {{Skills|intim|5}}\n* {{Augment|Yellow}}\n  | description              = These goggles are infused with the power of intimidation. This helps the Church inquisitors to wring confessions from heretics and unbelievers.\n  | pic                      = Epic Goggles of the Inquisition shown.jpg\n  | picdesc                  = Goggles of the Inquisition.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Minor Anger",
+      "tooltip": "Minor Anger: This will increase the total number of Rages you can use by 1. However, these additional Rages will only take effect after the wielder rests.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Anger",
+          "title": "Anger",
+          "text": "Minor Anger"
+        }
+      ]
+    },
+    {
+      "text": "Intimidate +5",
+      "tooltip": "Intimidate +5: Passive: +5 Competence bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Intimidate +5"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Goggle Boost +1 or +3",
+      "tooltip": "Mythic Goggle Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Goggle Boost"
+        }
+      ]
+    }
+  ]
+}

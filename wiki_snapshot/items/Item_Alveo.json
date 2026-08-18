@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Alveo",
+  "page_id": 8255,
+  "revision_id": 628237,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:03:15.833825+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Large\n  | prof                     = General\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 8\n  | bind                     = {{Bind|BtC|BoE}}\n  | sb                       = +5\n  | dr                       = 5\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = [1d6] + 2\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | durability               = 115\n  | material                 = Steel\n  | hardness                 = 14\n  | basevalue                = 1,602 pp\n  | weight                   = 15 lbs\n  | quest                    = The Bloody Crypt\n  | chest                    = End chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|a|2}}\n* {{Unbalancing}}\n* {{Augment|Purple}}\n  | description              = Cuts and scraps in this shield have a habit of catching an opponent's weapon making it easier to hit your attackers.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Alveo shown.jpg\n  | picdesc                  = Alveo.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Steel",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Unbalancing",
+      "tooltip": "Unbalancing: Anything that melee attacks a character with an Unbalancing item has a chance to be pulled off balance giving them a -2 penalty to their AC.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Unbalancing",
+          "title": "Unbalancing",
+          "text": "Unbalancing"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

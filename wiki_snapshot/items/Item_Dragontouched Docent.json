@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Dragontouched Docent",
+  "page_id": 9122,
+  "revision_id": 629616,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:37:55.794365+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Dragontouched Docent\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+16|m=+7|c=+2}}\n  | minlevel                 = 16\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 144\n  | material                 = Gem\n  | hardness                 = 25\n  | basevalue                = 6,810pp\n  | weight                   = 0 lbs\n  | quest                    = Dragontouched Armor\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Fortification|4}}\n* {{Mat|Dragontouched}}\n  | crafting                 = Dragontouched Armor\n  | pic                      = Dragontouched Docent shown.jpg\n  | picdesc                  = Dragontouched Docent.png\n  | description              = This docent is etched with several ancient draconic runes that appear to be dormant. Perhaps untold powers can be awakened if a power source could be found.\n  | notes                    = \n}}\n\n[[category:Dragontouched Armor]]\n[[{{#switch:16|0 = Category:Docents with no minimum level|#default = Category:Minimum level 16 docents}}]]",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Construct Fortification (10%)",
+      "tooltip": "Construct Fortification (10%): This docent produces a magical force that protects vital areas of the wearer more effectively. When a critical hit or sneak attack is scored on the wearer, there is a +10% chance that the critical hit or sneak attack is negated and damage is instead rolled normally. This ability is considered as Insight bonus when determining stacking with other sources of fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Construct_Fortification_(10%25)",
+          "title": "Construct Fortification (10%)",
+          "text": "Construct Fortification (10%)"
+        }
+      ]
+    },
+    {
+      "text": "Dragontouched",
+      "tooltip": "Dragontouched: This mythical material was created by combining an unknown metal with ancient enchantments known only by the dragons. This material is said to enchant the wielder as if they were protected by +5 armor enchantment. Additionally it provides leather items with additional flexibility and metal armors additional protection.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dragontouched",
+          "title": "Dragontouched",
+          "text": "Dragontouched"
+        }
+      ]
+    }
+  ]
+}

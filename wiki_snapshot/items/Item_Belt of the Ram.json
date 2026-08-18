@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Belt of the Ram",
+  "page_id": 83573,
+  "revision_id": 628536,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:10:30.249776+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Belt of the Ram\n  | basevalue                = 2,001pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | type                     = Belt\n  | durability               = 150\n  | material                 = Leather\n  | hardness                 = 25\n  | minlevel                 = 5\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 48\n  | quest                    = The Thornwright\n  | chest                    = End chest\n  | enhancements             = \n* {{Ram's Might}}\n* {{Speed|15||5}}\n* {{Stat|Con|4}}\n* {{Augment|Yellow}}\n* {{Named item sets|Seasons of the Feywild}}\n  | pic                      = \n  | picdesc                  = Belt of the Ram.png\n  | description              = No shepard is necessary to guide your path.\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Ram's Might",
+      "tooltip": "Ram's Might: You permanently benefit from the spell Ram's Might.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ram%27s_Might_(enchantment)",
+          "title": "Ram's Might (enchantment)",
+          "text": "Ram's Might"
+        }
+      ]
+    },
+    {
+      "text": "Speed +15%",
+      "tooltip": "Speed +15%: +15% enhancement bonus to movement speed, 5% bonus to attack speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Speed",
+          "title": "Speed",
+          "text": "Speed +15%"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +4",
+      "tooltip": "Constitution +4: This item gives the wearer improved health, granting a +4 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +4"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Seasons of the Feywild",
+      "tooltip": "Seasons of the Feywild:",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Seasons_of_the_Feywild",
+          "title": "Named item sets",
+          "text": "Seasons of the Feywild"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Belt Boost +1 or +3",
+      "tooltip": "Mythic Belt Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Belt Boost"
+        }
+      ]
+    }
+  ]
+}

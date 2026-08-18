@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Spectral Throwing Dagger (level 4)",
+  "page_id": 71858,
+  "revision_id": 667647,
+  "revision_timestamp": "2025-11-21T13:21:35Z",
+  "fetched_at": "2026-08-17T23:03:37.830236+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Spectral Throwing Dagger}} (level 4)\n  | damage                   = [1d4] + 2 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Throwing Dagger\n  | hand                     = Thrown\n  | race                     = \n  | class                    = Thrown\n  | prof                     = Simple\n  | reqtrait                 = <!-- Leave blank if not used-->\n  | UMD DC                   = <!-- Leave blank if not used-->\n  | minlevel                 = 4\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 80\n  | material                 = Force\n  | hardness                 = 22\n  | cost                     = 1600pp 2gp\n  | weight                   = 1.00 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | revamped                 = Update 76\n  | quest                    = The Night Revels\n  | chest                    = <!-- Leave blank if not used-->\n  | end reward               = <!-- Leave blank if not used-->\n  | turn in                  = {{NightRevelsRecipe|ing_chocolate= 60|ing_apple= 20|ing_caramel= 10}} at [[Joe Candymaker]] \n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Returning}}\n* {{Ghostbane|2}}\n* {{Bane|Evil Outsider|2}}\n* {{Crushing|4}}\n  | crafting                 = The Night Revels\n  | craftingupgrade          = Spectral Throwing Dagger (level 8)\n  | description              = The residual power left behind as thousands of Spectral Dragon Scales crumbled to dust formed these ethereal blades.\n  | pic                      = Spectral Throwing Dagger shown.jpg\n  | picdesc                  = Spectral Throwing Dagger (level 4).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Throwing Dagger",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "Ghostbane 2",
+      "tooltip": "Ghostbane 2: This weapon is attuned specifically to hunt the risen dead, dealing an additional 2d10 bane damage vs. Undead monsters.Passive: This weapon has Ghost Touch, and bypasses ethereal monster's 50% chance to evade bane damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostbane",
+          "title": "Ghostbane",
+          "text": "Ghostbane 2"
+        }
+      ]
+    },
+    {
+      "text": "Evil Outsider Bane 2",
+      "tooltip": "Evil Outsider Bane 2: This weapon is attuned specifically to hunt monsters that bring ill intent from other planes, dealing an additional 2d10 bane damage vs. Evil Outsiders.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Evil Outsider Bane 2"
+        }
+      ]
+    },
+    {
+      "text": "Crushing 4",
+      "tooltip": "Crushing 4: This effect causes the edges of this weapon to ripple with force, dealing 4d6 force damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crushing",
+          "title": "Crushing",
+          "text": "Crushing 4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Creation Forge Gorget",
+  "page_id": 37984,
+  "revision_id": 629203,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:27:37.556197+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Creation Forge Gorget\n  | type                     = Necklace\n  | race                     = Bladeforged\n  | slot                     = Neck\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Deathblock}}\n* {{Stat|WIS|4}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Necklace Generic Jorgundal.png\n  | picdesc                  = Creation Forge Gorget.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Deathblock",
+      "tooltip": "Deathblock: The wearer of this item is immune to all death spells and magical death effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock"
+        }
+      ]
+    },
+    {
+      "text": "Wisdom +4",
+      "tooltip": "Wisdom +4: This item makes the wearer more in tune with her surroundings, granting a +4 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +4"
+        }
+      ]
+    }
+  ]
+}

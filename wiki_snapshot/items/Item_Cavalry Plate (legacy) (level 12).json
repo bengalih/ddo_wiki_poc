@@ -1,0 +1,153 @@
+{
+  "page_title": "Item:Cavalry Plate (legacy) (level 12)",
+  "page_id": 23797,
+  "revision_id": 628904,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:19:34.694831+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Cavalry Plate}}\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | race                     = \n  | minlevel                 = 12\n  | bind                     = {{Bind|BtA|BoA}}\n  | epic                     = no\n  | ac                       = +15\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 216\n  | material                 = Steel\n  | hardness                 = 23\n  | basevalue                = 4,950 pp\n  | weight                   = 50 lbs\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|copper|800}}{{CCi|silver|400}}{{CCi|topaz|25}} at [[Dusty Old Treasure of Crystal Cove]]\n  | mythic                   = no\n  | enhancements             = \n* [[Upgradeable - Tier 1]]\n* {{Enhancement bonus|a|3}}\n* {{Life Shield}}\n* {{False Life|improved}}\n* {{DR|1|Chaotic|a}}\n* {{Resistance|3}}\n** [[Upgradeable - Tier 2]]\n*** {{Enhancement bonus|a|3}} &rarr; {{Enhancement bonus|a|4}}\n** [[Upgradeable - Tier 3]]\n*** {{False Life|improved}} &rarr; {{False Life|greater}}\n  | crafting                 = Treasure of Crystal Cove\n  | craftingupgrade          = \n  | description              = High-seas pirates plundered this richly-decorated plate mail from naval cavalry officers. Although it did not suit the pirates well, a fighter looking for better protection may benefit from it.\n  | pic                      = Cavalry Plate shown.jpg\n  | picdesc                  = Cavalry Plate (Level 12).png\n  | notes                    = See also: {{Item|Cavalry Plate}} - Full table of the Cavalry Plate line\n* {{CCi|topaz|50}}{{CCi|amethyst|40}}{{CCi|green|300}}: {{Popup|Tier 2|[[File:Cavalry Plate (level 12)(tier 2).png|450 px]]|long=y}}\n* {{CCi|topaz|80}}{{CCi|amethyst|60}}{{CCi|green|600}}{{CCi|stalwart|1}}: {{Popup|Tier 3|[[File:Cavalry Plate (level 12)(tier 3).png|450 px]]|long=y}}\n}}<noinclude>[[Category:Treasure of Crystal Cove legacy reward items]]</noinclude>",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Life Shield",
+      "tooltip": "Life Shield: Every time you are hit while wearing a Life Shield item there is a 10% chance you gain 15 temporary hitpoints that last for up to 1 minute.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Life_Shield",
+          "title": "Life Shield",
+          "text": "Life Shield"
+        }
+      ]
+    },
+    {
+      "text": "Improved False Life",
+      "tooltip": "Improved False Life: This item grants the wearer +20 maximum health.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)#Improved_False_Life",
+          "title": "False Life (enchantment)",
+          "text": "Improved False Life"
+        }
+      ]
+    },
+    {
+      "text": "DR 1/Chaotic",
+      "tooltip": "Damage Reduction 1/Chaotic: Reduces physical damage by 1, except from Chaotic aligned attacks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +3",
+      "tooltip": "Resistance +3: Passive: +3 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [
+        {
+          "text": "Upgradeable - Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "+3 Enhancement Bonus → +4 Enhancement Bonus",
+              "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+3 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+4 Enhancement Bonus"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_2",
+              "title": "Upgradeable - Tier 2",
+              "text": "Upgradeable - Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Upgradeable - Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Improved False Life → Greater False Life",
+              "tooltip": "Improved False Life: This item grants the wearer +20 maximum health.Greater False Life: This item grants the wearer +30 maximum health.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/False_Life_(enchantment)#Improved_False_Life",
+                  "title": "False Life (enchantment)",
+                  "text": "Improved False Life"
+                },
+                {
+                  "target": "/page/False_Life_(enchantment)#Greater_False_Life",
+                  "title": "False Life (enchantment)",
+                  "text": "Greater False Life"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_3",
+              "title": "Upgradeable - Tier 3",
+              "text": "Upgradeable - Tier 3"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +3"
+        }
+      ]
+    }
+  ]
+}

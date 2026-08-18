@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Whisperchain (level 25)",
+  "page_id": 30325,
+  "revision_id": 677118,
+  "revision_timestamp": "2026-02-28T20:51:41Z",
+  "fetched_at": "2026-08-17T23:26:18.640302+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Whisperchain}}\n  | type                     = Chainmail\n  | feat                     = Light\n  | race                     = \n  | ac                       = +16\n  | maxdexbonus              = 13\n  | acp                      = -1\n  | asf                      = 15%\n  | durability               = 322\n  | material                 = Mithral\n  | hardness                 = 34\n  | bind                     = {{Bind|BtC|BoE}}\n  | minlevel                 = 25\n  | basevalue                = 10,015pp\n  | weight                   = 0 lbs\n  | quest                    = Lost in the Swamp\n  | chest                    = Underwater chest (Epic Elite)\n  | end reward               = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|a|7}}\n* {{Concealment|Blurry}}\n* {{Ghostly}}\n* {{False Life|superior}}\n* {{Sneak Attack Bonus|5|Insightful}}\n* {{Heightened Awareness|5}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Whisperchain shown.jpg\n  | picdesc                  = Whisperchain (Level 25).png\n  | description              = The mithral links of this otherworldly chainmail armor seem almost ethereal to the touch, and are completely weightless.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Chainmail",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Blurry",
+      "tooltip": "Blurry: Equipping this item causes you to become slightly blurry. Attacks from enemies have a 20% chance to miss you due to concealment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blurry",
+          "title": "Blurry",
+          "text": "Blurry"
+        }
+      ]
+    },
+    {
+      "text": "Ghostly",
+      "tooltip": "Ghostly: Equipping this item causes you to become partially incorporeal. Your melee attacks do not roll a miss chance for Incorporeal targets. Enemy attacks have a 10% chance to miss you due to incorporeality. You receive a +5 enhancement bonus to your Hide and Move Silently skills.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostly",
+          "title": "Ghostly",
+          "text": "Ghostly"
+        }
+      ]
+    },
+    {
+      "text": "Superior False Life",
+      "tooltip": "Superior False Life: This item grants the wearer +40 maximum health.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)#Superior_False_Life",
+          "title": "False Life (enchantment)",
+          "text": "Superior False Life"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Sneak Attack Bonus +5",
+      "tooltip": "Insightful Sneak Attack Bonus +5 : Provides a +5 Insightful modifier to your attack bonus and a +8 Insightful bonus to damage for any attack that would qualify as a Sneak Attack, even if the wielder is not a Rogue.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sneak_Attack_Bonus",
+          "title": "Sneak Attack Bonus",
+          "text": "Insightful Sneak Attack Bonus +5"
+        }
+      ]
+    },
+    {
+      "text": "Heightened Awareness 5",
+      "tooltip": "Heightened Awareness 5: This item helps you to quickly read situations with sharpness and clarity, allowing you to predict actions before they occur. You gain a +5 Insight bonus to AC.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heightened_Awareness",
+          "title": "Heightened Awareness",
+          "text": "Heightened Awareness 5"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

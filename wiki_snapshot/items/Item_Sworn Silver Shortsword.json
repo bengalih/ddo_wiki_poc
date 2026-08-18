@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Sworn Silver Shortsword",
+  "page_id": 83301,
+  "revision_id": 672895,
+  "revision_timestamp": "2026-01-25T20:01:25Z",
+  "fetched_at": "2026-08-17T23:09:41.780813+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Sworn Silver Shortsword\n  | damage                   = [1d6] + 1 Pierce, Silver, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Short Sword\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 2\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 75\n  | material                 = Silver\n  | hardness                 = 10\n  | quest                    = Morten Edgewright\n  | chest                    = \n  | end reward               = \n  | turn in                  = 1 Silver Ingot\n  | epic                     = \n  | basevalue                = 803pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 44\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|1}}\n* {{Mat|silver}}, Alchemical\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = The Willbreaker.jpg\n  | picdesc                  = Sworn Silver Shortsword.png\n  | description              = This is a fine weapon, crafted of exquisite Silver. It's likely quite useful against the Undead or certain, powerful Devils.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Short Sword",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Silver , Alchemical",
+      "tooltip": "Silver: A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as devils and vampires. Silver weapons have 2 points lower hardness then equivalent steel weapons, and as such aren't quite as durable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Silver",
+          "title": "Silver",
+          "text": "Silver"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

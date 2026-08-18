@@ -1,0 +1,44 @@
+{
+  "page_title": "Item:Robe of Resistance",
+  "page_id": 8204,
+  "revision_id": 634335,
+  "revision_timestamp": "2025-04-22T03:14:53Z",
+  "fetched_at": "2026-08-17T22:47:32.902644+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Robe of Resistance\n  | type                     = Robe\n  | feat                     = Cloth\n  | ac                       = +0\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 25\n  | material                 = Cloth\n  | hardness                 = 4\n  | basevalue                = 805.5 pp\n  | weight                   = 0 lbs\n  | quest                    = The Cloven-jaw Scourge: The Caverns of Shaagh\n  | chest                    = End chest\n  | mythic                   = no\n  | enhancements             = \n* {{Resistance|2}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Robe of Resistance shown.jpg\n  | picdesc                  = Robe of Resistance.png\n  | description              = A fine cloth robe that, although unable to provide protection against physical harm, is instead enchanted to ward against other forms of attack.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "Resistance +2",
+      "tooltip": "Resistance +2: Passive: +2 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +2"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

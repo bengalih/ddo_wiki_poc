@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Reward",
+  "page_id": 39587,
+  "revision_id": 671158,
+  "revision_timestamp": "2026-01-08T22:52:55Z",
+  "fetched_at": "2026-08-17T22:44:43.890789+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Reward\n  | type                     = Dagger\n  | race                     = Shadar-kai\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|boa}}\n  | crafting                 = \n  | craftingupgrade          = \n  | damage                   = 1.50[1d4] + 3 Slash, Pierce, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 190\n  | material                 = Steel\n  | hardness                 = 25\n  | basevalue                = 6,000 pp 2 gp\n  | weight                   = 1.00 lbs\n  | quest                    = Advance to level 15\n  | revamped                 = Update 76\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Vampirism}}\n* {{Bloodletter|III}}\n* {{Named item sets|Risk and Reward}}\n  | pic                      = Reward shown.jpg\n  | picdesc                  = Reward.png\n  | description              = \n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Vampirism",
+      "tooltip": "Vampirism: This weapon drains a tiny portion of the target's life force whenever it does damage.Note: provides 1d3 hp of healing per hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Vampirism"
+        }
+      ]
+    },
+    {
+      "text": "Bloodletter III",
+      "tooltip": "Bloodletter III: On Critical Hit: 7 to 42 Slashing damage from weapons with a x2 Critical Multiplier, 7 to 56 Slashing damage from weapons with a x3 Critical Multiplier, and 7 to 70 Slashing damage from weapons with a x4 or greater Critical Multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bloodletter",
+          "title": "Bloodletter",
+          "text": "Bloodletter III"
+        }
+      ]
+    },
+    {
+      "text": "Risk and Reward",
+      "tooltip": "Risk and Reward: While both items from this set are equipped, your melee attacks deal an additional +0.5[W] damage dice. Your attacks also gain a 5% Chance on Hit to Bluff your target for four seconds. (Bluffed enemies can be affected by Sneak Attacks even while targeting you.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Risk_and_Reward",
+          "title": "Named item sets",
+          "text": "Risk and Reward"
+        }
+      ]
+    }
+  ]
+}

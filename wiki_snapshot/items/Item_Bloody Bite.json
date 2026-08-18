@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Bloody Bite",
+  "page_id": 117177,
+  "revision_id": 672640,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:12:23.367617+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Bloody Bite\n  | minlevel                 = 15\n  | type                     = Rapier\n  | class                    = Piercing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = [1d6] + 3 Slash, Magic\n  | crit                     = 18-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | race                     = Dhampir Dark Bargainer\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 195\n  | material                 = Steel\n  | hardness                 = 114\n  | cost                     = 6,002 pp\n  | weight                   = 2 lbs\n  | released                 = Update 74\n  | revamped                 = Update 76\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Piercing|3}}\n* {{Shockwave}}\n* {{ItemGrantedFeat|rapier}}\n  | crafting                 = \n  | description              = \n  | pic                      = Bloody Bite shown.jpg\n  | picdesc                  = Bloody Bite.png\n  | tips                     = \n}}\n\n[[Category:Weapons that grant their own proficiency]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Rapier",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Piercing 3",
+      "tooltip": "Piercing 3: The edges of this weapon have serrated edges, dealing an additional 3d6 piercing damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Piercing",
+          "title": "Piercing",
+          "text": "Piercing 3"
+        }
+      ]
+    },
+    {
+      "text": "Shockwave",
+      "tooltip": "Shockwave: On Vorpal, this weapon triggers a Shockwave, striking its target with bludgeoning damage and dealing damage to surrounding enemies.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shockwave#Shockwave",
+          "title": "Shockwave",
+          "text": "Shockwave"
+        }
+      ]
+    },
+    {
+      "text": "Proficiency: Rapier",
+      "tooltip": "Proficiency: Rapier: While equipped this item grants the wielder all required knowledge to wield a Rapier without proficiency penalties.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proficiency:_Rapier",
+          "title": "Proficiency: Rapier",
+          "text": "Proficiency: Rapier"
+        }
+      ]
+    }
+  ]
+}

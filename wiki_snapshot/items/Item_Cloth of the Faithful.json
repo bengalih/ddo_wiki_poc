@@ -1,0 +1,92 @@
+{
+  "page_title": "Item:Cloth of the Faithful",
+  "page_id": 8196,
+  "revision_id": 686678,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:24:07.623635+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Cloth of the Faithful\n  | type                     = Robe\n  | feat                     = Cloth\n  | ac                       = +7\n  | minlevel                 = 16\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 165\n  | material                 = Cloth\n  | hardness                 = 18\n  | basevalue                = 6,405 pp 5 gp\n  | weight                   = \n  | quest                    = Silver Flame Nugget\n  | chest                    = \n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Nightshield|14|1}}\n* {{ArmorBonus|7}}\n* {{Wizardry|VI}}\n* {{Spell Resistance|30}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Cloth of the Faithful shown.jpg\n  | picdesc                  = Cloth of the Faithful.png\n  | description              = This layered robe provides greater protection than most robes. A layer of semi-stiff metal-like material, not unlike chainmail is inserted between the two layers of fabric. Despite the metallic feel of the mysterious material, spells are not disrupted when wearing this robe. The colors of the Silver Flame trim and adorn the visible portions of fabric, and silver loops have been added in places , producing random bright flashes.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Nightshield — 1 Charges (Recharged/Day:1)",
+      "tooltip": "NightshieldCaster level: 14Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nightshield",
+          "title": "Nightshield",
+          "text": "Nightshield"
+        }
+      ]
+    },
+    {
+      "text": "Armor Bonus +7",
+      "tooltip": "Armor Bonus +7: This item surrounds the wearer with an invisible but tangible field of force, granting +7 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +7"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry VI",
+      "tooltip": "Wizardry VI: This item grants the wearer +150 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry VI"
+        }
+      ]
+    },
+    {
+      "text": "Spell Resistance +30",
+      "tooltip": "Spell Resistance +30: +30 Enhancement bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Spell Resistance +30"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Silver Pocketwatch",
+  "page_id": 91583,
+  "revision_id": 634789,
+  "revision_timestamp": "2025-04-22T03:44:49Z",
+  "fetched_at": "2026-08-17T22:59:22.888984+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Silver Pocketwatch\n  | type                     = Trinket\n  | slot                     = Trinket\n  | class                    = \n  | minlevel                 = 3\n  | durability               = 130\n  | material                 = Glass\n  | hardness                 = 23\n  | basevalue                = 1220pp\n  | weight                   = 0.10 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 50\n  | quest                    = Down You Go\n  | chest                    = end chest\n  | epic                     = no\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Silver Pocketwatch\n  | mythic                   = \n  | enhancements             = \n* {{Stat|Int|3}}\n* {{Vertigo|3}}\n* {{Augment|Blue}}\n* {{Named item sets|Saltmarsh Explorer}}\n  | description              = Whenever you try to set this watch back to the current time in Saltmarsh, it winds itself back to where it was.\n  | pic                      = \n  | picdesc                  = Silver Pocketwatch.jpg\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Glass",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Intelligence +3",
+      "tooltip": "Intelligence +3: This item focuses the power of the wearer's mind, granting a +3 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +3"
+        }
+      ]
+    },
+    {
+      "text": "Vertigo +3",
+      "tooltip": "Vertigo +3: This effect gives a +3 Enhancement bonus to the DC to resist the character's Trip and Improved Trip attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vertigo_(enchantment)",
+          "title": "Vertigo (enchantment)",
+          "text": "Vertigo +3"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Saltmarsh Explorer",
+      "tooltip": "Saltmarsh Explorer: 5 Pieces Equipped:+5 Artifact bonus to PRR and MRR+1 Artifact bonus to all ability scores",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Saltmarsh_Explorer",
+          "title": "Named item sets",
+          "text": "Saltmarsh Explorer"
+        }
+      ]
+    }
+  ]
+}

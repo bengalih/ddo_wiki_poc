@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Robe of Fire",
+  "page_id": 8203,
+  "revision_id": 689258,
+  "revision_timestamp": "2026-06-19T11:15:15Z",
+  "fetched_at": "2026-08-17T22:47:27.050502+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Robe of Fire\n  | type                     = Clothing\n  | feat                     = Cloth\n  | minlevel                 = 10\n  | ac                       = +6\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 105\n  | material                 = Cloth\n  | hardness                 = 12\n  | basevalue                = 4,005 pp 5 gp\n  | weight                   = \n  | quest                    = Sands of Menechtarun\n  | chest                    = Undead area: Thumok the Mad ; <br /> [[Masei Mkembe]] sells for 625 [[Antique Bronze Tokens]]\n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|6}}\n* {{Spell Focus|Evocation|4}}\n* {{Absorption|Fire|20}}\n* {{Elemental Resistance|Fire|21}}\n* {{ Fire Shield | Hot }}\n* {{Augment|Blue}}\n* {{Named item sets|The Desert's Burning Sun}} \n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Robe of Fire\n  | pic                      = Robe of Fire shown.jpg\n  | picdesc                  = Robe of Fire.png\n  | description              = A small fire elemental has been bound into the silken cloth of this robe enhancing many aspects of the wearer's command of fire.\n  | notes                    = \n  | revamped                 = Update 50\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Clothing",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +6",
+      "tooltip": "Armor Bonus +6: This item surrounds the wearer with an invisible but tangible field of force, granting +6 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +6"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus +4",
+      "tooltip": "Evocation Focus +4: +4 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus +4"
+        }
+      ]
+    },
+    {
+      "text": "Fire Absorption +20%",
+      "tooltip": "Fire Absorption +20%: Passive: 20% Enhancement Bonus to Fire Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Fire Absorption +20%"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +21",
+      "tooltip": "Fire Resistance +21: Passive: +21 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +21"
+        }
+      ]
+    },
+    {
+      "text": "Fire Shield (Hot)",
+      "tooltip": "Fire Shield (Hot): When you are successfully attacked, there is a 10% chance that a Fire Shield (Hot) will be cast on you. If this effect activates while you have an active Fire Shield (Cold) from another item source, they will nullify each-other.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Shield_(Hot)",
+          "title": "Fire Shield (Hot)",
+          "text": "Fire Shield (Hot)"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Desert's Burning Sun",
+      "tooltip": "The Desert's Burning Sun: 2 Pieces Equipped:+2% Artifact bonus to Fire Spellcrit Chance+10 Artifact bonus to Fire Spellpower+5 Artifact bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Desert's_Burning_Sun",
+          "title": "Named item sets",
+          "text": "The Desert's Burning Sun"
+        }
+      ]
+    }
+  ]
+}

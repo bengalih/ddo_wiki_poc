@@ -1,0 +1,140 @@
+{
+  "page_title": "Item:Legendary Infested Scalemail",
+  "page_id": 106034,
+  "revision_id": 644167,
+  "revision_timestamp": "2025-06-02T19:23:29Z",
+  "fetched_at": "2026-08-17T21:55:21.508622+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Infested Scalemail\n  | type                     = Medium Armor\n  | feat                     = Medium\n  | minlevel                 = 30\n  | race                     = \n  | ac                       = +33\n  | maxdexbonus              = 10\n  | acp                      = -1\n  | asf                      = 20%\n  | durability               = 444\n  | material                 = Steel\n  | hardness                 = 39\n  | bind                     = {{Bind|BtA|BoA}}\n  | basevalue                = 12010 pp\n  | weight                   = 25 lbs\n  | released                 = Update 64\n  | revamped                 = \n  | chain reward             = \n  | quest                    = The Chronoscope (Legendary)\n  | chest                    = end chest, or [[Legendary Crafting|Legendary version]] of {{Item|Epic Infested Armor}}\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Fortification|151}}\n* {{Guard|Legendary Disease}}\n* {{Sheltering|36}}\n* {{Demonic Shield|Legendary}}\n* {{DR|30|Good|a}}\n* {{Spell Resistance|41}}\n* {{Augment|Blue}}\n* {{Augment|Green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = An orthon warrior's body is crawling with hungry maggots that feed on its wounds. This suit of armor, crafted from the salvaged parts of an orthon's protective gear, is similarly infested and may impart a disease to those that attack the wearer.\n  | pic                      = Infested Armor shown.jpg\n  | picdesc                  = Legendary Infested Scalemail.png\n  | notes                    = \n  | tips                     = \n}}\n\n[[C:Legendary items]]",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Medium Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +151%",
+      "tooltip": "Fortification +151%: +151% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +151%"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Disease Guard",
+      "tooltip": "Legendary Disease Guard: This item carries the Maggot Plague disease, which deals 3d6 Constitution damage and may be contracted by enemies that hit you. A successful Fortitude Save (DC 100) will negate this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Legendary_Disease_Guard",
+          "title": "Legendary Disease Guard",
+          "text": "Legendary Disease Guard"
+        }
+      ]
+    },
+    {
+      "text": "Sheltering +36",
+      "tooltip": "Sheltering +36: +36 Enhancement bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Sheltering +36"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Demonic Shield",
+      "tooltip": "Legendary Demonic Shield: Each time you are hit in melee combat there is a chance that a shield of demonic energy will grant you a +240 Profane bonus to temporary hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Demonic_Shield#Legendary_Demonic_Shield",
+          "title": "Demonic Shield",
+          "text": "Legendary Demonic Shield"
+        }
+      ]
+    },
+    {
+      "text": "DR 30/Good",
+      "tooltip": "Damage Reduction 30/Good: Reduces physical damage by 30, except from Good aligned attacks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Spell Resistance +41",
+      "tooltip": "Spell Resistance +41: +41 Enhancement bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Spell Resistance +41"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Tokala's Belt",
+  "page_id": 11377,
+  "revision_id": 635555,
+  "revision_timestamp": "2025-04-22T04:35:41Z",
+  "fetched_at": "2026-08-17T23:19:44.879870+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Tokala's Belt\n  | type                     = Belt\n  | class                    = Clothing\n  | basevalue                = 10,002 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 110\n  | material                 = Leather\n  | hardness                 = 15\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | quest                    = Genesis Point\n  | chest                    = Any end chest; [[Tower of Despair]], [[Nythirios]] chest\n  | mythic                   = no\n  | enhancements             = \n* {{SpellPower|Ardor|20}}\n* {{Wizardry|VI}}\n* {{Named item sets|Radiant Servant}}\n  | description              = Once worn by Tokala, a powerful Radiant Servant, this heavy belt is adorned with symbols depicting the sun.\n  | pic                      = Belt Generic.png\n  | picdesc                  = Tokala's Belt.png\n  | tips                     = \n}}\n[[Category:Tower of Despair loot]]",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Greater Ardor - 3 Charges (Recharged/Day: 3)",
+      "tooltip": "Greater Ardor: When Activated, this effect provides a +20 Alchemical bonus to your Healing Spell Power for three minutes.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ardor",
+          "title": "Ardor",
+          "text": "Greater Ardor"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry VI",
+      "tooltip": "Wizardry VI: This item grants the wearer +150 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry VI"
+        }
+      ]
+    },
+    {
+      "text": "Radiant Servant",
+      "tooltip": "Radiant Servant: An additional Turn Undead attempt, Exceptional bonus to Turn Undead Cleric Level",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Radiant_Servant",
+          "title": "Named item sets",
+          "text": "Radiant Servant"
+        }
+      ]
+    }
+  ]
+}

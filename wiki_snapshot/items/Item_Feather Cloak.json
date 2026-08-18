@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Feather Cloak",
+  "page_id": 11400,
+  "revision_id": 630745,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:02:29.322227+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Feather Cloak\n  | type                     = Cloak\n  | class                    = Clothing\n  | basevalue                = 105 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Back\n  | durability               = 20\n  | material                 = Leather\n  | hardness                 = 3\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Redemption (quest)\n  | chest                    = \n  | end reward               = yes \n  | mythic                   = no\n  | enhancements             = \n* {{clicky|Feather Fall|1|1}} \n  | description              = This curious cloak is said to protect the wearer from a great fall.\n  | pic                      = Feather Cloak Shown.jpg\n  | picdesc                  = Feather Cloak.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "enchantments": [
+    {
+      "text": "Feather Fall — 1 Charges (Recharged/Day:1)",
+      "tooltip": "Feather FallCaster level: 1Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feather_Fall",
+          "title": "Feather Fall",
+          "text": "Feather Fall"
+        }
+      ]
+    }
+  ]
+}

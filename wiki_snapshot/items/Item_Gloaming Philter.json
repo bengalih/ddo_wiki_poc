@@ -1,0 +1,48 @@
+{
+  "page_title": "Item:Gloaming Philter",
+  "page_id": 44282,
+  "revision_id": 668211,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:11:38.804115+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Gloaming Philter\n  | sentience                = no\n  | damage                   = [1] + 0 Bludgeon\n  | crit                     = 20 / x1\n  | type                     = Dart\n  | hand                     = Thrown\n  | class                    = Thrown\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 80\n  | material                 = Glass\n  | hardness                 = 10\n  | minlevel                 = 27\n  | released                 = Update 21\n  | revamped                 = Update 76\n  | quest                    = The Ruins of Thunderholme\n  | chest                    = Any Rare Encounter chests \n  | end reward               = \n  | turn in                  = \n  | basevalue                = 5 cp\n  | weight                   = 0.05 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | mythic                   = no\n  | enhancements             = \n* {{Returning|100}}\n* Special: Deals 10 to 60 [[Negative Energy]] Damage to nearby enemies, and possibly inflicting a [[negative level]].\n  | crafting                 = <!--Type of crafting-->\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | pic                      = Sun Flask shown.jpg\n  | picdesc                  = Gloaming Philter.png\n  | description              = Doubly-enchanted glass containing pure water from a Shadowfell spring. Breaks on impact, dealing 10 to 60 Negative Energy Damage to nearby enemies, and possibly inflicting a negative level on them.<br/><br/>Caution: Do Not Drink.\n  | tips                     = {{Non-food}}\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dart",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "Special: Deals 10 to 60 Negative Energy Damage to nearby enemies, and possibly inflicting a negative level.",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Energy",
+          "title": "Negative Energy",
+          "text": "Negative Energy"
+        },
+        {
+          "target": "/page/Negative_level",
+          "title": "Negative level",
+          "text": "negative level"
+        }
+      ]
+    }
+  ]
+}

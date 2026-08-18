@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Bloodplate Armor",
+  "page_id": 8092,
+  "revision_id": 628625,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:12:19.492013+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Bloodplate Armor\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | ac                       = 17\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 176\n  | material                 = Steel\n  | hardness                 = 19\n  | basevalue                = 3,350 pp\n  | weight                   = 50 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | minlevel                 = 8\n  | quest                    = The Church and the Cult\n  | chest                    = End Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Deathblock}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Bloodplate Armor shown.jpg\n  | picdesc                  = Bloodplate Armor.png\n  | description              = A suit of fullplate armor enameled in crimson and stinking of evil.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Deathblock",
+      "tooltip": "Deathblock: The wearer of this item is immune to all death spells and magical death effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

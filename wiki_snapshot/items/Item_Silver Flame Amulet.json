@@ -1,0 +1,29 @@
+{
+  "page_title": "Item:Silver Flame Amulet",
+  "page_id": 11870,
+  "revision_id": 634773,
+  "revision_timestamp": "2025-04-22T03:43:49Z",
+  "fetched_at": "2026-08-17T22:59:01.435738+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Silver Flame Amulet\n  | type                     = Necklace\n  | class                    = Jewelry\n  | basevalue                = 420 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Neck\n  | durability               = 30 \n  | material                 = Gold \n  | hardness                 = 7\n  | minlevel                 = 5 \n  | bind                     = {{Bind|BtC|BoA}} \n  | quest                    = The Bloody Crypt\n  | chest                    = altar\n  | enhancements             = \n* {{Absorption|negative energy|0|1|1}}\n  | crafting                 = The Shadow Crypt\n  | craftingupgrade          = Silver Flame Pendant\n  | description              = This amulet of the Silver Flame has been transformed by the Brother Salasso's bloody altar. \n  | pic                      = Necklace Generic Gray.png\n  | picdesc                  = Silver Flame Amulet.png\n  | tips                     = This is the first upgrade to the [[Silver Flame Nugget]] which you can get from [[Jakob Izakanos]] in the [[Necropolis]]. <br />\nIf you have any upgraded version of the [[Silver Flame Nugget]] (amulet, pendant or talisman), talking and accepting the [[Emerald Claw Nugget]] from [[Pok Tranh]] will delete the Silver Flame nugget and replace it with an un-upgraded Emerald Claw nugget.\n  | mythic                   = No \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Negative Energy Absorption - 1 Charges (Recharged/Day: 1)",
+      "tooltip": "Negative Energy Absorption: This effect absorbs negative energy and energy drain effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Energy_Absorption",
+          "title": "Negative Energy Absorption",
+          "text": "Negative Energy Absorption"
+        }
+      ]
+    }
+  ]
+}

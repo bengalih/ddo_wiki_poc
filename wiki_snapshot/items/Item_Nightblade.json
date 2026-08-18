@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Nightblade",
+  "page_id": 8135,
+  "revision_id": 633717,
+  "revision_timestamp": "2025-04-22T02:32:25Z",
+  "fetched_at": "2026-08-17T22:31:08.752799+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Nightblade\n  | type                     = Falchion\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | minlevel                 = 8\n  | reqtrait                 = \n  | UMD DC                   = \n  | bind                     = {{Bind|BtC|BoA}}\n  | damage                   = 1.50[2d4] + 4 Slash, Magic, Byeshk\n  | crit                     = 15-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 170\n  | material                 = Byeshk\n  | hardness                 = 25\n  | basevalue                = 3,357pp 5gp\n  | weight                   = 8 lbs\n  | quest                    = Tempest's Spine\n  | chest                    = [[Zerisenz]] Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|4}}\n* {{Keen|I}}\n* {{mat|Byeshk}}\n* {{Augment|Red}}\n* {{Augment|Purple}}\n  | description              = This large, curved sword is essentially a scimitar designed to be used with two hands.\n  | pic                      = Nightblade shown.jpg\n  | picdesc                  = Nightblade.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Falchion",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Byeshk",
+      "tooltip": "Byeshk: Byeshk is effective against Mind Flayers and other aberrations.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Byeshk",
+          "title": "Byeshk",
+          "text": "Byeshk"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

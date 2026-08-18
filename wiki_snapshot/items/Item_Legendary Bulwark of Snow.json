@@ -1,0 +1,132 @@
+{
+  "page_title": "Item:Legendary Bulwark of Snow",
+  "page_id": 84156,
+  "revision_id": 631904,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:33:59.731106+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Legendary Bulwark of Snow\n  | type                     = Tower\n  | prof                     = Tower\n  | minlevel                 = 29\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = 30\n  | maxdexbonus              = 4\n  | dr                       = 23\n  | acp                      = -6\n  | asf                      = 40\n  | dmg                      = 4.80[1d12+8] + 15\n  | dmgtype                  = Bludgeon, Cold Iron, Magic\n  | crit                     = 19-20 / x3\n  | durability               = 410\n  | material                 = Mithral\n  | hardness                 = 59\n  | basevalue                = 12,104pp\n  | weight                   = 50 lbs\n  | released                 = Update 48\n  | quest                    = Quid Pro Quo\n  | chest                    = End chest\n  | enhancements             = \n* {{Enhancement bonus|s|15}}\n* {{Absorption|Force|16}}\n* {{Avalanche|Legendary}}\n* {{Shield of Snow}}\n* {{Elemental Resistance|Cold|50}}\n* {{Mat|Mithral}}\n* {{Augment|Purple}}\n* {{Named item sets|Eminence of Winter}}\n  | description              = This crystalline shield radiates the energies of Winter, and is adept at protecting you from enemy attacks.\n  | pic                      = Bulwark of Snow shown.jpg\n  | picdesc                  = Legendary Bulwark of Snow.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Tower Shield Proficiency",
+  "material": "Mithral",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Force Absorption +16%",
+      "tooltip": "Force Absorption +16%: Passive: 16% Enhancement Bonus to Force Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Force Absorption +16%"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Avalanche",
+      "tooltip": "Legendary Avalanche: This magical item contains the destructive power of an avalanche within, and when you are damaged below 50% HP, its power is unleashed in the form of a massive explosion of Cold damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Avalanche#Legendary_Avalanche",
+          "title": "Avalanche",
+          "text": "Legendary Avalanche"
+        }
+      ]
+    },
+    {
+      "text": "Shield of Snow",
+      "tooltip": "Shield of Snow: This snow provides a powerful defense against physical attacks. While actively blocking, you gain +50 Insight bonus to Physical Resistance Rating.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_of_Snow",
+          "title": "Shield of Snow",
+          "text": "Shield of Snow"
+        }
+      ]
+    },
+    {
+      "text": "Cold Resistance +50",
+      "tooltip": "Cold Resistance +50: Passive: +50 Enhancement bonus to your Cold Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Resistance",
+          "title": "Cold Resistance",
+          "text": "Cold Resistance +50"
+        }
+      ]
+    },
+    {
+      "text": "Mithral",
+      "tooltip": "Mithral: Mithral armor is one type lighter then normal. Arcane Spell Failure decreased by 10%. Maximum dexterity bonus increased by 2. Armor check penalty reduced by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mithral",
+          "title": "Mithral",
+          "text": "Mithral"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Eminence of Winter",
+      "tooltip": "Eminence of Winter:",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Eminence_of_Winter",
+          "title": "Named item sets",
+          "text": "Eminence of Winter"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

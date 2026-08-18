@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Consuming Darkness (level 27)",
+  "page_id": 41840,
+  "revision_id": 649009,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:25:30.512110+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = {{Item|Consuming Darkness}}\n  | minlevel                 = 27\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 280\n  | material                 = Gold\n  | hardness                 = 37\n  | basevalue                = 10,820 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = What Goes Up\n  | end reward               = \n  | turn in                  = \n  | chest                    = jeweled key chest, end chest (Epic Hard)\n  | enhancements             = \n* {{Seeker|xi}}\n* {{Tactics|Combat Mastery|5|Insight}}\n* {{Augment|Yellow}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Ring Generic Darkness.png\n  | picdesc                  = Consuming Darkness (Level 27).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "Seeker +11",
+      "tooltip": "Seeker +11: Provides a +11 Enhancement bonus to confirm critical hits, and a +11 Enhancement bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Seeker +11"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Combat Mastery +5",
+      "tooltip": "Insightful Combat Mastery +5: +5 Insight bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combat_Mastery",
+          "title": "Combat Mastery",
+          "text": "Insightful Combat Mastery +5"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Firestorm Greaves",
+  "page_id": 10665,
+  "revision_id": 630852,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:04:46.424048+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Firestorm Greaves\n  | basevalue                = 4,420 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | type                     = Boots\n  | durability               = 120\n  | material                 = Steel\n  | hardness                 = 21\n  | minlevel                 = 11\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Sands of Menechtarun\n  | chest                    = [[Commander Errulf]]'s Chest (Rare Encounter) ; <br /> [[Masei Mkembe]] sells for 625 [[Antique Bronze Tokens]]\n  | mythic                   = no\n  | enhancements             = \n* {{Absorption|Fire|21}}\n* {{Elemental Resistance|Fire|23}}\n* {{Sheltering|15|Enhancement|Magical}}\n* {{Speed|21}}\n* {{Augment|Yellow}}\n* {{Named item sets|The Desert's Burning Sun}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Firestorm Greaves\n  | description              = Greaves fashioned from the finest steel and the essence of fire. These greaves can protect their wearer from most forms of magical fire.\n  | pic                      = Boots Generic.png\n  | picdesc                  = Firestorm Greaves.png\n  | revamped                 = Update 50\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Fire Absorption +21%",
+      "tooltip": "Fire Absorption +21%: Passive: 21% Enhancement Bonus to Fire Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Fire Absorption +21%"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +23",
+      "tooltip": "Fire Resistance +23: Passive: +23 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +23"
+        }
+      ]
+    },
+    {
+      "text": "Magical Sheltering +15",
+      "tooltip": "Magical Sheltering +15: +15 Enhancement bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Magical Sheltering +15"
+        }
+      ]
+    },
+    {
+      "text": "Speed +21%",
+      "tooltip": "Speed +21%: +21% enhancement bonus to movement speed, 8% bonus to attack speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Speed",
+          "title": "Speed",
+          "text": "Speed +21%"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Desert's Burning Sun",
+      "tooltip": "The Desert's Burning Sun: 2 Pieces Equipped:+2% Artifact bonus to Fire Spellcrit Chance+10 Artifact bonus to Fire Spellpower+5 Artifact bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Desert's_Burning_Sun",
+          "title": "Named item sets",
+          "text": "The Desert's Burning Sun"
+        }
+      ]
+    }
+  ]
+}

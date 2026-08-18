@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Spectre Striker",
+  "page_id": 80310,
+  "revision_id": 668212,
+  "revision_timestamp": "2025-11-27T11:57:01Z",
+  "fetched_at": "2026-08-17T22:09:42.435242+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Spectre Striker\n  | damage                   = 4.80[1d4+2] +15 Pierce, Magic\n  | crit                     = 20 / x2\n  | type                     = Dart\n  | hand                     = Thrown\n  | race                     = \n  | class                    = Thrown\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 29\n  | durability               = 305\n  | material                 = Steel\n  | hardness                 = 39\n  | cost                     = 11,600 pp 5 cp\n  | weight                   = 0.50 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 46\n  | revamped                 = Update 76\n  | quest                    = Housekeeping\n  | chest                    = Either End chest \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Deception|Bluff=Improved}}\n* {{Bleeding|6}}\n* {{Piercing|6}}\n* {{Ghost Touch}}\n* {{Returning}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A subtle mist surrounds this weapon. It is likely quite useful against certain Undead foes that other weapons have a hard time connecting with.\n  | pic                      = Spectre Striker shown.jpg\n  | picdesc                  = Legendary Spectre Striker.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dart",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Improved Deception",
+      "tooltip": "Improved Deception: This item makes your weapons hard to focus upon and thus provides a +5 enhancement bonus to Bluff checks. In addition, while using this item your weapons have a chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception#Improved_Deception",
+          "title": "Deception",
+          "text": "Improved Deception"
+        }
+      ]
+    },
+    {
+      "text": "Bleeding 6",
+      "tooltip": "Bleeding 6: This weapon is wickedly curved, with spines and hooks meant to cause damage to those with flesh. This weapon does 6d8 bleeding damage to those that are vulnerable to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleeding",
+          "title": "Bleeding",
+          "text": "Bleeding 6"
+        }
+      ]
+    },
+    {
+      "text": "Piercing 6",
+      "tooltip": "Piercing 6: The edges of this weapon have serrated edges, dealing an additional 6d6 piercing damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Piercing",
+          "title": "Piercing",
+          "text": "Piercing 6"
+        }
+      ]
+    },
+    {
+      "text": "Ghost Touch",
+      "tooltip": "Ghost Touch: An incorporeal creature's 50% chance to avoid damage does not apply to attacks with ghost touch weapons.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghost_Touch",
+          "title": "Ghost Touch",
+          "text": "Ghost Touch"
+        }
+      ]
+    },
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Morgana's Ring",
+  "page_id": 10215,
+  "revision_id": 633531,
+  "revision_timestamp": "2025-04-22T02:19:44Z",
+  "fetched_at": "2026-08-17T22:26:16.414647+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Morgana's Ring\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 120\n  | material                 = Gold\n  | hardness                 = 12\n  | basevalue                = 10,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | quest                    = Tower of Despair\n  | chest                    = right side end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|WIS|6}}\n* {{Stat|STR|1|Exceptional}}\n* {{Named item sets|Warpriest}}\n* {{CraftingEffects|Incredible Potential}}\n  | crafting                 = Incredible Potential\n  | craftingupgrade          = <!-- -->\n  | description              = This ring was worn into battle by the dreaded Warpriest Morgana. Some believe Morgana journeyed to Shavarath and allied with the devils, and that she carried the ring with her.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Morgana's Ring.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Wisdom +6",
+      "tooltip": "Wisdom +6: This item makes the wearer more in tune with her surroundings, granting a +6 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +6"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Strength +1",
+      "tooltip": "Exceptional Strength +1: This item gives the wearer the power of Ogre Strength, granting a +1 Exceptional bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Exceptional Strength +1"
+        }
+      ]
+    },
+    {
+      "text": "Warpriest",
+      "tooltip": "Warpriest: 2 additional Turn Undead per rest, +2 Exceptional Melee Bonus To-Hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Warpriest",
+          "title": "Named item sets",
+          "text": "Warpriest"
+        }
+      ]
+    },
+    {
+      "text": "Incredible Potential",
+      "tooltip": "Incredible Potential: Incredible Potential: This ring's power has not been fully unleashed. When this ring is combined with 9 Shavarath War Trophies and ac Imbued Shard of Great Power in an Altar of Subjugation, its full potential will be reveled.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incredible_Potential",
+          "title": "Incredible Potential",
+          "text": "Incredible Potential"
+        }
+      ]
+    }
+  ]
+}

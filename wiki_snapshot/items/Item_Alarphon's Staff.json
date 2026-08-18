@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Alarphon's Staff",
+  "page_id": 24242,
+  "revision_id": 688154,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:02:01.430108+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Alarphon's Staff\n  | damage                   = 3[1d6] + 6 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = Class Required: Wizard, Sorcerer, Bard\n  | UMD DC                   = 0\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 280\n  | material                 = Magesteel\n  | hardness                 = 30\n  | minlevel                 = 20\n  | quest                    = Eveningstar\n  | chest                    = \n  | end reward               = \n  | turn in                  = {{Commendation|WW|15}}\n  | epic                     = no\n  | basevalue                = 8,000 pp 1 cp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|I|6}}\n* {{SpellPower|Elemental Manipulation}}\n* {{Spelllore|Spell|VI}}\n* {{Clicky|Alarphon's Staff: Spell Selection|20|25|0}} \n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Alarphon's Staff shown.jpg\n  | picdesc                  = Alarphon's Staff.png\n  | description              = This metal staff hums with power. Arcane runes are inscribed along its length. In the hands of an arcane caster, this staff is capable of casting a diverse array of offensive spells. Although this staff does not regain charges when you rest, it recharges automatically as time passes.\n  | tips                     = \n* Class Required cannot be satisfied with UMD.\n* Spellcasting Implement does not display on [[Relton Traplo]] (War Wizard Trader) item description. Only after the item is created will it have an Spellcasting Implement shown.\n* The charges on this item recharge over time, not with rest.\n* In-quest, the spells regen at a rate of one charge every thirty seconds exactly, whilst not in use. This generally makes it possible, except in very intensive use, to use this spell selection variation of the spell exclusively and not bother taking the spell in a normal spell slot.\n* In each instance the damage done by this variation of the spell is 50% to 100% more powerful than the base damage of the normal spell. This can be further increased by any enhancements, feats & abilities that impact on wand damage.\n\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +18",
+      "tooltip": "Spellcasting Implement +18: Passive: +18 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +18"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Elemental Manipulation",
+      "tooltip": "Elemental Manipulation: This item provides a +90 Equipment bonus to your Acid, Cold, Electric, and Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Elemental_Manipulation_(enchantment)",
+          "title": "Elemental Manipulation (enchantment)",
+          "text": "Elemental Manipulation"
+        }
+      ]
+    },
+    {
+      "text": "Spell Lore VI",
+      "tooltip": "Spell Lore VI: Passive: All of your spells gain a 6% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Spell Lore VI"
+        }
+      ]
+    },
+    {
+      "text": "Alarphon's Staff: Spell Selection — 25 Charges (Recharged/Day:0)",
+      "tooltip": "Alarphon's Staff: Spell SelectionCaster level: 20Charges: 25 (0/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alarphon%27s_Staff:_Spell_Selection",
+          "title": "Alarphon's Staff: Spell Selection",
+          "text": "Alarphon's Staff: Spell Selection"
+        }
+      ]
+    }
+  ]
+}

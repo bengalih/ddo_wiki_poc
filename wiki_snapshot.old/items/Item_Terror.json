@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:Terror",
+  "page_id": 11229,
+  "revision_id": 705514,
+  "revision_timestamp": "2026-08-15T16:24:29Z",
+  "fetched_at": "2026-08-17T06:29:07.865712+00:00",
+  "categories": [],
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fearsome",
+      "tooltip": "Fearsome: This item causes those who strike the user to be overcome with terror, as from the Fear spell.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fearsome",
+          "title": "Fearsome",
+          "text": "Fearsome"
+        }
+      ]
+    },
+    {
+      "text": "Nightmares",
+      "tooltip": "Nightmares: This weapon terrorizes your foes, applying a Mind Thrust effect on successful hits (dealing 5 to 40 force damage, Will vs. Enchantments negates) and exposing your foes to their greatest fears on vorpal hits, acting as a Phantasmal Killer spell.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nightmares",
+          "title": "Nightmares",
+          "text": "Nightmares"
+        }
+      ]
+    },
+    {
+      "text": "Phantasmal Killer — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Phantasmal KillerCaster level: 18Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Phantasmal_Killer",
+          "title": "Phantasmal Killer",
+          "text": "Phantasmal Killer"
+        }
+      ]
+    },
+    {
+      "text": "Suppressed Power",
+      "tooltip": "Suppressed Power: This psionic item is powerful, but you sense that it has not unlocked all of its secrets to you at this time.",
+      "children": [
+        {
+          "text": "Adds Intimidate +15",
+          "tooltip": "Intimidate +15: Passive: +15 Competence bonus to the Intimidate skill.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Intimidate",
+              "title": "Intimidate",
+              "text": "Intimidate +15"
+            }
+          ]
+        },
+        {
+          "text": "Adds Deception",
+          "tooltip": "Deception: This weapon is hard to focus upon and thus provides a +3 enhancement bonus to Bluff checks. In addition, Deception weapons have a small chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Deception",
+              "title": "Deception",
+              "text": "Deception"
+            }
+          ]
+        },
+        {
+          "text": "Becomes Bound to Character on Acquire, Exclusive",
+          "tooltip": null,
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bind",
+              "title": "Bind",
+              "text": "Bound to Character on Acquire"
+            },
+            {
+              "target": "/page/Exclusive",
+              "title": "Exclusive",
+              "text": "Exclusive"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Suppressed_Power",
+          "title": "Suppressed Power",
+          "text": "Suppressed Power"
+        }
+      ]
+    }
+  ],
+  "item_class": "Weapon",
+  "item_template": ""
+}

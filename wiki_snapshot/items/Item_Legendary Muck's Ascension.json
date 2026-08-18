@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Muck's Ascension",
+  "page_id": 126728,
+  "revision_id": 701999,
+  "revision_timestamp": "2026-07-30T09:54:35Z",
+  "fetched_at": "2026-08-17T21:59:53.956541+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Muck's Ascension\n  | damage                   = 6[1d6+3] + 16 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 400\n  | material                 = Glass\n  | hardness                 = 45\n  | minlevel                 = 35\n  | basevalue                = 14,000pp 1cp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 81\n  | quest                    = Catalyst Crafting\n  | turn in                  = {{Item|Muck's Doom}}, its Legendary [[Abyssal Catalyst]] and 5 {{Item|Legendary Abyssal Gem}}s at the [[Strange Catalyst Forge]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|16|35}}\n* {{SpellPower|Corrosion|169}}\n* {{Intensity|Acid|25}}\n* {{SpellPower|Corrosion|84|Insightful}}\n* {{Lingering Acidic Burn}}\n* {{Augment|Orange}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = No longer Muck's Doom. He will rise. Seek the Sealed Altar.\n  | pic                      = Muck's Ascension shown.jpg\n  | picdesc                  = Legendary Muck's Ascension.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 35,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +35",
+      "tooltip": "Spellcasting Implement +35: Passive: +35 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +35"
+        }
+      ]
+    },
+    {
+      "text": "+16 Enhancement Bonus",
+      "tooltip": "+16 Enhancement Bonus: +16 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+16 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Corrosion +169",
+      "tooltip": "Corrosion +169: Passive: +169 Equipment bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Corrosion +169"
+        }
+      ]
+    },
+    {
+      "text": "Acid Intensity +25%",
+      "tooltip": "Acid Intensity +25%: +25% Enhancement bonus to critical damage with Acid spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intensity",
+          "title": "Intensity",
+          "text": "Acid Intensity"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Corrosion +84",
+      "tooltip": "Insightful Corrosion +84: Passive: +84 Insightful bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Insightful Corrosion +84"
+        }
+      ]
+    },
+    {
+      "text": "Lingering Acidic Burn",
+      "tooltip": "Lingering Acidic Burn: This weapon splashes acid on your opponents. Your attacks and offensive spells have a high chance to deal very strong Acid damage over time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lingering_Acidic_Burn",
+          "title": "Lingering Acidic Burn",
+          "text": "Lingering Acidic Burn"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

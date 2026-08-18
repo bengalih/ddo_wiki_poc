@@ -1,0 +1,194 @@
+{
+  "page_title": "Item:Flawless White Dragonscale Robe",
+  "page_id": 33895,
+  "revision_id": 686665,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:07:14.375434+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Flawless White Dragonscale Robe\n  | type                     = Robe\n  | feat                     = Cloth\n  | minlevel                 = 25\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +10\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 290\n  | material                 = White Dragonscale\n  | hardness                 = 35\n  | basevalue                = 10,005pp 5gp\n  | weight                   = 0 lbs\n  | released                 = Update 17\n  | quest                    = White Dragonscale Armor\n  | turn in                  = \n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|10}}\n* {{Fortification|3}}\n* {{ProtectionBonus|7}}\n* {{Shield Bonus|6}}\n* {{Elemental Resistance|Cold|40}}\n* {{Attuned to Heroism}}\n* {{Named item sets|Draconic Resilience}}\n* {{Augment|Blue}}\n  | crafting                 = Attuned to Heroism\n  | craftingupgrade          = \n  | pic                      = White Dragonscale Robe shown.jpg<!-- same style -->\n  | picdesc                  = Flawless White Dragonscale Robe.png\n  | description              = A finely crafted silk robe that includes many scales from a white dragon.\n  | notes                    = Turn-in:\n* 20 {{Item|Flawless White Dragon Scale}}s\n* 10 {{Item|Restored Dragon Relic}}s\n* 10 {{Item|Restored Elven Relic}}s\n* 10 {{Item|Restored Giant Relic}}s\n* {{Commendation|Heroism|3}}\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "White Dragonscale",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +10",
+      "tooltip": "Armor Bonus +10: This item surrounds the wearer with an invisible but tangible field of force, granting +10 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +10"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +100%",
+      "tooltip": "Fortification +100%: This suit of armor or shield produces a magical force that protects vital areas of the wearer much more effectively. When a critical hit or sneak attack is scored on the wearer, there is a 100% chance that the critical hit or sneak attack is negated and damage is instead rolled normally.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +100%"
+        }
+      ]
+    },
+    {
+      "text": "Protection +7",
+      "tooltip": "Protection +7: Passive: +7 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +7"
+        }
+      ]
+    },
+    {
+      "text": "Shield +6",
+      "tooltip": "Shield +6: While this item is equipped, you are partially protected by a field of magical force which can deflect enemy attacks. This item provides a +6 Shield bonus to Armor Class. It does not stack with an equipped shield.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bonus",
+          "title": "Shield Bonus",
+          "text": "Shield +6"
+        }
+      ]
+    },
+    {
+      "text": "Cold Resistance +40",
+      "tooltip": "Cold Resistance +40: Passive: +40 Enhancement bonus to your Cold Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Resistance",
+          "title": "Cold Resistance",
+          "text": "Cold Resistance +40"
+        }
+      ]
+    },
+    {
+      "text": "Attuned to Heroism",
+      "tooltip": "This relic is attuned to heroic actions.",
+      "children": [
+        {
+          "text": "Attuned by Heroism: Tier 1",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Armor Bonus +10 → Armor Bonus +11",
+              "tooltip": "Armor Bonus +10: This item surrounds the wearer with an invisible but tangible field of force, granting +10 armor bonus to AC, just as though he were wearing armor.Armor Bonus +11: This item surrounds the wearer with an invisible but tangible field of force, granting +11 armor bonus to AC, just as though he were wearing armor.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Armor_Bonus",
+                  "title": "Armor Bonus",
+                  "text": "Armor Bonus +10"
+                },
+                {
+                  "target": "/page/Armor_Bonus",
+                  "title": "Armor Bonus",
+                  "text": "Armor Bonus +11"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 1"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Protection +7 → Protection +8",
+              "tooltip": "Protection +7: Passive: +7 Deflection bonus to Armor Class.Protection +8: Passive: +8 Deflection bonus to Armor Class.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Protection",
+                  "title": "Protection",
+                  "text": "Protection +7"
+                },
+                {
+                  "target": "/page/Protection",
+                  "title": "Protection",
+                  "text": "Protection +8"
+                }
+              ]
+            },
+            {
+              "text": "Shield +6 → Shield +8",
+              "tooltip": "Shield +6: While this item is equipped, you are partially protected by a field of magical force which can deflect enemy attacks. This item provides a +6 Shield bonus to Armor Class. It does not stack with an equipped shield.Shield +8: While this item is equipped, you are partially protected by a field of magical force which can deflect enemy attacks. This item provides a +8 Shield bonus to Armor Class. It does not stack with an equipped shield.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Shield_Bonus",
+                  "title": "Shield Bonus",
+                  "text": "Shield +6"
+                },
+                {
+                  "target": "/page/Shield_Bonus",
+                  "title": "Shield Bonus",
+                  "text": "Shield +8"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 2"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Attuned_to_Heroism",
+          "title": "Attuned to Heroism",
+          "text": "Attuned to Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Draconic Resilience",
+      "tooltip": "Draconic Resilience: While an Epic-level Helm of the White Dragon is equipped at the same time as a Flawless White Dragonscale Armor, you will gain a +50 artifact bonus to your maximum Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Draconic_Resilience",
+          "title": "Named item sets",
+          "text": "Draconic Resilience"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

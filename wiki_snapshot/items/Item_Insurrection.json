@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Insurrection",
+  "page_id": 7879,
+  "revision_id": 631563,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:24:14.309730+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Insurrection\n  | damage                   = 1.40[1d18] + 5 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Great Axe\n  | class                    = Slashing \n  | prof                     = Martial\n  | hand                     = Two-handed\n  | minlevel                 = 12\n  | damagemod                = STR \n  | attackmod                = STR\n  | durability               = 220\n  | material                 = Steel\n  | hardness                 = 22\n  | basevalue                = 4,802pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtC|boe}}\n  | quest                    = Desecrated Temple of Vol\n  | chest                    = End Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Bane|Construct}}\n* {{Shatter|10}}\n* {{Augment|Red}}\n  | description              = This great axe split the altar to Vol in a single mighty blow.\n  | pic                      = Carnifex shown.jpg\n  | picdesc                  = Insurrection.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Construct Bane",
+      "tooltip": "Construct Bane: A bane weapon excels at attacking one type or subtype of creature. Against Constructs, this weapon's effective enhancement bonus is +2 better than its normal enhancement bonus. It deals an extra 2 to 12 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Construct Bane"
+        }
+      ]
+    },
+    {
+      "text": "Shatter +10",
+      "tooltip": "Shatter +10: This effect gives a +10 Enhancement bonus to the DC to resist the character's Sunder and Improved Sunder attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shatter",
+          "title": "Shatter",
+          "text": "Shatter +10"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

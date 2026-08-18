@@ -1,0 +1,126 @@
+{
+  "page_title": "Item:Frozen Contraption",
+  "page_id": 118965,
+  "revision_id": 685918,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:08:50.277980+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Rune Arm\n  | name                     = Frozen Contraption\n  | minlevel                 = 8\n  | reqtrait                 = [[Rune Arm Use|Artificer Rune Arm Use]]\n  | UMD DC                   = None\n  | spell                    = Cold Bolts\n  | target                   = Foe, Directional, Breakable\n  | school                   = Evocation\n  | sr                       = No\n  | spell desc               = Fires ice crystals that damage your enemies. At higher charge levels multiple bolts are rapidly fired. Opponents struck by these crystals receive a [[Fortitude save]] for half damage.\n  | max charge               = 3\n  | imbue                    = Cold II\n  | imbue die                = 2d6\n  | imbue dmg                = cold\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 160\n  | material                 = Gem\n  | hardness                 = 18\n  | basevalue                = 4,100 pp\n  | weight                   = 0.25 lbs\n  | released                 = Update 75\n  | quest                    = Cold Snap\n  | chest                    = end chest\n  | rare                     = yes\n  | end reward               = \n  | turn in                  = \n  | food                     = yes\n  | enhancements             = \n* [[Cold Bolts]]\n* {{SpellPower|Glaciation|35|Insightful}}\n* {{Lamordia Slot|Melancholic|Weapon}}\n* {{Lamordia Slot|Dolorous|Weapon}}\n* {{Lamordia Slot|Melancholic|Armor}}\n* {{Augment|Green}}\n  | craftable rune arm       = no\n  | epic                     = \n  | crafting                 = Viktranium Experiment crafting\n  | craftingupgrade          = \n  | craftingnotes            = \n  | pic                      = Cold Bolts icon.png\n  | picdesc                  = Frozen Contraption.png\n  | description              = The whirring mechanisms at play here freeze up often - Nothing that some swift percussive maintenance can't fix, however.\n  | tips                     = {{Bug|Although the description states the maximum charge tier to be V, it is in fact III - appropriate to the level. Probably copied from the legendary version.|M=true}}\n}}",
+  "item_template": "Named item",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Maximum Charge Tier: III",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maximum_Charge_Tier",
+          "title": "Maximum Charge Tier",
+          "text": "Maximum Charge Tier"
+        }
+      ]
+    },
+    {
+      "text": "Cold Bolts",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Bolts",
+          "title": "Cold Bolts",
+          "text": "Cold Bolts"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Glaciation +35",
+      "tooltip": "Insightful Glaciation +35: Passive: +35 Insightful bonus to Cold Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Glaciation",
+          "title": "Glaciation",
+          "text": "Insightful Glaciation +35"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Melancholic Slot (Weapon)",
+      "tooltip": "Lamordia: Melancholic Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Melancholic Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Dolorous Slot (Weapon)",
+      "tooltip": "Lamordia: Dolorous Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Dolorous Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Melancholic Slot (Armor)",
+      "tooltip": "Lamordia: Melancholic Slot (Armor):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Melancholic Slot (Armor)"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    },
+    {
+      "text": "Rune Arm Imbue: Cold II",
+      "tooltip": "Rune Arm Imbue: Cold II: Wearing this Rune Arm will imbue any weapon you wield, dealing 2d6 points of cold damage per hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rune_Arm_Imbue",
+          "title": "Rune Arm Imbue",
+          "text": "Rune Arm Imbue"
+        }
+      ]
+    }
+  ]
+}

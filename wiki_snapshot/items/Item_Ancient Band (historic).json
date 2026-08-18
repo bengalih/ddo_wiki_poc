@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Ancient Band (historic)",
+  "page_id": 11173,
+  "revision_id": 628257,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:03:33.249351+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=item|replaced={{Item|Ancient Band}}}}\n{{Named item|Jewelry\n  | name                     = {{Item|Ancient Band}}\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 350\n  | material                 = Gold\n  | hardness                 = 15\n  | basevalue                = 2520 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 11\n  | bind                     = {{Bind|no}}\n  | quest                    = Madstone Crater\n  | chest                    = end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Fortification|100}}\n* {{ProtectionBonus|3}}\n  | description              = This metallic band has suffered through thousands of years of wear. The scratches on its surface are so numerous that any shine the metal once had is gone forever.\n  | pic                      = Ring Generic Tumbleweed.png\n  | picdesc                  = Ancient Band (historic).png\n}}",
+  "item_template": "History",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Fortification +100%",
+      "tooltip": "Fortification +100%: +100% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +100%"
+        }
+      ]
+    },
+    {
+      "text": "Protection +3",
+      "tooltip": "Protection +3: Passive: +3 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +3"
+        }
+      ]
+    }
+  ]
+}

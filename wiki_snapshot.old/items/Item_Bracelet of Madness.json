@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Bracelet of Madness",
+  "page_id": 19716,
+  "revision_id": 690583,
+  "revision_timestamp": "2026-06-30T15:55:19Z",
+  "fetched_at": "2026-08-17T03:48:57.053346+00:00",
+  "categories": [],
+  "material": "Gem",
+  "item_type": "Bracers",
+  "slot": "Wrist",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Potency +48",
+      "tooltip": "Potency +48: Passive: +48 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +48"
+        }
+      ]
+    },
+    {
+      "text": "Spell Lore III",
+      "tooltip": "Spell Lore III: Passive: All of your spells gain a 3% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Spell Lore III"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus II",
+      "tooltip": "Evocation Focus II: +2 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus II"
+        }
+      ]
+    },
+    {
+      "text": "Feeds Off Madness",
+      "tooltip": "Feeds Off Madness: This item greedily feeds off the aura of madness related to certain Xoriat effects. The more of these its wearer is affected by, the stronger this item will become.",
+      "children": [
+        {
+          "text": "Spell Penetration II",
+          "tooltip": "Spell Penetration II: Passive: +2 Equipment bonus to Spell Penetration checks.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_penetration",
+              "title": "Spell penetration",
+              "text": "Spell Penetration II"
+            }
+          ]
+        },
+        {
+          "text": "Potency +52",
+          "tooltip": "Potency +52: Passive: +52 Equipment bonus to each Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Potency",
+              "title": "Potency",
+              "text": "Potency +52"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Feeds_Off_Madness",
+          "title": "Feeds Off Madness",
+          "text": "Feeds Off Madness"
+        }
+      ]
+    }
+  ],
+  "item_class": "Jewelry",
+  "item_template": ""
+}

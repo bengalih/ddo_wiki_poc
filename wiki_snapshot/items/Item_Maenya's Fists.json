@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Maenya's Fists",
+  "page_id": 12315,
+  "revision_id": 633368,
+  "revision_timestamp": "2025-04-22T02:09:03Z",
+  "fetched_at": "2026-08-17T22:21:06.208029+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Maenya's Fists\n  | slot                     = Hand\n  | type                     = Gloves\n  | durability               = 120\n  | material                 = Leather\n  | hardness                 = 13\n  | minlevel                 = 11\n  | basevalue                = 4,405pp\n  | weight                   = 0.10 lbs\n  | revamped                 = Update 49\n  | quest                    = Eyes of Stone\n  | chest                    = End chest\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Stat|STR|6}}\n* {{Skills|intim|13}}\n* {{Sheltering|15|Enhancement|Physical}}\n* {{Save|Fortitude|6}}\n* {{CraftingEffects|Battle-Scarred}}\n* {{Named item sets|Wrath of Sora Kell}}\n  | crafting                 = Cauldron of Sora Katra\n  | craftingupgrade          = Maenya's Iron Fists\n  | description              = A pair of gloves said to have been originally crafted for the hag queen Sora Maenya. They bestow the wearer with fearsome strength and the ability to terrorize foes.\n  | pic                      = Gloves Generic Fabricator.png\n  | picdesc                  = Maenya's Fists.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Strength +6",
+      "tooltip": "Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +6"
+        }
+      ]
+    },
+    {
+      "text": "Intimidate +13",
+      "tooltip": "Intimidate +13: Passive: +13 Competence bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Intimidate +13"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +15",
+      "tooltip": "Physical Sheltering +15: +15 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +15"
+        }
+      ]
+    },
+    {
+      "text": "Fortitude Save +6",
+      "tooltip": "Fortitude Save +6: This item gives a +6 Resistance bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Fortitude Save +6"
+        }
+      ]
+    },
+    {
+      "text": "Battle-Scarred",
+      "tooltip": "Battle-Scarred: This item has obviously seen use in many fights. It is chipped and scratched, but perhaps in the future there will be a way to restore it to its former glory.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cauldron_of_Sora_Katra",
+          "title": "Cauldron of Sora Katra",
+          "text": "Battle-Scarred"
+        }
+      ]
+    },
+    {
+      "text": "Wrath of Sora Kell",
+      "tooltip": "Wrath of Sora Kell: 3 Pieces Equipped:+20 Artifact bonus to Universal Spell Power+5 Artifact bonus to Physical Resistance Rating+3 Artifact bonus to Hit and Damage+1 Artifact bonus to Imbue Dice",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Wrath_of_Sora_Kell",
+          "title": "Named item sets",
+          "text": "Wrath of Sora Kell"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Hands Boost +1 or +3",
+      "tooltip": "Mythic Hands Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Hands Boost"
+        }
+      ]
+    }
+  ]
+}

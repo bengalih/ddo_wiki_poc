@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Guardian's Girdle (level 26)",
+  "page_id": 41440,
+  "revision_id": 649947,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:17:47.930333+00:00",
+  "categories": [],
+  "wikitext": "{{Non-food|WAI=true}}\n{{Named item|Clothing\n  | name                     = Guardian's Girdle\n  | type                     = Belt\n  | class                    = Clothing\n  | basevalue                = 10,420 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 180\n  | material                 = Leather\n  | hardness                 = 27\n  | minlevel                 = 26\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 19\n  | quest                    = A Lesson in Deception \n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Hp|Hp|50}}\n* {{Guard|Lightning|vii}}\n  | description              = \n  | pic                      = Belt Generic Brute Strength.png\n  | picdesc                  = Guardian's Girdle (Level 26).png\n}}",
+  "item_template": "Non-food",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "Hit Points +50",
+      "tooltip": "Hit Points +50: Passive: +50 Enhancement Bonus to Hit Points",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hit_point",
+          "title": "Hit point",
+          "text": "Hit Points +50"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Guard VII",
+      "tooltip": "Lightning Guard VII: When Hit in Melee: Deals 7 to 28 Electric damage to your attacker.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lightning_Guard",
+          "title": "Lightning Guard",
+          "text": "Lightning Guard VII"
+        }
+      ]
+    }
+  ]
+}

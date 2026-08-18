@@ -1,0 +1,92 @@
+{
+  "page_title": "Item:Garments of Equilibrium",
+  "page_id": 12810,
+  "revision_id": 631029,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:09:21.388465+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Garments of Equilibrium\n  | type                     = Outfit\n  | feat                     = Cloth\n  | ac                       = +0\n  | minlevel                 = 12\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 125\n  | material                 = Cloth\n  | hardness                 = 14\n  | basevalue                = 4,805 pp 5 gp\n  | weight                   = \n  | released                 = Update 8\n  | revamped                 = Update 49\n  | quest                    = Siegebreaker\n  | chest                    = Medusas' chests\n  | enhancements             = \n* {{Fortification|100}}\n* {{Skills|concentration|14}}\n* {{Reinforced Fists}}\n* {{Resistance|5}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Garments of Equilibrium shown.jpg\n  | picdesc                  = Garments of Equilibrium.png\n  | description              = A field of mystical energy surrounds these garments, protecting the wearer from critical damage and reinforcing his or her fists with extra power.\n  | notes                    = This outfit gives both incredible protection, offensive abilities and skills for any [[Monk]]. Concentration boosts [[ki]], the mystical energy that powers all Monk abilities. Heavy Fortification reduces critical hit damage and frees up an equipment slot many other classes use for this property (such as the [[Minos Legens]]). <!--Most notably, the Garments move your [[Unarmed Strike]] damage up one die step. A level 12 Monk with this outfit equipped goes from 2d6 unarmed damage to 2d8. The Garment's only downside is that there is no [[Epic Crafting|upgrade]] option.-->\n\nNOTE: As of a few updates ago - MOTU? - reinforced fists has been changed to only provide a +.5[w], not a die step increase.\n}}\n[[Category:Cloth armor]]\n[[C:Eleven Year Old Cake items]]",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Outfit",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Fortification +100%",
+      "tooltip": "Fortification +100%: +100% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +100%"
+        }
+      ]
+    },
+    {
+      "text": "Concentration +14",
+      "tooltip": "Concentration +14: Passive: +14 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +14"
+        }
+      ]
+    },
+    {
+      "text": "Reinforced Fists",
+      "tooltip": "Reinforced Fists: This item surrounds your fists with kinetic energy. Your unarmed damage is boosted by one half die.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reinforced_Fists",
+          "title": "Reinforced Fists",
+          "text": "Reinforced Fists"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +5",
+      "tooltip": "Resistance +5: Passive: +5 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +5"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Diabolist's Robe",
+  "page_id": 12765,
+  "revision_id": 690586,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:33:47.838297+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Diabolist's Robe\n  | type                     = Clothing\n  | feat                     = Cloth\n  | ac                       = +2\n  | minlevel                 = 4\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | durability               = 45\n  | material                 = Cloth\n  | hardness                 = 6\n  | basevalue                = 1,605 pp 5 gp\n  | weight                   = 0 lbs\n  | revamped                 = Update 64\n  | released                 = Update 7\n  | quest                    = The Chronoscope\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Summon Monster III|5|1}}\n* {{Enhancement bonus|a|2}}\n* {{Stat|Int|3}}\n* {{Stat|Cha|3}}\n* {{Spell Focus|Conjuration|2}}\n* {{Named item sets|Deadly Diabolist}}\n* {{Augment|Blue}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Diabolist's Robe\n  | pic                      = Pall of Blood shown.jpg\n  | picdesc                  = Diabolist's Robe.png\n  | description              = This infernal robe is connected to the devils of Shavarath somehow, though the exact nature of the link is unclear. It can summon evil creatures to the wearer's aid, and facilitates the casting of conjuration-based magic.\n  | notes                    = \n}}\n[[Category:Summons]]",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Clothing",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Summon Monster III — 1 Charges (Recharged/Day:1)",
+      "tooltip": "Summon Monster IIICaster level: 5Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Summon_Monster_III",
+          "title": "Summon Monster III",
+          "text": "Summon Monster III"
+        }
+      ]
+    },
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Intelligence +3",
+      "tooltip": "Intelligence +3: This item focuses the power of the wearer's mind, granting a +3 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +3"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +3",
+      "tooltip": "Charisma +3: This item makes the wearer have more flair, granting a +3 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +3"
+        }
+      ]
+    },
+    {
+      "text": "Conjuration Focus +2",
+      "tooltip": "Conjuration Focus +2: +2 Equipment bonus to the DC of Conjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Conjuration Focus +2"
+        }
+      ]
+    },
+    {
+      "text": "Deadly Diabolist",
+      "tooltip": "Deadly Diabolist: 2 Pieces Equipped: Your Summons, Charmed Monsters, and Hirelings gain +4 to all Ability Scores.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Deadly_Diabolist",
+          "title": "Named item sets",
+          "text": "Deadly Diabolist"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

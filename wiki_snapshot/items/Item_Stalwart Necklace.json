@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Stalwart Necklace",
+  "page_id": 11151,
+  "revision_id": 635022,
+  "revision_timestamp": "2025-04-22T04:00:09Z",
+  "fetched_at": "2026-08-17T23:05:12.184883+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Stalwart Necklace\n  | type                     = Necklace\n  | class                    = Jewelry\n  | basevalue                = 10,005pp\n  | weight                   = 0.10 lbs\n  | slot                     = Neck\n  | durability               = 110\n  | material                 = Steel\n  | hardness                 = 20\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Sins of Attrition\n  | chest                    = Any chest ; [[Tower of Despair]], [[Nythirios]] chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CON|6}}\n* {{Action Boost Enhancement|Lesser}}\n* {{Named item sets|Stalwart Defender}}\n  | description              = This iron necklace was once owned by Cinder, a famous Stalwart Defender. It has seen many battlefields, leaving it heavily scratched and scuffed.\n  | pic                      = Necklace Generic.png\n  | picdesc                  = Stalwart Necklace.png\n}}\n[[Category:Tower of Despair loot]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Constitution +6",
+      "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +6"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Action Boost Enhancement",
+      "tooltip": "Lesser Action Boost Enhancement: This will increase the total number of Action Boosts you can use by 2. However, these additional Action Boosts will only take effect after the wielder rests.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lesser_Action_Boost_Enhancement",
+          "title": "Lesser Action Boost Enhancement",
+          "text": "Lesser Action Boost Enhancement"
+        }
+      ]
+    },
+    {
+      "text": "Stalwart Defender",
+      "tooltip": "Stalwart Defender: 15% additional threat from melee attacks. If have Stalwart Defender fifth core enhancement: +2 AC Bonus (Stacks).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Stalwart_Defender",
+          "title": "Named item sets",
+          "text": "Stalwart Defender"
+        }
+      ]
+    }
+  ]
+}

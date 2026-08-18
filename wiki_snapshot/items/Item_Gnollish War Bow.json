@@ -1,0 +1,84 @@
+{
+  "page_title": "Item:Gnollish War Bow",
+  "page_id": 12617,
+  "revision_id": 631171,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:12:54.169332+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Gnollish War Bow\n  | damage                   = 1.40[1d8] + 5 Pierce, Magic\n  | crit                     = 20 / x3\n  | type                     = Long Bow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | prof                     = Martial\n  | attackmod                = DEX\n  | damagemod                = DEX \n  | durability               = 200\n  | material                 = Wood\n  | hardness                 = 17\n  | minlevel                 = 12\n  | bind                     = {{Bind|BtC|BoE}}\n  | basevalue                = 4,807pp 5gp\n  | weight                   = 3 lbs\n  | revamped                 = Update 49\n  | quest                    = Attack on Stormreach\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Crippling}}\n* {{ItemGrantedFeat|Bow Strength}}\n* {{Bane|Monstrous Humanoid|3}}\n* {{CraftingEffects|Malleable}}\n  | crafting                 = Malleable\n  | craftingupgrade          = Bloody War Bow¦Destructive War Bow¦Infectious War Bow¦Petrifying War Bow\n  | description              = Gnoll archers are sought throughout [[Droaam]] for their skilled marksmanship. This powerful bow, which lets the user apply a greater amount of his or her strength to the launch of its arrows, is equally sought-after.\n  | pic                      = Gnollish War Bow shown.jpg\n  | picdesc                  = Gnollish War Bow.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Crippling",
+      "tooltip": "Crippling: A crippling weapon is infused with binding power so that when a target is critically hit their movement is slowed by half.Note: Real slowdown is only 25%",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crippling",
+          "title": "Crippling",
+          "text": "Crippling"
+        }
+      ]
+    },
+    {
+      "text": "Feat: Bow Strength",
+      "tooltip": "Feat: Bow Strength: While equipped this item grants the feat Bow Strength, allowing you to apply your Strength bonus to ranged attacks made with bows.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feat",
+          "title": "Feat",
+          "text": "Feat"
+        },
+        {
+          "target": "/page/Bow_Strength",
+          "title": "Bow Strength",
+          "text": "Bow Strength"
+        }
+      ]
+    },
+    {
+      "text": "Monstrous Humanoid Bane 3",
+      "tooltip": "Monstrous Humanoid Bane 3: This weapon is attuned specifically to hunt those who are descended from monsters dealing an additional 3d10 bane damage vs. Monstrous Humanoids.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Monstrous Humanoid Bane 3"
+        }
+      ]
+    },
+    {
+      "text": "Malleable",
+      "tooltip": "Malleable: This item has a magical aura of malleability and can be combined with any item that has the Fusible property to create a new, more powerful fusion of the two items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cauldron_of_Sora_Katra",
+          "title": "Cauldron of Sora Katra",
+          "text": "Malleable"
+        }
+      ]
+    }
+  ]
+}

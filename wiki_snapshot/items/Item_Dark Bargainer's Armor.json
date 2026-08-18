@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Dark Bargainer's Armor",
+  "page_id": 117178,
+  "revision_id": 645619,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:29:57.932853+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Dark Bargainer's Armor\n  | minlevel                 = 15\n  | type                     = Light Armor\n  | feat                     = Light\n  | ac                       = +9\n  | maxdexbonus              = 11\n  | acp                      = \n  | asf                      = 10%\n  | race                     = Dhampir Dark Bargainer\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Unknown\n  | hardness                 = \n  | basevalue                = 6,001 pp\n  | weight                   = \n  | released                 = Update 74\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Sheltering|15}}\n* {{Parrying|2}}\n  | crafting                 = \n  | description              = This armor was fashionable in your homeland... where ever that was.\n  | pic                      = Dark Bargainer's Armor shown.jpg\n  | picdesc                  = Dark Bargainer's Armor.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "armor_type": "Light Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Sheltering +15",
+      "tooltip": "Sheltering +15: +15 Enhancement bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Sheltering +15"
+        }
+      ]
+    },
+    {
+      "text": "Parrying +2",
+      "tooltip": "Parrying +2: +2 Insight bonus to Armor Class, +2 Insight bonus to Saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Parrying",
+          "title": "Parrying",
+          "text": "Parrying +2"
+        }
+      ]
+    }
+  ]
+}

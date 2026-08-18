@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Infectious Shadow Staff",
+  "page_id": 13655,
+  "revision_id": 631547,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:23:49.266712+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Infectious Shadow Staff\n  | damage                   = 1.40[1d6] + 5 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Simple\n  | durability               = 200\n  | material                 = Wood\n  | hardness                 = 22\n  | minlevel                 = 12\n  | basevalue                = 4,800pp 1cp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | revamped                 = Update 49\n  | quest                    = Cauldron of Sora Katra\n  | chest                    = upgrade of [[Staff of the Shadow]] + [[Blade of Fury]] + [[Mark of Bal Molesh]]\n  | mythic                   = no\n  | enhancements             = \n* {{enhancement_bonus|w|5}}\n* {{Vampirism|1}}\n* {{Life Stealing}}\n* {{Entropic|3}}\n* {{Demon Fever}}\n* {{Augment|Red}}\n  | description              = This withered staff, said to be infused with the Shadow's arcane power, can now confer a deadly disease to the wielder's foes.\n  | pic                      = Infectious Shadow Staff shown.jpg\n  | picdesc                  = Infectious Shadow Staff.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Vampirism 1",
+      "tooltip": "Vampirism 1: This weapon thirsts for the blood of your enemies, healing you for +1d2 hit points with each hit.Note: internal cooldown of 1 second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Vampirism 1"
+        }
+      ]
+    },
+    {
+      "text": "Life Stealing",
+      "tooltip": "Life Stealing: This weapon has a chance to drain 1 to 3 levels from its target on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Life_Stealing",
+          "title": "Life Stealing",
+          "text": "Life Stealing"
+        }
+      ]
+    },
+    {
+      "text": "Entropic 3",
+      "tooltip": "Entropic 3: This weapon is intensely powerful, and crackles with destructive, unpredictable magic. It deals an additional 3d6 untyped damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Entropic",
+          "title": "Entropic",
+          "text": "Entropic 3"
+        }
+      ]
+    },
+    {
+      "text": "Demon Fever",
+      "tooltip": "Demon Fever: This weapon is infected with a night hag's Demon Fever disease. On critical hits it will transfer the disease to enemies, dealing 1d8 Constitution damage. A successful Fortitude save (DC 22) negates this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Demon_Fever",
+          "title": "Demon Fever",
+          "text": "Demon Fever"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

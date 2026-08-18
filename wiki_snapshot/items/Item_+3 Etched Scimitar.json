@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:+3 Etched Scimitar",
+  "page_id": 65630,
+  "revision_id": 636365,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T19:53:17.246317+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=items|custom=This item stopped dropping in [[Update 56]], though since it was unbound until upgraded, it may still appear on the [[Auction House]].|customcat=Temple of Elemental Evil items}}\n\n{{Named item|Weapon\n  | name                     = +3 Etched Scimitar\n  | historic                 = TRUE\n  | damage                   = [1d6] + 3 Slash, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Scimitar\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | minlevel                 = 7\n  | durability               = 110\n  | material                 = Steel\n  | hardness                 = 15\n  | basevalue                = 2,820 pp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|No|nocat=TRUE}}\n  | released                 = Update 25\n  | quest                    = Temple of Elemental Evil Part One\n  | chest                    = and '''[[Temple of Elemental Evil Part Two]]''' any chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{CraftingEffects|Upgradeable Item (Temple of Elemental Evil)|nocat=TRUE}}\n* {{Vulnerability|Acid|nocat=TRUE}}\n  | crafting                 = ToEE Crafting\n  | craftingupgrade          = \n  | description              = A weapon found deep within the Temple of Elemental Evil.\n  | pic                      = \n  | picdesc                  = \n  | tips                     = \n}}",
+  "item_template": "History",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Scimitar",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable Item (Temple of Elemental Evil)",
+      "tooltip": "Upgradeable Item (Temple of Elemental Evil): This item can be upgraded. Bring this item to the Overgrown Workbench in the Temple of Elemental Evil and combine it with Rusty Gilled Mushrooms to upgrade the item to a more powerful form.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Overgrown_Workbench",
+          "title": "Overgrown Workbench",
+          "text": "Upgradeable Item (Temple of Elemental Evil)"
+        }
+      ]
+    },
+    {
+      "text": "Acid Vulnerability",
+      "tooltip": "Acid Vulnerability: On Hit: Applies a stack of Vulnerable (1% more damage for 3 seconds. This effect stacks up to 20 times, and loses one stack on expiration.). This effect may only occur on-hit once every second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vulnerable",
+          "title": "Vulnerable",
+          "text": "Acid Vulnerability"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

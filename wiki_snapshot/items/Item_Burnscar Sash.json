@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Burnscar Sash",
+  "page_id": 67062,
+  "revision_id": 628843,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:17:13.292787+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Burnscar Sash\n  | basevalue                = 4020pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | type                     = Belt\n  | durability               = 200\n  | material                 = Steel\n  | hardness                 = 30\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 37\n  | quest                    = Sunrise\n  | chest                    = End chest, Abbot chest\n  | enhancements             = \n* {{SpellPower|Corrosion|77}}\n* {{SpellPower|Combustion|77}}\n* {{Spelllore|Acid|11}}\n* {{Spelllore|Fire|11}}\n* {{Augment|Green}}\n* {{Named item sets|Beacon of Magic Set (Heroic)}}\n  | pic                      = Belt Generic Faith.png\n  | picdesc                  = Burnscar Sash.png\n  | description              = This belt is leather and has been branded with some unknown symbol.\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Corrosion +77",
+      "tooltip": "Corrosion +77: Passive: +77 Equipment bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Corrosion +77"
+        }
+      ]
+    },
+    {
+      "text": "Combustion +77",
+      "tooltip": "Combustion +77: Passive: +77 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +77"
+        }
+      ]
+    },
+    {
+      "text": "Acid Lore +11%",
+      "tooltip": "Acid Lore +11: Passive: Your Acid spells gain a 11% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Acid Lore +11%"
+        }
+      ]
+    },
+    {
+      "text": "Fire Lore +11%",
+      "tooltip": "Fire Lore +11: Passive: Your Fire spells gain a 11% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore +11%"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Beacon of Magic Set (Heroic)",
+      "tooltip": "Beacon of Magic Set (Heroic): 3 Pieces Equipped:+20 Artifact bonus to Universal Spell Power+2 Artifact bonus to all Spell DCs+20 Artifact bonus to Magical Resistance RatingYour Magical Resistance Rating cap is raised by +20+2% Artifact Bonus to Missile Deflection.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Beacon_of_Magic_Set_(Heroic)",
+          "title": "Named item sets",
+          "text": "Beacon of Magic Set (Heroic)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Belt Boost +1 or +3",
+      "tooltip": "Mythic Belt Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Belt Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "page_title": "Item:Eyes of Charming",
+  "page_id": 11110,
+  "revision_id": 630696,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:01:39.856921+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Eyes of Charming\n  | type                     = Goggles\n  | class                    = Goggles\n  | basevalue                = 420pp\n  | weight                   = 0.10 lbs\n  | slot                     = Eye\n  | durability               = 30\n  | material                 = Gold\n  | hardness                 = 4\n  | minlevel                 = 5\n  | bind                     = {{Bind|no}}\n  | quest                    = Random\n  | chest                    = Level ~5 chests/rewards\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Charm Person|1|3}}\n  | description              = Glass lenses that fit over your eyes.\n  | pic                      = Eyes of Charming Worn.png\n  | picdesc                  = Eyes of Charming.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Charm Person — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Charm PersonCaster level: 1Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charm_Person",
+          "title": "Charm Person",
+          "text": "Charm Person"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Outfit of Moonlight",
+  "page_id": 108729,
+  "revision_id": 685481,
+  "revision_timestamp": "2026-05-06T13:18:31Z",
+  "fetched_at": "2026-08-17T22:34:23.578794+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Outfit of Moonlight\n  | minlevel                 = 13\n  | type                     = Clothing\n  | feat                     = Cloth\n  | ac                       = +5\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 140\n  | material                 = Cloth\n  | hardness                 = 15\n  | basevalue                = 5,275 pp\n  | weight                   = 0 lbs\n  | released                 = Update 69\n  | quest                    = The House of Gems\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Sheltering|17|Enhancement|Magical}}\n* {{Save|Spell|6}}\n* {{Incite|23||Mystic}}\n* {{Incite|9|Insight|Mystic}}\n* {{Augment|Blue}}\n* {{Augment|Sun}}\n  | crafting                 = \n  | description              = The moon's beams embolden those who seek them.\n  | pic                      = Outfit of Moonlight shown.jpg\n  | picdesc                  = Outfit of Moonlight.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Clothing",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Magical Sheltering +17",
+      "tooltip": "Magical Sheltering +17: +17 Enhancement bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Magical Sheltering +17"
+        }
+      ]
+    },
+    {
+      "text": "Spell Save +6",
+      "tooltip": "Spell Save +6: This item gives a +6 Resistance bonus to your saves versus spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Saving_throw",
+          "title": "Saving throw",
+          "text": "Spell Save +6"
+        }
+      ]
+    },
+    {
+      "text": "Mystic Incite +23",
+      "tooltip": "Mystic Incite +23: +23% bonus to increased threat generation from spell damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mystic_Incite",
+          "title": "Mystic Incite",
+          "text": "Mystic Incite +23"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Mystic Incite +9",
+      "tooltip": "Insightful Mystic Incite +9: +9% Insight bonus to increased threat generation from spell damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mystic_Incite",
+          "title": "Mystic Incite",
+          "text": "Insightful Mystic Incite +9"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

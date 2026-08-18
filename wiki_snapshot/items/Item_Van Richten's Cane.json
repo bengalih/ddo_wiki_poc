@@ -1,0 +1,132 @@
+{
+  "page_title": "Item:Van Richten's Cane",
+  "page_id": 66489,
+  "revision_id": 635695,
+  "revision_timestamp": "2025-04-22T04:45:01Z",
+  "fetched_at": "2026-08-17T23:23:31.229261+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Van Richten's Cane\n  | type                     = Buckler\n  | prof                     = General\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 10\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +7\n  | maxdexbonus              = \n  | dr                       = 9\n  | acp                      = 0\n  | asf                      = 0\n  | ap                       = \n  | dmg                      = [1d6] + 5\n  | dmgtype                  = Bludgeon, Silver, Magic\n  | crit                     = 19-20 / x3\n  | attmod                   = DEX\n  | damagemod                = DEX\n  | durability               = 220\n  | material                 = Densewood\n  | hardness                 = 33\n  | basevalue                = 4,406 pp\n  | weight                   = 5 lbs\n  | released                 = Update 37\n  | quest                    = Ravens' Bane\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Stunning|6}}\n* {{Riposte|2}}\n* {{Shield Bashing|+=9}}\n* {{Bane|Undead|3}}\n* {{mat|Silver}}, Alchemical\n* {{Augment|Orange}}\n* {{Named item sets|Adherent of the Mists Set (Heroic)}}\n  | description              = The legendary vampire hunter Rudolph van Richten was prepared for every eventuality. With this swordcane, you will be too.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Van Richten's Cane shown.jpg\n  | picdesc                  = Van Richten's Cane.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Densewood",
+  "item_type": "Buckler",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Stunning +6",
+      "tooltip": "Stunning +6: +6 Enhancement bonus to the DC of character's Stunning Blow and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stunning",
+          "title": "Stunning",
+          "text": "Stunning +6"
+        }
+      ]
+    },
+    {
+      "text": "Riposte +2",
+      "tooltip": "Riposte +2: This item enchants its user with incredible awareness and speed, granting a +2 Insight bonus to AC and to Saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Riposte",
+          "title": "Riposte",
+          "text": "Riposte +2"
+        }
+      ]
+    },
+    {
+      "text": "Shield Bashing +9",
+      "tooltip": "Shield Bashing +9: +9 Enhancement bonus to Increased chance of Secondary Shield Bash.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bashing",
+          "title": "Shield Bashing",
+          "text": "Shield Bashing +9"
+        }
+      ]
+    },
+    {
+      "text": "Undead Bane 3",
+      "tooltip": "Undead Bane 3: Those that have died must return, and this weapon is attuned specifically to lay them to rest. This weapon deals an additional 3d10 bane damage vs. Undead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Undead Bane 3"
+        }
+      ]
+    },
+    {
+      "text": "Silver , Alchemical",
+      "tooltip": "Silver: A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as devils and vampires. Silver weapons have 2 points lower hardness then equivalent steel weapons, and as such aren't quite as durable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Silver",
+          "title": "Silver",
+          "text": "Silver"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Adherent of the Mists Set (Heroic)",
+      "tooltip": "Adherent of the Mists Set (Heroic): 5 Pieces Equipped:+5 Profane bonus to Physical Resistance Rating+10 Profane bonus to Positive, Negative, and Repair Amplification+5 Profane bonus to Melee and Ranged Power+10 Profane bonus to Universal Spell Power",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Adherent_of_the_Mists_Set_(Heroic)",
+          "title": "Named item sets",
+          "text": "Adherent of the Mists Set (Heroic)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

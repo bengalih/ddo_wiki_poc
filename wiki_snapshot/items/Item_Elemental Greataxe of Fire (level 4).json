@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Elemental Greataxe of Fire (level 4)",
+  "page_id": 26705,
+  "revision_id": 649077,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:42:08.608700+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Elemental Greataxe of Fire}}\n  | damage                   = [1d12] + 1 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Great Axe\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Martial\n  | durability               = 140\n  | material                 = Steel\n  | hardness                 = 14\n  | minlevel                 = 4\n  | basevalue                = 1,602pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various challenge ingredients\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|1}}\n* {{Flaming}}\n* {{Elemental Resistance|Cold|11}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = \n  | description              = This greataxe is part of a mass-produced line of House Cannith weapons with elementals bound to them. This one is infused with fire and burns enemies as a result.\n  | pic                      = Elemental Greataxe of Fire shown.jpg\n  | picdesc                  = Elemental Greataxe of Fire (Level 4).png\n  | tips                     = '''See also:''' [[Elemental Greataxe of Fire]] - Full table of the Elemental Greataxe line\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Flaming",
+      "tooltip": "Flaming: This weapon is sheathed in fire. A flaming weapon deals an extra 1 to 6 points of fire damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flaming#Flaming",
+          "title": "Flaming",
+          "text": "Flaming"
+        }
+      ]
+    },
+    {
+      "text": "Cold Resistance +11",
+      "tooltip": "Cold Resistance +11: Passive: +11 Enhancement bonus to your Cold Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Resistance",
+          "title": "Cold Resistance",
+          "text": "Cold Resistance +11"
+        }
+      ]
+    }
+  ]
+}

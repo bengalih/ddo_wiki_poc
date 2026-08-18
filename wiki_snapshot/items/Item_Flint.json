@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Flint",
+  "page_id": 7989,
+  "revision_id": 671136,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:07:25.759006+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Flint\n  | hand                     = One-handed\n  | class                    = Piercing\n  | type                     = Dagger\n  | prof                     = Simple\n  | minlevel                 = 10\n  | reqtrait                 = \n  | UMD DC                   = \n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = [1d6] + 5 Slash, Pierce, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 140\n  | material                 = Stone\n  | hardness                 = 20\n  | basevalue                = 4,000pp 2gp\n  | weight                   = 1.00 lbs\n  | quest                    = Sands of Menechtarun\n  | chest                    = Firebrand Area: [[Haraja the Firedancer]]'s Chest (Rare Encounter) ; <br /> [[Masei Mkembe]] sells for 625 [[Antique Bronze Tokens]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|5|10}}\n* {{Lightning Strike}}\n* {{Blast|Shocking|3}}\n* {{Spelllore|Lightning|11}}\n* {{SpellPower|Magnetism|77}}\n* {{Augment|Orange}}\n* {{Augment|Red}}\n* {{Named item sets|The Desert's Writhing Storm}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Flint\n  | description              = A stone dagger crackling with magical energies.\n  | pic                      = Flint shown.jpg\n  | picdesc                  = Flint.png\n  | tips                     = \n  | revamped                 = Update 76\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +10",
+      "tooltip": "Spellcasting Implement +10: Passive: +10 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +10"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Strike",
+      "tooltip": "Lightning Strike: This weapon stores the power of a volatile thunderstorm deep within. Occasionally, this dynamic power comes to the surface, devastating enemies with a massive lightning strike.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lightning_Strike",
+          "title": "Lightning Strike",
+          "text": "Lightning Strike"
+        }
+      ]
+    },
+    {
+      "text": "Shocking Blast 3",
+      "tooltip": "Shocking Blast 3: This weapon arcs with deadly electricity, dealing 3d6 Electric damage on a successful hit, and an additional 3d6 Electric damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Shocking Blast 3"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Lore +11%",
+      "tooltip": "Lightning Lore +11: Passive: Your Electricity spells gain a 11% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore +11%"
+        }
+      ]
+    },
+    {
+      "text": "Magnetism +77",
+      "tooltip": "Magnetism +77: Passive: +77 Equipment bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Magnetism +77"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Desert's Writhing Storm",
+      "tooltip": "The Desert's Writhing Storm: 2 Pieces Equipped:+2% Artifact bonus to Electric Spellcrit Chance+10 Artifact bonus to Electric Spellpower+10 Artifact bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Desert's_Writhing_Storm",
+          "title": "Named item sets",
+          "text": "The Desert's Writhing Storm"
+        }
+      ]
+    }
+  ]
+}

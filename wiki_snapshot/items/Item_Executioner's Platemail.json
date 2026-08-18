@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Executioner's Platemail",
+  "page_id": 61203,
+  "revision_id": 630687,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:01:25.764329+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Executioner's Platemail\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | race                     = \n  | ac                       = 17\n  | maxdexbonus              = 4\n  | acp                      = 0\n  | asf                      = 35%\n  | durability               = 192\n  | material                 = Steel\n  | hardness                 = 19\n  | minlevel                 = 8\n  | quest                    = Slave Pits of the Undercity\n  | released                 = Update 32\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | basevalue                = 3,250 pp\n  | weight                   = 50 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{Stat|Well Rounded|1|Profane}}\n* {{Deadly|1|Quality}}\n* {{Skills|Intimidate|5|Insight|prefix=Insightful}}\n* {{Accuracy|1|Quality}}\n* {{CraftingEffects|Against the Slave Lords Set Bonus}}\n* {{Augment|Green}}\n  | crafting                 = Slave Lords Crafting\n  | craftingupgrade          = \n  | pic                      = Executioner's Platemail shown.jpg\n  | picdesc                  = Executioner's Platemail.png\n  | description              = To kill is the ultimate reward.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Profane Well Rounded +1",
+      "tooltip": "Profane Well Rounded +1: +1 Profane bonus to all abilities.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ability",
+          "title": "Ability",
+          "text": "Profane Well Rounded +1"
+        }
+      ]
+    },
+    {
+      "text": "Quality Deadly +1",
+      "tooltip": "Quality Deadly +1: +1 Quality bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Quality Deadly +1"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Intimidate +5",
+      "tooltip": "Insightful Intimidate +5: Passive: +5 Insight bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Insightful Intimidate +5"
+        }
+      ]
+    },
+    {
+      "text": "Quality Accuracy +1",
+      "tooltip": "Quality Accuracy +1: Passive: +1 Quality bonus to attack rolls",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accuracy",
+          "title": "Accuracy",
+          "text": "Quality Accuracy +1"
+        }
+      ]
+    },
+    {
+      "text": "Against the Slave Lords Set Bonus",
+      "tooltip": "Against the Slave Lords Set Bonus: An Against the Slave Lords Set Bonus can be applied to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slave_Lords_Crafting",
+          "title": "Slave Lords Crafting",
+          "text": "Against the Slave Lords Set Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

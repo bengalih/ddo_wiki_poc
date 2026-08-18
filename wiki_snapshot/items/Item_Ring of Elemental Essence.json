@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Ring of Elemental Essence",
+  "page_id": 11843,
+  "revision_id": 634235,
+  "revision_timestamp": "2025-04-22T03:08:12Z",
+  "fetched_at": "2026-08-17T22:45:05.335924+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Ring of Elemental Essence\n  | type                     = Ring\n  | class                    = Jewelry\n  | basevalue                = 1,620 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Finger\n  | durability               = 140\n  | material                 = Steel\n  | hardness                 = 24\n  | minlevel                 = 4\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 5\n  | revamped                 = Update 39\n  | quest                    = The Maleficent Cabal\n  | end reward               = yes\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Ring of Elemental Essence\n  | mythic                   = no\n  | enhancements             = \n* {{SpellPower|Glaciation|55}}\n* {{SpellPower|Combustion|55}}\n* {{SpellPower|Magnetism|55}} \n* {{SpellPower|Corrosion|55}}\n  | description              = This ring seems very ancient, and is set with numerous colored gems that pulse with elemental power. It will enhance the effectiveness of many kinds of offensive magic. \n  | pic                      = Ring Generic.png\n  | picdesc                  = Ring of Elemental Essence.png\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Glaciation +55",
+      "tooltip": "Glaciation +55: Passive: +55 Equipment bonus to Cold Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Glaciation",
+          "title": "Glaciation",
+          "text": "Glaciation +55"
+        }
+      ]
+    },
+    {
+      "text": "Combustion +55",
+      "tooltip": "Combustion +55: Passive: +55 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +55"
+        }
+      ]
+    },
+    {
+      "text": "Magnetism +55",
+      "tooltip": "Magnetism +55: Passive: +55 Equipment bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Magnetism +55"
+        }
+      ]
+    },
+    {
+      "text": "Corrosion +55",
+      "tooltip": "Corrosion +55: Passive: +55 Equipment bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Corrosion +55"
+        }
+      ]
+    }
+  ]
+}

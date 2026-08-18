@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Breastplate of Vol",
+  "page_id": 8093,
+  "revision_id": 628771,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:15:32.137044+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Breastplate of Vol\n  | type                     = Breastplate\n  | feat                     = Light\n  | ac                       = +16\n  | maxdexbonus              = 7\n  | acp                      = \n  | asf                      = 15%\n  | durability               = 268\n  | material                 = Mithral\n  | hardness                 = 29\n  | minlevel                 = 14\n  | quest                    = Litany of the Dead\n  | chest                    = any boss end chest\n  | bind                     = {{Bind|BtC|BoE}}\n  | basevalue                = 6,020 pp\n  | weight                   = 30 lbs\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Mat|Mithral}}\n* {{Stat|Dex|6}}\n* {{Augment|Blue}}\n  | pic                      = Breastplate of Vol shown.jpg\n  | picdesc                  = Breastplate of Vol.png\n  | description              = Kai Teng must have discarded this breastplate after he became undead. It was always his preferred battle armor.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Breastplate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Mithral",
+      "tooltip": "Mithral: Mithral armor is one type lighter then normal. Arcane Spell Failure decreased by 10%. Maximum dexterity bonus increased by 2. Armor check penalty reduced by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mithral",
+          "title": "Mithral",
+          "text": "Mithral"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +6",
+      "tooltip": "Dexterity +6: This item makes the wearer more nimble and dexterous, granting a +6 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +6"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

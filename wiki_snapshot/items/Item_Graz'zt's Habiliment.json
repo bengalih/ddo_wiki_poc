@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Graz'zt's Habiliment",
+  "page_id": 64836,
+  "revision_id": 693780,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:14:36.513588+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Graz'zt's Habiliment\n  | type                     = Leather Armor\n  | feat                     = Light\n  | race                     = \n  | ac                       = 10\n  | maxdexbonus              = 11\n  | acp                      = 0\n  | asf                      = 10%\n  | durability               = 190\n  | material                 = Leather\n  | hardness                 = 24\n  | minlevel                 = 15\n  | released                 = Update 36\n  | quest                    = Desire in the Dark\n  | chest                    = End chest \n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | basevalue                = 6001 pp\n  | weight                   = 30 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Stat|Con|8}}\n* {{Spell Resistance|9|Insightful}}\n* {{Dodge|1|Quality|prefix=Quality}}\n* {{Fortification|47|Insightful}}\n* {{Augment|Blue}}\n  | crafting                 = Catalyst Crafting\n  | craftingupgrade          = The Shadow King's Cruelty\n  | pic                      = Graz'zt's Habiliment shown.jpg\n  | picdesc                  = Graz'zt's Habiliment.png\n  | description              = A personal gift from the Demon Prince of Pleasure himself, this sultry armor is both impressive to look at and comfortable to wear. When you see yourself in the mirror, it's hard to look away.<br/><br/>Why he left this for you will remain a mystery... until next time.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Leather Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +8",
+      "tooltip": "Constitution +8: This item gives the wearer improved health, granting a +8 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +8"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Spell Resistance +9",
+      "tooltip": "Insightful Spell Resistance +9: +9 Insight bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Insightful Spell Resistance +9"
+        }
+      ]
+    },
+    {
+      "text": "Quality Dodge +1%",
+      "tooltip": "Quality Dodge +1%: +1% Quality bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Quality Dodge +1%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Fortification +47%",
+      "tooltip": "Insightful Fortification +47%: +47% Insight bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Insightful Fortification +47%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

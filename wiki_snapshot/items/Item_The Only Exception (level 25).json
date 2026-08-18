@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:The Only Exception (level 25)",
+  "page_id": 73490,
+  "revision_id": 635419,
+  "revision_timestamp": "2025-04-22T04:26:37Z",
+  "fetched_at": "2026-08-17T23:16:06.941556+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|The Only Exception}}\n  | type                     = Medium Armor\n  | feat                     = Medium\n  | race                     = \n  | ac                       = 23\n  | maxdexbonus              = 20\n  | acp                      = \n  | asf                      = 10%\n  | durability               = 378\n  | material                 = Mithral\n  | hardness                 = 33\n  | minlevel                 = 25\n  | quest                    = Anniversary Party\n  | chest                    = \n  | end reward               = \n  | turn in                  = {{U30 ingredient|80}}\n  | epic                     = no \n  | basevalue                = 10,001 pp\n  | weight                   = 15 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|7}}\n* {{Doublestrike|13}}\n* {{Spell Lore|Spell|10}}\n* {{Accuracy|18}}\n* {{Augment|Green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = The Only Exception shown.jpg\n  | picdesc                  = The Only Exception (level 25).png\n  | description              = Mithral's a lot harder to come by these days.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Medium Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Doublestrike 13%",
+      "tooltip": "Doublestrike 13%: Passive: 13% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 13%"
+        }
+      ]
+    },
+    {
+      "text": "Spell Lore +10",
+      "tooltip": "Spell Lore 10: Passive: All of your spells gain a 10% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Spell Lore +10"
+        }
+      ]
+    },
+    {
+      "text": "Accuracy +18",
+      "tooltip": "Accuracy +18: Passive: +18 Competence bonus to attack rolls",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accuracy",
+          "title": "Accuracy",
+          "text": "Accuracy +18"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Lenses of Opportunity",
+  "page_id": 16493,
+  "revision_id": 677094,
+  "revision_timestamp": "2026-02-28T15:55:13Z",
+  "fetched_at": "2026-08-17T22:16:23.224481+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Lenses of Opportunity\n  | type                     = Goggles\n  | class                    = Goggles\n  | basevalue                = 3,620 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Eye\n  | durability               = 70 \n  | material                 = Leather \n  | hardness                 = 8 \n  | minlevel                 = 15\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Acute Delirium\n  | chest                    = The Lost Chest\n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* {{Seeker|4}}\n* {{Sneak Attack Bonus|3}}\n* {{Overfocus}}\n  | description              = A valuable treasure of the servants of the Lord of Eyes. These goggles are extremely sensitive and will point out an enemy's every weakness, allowing you to strike where the most damage will be dealt. however, you are likely to miss the details of your environment while wearing them.\n  | pic                      = Lenses of Opportunity shown.jpg\n  | picdesc                  = Lenses of Opportunity.png\n  | tips                     = You can remove the [[Overfocus]] penalty with a [[Sustaining Symbiont]].\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Seeker +4",
+      "tooltip": "Seeker +4: Provides a +4 Enhancement bonus to confirm critical hits, and a +4 Enhancement bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Seeker +4"
+        }
+      ]
+    },
+    {
+      "text": "Sneak Attack Bonus +3",
+      "tooltip": "Sneak Attack Bonus +3 : Provides a +3 Enhancement modifier to your attack bonus and a +5 Enhancement bonus to damage for any attack that would qualify as a Sneak Attack, even if the wielder is not a Rogue.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sneak_Attack_Bonus",
+          "title": "Sneak Attack Bonus",
+          "text": "Sneak Attack Bonus +3"
+        }
+      ]
+    },
+    {
+      "text": "Overfocus",
+      "tooltip": "Overfocus: This item helps you focus your attention, but it makes you somewhat oblivious to your surroundings, causing a -10 penalty to Search and Spot.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Overfocus",
+          "title": "Overfocus",
+          "text": "Overfocus"
+        }
+      ]
+    }
+  ]
+}

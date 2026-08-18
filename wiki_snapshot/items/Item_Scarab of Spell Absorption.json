@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Scarab of Spell Absorption",
+  "page_id": 11095,
+  "revision_id": 634479,
+  "revision_timestamp": "2025-04-22T03:24:25Z",
+  "fetched_at": "2026-08-17T22:51:17.566153+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Scarab of Spell Absorption\n  | type                     = Trinket\n  | basevalue                = 400 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Trinket\n  | quest                    = Random\n  | chest                    = level ~10-17 chests/rewards\n  | durability               = 10\n  | material                 = Gold\n  | hardness                 = 2\n  | minlevel                 = 0\n  | bind                     = {{Bind|no}}\n  | mythic                   = no\n  | enhancements             = \n* {{Absorption|spell|0|50|no}}\n  | description              = The scarab will absorb up to 50 spell levels. The Scarab turns to powder and is destroyed when all of its charges are expended.\n  | pic                      = Trinket Generic Scarab.png\n  | picdesc                  = Scarab of Spell Absorption.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "enchantments": [
+    {
+      "text": "Spell Absorption - 50 Charges, No Recharges",
+      "tooltip": "Spell Absorption: This effect absorbs harmful spells targeted at the wearer.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Absorption",
+          "title": "Spell Absorption",
+          "text": "Spell Absorption"
+        }
+      ]
+    }
+  ]
+}

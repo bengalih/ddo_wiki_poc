@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Dagger of Inquisition",
+  "page_id": 5051,
+  "revision_id": 691260,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:29:31.792430+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Dagger of Inquisition\n  | type                     = Dagger\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Simple\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|boa}}\n  | damage                   = [1d4] + 2 Pierce, Silver, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 60\n  | material                 = Silver\n  | hardness                 = 10\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Ghostbane|1}}\n* {{mat|Silver}}, Alchemical\n* {{Augment|Red}}\n  | description              = This dagger was forged by the Silver Flame to purge undead from the living world.\n  | basevalue                = 802pp 2gp\n  | weight                   = 1 lbs\n  | quest                    = Return to the Sanctuary\n  | chest                    = Fitzwood's chest\n  | revamped                 = Update 76\n  | pic                      = Bloodletter's Knife shown.jpg\n  | picdesc                  = Dagger of Inquisition.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Ghostbane 1",
+      "tooltip": "Ghostbane 1: This weapon is attuned specifically to hunt the risen dead, dealing an additional 1d10 bane damage vs. Undead monsters.Passive: This weapon has Ghost Touch, and bypasses ethereal monster's 50% chance to evade bane damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostbane",
+          "title": "Ghostbane",
+          "text": "Ghostbane 1"
+        }
+      ]
+    },
+    {
+      "text": "Silver , Alchemical",
+      "tooltip": "Silver: A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as devils and vampires. Silver weapons have 2 points lower hardness then equivalent steel weapons, and as such aren't quite as durable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Silver",
+          "title": "Silver",
+          "text": "Silver"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

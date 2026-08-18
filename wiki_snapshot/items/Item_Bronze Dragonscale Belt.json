@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Bronze Dragonscale Belt",
+  "page_id": 74054,
+  "revision_id": 628802,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:16:13.319425+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Bronze Dragonscale Belt\n  | type                     = Belt\n  | cost                     = 6001 pp\n  | weight                   = 0.10\n  | slot                     = Waist\n  | durability               = 250\n  | material                 = Red Dragonscale\n  | hardness                 = 35\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 42\n  | quest                    = Security Detail\n  | chest                    = End Chest\n  | enhancements             = \n* {{Stat|Con|8}}\n* {{HealingAmp|30|h|Competence}}\n* {{Hp|False Life|14|Insightful}}\n* {{Lifesealed|24}}\n* {{Augment|blue}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This gleaming bronze belt contains powerful defensive magic.\n  | pic                      = Belt Generic Mroranon.png\n  | picdesc                  = Bronze Dragonscale Belt.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Red Dragonscale",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Constitution +8",
+      "tooltip": "Constitution +8: This item gives the wearer improved health, granting a +8 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +8"
+        }
+      ]
+    },
+    {
+      "text": "Competence Healing Amplification +30",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +30 (Competence bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Competence Healing Amplification +30"
+        }
+      ]
+    },
+    {
+      "text": "Insightful False Life +14",
+      "tooltip": "Insightful False Life +14: +14 Insight bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "Insightful False Life +14"
+        }
+      ]
+    },
+    {
+      "text": "Lifesealed +24",
+      "tooltip": "Lifesealed +24: You are immune to magical effects that cause instant death. In addition, you have a +24% enhancement bonus to Negative Energy Absorption.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lifesealed",
+          "title": "Lifesealed",
+          "text": "Lifesealed +24"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Belt Boost +1 or +3",
+      "tooltip": "Mythic Belt Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Belt Boost"
+        }
+      ]
+    }
+  ]
+}

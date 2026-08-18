@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Quiver of Alacrity",
+  "page_id": 10189,
+  "revision_id": 634094,
+  "revision_timestamp": "2025-04-22T02:58:51Z",
+  "fetched_at": "2026-08-17T22:41:21.105662+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Quiver\n  | name                     = Quiver of Alacrity\n  | type                     = Thin Quiver\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = N/A\n  | material                 = None\n  | hardness                 = N/A\n  | cost                     = 500 pp\n  | weight                   = 1.00 lbs\n  | quest                    = Ascension Chamber\n  | chest                    = Raid Warded chest\n  | capacity                 = 3\n  | maxstack                 = 1,500\n  | enhancements             = \n* {{Alacrity|Ranged|10}}\n* {{UpgradeableItem|Black Abbot}}\n  | crafting                 = Fountain of Necrotic Might\n  | craftingupgrade          = <!-- as above -->\n  | description              = Said to allow the user to draw arrows or bolts at a very fast rate, this large, thin quiver will hold 3 different types of arrow or bolt and can store each type of up to 1500. Total capacity: 4500.\n  | pic                      = Quiver Generic Alacrity.png\n  | picdesc                  = Quiver of Alacrity.png\n  | icon pic                 = Icon Item Slot Quiver.png\n  | notes                    = '''TIP:''' This may cause your character overloaded because of the weight of bolts/arrows inside of the quiver when you are especially level-1 '''(* 4,500 arrows are 135 lbs)'''. Turning on the auto-collect function is not recommended. <br />\n{{Quote|developer=Feather_of_Sun|source={{Forums|p=4378420|display=0}}| quote= \nI worked with Genasi to design the upgrades for the Abbot and Reaver's Fate loot. Though not all of my ideas went through in their original form, as this was a team effort, the upgrade to the Quiver of Alacrity is exactly how I intended it to be.\n\nI know full well that it has no minimum level, and has never had one.\n\nWe're not planning on changing it, nor has the subject ever even come up.\n\nThe entire point of it is that the upgraded version of this item is a fantastic convenience to a TR who has put the work in to get and upgrade the quiver.}}\n}}",
+  "item_template": "Named item",
+  "material": "None",
+  "item_type": "Thin Quiver",
+  "item_class": "Quiver",
+  "slot": "Quiver",
+  "enchantments": [
+    {
+      "text": "Ranged Alacrity 10%",
+      "tooltip": "Ranged Alacrity 10%: Gain 10% Enhancement bonus to Ranged attack speed. Does not stack with the Haste spell.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ranged_Alacrity",
+          "title": "Ranged Alacrity",
+          "text": "Ranged Alacrity 10%"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable Item (Black Abbot)",
+      "tooltip": "Upgradeable Item (Black Abbot): This item could be upgraded if you found a Seal of the Black Abbot to combine it with. Bring this item to the Fountain of Necrotic Might outside the Black Mausoleum and combine it with a Seal of the Black Abbot to upgrade the item to a more powerful form.",
+      "children": [
+        {
+          "text": "Adds Striding +30%",
+          "tooltip": "Striding +30%: This item makes you more fleet of foot, giving you a 30% Enhancement bonus your movement speed.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Striding",
+              "title": "Striding",
+              "text": "Striding +30%"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_Item_(Black_Abbot)",
+          "title": "Upgradeable Item (Black Abbot)",
+          "text": "Upgradeable Item (Black Abbot)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "page_title": "Item:Resplendant Fury",
+  "page_id": 74613,
+  "revision_id": 634196,
+  "revision_timestamp": "2025-04-22T03:05:36Z",
+  "fetched_at": "2026-08-17T22:44:09.090753+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Resplendant Fury\n  | type                     = Orb\n  | prof                     = Magical Training\n  | race                     = \n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 15\n  | damagemod                = CHA\n  | attmod                   = INT\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +0\n  | maxdexbonus              = \n  | dr                       = 0\n  | acp                      = 0\n  | asf                      = 0\n  | dmg                      = [1d4] + 0\n  | dmgtype                  = Force\n  | crit                     = 19-20 / x2\n  | durability               = 215\n  | material                 = Gem\n  | hardness                 = 35\n  | basevalue                = 6,100 pp\n  | weight                   = 3 lbs\n  | released                 = Update 42\n  | quest                    = Best Laid Plans\n  | chest                    = End Chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|oi|5|15}}\n* {{Nearly Finished|{{Stat|CHA|3|Insightful}}|{{Stat|INT|3|Insightful}}|{{Stat|WIS|3|Insightful}}}}\n* {{Spell Power|Radiance|47|Insight}}\n* {{Spell Lore|Radiance|9|Insight}}\n* {{Coalesced Flame}}\n* {{Augment|Purple}}\n  | description              = The concord of Syrania flickers within your hands.\n  | crafting                 = Nearly Finished\n  | craftingupgrade          = \n  | pic                      = Legendary Resplendant Fury shown.png\n  | picdesc                  = Resplendant Fury.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Magical Training",
+  "material": "Gem",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +15",
+      "tooltip": "Spellcasting Implement +15: Passive: +15 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +15"
+        }
+      ]
+    },
+    {
+      "text": "+5 Orb Bonus",
+      "tooltip": "+5 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +5 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Orb Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Nearly Finished",
+      "tooltip": "Nearly Finished: This item isn't quite finished, but it's only a step away from completion. Bring it to a Cannith Reforging Station and combine it with melted materials to restore this item to its full potential.",
+      "children": [
+        {
+          "text": "One of the following:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Insightful Charisma +3",
+              "tooltip": "Insightful Charisma +3: This item makes the wearer have more flair, granting a +3 Insight bonus to Charisma.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Charisma",
+                  "title": "Charisma",
+                  "text": "Insightful Charisma +3"
+                }
+              ]
+            },
+            {
+              "text": "Insightful Intelligence +3",
+              "tooltip": "Insightful Intelligence +3: This item focuses the power of the wearer's mind, granting a +3 Insight bonus to Intelligence.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Intelligence",
+                  "title": "Intelligence",
+                  "text": "Insightful Intelligence +3"
+                }
+              ]
+            },
+            {
+              "text": "Insightful Wisdom +3",
+              "tooltip": "Insightful Wisdom +3: This item makes the wearer more in tune with her surroundings, granting a +3 Insight bonus to Wisdom.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Wisdom",
+                  "title": "Wisdom",
+                  "text": "Insightful Wisdom +3"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Nearly_Finished",
+          "title": "Nearly Finished",
+          "text": "Nearly Finished"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Radiance +47",
+      "tooltip": "Insightful Radiance +47: Passive: +47 Insight bonus to Light and Alignment Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiance_(spell_boost)",
+          "title": "Radiance (spell boost)",
+          "text": "Insightful Radiance +47"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Radiance Lore +9%",
+      "tooltip": "Insightful Radiance Lore +9: Passive: Your Light and Aligned spells gain a 9% Insight bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Insightful Radiance Lore +9%"
+        }
+      ]
+    },
+    {
+      "text": "Coalesced Flame",
+      "tooltip": "Coalesced Flame: Whenever you cast a Fire or Light spell, you gain +50 Temporary Spell Points that last for 30 seconds. This can only trigger once every 45 seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Coalesced_Flame",
+          "title": "Coalesced Flame",
+          "text": "Coalesced Flame"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

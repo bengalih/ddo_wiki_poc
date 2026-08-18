@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Dragoncraft Leather Armor",
+  "page_id": 33678,
+  "revision_id": 666655,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:37:29.098512+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Dragoncraft Leather Armor\n  | type                     = Leather\n  | feat                     = Light\n  | race                     = \n  | minlevel                 = 10\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +8\n  | maxdexbonus              = 8\n  | asf                      = 10%\n  | durability               = 132\n  | material                 = Feyleather\n  | hardness                 = 18\n  | basevalue                = 4,001pp\n  | weight                   = 15 lbs\n  | released                 = Update 17\n  | quest                    = Dragoncraft Armor\n  | chest                    = \n  | end reward               = \n  | turn in                  = 10 [[Ancient Dragon Relic]]s\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Fortification|2}}\n* {{ProtectionBonus|4}}\n* {{Shield Bonus|4}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Dragoncraft Leather Armor shown.jpg\n  | picdesc                  = Dragoncraft Leather Armor.png\n  | description              = Leather armor imbued with ancient draconic magic, for the rare few humanoids that they favored.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Feyleather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +75%",
+      "tooltip": "Fortification +75%: This suit of armor or shield produces a magical force that protects vital areas of the wearer much more effectively. When a critical hit or sneak attack is scored on the wearer, there is a 75% chance that the critical hit or sneak attack is negated and damage is instead rolled normally.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +75%"
+        }
+      ]
+    },
+    {
+      "text": "Protection +4",
+      "tooltip": "Protection +4: Passive: +4 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +4"
+        }
+      ]
+    },
+    {
+      "text": "Shield +4",
+      "tooltip": "Shield +4: While this item is equipped, you are partially protected by a field of magical force which can deflect enemy attacks. This item provides a +4 Shield bonus to Armor Class. It does not stack with an equipped shield.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bonus",
+          "title": "Shield Bonus",
+          "text": "Shield +4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Sage's Mantle (level 19)",
+  "page_id": 40719,
+  "revision_id": 690636,
+  "revision_timestamp": "2026-06-30T16:30:32Z",
+  "fetched_at": "2026-08-17T22:50:01.989946+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Sage's Mantle\n  | type                     = Cloak\n  | class                    = Clothing\n  | basevalue                = 7,620pp\n  | weight                   = 0.10 lbs\n  | slot                     = Back\n  | durability               = 110\n  | material                 = Cloth\n  | hardness                 = 20\n  | minlevel                 = 19\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 19\n  | quest                    = The Tracker's Trap\n  | end reward               = yes\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Spell Focus|Enchantment|III}}\n* {{Spell Focus|Illusion|II}}\n  | crafting                 = \n  | description              = \n  | pic                      = Sage's Mantle Shown.jpg\n  | picdesc                  = Sage's Mantle (Level 19).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 19,
+  "enchantments": [
+    {
+      "text": "Enchantment Focus III",
+      "tooltip": "Enchantment Focus III: +3 Equipment bonus to the DC of Enchantment spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Enchantment Focus III"
+        }
+      ]
+    },
+    {
+      "text": "Illusion Focus II",
+      "tooltip": "Illusion Focus II: +2 Equipment bonus to the DC of Illusion spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Illusion Focus II"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Goggles of Grabbing",
+  "page_id": 2779,
+  "revision_id": 631179,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:13:07.516983+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Goggles of Grabbing\n  | type                     = Goggles\n  | class                    = Clothing\n  | slot                     = Eye\n  | durability               = 40\n  | material                 = Gold\n  | hardness                 = 5\n  | basevalue                = 1,220pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 3\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = The Lost Seekers\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{clicky|Hold Person|3|1}}\n* {{Augment|Yellow}}\n  | epic                     = no\n  | description              = The [[Warden Arkik|Clan Tunnelworm Warden]] would sometimes use these goggles to halt a potential prisoner in their tracks, simply by staring them down.\n  | pic                      = Goggles of Grabbing shown.jpg\n  | picdesc                  = Goggles of Grabbing.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Hold Person — 1 Charges (Recharged/Day:1)",
+      "tooltip": "Hold PersonCaster level: 3Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hold_Person",
+          "title": "Hold Person",
+          "text": "Hold Person"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

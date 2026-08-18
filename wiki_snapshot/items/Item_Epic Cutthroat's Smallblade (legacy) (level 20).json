@@ -1,0 +1,188 @@
+{
+  "page_title": "Item:Epic Cutthroat's Smallblade (legacy) (level 20)",
+  "page_id": 13984,
+  "revision_id": 672838,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:46:52.552213+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Cutthroat's Smallblade|Epic Cutthroat's Smallblade}}\n  | sentience                = no\n  | minlevel                 = 20\n  | type                     = Short Sword\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = 2[1d6] + 5 Pierce, Magic\n  | crit                     = 17-20 / x2\n  | class                    = Piercing\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 165\n  | material                 = Steel\n  | hardness                 = 21\n  | basevalue                = 25,001pp\n  | weight                   = 2 lbs\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|copper|1200}}{{CCi|silver|600}}{{CCi|emerald|35}} at [[Dusty Old Treasure of Crystal Cove]]\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n* [[Upgradeable - Tier 1]]\n* {{Enhancement_bonus|w|5}}\n* {{Doublestrike|3}}\n* {{Slicing}}\n* {{Bleed}}\n* {{Skills|Hide|15}}\n* {{Skills|ms|15}}\n** [[Upgradeable - Tier 2]]\n*** {{Enhancement_bonus|w|5}} &rarr; {{Enhancement_bonus|w|6}}\n*** {{Doublestrike|3}} &rarr; {{Doublestrike|6}}\n** [[Upgradeable - Tier 3]]\n*** Adds {{Corrosive Salt}}\n*** Adds {{Augment|Red}}\n  | crafting                 = Treasure of Crystal Cove\n  | craftingupgrade          = \n  | description              = When a cutlass is simply too big for the job, a pirate will turn instead to a trusty smallblade. This one is serrated and quite adept at inflicting painful wounds on living creatures.\n  | pic                      = Cutthroat's Smallblade shown.jpg\n  | picdesc                  = Epic Cutthroat's Smallblade.png\n  | tips                     = See also: [[Item:Cutthroat's Smallblade|Cutthroat's Smallblade]] - Full table of the Cutthroat's Smallblade line.\n* {{CCi|emerald|70}}{{CCi|diamond|50}}{{CCi|green|500}}: {{Popup|Tier 2|[[File:Epic Cutthroat's Smallblade (level 20)(tier 2).png|450 px]]|long=y}}\n* {{CCi|emerald|100}}{{CCi|diamond|80}}{{CCi|green|1000}}{{CCi|nimble|1}}: {{Popup|Tier 3|[[File:Epic Cutthroat's Smallblade (level 20)(tier 3).png|450 px]]|long=y}}\n}}<noinclude>\n[[Category:Treasure of Crystal Cove legacy reward items]]\n[[Category:Treasure of Crystal Cove epic items]]\n</noinclude>",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Short Sword",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Doublestrike 3%",
+      "tooltip": "Doublestrike 3%: Passive: 3% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 3%"
+        }
+      ]
+    },
+    {
+      "text": "Slicing",
+      "tooltip": "Slicing: This weapon is incredibly sharp and will do an additional 1 to 4 damage to targets that are vulnerable to bleeding.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleed#Slicing",
+          "title": "Bleed",
+          "text": "Slicing"
+        }
+      ]
+    },
+    {
+      "text": "Bleed",
+      "tooltip": "Bleed: This weapon is cruelly sharp and will do an additional 1 to 8 damage to targets that are vulnerable to bleeding.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleed#Bleed",
+          "title": "Bleed",
+          "text": "Bleed"
+        }
+      ]
+    },
+    {
+      "text": "Hide +15",
+      "tooltip": "Hide +15: Passive: +15 Competence bonus to the Hide skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hide",
+          "title": "Hide",
+          "text": "Hide +15"
+        }
+      ]
+    },
+    {
+      "text": "Move Silently +15",
+      "tooltip": "Move Silently +15: Passive: +15 Competence bonus to the Move Silently skill.",
+      "children": [
+        {
+          "text": "Upgradeable - Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "+5 Enhancement Bonus → +6 Enhancement Bonus",
+              "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+5 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+6 Enhancement Bonus"
+                }
+              ]
+            },
+            {
+              "text": "Doublestrike 3% → Doublestrike 6%",
+              "tooltip": "Doublestrike 3%: Passive: 3% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.) Doublestrike 6%: Passive: 6% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Doublestrike",
+                  "title": "Doublestrike",
+                  "text": "Doublestrike 3%"
+                },
+                {
+                  "target": "/page/Doublestrike",
+                  "title": "Doublestrike",
+                  "text": "Doublestrike 6%"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_2",
+              "title": "Upgradeable - Tier 2",
+              "text": "Upgradeable - Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Upgradeable - Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Corrosive Salt",
+              "tooltip": "Corrosive Salt: This weapon stores a caustic, insatiable power deep within. When this weapon is used, this power can come to the surface in the form of a noxious, corrosive salt that dissolves all substances.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Corrosive_Salt",
+                  "title": "Corrosive Salt",
+                  "text": "Corrosive Salt"
+                }
+              ]
+            },
+            {
+              "text": "Adds Red Augment Slot",
+              "tooltip": "Red and Colorless",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Augment_Slot",
+                  "title": "Augment Slot",
+                  "text": "Red Augment Slot"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_3",
+              "title": "Upgradeable - Tier 3",
+              "text": "Upgradeable - Tier 3"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Move_Silently",
+          "title": "Move Silently",
+          "text": "Move Silently +15"
+        }
+      ]
+    }
+  ]
+}

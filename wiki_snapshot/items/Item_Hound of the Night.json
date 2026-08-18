@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Hound of the Night",
+  "page_id": 67189,
+  "revision_id": 631471,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:21:55.520273+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Hound of the Night\n  | damage                   = [1d6] + 5 Bludgeon, Adamantine, Magic\n  | crit                     = 20 / x2\n  | type                     = Collar\n  | hand                     = Simple\n  | race                     = Pet\n  | class                    = Bludgeoning<!-- Think pets are piercing by default -->\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 10\n  | durability               = 220\n  | material                 = Silver\n  | hardness                 = 23\n  | basevalue                = 4003 pp\n  | weight                   = 0.50 lbs\n  | bind                     = {{Bind|no}}\n  | released                 = Update 37\n  | quest                    = Wrath of the Earth\n  | chest                    = end chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Frostbite}}\n* {{Speed|20}}\n* {{Deadly|5}}\n* {{Doublestrike|6}}\n* {{Augment|Red}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Guard dogs have been used throughout Barovia over the years, grim reminders that none are welcome.\n  | pic                      = Hound of the Night shown.jpg\n  | picdesc                  = Hound of the Night.png\n  | tips                     = Using this collar gives your artificer pet a unique look: White mist swirling around eyes.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Collar",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Frostbite",
+      "tooltip": "Frostbite: On Hit: Applies a stack of Vulnerable (1% more damage for 3 seconds. This effect stacks up to 20 times, and loses one stack on expiration.). This effect may only occur on-hit once every two seconds.On Vorpal: Applies a stack of Lethargy (-1 to all Saving Throws. Non-bosses also move and attack 5% slower. This effect stacks up to 5 times.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Frostbite_(enchantment)",
+          "title": "Frostbite (enchantment)",
+          "text": "Frostbite"
+        }
+      ]
+    },
+    {
+      "text": "Speed +20%",
+      "tooltip": "Speed +20%: +20% enhancement bonus to movement speed, 7% bonus to attack speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Speed",
+          "title": "Speed",
+          "text": "Speed +20%"
+        }
+      ]
+    },
+    {
+      "text": "Deadly +5",
+      "tooltip": "Deadly +5: +5 Competence bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Deadly +5"
+        }
+      ]
+    },
+    {
+      "text": "Doublestrike 6%",
+      "tooltip": "Doublestrike 6%: Passive: 6% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 6%"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

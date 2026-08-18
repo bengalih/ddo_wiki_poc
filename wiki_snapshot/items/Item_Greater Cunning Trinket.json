@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Greater Cunning Trinket",
+  "page_id": 14037,
+  "revision_id": 690606,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:15:28.913971+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Greater Cunning Trinket\n  | type                     = Trinket\n  | slot                     = Trinket\n  | durability               = 40\n  | material                 = Gem \n  | hardness                 = 23\n  | basevalue                = 905 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 4\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{Item|Cunning Trinket}} (and other ingredients) at [[Dusty Old Treasure of Crystal Cove]]\n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* {{Popup|long=yes|[[Upgradeable - Tier 3]]|'''Upgradeable - Tier 3:''' Not actually upgradeable.}}\n* {{Wizardry|Pirate Cleverness}}\n* {{Spell Focus|Enchantment|I}}\n* {{Spell Focus|Necromancy|I}}\n* {{Efficient Metamagic|Maximize|1}}\n  | description              = Pirates have keen minds that allow them to outsmart their foes.  This trinket gives you boosts to the effectiveness of your spells.\n  | pic                      = Necklace Generic Silver.png\n  | picdesc                  = Greater Cunning Trinket.png\n  | tips                     = The Greater Cunning Trinket is one of the components needed to upgrade other Crystal Cove items (such as the {{Item|Ornamented Dagger}}) to Tier 3.\n\nNote that there are no higher-level version of the Crystal Cove trinkets. }}<noinclude>[[Category:Treasure of Crystal Cove legacy reward items]]</noinclude>",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: Not actually upgradeable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_3",
+          "title": "Upgradeable - Tier 3",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    },
+    {
+      "text": "Pirate Cleverness",
+      "tooltip": "Pirate Cleverness: You gain the cleverness of a pirate, which grants a +50 bonus to your maximum spell points. This stacks with all other bonuses except itself.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Pirate_Cleverness",
+          "title": "Pirate Cleverness",
+          "text": "Pirate Cleverness"
+        }
+      ]
+    },
+    {
+      "text": "Enchantment Focus I",
+      "tooltip": "Enchantment Focus I: +1 Equipment bonus to the DC of Enchantment spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Enchantment Focus I"
+        }
+      ]
+    },
+    {
+      "text": "Necromancy Focus I",
+      "tooltip": "Necromancy Focus I: +1 Equipment bonus to the DC of Necromancy spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Necromancy Focus I"
+        }
+      ]
+    },
+    {
+      "text": "Efficient Metamagic - Maximize I",
+      "tooltip": "Efficient Metamagic - Maximize I: The additional spell point cost for using the Maximize Metamagic feat is reduced by 2 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Maximize I"
+        }
+      ]
+    }
+  ]
+}

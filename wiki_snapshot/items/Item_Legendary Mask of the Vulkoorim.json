@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Legendary Mask of the Vulkoorim",
+  "page_id": 69186,
+  "revision_id": 632600,
+  "revision_timestamp": "2025-04-22T01:15:41Z",
+  "fetched_at": "2026-08-17T21:58:58.018810+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Legendary Mask of the Vulkoorim\n  | type                     = Helm\n  | basevalue                = 11,601pp\n  | weight                   = 0.10 lbs\n  | slot                     = Head\n  | durability               = 390\n  | material                 = Steel\n  | hardness                 = 49\n  | minlevel                 = 29\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 38\n  | revamped                 = Update 59\n  | quest                    = Toxic Treatment \n  | end reward               = \n  | chest                    = End chest\n  | enhancements             = \n* {{Stat|dex|13}}\n* {{Dodge|13}}\n* {{ArmorPiercing|20}}\n* {{Save|Reflex|11}}\n* {{CraftingEffects|Trace of Madness}}\n* {{Augment|Green}}\n  | epic                     = no\n  | crafting                 = Altar of Insanity\n  | craftingupgrade          = \n  | description              = The mask, a relic held by the Vulkoorim, whispers to those who dare wear it.\n  | pic                      = Mask of the Vulkoorim shown.jpg\n  | picdesc                  = Legendary Mask of the Vulkoorim.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Dexterity +13",
+      "tooltip": "Dexterity +13: This item makes the wearer more nimble and dexterous, granting a +13 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +13"
+        }
+      ]
+    },
+    {
+      "text": "Dodge +13%",
+      "tooltip": "Dodge +13%: +13% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +13%"
+        }
+      ]
+    },
+    {
+      "text": "Armor-Piercing 20%",
+      "tooltip": "Armor-Piercing 20%: Passive: +20% Enhancement bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Armor-Piercing 20%"
+        }
+      ]
+    },
+    {
+      "text": "Reflex Save +11",
+      "tooltip": "Reflex Save +11: This item gives a +11 Resistance bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save +11"
+        }
+      ]
+    },
+    {
+      "text": "Trace of Madness",
+      "tooltip": "Trace of Madness: You can almost hear faint, panicked voices when this item is close to you. Perhaps the latent power of this item's hint of madness could be brought out by some catalyst.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Trace_of_Madness",
+          "title": "Trace of Madness",
+          "text": "Trace of Madness"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Head Boost +1 or +3",
+      "tooltip": "Mythic Head Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Head Boost"
+        }
+      ]
+    }
+  ]
+}

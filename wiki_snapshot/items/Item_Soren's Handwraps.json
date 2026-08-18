@@ -1,0 +1,42 @@
+{
+  "page_title": "Item:Soren's Handwraps",
+  "page_id": 9521,
+  "revision_id": 672409,
+  "revision_timestamp": "2026-01-25T17:30:06Z",
+  "fetched_at": "2026-08-17T23:02:17.714504+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Soren's Handwraps\n  | pic                      = Handwraps Generic.png\n  | picdesc                  = Soren's Handwraps.png\n  | damage                   = [1d6] + 0 Bludgeon\n  | crit                     = 20 / x2\n  | type                     = Handwrap\n  | hand                     = Simple\n  | class                    = Bludgeoning\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Exotic\n  | material                 = Cloth\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 120\n  | hardness                 = 13\n  | basevalue                = 1 gp\n  | weight                   = 0.50 lbs\n  | revamped                 = Update 76\n  | quest                    = The Grotto\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Acid Touch}}\n* {{Starter}}\n  | description              = Strips of cloth meant to be wrapped around your hands. This strip of cloth has been enchanted to slightly burn opponents with acid.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Handwrap",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "Acid Touch",
+      "tooltip": "Acid Touch: This weapon gives off the faint smell of acid. An acid touch weapon deals an additional +1 acid damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Acid_Touch",
+          "title": "Acid Touch",
+          "text": "Acid Touch"
+        }
+      ]
+    },
+    {
+      "text": "Starter",
+      "tooltip": "Starter: Starter equipment cannot be traded, sold or crafted.This item cannot be fed to sentient jewels.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Starter",
+          "title": "Starter",
+          "text": "Starter"
+        }
+      ]
+    }
+  ]
+}

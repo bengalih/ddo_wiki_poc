@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Shining Crescents",
+  "page_id": 8025,
+  "revision_id": 677769,
+  "revision_timestamp": "2026-03-05T15:34:09Z",
+  "fetched_at": "2026-08-17T22:55:50.829869+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Shining Crescents\n  | type                     = Sickle\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Simple\n  | minlevel                 = 10\n  | reqtrait                 = \n  | UMD DC                   = \n  | bind                     = {{Bind|BtC|BoA}}\n  | damage                   = [2d6] + 5 Slash, Adamantine, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 120\n  | material                 = Adamantine\n  | hardness                 = 27\n  | basevalue                = 10,100pp 6gp\n  | weight                   = 2 lbs\n  | quest                    = The Titan Awakes\n  | chest                    = Raid Warded Chest\n  | revamped                 = Update 76\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Vertigo|6}}\n* {{Tactics|Tendon Slice|6%}}\n* {{Mat|Adamantine}}\n  | description              = A complex staff-like weapon that is enchanted to allow almost anyone to use it with some skill.\n  | pic                      = Shining Crescents shown.jpg\n  | picdesc                  = Shining Crescents.png\n  | tips                     = Shining Crescents is unique in several ways ({{Forums|474375|April 2016 tests}}):\n* It is the only '''two-handed light weapon''' in DDO, meaning it is the only finesse-able two-hander. Thus it's the only [[Weapon Finesse|finesse]] weapon that can gain +10 damage from [[Power Attack]].\n* Separately, pure [[monk]]s are <u>not</u> [[proficient]] with this item but it still allows monks to treat it as a [[ki weapons|ki weapon]], remaining [[centered]] and with access to most of their class's special attacks when holding it.\n* The weapon's type is Sickle, so it benefits from the  [[Feat]]s Improved Critical: Slashing Weapons and Weapon Focus: Slashing Weapons.\n* Because it uses the quarterstaff attack animations, it benefits from the [[Rogue]] [[Thief-Acrobat enhancements#Tier Three|Thief Acrobatics]] enhancement for up to +15% attack speed and is a valid weapon for use with Quick Strike, Sweeping Strikes, Staff Lunge, and Vault. \n** But because it is not ''typed'' as a quarterstaff, Thief-Acrobat Staff Control, Stick Fighting, Acrobat Staff Training, and Staff Specialization do not apply to it.\n* Despite its being a light weapon:\n** it is not compatible with [[Swashbuckling]] or a [[Shadar-kai]]'s chain attack. \n** it cannot be used with an off-hand weapon (it's two-handed).\n* Despite being a two-handed weapon, it can benefit from [[Single Weapon Fighting]] feats.\n{{Bug|'''Shining Crescents''' currently benefits from [[Single Weapon Fighting]] feats, even though it is a two-handed weapon. This will be fixed in a future update.{{Ref|1={{Forums|478575}}}}}}\n\nIf making a cosmetic version of this item with a {{Item|Mirror of Glamering}}, note that it will only function correctly when a ''quarterstaff'' is equipped, as it uses the Quarterstaff animation set despite being a Sickle. {{Item|Glamered Weapon Aura}}s will not work on the cosmetic.\n\n2026 tests\n* You can [[Strikethrough]] with this weapon and hit multiple targets.\n* Thief Acrobat: Quarterstaff attack speed bonus seems to apply and special quarterstaff attacks work.\n* SWF + Offline Versatility:\n** Icons are displayed.\n** Melee Power bonus works.\n** Attack speed bonus probably does not work (fully?); needs more tests. <small>(Slower than a plain sickle.)</small>\n** Extra damage from ability score does not seem to work. <small>(Observed damage range 13-23 at 23 dex [+6 bonus], which corresponds to 2-12+5+6.)</small>\n* Swashbuckling does NOT work.\n* Shadar-Kai Chain attacks do NOT work.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Sickle",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Vertigo +6",
+      "tooltip": "Vertigo +6: This effect gives a +6 Enhancement bonus to the DC to resist the character's Trip and Improved Trip attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vertigo_(enchantment)",
+          "title": "Vertigo (enchantment)",
+          "text": "Vertigo +6"
+        }
+      ]
+    },
+    {
+      "text": "Tendon Slice 6%",
+      "tooltip": "Tendon Slice 6%: This effect gives a 6% chance to Hamstring the target for each attack that does damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Tendon_Slice",
+          "title": "Tendon Slice",
+          "text": "Tendon Slice 6%"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

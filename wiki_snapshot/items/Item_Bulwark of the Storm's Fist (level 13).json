@@ -1,0 +1,72 @@
+{
+  "page_title": "Item:Bulwark of the Storm's Fist (level 13)",
+  "page_id": 34514,
+  "revision_id": 648925,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:16:58.874615+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = {{Item|Bulwark of the Storm's Fist}}\n  | type                     = Large\n  | prof                     = General\n  | minlevel                 = 13\n  | bind                     = {{Bind|BtC|BoE}}\n  | exclusive                = no\n  | sb                       = +10\n  | maxdexbonus              = None\n  | dr                       = 10\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = [1d8] + 5\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attmod                   = STR\n  | damagemod                = STR\n  | durability               = 210\n  | material                 = Magesteel\n  | hardness                 = 28\n  | basevalue                = 5,502 pp\n  | weight                   = 15 lbs\n  | released                 = Update 17\n  | quest                    = Gianthold Tor\n  | chest                    = White Dragon chest (Heroic Hard)\n  | enhancements             = \n* {{Enhancement_bonus|s|5}}\n* {{Sheltering|3}}\n* {{Augment|Colorless}}\n  | pic                      = Bulwark of the Storm's Fist shown.jpg\n  | picdesc                  = Bulwark of the Storm's Fist (Level 13).png\n  | description              = A brutal, heavy shield for the aspiring champions of the Storm's Fist Horde.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Magesteel",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Sheltering +3",
+      "tooltip": "Sheltering +3: +3 Enhancement bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Sheltering +3"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

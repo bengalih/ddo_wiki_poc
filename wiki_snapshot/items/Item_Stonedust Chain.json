@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Stonedust Chain",
+  "page_id": 4912,
+  "revision_id": 635070,
+  "revision_timestamp": "2025-04-22T04:03:21Z",
+  "fetched_at": "2026-08-17T23:06:29.524541+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Stonedust Chain\n  | type                     = Chainmail\n  | feat                     = Light\n  | race                     = \n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +6\n  | maxdexbonus              = 5\n  | acp                      = -1\n  | asf                      = 15%\n  | durability               = 52\n  | material                 = Steel\n  | hardness                 = 11\n  | basevalue                = 810 pp\n  | weight                   = 25 lbs\n  | quest                    = The Seal of Shan-To-Kor\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|2}}\n* {{Axeblock|ii}}\n* {{Augment|Blue}}\n  | pic                      = Stonedust Chain shown.jpg\n  | picdesc                  = Stonedust Chain.png\n  | description              = Despite the fact that ground stone is magically infused in between the chain links of this armor, it retains its flexibility.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Chainmail",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Axeblock II",
+      "tooltip": "Axeblock II: Passive: Reduces physical damage taken by 4, except from Bludgeoning or Piercing weapons. (Damage Reduction: 4/Pierce, Bludgeon)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Axeblock",
+          "title": "Axeblock",
+          "text": "Axeblock II"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

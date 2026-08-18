@@ -1,0 +1,122 @@
+{
+  "page_title": "Item:Swashbuckler (legacy) (level 4)",
+  "page_id": 14973,
+  "revision_id": 635141,
+  "revision_timestamp": "2025-04-22T04:08:05Z",
+  "fetched_at": "2026-08-17T06:26:02.981977+00:00",
+  "categories": [],
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Steel",
+  "item_type": "Buckler",
+  "item_kind": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "+1 Enhancement Bonus",
+          "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+1 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Parrying I",
+          "tooltip": "Parrying I: Passive: +1 Insight bonus to Armor Class, +1 Insight bonus to Fortitude, Reflex, and Will Saving throws.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Parrying",
+              "title": "Parrying",
+              "text": "Parrying I"
+            }
+          ]
+        },
+        {
+          "text": "Doublestrike 3%",
+          "tooltip": "Doublestrike 3%: Passive: 3% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Doublestrike",
+              "title": "Doublestrike",
+              "text": "Doublestrike 3%"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "+1 Enhancement Bonus → +2 Enhancement Bonus",
+          "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class.+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+1 Enhancement Bonus"
+            },
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+2 Enhancement Bonus"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_2",
+          "title": "Upgradeable - Tier 2",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "Adds Guardbreaking",
+          "tooltip": "Guardbreaking: This item enables you to break an enemy's guard in between your melee attacks. On critical hits with your melee weapons, enemies will become dazed as a result.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Guardbreaking",
+              "title": "Guardbreaking",
+              "text": "Guardbreaking"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_3",
+          "title": "Upgradeable - Tier 3",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ],
+  "item_class": "Shield",
+  "item_template": ""
+}

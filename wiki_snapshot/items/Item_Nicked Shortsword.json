@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Nicked Shortsword",
+  "page_id": 10325,
+  "revision_id": 672884,
+  "revision_timestamp": "2026-01-25T19:53:35Z",
+  "fetched_at": "2026-08-17T22:31:04.454679+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Nicked Shortsword\n  | type                     = Short Sword\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Martial\n  | damage                   = [1d6] + 2 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 75\n  | material                 = Steel \n  | hardness                 = 12\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|boa}}\n  | basevalue                = 201pp\n  | weight                   = 2 lbs\n  | released                 = Update 0\n  | revamped                 = Update 76\n  | quest                    = The Sharn Syndicate\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|2}}\n* {{Acidic|2}}\n* {{Deception|2}}\n* {{Deadly|3}}\n  | description              = The smallest of the swords, light enough to be used as an offhand weapon but too large to be considered a dagger. This appears to have an emblem that has been sanded off the hilt.\n  | pic                      = Item_nickedshortsword.jpg\n  | picdesc                  = Nicked Shortsword.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Short Sword",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Acidic 2",
+      "tooltip": "Acidic 2: This effect causes the edges of this weapon to drip with acid, dealing 2d6 Acid damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Acidic",
+          "title": "Acidic",
+          "text": "Acidic 2"
+        }
+      ]
+    },
+    {
+      "text": "Deception +2",
+      "tooltip": "Deception +2: +2 Enhancement bonus to hit and +3 to damage for any hit that would qualify as a sneak attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Deception +2"
+        }
+      ]
+    },
+    {
+      "text": "Deadly +3",
+      "tooltip": "Deadly +3: +3 Competence bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Deadly +3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Mushroom Cap",
+  "page_id": 51322,
+  "revision_id": 700837,
+  "revision_timestamp": "2026-07-27T23:48:47Z",
+  "fetched_at": "2026-08-17T22:29:07.475348+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Mushroom Cap\n  | type                     = Helm\n  | slot                     = Head\n  | durability               = 80\n  | material                 = Steel\n  | hardness                 = 17\n  | basevalue                = 2,820 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 7\n  | bind                     = {{Bind|No}}\n  | released                 = Update 25\n  | quest                    = ToEE: Water Node\n  | chest                    = [[Jotun Rimeblade]]'s chest, '''[[ToEE: Earth Node]]''', [[Hyrelgas]]' chest\n  | enhancements             = \n* {{Proof|Poison|6}}\n* {{Deathblock|II}}\n* {{Good Luck|1}}\n* {{False Life|10}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This large mushroom cap, a remnant of Zuggtmoy's power, has an indent large enough to fit one's head. To the resourceful adventurer, anything can become useful gear.\n  | pic                      = Mushroom Cap shown.jpg\n  | picdesc                  = Mushroom Cap.png\n  | tips                     = \n}}\n[[C:ToEE: Earth Node loot]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Proof Against Poison +6",
+      "tooltip": "Proof Against Poison +6: This item grants its wearer immunity to natural poisons. This item also grants a +6 Enhancement bonus to saving throws against magical poisons, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical poisons with a DC of less than 7 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Poison",
+          "title": "Proof Against Poison",
+          "text": "Proof Against Poison +6"
+        }
+      ]
+    },
+    {
+      "text": "Deathblock II",
+      "tooltip": "Deathblock II: Passive: 6% Enhancement Bonus to Negative Energy Absorption. In addition, you are immune to magical effects that can cause instant death.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock II"
+        }
+      ]
+    },
+    {
+      "text": "Good Luck +1",
+      "tooltip": "Good Luck +1: This item gives a +1 Luck bonus to all saves and skill checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Good_Luck",
+          "title": "Good Luck",
+          "text": "Good Luck +1"
+        }
+      ]
+    },
+    {
+      "text": "False Life",
+      "tooltip": "False Life: This item grants the wearer +10 maximum health.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)#False_Life",
+          "title": "False Life (enchantment)",
+          "text": "False Life"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Head Boost +1 or +3",
+      "tooltip": "Mythic Head Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Head Boost"
+        }
+      ]
+    }
+  ]
+}

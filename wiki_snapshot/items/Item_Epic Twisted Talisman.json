@@ -1,0 +1,113 @@
+{
+  "page_title": "Item:Epic Twisted Talisman",
+  "page_id": 13142,
+  "revision_id": 689832,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:58:57.955655+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Epic Twisted Talisman\n  | minlevel                 = 20\n  | type                     = Necklace\n  | slot                     = Neck\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | durability               = 210\n  | material                 = Gold\n  | hardness                 = 22\n  | basevalue                = 8,005 pp\n  | weight                   = 0.10 lbs\n  | end reward               = \n  | turn in                  = \n  | quest                    = Altar of Epic Rituals\n  | chest                    = {{Item|Twisted Talisman}}\n  | released                 = Update 6\n  | revamped                 = Update 80\n  | mythic                   = no\n  | epic                     = Twisted Talisman\n  | enhancements             = \n* {{Clicky|Blood Sacrifice|1|5|1}}\n* {{Blood Sacrifice}}\n* {{Spelllore|Void|+16}}\n* {{SpellPower|Nullification|111}}\n* {{Spell Focus|Necromancy|+6}}\n* {{Hp|Profane Lifeforce|32}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Twisted Talisman\n  | description              = The crystal on this necklace's chain glows darkly with a profane energy. It was found near High Priestess Slikir after her defeat, and will grant the wielder more power for his or her spells, but at a price...\n  | pic                      = Necklace Generic.png\n  | picdesc                  = Epic Twisted Talisman.png\n  | tips                     = \n* {{Verify|Blood sacrifice works a little different than the official description. It actually deals 38 untyped damage in exchange for 50 spell points. This damage is affected by dungeon scaling, so while solo you will generally see (roughly as dungeon scaling does vary from class to class) these values<!--Values are from a favored soul, lvl20 in a low lvl quest --><br /> {{Xpcolors|casual=7|normal=15|hard=20|elite=26|epic=38}}}}\n}}\n[[Category:The Red Fens epic items]]",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Blood Sacrifice — 5 Charges (Recharged/Day:1)",
+      "tooltip": "Blood SacrificeCaster level: 1Charges: 5 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blood_Sacrifice",
+          "title": "Blood Sacrifice",
+          "text": "Blood Sacrifice"
+        }
+      ]
+    },
+    {
+      "text": "Blood Sacrifice",
+      "tooltip": "Blood Sacrifice: Exchanges 25 hit points for 50 spell points.(This enchantment has no effect.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blood_Sacrifice",
+          "title": "Blood Sacrifice",
+          "text": "Blood Sacrifice"
+        }
+      ]
+    },
+    {
+      "text": "Void Lore +16%",
+      "tooltip": "Void Lore +16: Passive: Your Negative Energy and Poison spells gain a +16% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Void Lore +16%"
+        }
+      ]
+    },
+    {
+      "text": "Nullification +111",
+      "tooltip": "Nullification +111: Passive: +111 Equipment bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Nullification +111"
+        }
+      ]
+    },
+    {
+      "text": "Necromancy Focus +6",
+      "tooltip": "Necromancy Focus +6: +6 Equipment bonus to the DC of Necromancy spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Necromancy Focus +6"
+        }
+      ]
+    },
+    {
+      "text": "Profane Lifeforce +32",
+      "tooltip": "Profane Lifeforce +32: +32 Profane bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hit_Point",
+          "title": "Hit Point",
+          "text": "Profane Lifeforce +32"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

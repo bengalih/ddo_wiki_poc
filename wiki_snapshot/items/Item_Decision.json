@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Decision",
+  "page_id": 39432,
+  "revision_id": 690184,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:31:29.815091+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Decision\n  | type                     = Helm\n  | race                     = Sun Elf\n  | slot                     = Head\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6010 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Stat|WIS|+6}}\n* {{Elemental Resistance|Fire|30}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Decision shown.jpg\n  | picdesc                  = Decision.png\n  | tips                     = Colors and patterns on the helmet '''may''' change to match your equipped armor. This applies also to cosmetic copies of the item created via the {{Item|Mirror of Glamering}}.\n\n* The image here shows the default version, which the item will also display if the armor currently equipped has no matching pattern.\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Wisdom +6",
+      "tooltip": "Wisdom +6: This item makes the wearer more in tune with her surroundings, granting a +6 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +6"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +30",
+      "tooltip": "Fire Resistance +30: Passive: +30 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +30"
+        }
+      ]
+    }
+  ]
+}

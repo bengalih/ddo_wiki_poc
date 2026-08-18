@@ -1,0 +1,92 @@
+{
+  "page_title": "Item:Raiment of the Fervent",
+  "page_id": 8200,
+  "revision_id": 686672,
+  "revision_timestamp": "2026-05-27T17:34:25Z",
+  "fetched_at": "2026-08-17T22:42:04.292402+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Raiment of the Fervent\n  | type                     = Robe\n  | feat                     = Cloth\n  | race                     = \n  | minlevel                 = 16\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +7\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 165\n  | material                 = Cloth\n  | hardness                 = 18\n  | basevalue                = 6,405 pp 5 gp\n  | weight                   = \n  | quest                    = Emerald Claw Nugget\n  | chest                    = \n  | end reward               = yes\n  | collectable              = \n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Nightshield|14|1}}\n* {{ArmorBonus|7}}\n* {{Wizardry|VI}}\n* {{Spellpen|ii}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Raiment of the Fervent shown.jpg\n  | picdesc                  = Raiment of the Fervent.png\n  | description              = This emerald and blood brown robe is ornately decorated with intricate patterns and designs. Both the claw and the roaring mouth can be seen in several various locations.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Nightshield — 1 Charges (Recharged/Day:1)",
+      "tooltip": "NightshieldCaster level: 14Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nightshield",
+          "title": "Nightshield",
+          "text": "Nightshield"
+        }
+      ]
+    },
+    {
+      "text": "Armor Bonus +7",
+      "tooltip": "Armor Bonus +7: This item surrounds the wearer with an invisible but tangible field of force, granting +7 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +7"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry VI",
+      "tooltip": "Wizardry VI: This item grants the wearer +150 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry VI"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration II",
+      "tooltip": "Spell Penetration II: Passive: +2 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration II"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

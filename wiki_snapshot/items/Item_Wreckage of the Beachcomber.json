@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:Wreckage of the Beachcomber",
+  "page_id": 96790,
+  "revision_id": 635866,
+  "revision_timestamp": "2025-04-22T04:56:45Z",
+  "fetched_at": "2026-08-17T23:27:57.265683+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Wreckage of the Beachcomber\n  | minlevel                 = 7\n  | type                     = Large\n  | prof                     = General\n  | sb                       = +10\n  | maxdexbonus              = None\n  | dr                       = 7\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = [1d10] + 3\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 190\n  | material                 = Wood\n  | hardness                 = 32\n  | cost                     = 3,204 pp\n  | weight                   = 10 lbs\n  | released                 = Update 55\n  | quest                    = Wild Thing\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{Shield Spikes|2}}\n* {{Lesser Boneshatter}}\n* {{Bashing}}\n* {{Stat|Strength|1|Quality}}\n* {{Named item sets|The Dread Isle's Curse}}\n* {{Augment|Red}}\n  | crafting                 = \n  | description              = The Beachcomber was a ship so fast - legends say the crew that manned it didn't carry cannons for fear of weighing it down.\n  | pic                      = Wreckage of the Beachcomber shown.jpg\n  | picdesc                  = Wreckage of the Beachcomber.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Wood",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Shield Spikes",
+      "tooltip": "Shield Spikes: This effect causes this shield to do an extra 2d6 Piercing damage when it is used to shield bash.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Spikes",
+          "title": "Shield Spikes",
+          "text": "Shield Spikes"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Boneshatter",
+      "tooltip": "Lesser Boneshatter: This weapon is powerful enough to shatter the bones of those it strikes. On an attack roll of 20 which is confirmed as a critical hit, the weapon breaks multiple bones in the target's body, causing significant impairment. Creatures with skeletons take 10d6 damage and will have their movement and attacks slowed by 25% and their attack damage reduced by 25% when their bones are shattered.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Boneshatter_(enchantment)",
+          "title": "Boneshatter (enchantment)",
+          "text": "Lesser Boneshatter"
+        }
+      ]
+    },
+    {
+      "text": "Bashing",
+      "tooltip": "Bashing: This shield does an additional 1 to 6 damage when used to shield bash.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bashing",
+          "title": "Bashing",
+          "text": "Bashing"
+        }
+      ]
+    },
+    {
+      "text": "Quality Strength +1",
+      "tooltip": "Quality Strength +1: This item gives the wearer the power of Ogre Strength, granting a +1 Quality bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Quality Strength +1"
+        }
+      ]
+    },
+    {
+      "text": "The Dread Isle's Curse",
+      "tooltip": "The Dread Isle's Curse: 5 Pieces Equipped:+5 Profane bonus to Melee and Ranged Power+10 Profane bonus to Universal Spellpower+10 Profane bonus to Physical Resistance Rating+1 Profane bonus to Spell DCs+1 Profane bonus to all Ability ScoresThe Isle of Dread beckons you...",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Dread_Isle's_Curse",
+          "title": "Named item sets",
+          "text": "The Dread Isle's Curse"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

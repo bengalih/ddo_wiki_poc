@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Radiant Ring",
+  "page_id": 10218,
+  "revision_id": 634106,
+  "revision_timestamp": "2025-04-22T02:59:39Z",
+  "fetched_at": "2026-08-17T22:41:51.309040+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Radiant Ring\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 120\n  | material                 = Gold\n  | hardness                 = 12\n  | basevalue                = 10,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | quest                    = Tower of Despair\n  | chest                    = right side end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|WIS|6}}\n* {{Stat|CHA|1|Exceptional}}\n* {{Named item sets|Radiant Servant}}\n* {{CraftingEffects|Incredible Potential}}\n  | crafting                 = Incredible Potential\n  | craftingupgrade          = <!-- -->\n  | description              = This shining ring was worn by Tokala, a Radiant Servant, augmenting her power against the forces of undeath.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Radiant Ring.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Wisdom +6",
+      "tooltip": "Wisdom +6: This item makes the wearer more in tune with her surroundings, granting a +6 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +6"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Charisma +1",
+      "tooltip": "Exceptional Charisma +1: This item makes the wearer have more flair, granting a +1 Exceptional bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Exceptional Charisma +1"
+        }
+      ]
+    },
+    {
+      "text": "Radiant Servant",
+      "tooltip": "Radiant Servant: An additional Turn Undead attempt, Exceptional bonus to Turn Undead Cleric Level",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Radiant_Servant",
+          "title": "Named item sets",
+          "text": "Radiant Servant"
+        }
+      ]
+    },
+    {
+      "text": "Incredible Potential",
+      "tooltip": "Incredible Potential: Incredible Potential: This ring's power has not been fully unleashed. When this ring is combined with 9 Shavarath War Trophies and ac Imbued Shard of Great Power in an Altar of Subjugation, its full potential will be reveled.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incredible_Potential",
+          "title": "Incredible Potential",
+          "text": "Incredible Potential"
+        }
+      ]
+    }
+  ]
+}

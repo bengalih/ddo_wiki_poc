@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Epic Ethereal Maul",
+  "page_id": 90212,
+  "revision_id": 686432,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:49:22.473300+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Ethereal Maul\n  | minlevel                 = 20\n  | type                     = Maul\n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | hand                     = Two-handed\n  | damage                   = 3[1d10] + 6 Bludgeon, Adamantine, Magic\n  | crit                     = 20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 285\n  | material                 = Adamantine\n  | hardness                 = 40\n  | cost                     = 8,301 pp 2 gp\n  | weight                   = 10 lbs\n  | released                 = Update 44\n  | quest                    = Morten Edgewright\n  | end reward               = \n  | turn in                  = 1 {{Item|Epic Ethereal Ingot}}\n  | chest                    = \n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|6}}\n* {{Impactful|4}}\n* {{Ghostbane|4}}\n* {{Weaken Undead}}\n* {{Mat|Adamantine}}\n* {{Augment|Red}}\n  | crafting                 = \n  | description              = A subtle mist surrounds this weapon. It is likely quite useful against certain Undead foes that other weapons have a hard time connecting with.\n  | pic                      = Epic Ethereal Maul shown.jpg\n  | picdesc                  = Epic Ethereal Maul.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Maul",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Impactful 4",
+      "tooltip": "Impactful 4: This effect causes the edges of this weapon to ripple with force, dealing 4 to 24 force on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impactful",
+          "title": "Impactful",
+          "text": "Impactful 4"
+        }
+      ]
+    },
+    {
+      "text": "Ghostbane 4",
+      "tooltip": "Ghostbane 4: This weapon is attuned specifically to hunt the risen dead, dealing an additional 4d10 bane damage vs. Undead monsters.Passive: This weapon has Ghost Touch, and bypasses ethereal monster's 50% chance to evade bane damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostbane",
+          "title": "Ghostbane",
+          "text": "Ghostbane 4"
+        }
+      ]
+    },
+    {
+      "text": "Weaken Undead",
+      "tooltip": "Weaken Undead: While wearing this item, your attacks cause undead creatures to lose 20% of their Fortification for the next 20 seconds. This effect does not stack with itself.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Weaken_Undead",
+          "title": "Weaken Undead",
+          "text": "Weaken Undead"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

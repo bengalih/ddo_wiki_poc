@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Cutthroat's Smallblade (level 4)",
+  "page_id": 71309,
+  "revision_id": 672826,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:29:22.392602+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Cutthroat's Smallblade}}\n  | damage                   = [1d6] + 2 Pierce, Magic\n  | crit                     = 19-20 / x2 \n  | type                     = Short Sword\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Piercing\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 4\n  | durability               = 95\n  | material                 = Steel\n  | hardness                 = 14\n  | cost                     = 1,601pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Treasure of Crystal Cove \n  | turn in                  = {{CCi|silver|100}}{{CCi|golden|50}}{{CCi|pyrite|15}}{{CCi|green|300}} at [[Euphonia's Barter Box]]\n  | revamped                 = Update 76\n  | mythic                   = no\n  | epic                     = no <!-- If yes, replace \"no\" with name of non-epic version-->\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Bleeding|2}}\n* {{Doublestrike|4%}}\n* {{Skills|Hide|6}}\n* {{Skills|Move Silently|6}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = When a cutlass is simply too big for the job, a pirate will turn instead to a trusty smallblade. This one is serrated and quite adept at inflicting painful wounds on living creatures.\n  | pic                      = Cutthroat's Smallblade shown.jpg\n  | picdesc                  = Cutthroat's Smallblade (level 4).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Short Sword",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Bleeding 2",
+      "tooltip": "Bleeding 2: This weapon is wickedly curved, with spines and hooks meant to cause damage to those with flesh. This weapon does 2d8 bleeding damage to those that are vulnerable to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleeding",
+          "title": "Bleeding",
+          "text": "Bleeding 2"
+        }
+      ]
+    },
+    {
+      "text": "Doublestrike 4%",
+      "tooltip": "Doublestrike 4%: Passive: 4% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 4%"
+        }
+      ]
+    },
+    {
+      "text": "Hide +6",
+      "tooltip": "Hide +6: Passive: +6 Competence bonus to the Hide skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hide",
+          "title": "Hide",
+          "text": "Hide +6"
+        }
+      ]
+    },
+    {
+      "text": "Move Silently +6",
+      "tooltip": "Move Silently +6: Passive: +6 Competence bonus to the Move Silently skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Move_Silently",
+          "title": "Move Silently",
+          "text": "Move Silently +6"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

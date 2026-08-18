@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Elven Chain",
+  "page_id": 17509,
+  "revision_id": 629762,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:42:49.037655+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Elven Chain\n  | type                     = Chainmail\n  | feat                     = Light\n  | race                     = \n  | minlevel                 = 6\n  | bind                     = {{Bind|BtC|BoE}}\n  | epic                     = no\n  | ac                       = +9\n  | maxdexbonus              = 9\n  | asf                      = 5%\n  | durability               = 100\n  | material                 = Mithral\n  | hardness                 = 20\n  | basevalue                = 2,810 pp\n  | weight                   = 12.50 lbs\n  | quest                    = Stormcleave Outpost\n  | chest                    = [[Gorehoof]]'s Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Mat|Mithral}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Gerard's Mail shown.jpg <!-- Same style-->\n  | picdesc                  = Elven Chain.png\n  | description              = This extremely light chainmail is made of very fine mithral links.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Chainmail",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Mithral",
+      "tooltip": "Mithral: Mithral armor is one type lighter then normal. Arcane Spell Failure decreased by 10%. Maximum dexterity bonus increased by 2. Armor check penalty reduced by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mithral",
+          "title": "Mithral",
+          "text": "Mithral"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Thunder-Forged Alloy Greatclub",
+  "page_id": 44947,
+  "revision_id": 635500,
+  "revision_timestamp": "2025-04-22T04:32:01Z",
+  "fetched_at": "2026-08-17T23:18:24.652664+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Thunder-Forged Alloy Greatclub\n  | sentience                = no\n  | damage                   = 4.60[1d10] + 9 Bludgeon, Silver, Adamantine, Mithral, Cold Iron, Magic, Byeshk\n  | crit                     = 20 / x2\n  | type                     = Great Club\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | damagemod                = STR\n  | attackmod                = STR\n  | minlevel                 = 22\n  | prof                     = Martial\n  | durability               = 295\n  | material                 = Adamantine\n  | hardness                 = 39\n  | bind                     = {{Bind|no}}\n  | basevalue                = 8,800pp 5gp\n  | weight                   = 8 lbs\n  | quest                    = Magma Forge\n  | chest                    = Crafted from various ingredients\n  | released                 = Update 21\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|9}}\n* {{CraftingEffects|Thunder-Forged (Tier 0)}}\n* {{Augment|Orange}}\n  | crafting                 = Thunder-Forged\n  | craftingupgrade          = \n  | description              = A greatsword forged from metals long in proximity to dragons under Thunderholme.\n  | pic                      = Thunder-Forged Alloy Greatclub shown.jpg\n  | picdesc                  = Thunder-Forged Alloy Greatclub.png\n  | tips                     = Turn-in:\n* {{DI|20}}\n* {{CoV|15}}\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 22,
+  "enchantments": [
+    {
+      "text": "+9 Enhancement Bonus",
+      "tooltip": "+9 Enhancement Bonus: +9 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+9 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Thunder-Forged (Tier 0)",
+      "tooltip": "Thunder-Forged (Tier 0): This weapon has been made from Thunder-Forged Alloys in Thunderholme. Reforging the weapon with certain ingredients could unleash more power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Thunder-Forged",
+          "title": "Thunder-Forged",
+          "text": "Thunder-Forged (Tier 0)"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    }
+  ]
+}

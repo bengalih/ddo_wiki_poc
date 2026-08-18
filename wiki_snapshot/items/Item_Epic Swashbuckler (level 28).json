@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Epic Swashbuckler (level 28)",
+  "page_id": 71701,
+  "revision_id": 630487,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:57:15.959127+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = {{Item|Swashbuckler|Epic Swashbuckler}}\n  | type                     = Buckler\n  | prof                     = General\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 28\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +14\n  | maxdexbonus              = \n  | dr                       = 16\n  | acp                      = 0\n  | asf                      = 0\n  | ap                       = \n  | dmg                      = 4.60[1d6] + 12\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attmod                   = STR\n  | damagemod                = STR\n  | durability               = 355\n  | material                 = Dwarven Iron\n  | hardness                 = 38\n  | basevalue                = 11201pp 5gp\n  | weight                   = 5 lbs\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|silver|1500}}{{CCi|golden|600}}{{CCi|jasper|45}}{{CCi|green|900}} at [[Euphonia's Barter Box]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|s|12}}\n* {{Parrying|5}}\n* {{Doublestrike|14}}\n* {{Guardbreaking}}\n* {{Stat|dex|5|Insightful}}\n* {{Augment|Blue}}\n  | description              = An indispensable tool for many a pirate when dueling with a single blade. It can parry an enemy's blows effectively and even leave them open to counterattack.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Swashbuckler shown.jpg\n  | picdesc                  = Epic Swashbuckler (level 28).png\n  | tips                     = \n}}<noinclude>[[Category:Treasure of Crystal Cove epic items]]</noinclude>",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Dwarven Iron",
+  "item_type": "Buckler",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+12 Enhancement Bonus",
+      "tooltip": "+12 Enhancement Bonus: +12 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+12 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Parrying +5",
+      "tooltip": "Parrying +5: +5 Insight bonus to Armor Class, +5 Insight bonus to Saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Parrying",
+          "title": "Parrying",
+          "text": "Parrying +5"
+        }
+      ]
+    },
+    {
+      "text": "Doublestrike 14%",
+      "tooltip": "Doublestrike 14%: Passive: 14% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 14%"
+        }
+      ]
+    },
+    {
+      "text": "Guardbreaking",
+      "tooltip": "Guardbreaking: This item enables you to break an enemy's guard in between your melee attacks. On critical hits with your melee weapons, enemies will become dazed as a result.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Guardbreaking",
+          "title": "Guardbreaking",
+          "text": "Guardbreaking"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Dexterity +5",
+      "tooltip": "Insightful Dexterity +5: This item makes the wearer more nimble and dexterous, granting a +5 Insight bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Insightful Dexterity +5"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

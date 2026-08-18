@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Bronze Ingot Arcanum (level 25)",
+  "page_id": 33116,
+  "revision_id": 648942,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:16:25.033003+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Bronze Ingot Arcanum}}\n  | damage                   = 2[1d6] + 10 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 330\n  | material                 = Copper\n  | hardness                 = 30\n  | minlevel                 = 25\n  | released                 = Update 17\n  | quest                    = Return to Gianthold Tor\n  | chest                    = Black Dragon Chest (Epic Elite)\n  | basevalue                = 10,000 pp 2 cp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | enhancements             = \n* {{Enhancement bonus|i|10}}\n* {{Spelllore|Acid|vi}}\n* {{SpellPower|Corrosion|120}}\n* {{SpellPower|Impulse|120}}\n* {{SpellPower|Potency|80}}\n  | pic                      = Bronze Ingot Arcanum shown.jpg\n  | picdesc                  = Bronze Ingot Arcanum (Level 25).png\n  | description              = Once used as a wand by the giants of the Lost Empire, this five-foot rod makes a heavy fighting staff for a human-sized wielder. It is inscribed with runes that would fascinate and befuddle the greatest scholars of Xen'drik.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +30",
+      "tooltip": "Spellcasting Implement +30: Passive: +30 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +30"
+        }
+      ]
+    },
+    {
+      "text": "+10 Enhancement Bonus",
+      "tooltip": "+10 Enhancement Bonus: +10 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+10 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Acid Lore VI",
+      "tooltip": "Acid Lore VI: Passive: Your Acid spells gain a 16% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Acid Lore VI"
+        }
+      ]
+    },
+    {
+      "text": "Corrosion +120",
+      "tooltip": "Corrosion +120: Passive: +120 Equipment bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Corrosion +120"
+        }
+      ]
+    },
+    {
+      "text": "Impulse +120",
+      "tooltip": "Impulse +120: Passive: +120 Equipment bonus to Force, Untyped, Slashing, Piercing, and Bludgeoning Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impulse",
+          "title": "Impulse",
+          "text": "Impulse +120"
+        }
+      ]
+    },
+    {
+      "text": "Potency +80",
+      "tooltip": "Potency +80: Passive: +80 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +80"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

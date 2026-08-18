@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:War-Rune Pendant",
+  "page_id": 102677,
+  "revision_id": 635770,
+  "revision_timestamp": "2025-04-22T04:50:01Z",
+  "fetched_at": "2026-08-17T23:25:28.178744+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = War-Rune Pendant\n  | minlevel                 = 18\n  | type                     = Necklace\n  | slot                     = Neck\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 280\n  | material                 = Gem\n  | hardness                 = 38\n  | cost                     = 7,201 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 61\n  | quest                    = Law and Order\n  | end reward               = \n  | turn in                  = \n  | chest                    = End chest\n  | enhancements             = \n* {{Tactics|Combat Mastery|7}}\n* {{Protection|7}}\n* {{Armor-Piercing|14}}\n* {{Save|Reflex|8}}\n* {{Named item sets|Forbidden Knowledge}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | description              = An old relic of The Last War. Runes are inscribed on nearly every available surface, a desperate hope for the power to win. While they brought power, there was no victory.\n  | pic                      = \n  | picdesc                  = War-Rune Pendant.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Combat Mastery +7",
+      "tooltip": "Combat Mastery +7: +7 Enhancement bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combat_Mastery",
+          "title": "Combat Mastery",
+          "text": "Combat Mastery +7"
+        }
+      ]
+    },
+    {
+      "text": "Protection +7",
+      "tooltip": "Protection +7: Passive: +7 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +7"
+        }
+      ]
+    },
+    {
+      "text": "Armor-Piercing 14%",
+      "tooltip": "Armor-Piercing 14%: Passive: +14% Enhancement bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Armor-Piercing 14%"
+        }
+      ]
+    },
+    {
+      "text": "Reflex Save +8",
+      "tooltip": "Reflex Save +8: This item gives a +8 Resistance bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save +8"
+        }
+      ]
+    },
+    {
+      "text": "Forbidden Knowledge",
+      "tooltip": "Forbidden Knowledge: 3 Pieces Equipped:+10 Profane bonus to PRR4 Pieces Equipped:+1 Profane bonus to all ability scores+1 Profane bonus to attack and damage5 Pieces Equipped:+5 Profane bonus to Melee and Ranged Power+10 Profane bonus to Universal Spell Power+1 Profane bonus to Spell DCs",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Forbidden_Knowledge",
+          "title": "Named item sets",
+          "text": "Forbidden Knowledge"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

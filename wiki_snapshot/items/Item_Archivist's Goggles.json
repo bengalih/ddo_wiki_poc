@@ -1,0 +1,52 @@
+{
+  "page_title": "Item:Archivist's Goggles",
+  "page_id": 9953,
+  "revision_id": 628292,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:04:29.012491+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Archivist's Goggles\n  | type                     = Goggles\n  | slot                     = Eye\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|boa}}\n  | basevalue                = 405pp\n  | weight                   = 0.10 lbs\n  | durability               = 30\n  | material                 = Leather\n  | hardness                 = 8\n  | quest                    = Sacrifices\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|concentration|3}}\n* {{Power|1}}\n* {{Named item sets|Archivist}}\n  | description              = These goggles are said to allow the wielder to perceive arcane energies.  \n  | pic                      = Archivist's Goggles View.png\n  | picdesc                  = Archivist's Goggles.png\n  | tips                     = This item also exists as part of [[Veteran Status I starter item|Veteran I]] and [[Veteran Status II starter item|Veteran II Starter equipment]]s.\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "enchantments": [
+    {
+      "text": "Concentration +3",
+      "tooltip": "Concentration +3: Passive: +3 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +3"
+        }
+      ]
+    },
+    {
+      "text": "Power I",
+      "tooltip": "Power I: This item grants the wearer +10 maximum spell points. Favored Souls and Sorcerers gain double spell points from this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power",
+          "title": "Power",
+          "text": "Power I"
+        }
+      ]
+    },
+    {
+      "text": "Archivist",
+      "tooltip": "Archivist: Spell Points +20 (Non-stacking)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Archivist",
+          "title": "Named item sets",
+          "text": "Archivist"
+        }
+      ]
+    }
+  ]
+}

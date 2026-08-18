@@ -1,0 +1,43 @@
+{
+  "page_title": "Item:+1 Starter Shortbow",
+  "page_id": 17496,
+  "revision_id": 627679,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T19:50:48.776146+00:00",
+  "categories": [],
+  "wikitext": "{{Non-food|WAI=true}}\n{{Named item|Weapon\n  | name                     = +1 Starter Shortbow\n  | damage                   = [1d6] + 1 Pierce, Magic\n  | crit                     = 20 / x3\n  | type                     = Short Bow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = DEX\n  | damagemod                = DEX\n  | prof                     = Martial\n  | durability               = 85\n  | material                 = Wood\n  | hardness                 = 7 \n  | minlevel                 = 2\n  | quest                    = The Voyage\n  | chest                    = \n  | end reward               = yes\n  | basevalue                = 3 pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|1}}\n* {{Starter}}\n  | epic                     = no\n  | pic                      = \n  | picdesc                  = Starter Shortbow.png\n  | description              = A smaller wooden bow with a shorter firing distance.\n  | tips                     = This item is also a [[Veteran Award Starter Items|Veteran Award Starter Item]] for Fighter, Barbarian, Paladin, Ranger, Rogue or Bard. \n}}",
+  "item_template": "Non-food",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Short Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Starter",
+      "tooltip": "Starter: Starter equipment cannot be traded, sold or crafted.This item cannot be fed to sentient jewels.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Starter",
+          "title": "Starter",
+          "text": "Starter"
+        }
+      ]
+    }
+  ]
+}

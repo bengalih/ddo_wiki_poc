@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Legendary Brigand's Cutlass (level 32)",
+  "page_id": 97604,
+  "revision_id": 672763,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:33:36.037302+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Brigand's Cutlass\n  | minlevel                 = 32\n  | type                     = Scimitar\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = 5.90[1d6+2] + 15 Slash, Chaotic, Magic\n  | crit                     = 18-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 380\n  | material                 = Steel\n  | hardness                 = 42\n  | cost                     = 12,802 pp\n  | weight                   = 4 lbs\n  | released                 = Update 56\n  | revamped                 = Update 76\n  | quest                    = Treasure of Crystal Cove\n  | end reward               = \n  | turn in                  = {{CCi|silver|1500}}{{CCi|golden|700}}{{CCi|jasper|45}}{{CCi|green|1000}} at [[Euphonia's Barter Box]]\n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Anarchic|6}}\n* {{Vorpal|Greater}}\n* {{Incite|130}}\n* {{Skills|Intimidate|21}}\n* {{Augment|Red}}\n  | crafting                 = \n  | description              = A curved sword with an elegant hilt, popular amongst pirates for its intimidating and yet sophisticated appearance. This particular blade is infused with the rowdiness and anarchy of a high-seas brigand, and is impeccably useful against lawful opponents.\n  | pic                      = Brigand's Cutlass shown.jpg\n  | picdesc                  = Legendary Brigand's Cutlass (level 32).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Scimitar",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 32,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Anarchic 6",
+      "tooltip": "Anarchic 6: On Hit: 6 to 24 Chaos damage. Chaos-aligned creatures are immune to this effect.Penalty: If equipped by a Lawful user, they receive 1 Negative Level for as long as this item is equipped.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Anarchic 6"
+        }
+      ]
+    },
+    {
+      "text": "Greater Vorpal",
+      "tooltip": "Greater Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 2000 Hit Points, they are instantly slain. If your target has above 2000 Hit Points, they take 200 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Greater_Vorpal",
+          "title": "Vorpal",
+          "text": "Greater Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Incite +130",
+      "tooltip": "Incite +130: +130% Enhancement bonus to increased threat generation from melee damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incite",
+          "title": "Incite",
+          "text": "Incite +130"
+        }
+      ]
+    },
+    {
+      "text": "Intimidate +21",
+      "tooltip": "Intimidate +21: Passive: +21 Competence bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Intimidate +21"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

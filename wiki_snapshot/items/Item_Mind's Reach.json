@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Mind's Reach",
+  "page_id": 125289,
+  "revision_id": 691363,
+  "revision_timestamp": "2026-07-02T23:26:16Z",
+  "fetched_at": "2026-08-17T22:24:51.639528+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Mind's Reach\n  | minlevel                 = 15\n  | type                     = Gloves\n  | race                     = Duergar Mindcleaver\n  | slot                     = Hand\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | cost                     = 6,020 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 80\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CON|1|Exceptional}}\n* {{Stat|STR|6}}\n  | crafting                 = \n  | description              = \n  | pic                      = Gloves Generic Fabricator.png\n  | picdesc                  = Mind's Reach.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Exceptional Constitution +1",
+      "tooltip": "Exceptional Constitution +1: This item gives the wearer improved health, granting a +1 Exceptional bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Exceptional Constitution +1"
+        }
+      ]
+    },
+    {
+      "text": "Strength +6",
+      "tooltip": "Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +6"
+        }
+      ]
+    }
+  ]
+}

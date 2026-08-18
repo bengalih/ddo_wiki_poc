@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Legendary Moonslice",
+  "page_id": 74556,
+  "revision_id": 671215,
+  "revision_timestamp": "2026-01-08T23:09:04Z",
+  "fetched_at": "2026-08-17T21:59:45.272211+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Moonslice\n  | damage                   = 5.30[1d4+2] + 15 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Dagger\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Piercing\n  | prof                     = Simple\n  | reqtrait                 = <!-- Leave blank if not used-->\n  | UMD DC                   = <!-- Leave blank if not used-->\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 29\n  | durability               = 330\n  | material                 = Silver\n  | hardness                 = 39\n  | cost                     = 11,600pp 2gp\n  | weight                   = 1.00 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | revamped                 = Update 76\n  | released                 = Update 42\n  | quest                    = House of Pain\n  | chest                    = End Chest\n  | end reward               = <!-- Leave blank if not used-->\n  | turn in                  = <!-- Leave blank if not used-->\n  | epic                     = no <!-- If yes, replace \"no\" with name of non-epic version-->\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Negativity|6}}\n* {{Chilling|6}}\n* {{Vorpal|Sovereign}}\n* {{Deception|2|Quality}}\n* {{Augment|Red}}\n  | crafting                 = <!--Type of crafting-->\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | description              = Half of the sky.\n  | pic                      = Legendary Moonslice shown.png\n  | picdesc                  = Legendary Moonslice.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Negativity 6",
+      "tooltip": "Negativity 6: This effect causes this weapon to be shrouded in dark mists, dealing 6d6 negative energy on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negativity",
+          "title": "Negativity",
+          "text": "Negativity 6"
+        }
+      ]
+    },
+    {
+      "text": "Chilling 6",
+      "tooltip": "Chilling 6: This effect causes the edges of this weapon to become frozen to the touch, dealing 6d6 Ice damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Chilling",
+          "title": "Chilling",
+          "text": "Chilling 6"
+        }
+      ]
+    },
+    {
+      "text": "Sovereign Vorpal",
+      "tooltip": "Sovereign Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 3000 Hit Points, they are instantly slain. If your target has above 3000 Hit Points, they take 300 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Sovereign_Vorpal",
+          "title": "Vorpal",
+          "text": "Sovereign Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Quality Deception +2",
+      "tooltip": "Quality Deception +2: +2 Quality bonus to hit and +3 to damage for any hit that would qualify as a sneak attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Quality Deception +2"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

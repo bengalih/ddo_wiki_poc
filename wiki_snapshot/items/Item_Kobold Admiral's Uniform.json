@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Kobold Admiral's Uniform",
+  "page_id": 24309,
+  "revision_id": 631681,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:27:20.120308+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Kobold Admiral's Uniform\n  | type                     = Leather\n  | feat                     = Light\n  | race                     = None\n  | minlevel                 = 4\n  | bind                     = {{Bind|BtC|BoE}}\n  | ac                       = +6\n  | maxdexbonus              = 6\n  | acp                      = None\n  | asf                      = 10%\n  | durability               = 64\n  | material                 = Leather\n  | hardness                 = 12\n  | basevalue                = 1,601 pp\n  | weight                   = 15 lbs\n  | released                 = Update 14\n  | quest                    = Three-Barrel Cove (heroic)\n  | chest                    = [[Admiral Ancker]]'s Chest (Rare Encounter)\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{Axeblock|iii}}\n* {{Spearblock|iii}}\n* {{Augment|Blue}}\n  | pic                      = Kobold Admiral's Uniform shown.jpg\n  | picdesc                  = Kobold Admiral's Uniform.png\n  | description              = The self-styled kobold 'Admiral' Ancker gussied up this old set of leathers to the best of his ability, sticking several makeshift medals to the chest.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Axeblock III",
+      "tooltip": "Axeblock III: Passive: Reduces physical damage taken by 6, except from Bludgeoning or Piercing weapons. (Damage Reduction: 6/Pierce, Bludgeon)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Axeblock",
+          "title": "Axeblock",
+          "text": "Axeblock III"
+        }
+      ]
+    },
+    {
+      "text": "Spearblock III",
+      "tooltip": "Spearblock III: Passive: Reduces physical damage taken by 6, except from Bludgeoning or Slashing weapons. (Damage Reduction: 6/Slash, Bludgeon)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spearblock",
+          "title": "Spearblock",
+          "text": "Spearblock III"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

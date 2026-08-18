@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Death's Door",
+  "page_id": 10645,
+  "revision_id": 693581,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:31:05.527281+00:00",
+  "categories": [],
+  "wikitext": "{{See also|Death's Door}}\n{{Named item|Shield\n  | type                     = Large\n  | prof                     = General\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 14\n  | bind                     = {{Bind|BtC|BoA}}\n  | sb                       = +11\n  | maxdexbonus              = \n  | dr                       = 10\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = 1.80[1d8] + 5\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | durability               = 215\n  | material                 = Bone\n  | hardness                 = 24\n  | basevalue                = 5602pp\n  | weight                   = 15 lbs\n  | quest                    = Shield of Legend\n  | turn in                  = completed Shield: Frame\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|a|5}}\n* {{Deathblock}}\n* {{Negative Energy Spike}}\n* {{Absorption|Negative Energy|0|10}}\n* {{Augment|Purple}}\n  | description              = The magi leaders of various ogre tribes wear these shields into battle to terrify their enemies.\n  | crafting                 = Catalyst Crafting\n  | craftingupgrade          = Demon's Door¦Legendary Demon's Door\n  | pic                      = Death's Door shown.jpg\n  | picdesc                  = Death's Door.png\n  | tips                     = Shield effects upgraded in Update 14 & 17. Pre-Update 14 & 17 versions were not retroactively updated and have to be reacquired. \n}}",
+  "item_template": "See also",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Bone",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Deathblock",
+      "tooltip": "Deathblock: The wearer of this item is immune to all death spells and magical death effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock"
+        }
+      ]
+    },
+    {
+      "text": "Negative Energy Spike",
+      "tooltip": "Negative Energy Spike: This weapon is pulsating with negative energy. It deals an extra 2 to 12 points of negative energy damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Energy_Spike",
+          "title": "Negative Energy Spike",
+          "text": "Negative Energy Spike"
+        }
+      ]
+    },
+    {
+      "text": "Negative Energy Absorption - 10 Charges (Recharged/Day: 10)",
+      "tooltip": "Negative Energy Absorption: This effect absorbs negative energy and energy drain effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Energy_Absorption",
+          "title": "Negative Energy Absorption",
+          "text": "Negative Energy Absorption"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

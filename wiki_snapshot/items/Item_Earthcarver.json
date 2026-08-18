@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Earthcarver",
+  "page_id": 25052,
+  "revision_id": 629696,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:41:19.461927+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Earthcarver\n  | sentience                = no\n  | damage                   = 4[2d6] + 10 Slash, Epic, Magic\n  | crit                     = 19-20 / x3\n  | type                     = Great Sword\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | damagemod                = STR\n  | attackmod                = STR\n  | minlevel                 = 20\n  | prof                     = Martial\n  | durability               = 300\n  | material                 = Glass\n  | hardness                 = 30\n  | quest                    = In the Belly of the Beast\n  | chest                    = Special quest only temporary weapon\n  | basevalue                = 8005pp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|no|drops=both}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|10}}\n* {{Brilliance}}\n* {{Blast|Radiant}}\n* {{Disintegration}}\n* {{Bane|ooze|greater}}\n* {{Bane|aberration|greater}}\n* {{Bane|magical beast|greater}}\n* {{Elemental Resistance|Acid|40}}\n* {{Absorption|Acid|20}}\n  | crafting                 = \n  | craftingupgrade          = \n  | craftingnotes            = \n  | pic                      = Earthcarver shown.jpg\n  | picdesc                  = Earthcarver.png\n  | description              = Now fully reassembled, this massive blade is unmatched against purple worms and the creatures that crawl through their guts.\n  | tips                     = This is an in-quest only item. You need to gather all pieces of [[Earthcarver Shard]]s to reassemble this weapon.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+10 Enhancement Bonus",
+      "tooltip": "+10 Enhancement Bonus: +10 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+10 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Brilliance",
+      "tooltip": "Brilliance: This weapon glows with the light of Irian. This weapon deals an extra 1 to 6 points of light damage on a successful hit. In addition, critical hits deal an additional 1 to 10 light damage for weapons with a x2 critical multiplier, 2 to 20 for a x3 critical multiplier and 3 to 30 for a x4 multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Brilliance_(enchantment)",
+          "title": "Brilliance (enchantment)",
+          "text": "Brilliance"
+        }
+      ]
+    },
+    {
+      "text": "Radiant Blast",
+      "tooltip": "Radiant Blast: This weapon stores the power of the plane of Irian deep within. Occasionally, this dynamic power comes to the surface, devastating enemies with a massive blast of radiant light.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiant_Blast",
+          "title": "Radiant Blast",
+          "text": "Radiant Blast"
+        }
+      ]
+    },
+    {
+      "text": "Disintegration",
+      "tooltip": "Disintegration: This weapon has a dark, insidious power deep within. Occasionally, this power lashes out violently at enemies and attempts to disintegrate them.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disintegration",
+          "title": "Disintegration",
+          "text": "Disintegration"
+        }
+      ]
+    },
+    {
+      "text": "Greater Ooze Bane",
+      "tooltip": "Greater Ooze Bane: A bane weapon excels at attacking one type or subtype of creature. Against Oozes, this weapon's effective enhancement bonus is +4 better than its normal enhancement bonus. It deals an extra 3 to 18 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Greater Ooze Bane"
+        }
+      ]
+    },
+    {
+      "text": "Greater Aberration Bane",
+      "tooltip": "Greater Aberration Bane: A bane weapon excels at attacking one type or subtype of creature. Against Aberrations, this weapon's effective enhancement bonus is +4 better than its normal enhancement bonus. It deals an extra 3 to 18 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Greater Aberration Bane"
+        }
+      ]
+    },
+    {
+      "text": "Greater Magical Beast Bane",
+      "tooltip": "Greater Magical Beast Bane: A bane weapon excels at attacking one type or subtype of creature. Against Magical Beasts, this weapon's effective enhancement bonus is +4 better than its normal enhancement bonus. It deals an extra 3 to 18 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Greater Magical Beast Bane"
+        }
+      ]
+    },
+    {
+      "text": "Acid Resistance +40",
+      "tooltip": "Acid Resistance +40: Passive: +40 Enhancement bonus to your Acid Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Acid_Resistance",
+          "title": "Acid Resistance",
+          "text": "Acid Resistance +40"
+        }
+      ]
+    },
+    {
+      "text": "Acid Absorption +20%",
+      "tooltip": "Acid Absorption +20%: Passive: 20% Enhancement Bonus to Acid Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Acid Absorption +20%"
+        }
+      ]
+    }
+  ]
+}

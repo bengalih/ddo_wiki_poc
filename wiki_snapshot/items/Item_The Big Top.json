@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:The Big Top",
+  "page_id": 11699,
+  "revision_id": 635296,
+  "revision_timestamp": "2025-04-22T04:18:25Z",
+  "fetched_at": "2026-08-17T23:12:25.228196+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = The Big Top\n  | type                     = Helm\n  | class                    = Clothing\n  | slot                     = Head\n  | durability               = 140\n  | material                 = Leather\n  | hardness                 = 24\n  | basevalue                = 1610 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 4\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | released                 = Update 5\n  | revamped                 = Update 25\n  | revamped2                = Update 39\n  | quest                    = Under the Big Top\n  | chest                    = end chest\n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Otto's Resistible Dance|3|1}}\n* {{Skills|UMD|1}}\n* {{Skills|Perform|6}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Big Top\n  | craftingnotes            = \n  | description              = This is the strange, formal hat that [[Malicia]] was wearing when she was defeated. Placing it atop one's head confers a greater understanding of all things magical.\n  | pic                      = The Big Top shown.jpg\n  | picdesc                  = The Big Top.png\n  | tips                     = Item was revamped on update 39. Earlier copies of the item have only the [[Otto's Resistible Dance]] and a [[Use Magic Device|Enhanced Use Magic Device +1]] <small>(which had the significance of being [[stack]]able due to being an [[enhancement bonus]] compared to the [[competence bonus]] it is now)</small>.\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Otto's Resistible Dance — 1 Charges (Recharged/Day:1)",
+      "tooltip": "Otto's Resistible DanceCaster level: 3Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Otto%27s_Resistible_Dance",
+          "title": "Otto's Resistible Dance",
+          "text": "Otto's Resistible Dance"
+        }
+      ]
+    },
+    {
+      "text": "Use Magic Device +1",
+      "tooltip": "Use Magic Device +1: Passive: +1 Competence bonus to the Use Magic Device skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Use_Magic_Device",
+          "title": "Use Magic Device",
+          "text": "Use Magic Device +1"
+        }
+      ]
+    },
+    {
+      "text": "Perform +6",
+      "tooltip": "Perform +6: Passive: +6 Competence bonus to the Perform skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Perform",
+          "title": "Perform",
+          "text": "Perform +6"
+        }
+      ]
+    }
+  ]
+}

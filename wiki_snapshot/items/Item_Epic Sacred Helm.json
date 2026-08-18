@@ -1,0 +1,113 @@
+{
+  "page_title": "Item:Epic Sacred Helm",
+  "page_id": 12020,
+  "revision_id": 630352,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:54:44.480443+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Epic Sacred Helm\n  | type                     = Helm\n  | minlevel                 = 20\n  | slot                     = Head\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 210\n  | material                 = Leather\n  | hardness                 = 26\n  | basevalue                = 8,005 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Altar of Epic Rituals\n  | chest                    = {{Item|Sacred Helm}}\n  | released                 = Update 6\n  | epic                     = Sacred Helm\n  | mythic                   = no\n  | enhancements             = \n* {{Absorption|negative energy|0|10|5}}\n* {{Lifesealed|27}}\n* {{Bonus Turning|Hallowed|+9}}\n* {{Bonus Turning|Sacred|9}}\n* {{Guard|Radiance}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n* {{Named item sets|Epic Divine Blessing}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Sacred Helm\n  | description              = Though used primarily by drow ascetics, this helm will protect any healer from death magic and the undead.\n  | pic                      = Seraphim shown.jpg\n  | picdesc                  = Epic Sacred Helm.png\n  | tips                     = \n}}[[Category:The Red Fens epic items]]",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Negative Energy Absorption - 10 Charges (Recharged/Day: 5)",
+      "tooltip": "Negative Energy Absorption: This effect absorbs negative energy and energy drain effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Energy_Absorption",
+          "title": "Negative Energy Absorption",
+          "text": "Negative Energy Absorption"
+        }
+      ]
+    },
+    {
+      "text": "Lifesealed +27",
+      "tooltip": "Lifesealed +27: You are immune to magical effects that cause instant death. In addition, you have a +27% enhancement bonus to Negative Energy Absorption.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lifesealed",
+          "title": "Lifesealed",
+          "text": "Lifesealed +27"
+        }
+      ]
+    },
+    {
+      "text": "Hallowed +9",
+      "tooltip": "Hallowed: An item with this quality assists only wearers who have the ability to turn undead. Hallowed items provide an +9 Enhancement bonus to the maximum Hit Dice of undead turned.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hallowed",
+          "title": "Hallowed",
+          "text": "Hallowed +9"
+        }
+      ]
+    },
+    {
+      "text": "Sacred +9",
+      "tooltip": "Sacred +9: An item with this quality assists only wearers who have the ability to turn undead. Sacred items provide an +9 Enhancement bonus to your effective level for Turning Undead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sacred",
+          "title": "Sacred",
+          "text": "Sacred +9"
+        }
+      ]
+    },
+    {
+      "text": "Radiance Guard",
+      "tooltip": "Radiance Guard: This item is imbued with a brilliant, radiant power. When the wearer of this item is successfully attacked in melee, the attacker has a chance of being hit by 4d6 points of light damage and has a chance of being blinded.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiance_Guard",
+          "title": "Radiance Guard",
+          "text": "Radiance Guard"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Epic Divine Blessing",
+      "tooltip": "Epic Divine Blessing: 2 Pieces Equipped:+4% Artifact bonus to Light, Alignment, and Positive Spellcrit Chance+30 Artifact bonus to Light, Alignment, and Positive Spellpower",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Epic_Divine_Blessing",
+          "title": "Named item sets",
+          "text": "Epic Divine Blessing"
+        }
+      ]
+    }
+  ]
+}

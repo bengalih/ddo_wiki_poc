@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Spare Hand (level 3)",
+  "page_id": 26827,
+  "revision_id": 649300,
+  "revision_timestamp": "2025-07-26T19:12:35Z",
+  "fetched_at": "2026-08-17T23:02:29.483336+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Spare Hand}}\n  | type                     = Belt\n  | basevalue                = 1205pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 40\n  | material                 = Leather\n  | hardness                 = 9\n  | minlevel                 = 3\n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Riposte|1}}\n* {{Tactics|Combat Mastery|2|Insightful}}\n* {{Skills|dd|6}}\n* {{Skills|ol|6}}\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various challenge ingredients\n  | description              = A belt with a remarkable augmentation: a clawed hand that extends from it and will help you attack your foes and make tasks easier to perform.\n  | pic                      = Belt Generic Spare.png\n  | picdesc                  = Spare Hand (Level 3).png\n  | tips                     = '''See also:''' [[Spare Hand]] - Full table of the Spare Hand line\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Riposte +1",
+      "tooltip": "Riposte +1: This item enchants its user with incredible awareness and speed, granting a +1 Insight bonus to AC and to Saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Riposte",
+          "title": "Riposte",
+          "text": "Riposte +1"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Combat Mastery +2",
+      "tooltip": "Insightful Combat Mastery +2: +2 Insight bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combat_Mastery",
+          "title": "Combat Mastery",
+          "text": "Insightful Combat Mastery +2"
+        }
+      ]
+    },
+    {
+      "text": "Disable Device +6",
+      "tooltip": "Disable Device +6: Passive: +6 Competence bonus to the Disable Device skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disable_Device",
+          "title": "Disable Device",
+          "text": "Disable Device +6"
+        }
+      ]
+    },
+    {
+      "text": "Open Lock +6",
+      "tooltip": "Open Lock +6: Passive: +6 Competence bonus to the Open Lock skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Open_Lock",
+          "title": "Open Lock",
+          "text": "Open Lock +6"
+        }
+      ]
+    }
+  ]
+}

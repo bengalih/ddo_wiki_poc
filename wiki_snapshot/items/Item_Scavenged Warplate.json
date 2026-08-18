@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Scavenged Warplate",
+  "page_id": 8125,
+  "revision_id": 634488,
+  "revision_timestamp": "2025-04-22T03:25:01Z",
+  "fetched_at": "2026-08-17T22:51:33.342614+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Scavenged Warplate\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | minlevel                 = 8\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +19\n  | maxdexbonus              = 0\n  | acp                      = -6\n  | asf                      = 35%\n  | durability               = 192\n  | material                 = Adamantine\n  | hardness                 = 29\n  | basevalue                = 4,850pp\n  | weight                   = 50 lbs\n  | quest                    = Cult of the Six\n  | chest                    = \n  | end reward               = yes\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Mat|Adamantine|a|3}}\n* {{Augment|Blue}}\n* {{Augment|Colorless}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Mithral Full Plate of Speed shown.jpg <!-- same style-->\n  | picdesc                  = Scavenged Warplate.png\n  | description              = Heavy plates of warforged iron scavenged from the Mournlands, roughly fashioned into a suit of interlocking plates.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Adamantine",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Heavy armor made from adamantine grants its wearer damage reduction of 3/-.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

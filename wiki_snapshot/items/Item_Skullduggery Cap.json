@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Skullduggery Cap",
+  "page_id": 91718,
+  "revision_id": 691051,
+  "revision_timestamp": "2026-07-01T13:55:43Z",
+  "fetched_at": "2026-08-17T23:00:36.818115+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Skullduggery Cap\n  | type                     = Helm\n  | slot                     = Head\n  | class                    = Clothing\n  | minlevel                 = 3\n  | durability               = 130\n  | material                 = Gold\n  | hardness                 = 23\n  | basevalue                = 1201pp\n  | weight                   = 0.10 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = The Final Enemy\n  | chest                    = end chest\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Skullduggery Cap\n  | enhancements             = \n* {{Clicky|Death Ward|10|3}}\n* {{Stat|Wis|3}}\n* {{Spell Focus|Necromancy|2}}\n* {{Augment|Blue}}\n* {{Named item sets|Saltmarsh Explorer}}\n  | description              = When shady work is the order of the evening, a light cap can be essential.\n  | pic                      = Skullduggery Cap shown.jpg\n  | picdesc                  = Skullduggery_Cap.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Death Ward — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Death WardCaster level: 10Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Death_Ward",
+          "title": "Death Ward",
+          "text": "Death Ward"
+        }
+      ]
+    },
+    {
+      "text": "Wisdom +3",
+      "tooltip": "Wisdom +3: This item makes the wearer more in tune with her surroundings, granting a +3 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +3"
+        }
+      ]
+    },
+    {
+      "text": "Necromancy Focus +2",
+      "tooltip": "Necromancy Focus +2: +2 Equipment bonus to the DC of Necromancy spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Necromancy Focus +2"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Saltmarsh Explorer",
+      "tooltip": "Saltmarsh Explorer: 5 Pieces Equipped:+5 Artifact bonus to PRR and MRR+1 Artifact bonus to all ability scores",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Saltmarsh_Explorer",
+          "title": "Named item sets",
+          "text": "Saltmarsh Explorer"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Head Boost +1 or +3",
+      "tooltip": "Mythic Head Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Head Boost"
+        }
+      ]
+    }
+  ]
+}

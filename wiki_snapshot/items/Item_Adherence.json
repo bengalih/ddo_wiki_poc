@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Adherence",
+  "page_id": 10641,
+  "revision_id": 628160,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:01:32.606192+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Tower\n  | prof                     = Tower\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 14\n  | bind                     = {{Bind|BtC|BoA}}\n  | sb                       = +14\n  | maxdexbonus              = 2\n  | dr                       = 11\n  | acp                      = -9\n  | asf                      = 50\n  | dmg                      = 1.80[1d10] + 5\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attmod                   = STR\n  | damagemod                = STR\n  | durability               = 240\n  | material                 = Steel\n  | hardness                 = 24\n  | basevalue                = 5604.5pp\n  | weight                   = 50 lbs\n  | quest                    = Shield of Legend\n  | turn in                  = completed Shield: Frame\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{DR|5}}\n* {{Save|e|6}}\n* {{Augment|Purple}}\n  | description              = This shield was carried by the royal guard of Wroann.\n  | pic                      = Adherence shown.jpg\n  | picdesc                  = Adherence.png\n  | tips                     = Shield effects upgraded in Update 14 & 17.  Pre-Update 14 & 17 versions were not retroactively updated and have to be reacquired.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Tower Shield Proficiency",
+  "material": "Steel",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "DR 5/-",
+      "tooltip": "Damage Reduction 5/-: Reduces all physical damage by 5.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Enchantment Save +6",
+      "tooltip": "Enchantment Save +6: +6 Resistance bonus to your saves versus enchantments",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enchantment_Save",
+          "title": "Enchantment Save",
+          "text": "Enchantment Save +6"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

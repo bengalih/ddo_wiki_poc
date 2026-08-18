@@ -1,0 +1,29 @@
+{
+  "page_title": "Item:Necklace of Fireballs",
+  "page_id": 11138,
+  "revision_id": 633666,
+  "revision_timestamp": "2025-04-22T02:28:41Z",
+  "fetched_at": "2026-08-17T22:29:54.799227+00:00",
+  "categories": [],
+  "wikitext": "{{Non-food}}\n{{Named item|Jewelry\n  | name                     = Necklace of Fireballs\n  | type                     = Necklace\n  | class                    = Jewelry\n  | basevalue                = 420 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Neck\n  | durability               = 30\n  | material                 = Gold\n  | hardness                 = 4\n  | minlevel                 = 5\n  | bind                     = {{Bind|no}}\n  | quest                    = Random\n  | chest                    = Level ~4 chests/rewards\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Fireball|5|5|no}}\n  | description              = A golden Necklace with a number of fiery red gems. The necklace will crumble into dust when the last charge is expended.\n  | pic                      = Necklace Generic.png\n  | picdesc                  = Necklace of Fireballs.png\n}}",
+  "item_template": "Non-food",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Fireball — 5 Charges",
+      "tooltip": "FireballCaster level: 5Charges: 5",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fireball",
+          "title": "Fireball",
+          "text": "Fireball"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Macabre Longsword",
+  "page_id": 67378,
+  "revision_id": 633336,
+  "revision_timestamp": "2025-04-22T02:06:55Z",
+  "fetched_at": "2026-08-17T22:20:09.353604+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Macabre Longsword\n  | damage                   = [1d8] + 5 Slash, Evil, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Long Sword\n  | hand                     = One-handed\n  | class                    = Slashing\n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Martial\n  | durability               = 170\n  | material                 = Steel\n  | minlevel                 = 10\n  | hardness                 = 20\n  | basevalue                = 4,001 pp 5gp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtA|BoA}} from chest; {{Bind|BtC|BoA}} otherwise\n  | released                 = Update 37\n  | quest                    = Blue Water Inn\n  | turn in                  = 40 [[Vistani Talisman]]s\n  | enhancements             = \n* {{Enhancement_bonus|w|5}}\n* {{Mother Night's Embrace}}\n* {{Bane|Human|3}}\n* {{Vampirism|1}}\n* {{Chilling|3}}\n* {{Augment|Orange}}\n  | pic                      = Macabre Longsword shown.jpg\n  | picdesc                  = Macabre Longsword.png\n  | description              = Something about this weapon makes dread seem a little more present.\n  | tips                     = This and similar weapons are available from multiple sources:\n* For free, one per life, from [[Tobar the Smith]] in [[The Land of Barovia]]. BtC.\n* Purchased for [[Vistani Talisman]]s in [[Blue Water Inn]]. BtC.\n* Looted in [[Mists of Ravenloft|Ravenloft]]'s 3rd story arc \"The Light of the Land\" quests. BtA + eligible for Mythic / Reaper bonuses.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Mother Night's Embrace",
+      "tooltip": "Mother Night's Embrace: This weapon is unholy and imbued by one of the two deities of Barovia - the Mother Night. This weapon is evil, dealing an additional 3d6 evil damage on hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mother_Night%27s_Embrace",
+          "title": "Mother Night's Embrace",
+          "text": "Mother Night's Embrace"
+        }
+      ]
+    },
+    {
+      "text": "Human Bane 3",
+      "tooltip": "Human Bane 3: This weapon is attuned specifically to hunt those with diversity and ambition, dealing an additional 3d10 bane damage vs. Humans.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Human Bane 3"
+        }
+      ]
+    },
+    {
+      "text": "Vampirism 1",
+      "tooltip": "Vampirism 1: This weapon thirsts for the blood of your enemies, healing you for +1d2 hit points with each hit.Note: internal cooldown of 1 second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Vampirism 1"
+        }
+      ]
+    },
+    {
+      "text": "Chilling 3",
+      "tooltip": "Chilling 3: This effect causes the edges of this weapon to become frozen to the touch, dealing 3d6 Ice damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Chilling",
+          "title": "Chilling",
+          "text": "Chilling 3"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

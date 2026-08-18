@@ -1,0 +1,156 @@
+{
+  "page_title": "Item:Legendary Alchemist's Pendant",
+  "page_id": 82618,
+  "revision_id": 631766,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:29:55.145034+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Legendary Alchemist's Pendant\n  | minlevel                 = 29\n  | type                     = Necklace\n  | race                     = \n  | slot                     = Neck\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 390\n  | material                 = Steel\n  | hardness                 = 49\n  | cost                     = 11601 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | released                 = Update 47\n  | quest                    = Legendary Master Artificer\n  | end reward               = \n  | turn in                  = \n  | chest                    = warded chest\n  | enhancements             = \n* {{Nearly Finished|{{Stat|CON|13}}|{{Stat|con|6|Insightful}}|{{Stat|con|3|Quality}}}}\n* {{Spell Focus|Mastery|2|Profane}}\n* {{Hp|Legendary Elemental Energy}}\n* {{Save|Spell|11}}\n* {{Augment|Blue}}\n* {{Augment|Yellow}}\n* {{Named item sets|Astute Alchemist}}\n  | crafting                 = Nearly Finished\n  | craftingupgrade          = \n  | description              = House Cannith alchemists often wear charms such as this to ward against the deadly materials they work with. It also boosts the wearer's ability to utilize his or her energy more efficiently.\n  | pic                      = Necklace Generic Gold.png\n  | picdesc                  = Legendary Alchemist's Pendant.png\n  | tips                     = Legendary Elemental Energy: stacking (except with itself) +150 maximum spell points.\n}}\n\n[[Category:Update 47 named items]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Nearly Finished",
+      "tooltip": "Nearly Finished: This item isn't quite finished, but it's only a step away from completion. Bring it to a Cannith Reforging Station and combine it with melted materials to restore this item to its full potential.",
+      "children": [
+        {
+          "text": "One of the following:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Constitution +13",
+              "tooltip": "Constitution +13: This item gives the wearer improved health, granting a +13 Enhancement bonus to Constitution.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Constitution",
+                  "title": "Constitution",
+                  "text": "Constitution +13"
+                }
+              ]
+            },
+            {
+              "text": "Insightful Constitution +6",
+              "tooltip": "Insightful Constitution +6: This item gives the wearer improved health, granting a +6 Insight bonus to Constitution.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Constitution",
+                  "title": "Constitution",
+                  "text": "Insightful Constitution +6"
+                }
+              ]
+            },
+            {
+              "text": "Quality Constitution +3",
+              "tooltip": "Quality Constitution +3: This item gives the wearer improved health, granting a +3 Quality bonus to Constitution.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Constitution",
+                  "title": "Constitution",
+                  "text": "Quality Constitution +3"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Nearly_Finished",
+          "title": "Nearly Finished",
+          "text": "Nearly Finished"
+        }
+      ]
+    },
+    {
+      "text": "Profane Spell Focus Mastery +2",
+      "tooltip": "Profane Spell Focus Mastery +2: +2 Profane bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Profane Spell Focus Mastery +2"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Elemental Energy",
+      "tooltip": "Legendary Elemental Energy: Harnessing a small amount of power and potential of the raw elements, this item gives you a +150 bonus to your maximum spell points. This stacks with all bonuses except for Legendary Elemental Energy.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Elemental_Energy",
+          "title": "Elemental Energy",
+          "text": "Legendary Elemental Energy"
+        }
+      ]
+    },
+    {
+      "text": "Spell Save +11",
+      "tooltip": "Spell Save +11: This item gives a +11 Resistance bonus to your saves versus spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Saving_throw",
+          "title": "Saving throw",
+          "text": "Spell Save +11"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Astute Alchemist",
+      "tooltip": "Astute Alchemist: While wearing two pieces from the Astute Alchemist set, you gain:",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Astute_Alchemist",
+          "title": "Named item sets",
+          "text": "Astute Alchemist"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Maul of Might",
+  "page_id": 12824,
+  "revision_id": 633452,
+  "revision_timestamp": "2025-04-22T02:14:32Z",
+  "fetched_at": "2026-08-17T22:23:39.205332+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Maul of Might\n  | prof                     = Martial\n  | damage                   = [1d10] + 2 Bludgeon, Magic\n  | crit                     = 20 / x3\n  | type                     = Maul\n  | class                    = Bludgeoning\n  | minlevel                 = 4\n  | reqtrait                 = \n  | UMD DC                   = \n  | hand                     = Two-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 125\n  | material                 = Steel \n  | hardness                 = 14\n  | basevalue                = 1,601pp 2gp\n  | weight                   = 10 lbs\n  | quest                    = Redwillow's Ruins\n  | chest                    = [[Gribblecrux Mightyfist]]'s Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Force}}\n* {{Augment|Red}}\n  | description              = The largest of the hammers, often created with a wedge-shaped head for splitting logs.\n  | pic                      = Maul of Might shown.jpg\n  | picdesc                  = Maul of Might.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Maul",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Force",
+      "tooltip": "Force: This weapon is humming with magical force. It deals an additional 1 to 6 force damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Force_(enchantment)",
+          "title": "Force (enchantment)",
+          "text": "Force"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Cesti",
+  "page_id": 10167,
+  "revision_id": 628927,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:20:18.788276+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Cesti\n  | slot                     = Hand\n  | type                     = Gloves\n  | durability               = 100\n  | material                 = Leather\n  | hardness                 = 14\n  | basevalue                = 3605pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 9\n  | bind                     = {{Bind|BtA|boa}}\n  | quest                    = Cult of the Six\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n*{{Stat|STR|3}}\n*{{Stat|DEX|4}}\n  | pic                      = Gloves Generic.png\n  | picdesc                  = Cesti.png\n  | description              = Made to be worn on each hand, the cestus aids in unarmed combat by covering the wearer's knuckle with metal studs.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Strength +3",
+      "tooltip": "Strength +3: This item gives the wearer the power of Ogre Strength, granting a +3 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +3"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +4",
+      "tooltip": "Dexterity +4: This item makes the wearer more nimble and dexterous, granting a +4 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +4"
+        }
+      ]
+    }
+  ]
+}

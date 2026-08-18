@@ -1,0 +1,152 @@
+{
+  "page_title": "Item:Death's Touch",
+  "page_id": 10967,
+  "revision_id": 690585,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:31:20.276069+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Death's Touch\n  | type                     = Sickle\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Simple\n  | minlevel                 = 18\n  | reqtrait                 = \n  | UMD DC                   = \n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = 2.60[1d7] + 5 Slash, Evil, Magic\n  | crit                     = 18-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 150\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 20,001pp\n  | weight                   = 2 lbs\n  | quest                    = The Mindsunder\n  | chest                    = Disc locked optional end chest ; <br /> Chance on every 3rd completion of [[The Mindsunder]]\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|5}}\n* {{Negative Energy Spike}}\n* {{Vampirism|Lesser}}\n* {{SpellPower|Nullification|84}}\n* {{Spelllore|Void|iv}}\n* {{Taint of Evil}}\n* {{SuppressedPower}}\n  | description              = A palpable aura of evil radiates from this malevolent weapon.\n  | crafting                 = Suppressed Power\n  | craftingupgrade          = \n  | pic                      = Death's Touch shown.jpg\n  | picdesc                  = Death's Touch.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Sickle",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +15",
+      "tooltip": "Spellcasting Implement +15: Passive: +15 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +15"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Negative Energy Spike",
+      "tooltip": "Negative Energy Spike: This weapon is pulsating with negative energy. It deals an extra 2 to 12 points of negative energy damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Energy_Spike",
+          "title": "Negative Energy Spike",
+          "text": "Negative Energy Spike"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Vampirism",
+      "tooltip": "Lesser Vampirism: This weapon drains a tiny portion of the target's life force whenever it does damage.Note: provides 1 hp of healing per hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Lesser Vampirism"
+        }
+      ]
+    },
+    {
+      "text": "Nullification +84",
+      "tooltip": "Nullification +84: Passive: +84 Equipment bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Nullification +84"
+        }
+      ]
+    },
+    {
+      "text": "Void Lore IV",
+      "tooltip": "Void Lore IV: Passive: Your Negative Energy and Poison spells gain a 14% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Void Lore IV"
+        }
+      ]
+    },
+    {
+      "text": "Taint of Evil",
+      "tooltip": "Taint of Evil: Good aligned characters equipping this item suffer a temporary negative level until the item is removed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Taint_of_Evil",
+          "title": "Taint of Evil",
+          "text": "Taint of Evil"
+        }
+      ]
+    },
+    {
+      "text": "Suppressed Power",
+      "tooltip": "Suppressed Power: This psionic item is powerful, but you sense that it has not unlocked all of its secrets to you at this time.",
+      "children": [
+        {
+          "text": "Adds Unholy Burst",
+          "tooltip": "Unholy Burst: An unholy weapon is imbued with unholy power. This power makes the weapon evil-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2 to 12 points of damage against all of good alignment and an extra 3 to 18 on a critical for weapons with a x2 critical multiplier, 4 to 24 for a x3 multiplier, and 5 to 30 for a x4 multiplier.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Unholy_Burst#Unholy_Burst",
+              "title": "Unholy Burst",
+              "text": "Unholy Burst"
+            }
+          ]
+        },
+        {
+          "text": "Adds Necromancy Focus II",
+          "tooltip": "Necromancy Focus II: +2 Equipment bonus to the DC of Necromancy spells.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Focus",
+              "title": "Spell Focus",
+              "text": "Necromancy Focus II"
+            }
+          ]
+        },
+        {
+          "text": "Becomes Bound to Character on Acquire",
+          "tooltip": null,
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bind",
+              "title": "Bind",
+              "text": "Bound to Character on Acquire"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Suppressed_Power",
+          "title": "Suppressed Power",
+          "text": "Suppressed Power"
+        }
+      ]
+    }
+  ]
+}

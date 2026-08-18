@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Epic Green Blade",
+  "page_id": 10404,
+  "revision_id": 689820,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:50:44.575090+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Green Blade\n  | damage                   = 3[1d4] + 6 Slash, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Kukri\n  | class                    = Slashing\n  | hand                     = One-handed\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Martial\n  | durability               = 240\n  | material                 = Steel\n  | hardness                 = 30\n  | minlevel                 = 20\n  | quest                    = Epic Crafting\n  | epic                     = Green Blade\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Green Blade\n  | revamped                 = Update 76\n  | revamped2                = Update 80\n  | basevalue                = 8,000 pp 8gp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtC|boa}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|i|6|20}}\n* {{Blast|Force|4}}\n* {{Spelllore|Kinetic|+16}}\n* {{SpellPower|Impulse|111}}\n* {{Spell Focus|Illusion|+6}}\n* {{Augment|red}}\n* {{Named item sets|The Epic Desert's Biting Sands}}\n  | description              = A simple knife with a curved green tinged blade and a handle of polished densewood. Holding the dagger, you feel a rush of arcane power. This is no mere dagger.\n  | pic                      = Green Blade shown.jpg\n  | picdesc                  = Epic Green Blade.png\n}}\n[[Category:Sands of Menechtarun epic items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Kukri",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +20",
+      "tooltip": "Spellcasting Implement +20: Passive: +20 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +20"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Force Blast 4",
+      "tooltip": "Force Blast 4: This weapon ripples with intense force, dealing 4d6 Force damage on a successful hit, and an additional 4d6 Force damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Force Blast 4"
+        }
+      ]
+    },
+    {
+      "text": "Kinetic Lore +16%",
+      "tooltip": "Kinetic Lore +16: Passive: Your Force, Physical and Untyped spells gain a +16% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Kinetic Lore +16%"
+        }
+      ]
+    },
+    {
+      "text": "Impulse +111",
+      "tooltip": "Impulse +111: Passive: +111 Equipment bonus to Force, Untyped, Slashing, Piercing, and Bludgeoning Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impulse",
+          "title": "Impulse",
+          "text": "Impulse +111"
+        }
+      ]
+    },
+    {
+      "text": "Illusion Focus +6",
+      "tooltip": "Illusion Focus +6: +6 Equipment bonus to the DC of Illusion spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Illusion Focus +6"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Epic Desert's Biting Sands",
+      "tooltip": "The Epic Desert's Biting Sands: 2 Pieces Equipped:+4% Artifact bonus to Force Spellcrit Chance+20 Artifact bonus to Force Spellpower+20 Artifact bonus to Magical Resistance Rating Cap",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Epic_Desert's_Biting_Sands",
+          "title": "Named item sets",
+          "text": "The Epic Desert's Biting Sands"
+        }
+      ]
+    }
+  ]
+}

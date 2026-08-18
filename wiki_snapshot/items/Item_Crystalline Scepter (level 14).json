@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Crystalline Scepter (level 14)",
+  "page_id": 34336,
+  "revision_id": 690619,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:28:41.427905+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Crystalline Scepter}}\n  | prof                     = Simple\n  | damage                   = [1d6] + 5 Bludgeon, Magic, Crystal\n  | crit                     = 20 / x2\n  | type                     = Club\n  | class                    = Bludgeoning\n  | minlevel                 = 14\n  | hand                     = One-handed\n  | damagemod                = STR \n  | attackmod                = STR\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 190\n  | material                 = Crystal \n  | hardness                 = 19\n  | released                 = Update 17\n  | quest                    = Madstone Crater\n  | chest                    = End chest (Heroic Elite)\n  | basevalue                = 5,600 pp 2 cp\n  | weight                   = 3 lbs\n  | enhancements             = \n* {{Enhancement bonus|i|5}}\n* {{SpellPower|Combustion|72}}\n* {{Spelllore|Fire|iv}}\n* {{Spell Focus|Evocation|I}}\n  | description              = This scepter must have been held by the ancient giant warlock when the draconic spell hit and annihilated the giants. The spell seems to have warped the very metal of the scepter into a crystalline form.\n  | tips                     = \n  | pic                      = Crystalline Scepter shown.jpg\n  | picdesc                  = Crystalline Scepter (Level 14).png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +15",
+      "tooltip": "Spellcasting Implement +15: Passive: +15 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +15"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Combustion +72",
+      "tooltip": "Combustion +72: Passive: +72 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +72"
+        }
+      ]
+    },
+    {
+      "text": "Fire Lore IV",
+      "tooltip": "Fire Lore IV: Passive: Your Fire spells gain a 14% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore IV"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus I",
+      "tooltip": "Evocation Focus I: +1 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus I"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

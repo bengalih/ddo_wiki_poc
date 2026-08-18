@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Blade of the Clouds",
+  "page_id": 80851,
+  "revision_id": 671119,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:11:34.231298+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Blade of the Clouds\n  | damage                   = [1d6] + 3 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Short Sword\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Piercing\n  | prof                     = Simple\n  | reqtrait                 = <!-- Leave blank if not used-->\n  | UMD DC                   = <!-- Leave blank if not used-->\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 6\n  | durability               = 115 <!-- Durability-->\n  | material                 = Steel <!-- Steel, Silver, etc-->\n  | hardness                 = 16\n  | cost                     = 2401 pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 47\n  | revamped                 = Update 76\n  | quest                    = The Promise of Fire\n  | chest                    = end chest<!-- Leave blank if not used-->\n  | end reward               = <!-- Leave blank if not used-->\n  | turn in                  = <!-- Leave blank if not used-->\n  | epic                     = no <!-- If yes, replace \"no\" with name of non-epic version-->\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Favored Weapon}}\n* {{Cloudburst}}\n* {{Electrifying|2}}\n* {{Augment|Red}}\n  | crafting                 = <!--Type of crafting-->\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | description              = Attuned to air and very light in your hands, this will likely serve you quite well in your travels.\n  | pic                      = Blade of the Clouds shown.jpg\n  | picdesc                  = Blade of the Clouds.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Short Sword",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Favored Weapon",
+      "tooltip": "Favored Weapon: This weapon has a divine attunement and gains bonuses as if it were a Favored Weapon regardless of your Deity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Favored_weapon",
+          "title": "Favored weapon",
+          "text": "Favored Weapon"
+        }
+      ]
+    },
+    {
+      "text": "Cloudburst",
+      "tooltip": "Cloudburst: On Vorpal, this weapon triggers a Cloudburst, striking its target with lightning and dealing sonic damage to surrounding enemies through a powerful thunderclap.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cloudburst_(effect)",
+          "title": "Cloudburst (effect)",
+          "text": "Cloudburst"
+        }
+      ]
+    },
+    {
+      "text": "Electrifying 2",
+      "tooltip": "Electrifying 2: This effect causes the edges of this weapon to arc with electricity, dealing 2d6 Lightning damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electrifying",
+          "title": "Electrifying",
+          "text": "Electrifying 2"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

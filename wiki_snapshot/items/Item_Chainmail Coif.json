@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Chainmail Coif",
+  "page_id": 11423,
+  "revision_id": 628931,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:20:35.921593+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Chainmail Coif\n  | minlevel                 = 11\n  | class                    = Clothing\n  | type                     = Helm\n  | slot                     = Head\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 120\n  | material                 = Steel \n  | hardness                 = 21\n  | basevalue                = 4420 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Sands of Menechtarun\n  | chest                    = [[Vorvand Darkfur]]'s chest (Rare Encounter) ; <br /> [[Masei Mkembe]] sells for 625 [[Antique Bronze Tokens]]\n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* {{SpellPower|Potency|49}}\n* {{Bonus Turning|Hallowed|6}}\n* {{Bonus Turning|Sacred|6}}\n* {{Bonus Turning|Turning}}\n* {{Augment|Green}}\n* {{Named item sets|Oasis of Morality}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Chainmail Coif\n  | description              = Fine links of flametouched iron form this magical helm.\n  | pic                      = Chainmail Coif shown.jpg\n  | picdesc                  = Chainmail Coif.png\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Potency +49",
+      "tooltip": "Potency +49: Passive: +49 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +49"
+        }
+      ]
+    },
+    {
+      "text": "Hallowed +6",
+      "tooltip": "Hallowed: An item with this quality assists only wearers who have the ability to turn undead. Hallowed items provide an +6 Enhancement bonus to the maximum Hit Dice of undead turned.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hallowed",
+          "title": "Hallowed",
+          "text": "Hallowed +6"
+        }
+      ]
+    },
+    {
+      "text": "Sacred +6",
+      "tooltip": "Sacred +6: An item with this quality assists only wearers who have the ability to turn undead. Sacred items provide an +6 Enhancement bonus to your effective level for Turning Undead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sacred",
+          "title": "Sacred",
+          "text": "Sacred +6"
+        }
+      ]
+    },
+    {
+      "text": "Turning",
+      "tooltip": "Turning : This will increase the total number of Turn Undead attempts you can use by 3. However, these additional Turn Undead attempts will only take effect after the wielder rests.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Turning",
+          "title": "Turning",
+          "text": "Turning"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Oasis of Morality",
+      "tooltip": "Oasis of Morality: 2 Pieces Equipped:+2% Artifact bonus to Positive Spellcrit Chance+10 Artifact bonus to Positive Spellpower+5% Artifact bonus to Fortification Bypass",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Oasis_of_Morality",
+          "title": "Named item sets",
+          "text": "Oasis of Morality"
+        }
+      ]
+    }
+  ]
+}

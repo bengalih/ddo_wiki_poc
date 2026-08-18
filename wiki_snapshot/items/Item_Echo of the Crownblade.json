@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Echo of the Crownblade",
+  "page_id": 108738,
+  "revision_id": 678602,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:41:31.924821+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Echo of the Crownblade\n  | minlevel                 = 13\n  | type                     = Long Sword\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = 1.60[1d8] + 5 Slash, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | durability               = 200\n  | material                 = Steel\n  | hardness                 = 23\n  | cost                     = 5,201 pp 5 gp\n  | weight                   = 4 lbs\n  | released                 = Update 69\n  | quest                    = The Zulkir's Plan\n  | chest                    = end chest\n  | rare                     = yes\n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Skills|Alluring|7|Exceptional}}\n* {{Felling the Oak}}\n* {{Coruscating|4}}\n* {{Electrifying|4}}\n* {{Blazing|8}}\n* {{Clicky|Cure Moderate Wounds|13|3|3}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = An echo of the legendary elven longsword Ruler's Blade, also known as the Crownblade. This echo broke off of the Crownblade's mind in defiance of the Blade-rite's draconian tendencies, and is open to being wielded by anyone.\n  | pic                      = Echo of the Crownblade shown.jpg\n  | picdesc                  = Echo of the Crownblade.png\n  | tips                     = If this weapon is glamered, and then a Glamered Weapon Aura is applied on it, the Glamered Weapon Aura will not display.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Alluring Skills Bonus +7",
+      "tooltip": "Exceptional Alluring Skills Bonus: +7 Exceptional bonus to Bluff, Diplomacy, Haggle, Intimidate, and Perform.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Skill",
+          "title": "Skill",
+          "text": "Exceptional Alluring Skills Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Felling the Oak",
+      "tooltip": "Felling the Oak: On a natural 20 that is confirmed as a critical hit, this weapon will trip your opponent, forcing them to fall prone. There is no save against this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Felling_the_Oak",
+          "title": "Felling the Oak",
+          "text": "Felling the Oak"
+        }
+      ]
+    },
+    {
+      "text": "Coruscating 4",
+      "tooltip": "Coruscating 4: This effect causes the edges of this weapon to coruscate, dealing 4d6 Light damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Coruscating",
+          "title": "Coruscating",
+          "text": "Coruscating 4"
+        }
+      ]
+    },
+    {
+      "text": "Electrifying 4",
+      "tooltip": "Electrifying 4: This effect causes the edges of this weapon to arc with electricity, dealing 4d6 Lightning damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electrifying",
+          "title": "Electrifying",
+          "text": "Electrifying 4"
+        }
+      ]
+    },
+    {
+      "text": "Blazing 8",
+      "tooltip": "Blazing 8: This effect causes the edges of this weapon to coruscate, dealing 8d6 Light damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blazing",
+          "title": "Blazing",
+          "text": "Blazing 8"
+        }
+      ]
+    },
+    {
+      "text": "Cure Moderate Wounds — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Cure Moderate WoundsCaster level: 13Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cure_Moderate_Wounds",
+          "title": "Cure Moderate Wounds",
+          "text": "Cure Moderate Wounds"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

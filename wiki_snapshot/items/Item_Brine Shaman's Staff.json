@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Brine Shaman's Staff",
+  "page_id": 24286,
+  "revision_id": 628794,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:16:02.842712+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Brine Shaman's Staff\n  | damage                   = [1d6] + 2 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = two-handed\n  | damagemod                = STR\n  | attackmod                = INT, CHA\n  | umd dc                   = \n  | reqtrait                 = \n  | durability               = 140 <!-- previously 120 -->\n  | material                 = Wood\n  | hardness                 = 16 <!-- previously 14 -->\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtC|BoA}}\n  | basevalue                = 2400 pp 1 cp\n  | weight                   = 4 lbs\n  | released                 = Update 14\n  | quest                    = Three-Barrel Cove (heroic)\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|2}}\n* {{SpellPower|Glaciation|48}}\n* {{SpellPower|Magnetism|48}}\n* {{Spelllore|Ice|i}}\n* {{Spelllore|Lightning|i}}\n* {{Tidal}}\n* {{Clicky|Gust of Wind|3|3|0}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This staff, made from weathered driftwood, is adorned with small shells and smells of the sea air. It has the power to summon a strong and sudden gust of wind, likely used to fill the sails of a ship. This power recharges automatically as time passes.\n  | pic                      = Twig of the Giant Mage shown.jpg<!-- same style-->\n  | picdesc                  = Brine Shaman's Staff.png\n  | tips                     = \n* The charges on this item recharge over time, not with rest.\n* The {{Item|Pirate Treasure Map}}, the 3 items from the {{Named item sets|Corsair's Cunning}} set, the 4 'Scoundrel's type' weapons and Brine Shaman's Staff have a chance of appearing in the end reward list of any of the [[Three-Barrel Cove (heroic)]] quests, except [[Guard Duty]]. Every third completion you will receive a complete list.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +6",
+      "tooltip": "Spellcasting Implement +6: Passive: +6 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +6"
+        }
+      ]
+    },
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Glaciation +48",
+      "tooltip": "Glaciation +48: Passive: +48 Equipment bonus to Cold Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Glaciation",
+          "title": "Glaciation",
+          "text": "Glaciation +48"
+        }
+      ]
+    },
+    {
+      "text": "Magnetism +48",
+      "tooltip": "Magnetism +48: Passive: +48 Equipment bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Magnetism +48"
+        }
+      ]
+    },
+    {
+      "text": "Ice Lore I",
+      "tooltip": "Ice Lore I: Passive: Your Cold spells gain a 11% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Ice Lore I"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Lore I",
+      "tooltip": "Lightning Lore I: Passive: Your Electricity spells gain a 11% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore I"
+        }
+      ]
+    },
+    {
+      "text": "Tidal",
+      "tooltip": "Tidal: This weapon is sheathed in water. A tidal weapon deals an extra 1 to 4 points of damage on a successful hit. Creatures with the Fire trait take double this damage instead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Tidal",
+          "title": "Tidal",
+          "text": "Tidal"
+        }
+      ]
+    },
+    {
+      "text": "Gust of Wind — 3 Charges (Recharged/Day:0)",
+      "tooltip": "Gust of WindCaster level: 3Charges: 3 (0/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Gust_of_Wind",
+          "title": "Gust of Wind",
+          "text": "Gust of Wind"
+        }
+      ]
+    }
+  ]
+}

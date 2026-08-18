@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Intricate Lenses",
+  "page_id": 56420,
+  "revision_id": 631572,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:24:28.774632+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Intricate Lenses\n  | minlevel                 = 15\n  | type                     = Goggles\n  | slot                     = Eye\n  | race                     = Deep Gnome\n  | bind                     = {{Bind|BTC|BoA}}\n  | durability               = 160\n  | material                 = Glass\n  | hardness                 = 20\n  | basevalue                = 6020 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|Int|6}}\n* {{Efficient Metamagic|Extend|2}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Intricate Lenses shown.jpg\n  | picdesc                  = Intricate Lenses.png\n  | food                     = no\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Glass",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Intelligence +6",
+      "tooltip": "Intelligence +6: This item focuses the power of the wearer's mind, granting a +6 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +6"
+        }
+      ]
+    },
+    {
+      "text": "Efficient Metamagic - Extend II",
+      "tooltip": "Efficient Metamagic - Extend II: The additional spell point cost for using the Extend Metamagic feat is reduced by 2 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Extend II"
+        }
+      ]
+    }
+  ]
+}

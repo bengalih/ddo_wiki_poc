@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Curative Cloak",
+  "page_id": 9587,
+  "revision_id": 629269,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:29:05.220607+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Curative Cloak\n  | type                     = Cloak\n  | class                    = Clothing\n  | basevalue                = 105 pp\n  | weight                   = 0.10 lb\n  | slot                     = Back\n  | durability               = 20\n  | material                 = Leather\n  | hardness                 = 4\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Redemption (quest)\n  | end reward               = yes \n  | mythic                   = no\n  | enhancements             = \n* {{clicky|Cure Light Wounds|1|1}} \n  | description              = This light cloak is rumored to help those in need.\n  | pic                      = Curative Cloak Shown.jpg\n  | picdesc                  = Curative Cloak.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "enchantments": [
+    {
+      "text": "Cure Light Wounds — 1 Charges (Recharged/Day:1)",
+      "tooltip": "Cure Light WoundsCaster level: 1Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cure_Light_Wounds",
+          "title": "Cure Light Wounds",
+          "text": "Cure Light Wounds"
+        }
+      ]
+    }
+  ]
+}

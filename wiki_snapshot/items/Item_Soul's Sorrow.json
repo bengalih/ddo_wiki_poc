@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Soul's Sorrow",
+  "page_id": 72891,
+  "revision_id": 634906,
+  "revision_timestamp": "2025-04-22T03:52:37Z",
+  "fetched_at": "2026-08-17T23:02:20.600579+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Soul's Sorrow\n  | damage                   = 4.80[1d10+3] +15 Slash, Chaotic, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Bastard Sword\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Exotic\n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 28\n  | durability               = 360\n  | material                 = Steel\n  | hardness                 = 38\n  | cost                     = 11,203pp 5gp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | revamped                 = Update 50\n  | released                 = Update 40\n  | quest                    = Schism Shard Crafting\n  | chest                    = \n  | end reward               = \n  | turn in                  = 5 {{Item|Schism Shard}}s and {{Item|Legendary Wave of Despair}}\n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Thorny Crown of Madness|6}}\n* {{Echoes of Angdrelve|6}}\n* {{Wounding|3}}\n* {{Slay Living|Legendary}}\n* {{Augment|Red}}\n* {{Augment|Orange}}\n  | crafting                 = Threads of Fate\n  | craftingupgrade          = \n  | description              = Chaos reigns within me.\n  | pic                      = Wave of Despair shown.jpg\n  | picdesc                  = Soul&#39;s Sorrow.png\n  | tips                     = Can be upgraded with Threads of Fate to gain:\n* Tier 1: {{Mythic|Weapon|+2}}\n* Tier 2: {{Mythic|Weapon|+2}} → {{Mythic|Weapon|+4}}\n[[C:Threads of Fate upgradable items]]\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Bastard Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Thorny Crown of Madness 6",
+      "tooltip": "Thorny Crown of Madness 6: This legendary weapon resonates with cruel and delightful madness. Strikes with this weapon have a chance to confuse your target, allowing them to harm and be harmed by friend and foe alike. Furthermore, hits with this weapon against Confused targets deal an additional 6d6 Chaos damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Thorny_Crown_of_Madness",
+          "title": "Thorny Crown of Madness",
+          "text": "Thorny Crown of Madness 6"
+        }
+      ]
+    },
+    {
+      "text": "Echoes of Angdrelve 6",
+      "tooltip": "Echoes of Angdrelve 6: Eager to taste the flesh of your enemies, this wicked sword drips burning acid at your command. Each strike from this devastating weapon deals an additional 6d6 Acid damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Echoes_of_Angdrelve",
+          "title": "Echoes of Angdrelve",
+          "text": "Echoes of Angdrelve 6"
+        }
+      ]
+    },
+    {
+      "text": "Wounding 3",
+      "tooltip": "Wounding 3: This weapon saps the health from your enemies, dealing 3 Constitution damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wounding",
+          "title": "Wounding",
+          "text": "Wounding 3"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Slay Living",
+      "tooltip": "Legendary Slay Living: On hit, this has a chance of snuffing the life from your foes, slaying them instantly. Struck enemies must make a DC 100 Fortititude save or be slain.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slay_Living_(enchantment)",
+          "title": "Slay Living (enchantment)",
+          "text": "Legendary Slay Living"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Legendary Enigma Core",
+  "page_id": 74214,
+  "revision_id": 644809,
+  "revision_timestamp": "2025-06-15T18:23:16Z",
+  "fetched_at": "2026-08-17T21:45:23.895907+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Enigma Core\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+26|m=+15|c=+6}}\n  | maxdexbonus              = None\n  | acp                      = 0\n  | asf                      = 0\n  | durability               = 340\n  | material                 = Gem\n  | hardness                 = 39\n  | minlevel                 = 29\n  | released                 = Update 42\n  | revamped                 = Update 50\n  | quest                    = Reach for the Sky\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | basevalue                = 11610pp\n  | weight                   = None\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Fortification|142}}\n* {{Sheltering|33|Enhancement|Physical}}\n* {{Spell Lore|Universal Spell|5|Exceptional}}\n* {{Spell Power|Universal|15|Exceptional}}\n* {{Augment|Green}}\n* {{Named item sets|Legendary Esoteric Initiate}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Enigma Core shown.jpg\n  | picdesc                  = Legendary Enigma Core.png\n  | description              = The inner machinations of my mind are an enigma.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +142%",
+      "tooltip": "Fortification +142%: +142% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +142%"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +33",
+      "tooltip": "Physical Sheltering +33: +33 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +33"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Universal Spell Lore +5%",
+      "tooltip": "Exceptional Universal Spell Lore: 5% Exceptional bonus to Universal Spell Lore.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Exceptional Universal Spell Lore +5%"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Universal Spell Power +15",
+      "tooltip": "Exceptional Universal Spell Power +15: Passive: +15 Exceptional bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Universal_Spell_Power",
+          "title": "Universal Spell Power",
+          "text": "Exceptional Universal Spell Power +15"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Esoteric Initiate",
+      "tooltip": "Legendary Esoteric Initiate: 3 Pieces Equipped:+25 Artifact bonus to Universal Spell Power+3 Artifact bonus to Intelligence, Wisdom, and Charisma+3 Artifact bonus to Spell DCs+30 Magical Resistance Rating Cap",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Legendary_Esoteric_Initiate",
+          "title": "Named item sets",
+          "text": "Legendary Esoteric Initiate"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

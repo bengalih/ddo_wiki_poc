@@ -1,0 +1,109 @@
+{
+  "page_title": "Item:Enduring Conviction",
+  "page_id": 10188,
+  "revision_id": 645967,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:43:25.718914+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Enduring Conviction\n  | type                     = Long Sword\n  | hand                     = One-handed \n  | class                    = Slashing\n  | prof                     = Martial\n  | minlevel                 = 14\n  | reqtrait                 = Lawful\n  | UMD DC                   = 30\n  | bind                     = {{Bind|BtC|boa}}\n  | damage                   = 1.80[1d8] + 5 Slash, Good, Lawful, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | basevalue                = 12,801pp 5gp\n  | weight                   = 1.00 lbs\n  | quest                    = Ascension Chamber\n  | chest                    = End Chest\n  | durability               = 150\n  | material                 = Steel\n  | hardness                 = 18\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Good|Greater}}\n* {{Law|Absolute}}\n* {{Bane|Evil Outsider}}\n* {{UpgradeableItem|Black Abbot}}\n  | crafting                 = Fountain of Necrotic Might\n  | craftingupgrade          = \n  | description              = The longsword of the Argent Fist of the Silver Flame. She was betrayed by the Shadow Council, but before her death bestowed much of her power into this sacred blade.\n  | pic                      = Enduring Conviction shown.png\n  | picdesc                  = Enduring Conviction.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Greater Good",
+      "tooltip": "Greater Good: This weapon is infused with the ultimate power of Good. It does an additional 2 to 12 damage to non-good targets and can only be wielded by Good-aligned characters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Greater_Good",
+          "title": "Greater Good",
+          "text": "Greater Good"
+        }
+      ]
+    },
+    {
+      "text": "Absolute Law",
+      "tooltip": "Absolute Law: This weapon is infused with the ultimate power of Law. It does an additional 2 to 12 damage to non-lawful targets and can only be wielded by Lawful-aligned characters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Absolute_Law",
+          "title": "Absolute Law",
+          "text": "Absolute Law"
+        }
+      ]
+    },
+    {
+      "text": "Evil Outsider Bane",
+      "tooltip": "Evil Outsider Bane: A bane weapon excels at attacking one type or subtype of creature. Against Evil Outsiders, this weapon's effective enhancement bonus is +2 better than its normal enhancement bonus. It deals an extra 2 to 12 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Evil Outsider Bane"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable Item (Black Abbot)",
+      "tooltip": "Upgradeable Item (Black Abbot): This item could be upgraded if you found a Seal of the Black Abbot to combine it with. Bring this item to the Fountain of Necrotic Might outside the Black Mausoleum and combine it with a Seal of the Black Abbot to upgrade the item to a more powerful form.",
+      "children": [
+        {
+          "text": "Evil Outsider Bane → Greater Evil Outsider Bane",
+          "tooltip": "Evil Outsider Bane: A bane weapon excels at attacking one type or subtype of creature. Against Evil Outsiders, this weapon's effective enhancement bonus is +2 better than its normal enhancement bonus. It deals an extra 2 to 12 points of damage against the foe.Greater Evil Outsider Bane: A bane weapon excels at attacking one type or subtype of creature. Against Evil Outsiders, this weapon's effective enhancement bonus is +4 better than its normal enhancement bonus. It deals an extra 3 to 18 points of damage against the foe.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Evil Outsider Bane"
+            },
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Greater Evil Outsider Bane"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_Item_(Black_Abbot)",
+          "title": "Upgradeable Item (Black Abbot)",
+          "text": "Upgradeable Item (Black Abbot)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

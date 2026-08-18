@@ -1,0 +1,50 @@
+{
+  "page_title": "Item:Wand of Blasting",
+  "page_id": 12325,
+  "revision_id": 635752,
+  "revision_timestamp": "2025-04-22T04:48:49Z",
+  "fetched_at": "2026-08-17T23:25:01.195458+00:00",
+  "categories": [],
+  "wikitext": "{{Non-food|WAI=true}}\n{{Named item|Eternal wand\n  | name                     = Wand of Blasting\n  | umd                      = 35\n  | noumd                    = Wiz, Sor\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | durability               = 25\n  | material                 = Wood\n  | hardness                 = 10\n  | weight                   = 0.10 lbs\n  | cost                     = 22,400 pp\n  | quest                    = Diplomatic Impunity\n  | chest                    = end chest\n  | released                 = Update 7\n  | description              = \nMany strange and powerful magical artifacts have been unearthed from the ancient Droaam ruins. This one is a wand that unpredictably casts one of many destructive spells when activated.\n  | notes                    = Suspected damage:\n* 10d6 fire, cold, acid, or electric damage (unconfirmed).\n* Deals ~70-75 damage with Wand Mastery I (+25%). Perhaps 12x(1d3+3) = average 60\n* 55-65 damage with no wand damage enhancements. 12x(1d3+3) looks about right (and is consistent with its caster level of 12)\n* Does not appear to have a saving throw\n* Charges take more time to regenerate than they do for other eternal wands.\n  | icon                     = Fireball.png\n  | spell                    = Elemental Surge\n  | casterlvl                = 12\n  | charge                   = 10\n  | crafting                 = \n  | craftingupgrade          = \n  | picdesc                  = Wand of Blasting.png\n  | enhancements             = \n* {{Clicky|Elemental Surge|12|10|10}}\n* {{SpellPower|Potency|36}}\n}}",
+  "item_template": "Non-food",
+  "material": "Wood",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Elemental Surge — 10 Charges (Recharged/Day:10)",
+      "tooltip": "Elemental SurgeCaster level: 12Charges: 10 (10/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Elemental_Surge",
+          "title": "Elemental Surge",
+          "text": "Elemental Surge"
+        }
+      ]
+    },
+    {
+      "text": "Potency +36",
+      "tooltip": "Potency +36: Passive: +36 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +36"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Delera's Vestment",
+  "page_id": 4995,
+  "revision_id": 686714,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:33:04.532996+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Delera's Vestment\n  | type                     = Robe\n  | feat                     = Cloth\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +3\n  | maxdexbonus              = None\n  | acp                      = 0\n  | asf                      = 0%\n  | durability               = 65\n  | material                 = Cloth\n  | hardness                 = 8\n  | released                 = Update 45\n  | basevalue                = 2405.5 pp\n  | weight                   = 0 lbs\n  | quest                    = The Mystery of Delera's Tomb\n  | chest                    = End chest\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{Stat|Cha|4}}\n* {{SpellPower|potency|36}}\n* {{Augment|Blue}}\n  | pic                      = Delera's Vestment shown.jpg\n  | picdesc                  = Delera's Vestment.png\n  | description              = A rich, brocade robe once worn by the great lady of Stormreach herself.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +4",
+      "tooltip": "Charisma +4: This item makes the wearer have more flair, granting a +4 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +4"
+        }
+      ]
+    },
+    {
+      "text": "Potency +36",
+      "tooltip": "Potency +36: Passive: +36 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +36"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

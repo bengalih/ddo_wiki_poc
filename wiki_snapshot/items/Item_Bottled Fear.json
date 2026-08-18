@@ -1,0 +1,31 @@
+{
+  "page_title": "Item:Bottled Fear",
+  "page_id": 19620,
+  "revision_id": 668183,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:13:48.850620+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Bottled Fear\n  | damage                   = [1] + 0 Bludgeon\n  | crit                     = 20 / x1\n  | type                     = Dart\n  | hand                     = Thrown\n  | class                    = Thrown\n  | prof                     = Simple\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 5\n  | material                 = Glass\n  | hardness                 = 5\n  | minlevel                 = 5\n  | revamped                 = Update 76\n  | quest                    = The Night Revels\n  | turn in                  = {{NightRevelsIngredient|Chocolate|60}}\n  | basevalue                = 5cp\n  | weight                   = 0.05 lbs\n  | bind                     = {{Bind|no}}\n  | mythic                   = no\n  | enhancements             = \n* AoE [[Phantasmal Killer]] CL10\n  | crafting                 = <!--Type of crafting-->\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | craftingnotes            = <!--Notes about the crafteable item-->\n  | pic                      = Bottled Fear orb.png\n  | picdesc                  = Bottled Fear.png\n  | description              = A glass flask filled with writhing vapor. When it breaks on impact, nearby enemies are subjected to a [[Phantasmal Killer]] effect. (Creates a phantasmal image of the most fearsome creature imaginable by forming the fears of the enemy's subconscious mind into something that its conscious mind can visualize. Enemies must make a Will save to disbelieve the spell and then a Fortitude save or die from fear. A successful Fortitude save still results in 3d6 damage.\n  | tips                     = {{Bug|Shows UMD Difficulty: 20 but does not actually need UMD.}}\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dart",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "AoE Phantasmal Killer CL10",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Phantasmal_Killer",
+          "title": "Phantasmal Killer",
+          "text": "Phantasmal Killer"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Ivy Wraps (level 22)",
+  "page_id": 26988,
+  "revision_id": 672367,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:25:17.534334+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Ivy Wraps}}\n  | sentience                = no\n  | damage                   = 2[1d6] + 6 Pierce, Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Handwrap\n  | hand                     = Simple\n  | class                    = Bludgeoning\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | minlevel                 = 22\n  | prof                     = Exotic\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 340\n  | material                 = Leather\n  | hardness                 = 37\n  | basevalue                = 8,803pp\n  | weight                   = 0.50 lbs\n  | released                 = Update 15\n  | revamped                 = Update 76\n  | quest                    = The Druid's Curse\n  | chest                    = [[Aghilde]] the Bog Hag chest (Epic Normal)\n  | enhancements             = \n* {{Spiked}}\n* {{Enhancement bonus|w|6}}\n* {{Hemorrhaging}}\n* {{Vampirism|Lesser}}\n* {{Toxic}}\n  | description              = These handwraps are made of heavy strips of leather for padding, with vicious, thorned vines wrapped and knotted around them. The vines seem to brighten at the taste of blood.\n  | pic                      = Handwraps Generic.png\n  | picdesc                  = Ivy Wraps (Level 22).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Handwrap",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 22,
+  "enchantments": [
+    {
+      "text": "Spiked",
+      "tooltip": "Spiked: This weapon is studded with vicious spikes, causing it to deal piercing damage in addition to its normal damage types.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spiked",
+          "title": "Spiked",
+          "text": "Spiked"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Hemorrhaging",
+      "tooltip": "Hemorrhaging: This weapon is viciously sharp and will do an additional 2 to 16 damage to targets that are vulnerable to bleeding.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleed#Hemorrhaging",
+          "title": "Bleed",
+          "text": "Hemorrhaging"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Vampirism",
+      "tooltip": "Lesser Vampirism: This weapon drains a tiny portion of the target's life force whenever it does damage.Note: provides 1 hp of healing per hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Lesser Vampirism"
+        }
+      ]
+    },
+    {
+      "text": "Toxic",
+      "tooltip": "Toxic: This weapon oozes with magical poisons from a dozen esoteric sources. Occasionally, these toxins will erupt on your target, unleashing a vile fog that will dissolve your foes with acid, and will additionally deal constitution damage to enemies whom are not immune to poison. Weak foes may be killed outright by this Toxic Cloud.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Toxic",
+          "title": "Toxic",
+          "text": "Toxic"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Bow of the Silver Flame",
+  "page_id": 20961,
+  "revision_id": 628710,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:14:09.042409+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Bow of the Silver Flame\n  | type                     = Long Bow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | prof                     = Martial\n  | minlevel                 = 16\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = 2.20[1d8] + 5 Pierce, Bludgeon, Good, Silver, Magic\n  | crit                     = 20 / x3\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | durability               = 240\n  | material                 = Wood\n  | hardness                 = 19\n  | basevalue                = 6443.5pp\n  | weight                   = 3 lbs\n  | released                 = Update 13\n  | quest                    = Servants of the Overlord\n  | chest                    = Drow Ritual chest\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{mat|Silver}}, Alchemical\n* {{Burst|Holy|4|9}}\n* {{Bane|Undead|4}}\n* {{Weaken Undead|weapon}}\n* {{Blunted Ammunition}}\n  | description              = When Templars of the Silver Flame requested a powerful bow for use against the undead, the Bow of the Silver Flame was the answer. It blunts the ammunition used with it such that even skeletons will crumble beneath its assault.\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Bow of the Silver Flame\n  | pic                      = Bow of the Silver Flame shown.jpg\n  | picdesc                  = Bow of the Silver Flame.png\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Silver , Alchemical",
+      "tooltip": "Silver: A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as devils and vampires. Silver weapons have 2 points lower hardness then equivalent steel weapons, and as such aren't quite as durable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Silver",
+          "title": "Silver",
+          "text": "Silver"
+        }
+      ]
+    },
+    {
+      "text": "Holy Burst 4",
+      "tooltip": "Holy Burst 4: This weapon sings of virtue, dealing 4d6 Good damage on a successful hit to Evil enemies, and 9d6 Good damage on a critical hit to Evil enemies. This effect makes the weapon good aligned.Evil characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Holy_Burst#Holy_Burst",
+          "title": "Holy Burst",
+          "text": "Holy Burst 4"
+        }
+      ]
+    },
+    {
+      "text": "Undead Bane 4",
+      "tooltip": "Undead Bane 4: Those that have died must return, and this weapon is attuned specifically to lay them to rest. This weapon deals an additional 4d10 bane damage vs. Undead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Undead Bane 4"
+        }
+      ]
+    },
+    {
+      "text": "Weaken Undead",
+      "tooltip": "Weaken Undead: Undead creatures struck by this weapon find themselves more vulnerable. Each time this weapon deals damage to an undead creature, the target loses 20% of its Fortification for the next 20 seconds. This effect does not stack with itself.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Weaken_Undead",
+          "title": "Weaken Undead",
+          "text": "Weaken Undead"
+        }
+      ]
+    },
+    {
+      "text": "Blunted Ammunition",
+      "tooltip": "Blunted Ammunition: The ammunition fired by this weapon deals blunt damage in addition to its other damage types.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blunted_Ammunition",
+          "title": "Blunted Ammunition",
+          "text": "Blunted Ammunition"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

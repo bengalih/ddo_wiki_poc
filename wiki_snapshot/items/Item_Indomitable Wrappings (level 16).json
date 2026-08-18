@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Indomitable Wrappings (level 16)",
+  "page_id": 65991,
+  "revision_id": 631540,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:23:38.885531+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Indomitable Wrappings}}\n  | type                     = Belt\n  | basevalue                = 6,401 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 260\n  | material                 = Leather\n  | hardness                 = 21\n  | minlevel                 = 16\n  | bind                     = {{Bind|BtA|boa}}\n  | released                 = Update 36\n  | quest                    = Mimic Hunt\n  | turn in                  = 80 {{Item|Mimic Token}}s\n  | mythic                   = no\n  | enhancements             = \n* {{Hp|False Life|30}}\n* {{Hp|False Life|14|Insightful}}\n* {{Hp|False Life|7|Quality}}\n* {{HealingAmp|32|h|Competence}}\n* {{Augment|Yellow}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = The best offense is a great defense.\n  | pic                      = Belt Generic Faith.png\n  | picdesc                  = Indomitable Wrappings (Level 16).png\n  | tips                     = Turn in 80 {{Item|Mimic Token}}s at [[Glynereth]].\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "False Life +30",
+      "tooltip": "False Life +30: +30 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +30"
+        }
+      ]
+    },
+    {
+      "text": "Insightful False Life +14",
+      "tooltip": "Insightful False Life +14: +14 Insight bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "Insightful False Life +14"
+        }
+      ]
+    },
+    {
+      "text": "Quality False Life +7",
+      "tooltip": "Quality False Life +7: +7 Quality bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "Quality False Life +7"
+        }
+      ]
+    },
+    {
+      "text": "Competence Healing Amplification +32",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +32 (Competence bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Competence Healing Amplification +32"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

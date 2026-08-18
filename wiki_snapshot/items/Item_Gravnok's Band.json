@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Gravnok's Band",
+  "page_id": 10045,
+  "revision_id": 631210,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:14:33.604458+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Gravnok's Band\n  | minlevel                 = 2\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|No}}\n  | durability               = 40\n  | material                 = Gold\n  | hardness                 = 4\n  | basevalue                = 420pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = The Captives\n  | chest                    = [[Gravnok]]'s Chest (End Chest)\n  | mythic                   = no\n  | enhancements             = \n* {{Elemental Resistance|Fire|3}}\n* {{Resistance|2}}\n* {{Elemental Resistance|Cold|3}}\n  | description              = This grime incrusted ring has a series of faint etchings that are worn from use.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Item Gravnok's Band.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "Fire Resistance +3",
+      "tooltip": "Fire Resistance +3: Passive: +3 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +3"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +2",
+      "tooltip": "Resistance +2: Passive: +2 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +2"
+        }
+      ]
+    },
+    {
+      "text": "Cold Resistance +3",
+      "tooltip": "Cold Resistance +3: Passive: +3 Enhancement bonus to your Cold Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Resistance",
+          "title": "Cold Resistance",
+          "text": "Cold Resistance +3"
+        }
+      ]
+    }
+  ]
+}

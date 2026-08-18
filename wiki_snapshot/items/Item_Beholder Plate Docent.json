@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Beholder Plate Docent",
+  "page_id": 14533,
+  "revision_id": 628510,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:09:56.457780+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Beholder Plate Docent\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+16|m=+7|c=+2}}\n  | durability               = 130\n  | material                 = Gem\n  | hardness                 = 18\n  | minlevel                 = 14\n  | basevalue                = 6410pp\n  | weight                   = \n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 9\n  | quest                    = The Lord of Eyes\n  | chest                    = Opuloxx chest;<br />[[Harbinger of Madness]], Quest chain end reward\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Antimagic Spike}}\n* {{Guard|Telekinesis}}\n* {{CraftingEffects|Trace of Madness}}\n* {{Metal Fatigue}}\n  | crafting                 = Altar of Insanity\n  | craftingupgrade          = \n  | pic                      = Beholder Plate Docent shown.jpg\n  | picdesc                  = Beholder Plate Docent.png\n  | description              = Some beholders of Xoriat are fitted with resilient metal plates to bolster their weak physical defenses. Metal from those same plates was used in crafting this docent, granting it wondrous Antimagic properties.\n  | notes                    = You can remove the [[Metal Fatigue]] penalty with a [[Sustaining Symbiont]].\n}}\n[[Category:Docents]]\n[[{{#switch:14|0 = Category:Docents with no minimum level|#default = Category:Minimum level 14 docents}}]]\n[[Category:Harbinger of Madness reward items]]",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Antimagic Spike",
+      "tooltip": "Antimagic Spike : This item was made from powerful antimagic materials. When scoring a critical hit on an enemy with your ranged or melee weapons, the target must make a DC 28 Fortitude save or be unable to cast spells for a brief duration.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Antimagic_Spike",
+          "title": "Antimagic Spike",
+          "text": "Antimagic Spike"
+        }
+      ]
+    },
+    {
+      "text": "Telekinesis Guard",
+      "tooltip": "Telekinesis Guard: When enemies hit you, they may be assaulted by these psychic forces, falling to the ground unless they make a DC 35 Reflex save.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Telekinesis_Guard",
+          "title": "Telekinesis Guard",
+          "text": "Telekinesis Guard"
+        }
+      ]
+    },
+    {
+      "text": "Trace of Madness",
+      "tooltip": "Trace of Madness: You can almost hear faint, panicked voices when this item is close to you. Perhaps the latent power of this item's hint of madness could be brought out by some catalyst.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Trace_of_Madness",
+          "title": "Trace of Madness",
+          "text": "Trace of Madness"
+        }
+      ]
+    },
+    {
+      "text": "Metal Fatigue",
+      "tooltip": "Metal Fatigue: The metal plates of this armor sometimes tire you out. When you are damaged there is a small chance that you will become Exhausted.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Metal_Fatigue",
+          "title": "Metal Fatigue",
+          "text": "Metal Fatigue"
+        }
+      ]
+    }
+  ]
+}

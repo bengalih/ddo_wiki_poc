@@ -1,0 +1,200 @@
+{
+  "page_title": "Item:Libram of Silver Magic",
+  "page_id": 44053,
+  "revision_id": 633225,
+  "revision_timestamp": "2025-04-22T01:59:30Z",
+  "fetched_at": "2026-08-17T05:40:48.275404+00:00",
+  "categories": [],
+  "proficiency_class": "Magical Training",
+  "material": "Gem",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "+8 Orb Bonus",
+      "tooltip": "+8 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +8 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+8 Orb Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Potency +10",
+      "tooltip": "Insightful Potency +10: Passive: +10 Insight bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Insightful Potency +10"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Spell Lore I",
+      "tooltip": "Insightful Spell Lore I: Passive: All of your spells gain a 1% Insight bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Insightful Spell Lore I"
+        }
+      ]
+    },
+    {
+      "text": "Intelligence +10",
+      "tooltip": "Intelligence +10: This item focuses the power of the wearer's mind, granting a +10 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +10"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +10",
+      "tooltip": "Charisma +10: This item makes the wearer have more flair, granting a +10 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +10"
+        }
+      ]
+    },
+    {
+      "text": "Spellcraft +20",
+      "tooltip": "Spellcraft +20: Passive: +20 Competence bonus to the Spellcraft skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcraft",
+          "title": "Spellcraft",
+          "text": "Spellcraft +20"
+        }
+      ]
+    },
+    {
+      "text": "Zhentarim Attuned",
+      "tooltip": "Zhentarim Attuned: This item has been attuned by the the Zhentarim mage, Whisper. It can be upgraded with Zhentarim Black Stones.",
+      "children": [
+        {
+          "text": "+8 Orb Bonus → +11 Orb Bonus",
+          "tooltip": "+8 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +8 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.+11 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +11 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+8 Orb Bonus"
+            },
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+11 Orb Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Insightful Spell Lore I → Insightful Spell Lore II",
+          "tooltip": "Insightful Spell Lore I: Passive: All of your spells gain a 1% Insight bonus to their chance to critical hit.Insightful Spell Lore II: Passive: All of your spells gain a 2% Insight bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Insightful Spell Lore I"
+            },
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Insightful Spell Lore II"
+            }
+          ]
+        },
+        {
+          "text": "Intelligence +10 → Intelligence +11",
+          "tooltip": "Intelligence +10: This item focuses the power of the wearer's mind, granting a +10 Enhancement bonus to Intelligence. Intelligence +11: This item focuses the power of the wearer's mind, granting a +11 Enhancement bonus to Intelligence.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Intelligence",
+              "title": "Intelligence",
+              "text": "Intelligence +10"
+            },
+            {
+              "target": "/page/Intelligence",
+              "title": "Intelligence",
+              "text": "Intelligence +11"
+            }
+          ]
+        },
+        {
+          "text": "Charisma +10 → Charisma +11",
+          "tooltip": "Charisma +10: This item makes the wearer have more flair, granting a +10 Enhancement bonus to Charisma. Charisma +11: This item makes the wearer have more flair, granting a +11 Enhancement bonus to Charisma.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Charisma",
+              "title": "Charisma",
+              "text": "Charisma +10"
+            },
+            {
+              "target": "/page/Charisma",
+              "title": "Charisma",
+              "text": "Charisma +11"
+            }
+          ]
+        },
+        {
+          "text": "Adds Orange Augment Slot",
+          "tooltip": "Orange, Red, Yellow, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Orange Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Zhentarim_Attuned",
+          "title": "Zhentarim Attuned",
+          "text": "Zhentarim Attuned"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ],
+  "item_class": "Shield",
+  "item_template": ""
+}

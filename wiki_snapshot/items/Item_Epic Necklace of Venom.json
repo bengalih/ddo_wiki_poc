@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Epic Necklace of Venom",
+  "page_id": 11969,
+  "revision_id": 630256,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:52:44.761551+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Epic Necklace of Venom\n  | minlevel                 = 20\n  | type                     = Necklace\n  | slot                     = Neck\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 210\n  | material                 = Steel\n  | hardness                 = 30\n  | basevalue                = 8,005pp\n  | weight                   = 0.10 lbs\n  | quest                    = Altar of Epic Rituals\n  | chest                    = {{Item|Necklace of Venom}}\n  | released                 = Update 6\n  | epic                     = Necklace of Venom\n  | mythic                   = no\n  | enhancements             = \n* {{Proof|Poison|8}}\n* {{Hp|False Life|36}}\n* {{ProtectionBonus|8}}\n* {{Assassinate|5|insightful}}\n* {{Augment|green}}\n* {{Augment|colorless}}\n* {{Named item sets|Epic Vulkoor's Cunning}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Necklace of Venom\n  | description              = Drow assassins say this necklace is infused with [[Vulkoor]]'s subtle poisons. Wearing it will make one's attack deft and lethal.\n  | pic                      = Necklace Generic Green.png\n  | picdesc                  = Epic Necklace of Venom.png\n  | tips                     = \n}}\n[[Category:The Red Fens epic items]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Proof Against Poison +8",
+      "tooltip": "Proof Against Poison +8: This item grants its wearer immunity to natural poisons. This item also grants a +8 Enhancement bonus to saving throws against magical poisons, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical poisons with a DC of less than 9 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Poison",
+          "title": "Proof Against Poison",
+          "text": "Proof Against Poison +8"
+        }
+      ]
+    },
+    {
+      "text": "False Life +36",
+      "tooltip": "False Life +36: +36 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +36"
+        }
+      ]
+    },
+    {
+      "text": "Protection +8",
+      "tooltip": "Protection +8: Passive: +8 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +8"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Assassinate +5",
+      "tooltip": "Insightful Assassinate +5: +5 Insight bonus to the DC of character's Assassinate attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Assassinate",
+          "title": "Assassinate",
+          "text": "Insightful Assassinate +5"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Epic Vulkoor's Cunning",
+      "tooltip": "Epic Vulkoor's Cunning: 2 Pieces Equipped:-20% Artifact bonus to Melee Threat Reduction+10 Artifact bonus to Melee and Ranged PowerYou gain On Vorpal: You apply a Vulkoorim Constitution Poison",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Epic_Vulkoor's_Cunning",
+          "title": "Named item sets",
+          "text": "Epic Vulkoor's Cunning"
+        }
+      ]
+    }
+  ]
+}

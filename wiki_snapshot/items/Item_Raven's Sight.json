@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Raven's Sight",
+  "page_id": 12006,
+  "revision_id": 634136,
+  "revision_timestamp": "2025-04-22T03:01:40Z",
+  "fetched_at": "2026-08-17T22:42:36.445898+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Raven's Sight\n  | type                     = Goggles\n  | basevalue                = 1,605pp\n  | weight                   = 0.10 lbs\n  | slot                     = Eye\n  | revamped                 = Update 59\n  | released                 = Update 6\n  | quest                    = The Last Stand\n  | durability               = 50\n  | material                 = Steel\n  | hardness                 = 14\n  | minlevel                 = 7\n  | bind                     = {{Bind|BtA|BoA}}\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Named item sets|Raven's Eye}}\n* {{Stat|WIS|5}}\n* {{Save|r|5}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Raven's Sight\n  | description              = Goggles like these make the wearer's vision much sharper and are often employed by drow scouts and spies.\n  | pic                      = Goggles of Shielding shown.jpg <!--Identical Style-->\n  | picdesc                  = Raven's Sight.png\n  | tips                     = Old versions had {{Stat|WIS|2}} and {{Save|r|4}}. They don't retroactive change but have to be reacquired. \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Raven's Eye",
+      "tooltip": "Raven's Eye: 2 Pieces Equipped:+3 Artifact bonus to Attack and Damage+3 Artifact bonus to Search and Spot",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Raven's_Eye",
+          "title": "Named item sets",
+          "text": "Raven's Eye"
+        }
+      ]
+    },
+    {
+      "text": "Wisdom +5",
+      "tooltip": "Wisdom +5: This item makes the wearer more in tune with her surroundings, granting a +5 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +5"
+        }
+      ]
+    },
+    {
+      "text": "Reflex Save +5",
+      "tooltip": "Reflex Save +5: This item gives a +5 Resistance bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save +5"
+        }
+      ]
+    }
+  ]
+}

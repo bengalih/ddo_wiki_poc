@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Guardian's Cloak (level 19)",
+  "page_id": 40716,
+  "revision_id": 649918,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:17:39.356930+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Guardian's Cloak\n  | type                     = Cloak\n  | class                    = Clothing\n  | basevalue                = 7,620pp\n  | weight                   = 0.10 lbs\n  | slot                     = Back\n  | durability               = 110\n  | material                 = Cloth\n  | hardness                 = 20\n  | minlevel                 = 19\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 19\n  | quest                    = The Tracker's Trap\n  | end reward               = yes\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Axeblock|V}}\n* {{Spearblock|V}}\n  | crafting                 = \n  | description              = \n  | pic                      = Guardian's Cloak Shown.jpg\n  | picdesc                  = Guardian's Cloak (Level 19).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 19,
+  "enchantments": [
+    {
+      "text": "Axeblock V",
+      "tooltip": "Axeblock V: Passive: Reduces physical damage taken by 10, except from Bludgeoning or Piercing weapons. (Damage Reduction: 10/Pierce, Bludgeon)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Axeblock",
+          "title": "Axeblock",
+          "text": "Axeblock V"
+        }
+      ]
+    },
+    {
+      "text": "Spearblock V",
+      "tooltip": "Spearblock V: Passive: Reduces physical damage taken by 10, except from Bludgeoning or Slashing weapons. (Damage Reduction: 10/Slash, Bludgeon)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spearblock",
+          "title": "Spearblock",
+          "text": "Spearblock V"
+        }
+      ]
+    }
+  ]
+}

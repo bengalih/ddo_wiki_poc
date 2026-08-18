@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Scoundrel's Feathered Hat",
+  "page_id": 83162,
+  "revision_id": 634523,
+  "revision_timestamp": "2025-04-22T03:27:09Z",
+  "fetched_at": "2026-08-17T22:52:39.216803+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Scoundrel's Feathered Hat\n  | type                     = Helm\n  | race                     = Tiefling Scoundrel\n  | slot                     = Head\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6010 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BTC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | epic                     = no\n  | food                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Sheltering|15|Enhancement|Magical}}\n* {{HealingAmp|20|h|Exceptional}} \n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This fanciful hat sits delicately atop your horns. Somehow, the feather wasn't damaged in the brawl.\n  | pic                      = Scoundrel's Feathered Hat shown.jpg\n  | picdesc                  = Scoundrel's Feathered Hat.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Magical Sheltering +15",
+      "tooltip": "Magical Sheltering +15: +15 Enhancement bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Magical Sheltering +15"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Healing Amplification +20",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +20 (Exceptional bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Exceptional Healing Amplification +20"
+        }
+      ]
+    }
+  ]
+}

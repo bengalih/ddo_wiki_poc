@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Flicker of the Crescent Moon",
+  "page_id": 73965,
+  "revision_id": 672925,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:07:21.391802+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Flicker of the Crescent Moon\n  | damage                   = 2[1d6] + 5 Slash, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Sickle\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Slashing\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 15\n  | durability               = 200\n  | material                 = Steel\n  | hardness                 = 25\n  | cost                     = 6,000pp 6gp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 42\n  | revamped                 = Update 76\n  | quest                    = Blown Deadline\n  | chest                    = end chest\n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Chilling|4}}\n* {{Bleeding|4}}\n* {{Keen|I}}\n* {{Deception|3|Insightful}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = The Shining Crescent will reflect all else.\n  | pic                      = Flicker of the Crescent Moon shown.jpg\n  | picdesc                  = Flicker of the Crescent Moon.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Sickle",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Chilling 4",
+      "tooltip": "Chilling 4: This effect causes the edges of this weapon to become frozen to the touch, dealing 4d6 Ice damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Chilling",
+          "title": "Chilling",
+          "text": "Chilling 4"
+        }
+      ]
+    },
+    {
+      "text": "Bleeding 4",
+      "tooltip": "Bleeding 4: This weapon is wickedly curved, with spines and hooks meant to cause damage to those with flesh. This weapon does 4d8 bleeding damage to those that are vulnerable to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleeding",
+          "title": "Bleeding",
+          "text": "Bleeding 4"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Deception +3",
+      "tooltip": "Insightful Deception +3: +3 Insight bonus to hit and +5 to damage for any hit that would qualify as a sneak attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Insightful Deception +3"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

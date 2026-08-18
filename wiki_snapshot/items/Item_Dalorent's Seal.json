@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Dalorent's Seal",
+  "page_id": 12919,
+  "revision_id": 629302,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:29:50.550963+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Large\n  | prof                     = General\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 10\n  | bind                     = {{Bind|BtC|BoE}}\n  | sb                       = +8\n  | maxdexbonus              = \n  | dr                       = 8\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = [1d6] + 4\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | durability               = 175\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 4,002 pp\n  | weight                   = 15 lbs\n  | quest                    = Necropolis\n  | turn in                  = {{Item|Eerie Scarab Powder}} to [[Squire Rale]]\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|4}}\n* {{Bonus Turning|Sacred}}\n* {{SpellPower|Devotion|60}}\n* {{SpellPower|Radiance|60}}\n* {{Bonus Turning|Lesser Turning}}\n* {{Augment|Purple}}\n  | description              = This heavy shield has been given to those that have assisted the Silver Flame in a grave task. This item was once given to Jackson Dalorent for defending a temple versus a vicious undead attack.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Aegis of Flame shown.jpg\n  | picdesc                  = Dalorent's Seal.png\n  | tips                     = \n}}\n[[Category:Necropolis_Scarab_collectable]]",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Steel",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +12",
+      "tooltip": "Spellcasting Implement +12: Passive: +12 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +12"
+        }
+      ]
+    },
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Sacred",
+      "tooltip": "Sacred: An item with this quality assists only wearers who have the ability to turn undead. Sacred items provide an +2 Enhancement bonus to your effective level for Turning Undead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sacred",
+          "title": "Sacred",
+          "text": "Sacred"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +60",
+      "tooltip": "Devotion +60: Passive: +60 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +60"
+        }
+      ]
+    },
+    {
+      "text": "Radiance +60",
+      "tooltip": "Radiance +60: Passive: +60 Equipment bonus to Light and Alignment Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiance_(spell_boost)",
+          "title": "Radiance (spell boost)",
+          "text": "Radiance +60"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Turning",
+      "tooltip": "Lesser Turning: Increases total number of Turn Undead uses by 2, once wielder rests. If you unequip the item you will lose these turns.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lesser_Turning",
+          "title": "Lesser Turning",
+          "text": "Lesser Turning"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

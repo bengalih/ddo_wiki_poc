@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Robe of Arcane Puissance",
+  "page_id": 8663,
+  "revision_id": 686687,
+  "revision_timestamp": "2026-05-27T17:37:59Z",
+  "fetched_at": "2026-08-17T22:47:19.868803+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Robe of Arcane Puissance\n  | type                     = Robe\n  | feat                     = Cloth\n  | ac                       = +6\n  | minlevel                 = 8\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 85\n  | material                 = Cloth\n  | hardness                 = 10\n  | basevalue                = 3,205 pp 5 gp\n  | weight                   = 0 lbs\n  | quest                    = Tempest's Spine\n  | chest                    = end chest\n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|6}}\n* {{SpellPower|Potency|40}}\n* {{Spelllore|Spell|iii}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n  | pic                      = Robe of Arcane Puissance shown.jpg\n  | picdesc                  = Robe of Arcane Puissance.png\n  | description              = Enchanted long ago by Mereppi Tinkerspell, a legendary gnomish mage of ages past, these enchanted robes pulse with magical energy, greatly aiding any spellcaster in the practice of their craft.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +6",
+      "tooltip": "Armor Bonus +6: This item surrounds the wearer with an invisible but tangible field of force, granting +6 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +6"
+        }
+      ]
+    },
+    {
+      "text": "Potency +40",
+      "tooltip": "Potency +40: Passive: +40 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +40"
+        }
+      ]
+    },
+    {
+      "text": "Spell Lore III",
+      "tooltip": "Spell Lore III: Passive: All of your spells gain a 3% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Spell Lore III"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

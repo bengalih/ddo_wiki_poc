@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Cloak of Victory",
+  "page_id": 98770,
+  "revision_id": 629039,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:23:13.787047+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Cloak of Victory\n  | minlevel                 = 16\n  | type                     = Cloak\n  | slot                     = Back\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 260\n  | material                 = Cloth\n  | hardness                 = 36\n  | cost                     = 6,401 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 57\n  | quest                    = Three Paths to Battle\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Heroism}}\n* {{Stat|Charisma|8}}\n* {{Tactics|Combat Mastery|6}}\n* {{HealingAmp|32|H|Competence}}\n* {{Immunity|Fear}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | description              = This fine cloak fills you with the spirit of battle.\n  | pic                      = Cloak of Victory shown.jpg\n  | picdesc                  = Cloak of Victory.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Heroism",
+      "tooltip": "Heroism: Passive: +2 morale bonus to all your attack rolls, saving throws, and skill checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heroism_(enchantment)",
+          "title": "Heroism (enchantment)",
+          "text": "Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +8",
+      "tooltip": "Charisma +8: This item makes the wearer have more flair, granting a +8 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +8"
+        }
+      ]
+    },
+    {
+      "text": "Combat Mastery +6",
+      "tooltip": "Combat Mastery +6: +6 Enhancement bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combat_Mastery",
+          "title": "Combat Mastery",
+          "text": "Combat Mastery +6"
+        }
+      ]
+    },
+    {
+      "text": "Competence Healing Amplification +32",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +32 (Competence bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Competence Healing Amplification +32"
+        }
+      ]
+    },
+    {
+      "text": "Immunity to Fear",
+      "tooltip": "Immunity to Fear: The wearer of this item is immune to all fear effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Immunity_to_Fear",
+          "title": "Immunity to Fear",
+          "text": "Immunity to Fear"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

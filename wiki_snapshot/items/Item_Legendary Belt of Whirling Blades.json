@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Legendary Belt of Whirling Blades",
+  "page_id": 98767,
+  "revision_id": 631813,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:31:24.871693+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Legendary Belt of Whirling Blades\n  | minlevel                 = 31\n  | type                     = Belt\n  | slot                     = Waist\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 410\n  | material                 = Steel\n  | hardness                 = 51\n  | cost                     = 12,401 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 57\n  | quest                    = Three Paths to Battle\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Tactics|Tendon Slice|11}}\n* {{Doublestrike|15}}\n* {{Deception|11}}\n* {{Tactics|Combat Mastery|6|Insightful}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n  | crafting                 = \n  | description              = This belt is patterned with the swirling, evil blades of Shavarath.\n  | pic                      = \n  | picdesc                  = Legendary Belt of Whirling Blades.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 31,
+  "enchantments": [
+    {
+      "text": "Tendon Slice +11",
+      "tooltip": "Tendon Slice +11: On Hit: 6% chance to slow target's movement by 50% for 11 seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Tendon_Slice",
+          "title": "Tendon Slice",
+          "text": "Tendon Slice +11"
+        }
+      ]
+    },
+    {
+      "text": "Doublestrike 15%",
+      "tooltip": "Doublestrike 15%: Passive: 15% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 15%"
+        }
+      ]
+    },
+    {
+      "text": "Deception +11",
+      "tooltip": "Deception +11: +11 Enhancement bonus to hit and +17 to damage for any hit that would qualify as a sneak attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Deception +11"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Combat Mastery +6",
+      "tooltip": "Insightful Combat Mastery +6: +6 Insight bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combat_Mastery",
+          "title": "Combat Mastery",
+          "text": "Insightful Combat Mastery +6"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Belt Boost +1 or +3",
+      "tooltip": "Mythic Belt Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Belt Boost"
+        }
+      ]
+    }
+  ]
+}

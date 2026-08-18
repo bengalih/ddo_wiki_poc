@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Legendary Phasecloak",
+  "page_id": 66418,
+  "revision_id": 690665,
+  "revision_timestamp": "2026-06-30T16:43:24Z",
+  "fetched_at": "2026-08-17T22:01:59.154605+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Legendary Phasecloak\n  | type                     = Cloak\n  | slot                     = Back\n  | durability               = 390\n  | material                 = Steel\n  | weight                   = 0.10 lbs\n  | basevalue                = 11601 pp\n  | hardness                 = 49\n  | minlevel                 = 29\n  | bind                     = {{Bind|BtA|BoA}}\n  | revamped                 = Update 50\n  | released                 = Update 37\n  | revamped2                = Update 80\n  | quest                    = A Raven at the Door\n  | chest                    = End chest, Rescue Yesper From The Dungeons optional chest\n  | crafting                 = \n  | enhancements             = \n* {{Stat|INT|13}}\n* {{Spell Focus|Evocation|7}}\n* {{Stat|INT|3|Quality}}\n* {{Wizardry|269}}\n* {{Augment|yellow}}\n* {{Named item sets|Adherent of the Mists Set (Legendary)}}\n  | description              = This cloak is emblazoned with an indecipherable symbol. Examining it more closesly, it looks like the symbol is written in blood...\n  | tips                     = \n  | pic                      = Phasecloak shown.jpg\n  | picdesc                  = Legendary Phasecloak.png\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Intelligence +13",
+      "tooltip": "Intelligence +13: This item focuses the power of the wearer's mind, granting a +13 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +13"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus +7",
+      "tooltip": "Evocation Focus +7: +7 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus +7"
+        }
+      ]
+    },
+    {
+      "text": "Quality Intelligence +3",
+      "tooltip": "Quality Intelligence +3: This item focuses the power of the wearer's mind, granting a +3 Quality bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Quality Intelligence +3"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry +269",
+      "tooltip": "Wizardry +269: +269 Enhancement bonus to spell points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry +269"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Adherent of the Mists Set (Legendary)",
+      "tooltip": "Adherent of the Mists Set (Legendary): 5 Pieces Equipped:+30 Profane bonus to Physical Resistance Rating+30 Profane bonus to Positive, Negative, and Repair Amplification+15 Profane bonus to Melee and Ranged Power+15 Profane bonus to Universal Spell Power",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Adherent_of_the_Mists_Set_(Legendary)",
+          "title": "Named item sets",
+          "text": "Adherent of the Mists Set (Legendary)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

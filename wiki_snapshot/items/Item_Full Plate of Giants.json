@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Full Plate of Giants",
+  "page_id": 8106,
+  "revision_id": 631015,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:09:01.825473+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Full Plate of Giants\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | minlevel                 = 8\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +18\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 184\n  | material                 = Steel\n  | hardness                 = 19\n  | basevalue                = 3,350 pp\n  | weight                   = 50 lbs\n  | quest                    = Tempest's Spine\n  | chest                    = End Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{DR|5}}\n* {{Augment|Blue}}\n  | pic                      = Full Plate of Giants shown.jpg\n  | picdesc                  = Full Plate of Giants.png\n  | description              = Fullplate armor created on the giant forges of old.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "DR 5/-",
+      "tooltip": "Damage Reduction 5/-: Reduces all physical damage by 5.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

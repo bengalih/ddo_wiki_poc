@@ -1,0 +1,82 @@
+{
+  "page_title": "Item:Tinker's Gloves",
+  "page_id": 17885,
+  "revision_id": 635548,
+  "revision_timestamp": "2025-04-22T04:35:13Z",
+  "fetched_at": "2026-08-17T23:19:34.216569+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Tinker's Gloves\n  | minlevel                 = 18\n  | type                     = Gloves\n  | slot                     = Hand\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 110\n  | material                 = Leather\n  | hardness                 = 16\n  | basevalue                = 10,005pp\n  | weight                   = 0.10 lbs\n  | quest                    = Schemes of the Enemy\n  | chest                    = [[Whitefang]]'s chest, some End chests ; [[House Cannith Manufactury]], [[Stellite]]'s chest (Rare Encounter).\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|DEX|6}}\n* {{Seeker|2|Insightful}}\n* {{Skills|ol|10}}\n* {{Skills|ol|5|enh|prefix=Enhanced}}\n* {{Nearly Finished}}\n  | crafting                 = Nearly Finished\n  | craftingupgrade          = \n  | description              = Gloves worn by House Cannith tinkers to grant them greater dexterity and aid them in working with complex devices.\n  | pic                      = Gloves Generic Titans.png\n  | picdesc                  = Tinker's Gloves.png\n  | tips                     = Upgrade:\n<table border=\"0\" align=\"center\">\n<tr><td align=\"center\">{{Popup|[[File:1_Tinker's_Gloves.jpg|link=]]| Tinker's Gloves}} + {{Popup|[[File:1_Pliable_Ingot.jpg|link=]]| 1 Pliable Ingot}} + {{Popup|[[File:1_Metallic_Ingot.jpg|link=]]| 1 Metallic Ingot}} + {{Popup|[[File:1_Dense_Ingot.jpg|link=]]| 1 Dense Ingot}} + {{Popup|[[File:1_Lesser_Cannith_Power_Cell.jpg|link=]]| 1 Lesser Cannith Power Cell}}\n</td></tr><tr><td><hr width=\"100%\">\n</td></tr><tr><td>[[File:Tinker's Gloves (Finished).png|400px]]\n</td></tr></table>\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Dexterity +6",
+      "tooltip": "Dexterity +6: This item makes the wearer more nimble and dexterous, granting a +6 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +6"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Seeker +2",
+      "tooltip": "Insightful Seeker +2: Provides a +2 Insight bonus to confirm critical hits, and a +2 Insight bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Insightful Seeker +2"
+        }
+      ]
+    },
+    {
+      "text": "Open Lock +10",
+      "tooltip": "Open Lock +10: Passive: +10 Competence bonus to the Open Lock skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Open_Lock",
+          "title": "Open Lock",
+          "text": "Open Lock +10"
+        }
+      ]
+    },
+    {
+      "text": "Enhanced Open Lock +5",
+      "tooltip": "Enhanced Open Lock +5: Passive: +5 Enhancement bonus to the Open Lock skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Open_Lock",
+          "title": "Open Lock",
+          "text": "Enhanced Open Lock +5"
+        }
+      ]
+    },
+    {
+      "text": "Nearly Finished - Tinker's Finesse",
+      "tooltip": "Tinker's Finesse: True Seeing, and equivalent to Sneak Attack Bonus +5: Provides a +5 to attack rolls and +8 damage for any attack that would qualify as a Sneak Attack, even if the wielder is not a Rogue.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nearly_Finished",
+          "title": "Nearly Finished",
+          "text": "Nearly Finished"
+        },
+        {
+          "target": "/page/Named_item_sets#Tinker's_Finesse",
+          "title": "Named item sets",
+          "text": "Tinker's Finesse"
+        }
+      ]
+    }
+  ]
+}

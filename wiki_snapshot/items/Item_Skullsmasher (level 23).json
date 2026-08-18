@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Skullsmasher (level 23)",
+  "page_id": 34381,
+  "revision_id": 649211,
+  "revision_timestamp": "2025-07-26T19:12:33Z",
+  "fetched_at": "2026-08-17T23:00:57.754234+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Skullsmasher}}\n  | sentience                = no\n  | type                     = Light Mace\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | minlevel                 = 23\n  | reqtrait                 = \n  | UMD DC                   = \n  | bind                     = {{Bind|BtC|BoE}}\n  | damage                   = 3[1d6] + 6 Bludgeon, Magic\n  | crit                     = 20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 280\n  | material                 = Steel \n  | hardness                 = 28\n  | basevalue                = 9,200pp 5gp\n  | weight                   = 4 lbs\n  | released                 = Update 17\n  | quest                    = The Crucible\n  | chest                    = [[Gorn Gut-Chewer]]'s chest (Epic Normal)\n  | enhancements             = \n* {{Enhancement_bonus|w|6}}\n* {{Skills|intim|17}}\n* {{Ribcracker|V}}\n* {{Augment|Red}}\n  | description              = Judging from the bits of flesh and skull stuck to the top of this mace, Gorn Gut-Chewer must have used it to settle many disputes.\n  | pic                      = Skullsmasher shown.jpg\n  | picdesc                  = Skullsmasher (Level 23).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Light Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Intimidate +17",
+      "tooltip": "Intimidate +17: Passive: +17 Competence bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Intimidate +17"
+        }
+      ]
+    },
+    {
+      "text": "Ribcracker V",
+      "tooltip": "Ribcracker V: On Critical Hit: 11 to 66 Bludgeoning damage from weapons with a x2 Critical Multiplier, 11 to 88 Bludgeoning damage from weapons with a x3 Critical Multiplier, and 11 to 110 Bludgeoning damage from weapons with a x4 or greater Critical Multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ribcracker",
+          "title": "Ribcracker",
+          "text": "Ribcracker V"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

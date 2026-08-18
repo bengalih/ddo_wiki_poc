@@ -1,0 +1,102 @@
+{
+  "page_title": "Item:Archaic Device",
+  "page_id": 24289,
+  "revision_id": 628290,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:04:26.417426+00:00",
+  "categories": [],
+  "wikitext": "[[Image:Archaic Device orb.png]]\n{{Named item|Rune Arm\n  | food                     = yes\n  | name                     = Archaic Device\n  | reqtrait                 = [[Rune Arm Use|Artificer Rune Arm Use]]\n  | minlevel                 = 20\n  | durability               = 140\n  | material                 = Gem\n  | hardness                 = 10\n  | quest                    = The Lost Thread\n  | chest                    = End chest ; [[Menace of the Underdark: The Darkening]], Quest chain end reward\n  | basevalue                = 5,250 pp\n  | weight                   = 0.25 lbs\n  | bind                     = {{Bind|BtC|BoE}} or {{Bind|BtC|BoA}}\n  | spell                    = Force Shot\n  | target                   = Foe, Directional, Breakable\n  | school                   = Evocation\n  | sr                       = No\n  | spell desc               = Fires a missile of force that damages your enemies. At higher charge levels multiple projectiles are fired in a spray. Opponents struck by these bolts receive a Will save for half damage.\n  | max charge               = 5\n  | imbue                    = Force IV\n  | imbue die                = 2d6\n  | imbue dmg                = force\n  | enhancements             = \n* [[Force Shot]]\n* {{SpellPower|Potency|60}}\n* {{ProtectionBonus|6}}\n* {{Absorption|Elemental|5}}\n  | craftable rune arm       = no\n  | epic                     = no\n  | crafting                 = <!--Don't have the craftable status-->\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | craftingnotes            = <!--Any notes about the craftable item-->\n  | pic                      = Force Shot icon.png\n  | picdesc                  = Archaic Device.png\n  | description              = Though you are not certain what this device was originally utilized for, it seems to be able to absorb elemental energy and convert it into pure magical force.\n  | tips                     = This item, like the others from this chain, can be acquired as an end reward for the chain as {{Bind|BtC|BoA}}.\n<br />\nThis is one of the few runearms that do not [[bind]] on acquire if received as a quest reward. If received as an end of chain reward (for doing all three King's Forest and Battle for Eveningstar) it is a BtC on Acquire item.\n<!--The Craftable (+5) property in this page is incorrect, but I can't find a way to remove it-->\n}}",
+  "item_template": "",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Maximum Charge Tier: V",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maximum_Charge_Tier",
+          "title": "Maximum Charge Tier",
+          "text": "Maximum Charge Tier"
+        }
+      ]
+    },
+    {
+      "text": "Force Shot",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Force_Shot",
+          "title": "Force Shot",
+          "text": "Force Shot"
+        }
+      ]
+    },
+    {
+      "text": "Potency +60",
+      "tooltip": "Potency +60: Passive: +60 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +60"
+        }
+      ]
+    },
+    {
+      "text": "Protection +6",
+      "tooltip": "Protection +6: Passive: +6 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +6"
+        }
+      ]
+    },
+    {
+      "text": "Elemental Absorption +5%",
+      "tooltip": "Elemental Absorption +5%: Passive: 5% Enhancement Bonus to Acid, Cold, Fire, and Electrical Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Elemental Absorption +5%"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    },
+    {
+      "text": "Rune Arm Imbue: Force IV",
+      "tooltip": "Rune Arm Imbue: Force IV: Wearing this Rune Arm will imbue any weapon you wield, dealing 2d6 points of force damage per hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rune_Arm_Imbue",
+          "title": "Rune Arm Imbue",
+          "text": "Rune Arm Imbue"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Gleaming Plate",
+  "page_id": 39426,
+  "revision_id": 684756,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:11:33.038690+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Gleaming Plate\n  | type                     = Heavy\n  | feat                     = Heavy\n  | race                     = Sun Elf\n  | ac                       = 18\n  | maxdexbonus              = 4\n  | acp                      = -4\n  | asf                      = 30%\n  | durability               = 262\n  | material                 = Dwarven Iron\n  | hardness                 = 26\n  | basevalue                = 6060 pp\n  | weight                   = 50 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 15\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | epic                     = no\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Spelllore|Fire|V}}\n* {{Spelllore|Radiance|V}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Gleaming Plate shown.jpg\n  | picdesc                  = Gleaming Plate.png\n  | description              = The armor of a Morninglord represents a commitment to the principles of Amaunator's faith.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Dwarven Iron",
+  "armor_type": "Heavy",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fire Lore V",
+      "tooltip": "Fire Lore V: Passive: Your Fire spells gain a 15% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore V"
+        }
+      ]
+    },
+    {
+      "text": "Radiance Lore V",
+      "tooltip": "Radiance Lore V: Passive: Your Light and Aligned spells gain a 15% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Radiance Lore V"
+        }
+      ]
+    }
+  ]
+}

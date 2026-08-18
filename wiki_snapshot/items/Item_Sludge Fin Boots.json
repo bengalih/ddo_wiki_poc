@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Sludge Fin Boots",
+  "page_id": 2771,
+  "revision_id": 634871,
+  "revision_timestamp": "2025-04-22T03:50:17Z",
+  "fetched_at": "2026-08-17T23:01:25.730052+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Sludge Fin Boots\n  | basevalue                = 1,205 pp\n  | weight                   = 0.10 lbs\n  | type                     = Boots\n  | slot                     = Feet\n  | durability               = 40\n  | material                 = Leather\n  | hardness                 = 8\n  | bind                     = {{Bind|BtA|BoA}}\n  | minlevel                 = 3\n  | quest                    = The Lost Seekers\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|Swim|7}}\n* {{Augment|Yellow}}\n  | description              = These scaly boots are outfitted with amphibious fins that allow the wearer to move more fluidly through even the murkiest of sewer water.\n  | pic                      = Boots Generic.png\n  | picdesc                  = Sludge Fin Boots.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Swim +7",
+      "tooltip": "Swim +7: Passive: +7 Competence bonus to the Swim skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Swim",
+          "title": "Swim",
+          "text": "Swim +7"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

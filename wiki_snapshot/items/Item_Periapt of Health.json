@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Periapt of Health",
+  "page_id": 11091,
+  "revision_id": 633932,
+  "revision_timestamp": "2025-04-22T02:47:27Z",
+  "fetched_at": "2026-08-17T22:37:16.609019+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Periapt of Health\n  | type                     = Necklace\n  | slot                     = Neck\n  | basevalue                = 120 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Random \n  | chest                    = level ~2 chests/rewards\n  | durability               = 20\n  | material                 = Gold\n  | hardness                 = 3\n  | minlevel                 = 0\n  | bind                     = {{Bind|no}}\n  | mythic                   = no\n  | enhancements             = \n* {{Proof|Disease|6}}\n  | description              = A blue gem on a silver chain.\n  | pic                      = Necklace Generic Blue.png\n  | picdesc                  = Periapt of Health.png\n  | tips                     = \n* Can drop in any low lvl chest, [[Durk's Got A Secret]] is a good spot to check.\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "enchantments": [
+    {
+      "text": "Proof Against Disease +6",
+      "tooltip": "Proof Against Disease +6: This item grants its wearer immunity to natural diseases. This item also grants a +6 Enhancement bonus to saving throws against magical diseases, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical diseases with a DC of less than 7 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Disease",
+          "title": "Proof Against Disease",
+          "text": "Proof Against Disease +6"
+        }
+      ]
+    }
+  ]
+}

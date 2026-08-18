@@ -1,0 +1,235 @@
+{
+  "page_title": "Item:Epic Mournlode Breastplate",
+  "page_id": 19527,
+  "revision_id": 630243,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:52:26.516131+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Mournlode Armors|Epic Mournlode Breastplate}}\n  | type                     = Medium\n  | feat                     = Medium\n  | race                     = None\n  | ac                       = +19\n  | maxdexbonus              = 6\n  | acp                      = -3\n  | asf                      = 25%\n  | durability               = 272\n  | material                 = Dwarven Iron\n  | hardness                 = 30\n  | minlevel                 = 20\n  | quest                    = Vaults of the Artificers\n  | chest                    = <!-- At least 1 of these 3 should be filled in. Leave other 2 alone. -->\n  | end reward               = <!-- At least 1 of these 3 should be filled in. Leave other 2 alone. -->\n  | turn in                  = Crafted from various challenge ingredients\n  | epic                     = no\n  | basevalue                = 12,010 pp\n  | weight                   = 30 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | enhancements             = \n{{VaultsOfTheArtificersUpgrade}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = <!--yes-->\n  | pic                      = Mournlode Breastplate shown.jpg\n  | picdesc                  = Epic Mournlode Breastplate.png\n  | description              = Metal Armor constructed from valuable purple Mournlode crystal is imbued with a protective, almost holy power. Undead are seared by it, and it protects the wearer from evil.\n  | notes                    = '''See also:''' {{Item|Mournlode Armors}} - Full table of the Mournlode Armors line\n* {{Popup|Tier 2|[[Image:Epic Mournlode Breastplate (Tier 2).png|452 px]]|long=y}}\n* {{Popup|Tier 3|[[Image:Epic Mournlode Breastplate (Tier 3).png|452 px]]|long=y}}\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Dwarven Iron",
+  "armor_type": "Medium",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": "Upgradeable - Tier 1: This item is a Tier 1 upgradable item.",
+      "children": [
+        {
+          "text": "+5 Enhancement Bonus",
+          "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+5 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Protection +8",
+          "tooltip": "Protection +8: Passive: +8 Deflection bonus to Armor Class.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Protection",
+              "title": "Protection",
+              "text": "Protection +8"
+            }
+          ]
+        },
+        {
+          "text": "Resistance +8",
+          "tooltip": "Resistance +8: Passive: +8 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Resistance_(enchantment)",
+              "title": "Resistance (enchantment)",
+              "text": "Resistance +8"
+            }
+          ]
+        },
+        {
+          "text": "Undead Guard +4",
+          "tooltip": "Undead Guard +4: Chance to deal 4d8 Good damage to undead when hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Guards",
+              "title": "Guards",
+              "text": "Undead Guard"
+            }
+          ]
+        },
+        {
+          "text": "Protection from Evil",
+          "tooltip": "Protection from Evil: Passive: You gain the benefit of the spell Protection from Evil.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Protection_from_Evil",
+              "title": "Protection from Evil",
+              "text": "Protection from Evil"
+            }
+          ]
+        },
+        {
+          "text": "Negative Energy Absorption - 10 Charges (Recharged/Day: 10)",
+          "tooltip": "Negative Energy Absorption: This effect absorbs negative energy and energy drain effects.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Negative_Energy_Absorption",
+              "title": "Negative Energy Absorption",
+              "text": "Negative Energy Absorption"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": "Upgradeable - Tier 2: This item is a Tier 2 upgradable item.",
+      "children": [
+        {
+          "text": "+5 Enhancement Bonus → +6 Enhancement Bonus",
+          "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.+6 Enhancement Bonus: +6 enhancement bonus to Armor Class.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+5 Enhancement Bonus"
+            },
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+6 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Undead Guard +4 → Undead Guard +5",
+          "tooltip": "Undead Guard +4: Chance to deal 4d8 Good damage to undead when hit.Undead Guard +5: Chance to deal 5d8 Good damage to undead when hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Guards",
+              "title": "Guards",
+              "text": "Undead Guard"
+            },
+            {
+              "target": "/page/Guards",
+              "title": "Guards",
+              "text": "Undead Guard"
+            }
+          ]
+        },
+        {
+          "text": "Adds Colorless Augment Slot",
+          "tooltip": "Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Colorless Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This item is a Tier 3 upgradable item.",
+      "children": [
+        {
+          "text": "Protection +8 → Protection +9",
+          "tooltip": "Protection +8: Passive: +8 Deflection bonus to Armor Class.Protection +9: Passive: +9 Deflection bonus to Armor Class.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Protection",
+              "title": "Protection",
+              "text": "Protection +8"
+            },
+            {
+              "target": "/page/Protection",
+              "title": "Protection",
+              "text": "Protection +9"
+            }
+          ]
+        },
+        {
+          "text": "Resistance +8 → Resistance +9",
+          "tooltip": "Resistance +8: Passive: +8 Resistance bonus to Fortitude, Reflex, and Will Saving Throws. Resistance +9: Passive: +9 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Resistance_(enchantment)",
+              "title": "Resistance (enchantment)",
+              "text": "Resistance +8"
+            },
+            {
+              "target": "/page/Resistance_(enchantment)",
+              "title": "Resistance (enchantment)",
+              "text": "Resistance +9"
+            }
+          ]
+        },
+        {
+          "text": "Adds Negative Energy Absorption +30%",
+          "tooltip": "Negative Energy Absorption +30%: This effect absorbs 30% of all negative damage the character would have taken, after all other protections have been penetrated.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Negative_Energy_Absorption",
+              "title": "Negative Energy Absorption",
+              "text": "Negative Energy Absorption +30%"
+            }
+          ]
+        },
+        {
+          "text": "Adds Green Augment Slot",
+          "tooltip": "Blue, Green, Yellow, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Green Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

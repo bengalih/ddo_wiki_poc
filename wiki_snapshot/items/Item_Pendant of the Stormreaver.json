@@ -1,0 +1,128 @@
+{
+  "page_title": "Item:Pendant of the Stormreaver",
+  "page_id": 34003,
+  "revision_id": 677808,
+  "revision_timestamp": "2026-03-06T19:47:49Z",
+  "fetched_at": "2026-08-17T22:36:06.622153+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Pendant of the Stormreaver\n  | minlevel                 = 25\n  | type                     = Necklace\n  | slot                     = Neck\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 260\n  | material                 = Gold\n  | hardness                 = 35\n  | basevalue                = 10,020 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 17\n  | quest                    = The Fall of Truth \n  | chest                    = warded chest\n  | enhancements             = \n* {{Elemental Resistance|Electric|40}}\n* {{ProtectionBonus|7}}\n* {{Thunderstruck}}\n* {{Attuned to Heroism}}\n  | crafting                 = Stormreaver Monument\n  | craftingupgrade          = \n  | pic                      = Necklace Generic Stormreaver.png\n  | picdesc                  = Pendant of the Stormreaver.png\n  | description              = This pendant once hung around the neck of the Stormreaver, messiah of the Xen'drik giants. Wearing it causes the thunderous power of a Storm Giant to flow through you.\n  | tips                     = \n* {{Popup|Tier 1|[[File:Pendant of the Stormreaver (Tier 1).png|450px]]|long=y}}: Epic Hard or with {{Commendation|Heroism|5}}\n* {{Popup|Tier 2|[[File:Pendant of the Stormreaver (Tier 2).png|450px]]|long=y}}: Epic Elite or with {{Commendation|Heroism|7}} (12 total)\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "Electric Resistance +40",
+      "tooltip": "Electric Resistance +40: Passive: +40 Enhancement bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Electric Resistance +40"
+        }
+      ]
+    },
+    {
+      "text": "Protection +7",
+      "tooltip": "Protection +7: Passive: +7 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +7"
+        }
+      ]
+    },
+    {
+      "text": "Thunderstruck",
+      "tooltip": "Thunderstruck: On Melee Vorpal Hit: 35-60 Electric and 35-60 Sonic damage to your target.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Thunderstruck",
+          "title": "Thunderstruck",
+          "text": "Thunderstruck"
+        }
+      ]
+    },
+    {
+      "text": "Attuned to Heroism",
+      "tooltip": "This relic is attuned to heroic actions.",
+      "children": [
+        {
+          "text": "Attuned by Heroism: Tier 1",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Yellow Augment Slot",
+              "tooltip": "Yellow and Colorless",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Augment_Slot",
+                  "title": "Augment Slot",
+                  "text": "Yellow Augment Slot"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 1"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds * Electric Resistance +50",
+              "tooltip": "Electric Resistance +50: Passive: +50 Enhancement bonus to your Electric Resistance.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Electric_Resistance",
+                  "title": "Electric Resistance",
+                  "text": "Electric Resistance +50"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 2"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Attuned_to_Heroism",
+          "title": "Attuned to Heroism",
+          "text": "Attuned to Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

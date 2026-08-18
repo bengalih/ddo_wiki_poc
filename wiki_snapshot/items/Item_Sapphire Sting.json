@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Sapphire Sting",
+  "page_id": 51390,
+  "revision_id": 700645,
+  "revision_timestamp": "2026-07-27T10:48:44Z",
+  "fetched_at": "2026-08-17T22:50:49.172330+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Sapphire Sting\n  | damage                   = [1d8] + 3 Pierce, Magic\n  | crit                     = 19-20 / x3\n  | type                     = Long Bow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = DEX\n  | damagemod                = DEX\n  | minlevel                 = 7\n  | durability               = 150\n  | material                 = Steel\n  | hardness                 = 17\n  | basevalue                = 2,820 pp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 25\n  | quest                    = ToEE: Air Node\n  | chest                    = dragon's hoard chests\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Bane|Human|Lesser}}\n* {{Destruction}}\n* {{Maiming}}\n* {{Alacrity|Ranged|10}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Sapphire Sting shown.png\n  | picdesc                  = Sapphire Sting.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Human Bane",
+      "tooltip": "Lesser Human Bane: A bane weapon excels at attacking one type or subtype of creature. Against Humans, this weapon's effective enhancement bonus is +1 better than its normal enhancement bonus. It deals an extra 1 to 6 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Lesser Human Bane"
+        }
+      ]
+    },
+    {
+      "text": "Destruction",
+      "tooltip": "Destruction: On Hit: Your target gains a stack of Armor Destruction. (-1 penalty to Armor Class, -1% of its Fortification. 20 Second Duration. Stacks up to 15 times.) This effect may trigger once every three seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Destruction",
+          "title": "Destruction",
+          "text": "Destruction"
+        }
+      ]
+    },
+    {
+      "text": "Maiming",
+      "tooltip": "Maiming: This weapon has a twisted haft or grip and spikes along its blade, head, or point. Whenever you score a critical hit with this weapon it deals an amount of extra untyped damage depending on its critical multiplier: x2 - 1 to 6, x3 - 2 to 12, x4 - 3 to 18.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maiming",
+          "title": "Maiming",
+          "text": "Maiming"
+        }
+      ]
+    },
+    {
+      "text": "Ranged Alacrity 10%",
+      "tooltip": "Ranged Alacrity 10%: Gain 10% Enhancement bonus to Ranged attack speed. Does not stack with the Haste spell.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ranged_Alacrity",
+          "title": "Ranged Alacrity",
+          "text": "Ranged Alacrity 10%"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

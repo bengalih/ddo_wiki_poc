@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:The Ice Dragon's Tooth",
+  "page_id": 94528,
+  "revision_id": 672898,
+  "revision_timestamp": "2026-01-25T20:02:42Z",
+  "fetched_at": "2026-08-17T23:14:31.543759+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = The Ice Dragon's Tooth\n  | damage                   = [1d6] + 2 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Short Sword\n  | hand                     = One-handed\n  | race                     = \n  | reqtrait                 = \n  | UMD DC                   = \n  | class                    = Piercing\n  | prof                     = Martial\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 4\n  | durability               = 95\n  | material                 = Ice\n  | hardness                 = 14\n  | cost                     = 1,601 pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 52\n  | revamped                 = Update 76\n  | quest                    = Snowpeaks Festival\n  | turn in                  = various ingredients at [[Flurry]]\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Chilling|2}}\n* {{Freezing Ice|Minor}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = The Ice Dragon's Tooth shown.jpg\n  | picdesc                  = The Ice Dragon's Tooth.png\n  | description              = This Shortsword may as well have been pulled from the maw of an Ancient White Dragon, given its unique and terrifying edge.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Short Sword",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Chilling 2",
+      "tooltip": "Chilling 2: This effect causes the edges of this weapon to become frozen to the touch, dealing 2d6 Ice damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Chilling",
+          "title": "Chilling",
+          "text": "Chilling 2"
+        }
+      ]
+    },
+    {
+      "text": "Minor Freezing Ice",
+      "tooltip": "Minor Freezing Ice :",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Freezing_Ice",
+          "title": "Freezing Ice",
+          "text": "Minor Freezing Ice"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

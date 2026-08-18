@@ -1,0 +1,128 @@
+{
+  "page_title": "Item:Legendary Cook's Coat",
+  "page_id": 106998,
+  "revision_id": 631981,
+  "revision_timestamp": "2025-04-22T00:33:57Z",
+  "fetched_at": "2026-08-17T21:38:26.302438+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Cook's Coat\n  | minlevel                 = 32\n  | type                     = Light Armor\n  | feat                     = Light\n  | ac                       = +25\n  | maxdexbonus              = 20\n  | acp                      = \n  | asf                      = 10%\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 384\n  | material                 = Leather\n  | hardness                 = 40\n  | basevalue                = 12,850 pp\n  | weight                   = 15 lbs\n  | released                 = Update 67\n  | quest                    = Too Many Cooks\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Absorption|Fire|36}}\n* {{Elemental Resistance|Fire|26|Insightful}}\n* {{Sheltering|8|Quality|Magical}}\n* {{Sheltering|36|Enhancement|Physical}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n* {{Named item sets|Legendary Cooking By the Book}}\n  | crafting                 = \n  | description              = Prepare for the Feast in style.\n  | pic                      = Cook's Coat shown.jpg\n  | picdesc                  = Legendary Cook's Coat.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Light Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 32,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fire Absorption +36%",
+      "tooltip": "Fire Absorption +36%: Passive: 36% Enhancement Bonus to Fire Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Fire Absorption +36%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Fire Resistance +26",
+      "tooltip": "Insightful Fire Resistance +26: Passive: +26 Insight bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Insightful Fire Resistance +26"
+        }
+      ]
+    },
+    {
+      "text": "Quality Magical Sheltering +8",
+      "tooltip": "Quality Magical Sheltering +8: +8 Quality bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Quality Magical Sheltering +8"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +36",
+      "tooltip": "Physical Sheltering +36: +36 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +36"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Cooking By the Book",
+      "tooltip": "Legendary Cooking By the Book: 3 Pieces Equipped:+25 Artifact Bonus to Universal Spell Power+6% Artifact Bonus to Spell Critical Chance+3 Artifact Bonus to Imbue Dice4 Pieces Equipped:+15 Artifact Bonus to Melee and Ranged Power+15% Legendary Bonus to Spell Critical Damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Legendary_Cooking_By_the_Book",
+          "title": "Named item sets",
+          "text": "Legendary Cooking By the Book"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

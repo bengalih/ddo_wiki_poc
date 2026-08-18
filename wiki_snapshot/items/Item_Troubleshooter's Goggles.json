@@ -1,0 +1,64 @@
+{
+  "page_title": "Item:Troubleshooter's Goggles",
+  "page_id": 9477,
+  "revision_id": 635623,
+  "revision_timestamp": "2025-04-22T04:40:13Z",
+  "fetched_at": "2026-08-17T23:21:26.539318+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Troubleshooter's Goggles\n  | type                     = Goggles\n  | class                    = Goggles\n  | basevalue                = 405pp\n  | weight                   = 0.10 lbs\n  | slot                     = Eye\n  | durability               = 30\n  | material                 = Leather\n  | hardness                 = 8\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Sacrifices\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|Spot|3}}\n* {{Skills|Search|3}}\n* {{Skills|Listen|3}}\n* {{Named item sets|Troubleshooter}}\n  | pic                      = Goggles of Intuition shown.jpg\n  | picdesc                  = Troubleshooter's Goggles.png\n  | description              = This pair of goggles will increase your awareness of the surrounding area.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "enchantments": [
+    {
+      "text": "Spot +3",
+      "tooltip": "Spot +3: Passive: +3 Competence bonus to the Spot skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spot",
+          "title": "Spot",
+          "text": "Spot +3"
+        }
+      ]
+    },
+    {
+      "text": "Search +3",
+      "tooltip": "Search +3: Passive: +3 Competence bonus to the Search skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Search",
+          "title": "Search",
+          "text": "Search +3"
+        }
+      ]
+    },
+    {
+      "text": "Listen +3",
+      "tooltip": "Listen +3: Passive: +3 Competence bonus to the Listen skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Listen",
+          "title": "Listen",
+          "text": "Listen +3"
+        }
+      ]
+    },
+    {
+      "text": "Troubleshooter",
+      "tooltip": "Troubleshooter: +1 insight bonus to all saves, Open Lock +3, Disable Device +3 (typed competence, thus non-stacking)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Troubleshooter",
+          "title": "Named item sets",
+          "text": "Troubleshooter"
+        }
+      ]
+    }
+  ]
+}

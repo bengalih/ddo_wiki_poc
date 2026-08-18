@@ -1,0 +1,113 @@
+{
+  "page_title": "Item:Brightgaze",
+  "page_id": 88808,
+  "revision_id": 691049,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:15:50.965014+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Brightgaze\n  | minlevel                 = 29\n  | type                     = Goggles\n  | race                     = \n  | slot                     = Eye\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 390\n  | material                 = Glass\n  | hardness                 = 49\n  | cost                     = 11,620 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 49\n  | quest                    = Peril of the Planar Eyes\n  | end reward               = \n  | turn in                  = \n  | chest                    = any end chest\n  | mythic                   = yes\n  | enhancements             = \n* {{Stat|Charisma|14}}\n* {{Spell Focus|Spell Focus Mastery|2|Quality}}\n* {{SpellPower|Potency|26|Quality}}\n* {{Radiant Glory|2}}\n* {{Augment|Yellow}}\n* {{Augment|Green}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | description              = Sight beyond sight, bright beyond bright. Bring light to your enemies, burn back the night.\n  | pic                      = Brightgaze shown.jpg\n  | picdesc                  = Brightgaze.png\n  | tips                     = {{Minor Artifact|3}}\n}}",
+  "item_template": "Named item",
+  "material": "Glass",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Charisma +14",
+      "tooltip": "Charisma +14: This item makes the wearer have more flair, granting a +14 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +14"
+        }
+      ]
+    },
+    {
+      "text": "Quality Spell Focus Mastery +2",
+      "tooltip": "Quality Spell Focus Mastery +2: +2 Quality bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Quality Spell Focus Mastery +2"
+        }
+      ]
+    },
+    {
+      "text": "Quality Potency +26",
+      "tooltip": "Quality Potency +26: Passive: +26 Quality bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Quality Potency +26"
+        }
+      ]
+    },
+    {
+      "text": "Radiant Glory 2",
+      "tooltip": "Radiant Glory 2: On Harmful Spellcast: Do an additional 2 to 12 Light damage. This effect scales with Light Spell Power. Cooldown: 1 second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiant_Glory",
+          "title": "Radiant Glory",
+          "text": "Radiant Glory 2"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Goggle Boost +1 or +3",
+      "tooltip": "Mythic Goggle Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Goggle Boost"
+        }
+      ]
+    }
+  ]
+}

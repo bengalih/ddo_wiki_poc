@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Epic Dynamistic Quiver",
+  "page_id": 53575,
+  "revision_id": 630012,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:47:46.909306+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Quiver\n  | name                     = Epic Dynamistic Quiver\n  | type                     = Quiver\n  | minlevel                 = 28\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = \n  | material                 = None\n  | hardness                 = \n  | cost                     = 11,700 pp\n  | weight                   = 1.00 lbs\n  | released                 = Update 28\n  | quest                    = Grim and Barett\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest (legendary)\n  | capacity                 = 5\n  | maxstack                 = 3,000\n  | enhancements             = \n* {{Doubleshot|8}}\n* {{DmgPower|Ranged|4}}\n  | description              = With great power, comes great destruction.\n  | icon pic                 = Icon Item Slot Quiver.png\n  | pic                      = Quiver Generic Large Wide.png\n  | picdesc                  = Epic Dynamistic Quiver.png\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "material": "None",
+  "item_type": "Quiver",
+  "item_class": "Quiver",
+  "slot": "Quiver",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "Doubleshot 8%",
+      "tooltip": "Doubleshot 8%: Passive: 8% Enhancement bonus to Doubleshot. (Doubleshot is a chance to score an additional hit with a ranged attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doubleshot",
+          "title": "Doubleshot",
+          "text": "Doubleshot 8%"
+        }
+      ]
+    },
+    {
+      "text": "Ranged Power +4",
+      "tooltip": "Ranged Power +4: This item provides a +4 Enhancement bonus to Ranged Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ranged_Power",
+          "title": "Ranged Power",
+          "text": "Ranged Power +4"
+        }
+      ]
+    }
+  ]
+}

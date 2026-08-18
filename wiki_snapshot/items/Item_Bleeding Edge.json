@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Bleeding Edge",
+  "page_id": 52668,
+  "revision_id": 628607,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:11:54.840417+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Bleeding Edge\n  | damage                   = 1.60[1d8] + 5 Slash, Good, Magic\n  | crit                     = 19-20 / x3\n  | type                     = Khopesh\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Slashing\n  | prof                     = Exotic\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 13\n  | durability               = 195\n  | material                 = Flametouched Iron\n  | hardness                 = 23\n  | basevalue                = 5320 pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 27\n  | quest                    = Demon Assault\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Limb Chopper}}\n* {{Bloodletter|III}}\n* {{Mat|Flametouched Iron}}\n* {{Augment|Red}}\n* {{Augment|Yellow}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Some wicked blades seek blood. Far more wicked are the blades the blood itself seeks.\n  | pic                      = Bleeding Edge shown.jpg\n  | picdesc                  = Bleeding Edge.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Khopesh",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Limb Chopper",
+      "tooltip": "Limb Chopper: This potent and feared ability allows the weapon to sever the limbs of those it strikes. On an attack roll of 20 which is confirmed as a critical hit, the weapon severs an opponent's limb from its body. Some creatures, including many aberrations and all oozes, have no limbs. Others, such as golems and undead creatures, are not affected by the loss of their limbs. Most other creatures, however, have their movement slowed 75% and attacks slowed by 50% when a limb is cut off.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Limb_Chopper",
+          "title": "Limb Chopper",
+          "text": "Limb Chopper"
+        }
+      ]
+    },
+    {
+      "text": "Bloodletter III",
+      "tooltip": "Bloodletter III: On Critical Hit: 7 to 42 Slashing damage from weapons with a x2 Critical Multiplier, 7 to 56 Slashing damage from weapons with a x3 Critical Multiplier, and 7 to 70 Slashing damage from weapons with a x4 or greater Critical Multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bloodletter",
+          "title": "Bloodletter",
+          "text": "Bloodletter III"
+        }
+      ]
+    },
+    {
+      "text": "Flametouched Iron",
+      "tooltip": "Flametouched Iron: Flametouched Iron grants +1 saves versus Evil Outsiders.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flametouched_Iron",
+          "title": "Flametouched Iron",
+          "text": "Flametouched Iron"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Trailblazer's Resilient Hood",
+  "page_id": 99351,
+  "revision_id": 635587,
+  "revision_timestamp": "2025-04-22T04:37:49Z",
+  "fetched_at": "2026-08-17T23:20:35.029335+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Trailblazer's Resilient Hood\n  | minlevel                 = 15\n  | type                     = Helmet\n  | race                     = Tabaxi Trailblazer\n  | slot                     = Head\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | cost                     = 6,010 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 54\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Deathblock}}\n* {{Fortification|40|Insightful}}\n  | crafting                 = \n  | description              = \n  | pic                      = Trailblazer's Resilient Hood shown.jpg\n  | picdesc                  = Trailblazer's Resilient Hood.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helmet",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Deathblock",
+      "tooltip": "Deathblock: The wearer of this item is immune to all death spells and magical death effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Fortification +40%",
+      "tooltip": "Insightful Fortification +40%: +40% Insight bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Insightful Fortification +40%"
+        }
+      ]
+    }
+  ]
+}

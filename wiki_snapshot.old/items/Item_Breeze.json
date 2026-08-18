@@ -1,0 +1,132 @@
+{
+  "page_title": "Item:Breeze",
+  "page_id": 10186,
+  "revision_id": 691302,
+  "revision_timestamp": "2026-07-02T06:11:53Z",
+  "fetched_at": "2026-08-17T03:50:20.382406+00:00",
+  "categories": [],
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Screaming",
+      "tooltip": "Screaming: Screaming weapons emit a piercing screech whenever they are used to make a successful attack. This screech does an additional 1 to 6 sonic damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Screaming",
+          "title": "Screaming",
+          "text": "Screaming"
+        }
+      ]
+    },
+    {
+      "text": "Roaring",
+      "tooltip": "Roaring: This weapon causes targets to become shaken (DC 25 Will save negates) and, on a critical hit, does 2 to 12 sonic damage to the target.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Roaring",
+          "title": "Roaring",
+          "text": "Roaring"
+        }
+      ]
+    },
+    {
+      "text": "Telekinetic",
+      "tooltip": "Telekinetic: Targets that suffer a critical hit from a Telekinetic weapon must make a DC 17 Balance check or be knocked down.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Telekinetic",
+          "title": "Telekinetic",
+          "text": "Telekinetic"
+        }
+      ]
+    },
+    {
+      "text": "Slicing Winds",
+      "tooltip": "Slicing Winds: This weapon stores the cyclonic might of a windstorm within. When this weapon is used, this power can come to the surface as a series of rushing, cutting winds that deal slashing damage to the target over several seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slicing_Winds",
+          "title": "Slicing Winds",
+          "text": "Slicing Winds"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable Item (Black Abbot)",
+      "tooltip": "Upgradeable Item (Black Abbot): This item could be upgraded if you found a Seal of the Black Abbot to combine it with. Bring this item to the Fountain of Necrotic Might outside the Black Mausoleum and combine it with a Seal of the Black Abbot to upgrade the item to a more powerful form.",
+      "children": [
+        {
+          "text": "Adds Greater Sirocco",
+          "tooltip": "Greater Sirocco: A critical hit with this weapon causes a whirlwind of desert sand to swirl about the target, temporarily blinding it. A successful Reflex save (DC 35) prevents the effect.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Sirocco#Greater_Sirocco",
+              "title": "Sirocco",
+              "text": "Greater Sirocco"
+            }
+          ]
+        },
+        {
+          "text": "Telekinetic → Greater Telekinetic",
+          "tooltip": "Telekinetic: Targets that suffer a critical hit from a Telekinetic weapon must make a DC 17 Balance check or be knocked down.Greater Telekinetic: Targets that suffer a critical hit from a Telekinetic weapon must make a DC 28 Strength or Dexterity check or be knocked down. The target will then be forced to make DC 16 Balance checks to recover from this effect.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Telekinetic",
+              "title": "Telekinetic",
+              "text": "Telekinetic"
+            },
+            {
+              "target": "/page/Telekinetic#Greater_Telekinetic",
+              "title": "Telekinetic",
+              "text": "Greater Telekinetic"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_Item_(Black_Abbot)",
+          "title": "Upgradeable Item (Black Abbot)",
+          "text": "Upgradeable Item (Black Abbot)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ],
+  "item_class": "Weapon",
+  "item_template": ""
+}

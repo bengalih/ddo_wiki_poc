@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Pactbearer's Debt",
+  "page_id": 117181,
+  "revision_id": 699384,
+  "revision_timestamp": "2026-07-23T22:13:19Z",
+  "fetched_at": "2026-08-17T22:34:48.215625+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Pactbearer's Debt\n  | minlevel                 = 15\n  | type                     = Ring\n  | race                     = Dhampir Dark Bargainer\n  | slot                     = Finger\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | cost                     = 6,020 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 74\n  | revamped                 = Update 80\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Spell Focus|Enchantment|4}}\n* {{Stat|CHA|6}}\n  | crafting                 = \n  | description              = \n  | pic                      = Ring Generic Beholder.png\n  | picdesc                  = Pactbearer's Debt.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Enchantment Focus +4",
+      "tooltip": "Enchantment Focus +4: +4 Equipment bonus to the DC of Enchantment spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Enchantment Focus +4"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +6",
+      "tooltip": "Charisma +6: This item makes the wearer have more flair, granting a +6 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +6"
+        }
+      ]
+    }
+  ]
+}

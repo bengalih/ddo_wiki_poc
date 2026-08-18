@@ -1,0 +1,163 @@
+{
+  "page_title": "Item:Stygian Wrath",
+  "page_id": 74388,
+  "revision_id": 635101,
+  "revision_timestamp": "2025-04-22T04:05:25Z",
+  "fetched_at": "2026-08-17T23:07:29.351110+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Stygian Wrath\n  | type                     = Orb\n  | prof                     = Magical Training\n  | minlevel                 = 15\n  | damagemod                = CHA\n  | attmod                   = INT\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = 0\n  | dmg                      = [1d4] + 0\n  | dmgtype                  = Force\n  | crit                     = 19-20 / x2\n  | durability               = 215\n  | material                 = Gem\n  | hardness                 = 35\n  | basevalue                = 6,010 pp\n  | weight                   = 3 lbs\n  | released                 = Update 42\n  | quest                    = The Same Old Song\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | enhancements             = \n* {{Enhancement bonus|oi|5|15}}\n* {{Nearly Finished|{{Stat|CHA|3|Insightful}}|{{Stat|INT|3|Insightful}}|{{Stat|WIS|3|Insightful}}}}\n* {{SpellPower|Nullification|47|Insightful}}\n* {{Spelllore|Void|9|Insightful}}\n* {{Sinister Chill}}\n* {{Augment|Purple}}\n  | description              = The discord of Shavarath flickers within your hands.\n  | pic                      = Legendary Stygian Wrath Shown.jpg\n  | picdesc                  = Stygian Wrath.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Magical Training",
+  "material": "Gem",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +15",
+      "tooltip": "Spellcasting Implement +15: Passive: +15 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +15"
+        }
+      ]
+    },
+    {
+      "text": "+5 Orb Bonus",
+      "tooltip": "+5 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +5 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Orb Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Nearly Finished",
+      "tooltip": "Nearly Finished: This item isn't quite finished, but it's only a step away from completion. Bring it to a Cannith Reforging Station and combine it with melted materials to restore this item to its full potential.",
+      "children": [
+        {
+          "text": "One of the following:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Insightful Charisma +3",
+              "tooltip": "Insightful Charisma +3: This item makes the wearer have more flair, granting a +3 Insight bonus to Charisma.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Charisma",
+                  "title": "Charisma",
+                  "text": "Insightful Charisma +3"
+                }
+              ]
+            },
+            {
+              "text": "Insightful Intelligence +3",
+              "tooltip": "Insightful Intelligence +3: This item focuses the power of the wearer's mind, granting a +3 Insight bonus to Intelligence.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Intelligence",
+                  "title": "Intelligence",
+                  "text": "Insightful Intelligence +3"
+                }
+              ]
+            },
+            {
+              "text": "Insightful Wisdom +3",
+              "tooltip": "Insightful Wisdom +3: This item makes the wearer more in tune with her surroundings, granting a +3 Insight bonus to Wisdom.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Wisdom",
+                  "title": "Wisdom",
+                  "text": "Insightful Wisdom +3"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Nearly_Finished",
+          "title": "Nearly Finished",
+          "text": "Nearly Finished"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Nullification +47",
+      "tooltip": "Insightful Nullification +47: Passive: +47 Insightful bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Insightful Nullification +47"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Void Lore +9%",
+      "tooltip": "Insightful Void Lore +9: Passive: Your Negative Energy and Poison spells gain a 9% Insightful bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Insightful Void Lore +9%"
+        }
+      ]
+    },
+    {
+      "text": "Sinister Chill",
+      "tooltip": "Sinister Chill: Whenever you cast a Negative or Cold spell, you gain +50 Temporary Spell Points that last for 30 seconds. This can only trigger once every 45 seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sinister_Chill",
+          "title": "Sinister Chill",
+          "text": "Sinister Chill"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

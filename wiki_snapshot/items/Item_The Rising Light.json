@@ -1,0 +1,128 @@
+{
+  "page_title": "Item:The Rising Light",
+  "page_id": 48332,
+  "revision_id": 635428,
+  "revision_timestamp": "2025-04-22T04:27:13Z",
+  "fetched_at": "2026-08-17T23:16:22.313506+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = The Rising Light\n  | type                     = Buckler\n  | prof                     = General\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 27\n  | damagemod                = STR\n  | attmod                   = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +10\n  | maxdexbonus              = None\n  | dr                       = 12\n  | acp                      = None\n  | asf                      = 0\n  | dmg                      = 4.40[2d4] + 8\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | durability               = 345\n  | material                 = Densewood\n  | hardness                 = 37\n  | basevalue                = 11,102 pp\n  | weight                   = 5 lbs\n  | released                 = Update 23\n  | quest                    = Ghosts of Perdition (epic)\n  | chest                    = End Chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|s|8}}\n* {{Stat|CON|10}}\n* {{Stat|DEX|10}}\n* {{ProtectionBonus|10}}\n* {{UpgradeableAugment|Primary}}\n* {{UpgradeableAugment|Secondary}}\n  | description              = \n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = The Rising Light shown.jpg‎\n  | picdesc                  = The Rising Light.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Densewood",
+  "item_type": "Buckler",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "+8 Enhancement Bonus",
+      "tooltip": "+8 Enhancement Bonus: +8 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+8 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +10",
+      "tooltip": "Constitution +10: This item gives the wearer improved health, granting a +10 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +10"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +10",
+      "tooltip": "Dexterity +10: This item makes the wearer more nimble and dexterous, granting a +10 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +10"
+        }
+      ]
+    },
+    {
+      "text": "Protection +10",
+      "tooltip": "Protection +10: Passive: +10 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +10"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Primary Augment (Yellow Augment Slot, Blue Augment Slot, or Red Augment Slot)",
+      "tooltip": "Upgradeable - Primary Augment: This item can be upgraded to contain a Yellow, Blue or Red (weapons and shields only) augment. Bring this item to the Fountain of Necrotic Might outside the Black Mausoleum and combine it with Item:Epic Tapestry Shreds to upgrade the item.Yellow and ColorlessBlue and ColorlessRed and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        },
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        },
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Secondary Augment (Green Augment Slot, Orange Augment Slot, or Purple Augment Slot)",
+      "tooltip": "Upgradeable - Secondary Augment: This item can be upgraded to contain a Green, Orange (weapons and shields only) or Purple (weapons and shields only) augment. Bring this item to the Fountain of Necrotic Might outside the Black Mausoleum and combine it with Item:Masterwork Tapestry Shreds to upgrade the item.Blue, Green, Yellow, and ColorlessOrange, Red, Yellow, and ColorlessBlue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        },
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        },
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

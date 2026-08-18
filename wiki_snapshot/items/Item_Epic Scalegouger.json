@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Epic Scalegouger",
+  "page_id": 91289,
+  "revision_id": 630372,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:54:59.794497+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Scalegouger\n  | prof                     = Martial\n  | sentience                = \n  | type                     = Heavy Pick\n  | hand                     = One-handed\n  | class                    = Piercing\n  | damage                   = 3[1d6] + 6 Pierce, Evil, Magic\n  | crit                     = 20 / x4\n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 20\n  | durability               = 265\n  | material                 = Steel\n  | hardness                 = 30\n  | basevalue                = 8000pp 8gp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 50\n  | quest                    = Epic Crafting\n  | chest                    = \n  | turn in                  = \n  | epic                     = Scalegouger\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Scalegouger\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|6}}\n* {{Bane|Reptilian|4}}\n* {{Blast|Evil|4}}\n* {{Armor-Piercing|15}}\n* {{Crippling}}\n* {{Augment|red}}\n* {{Augment|Colorless}}\n  | description              = This Heavy Pick is a quick and efficient way to pry scales from large fish.\n  | pic                      = Scalegouger shown.jpg\n  | picdesc                  = Epic Scalegouger.png\n  | tips                     = \n}}\n[[Category:Sinister Secret of Saltmarsh epic items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Heavy Pick",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Reptilian Bane 4",
+      "tooltip": "Reptilian Bane 4: This weapon is attuned specifically to hunt those with cunning and scales, dealing an additional 4d10 bane damage vs. Reptilians.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Reptilian Bane 4"
+        }
+      ]
+    },
+    {
+      "text": "Evil Blast 4",
+      "tooltip": "Evil Blast 4: This weapon is a sinister implement of evil deeds, dealing 4d6 Evil damage on a successful hit, and an additional 4d6 Evil damage on a critical hit. This effect makes the weapon evil aligned.Good characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Evil Blast 4"
+        }
+      ]
+    },
+    {
+      "text": "Armor-Piercing 15%",
+      "tooltip": "Armor-Piercing 15%: Passive: +15% Enhancement bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Armor-Piercing 15%"
+        }
+      ]
+    },
+    {
+      "text": "Crippling",
+      "tooltip": "Crippling: A crippling weapon is infused with binding power so that when a target is critically hit their movement is slowed by half.Note: Real slowdown is only 25%",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crippling",
+          "title": "Crippling",
+          "text": "Crippling"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Lesser Oblivion",
+  "page_id": 112529,
+  "revision_id": 678679,
+  "revision_timestamp": "2026-03-17T13:59:06Z",
+  "fetched_at": "2026-08-17T22:16:40.850013+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Lesser Oblivion\n  | minlevel                 = 4\n  | type                     = Club\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damage                   = [1d6] + 2 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 90\n  | material                 = Steel\n  | hardness                 = 14\n  | basevalue                = 1,600 pp 1 cp\n  | weight                   = 3 lbs\n  | released                 = Update 71\n  | quest                    = The Wizard's Labyrinth\n  | chest                    = end chest\n  | rare                     = yes\n  | enhancements             = \n* {{Enhancement bonus|i|2|4}}\n* {{HealingAmp|13|Negative|Profane}}\n* {{SpellPower|Nullification|56}}\n* {{Spelllore|Void|8}}\n* {{Skills|Heal|7}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Crafted in the image of the true Oblivion, this sceptre only retains a fraction of the original's power - But often times, that is plenty.\n  | pic                      = Lesser Oblivion shown.jpg\n  | picdesc                  = Lesser Oblivion.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +4",
+      "tooltip": "Spellcasting Implement +4: Passive: +4 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +4"
+        }
+      ]
+    },
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Profane Negative Amplification +13",
+      "tooltip": "Negative Amplification: This effect amplifies all incoming negative energy healing by +13 (Profane bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Amplification",
+          "title": "Negative Amplification",
+          "text": "Profane Negative Amplification +13"
+        }
+      ]
+    },
+    {
+      "text": "Nullification +56",
+      "tooltip": "Nullification +56: Passive: +56 Equipment bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Nullification +56"
+        }
+      ]
+    },
+    {
+      "text": "Void Lore +8%",
+      "tooltip": "Void Lore +8: Passive: Your Negative Energy and Poison spells gain a 8% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Void Lore +8%"
+        }
+      ]
+    },
+    {
+      "text": "Heal +7",
+      "tooltip": "Heal +7: Passive: +7 Competence bonus to the Heal skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heal_(skill)",
+          "title": "Heal (skill)",
+          "text": "Heal +7"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

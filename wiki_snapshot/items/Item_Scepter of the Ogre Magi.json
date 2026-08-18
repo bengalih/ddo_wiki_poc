@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Scepter of the Ogre Magi",
+  "page_id": 12683,
+  "revision_id": 634493,
+  "revision_timestamp": "2025-04-22T03:25:21Z",
+  "fetched_at": "2026-08-17T22:51:40.055813+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Scepter of the Ogre Magi\n  | basevalue                = 4,800 pp 1 cp\n  | weight                   = 3 lbs\n  | damage                   = 1.40[1d6] + 5 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 170\n  | material                 = Wood\n  | hardness                 = 17\n  | minlevel                 = 12\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | revamped                 = Update 49\n  | quest                    = Assault on Summerfield\n  | chest                    = end chest\n  | mythic                   = yes\n  | enhancements             = \n* {{Enhancement bonus|i|5|12}}\n* {{SpellPower|Potency|52}}\n* {{Skills|concentration|14}}\n* {{Spelllore|Healing|12}}\n* {{CraftingEffects|Fragmented}}\n* {{Clicky|Cone of Cold |9|3}}\n* {{Augment|Red}}\n  | crafting                 = Cauldron of Sora Katra\n  | craftingupgrade          = Master Transmuter's Staff\n  | craftingnotes            = \n  | description              = Lost to time, this scepter was eventually recovered by ogre magi and put to use in combat. It improves the damage of one's spells and makes him or her less likely to be interrupted while casting them.\n  | pic                      = Scepter of the Ogre Magi shown.jpg\n  | picdesc                  = Scepter of the Ogre Magi.png\n  | tips                     = This is a one handed club, which uses the two handed club wield animation.. Causes some really weird looking glitches if you equip a shield with it.\n* {{Unverified|This seems to be considered a two-handed weapon according to the Power Attack feat, meaning you get a -5 to-hit and a +10 to damage when it is active. This only applies when the Scepter of the Ogre Magi is in your main hand, though it will affect your off-hand weapon damage as well. This was tested using the dropdown in the inventory panel, so playtesting is required.}}\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +12",
+      "tooltip": "Spellcasting Implement +12: Passive: +12 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +12"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Potency +52",
+      "tooltip": "Potency +52: Passive: +52 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +52"
+        }
+      ]
+    },
+    {
+      "text": "Concentration +14",
+      "tooltip": "Concentration +14: Passive: +14 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +14"
+        }
+      ]
+    },
+    {
+      "text": "Healing Lore +12%",
+      "tooltip": "Healing Lore +12: Passive: Your Positive Energy spells gain a 12% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Healing Lore +12%"
+        }
+      ]
+    },
+    {
+      "text": "Fragmented",
+      "tooltip": "Fragmented: This item looks as though it is only one half of a greater item. Perhaps in the future it could be rejoined with its other half to reform the item in its original glory.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cauldron_of_Sora_Katra",
+          "title": "Cauldron of Sora Katra",
+          "text": "Fragmented"
+        }
+      ]
+    },
+    {
+      "text": "Cone of Cold — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Cone of Cold Caster level: 9Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cone_of_Cold",
+          "title": "Cone of Cold",
+          "text": "Cone of Cold"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

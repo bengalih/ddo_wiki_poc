@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Resonant Guard Suit",
+  "page_id": 8122,
+  "revision_id": 634194,
+  "revision_timestamp": "2025-04-22T03:05:28Z",
+  "fetched_at": "2026-08-17T22:44:05.994677+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Resonant Guard Suit\n  | type                     = Studded Leather\n  | feat                     = Light\n  | race                     = \n  | minlevel                 = 8\n  | bind                     = {{Bind|BtC|BoE}}\n  | ac                       = +9\n  | maxdexbonus              = 8\n  | asf                      = 10%\n  | durability               = 112\n  | material                 = Leather\n  | hardness                 = 16\n  | basevalue                = 3,202pp 5gp\n  | weight                   = 20 lbs\n  | quest                    = Slavers of the Shrieking Mines\n  | chest                    = [[Lord Villixill]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Guard|Sonic}}\n* {{Elemental Resistance|Sonic|20}}\n* {{Skills|ms|-10}}\n* {{Augment|Blue}}\n  | pic                      = Resonant Guard Suit shown.jpg\n  | picdesc                  = Desc Resonant Guard Suit.png\n  | description              = The studs of this leather armor are chiseled from the resonant crystals found in the Shrieking Mines. At rest they give off a low humming sound, but when struck, they deal damage back upon the attacker in a blast of focused sonic energy.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Studded Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Sonic Guard",
+      "tooltip": "Sonic Guard: This item blasts those that attack the wearer, causing 1d6 sonic damage on a successful melee attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sonic_Guard",
+          "title": "Sonic Guard",
+          "text": "Sonic Guard"
+        }
+      ]
+    },
+    {
+      "text": "Sonic Resistance +20",
+      "tooltip": "Sonic Resistance +20: Passive: +20 Enhancement bonus to your Sonic Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sonic_Resistance",
+          "title": "Sonic Resistance",
+          "text": "Sonic Resistance +20"
+        }
+      ]
+    },
+    {
+      "text": "Move Silently -10",
+      "tooltip": "Move Silently -10: Passive: -10 penalty to the Move Silently skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Move_Silently",
+          "title": "Move Silently",
+          "text": "Move Silently -10"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

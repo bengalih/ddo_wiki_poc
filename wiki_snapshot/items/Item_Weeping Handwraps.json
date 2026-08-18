@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Weeping Handwraps",
+  "page_id": 12577,
+  "revision_id": 672426,
+  "revision_timestamp": "2026-01-25T17:33:33Z",
+  "fetched_at": "2026-08-17T23:26:02.794318+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Weeping Handwraps\n  | damage                   = [1d6] +2 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Handwrap\n  | hand                     = Simple\n  | class                    = Bludgeoning\n  | prof                     = Exotic\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | minlevel                 = 2\n  | durability               = 140\n  | material                 = Cloth\n  | hardness                 = 15\n  | basevalue                = 803pp\n  | weight                   = 0.50 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = The Captives\n  | chest                    = [[Guldag]]'s chest\n  | revamped                 = Update 76\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Screaming}}\n* {{Augment|Red}}\n  | description              = This strip of cloth has several sigils that are obscured by bloodstains and gore.\n  | pic                      = Handwraps Generic.png\n  | picdesc                  = Weeping Handwraps.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Handwrap",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Screaming",
+      "tooltip": "Screaming: Screaming weapons emit a piercing screech whenever they are used to make a successful attack. This screech does an additional 1 to 6 sonic damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Screaming",
+          "title": "Screaming",
+          "text": "Screaming"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

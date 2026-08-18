@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:No Worries (level 25)",
+  "page_id": 68046,
+  "revision_id": 633786,
+  "revision_timestamp": "2025-04-22T02:37:01Z",
+  "fetched_at": "2026-08-17T22:32:50.745590+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|No Worries}}\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | race                     = \n  | ac                       = 31\n  | maxdexbonus              = 4\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 450\n  | material                 = Steel\n  | hardness                 = 36\n  | minlevel                 = 25\n  | released                 = Update 30\n  | quest                    = Anniversary Party\n  | chest                    = \n  | end reward               = \n  | turn in                  = {{U30 ingredient|80}}\n  | epic                     = no\n  | basevalue                = 10,050 pp\n  | weight                   = 50 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|7}}\n* {{Fortification|64|Insightful}}\n* {{Sheltering|14|Insightful|Physical}}\n* {{Augment|Green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = No Worries shown.jpg\n  | picdesc                  = No Worries (level 25).png\n  | description              = So be happy.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Fortification +64%",
+      "tooltip": "Insightful Fortification +64%: +64% Insight bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Insightful Fortification +64%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Physical Sheltering +14",
+      "tooltip": "Insightful Physical Sheltering +14: +14 Insight bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Insightful Physical Sheltering +14"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

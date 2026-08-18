@@ -1,0 +1,40 @@
+{
+  "page_title": "Item:Amulet of Natural Armor",
+  "page_id": 4185,
+  "revision_id": 628244,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:03:24.431075+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Amulet of Natural Armor\n  | basevalue                = 1,050 gold\n  | type                     = Necklace\n  | weight                   = 0.10 lbs\n  | slot                     = Neck\n  | quest                    = Special event items\n  | chest                    = DDO:Stormreach Pre Order Purchase Bonus Item\n  | durability               = 20\n  | material                 = Gold \n  | hardness                 = 31\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | enhancements             = \n* {{NaturalArmor|1}}\n  | description              = This magical amulet increases the natural armor of its wearer by 1.\n  | pic                      = Trinket Generic.png\n  | picdesc                  = Amulet of Natural Armor.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "enchantments": [
+    {
+      "text": "Natural Armor +1",
+      "tooltip": "Natural Armor +1: Passive: +1 Natural Armor Bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Natural_armor_bonus",
+          "title": "Natural armor bonus",
+          "text": "Natural Armor +1"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

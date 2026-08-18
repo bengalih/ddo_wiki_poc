@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:Epic Shield of Tireless Aid",
+  "page_id": 52653,
+  "revision_id": 653026,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:55:40.058975+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Epic Shield of Tireless Aid\n  | type                     = Large\n  | prof                     = General\n  | race                     = \n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 28\n  | damagemod                = STR\n  | attmod                   = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +21\n  | maxdexbonus              = None\n  | dr                       = 16\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = 4.60[2d8] + 12\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | durability               = 400\n  | material                 = Densewood\n  | hardness                 = 53\n  | basevalue                = 11,604 pp\n  | weight                   = 10 lbs\n  | released                 = Update 27\n  | quest                    = The Devil's Details\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|si|12}}\n* {{SpellPower|Devotion|150}}\n* {{HealingAmp|20|h|Equipment}}\n* {{Healers Bounty}}\n* {{Demonic Shield|Improved}}\n* {{Augment|Green}}\n  | description              = A steadfast healer is often the difference between victory and defeat.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Celestial Oak shown.jpg\n  | picdesc                  = Epic Shield of Tireless Aid.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Densewood",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +36",
+      "tooltip": "Spellcasting Implement +36: Passive: +36 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +36"
+        }
+      ]
+    },
+    {
+      "text": "+12 Enhancement Bonus",
+      "tooltip": "+12 Enhancement Bonus: +12 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+12 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +150",
+      "tooltip": "Devotion +150: Passive: +150 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +150"
+        }
+      ]
+    },
+    {
+      "text": "Equipment Healing Amplification +20",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +20 (Equipment bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Equipment Healing Amplification +20"
+        }
+      ]
+    },
+    {
+      "text": "Healers Bounty",
+      "tooltip": "Healers Bounty: This shield has a small percentage chance to cast a Heal spell on you when you take damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healers_Bounty",
+          "title": "Healers Bounty",
+          "text": "Healers Bounty"
+        }
+      ]
+    },
+    {
+      "text": "Improved Demonic Shield",
+      "tooltip": "Improved Demonic Shield: Each time you are hit in melee combat there is a chance that a shield of demonic energy will grant you a +120 Profane bonus to temporary hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Demonic_Shield#Improved_Demonic_Shield",
+          "title": "Demonic Shield",
+          "text": "Improved Demonic Shield"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "page_title": "Item:Chimera's Fang",
+  "page_id": 10936,
+  "revision_id": 628973,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:21:34.202708+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Chimera's Fang\n  | damage                   = [1d10] + 2 Slash, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Bastard Sword\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Exotic\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 150\n  | material                 = Steel\n  | hardness                 = 15\n  | minlevel                 = 5\n  | bind                     = {{Bind|BtA|BoA}}\n  | basevalue                = 2,005 pp\n  | weight                   = 8 lbs\n  | released                 = Update 4\n  | revamped                 = Update 40\n  | quest                    = The Tide Turns\n  | chest                    = End chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Electrifying|2}}\n* {{Stunning|4}}\n* {{Maiming|2}}\n* [[Dragonshard Focus: Sentinel]]:\n** This effect bestows additional benefits to those that bear the [[Dragonmark of Sentinel]].\n*** '''Least:''' [[Proficiency: Bastard Sword|Exotic Weapon Proficiency: Bastard Sword]]. \n*** '''Lesser:''' {{Parrying|I}}\n*** '''Greater:''' {{Fortification|25|Insightful}}\n* {{Augment|Red}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Chimera's Fang\n  | description              = This fine bastard sword was forged for the Dragonmarked of House Deneith. It is rumored to have powers that can only be used by those that bear the Mark of Sentinel.\n  | pic                      = Chimera's Fang shown.jpg\n  | picdesc                  = Chimera's Fang.png\n  | tips                     = \n}}\n[[Category:Dragonshard Focus: Sentinel items]]\n[[Category:Proficiency: Bastard Sword items]]\n[[Category:Weapons that grant their own proficiency]]",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Bastard Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Electrifying 2",
+      "tooltip": "Electrifying 2: This effect causes the edges of this weapon to arc with electricity, dealing 2d6 Lightning damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electrifying",
+          "title": "Electrifying",
+          "text": "Electrifying 2"
+        }
+      ]
+    },
+    {
+      "text": "Stunning +4",
+      "tooltip": "Stunning +4: +4 Enhancement bonus to the DC of character's Stunning Blow and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stunning",
+          "title": "Stunning",
+          "text": "Stunning +4"
+        }
+      ]
+    },
+    {
+      "text": "Maiming 2",
+      "tooltip": "Maiming: This weapon has a twisted haft or grip and spikes along its blade, head, or point. When you score a critical hit with this weapon, it does an additional +2d8 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maiming",
+          "title": "Maiming",
+          "text": "Maiming 2"
+        }
+      ]
+    },
+    {
+      "text": "Dragonshard Focus: Sentinel:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "This effect bestows additional benefits to those that bear the Dragonmark of Sentinel.",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Least: Exotic Weapon Proficiency: Bastard Sword.",
+              "tooltip": null,
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Proficiency:_Bastard_Sword",
+                  "title": "Proficiency: Bastard Sword",
+                  "text": "Exotic Weapon Proficiency: Bastard Sword"
+                }
+              ]
+            },
+            {
+              "text": "Lesser: Parrying I",
+              "tooltip": "Parrying I: Passive: +1 Insight bonus to Armor Class, +1 Insight bonus to Fortitude, Reflex, and Will Saving throws.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Parrying",
+                  "title": "Parrying",
+                  "text": "Parrying I"
+                }
+              ]
+            },
+            {
+              "text": "Greater: Insightful Fortification +25%",
+              "tooltip": "Insightful Fortification +25%: +25% Insight bonus to reduced chance of taking critical damage on a critical hit.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Fortification",
+                  "title": "Fortification",
+                  "text": "Insightful Fortification +25%"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Dragonmark_of_Sentinel",
+              "title": "Dragonmark of Sentinel",
+              "text": "Dragonmark of Sentinel"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Dragonshard_Focus:_Sentinel",
+          "title": "Dragonshard Focus: Sentinel",
+          "text": "Dragonshard Focus: Sentinel"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

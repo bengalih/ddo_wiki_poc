@@ -1,0 +1,13 @@
+{% for entry in nodes %}
+<li class="tree-entry">
+    {{ entry.text }}
+    {% if entry.tooltip %}
+    <span class="tree-tooltip" title="{{ entry.tooltip }}">&#9432;</span>
+    {% endif %}
+    {% if entry.children %}
+    <ul class="tree-children">
+        {% include "catalog/_enchantment_tree.html" with nodes=entry.children %}
+    </ul>
+    {% endif %}
+</li>
+{% endfor %}

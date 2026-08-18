@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Rough Plate",
+  "page_id": 77291,
+  "revision_id": 634385,
+  "revision_timestamp": "2025-04-22T03:18:13Z",
+  "fetched_at": "2026-08-17T22:48:59.592094+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Rough Plate\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | race                     = \n  | ac                       = 9\n  | maxdexbonus              = 5\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 74\n  | material                 = Steel\n  | hardness                 = 12\n  | minlevel                 = 1\n  | quest                    = Watch Your Step\n  | released                 = Update 44\n  | chest                    = [[Proud Kobold Chieftain]]'s chest\n  | end reward               = <!--At least 1 of these 3 should be filled in. Leave other 2 blank.-->\n  | turn in                  = <!--At least 1 of these 3 should be filled in. Leave other 2 blank.-->\n  | epic                     = no <!--Replace with non-epic version name if epic item.-->\n  | basevalue                = 450pp\n  | weight                   = 50 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|1}}\n* {{Fortification|38}}\n* {{Augment|blue}}\n  | crafting                 = <!--Type of crafting. Leave blank if none.-->\n  | craftingupgrade          = <!--What item can be upgraded to. Leave blank if none.-->\n  | pic                      = Rough Plate shown.jpg\n  | picdesc                  = Rough Plate.png\n  | description              = This is a little worn but can take quite a beating.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +38%",
+      "tooltip": "Fortification +38%: +38% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +38%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Spite, the Fractured Shards",
+  "page_id": 67153,
+  "revision_id": 668738,
+  "revision_timestamp": "2025-12-10T12:49:54Z",
+  "fetched_at": "2026-08-17T23:04:33.285796+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Spite, the Fractured Shards\n  | damage                   = 4.60[1d2+3] + 15 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Shuriken\n  | hand                     = Thrown\n  | race                     = \n  | class                    = Thrown\n  | prof                     = Exotic\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 28\n  | durability               = 295\n  | material                 = Glass\n  | hardness                 = 38\n  | basevalue                = 11,300 pp\n  | weight                   = 0.50 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 37\n  | revamped                 = Update 76\n  | quest                    = Old Baba's Hut\n  | chest                    = Raid Chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Glass Shards}}\n* {{Keen}}\n* {{Disruption|Sovereign}}\n* {{Hemorrhaging}}\n* {{Returning}}\n* {{Augment|Purple}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A glass that seeks the heart.\n  | pic                      = spite_shown.jpg\n  | picdesc                  = Spite, the Fractured Shards.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Shuriken",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Glass Shards",
+      "tooltip": "Glass Shards: This weapon is made of fragile glass and will shatter on impact, inflicting a bleed effect on targets vulnerable to bleeding. This bleed deals 5d10 damage per stack every two seconds, lasts for 20 seconds, and can stack up to 15 times.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Glass_Shards",
+          "title": "Glass Shards",
+          "text": "Glass Shards"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Sovereign Disruption",
+      "tooltip": "Sovereign Disruption: On Hit: 4 to 24 Bane damage to Undead.On Vorpal Hit: If an undead struck by this weapon has fewer than 3000 Hit Points, it is instantly slain. If the undead has above 3000 Hit Points, it takes 300 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disruption#Sovereign_Disruption",
+          "title": "Disruption",
+          "text": "Sovereign Disruption"
+        }
+      ]
+    },
+    {
+      "text": "Hemorrhaging",
+      "tooltip": "Hemorrhaging: This weapon is viciously sharp and will do an additional 2 to 16 damage to targets that are vulnerable to bleeding.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleed#Hemorrhaging",
+          "title": "Bleed",
+          "text": "Hemorrhaging"
+        }
+      ]
+    },
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

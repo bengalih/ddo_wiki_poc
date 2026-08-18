@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Gnashtooth Piecemail Chain",
+  "page_id": 2765,
+  "revision_id": 631168,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:12:49.863590+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Gnashtooth Piecemail Chain\n  | type                     = Chain Shirt\n  | feat                     = Light\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|BoA}}\n  | epic                     = no\n  | ac                       = +6\n  | maxdexbonus              = 5\n  | acp                      = -1\n  | asf                      = 15%\n  | durability               = 52\n  | material                 = Steel\n  | hardness                 = 11\n  | basevalue                = 810pp\n  | weight                   = 25 lbs\n  | quest                    = The Lost Seekers\n  | end reward               = yes\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement bonus|a|2}}\n* {{Elemental Resistance|Acid|3}}\n* {{Augment|Blue}}\n  | pic                      = Gnashtooth Piecemail Chain shown.jpg\n  | picdesc                  = Gnashtooth Piecemail Chain.png\n  | description              = This chainmail shirt is pieced together from several suits of chain. One of those suits happened to be magical and protected its kobold owner from the harsh acidic sewer water.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Chain Shirt",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Acid Resistance +3",
+      "tooltip": "Acid Resistance +3: Passive: +3 Enhancement bonus to your Acid Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Acid_Resistance",
+          "title": "Acid Resistance",
+          "text": "Acid Resistance +3"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Manacles of Ceaseless Toil (level 25)",
+  "page_id": 33117,
+  "revision_id": 649547,
+  "revision_timestamp": "2025-07-26T19:12:41Z",
+  "fetched_at": "2026-08-17T22:22:31.270311+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = {{Item|Manacles of Ceaseless Toil}}\n  | type                     = Bracers\n  | basevalue                = 10,020 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Wrist\n  | durability               = 260\n  | material                 = Leather\n  | hardness                 = 35\n  | bind                     = {{Bind|BtC|BoE}}\n  | minlevel                 = 25\n  | released                 = Update 17\n  | quest                    = Return to Gianthold Tor\n  | chest                    = Black Dragon chest (Epic Elite)\n  | enhancements             = \n* {{Clicky|Remove Exhaustion|3|3}}\n* {{Stat|STR|8}}\n* {{Stat|CON|8}}\n* {{Augment|Yellow}}\n  | pic                      = Bracers Generic Torn.png\n  | picdesc                  = Manacles of Ceaseless Toil (Level 25).png\n  | description              = These cuffs were symbols of authority given to the overseers of elven slave-bands. Bolstered by potent, compulsory magic, the cuff-wearers guided intricate work for weeks on end without complaint or loss of perception.\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "Remove Exhaustion — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Remove ExhaustionCaster level: 3Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Remove_Exhaustion",
+          "title": "Remove Exhaustion",
+          "text": "Remove Exhaustion"
+        }
+      ]
+    },
+    {
+      "text": "Strength +8",
+      "tooltip": "Strength +8: This item gives the wearer the power of Ogre Strength, granting a +8 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +8"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +8",
+      "tooltip": "Constitution +8: This item gives the wearer improved health, granting a +8 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +8"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Wrist Boost +1 or +3",
+      "tooltip": "Mythic Wrist Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Wrist Boost"
+        }
+      ]
+    }
+  ]
+}

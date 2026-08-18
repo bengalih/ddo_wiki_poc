@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Hide of the Fallen",
+  "page_id": 52611,
+  "revision_id": 631454,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:21:26.738834+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Hide of the Fallen\n  | type                     = Cloak\n  | slot                     = Back\n  | durability               = 140\n  | material                 = Leather\n  | hardness                 = 23\n  | basevalue                = 5,220 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 13\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 27\n  | quest                    = The Devil's Details\n  | end reward               = \n  | chest                    = End chest\n  | enhancements             = \n* {{Druidic|Survival Mastery}}\n* {{Shield Bonus|2}}\n* {{ArmorPiercing|10}}\n* {{Stat|STR|6}}\n* {{Augment|Blue}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This large cape was once the skin of an animal summoned to this plane, then abandoned. Over time, it learned to survive... at a cost. Still, its remains should prove useful.\n  | pic                      = Hide of the Fallen (shown).png\n  | picdesc                  = Hide of the Fallen.png\n  | tips                     = {{Bug|The [[Druidic Survival Mastery]] from '''Hide of the Fallen''' only applies if the item is initially equipped after going into Wild Shape. Equipping the item, then going into Wild Shape, is erroneously failing to provide the benefit.{{Ref|1={{Forums|478575}}}}}}\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Druidic Survival Mastery",
+      "tooltip": "Druidic Survival Mastery: While in Wild Shape, you receive a Primal bonus to damage equal to half the number of Wilderness Lore feats you have.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Druidic_Survival_Mastery",
+          "title": "Druidic Survival Mastery",
+          "text": "Druidic Survival Mastery"
+        }
+      ]
+    },
+    {
+      "text": "Shield +2",
+      "tooltip": "Shield +2: While this item is equipped, you are partially protected by a field of magical force which can deflect enemy attacks. This item provides a +2 Shield bonus to Armor Class. It does not stack with an equipped shield.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bonus",
+          "title": "Shield Bonus",
+          "text": "Shield +2"
+        }
+      ]
+    },
+    {
+      "text": "Armor-Piercing 10%",
+      "tooltip": "Armor-Piercing 10%: Passive: +10% Enhancement bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Armor-Piercing 10%"
+        }
+      ]
+    },
+    {
+      "text": "Strength +6",
+      "tooltip": "Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +6"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Wave of Wailing",
+  "page_id": 126208,
+  "revision_id": 699183,
+  "revision_timestamp": "2026-07-23T16:43:43Z",
+  "fetched_at": "2026-08-17T23:25:53.786502+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Wave of Wailing\n  | damage                   = 1.20[2d6] + 5 Slash, Chaotic, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Great Sword\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = Two-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 210\n  | material                 = Steel\n  | hardness                 = 21\n  | minlevel                 = 11\n  | basevalue                = 4,405pp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 81\n  | quest                    = A Blood Pact\n  | chest                    = end chest\n  | mythic                   = yes\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Echoes of Angdrelve|3}}\n* {{Anarchic|3}}\n* {{Disintegrate|2}}\n* {{Telekinetic||45}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Another aspect of Graz'zt's great blade.\n  | pic                      = Wave of Wailing shown.jpg\n  | picdesc                  = Wave of Wailing.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Echoes of Angdrelve 3",
+      "tooltip": "Echoes of Angdrelve 3: Eager to taste the flesh of your enemies, this wicked sword drips burning acid at your command. Each strike from this devastating weapon deals an additional 3d6 Acid damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Echoes_of_Angdrelve",
+          "title": "Echoes of Angdrelve",
+          "text": "Echoes of Angdrelve 3"
+        }
+      ]
+    },
+    {
+      "text": "Anarchic 3",
+      "tooltip": "Anarchic 3: On Hit: 3 to 12 Chaos damage. Chaos-aligned creatures are immune to this effect.Penalty: If equipped by a Lawful user, they receive 1 Negative Level for as long as this item is equipped.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Anarchic 3"
+        }
+      ]
+    },
+    {
+      "text": "Disintegrate 2",
+      "tooltip": "Disintegrate 2: Strikes with this weapon have a small chance to call forth a strike of entropic force, dealing 2d20+27 untyped damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disintegrate",
+          "title": "Disintegrate",
+          "text": "Disintegrate 2"
+        }
+      ]
+    },
+    {
+      "text": "Telekinetic 45",
+      "tooltip": "Telekinetic 45: Targets that suffer a critical hit from a Telekinetic weapon must make a DC 45 Reflex saving throw or be knocked down.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Telekinetic",
+          "title": "Telekinetic",
+          "text": "Telekinetic 45"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

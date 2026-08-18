@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Fragment of the Silver Flame",
+  "page_id": 10016,
+  "revision_id": 630992,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:08:15.893666+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Fragment of the Silver Flame\n  | type                     = Trinket\n  | slot                     = Trinket\n  | durability               = 71\n  | material                 = Gem \n  | hardness                 = 27\n  | basevalue                = 2820 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 7\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = The Church and the Cult\n  | chest                    = end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Protection from Evil}}\n* {{Augment|Colorless}}\n  | description              = This holy relic is a fragment of gemstone infused with the power of the Silver Flame.\n  | pic                      = Gem Generic White.png\n  | picdesc                  = Fragment of the Silver Flame.png\n  | tips                     = The Protection from Evil it grants is continuous.\n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Protection from Evil",
+      "tooltip": "Protection from Evil: Passive: You gain the benefit of the spell Protection from Evil.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection_from_Evil",
+          "title": "Protection from Evil",
+          "text": "Protection from Evil"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

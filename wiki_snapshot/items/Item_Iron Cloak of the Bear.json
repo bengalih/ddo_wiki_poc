@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Iron Cloak of the Bear",
+  "page_id": 26604,
+  "revision_id": 631585,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:24:47.123139+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Iron Cloak of the Bear\n  | type                     = Cloak\n  | slot                     = Back\n  | durability               = 170\n  | material                 = Steel\n  | hardness                 = 21\n  | basevalue                = 6,405pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 16\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Eveningstar Challenge Pack\n  | chest                    = Turn in various ingredients\n  | mythic                   = no\n  | enhancements             = \n* {{Sheltering|3}}\n* {{ProtectionBonus|5}}\n* {{Tactics|Combat Mastery|4|Insight}} \n* {{Incite|20}}\n  | crafting                 = Eveningstar Challenge Pack\n  | craftingupgrade          = Mithral Cloak of the Bear\n  | description              = Lined with plates of steel, this bearskin cloak is a formidable protection.\n  | pic                      = Mithril Cloak of the Wolf Shown.jpg\n  | picdesc                  = Iron Cloak of the Bear.png\n  | tips                     = Upgrade to [[Mithral Cloak of the Bear]] by turning in 800 Golden Lions, 1600 Silver Falcons, 800 Enchanted Moss, 800 Fey Toadstools, [[Iron Cloak of the Bear]]\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Sheltering +3",
+      "tooltip": "Sheltering +3: +3 Enhancement bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Sheltering +3"
+        }
+      ]
+    },
+    {
+      "text": "Protection +5",
+      "tooltip": "Protection +5: Passive: +5 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +5"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Combat Mastery +4",
+      "tooltip": "Insightful Combat Mastery +4: +4 Insight bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combat_Mastery",
+          "title": "Combat Mastery",
+          "text": "Insightful Combat Mastery +4"
+        }
+      ]
+    },
+    {
+      "text": "Incite +20",
+      "tooltip": "Incite +20: +20% Enhancement bonus to increased threat generation from melee damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incite",
+          "title": "Incite",
+          "text": "Incite +20"
+        }
+      ]
+    }
+  ]
+}

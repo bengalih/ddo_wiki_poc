@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Malleable Sceptre of Nullification",
+  "page_id": 88776,
+  "revision_id": 699321,
+  "revision_timestamp": "2026-07-23T20:52:53Z",
+  "fetched_at": "2026-08-17T22:22:16.882689+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Malleable Sceptre of Nullification\n  | minlevel                 = 12\n  | type                     = Club\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damage                   = 1.40[1d6] + 6 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | race                     = \n  | slot                     = \n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 170\n  | material                 = Wood\n  | hardness                 = 22\n  | cost                     = 4,800 pp 1 cp\n  | weight                   = 3 lbs\n  | released                 = Update 49\n  | revamped                 = Update 80\n  | quest                    = Seizing the Dawn\n  | end reward               = \n  | turn in                  = \n  | chest                    = End chest\n  | mythic                   = yes\n  | enhancements             = \n* {{Enhancement bonus|i|6|12}}\n* {{Spelllore|Void|12}}\n* {{SpellPower|Nullification|84}}\n* {{SpellPower|Nullification|42|Insight}}\n* {{Spell Focus|Necromancy|4}}\n* {{CraftingEffects|Malleable}}\n* {{Augment|Red}}\n  | crafting                 = Cauldron of Sora Katra\n  | craftingupgrade          = Combustible Nullified Quarterstaff¦Corrosive Nullified Quarterstaff¦Glaciated Nullified Quarterstaff¦Impulsive Nullified Quarterstaff¦Magnetic Nullified Quarterstaff\n  | description              = This magical sceptre is attuned to Negative Energy and Poison spells.\n  | pic                      = Malleable Sceptre of Radiance shown.jpg\n  | picdesc                  = Malleable Sceptre of Nullification.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +12",
+      "tooltip": "Spellcasting Implement +12: Passive: +12 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +12"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Void Lore +12%",
+      "tooltip": "Void Lore +12: Passive: Your Negative Energy and Poison spells gain a 12% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Void Lore +12%"
+        }
+      ]
+    },
+    {
+      "text": "Nullification +84",
+      "tooltip": "Nullification +84: Passive: +84 Equipment bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Nullification +84"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Nullification +42",
+      "tooltip": "Insightful Nullification +42: Passive: +42 Insight bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Insightful Nullification +42"
+        }
+      ]
+    },
+    {
+      "text": "Necromancy Focus +4",
+      "tooltip": "Necromancy Focus +4: +4 Equipment bonus to the DC of Necromancy spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Necromancy Focus +4"
+        }
+      ]
+    },
+    {
+      "text": "Malleable",
+      "tooltip": "Malleable: This item has a magical aura of malleability and can be combined with any item that has the Fusible property to create a new, more powerful fusion of the two items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cauldron_of_Sora_Katra",
+          "title": "Cauldron of Sora Katra",
+          "text": "Malleable"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

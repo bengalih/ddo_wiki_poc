@@ -1,0 +1,188 @@
+{
+  "page_title": "Item:Epic Mournlode Longsword",
+  "page_id": 19531,
+  "revision_id": 630249,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:52:34.932151+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Mournlode Longsword|Epic Mournlode Longsword}}\n  | damage                   = 3[1d8] + 5 Slash, Good, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Long Sword\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 270\n  | material                 = Steel\n  | hardness                 = 30\n  | minlevel                 = 20\n  | basevalue                = 8,001 pp 5gp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various challenge ingredients\n  | mythic                   = no\n  | enhancements             = \n{{VaultsOfTheArtificersUpgrade|Item:Epic_Mournlode_Longsword}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = \n  | description              = A weapon crafted from the valuable purple Mournlode crystal is especially effective against the undead.\n  | pic                      = Timeblade shown.jpg \n  | picdesc                  = Item_EpicMournlodeLongsword_T1_Description.png\n  | tips                     = '''See also:''' {{Item|Mournlode Longsword}} - Full table of the Mournlode longsword line\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": "Upgradeable - Tier 1: This item is a Tier 1 upgradable item.",
+      "children": [
+        {
+          "text": "+5 Enhancement Bonus",
+          "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+5 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Righteous",
+          "tooltip": "Righteous: This weapon is imbued with holy power, giving it an additional +2 to attack bonus and damage against any evil creature. This power makes the weapon good-aligned.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Righteous",
+              "title": "Righteous",
+              "text": "Righteous"
+            }
+          ]
+        },
+        {
+          "text": "Undead Bane 4",
+          "tooltip": "Undead Bane 4: Those that have died must return, and this weapon is attuned specifically to lay them to rest. This weapon deals an additional 4d10 bane damage vs. Undead.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Undead Bane 4"
+            }
+          ]
+        },
+        {
+          "text": "Brilliance",
+          "tooltip": "Brilliance: This weapon glows with the light of Irian. This weapon deals an extra 1 to 6 points of light damage on a successful hit. In addition, critical hits deal an additional 1 to 10 light damage for weapons with a x2 critical multiplier, 2 to 20 for a x3 critical multiplier and 3 to 30 for a x4 multiplier.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Brilliance_(enchantment)",
+              "title": "Brilliance (enchantment)",
+              "text": "Brilliance"
+            }
+          ]
+        },
+        {
+          "text": "Radiant Blast",
+          "tooltip": "Radiant Blast: This weapon stores the power of the plane of Irian deep within. Occasionally, this dynamic power comes to the surface, devastating enemies with a massive blast of radiant light.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Radiant_Blast",
+              "title": "Radiant Blast",
+              "text": "Radiant Blast"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": "Upgradeable - Tier 2: This item is a Tier 2 upgradable item.",
+      "children": [
+        {
+          "text": "+5 Enhancement Bonus → +6 Enhancement Bonus",
+          "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+5 Enhancement Bonus"
+            },
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+6 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Undead Bane 4 → Undead Bane 5",
+          "tooltip": "Undead Bane 4: Those that have died must return, and this weapon is attuned specifically to lay them to rest. This weapon deals an additional 4d10 bane damage vs. Undead.Undead Bane 5: Those that have died must return, and this weapon is attuned specifically to lay them to rest. This weapon deals an additional 5d10 bane damage vs. Undead.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Undead Bane 4"
+            },
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Undead Bane 5"
+            }
+          ]
+        },
+        {
+          "text": "Adds Colorless Augment Slot",
+          "tooltip": "Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Colorless Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This item is a Tier 3 upgradable item.",
+      "children": [
+        {
+          "text": "Adds Blinding Flash",
+          "tooltip": "Blinding Flash: This weapon glows with a white radiance. If you roll a 20 when attacking and confirm the critical hit, the target will become blinded by a burst of high-intensity light.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Blinding_Flash",
+              "title": "Blinding Flash",
+              "text": "Blinding Flash"
+            }
+          ]
+        },
+        {
+          "text": "Adds Purple Augment Slot",
+          "tooltip": "Blue, Purple, Red, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Purple Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Copper Ingot Arcanum (level 13)",
+  "page_id": 35149,
+  "revision_id": 648989,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:25:42.714713+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Copper Ingot Arcanum}}\n  | damage                   = [1d6] + 5 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 210\n  | material                 = Copper\n  | hardness                 = 18\n  | minlevel                 = 13\n  | released                 = Update 17\n  | quest                    = Gianthold Tor\n  | chest                    = Blue Dragon chest (Heroic Hard)\n  | basevalue                = 5,200pp 1cp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | enhancements             = \n* {{Enhancement bonus|i|5}}\n* {{Spelllore|Lightning|V}}\n* {{SpellPower|Magnetism|66}}\n* {{SpellPower|Impulse|66}}\n* {{SpellPower|Potency|44}}\n  | description              = Once used as a wand by the giants of the Lost Empire, this five-foot rod makes a heavy fighting staff for a human-sized wielder. It is inscribed with runes that would fascinate and befuddle the greatest scholars of Xen'drik.\n  | pic                      = Copper Ingot Arcanum shown.jpg\n  | picdesc                  = Copper Ingot Arcanum (Level 13).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +15",
+      "tooltip": "Spellcasting Implement +15: Passive: +15 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +15"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Lore V",
+      "tooltip": "Lightning Lore V: Passive: Your Electricity spells gain a 15% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore V"
+        }
+      ]
+    },
+    {
+      "text": "Magnetism +66",
+      "tooltip": "Magnetism +66: Passive: +66 Equipment bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Magnetism +66"
+        }
+      ]
+    },
+    {
+      "text": "Impulse +66",
+      "tooltip": "Impulse +66: Passive: +66 Equipment bonus to Force, Untyped, Slashing, Piercing, and Bludgeoning Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impulse",
+          "title": "Impulse",
+          "text": "Impulse +66"
+        }
+      ]
+    },
+    {
+      "text": "Potency +44",
+      "tooltip": "Potency +44: Passive: +44 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +44"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

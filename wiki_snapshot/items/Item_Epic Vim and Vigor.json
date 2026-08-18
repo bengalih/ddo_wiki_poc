@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Epic Vim and Vigor",
+  "page_id": 49692,
+  "revision_id": 630574,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:59:04.987491+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Epic Vim and Vigor\n  | minlevel                 = 26\n  | type                     = Necklace\n  | slot                     = Neck\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 270\n  | material                 = Gold\n  | hardness                 = 36\n  | basevalue                = 10420 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 24\n  | quest                    = Terminal Delirium\n  | end reward               = \n  | turn in                  = \n  | chest                    = second bonus dance chest\n  | enhancements             = \n* {{Stat|STR|11}}\n* {{False Life|40}}\n* {{Heroism|Greater}}\n* {{NaturalArmor|9}}\n* {{Augment|Green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A charm representing vitality encompassed by strength, hangs from a thin titanium chain.\n  | pic                      = Necklace Generic.png\n  | picdesc                  = Epic Vim and Vigor.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "Strength +11",
+      "tooltip": "Strength +11: This item gives the wearer the power of Ogre Strength, granting a +11 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +11"
+        }
+      ]
+    },
+    {
+      "text": "Superior False Life",
+      "tooltip": "Superior False Life: This item grants the wearer +40 maximum health.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)#Superior_False_Life",
+          "title": "False Life (enchantment)",
+          "text": "Superior False Life"
+        }
+      ]
+    },
+    {
+      "text": "Greater Heroism",
+      "tooltip": "Greater Heroism: Passive: +4 morale bonus to all your attack rolls, saving throws, and skill checks. Does not grant immunity to Fear.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heroism_(enchantment)",
+          "title": "Heroism (enchantment)",
+          "text": "Greater Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Natural Armor +9",
+      "tooltip": "Natural Armor +9: Passive: +9 Natural Armor Bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Natural_armor_bonus",
+          "title": "Natural armor bonus",
+          "text": "Natural Armor +9"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Bolt Insignia",
+  "page_id": 63580,
+  "revision_id": 628652,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:12:58.190262+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Bolt Insignia\n  | minlevel                 = 27\n  | type                     = Trinket\n  | slot                     = Trinket\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 280\n  | material                 = Blue Dragonscale\n  | hardness                 = 37\n  | basevalue                = 10,820pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 35\n  | quest                    = Riding the Storm Out\n  | turn in                  = \n  | chest                    = warded chest\n  | enhancements             = \n* {{Spelllore|Lightning|21}}\n* {{Efficient Metamagic|Intensify|2}}\n* {{Wizardry|133|Insight}}\n* {{SpellPower|Magnetism|34|Quality}}\n* {{Augment|Green}}\n* {{Augment|Yellow}}\n  | description              = An Ancient Blue Dragonscale with a symbol of lightning carved into its face. Kor Kaza likely intended to grant this to one of her followers.\n  | pic                      = Ingredient Generic Mercurial.png\n  | picdesc                  = Bolt Insignia.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Blue Dragonscale",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "Lightning Lore +21%",
+      "tooltip": "Lightning Lore +21: Passive: Your Electricity spells gain a 21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Efficient Metamagic - Intensify II",
+      "tooltip": "Efficient Metamagic - Intensify II: The additional spell point cost for using the Intensify Metamagic feat is reduced by 2 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Intensify II"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Wizardry +133",
+      "tooltip": "Insightful Wizardry +133: +133 Insight bonus to spell points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Insightful Wizardry +133"
+        }
+      ]
+    },
+    {
+      "text": "Quality Magnetism +34",
+      "tooltip": "Quality Magnetism +34: Passive: +34 Quality bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Quality Magnetism +34"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Trinket Boost +1 or +3",
+      "tooltip": "Mythic Trinket Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Trinket Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Pick of Endless Light (level 4)",
+  "page_id": 71686,
+  "revision_id": 672623,
+  "revision_timestamp": "2026-01-25T18:35:47Z",
+  "fetched_at": "2026-08-17T22:37:58.173952+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Pick of Endless Light}}\n  | damage                   = [1d4] + 2 Pierce, Magic\n  | crit                     = 20 / x4\n  | type                     = Light Pick\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Piercing\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 4\n  | durability               = 105\n  | material                 = Steel\n  | hardness                 = 14\n  | cost                     = 1620 pp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = The Night Revels\n  | chest                    = \n  | end reward               = \n  | turn in                  = {{NightRevelsRecipe|ing_chocolate= 60|ing_apple= 20|ing_caramel= 10}} at [[Joe Candymaker]] \n  | revamped                 = Update 76\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Bane|Undead|Lesser}}\n* {{Incandescence}}\n  | crafting                 = The Night Revels\n  | craftingupgrade          = Pick of Endless Light (level 8)\n  | description              = This pick is light upon light; both brilliant and lacking in weight.\n  | pic                      = Alchemical_Light_Pick_shown.jpg<!-- placeholder image for: Pick of Endless Light shown.jpg -->\n  | picdesc                  = Pick of Endless Light (level 4).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Light Pick",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Undead Bane",
+      "tooltip": "Lesser Undead Bane: A bane weapon excels at attacking one type or subtype of creature. Against Undeads, this weapon's effective enhancement bonus is +1 better than its normal enhancement bonus. It deals an extra 1 to 6 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Lesser Undead Bane"
+        }
+      ]
+    },
+    {
+      "text": "Incandescence",
+      "tooltip": "Incandescence: This weapon glows with the light of Irian. This weapon deals an extra 1 to 6 points of light damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incandescence",
+          "title": "Incandescence",
+          "text": "Incandescence"
+        }
+      ]
+    }
+  ]
+}

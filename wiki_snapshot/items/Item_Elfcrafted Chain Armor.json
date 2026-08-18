@@ -1,0 +1,54 @@
+{
+  "page_title": "Item:Elfcrafted Chain Armor",
+  "page_id": 10033,
+  "revision_id": 629754,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:42:37.537605+00:00",
+  "categories": [],
+  "wikitext": "{{History}}\n{{Named item|Armor\n  | name                     = Elfcrafted Chain Armor\n  | type                     = Breastplate\n  | feat                     = Light\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +11\n  | maxdexbonus              = 6\n  | asf                      = 15%\n  | durability               = 124\n  | material                 = Mithral\n  | hardness                 = 21\n  | basevalue                = 4,020pp\n  | weight                   = 15 lbs\n  | quest                    = Elfcraft Armor\n  | chest                    = \n  | end reward               = \n  | turn in                  = 10 [[Ancient Elven Relic]]s\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{Mat|Mithral}}\n* Arcane Lore\n* Minor Spell Penetration VII\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Elfcrafted Chain Armor shown.jpg\n  | picdesc                  = Elfcrafted Chain Armor.png\n  | description              = Chain armor imbued with the power of the elven slaves of the giant empire.\n  | notes                    = Turn in 10 [[Ancient Elven Relic]]s to Hoorunoe in [[Gianthold]].\n}}",
+  "item_template": "History",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Breastplate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Mithral",
+      "tooltip": "Mithral: Mithral armor is one type lighter then normal. Arcane Spell Failure decreased by 10%. Maximum dexterity bonus increased by 2. Armor check penalty reduced by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mithral",
+          "title": "Mithral",
+          "text": "Mithral"
+        }
+      ]
+    },
+    {
+      "text": "Arcane Lore",
+      "tooltip": null,
+      "children": []
+    },
+    {
+      "text": "Minor Spell Penetration VII",
+      "tooltip": null,
+      "children": []
+    }
+  ]
+}

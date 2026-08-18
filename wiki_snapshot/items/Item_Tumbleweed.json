@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Tumbleweed",
+  "page_id": 8781,
+  "revision_id": 635625,
+  "revision_timestamp": "2025-04-22T04:40:21Z",
+  "fetched_at": "2026-08-17T23:21:29.292383+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Tumbleweed\n  | type                     = Ring\n  | class                    = Jewelry\n  | minlevel                 = 13\n  | material                 = Steel\n  | hardness                 = 18\n  | durability               = 90\n  | bind                     = {{Bind|BtC|BoA}}\n  | basevalue                = 6,405pp\n  | weight                   = 0.10 lbs\n  | slot                     = Finger\n  | quest                    = Hound of Xoriat\n  | chest                    = Raid Warded chest\n  | mythic                   = no\n  | enhancements             = \n* {{Attack Bonus|2}}\n* {{Stat|DEX|6}}\n* {{Skills|Tumble|10}}\n  | description              = This silver ring has a series of small barbs engraved on the outside of the ring. It was said to have been worn by an infamous cutpurse that disappeared investigating the ruins beneath Stormreach.\n  | pic                      = Ring Generic Tumbleweed.png\n  | picdesc                  = Tumbleweed.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Attack Bonus +2",
+      "tooltip": "Attack Bonus +2: Provides a +2 competence bonus to your attack rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Attack_bonus",
+          "title": "Attack bonus",
+          "text": "Attack Bonus +2"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +6",
+      "tooltip": "Dexterity +6: This item makes the wearer more nimble and dexterous, granting a +6 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +6"
+        }
+      ]
+    },
+    {
+      "text": "Tumble +10",
+      "tooltip": "Tumble +10: Passive: +10 Competence bonus to the Tumble skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Tumble_(skill)",
+          "title": "Tumble (skill)",
+          "text": "Tumble +10"
+        }
+      ]
+    }
+  ]
+}

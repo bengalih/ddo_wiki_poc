@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Shadowsight (level 16)",
+  "page_id": 42105,
+  "revision_id": 650211,
+  "revision_timestamp": "2025-07-26T19:12:59Z",
+  "fetched_at": "2026-08-17T22:54:36.429226+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = {{Item|Shadowsight}}\n  | minlevel                 = 16\n  | type                     = Goggles\n  | slot                     = Eye\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 170\n  | material                 = Gold\n  | hardness                 = 26\n  | basevalue                = 6,420pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 19\n  | quest                    = Through a Mirror Darkly\n  | chest                    = end chest (Heroic Elite)\n  | enhancements             = \n* {{Ethereal}}\n* {{Stat|WIS|+7}}\n* {{Accuracy|viii}}\n* {{Augment|yellow}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Goggle attuned to the Shadowfell that makes hitting shadows and other incorporeal creatures easier.\n  | pic                      = Legendary Negotiators Spectacles shown.jpg\n  | picdesc                  = Shadowsight (Level 16).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Ethereal",
+      "tooltip": "Ethereal: Equipping this item causes your hands and weapons to become partially incorporeal. Your melee attacks do not roll a miss chance for Incorporeal targets.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ethereal",
+          "title": "Ethereal",
+          "text": "Ethereal"
+        }
+      ]
+    },
+    {
+      "text": "Wisdom +7",
+      "tooltip": "Wisdom +7: This item makes the wearer more in tune with her surroundings, granting a +7 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +7"
+        }
+      ]
+    },
+    {
+      "text": "Accuracy VIII",
+      "tooltip": "Accuracy VIII: Passive: +8 Competence bonus to attack rolls",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accuracy",
+          "title": "Accuracy",
+          "text": "Accuracy VIII"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Goggle Boost +1 or +3",
+      "tooltip": "Mythic Goggle Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Goggle Boost"
+        }
+      ]
+    }
+  ]
+}

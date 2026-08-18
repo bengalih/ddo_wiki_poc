@@ -1,0 +1,132 @@
+{
+  "page_title": "Item:Ultimatum",
+  "page_id": 52621,
+  "revision_id": 693585,
+  "revision_timestamp": "2026-07-09T12:18:51Z",
+  "fetched_at": "2026-08-17T23:21:56.941649+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Ultimatum\n  | type                     = Tower\n  | prof                     = Tower\n  | race                     = \n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 26\n  | damagemod                = STR\n  | attmod                   = STR\n  | bind                     = {{Bind|BtC|BoA}}\n  | sb                       = 25\n  | maxdexbonus              = 2\n  | dr                       = 21\n  | acp                      = -9\n  | asf                      = 50\n  | dmg                      = 4.20[1d12+10] + 13\n  | dmgtype                  = Bludgeon, Good, Silver, Adamantine, Mithral, Cold Iron, Magic, Byeshk\n  | crit                     = 20 / x2\n  | durability               = 380\n  | material                 = Planeforged Steel\n  | hardness                 = 51\n  | basevalue                = 10,804 pp\n  | weight                   = 50 lbs\n  | released                 = Update 27\n  | quest                    = Defiler of the Just\n  | chest                    = Warded chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|s|13}}\n* {{Sheltering|33|enhancement|physical}}\n* {{Bashing|X|Improved}}\n* {{Holy|6|1}}\n* {{Mat|Metalline}}\n* {{Immunity|Petrification}}\n* {{Augment|Purple}}\n* {{Augment|Blue}}\n  | description              = There is no question - evil hands will never prevail.\n  | crafting                 = Soulforge\n  | craftingupgrade          = Essence of Ultimatum\n  | pic                      = Ultimatum shown.jpg\n  | picdesc                  = Ultimatum.png\n  | tips                     = This item can also be upgraded into {{Item|Fiendish Requisition}} or {{Item|Legendary Fiendish Requisition}} at the [[Strange Catalyst Forge]].\n}}\n[[C:Essence augment material items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Tower Shield Proficiency",
+  "material": "Planeforged Steel",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "+13 Enhancement Bonus",
+      "tooltip": "+13 Enhancement Bonus: +13 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+13 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +33",
+      "tooltip": "Physical Sheltering +33: +33 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +33"
+        }
+      ]
+    },
+    {
+      "text": "Improved Bashing X",
+      "tooltip": "Improved Bashing X: On Shield Bash: +5d4 Bludgeoning damage.On Melee Hit: +20% Chance to automatically hit your enemy with a Shield Bash attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Improved_Bashing",
+          "title": "Improved Bashing",
+          "text": "Improved Bashing X"
+        }
+      ]
+    },
+    {
+      "text": "Holy 6",
+      "tooltip": "Holy 6: This weapon is wielded by the pure to smite the wicked, dealing an additional 6d6 good damage on each hit. This effect makes the weapon good aligned. Evil characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Holy 6"
+        }
+      ]
+    },
+    {
+      "text": "Metalline",
+      "tooltip": "Metalline: Metalline bypasses any metal based damage reduction. (Adamantine, \"Alchemical, Silver\", Byeshk, Cold Iron, Mithral)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Metalline",
+          "title": "Metalline",
+          "text": "Metalline"
+        }
+      ]
+    },
+    {
+      "text": "Petrification Immunity",
+      "tooltip": "Petrification Immunity: This items gives immunity to Petrification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Petrification_Immunity",
+          "title": "Petrification Immunity",
+          "text": "Petrification Immunity"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

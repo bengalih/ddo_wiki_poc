@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:The Epic Band Immaterial",
+  "page_id": 52584,
+  "revision_id": 690647,
+  "revision_timestamp": "2026-06-30T16:34:10Z",
+  "fetched_at": "2026-08-17T23:13:49.241572+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = The Epic Band Immaterial\n  | minlevel                 = 28\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 290\n  | material                 = Steel\n  | hardness                 = 38\n  | basevalue                = 11,220 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 27\n  | quest                    = Demon Assault\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | epic                     = no\n  | enhancements             = \n* {{Spell Focus|Illusion|V}}\n* {{Spell Focus|Enchantment|V}}\n* {{Spell Focus|Enchantment|2|Insightful}}\n* {{Spell Focus|Illusion|2|Insightful}}\n* {{Augment|Green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = It is said that this band was once used to convince an entire squadron of devils that their leader had sold them out. There were no survivors, save the ring itself.\n  | pic                      = Ring Generic Immaterial.png\n  | picdesc                  = The Epic Band Immaterial.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "Illusion Focus V",
+      "tooltip": "Illusion Focus V: +5 Equipment bonus to the DC of Illusion spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Illusion Focus V"
+        }
+      ]
+    },
+    {
+      "text": "Enchantment Focus V",
+      "tooltip": "Enchantment Focus V: +5 Equipment bonus to the DC of Enchantment spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Enchantment Focus V"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Enchantment Focus +2",
+      "tooltip": "Insightful Enchantment Focus +2: +2 Insight bonus to the DC of Enchantment spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Enchantment Focus +2"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Illusion Focus +2",
+      "tooltip": "Insightful Illusion Focus +2: +2 Insight bonus to the DC of Illusion spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Illusion Focus +2"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

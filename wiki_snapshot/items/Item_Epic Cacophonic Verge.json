@@ -1,0 +1,86 @@
+{
+  "page_title": "Item:Epic Cacophonic Verge",
+  "page_id": 12001,
+  "revision_id": 690567,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:45:30.710151+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Eternal wand\n  | name                     = Epic Cacophonic Verge\n  | umd                      = 45\n  | noumd                    = Wiz, Sor, Brd\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | durability               = 225\n  | material                 = Wood\n  | hardness                 = 30\n  | weight                   = 0.10 lbs\n  | cost                     = 84,800pp\n  | icon                     = GreaterShout.png\n  | spell                    = Greater Shout\n  | casterlvl                = 20\n  | charge                   = 15\n  | quest                    = Altar of Epic Rituals\n  | chest                    = {{Item|Cacophonic Verge}}\n  | epic                     = Cacophonic Verge\n  | released                 = Update 6\n  | revamped                 = Update 80\n  | enhancements             = \n* {{Clicky|Greater Shout|20|15|15}}\n* {{Spelllore|Sonic|+16}}\n* {{Spell Power|Resonance|111}}\n* {{Spell Focus|Evocation|+6}}\n* {{Absorption|Sonic|27}}\n* {{Wand Maximizing}}\n  | mythic                   = no\n  | description              = A thin rod of blackened wood containing charges of the Greater Shout spell. Eternal wands recharge over time if they are not actively being used.\n  | picdesc                  = Epic Cacophonic Verge.png\n}}\n[[Category:The Red Fens epic items]]",
+  "item_template": "Named item",
+  "material": "Wood",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Greater Shout — 15 Charges (Recharged/Day:15)",
+      "tooltip": "Greater ShoutCaster level: 20Charges: 15 (15/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Greater_Shout",
+          "title": "Greater Shout",
+          "text": "Greater Shout"
+        }
+      ]
+    },
+    {
+      "text": "Sonic Lore +16%",
+      "tooltip": "Sonic Lore +16: Passive: Your Sonic spells gain a +16% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Sonic Lore +16%"
+        }
+      ]
+    },
+    {
+      "text": "Resonance +111",
+      "tooltip": "Resonance +111: Passive: +111 Equipment bonus to Sonic Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resonance",
+          "title": "Resonance",
+          "text": "Resonance +111"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus +6",
+      "tooltip": "Evocation Focus +6: +6 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus +6"
+        }
+      ]
+    },
+    {
+      "text": "Sonic Absorption +27%",
+      "tooltip": "Sonic Absorption +27%: Passive: 27% Enhancement Bonus to Sonic Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Sonic Absorption +27%"
+        }
+      ]
+    },
+    {
+      "text": "Wand Maximizing",
+      "tooltip": "Wand Maximizing: Spells cast from this wand are treated as though they were Maximized, dealing 100% more damage than they normally would. This damage increase does not stack with bonuses granted by enhancements.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wand_Maximizing",
+          "title": "Wand Maximizing",
+          "text": "Wand Maximizing"
+        }
+      ]
+    }
+  ]
+}

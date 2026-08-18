@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Legendary Bronze Dragonscale Plate",
+  "page_id": 74281,
+  "revision_id": 644161,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:33:42.221118+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Bronze Dragonscale Plate\n  | type                     = Heavy Armor\n  | feat                     = Heavy\n  | race                     = \n  | ac                       = +40\n  | maxdexbonus              = 6\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 490\n  | material                 = Blue Dragonscale\n  | hardness                 = 40\n  | minlevel                 = 29\n  | released                 = Update 42\n  | quest                    = The Magma Must Flow\n  | chest                    = End Chest\n  | end reward               = <!--At least 1 of these 3 should be filled in. Leave other 2 blank.-->\n  | turn in                  = <!--At least 1 of these 3 should be filled in. Leave other 2 blank.-->\n  | epic                     = no\n  | basevalue                = 11,650pp\n  | weight                   = 50 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Fortification|142}}\n* {{Sheltering|33|Enhancement|Physical}}\n* {{HealingAmp|53|h|Competence}}\n* {{Hp|False Life|50}}\n* {{Augment|Green}}\n* {{Named item sets|Legendary Hruit's Influence}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Bronze Dragonscale Plate shown.jpg\n  | picdesc                  = Legendary Bronze Dragonscale Plate.png\n  | description              = This gorgeous Bronze Dragonscale armor is magically attuned and brilliantly reflective.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Blue Dragonscale",
+  "armor_type": "Heavy Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +142%",
+      "tooltip": "Fortification +142%: +142% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +142%"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +33",
+      "tooltip": "Physical Sheltering +33: +33 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +33"
+        }
+      ]
+    },
+    {
+      "text": "Competence Healing Amplification +53",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +53 (Competence bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Competence Healing Amplification +53"
+        }
+      ]
+    },
+    {
+      "text": "False Life +50",
+      "tooltip": "False Life +50: +50 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +50"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Hruit's Influence",
+      "tooltip": "Legendary Hruit's Influence: 3 Pieces Equipped:+30 Artifact bonus to Fire, Cold, Lightning, and Positive Spell Power+6% Artifact bonus to Fire, Cold, Lightning and Positive Spell Crit Chance+3 Artifact bonus to Wisdom+3 Artifact bonus to Spell DCs",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Legendary_Hruit's_Influence",
+          "title": "Named item sets",
+          "text": "Legendary Hruit's Influence"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

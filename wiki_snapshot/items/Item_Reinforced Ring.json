@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Reinforced Ring",
+  "page_id": 39594,
+  "revision_id": 634182,
+  "revision_timestamp": "2025-04-22T03:04:40Z",
+  "fetched_at": "2026-08-17T22:43:43.577502+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Reinforced Ring\n  | type                     = Ring\n  | race                     = Shadar-kai\n  | slot                     = Finger\n  | durability               = 160\n  | material                 = Silver\n  | hardness                 = 20\n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Stat|CON|5}}\n* {{Stat|DEX|1|exceptional}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Ring Generic Tumbleweed.png\n  | picdesc                  = Reinforced Ring.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Silver",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Constitution +5",
+      "tooltip": "Constitution +5: This item gives the wearer improved health, granting a +5 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +5"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Dexterity +1",
+      "tooltip": "Exceptional Dexterity +1: This item makes the wearer more nimble and dexterous, granting a +1 Exceptional bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Exceptional Dexterity +1"
+        }
+      ]
+    }
+  ]
+}

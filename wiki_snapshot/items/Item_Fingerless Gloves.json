@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Fingerless Gloves",
+  "page_id": 87007,
+  "revision_id": 630833,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:04:22.248888+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Fingerless Gloves\n  | type                     = Gloves\n  | race                     = Razorclaw Shifter\n  | slot                     = Hand\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Stat|Con|1|Exceptional}}\n* {{Stat|Str|6}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Gloves Generic Fabricator.png\n  | picdesc                  = Fingerless Gloves.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Exceptional Constitution +1",
+      "tooltip": "Exceptional Constitution +1: This item gives the wearer improved health, granting a +1 Exceptional bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Exceptional Constitution +1"
+        }
+      ]
+    },
+    {
+      "text": "Strength +6",
+      "tooltip": "Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +6"
+        }
+      ]
+    }
+  ]
+}

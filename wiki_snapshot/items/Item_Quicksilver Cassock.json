@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Quicksilver Cassock",
+  "page_id": 8666,
+  "revision_id": 686698,
+  "revision_timestamp": "2026-05-27T17:39:54Z",
+  "fetched_at": "2026-08-17T22:41:18.297593+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Quicksilver Cassock\n  | type                     = Robe\n  | feat                     = Cloth\n  | ac                       = +5\n  | minlevel                 = 8\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 85\n  | material                 = Cloth\n  | hardness                 = 10\n  | basevalue                = 3,205 pp 5 gp\n  | quest                    = Cult of the Six\n  | end reward               = yes\n  | mythic                   = false\n  | enhancements             = \n* {{ArmorBonus|5}}\n* {{Striding|25}}\n* {{Alacrity|Melee|10}}\n* {{Augment|Blue}}\n  | pic                      = Quicksilver Cassock shown.jpg\n  | picdesc                  = Quicksilver Cassok.png\n  | description              = A shimmering, ankle-length garment cut from cloth that flows like water between your fingers. It seems to respond to your aura.\n  | notes                    = \n}}\n[[C:Eleven Year Old Cake items]]",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +5",
+      "tooltip": "Armor Bonus +5: This item surrounds the wearer with an invisible but tangible field of force, granting +5 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +5"
+        }
+      ]
+    },
+    {
+      "text": "Striding +25%",
+      "tooltip": "Striding +25%: This item makes you more fleet of foot, giving you a 25% Enhancement bonus your movement speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Striding",
+          "title": "Striding",
+          "text": "Striding +25%"
+        }
+      ]
+    },
+    {
+      "text": "Melee Alacrity 10%",
+      "tooltip": "Melee Alacrity 10%: Gain 10% Enhancement bonus to Melee attack speed. Does not stack with the Haste spell.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Melee_Alacrity",
+          "title": "Melee Alacrity",
+          "text": "Melee Alacrity 10%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

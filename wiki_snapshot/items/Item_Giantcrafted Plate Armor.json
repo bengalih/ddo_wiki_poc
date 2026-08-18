@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Giantcrafted Plate Armor",
+  "page_id": 10029,
+  "revision_id": 672311,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:10:38.809329+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=item|replaced={{Item|Giantcraft Plate Armor}}}}\n{{Named item|Armor\n  | name                     = Giantcrafted Plate Armor\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | race                     = \n  | minlevel                 = 10\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +17\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 156\n  | material                 = Adamantine\n  | hardness                 = 27\n  | basevalue                = 5,250pp\n  | weight                   = 50 lbs\n  | quest                    = Giantcraft Armor\n  | chest                    = \n  | end reward               = \n  | turn in                  = 10 [[Ancient Giant Relic]]s\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Shield (spell)|1|3|label=Shield}}\n* {{Enhancement bonus|a|5}}\n* {{Mat|Adamantine|a|3}}\n* {{Fortification|1}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Giantcrafted Plate Armor shown.jpg\n  | picdesc                  = Giantcrafted Plate Armor.png\n  | description              = Plate armor imbued with the power of the ancient giants.\n  | notes                    = \n}}",
+  "item_template": "History",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Adamantine",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Shield — 3 Charges (Recharged/Day:3)",
+      "tooltip": "ShieldCaster level: 1Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_(spell)",
+          "title": "Shield (spell)",
+          "text": "Shield"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Heavy armor made from adamantine grants its wearer damage reduction of 3/-.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +25%",
+      "tooltip": "Fortification +25%: This suit of armor or shield produces a magical force that protects vital areas of the wearer much more effectively. When a critical hit or sneak attack is scored on the wearer, there is a 25% chance that the critical hit or sneak attack is negated and damage is instead rolled normally.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +25%"
+        }
+      ]
+    }
+  ]
+}

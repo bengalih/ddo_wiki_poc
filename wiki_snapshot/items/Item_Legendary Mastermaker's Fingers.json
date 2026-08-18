@@ -1,0 +1,106 @@
+{
+  "page_title": "Item:Legendary Mastermaker's Fingers",
+  "page_id": 74347,
+  "revision_id": 689370,
+  "revision_timestamp": "2026-06-19T15:07:26Z",
+  "fetched_at": "2026-08-17T21:59:01.017384+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Legendary Mastermaker's Fingers\n  | type                     = Gloves\n  | class                    = Clothing\n  | basevalue                = 11,601pp\n  | weight                   = 0.10 lbs\n  | slot                     = Hand\n  | durability               = 390\n  | material                 = Magesteel\n  | hardness                 = 49\n  | minlevel                 = 29\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 42\n  | revamped                 = Update 80\n  | quest                    = Just Business\n  | chest                    = End Chest\n  | enhancements             = \n* {{SpellPower|Reconstruction|142}}\n* {{Spelllore|Repair|21}}\n* {{Spell Focus|Evocation|7}}\n* {{ItemGrantedFeat|Quick Draw}}\n* {{Augment|Green}}\n* {{Named item sets|Legendary Arcsteel Battlemage}}\n  | description              = NEW and IMPROVED: Now with built-in set of wrenches!\n  | pic                      = Gloves Generic.png\n  | picdesc                  = Legendary Mastermaker's Fingers.png\n}}",
+  "item_template": "Named item",
+  "material": "Magesteel",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Reconstruction +142",
+      "tooltip": "Reconstruction +142: Passive: +142 Equipment bonus to Repair and Rust Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reconstruction",
+          "title": "Reconstruction",
+          "text": "Reconstruction +142"
+        }
+      ]
+    },
+    {
+      "text": "Repair Lore +21%",
+      "tooltip": "Repair Lore +21: Passive: Your Repair and Rust spells gain a 21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Repair Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus +7",
+      "tooltip": "Evocation Focus +7: +7 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus +7"
+        }
+      ]
+    },
+    {
+      "text": "Feat: Quick Draw",
+      "tooltip": "Feat: Quick Draw: While equipped, this item grants the feat Quick Draw.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feat",
+          "title": "Feat",
+          "text": "Feat"
+        },
+        {
+          "target": "/page/Quick_Draw",
+          "title": "Quick Draw",
+          "text": "Quick Draw"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Arcsteel Battlemage",
+      "tooltip": "Legendary Arcsteel Battlemage: 3 Pieces Equipped:+30 Artifact bonus to Electric, Fire, Force, and Repair Spell Power+6% Artifact bonus to Electric, Fire, Force, and Repair Spell Crit Chance+3 Artifact bonus to Intelligence+3 Artifact bonus to Spell DCs",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Legendary_Arcsteel_Battlemage",
+          "title": "Named item sets",
+          "text": "Legendary Arcsteel Battlemage"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Hands Boost +1 or +3",
+      "tooltip": "Mythic Hands Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Hands Boost"
+        }
+      ]
+    }
+  ]
+}

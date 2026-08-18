@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Twig of the Giant Mage",
+  "page_id": 11504,
+  "revision_id": 635633,
+  "revision_timestamp": "2025-04-22T04:40:53Z",
+  "fetched_at": "2026-08-17T23:21:41.191200+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Twig of the Giant Mage\n  | damage                   = [1d6] + 2 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Simple\n  | durability               = 120\n  | material                 = Wood\n  | hardness                 = 14\n  | minlevel                 = 4\n  | quest                    = Redwillow's Ruins\n  | chest                    = End chest\n  | end reward               = \n  | basevalue                = 1,600 pp 1 cp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Spell Resistance|15}}\n* {{Augment|Red}}\n  | pic                      = Twig of the Giant Mage shown.jpg\n  | picdesc                  = Twig of the Giant Mage.png\n  | description              = A long, stout staff used as a simple weapon. Often favored by wizards or common folk.\n  | tips                     = This staff drops in the final chest in Redwillow's Ruins in House Jorasco.<br />It is guarded by a large group of giants and the boss giant.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Spell Resistance +15",
+      "tooltip": "Spell Resistance +15: +15 Enhancement bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Spell Resistance +15"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

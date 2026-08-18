@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Oilskin Tunic",
+  "page_id": 10158,
+  "revision_id": 633808,
+  "revision_timestamp": "2025-04-22T02:38:49Z",
+  "fetched_at": "2026-08-17T22:33:30.827261+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Oilskin Tunic\n  | type                     = Leather\n  | feat                     = Light\n  | minlevel                 = 8\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +9\n  | maxdexbonus              = 8\n  | asf                      = 10%\n  | durability               = 112\n  | material                 = Leather\n  | hardness                 = 16\n  | basevalue                = 3,201 pp\n  | weight                   = 15 lbs\n  | quest                    = Cult of the Six\n  | end reward               = yes\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n  | pic                      = Oilskin Tunic shown.jpg\n  | picdesc                  = Oilskin Tunic.png\n  | description              = Slippery leather armor that appears to be coated in an acid-repelling substance.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

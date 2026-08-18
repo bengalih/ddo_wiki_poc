@@ -1,0 +1,177 @@
+{
+  "page_title": "Item:Flawless Blue Dragonplate Armor",
+  "page_id": 33885,
+  "revision_id": 630944,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:07:02.165249+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Flawless Blue Dragonplate Armor\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | minlevel                 = 25\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +32\n  | maxdexbonus              = 2\n  | acp                      = -3\n  | asf                      = 35%\n  | durability               = 450\n  | material                 = Blue Dragonscale\n  | hardness                 = 40\n  | basevalue                = 10,150 pp\n  | weight                   = 25 lbs\n  | released                 = Update 17\n  | quest                    = Blue Dragonscale Armor\n  | turn in                  = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|7}}\n* {{Spellpen|III}}\n* {{Spelllore|spell|VI}}\n* {{SpellPower|Potency|80}}\n* {{Elemental Resistance|Electric|40}}\n* {{Attuned to Heroism}}\n* {{Named item sets|Draconic Mind}}\n* {{Augment|Blue}}\n  | crafting                 = Attuned to Heroism\n  | craftingupgrade          = \n  | pic                      = Blue Dragonplate Armor shown.jpg\n  | picdesc                  = Flawless Blue Dragonplate Armor.png\n  | description              = Flawless plate armor forged from scales of a blue dragon.\n  | notes                    = Turn-in:\n* 20 {{Item|Flawless Blue Dragon Scale}}s\n* 10 {{Item|Restored Dragon Relic}}s\n* 10 {{Item|Restored Elven Relic}}s\n* 10 {{Item|Restored Giant Relic}}s\n* {{Commendation|Heroism|3}}\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Blue Dragonscale",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration III",
+      "tooltip": "Spell Penetration III: Passive: +3 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration III"
+        }
+      ]
+    },
+    {
+      "text": "Spell Lore VI",
+      "tooltip": "Spell Lore VI: Passive: All of your spells gain a 6% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Spell Lore VI"
+        }
+      ]
+    },
+    {
+      "text": "Potency +80",
+      "tooltip": "Potency +80: Passive: +80 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +80"
+        }
+      ]
+    },
+    {
+      "text": "Electric Resistance +40",
+      "tooltip": "Electric Resistance +40: Passive: +40 Enhancement bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Electric Resistance +40"
+        }
+      ]
+    },
+    {
+      "text": "Attuned to Heroism",
+      "tooltip": "This relic is attuned to heroic actions.",
+      "children": [
+        {
+          "text": "Attuned by Heroism: Tier 1",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "+7 Enhancement Bonus → +8 Enhancement Bonus",
+              "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.+8 Enhancement Bonus: +8 enhancement bonus to attack and damage rolls.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+7 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+8 Enhancement Bonus"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 1"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Spell Lore VI → Spell Lore IX",
+              "tooltip": "Spell Lore VI: Passive: All of your spells gain a 6% Equipment bonus to their chance to critical hit.Spell Lore IX: Passive: All of your spells gain a 9% Equipment bonus to their chance to critical hit.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Spell_Lore",
+                  "title": "Spell Lore",
+                  "text": "Spell Lore VI"
+                },
+                {
+                  "target": "/page/Spell_Lore",
+                  "title": "Spell Lore",
+                  "text": "Spell Lore IX"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 2"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Attuned_to_Heroism",
+          "title": "Attuned to Heroism",
+          "text": "Attuned to Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Draconic Mind",
+      "tooltip": "Draconic Mind: While an Epic-level Helm of the Blue Dragon is equipped at the same time as a Flawless Blue Dragonscale Armor, you will gain a +15 artifact bonus to your Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Draconic_Mind",
+          "title": "Named item sets",
+          "text": "Draconic Mind"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

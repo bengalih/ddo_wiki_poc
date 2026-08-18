@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Knight's Vambraces",
+  "page_id": 39266,
+  "revision_id": 631676,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:27:14.231466+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Knight's Vambraces\n  | minlevel                 = 15\n  | type                     = Bracers\n  | race                     = Purple Dragon Knight\n  | slot                     = Wrist\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6,010 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Doublestrike|3%}}\n* {{Stat|STR|+1|Exceptional}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Bracers Generic.png\n  | picdesc                  = Knight's Vambraces.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Doublestrike 3%",
+      "tooltip": "Doublestrike 3%: Passive: 3% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 3%"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Strength +1",
+      "tooltip": "Exceptional Strength +1: This item gives the wearer the power of Ogre Strength, granting a +1 Exceptional bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Exceptional Strength +1"
+        }
+      ]
+    }
+  ]
+}

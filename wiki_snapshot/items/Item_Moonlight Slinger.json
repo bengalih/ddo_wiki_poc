@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Moonlight Slinger",
+  "page_id": 112443,
+  "revision_id": 678675,
+  "revision_timestamp": "2026-03-17T13:58:45Z",
+  "fetched_at": "2026-08-17T22:26:05.229754+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Moonlight Slinger\n  | prof                     = Exotic\n  | damage                   = [1d10] + 2 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Repeating Heavy Crossbow\n  | class                    = Ranged\n  | race                     = \n  | minlevel                 = 4\n  | reqtrait                 = \n  | UMD DC                   = \n  | hand                     = Ranged\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 130\n  | material                 = Steel\n  | hardness                 = 14\n  | cost                     = 1,640 pp\n  | weight                   = 12 lbs\n  | released                 = Update 71\n  | revamped                 = Update 76\n  | quest                    = The Darkness and the Light\n  | chest                    = end chest\n  | rare                     = yes\n  | turn in                  = \n  | mythic                   = \n  | epic                     = no\n  | legendary                = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Chilling|2}}\n* {{Blast|Icy|2}}\n* {{Freezing|4}}\n* {{Crippling}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = The cold moon's light, sharpened well.\n  | pic                      = Moonlight Slinger shown.jpg\n  | picdesc                  = Moonlight Slinger.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Repeating Heavy Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Chilling 2",
+      "tooltip": "Chilling 2: This effect causes the edges of this weapon to become frozen to the touch, dealing 2d6 Ice damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Chilling",
+          "title": "Chilling",
+          "text": "Chilling 2"
+        }
+      ]
+    },
+    {
+      "text": "Icy Blast 2",
+      "tooltip": "Icy Blast 2: This weapon is sheathed in icy cold, dealing 2d6 Cold damage on a successful hit, and an additional 2d6 Cold damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Icy Blast 2"
+        }
+      ]
+    },
+    {
+      "text": "Freezing 4",
+      "tooltip": "Freezing 4: This effect causes the edges of this weapon to become frozen to the touch, dealing 4 to 24 Ice damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Freezing",
+          "title": "Freezing",
+          "text": "Freezing 4"
+        }
+      ]
+    },
+    {
+      "text": "Crippling",
+      "tooltip": "Crippling: A crippling weapon is infused with binding power so that when a target is critically hit their movement is slowed by half.Note: Real slowdown is only 25%",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crippling",
+          "title": "Crippling",
+          "text": "Crippling"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

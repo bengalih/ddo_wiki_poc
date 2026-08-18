@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Spontaneity",
+  "page_id": 107804,
+  "revision_id": 635004,
+  "revision_timestamp": "2025-04-22T03:58:57Z",
+  "fetched_at": "2026-08-17T23:04:41.793043+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Spontaneity\n  | minlevel                 = 15\n  | type                     = Ring\n  | race                     = Eladrin Chaosmancer\n  | slot                     = Finger\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Silver\n  | hardness                 = 20\n  | cost                     = 6,020 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 68\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Stat|CON|1|Exceptional}}\n* {{Stat|DEX|6}}\n  | crafting                 = \n  | description              = This ring compels you to act on instinct instead of logic.\n  | pic                      = Ring Generic Silver.png\n  | picdesc                  = Spontaneity.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Silver",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Exceptional Constitution +1",
+      "tooltip": "Exceptional Constitution +1: This item gives the wearer improved health, granting a +1 Exceptional bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Exceptional Constitution +1"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +6",
+      "tooltip": "Dexterity +6: This item makes the wearer more nimble and dexterous, granting a +6 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +6"
+        }
+      ]
+    }
+  ]
+}

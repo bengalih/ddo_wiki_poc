@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Greataxe of the Fallen Age",
+  "page_id": 109024,
+  "revision_id": 631223,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:15:09.740113+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Greataxe of the Fallen Age\n  | prof                     = Martial\n  | sentience                = \n  | damage                   = 1.60[1d12] + 5 Slash, Good, Evil, Lawful, Chaotic, Magic\n  | crit                     = 19-20 / x3\n  | type                     = Great Axe\n  | class                    = Slashing\n  | race                     = \n  | minlevel                 = 13\n  | reqtrait                 = <!-- Leave blank if not used-->\n  | UMD DC                   = <!-- Leave blank if not used-->\n  | hand                     = Two-handed\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 230\n  | material                 = Steel\n  | hardness                 = 23\n  | cost                     = 5202pp\n  | weight                   = 12 lbs\n  | released                 = Update 69\n  | revamped                 = <!-- Update ## -->\n  | quest                    = Magic of Myth Drannor\n  | chest                    = any end chest, most optional chests\n  | epic                     = no <!--Replace with non-epic version name if epic crafted item.-->\n  | legendary                = no <!--Replace with epic version name if legendary crafted item.-->\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Blast|Anarchic|3}}\n* {{Anarchic|3}}\n* {{Aligned}}\n* {{Keen}}\n* {{Augment|Red}}\n  | crafting                 = <!--Type of crafting-->\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | description              = Wild magic has imbued entropy into this weapon over the years.\n  | pic                      = Greataxe of the Fallen Age shown.jpg\n  | picdesc                  = Greataxe of the Fallen Age.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Anarchic Blast 3",
+      "tooltip": "Anarchic Blast 3: This weapon is a chaotic conduit, dealing 3d6 Chaos damage on a successful hit, and an additional 3d6 Chaos damage on a critical hit. This effect makes the weapon chaotically aligned.Lawful characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Anarchic Blast 3"
+        }
+      ]
+    },
+    {
+      "text": "Anarchic 3",
+      "tooltip": "Anarchic 3: On Hit: 3 to 12 Chaos damage. Chaos-aligned creatures are immune to this effect.Penalty: If equipped by a Lawful user, they receive 1 Negative Level for as long as this item is equipped.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Anarchic 3"
+        }
+      ]
+    },
+    {
+      "text": "Aligned",
+      "tooltip": "Aligned: This weapon transmutes into a form that is able to bypass any alignment based Damage Reduction. (Chaotic, Good, Evil, Lawful)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Aligned",
+          "title": "Aligned",
+          "text": "Aligned"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

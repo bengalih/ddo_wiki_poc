@@ -1,0 +1,74 @@
+{
+  "page_title": "Item:Winter's Wrath",
+  "page_id": 10993,
+  "revision_id": 635840,
+  "revision_timestamp": "2025-04-22T04:55:01Z",
+  "fetched_at": "2026-08-17T23:27:15.831027+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Eternal wand\n  | name                     = Winter's Wrath\n  | umd                      = 25\n  | noumd                    = [[wizard|Wiz]], [[sorcerer|Sor]], [[bard|Brd]]\n  | minlevel                 = 5\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | durability               = 25\n  | material                 = Wood\n  | hardness                 = 10\n  | weight                   = 0.10 lbs\n  | cost                     = 2,800pp\n  | icon                     = SnowballSwarm.png\n  | spell                    = Snowball Swarm\n  | casterlvl                = 5\n  | charge                   = 25\n  | released                 = Update 4\n  | revamped                 = Update 40\n  | quest                    = The Tide Turns\n  | chest                    = end chest\n  | enhancements             = \n* {{Clicky|Snowball Swarm|5|25|25}}\n* {{Augmentation|1|Cold|3}}\n* {{SpellPower|Glaciation|59}}\n* {{Spell Lore|Ice|9}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Winter's Wrath\n  | description              = A thin rod of blackened wood containing charges of the Snowball Swarm spell. Eternal wands recharge over time if they are not actively being used.\n  | picdesc                  = Winter's Wrath.png\n  | notes                    = [[File:Winter's Wrath shown.jpg|thumb|left|200px]]\n}}",
+  "item_template": "Named item",
+  "material": "Wood",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Snowball Swarm — 25 Charges (Recharged/Day:25)",
+      "tooltip": "Snowball SwarmCaster level: 5Charges: 25 (25/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Snowball_Swarm",
+          "title": "Snowball Swarm",
+          "text": "Snowball Swarm"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Cold Augmentation III",
+      "tooltip": "Lesser Cold Augmentation III: Increases the wearer's caster level when casting third level or lower Cold spells by one.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Augmentation",
+          "title": "Spell Augmentation",
+          "text": "Lesser Cold Augmentation III"
+        }
+      ]
+    },
+    {
+      "text": "Glaciation +59",
+      "tooltip": "Glaciation +59: Passive: +59 Equipment bonus to Cold Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Glaciation",
+          "title": "Glaciation",
+          "text": "Glaciation +59"
+        }
+      ]
+    },
+    {
+      "text": "Ice Lore +9%",
+      "tooltip": "Ice Lore +9: Passive: Your Cold spells gain a 9% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Ice Lore +9%"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

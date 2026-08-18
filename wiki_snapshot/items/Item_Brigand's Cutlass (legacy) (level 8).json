@@ -1,0 +1,123 @@
+{
+  "page_title": "Item:Brigand's Cutlass (legacy) (level 8)",
+  "page_id": 14963,
+  "revision_id": 672720,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:15:44.248138+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Brigand's Cutlass}}\n  | prof                     = Martial\n  | damage                   = [1d6] + 2 Slash, Chaotic, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Scimitar\n  | class                    = Slashing\n  | minlevel                 = 8\n  | hand                     = One-handed\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 110\n  | material                 = Steel\n  | hardness                 = 15\n  | basevalue                = 5,002 pp\n  | weight                   = 4 lbs\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|copper|650}}{{CCi|silver|375}}{{CCi|obsidian|20}} at [[Dusty Old Treasure of Crystal Cove]]\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n* [[Upgradeable - Tier 1]]\n** {{Enhancement_bonus|w|2}}\n** {{Skills|Intim|7}}\n** {{Anarchic}}\n* [[Upgradeable - Tier 2]]\n** {{Enhancement_bonus|w|2}} &rarr; {{Enhancement_bonus|w|3}}\n* [[Upgradeable - Tier 3]]\n** Adds {{Chaos|True}}\n  | crafting                 = Treasure of Crystal Cove\n  | craftingupgrade          = \n  | description              = A curved sword with an elegant hilt, popular amongst pirates for its intimidating and yet sophisticated appearance. This particular blade is infused with the rowdiness and anarchy of a high-seas brigand, and is impeccably useful against lawful opponents.\n  | pic                      = Brigand's Cutlass shown.jpg\n  | picdesc                  = Brigand's Cutlass (Level 8).png\n  | tips                     = See also: [[Item:Brigand's Cutlass|Brigand's Cutlass]] - Full table of the Brigand's Cutlass line<br/>\n* {{CCi|obsidian|45}}{{CCi|amber|30}}{{CCi|green|200}}: {{Popup|Tier 2|[[File:Brigand's Cutlass (level 8)(tier 2).png|450 px]]|long=y}}\n* {{CCi|obsidian|70}}{{CCi|amber|50}}{{CCi|green|400}}{{CCi|bold|1}}: {{Popup|Tier 3|[[File:Brigand's Cutlass (level 8)(tier 3).png|450 px]]|long=y}}\n}}<noinclude>[[Category:Treasure of Crystal Cove legacy reward items]]</noinclude>",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Scimitar",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "+2 Enhancement Bonus",
+          "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+2 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Intimidate +7",
+          "tooltip": "Intimidate +7: Passive: +7 Competence bonus to the Intimidate skill.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Intimidate",
+              "title": "Intimidate",
+              "text": "Intimidate +7"
+            }
+          ]
+        },
+        {
+          "text": "Anarchic",
+          "tooltip": "Anarchic: An anarchic weapon is chaotically aligned and infused with the power of chaos. It makes the weapon chaos-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2 to 12 damage against all of lawful alignment.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Alignment_damage_(weapon)#Anarchic",
+              "title": "Alignment damage (weapon)",
+              "text": "Anarchic"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "+2 Enhancement Bonus → +3 Enhancement Bonus",
+          "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+2 Enhancement Bonus"
+            },
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+3 Enhancement Bonus"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_2",
+          "title": "Upgradeable - Tier 2",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "Adds True Chaos",
+          "tooltip": "True Chaos: This weapon is infused with the power of True Chaos. It does an additional 1 to 6 damage to non-chaotic targets and can only be wielded by Chaotic-aligned characters.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/True_Chaos",
+              "title": "True Chaos",
+              "text": "True Chaos"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_3",
+          "title": "Upgradeable - Tier 3",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

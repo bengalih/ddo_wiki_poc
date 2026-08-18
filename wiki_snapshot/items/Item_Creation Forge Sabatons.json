@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Creation Forge Sabatons",
+  "page_id": 37968,
+  "revision_id": 629205,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:27:39.986283+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Creation Forge Sabatons\n  | type                     = Boots\n  | race                     = Bladeforged\n  | basevalue                = 6,005 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 15\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Speed|V}}\n* {{Dodge|2}}\n* {{Feather Falling}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Boots Generic Gyroscopic.png\n  | picdesc                  = Creation Forge Sabatons.png\n  | tips                     = Bladeforged starter item\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Speed V",
+      "tooltip": "Speed V: Passive: +25% enhancement bonus to movement speed, +5% enhancement bonus to melee and ranged attack speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Speed",
+          "title": "Speed",
+          "text": "Speed V"
+        }
+      ]
+    },
+    {
+      "text": "Dodge +2%",
+      "tooltip": "Dodge +2%: +2% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +2%"
+        }
+      ]
+    },
+    {
+      "text": "Feather Falling",
+      "tooltip": "Feather Falling: This item is engraved with feathers and bestows a powerful magical effect. Whenever the wearer begins to fall from any height, this effect slows the descent dramatically, causing the wearer to fall like a feather.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feather_Falling",
+          "title": "Feather Falling",
+          "text": "Feather Falling"
+        }
+      ]
+    }
+  ]
+}

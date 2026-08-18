@@ -1,0 +1,139 @@
+{
+  "page_title": "Item:Pomura's Impaler",
+  "page_id": 94800,
+  "revision_id": 672693,
+  "revision_timestamp": "2026-01-25T18:59:34Z",
+  "fetched_at": "2026-08-17T22:39:03.763088+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Pomura's Impaler\n  | minlevel                 = 29\n  | type                     = Rapier\n  | class                    = Piercing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = 5.30[1d6+3] + 15 Pierce, Magic\n  | crit                     = 18-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 335\n  | material                 = Crystal\n  | hardness                 = 39\n  | cost                     = 11,602 pp\n  | weight                   = 2 lbs\n  | released                 = Update 53\n  | revamped                 = Update 76\n  | quest                    = Hunt or Be Hunted\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|i|15|29}}\n* {{Vorpal|Sovereign}}\n* {{Vulnerability|Cold}}\n* {{Blast|Icy|6}}\n* {{SpellPower|Glaciation|74|Insight}}\n* {{SpellPower|Glaciation|36|Quality}}\n* {{Augment|Red}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | description              = The Pixie Pomura held this crystalline Rapier in her valiant fight against you, but was no match for your heroic might.\n  | pic                      = Pomura's Impaler shown.jpg\n  | picdesc                  = Pomura's Impaler.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Rapier",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +29",
+      "tooltip": "Spellcasting Implement +29: Passive: +29 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +29"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Sovereign Vorpal",
+      "tooltip": "Sovereign Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 3000 Hit Points, they are instantly slain. If your target has above 3000 Hit Points, they take 300 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Sovereign_Vorpal",
+          "title": "Vorpal",
+          "text": "Sovereign Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Cold Vulnerability",
+      "tooltip": "Cold Vulnerability: On Hit: Applies a stack of Vulnerable (1% more damage for 3 seconds. This effect stacks up to 20 times, and loses one stack on expiration.). This effect may only occur on-hit once every second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vulnerable",
+          "title": "Vulnerable",
+          "text": "Cold Vulnerability"
+        }
+      ]
+    },
+    {
+      "text": "Icy Blast 6",
+      "tooltip": "Icy Blast 6: This weapon is sheathed in icy cold, dealing 6d6 Cold damage on a successful hit, and an additional 6d6 Cold damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Icy Blast 6"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Glaciation +74",
+      "tooltip": "Insightful Glaciation +74: Passive: +74 Insight bonus to Cold Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Glaciation",
+          "title": "Glaciation",
+          "text": "Insightful Glaciation +74"
+        }
+      ]
+    },
+    {
+      "text": "Quality Glaciation +36",
+      "tooltip": "Quality Glaciation +36: Passive: +36 Quality bonus to Cold Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Glaciation",
+          "title": "Glaciation",
+          "text": "Quality Glaciation +36"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

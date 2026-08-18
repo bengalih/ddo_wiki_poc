@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Sickle of Vile Attunement",
+  "page_id": 80308,
+  "revision_id": 690571,
+  "revision_timestamp": "2026-06-30T15:42:24Z",
+  "fetched_at": "2026-08-17T22:08:14.536729+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Sickle of Vile Attunement\n  | damage                   = 4.80[1d6+2] +15 Slash, Magic\n  | crit                     = 20 / x2\n  | type                     = Sickle\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Slashing\n  | prof                     = Simple\n  | reqtrait                 = <!-- Leave blank if not used-->\n  | UMD DC                   = <!-- Leave blank if not used-->\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 29\n  | durability               = 340\n  | material                 = Steel\n  | hardness                 = 39\n  | cost                     = 11600 pp 6 gp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 46\n  | revamped                 = Update 76\n  | revamped2                = Update 80\n  | quest                    = The Sacred Bounty\n  | chest                    = End chest\n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|i|15|29}}\n* {{Spell Lore|Void|21}}\n* {{Spell Power|Nullification|142}}\n* {{Spell Focus|Conjuration|7}}\n* {{Spell Focus|Transmutation|7}}\n* {{Augment|Red}}\n  | crafting                 = <!--Type of crafting-->\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | description              = This evil implement is well suited to any Necromancer.\n  | pic                      = Sickle of Vile Attunement shown.jpg\n  | picdesc                  = Legendary Sickle of Vile Attunement.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Sickle",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +29",
+      "tooltip": "Spellcasting Implement +29: Passive: +29 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +29"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Void Lore +21%",
+      "tooltip": "Void Lore +21: Passive: Your Negative Energy and Poison spells gain a 21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Void Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Nullification +142",
+      "tooltip": "Nullification +142: Passive: +142 Equipment bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Nullification +142"
+        }
+      ]
+    },
+    {
+      "text": "Conjuration Focus +7",
+      "tooltip": "Conjuration Focus +7: +7 Equipment bonus to the DC of Conjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Conjuration Focus +7"
+        }
+      ]
+    },
+    {
+      "text": "Transmutation Focus +7",
+      "tooltip": "Transmutation Focus +7: +7 Equipment bonus to the DC of Transmutation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Transmutation Focus +7"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

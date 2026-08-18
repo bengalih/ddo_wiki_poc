@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Cormyrian Green Dragonplate Armor",
+  "page_id": 24880,
+  "revision_id": 672074,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:26:02.661258+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Cormyrian Green Dragonplate Armor\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | race                     = None\n  | ac                       = +28\n  | maxdexbonus              = 2\n  | acp                      = -4\n  | asf                      = 35%\n  | durability               = 406\n  | material                 = Green Dragonscale\n  | hardness                 = 34\n  | basevalue                = 9,350 pp\n  | weight                   = 25 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 23\n  | quest                    = Mikrom Sum\n  | chest                    = \n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|6}}\n* {{Hp|Vitality|20}}\n* {{Elemental Resistance|Acid|40}}\n* {{Absorption|Acid|20}}\n* {{Resistance|6}}\n* {{Proof|Poison|10}}\n* {{Power Store}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Cormyrian Green Dragonplate Armor shown.jpg\n  | picdesc                  = Cormyrian Green Dragonplate Armor.png\n  | description              = Mastercraft plate armor forged from the scales of a green dragon.\n  | notes                    = Turn-in:\n* 375 [[Purple Dragon Knights]] favor\n* 20 {{Item|Flawless Green Dragon Scale}}s\n* {{Commendation|PDK|15}}\n* {{Commendation|WW|15}}\n* {{Commendation|Heroism|3}}\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Green Dragonscale",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +20",
+      "tooltip": "Vitality +20: Passive: +20 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +20"
+        }
+      ]
+    },
+    {
+      "text": "Acid Resistance +40",
+      "tooltip": "Acid Resistance +40: Passive: +40 Enhancement bonus to your Acid Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Acid_Resistance",
+          "title": "Acid Resistance",
+          "text": "Acid Resistance +40"
+        }
+      ]
+    },
+    {
+      "text": "Acid Absorption +20%",
+      "tooltip": "Acid Absorption +20%: Passive: 20% Enhancement Bonus to Acid Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Acid Absorption +20%"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +6",
+      "tooltip": "Resistance +6: Passive: +6 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +6"
+        }
+      ]
+    },
+    {
+      "text": "Proof Against Poison +10",
+      "tooltip": "Proof Against Poison +10: This item grants its wearer immunity to natural poisons. This item also grants a +10 Enhancement bonus to saving throws against magical poisons, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical poisons with a DC of less than 11 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Poison",
+          "title": "Proof Against Poison",
+          "text": "Proof Against Poison +10"
+        }
+      ]
+    },
+    {
+      "text": "Power Store",
+      "tooltip": "Power Store: This item collects and stores magical energy. Any spellcaster can use this energy to partially power their spells. All spells cast while using this item receive an enhancement bonus of -10% to their spell point costs.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power_Store",
+          "title": "Power Store",
+          "text": "Power Store"
+        }
+      ]
+    }
+  ]
+}

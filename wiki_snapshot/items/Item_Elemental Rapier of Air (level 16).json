@@ -1,0 +1,193 @@
+{
+  "page_title": "Item:Elemental Rapier of Air (level 16)",
+  "page_id": 26559,
+  "revision_id": 672653,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:42:25.338986+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Elemental Rapier of Air}}\n  | damage                   = 2.20[1d6] + 4 Pierce, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Rapier\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Martial\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 205\n  | material                 = Steel\n  | hardness                 = 26\n  | minlevel                 = 16\n  | basevalue                = 6,402pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various challenge ingredients\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n{{VaultsOfTheArtificersUpgrade}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = \n  | description              = This rapier is part of a mass-produced line of House Cannith weapons with elementals bound to them. This one is infused with Air and shocks enemies as a result.\n  | pic                      = Elemental Rapier of Air shown.jpg\n  | picdesc                  = Elemental Rapier of Air (Level 16).png\n  | tips                     = '''See also:''' [[Elemental Rapier of Air]] - Full table of the Elemental Rapier line\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Rapier",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": "Upgradeable - Tier 1: This item is a Tier 1 upgradable item.",
+      "children": [
+        {
+          "text": "+4 Enhancement Bonus",
+          "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+4 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Shocking Burst",
+          "tooltip": "Shocking Burst: This weapon is sheathed in crackling electricity, and deals 1 to 6 electric damage each hit. Critical hits deal an additional 1 to 10 electric damage for weapons with a x2 critical multiplier, 2 to 20 for a x3 multiplier and 3 to 30 for a x4 multiplier.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Shocking_Burst#Shocking_Burst",
+              "title": "Shocking Burst",
+              "text": "Shocking Burst"
+            }
+          ]
+        },
+        {
+          "text": "Screaming",
+          "tooltip": "Screaming: Screaming weapons emit a piercing screech whenever they are used to make a successful attack. This screech does an additional 1 to 6 sonic damage.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Screaming",
+              "title": "Screaming",
+              "text": "Screaming"
+            }
+          ]
+        },
+        {
+          "text": "Roaring",
+          "tooltip": "Roaring: This weapon causes targets to become shaken (DC 25 Will save negates) and, on a critical hit, does 2 to 12 sonic damage to the target.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Roaring",
+              "title": "Roaring",
+              "text": "Roaring"
+            }
+          ]
+        },
+        {
+          "text": "Sirocco",
+          "tooltip": "Sirocco: A critical hit with this weapon causes a whirlwind of desert sand to swirl about the target, temporarily blinding it. A successful Reflex save (DC 20) prevents the effect.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Sirocco",
+              "title": "Sirocco",
+              "text": "Sirocco"
+            }
+          ]
+        },
+        {
+          "text": "Electric Resistance +30",
+          "tooltip": "Electric Resistance +30: Passive: +30 Enhancement bonus to your Electric Resistance.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Electric_Resistance",
+              "title": "Electric Resistance",
+              "text": "Electric Resistance +30"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": "Upgradeable - Tier 2: This item is a Tier 2 upgradable item.",
+      "children": [
+        {
+          "text": "+4 Enhancement Bonus → +5 Enhancement Bonus",
+          "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+4 Enhancement Bonus"
+            },
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+5 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Electric Resistance +30 → Electric Resistance +32",
+          "tooltip": "Electric Resistance +30: Passive: +30 Enhancement bonus to your Electric Resistance.Electric Resistance +32: Passive: +32 Enhancement bonus to your Electric Resistance.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Electric_Resistance",
+              "title": "Electric Resistance",
+              "text": "Electric Resistance +30"
+            },
+            {
+              "target": "/page/Electric_Resistance",
+              "title": "Electric Resistance",
+              "text": "Electric Resistance +32"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This item is a Tier 3 upgradable item.",
+      "children": [
+        {
+          "text": "Electric Resistance +32 → Electric Resistance +35",
+          "tooltip": "Electric Resistance +32: Passive: +32 Enhancement bonus to your Electric Resistance.Electric Resistance +35: Passive: +35 Enhancement bonus to your Electric Resistance.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Electric_Resistance",
+              "title": "Electric Resistance",
+              "text": "Electric Resistance +32"
+            },
+            {
+              "target": "/page/Electric_Resistance",
+              "title": "Electric Resistance",
+              "text": "Electric Resistance +35"
+            }
+          ]
+        },
+        {
+          "text": "Adds Purple Augment Slot",
+          "tooltip": "Blue, Purple, Red, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Purple Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Scalegouger",
+  "page_id": 91319,
+  "revision_id": 632819,
+  "revision_timestamp": "2025-04-22T01:30:49Z",
+  "fetched_at": "2026-08-17T22:05:14.727213+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Scalegouger\n  | minlevel                 = 30\n  | type                     = Heavy Pick\n  | class                    = Piercing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = 5[1d6+2] + 15 Pierce, Evil, Magic\n  | crit                     = 20 / x4\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 365\n  | material                 = Flametouched Iron\n  | hardness                 = 40\n  | cost                     = 12,000 pp 8 gp\n  | weight                   = 6 lbs\n  | released                 = Update 50\n  | quest                    = Danger at Dunwater\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest, or [[Legendary Crafting|Legendary version]] of {{Item|Epic Scalegouger}}\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Bane|Reptilian|6}}\n* {{Blast|Evil|6}}\n* {{Armor-Piercing|21}}\n* {{Crippling}}\n* {{Augment|Red}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | description              = This Heavy Pick is a quick and efficient way to pry scales from large fish.\n  | pic                      = Scalegouger shown.jpg\n  | picdesc                  = Legendary Scalegouger.png\n  | tips                     = \n}}\n[[C:Legendary items]]\n[[C:Legendary weapons]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Heavy Pick",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Reptilian Bane 6",
+      "tooltip": "Reptilian Bane 6: This weapon is attuned specifically to hunt those with cunning and scales, dealing an additional 6d10 bane damage vs. Reptilians.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Reptilian Bane 6"
+        }
+      ]
+    },
+    {
+      "text": "Evil Blast 6",
+      "tooltip": "Evil Blast 6: This weapon is a sinister implement of evil deeds, dealing 6d6 Evil damage on a successful hit, and an additional 6d6 Evil damage on a critical hit. This effect makes the weapon evil aligned.Good characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Evil Blast 6"
+        }
+      ]
+    },
+    {
+      "text": "Armor-Piercing 21%",
+      "tooltip": "Armor-Piercing 21%: Passive: +21% Enhancement bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Armor-Piercing 21%"
+        }
+      ]
+    },
+    {
+      "text": "Crippling",
+      "tooltip": "Crippling: A crippling weapon is infused with binding power so that when a target is critically hit their movement is slowed by half.Note: Real slowdown is only 25%",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crippling",
+          "title": "Crippling",
+          "text": "Crippling"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

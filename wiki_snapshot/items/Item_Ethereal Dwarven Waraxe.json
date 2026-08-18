@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Ethereal Dwarven Waraxe",
+  "page_id": 81543,
+  "revision_id": 687467,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:00:24.998079+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Ethereal Dwarven Waraxe\n  | damage                   = [1d10] + 1 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Dwarven War Axe\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Exotic\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 105\n  | material                 = Steel\n  | hardness                 = 12\n  | minlevel                 = 2\n  | quest                    = Morten Edgewright\n  | chest                    = \n  | end reward               = \n  | turn in                  = 1 Ethereal Ingot\n  | epic                     = \n  | basevalue                = 803pp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 44\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|1}}\n* {{Ghost Touch}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Ethereal Dwarven Waraxe shown.jpg\n  | picdesc                  = Ethereal Dwarven Waraxe.png\n  | description              = A subtle mist surrounds this weapon. It is likely quite useful against certain Undead foes that other weapons have a hard time connecting with.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Dwarven War Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Ghost Touch",
+      "tooltip": "Ghost Touch: An incorporeal creature's 50% chance to avoid damage does not apply to attacks with ghost touch weapons.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghost_Touch",
+          "title": "Ghost Touch",
+          "text": "Ghost Touch"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

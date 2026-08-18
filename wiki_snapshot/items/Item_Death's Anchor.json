@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:Death's Anchor",
+  "page_id": 119127,
+  "revision_id": 689849,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:31:03.085609+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Death's Anchor\n  | type                     = Orb\n  | prof                     = Magical Training\n  | race                     = \n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 8\n  | damagemod                = CHA\n  | attmod                   = INT\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +0\n  | maxdexbonus              = None\n  | dr                       = 0\n  | acp                      = 0\n  | asf                      = 0%\n  | dmg                      = [1d6] + 0\n  | dmgtype                  = Force\n  | crit                     = 20 / x2\n  | durability               = 145\n  | material                 = Steel\n  | hardness                 = 28\n  | basevalue                = 3,300 pp\n  | weight                   = 3 lbs\n  | quest                    = Special Delivery\n  | released                 = Update 75\n  | revamped                 = Update 80\n  | chest                    = [[Max Entsetzen]]'s chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|oi|4|8}}\n* {{Spell Power|Nullification|17|Quality}}\n* {{Spell Focus|Necromancy|3}}\n* {{Lamordia Slot|Melancholic|Weapon}}\n* {{Lamordia Slot|Dolorous|Weapon}}\n* {{Augment|Purple}}\n  | description              = Deathly magic follows this device, which seems to tether it to wherever this energy came from.\n  | crafting                 =\n  | craftingupgrade          = \n  | pic                      = Death's Anchor shown.jpg\n  | picdesc                  = Death's Anchor.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Magical Training",
+  "material": "Steel",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +8",
+      "tooltip": "Spellcasting Implement +8: Passive: +8 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +8"
+        }
+      ]
+    },
+    {
+      "text": "+4 Orb Bonus",
+      "tooltip": "+4 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +4 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Orb Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Quality Nullification +17",
+      "tooltip": "Quality Nullification +17: Passive: +17 Quality bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Quality Nullification +17"
+        }
+      ]
+    },
+    {
+      "text": "Necromancy Focus +3",
+      "tooltip": "Necromancy Focus +3: +3 Equipment bonus to the DC of Necromancy spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Necromancy Focus +3"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Melancholic Slot (Weapon)",
+      "tooltip": "Lamordia: Melancholic Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Melancholic Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Dolorous Slot (Weapon)",
+      "tooltip": "Lamordia: Dolorous Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Dolorous Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Legendary Gorgon Armor",
+  "page_id": 101493,
+  "revision_id": 632355,
+  "revision_timestamp": "2025-04-22T00:59:04Z",
+  "fetched_at": "2026-08-17T21:50:35.090725+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Gorgon Armor\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | race                     = \n  | minlevel                 = 31\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | ac                       = +40\n  | maxdexbonus              = 6\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 510\n  | material                 = Steel\n  | hardness                 = 42\n  | basevalue                = 12,550 pp\n  | weight                   = 50 lbs\n  | released                 = Update 59\n  | quest                    = Eyes of Stone\n  | chest                    = Coin Lords' chest\n  | enhancements             = \n* {{Clicky|Gorgon Breath|30|3}} \n* {{Enhancement bonus|a|15}}\n* {{Stat|Con|14}}\n* {{Guard|Legendary Stone}}\n* {{NaturalArmor|14}}\n* {{Augment|Blue}}\n* {{Augment|Colorless}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Gorgon Armor shown.jpg\n  | picdesc                  = Legendary Gorgon Armor.png\n  | description              = A suit of armor crafted using the essence of a vicious gorgon. It allows its wearer to breathe a cone of vapor that will petrify creatures, just as a gorgon can do.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 31,
+  "enchantments": [
+    {
+      "text": "Gorgon Breath — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Gorgon BreathCaster level: 30Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Gorgon_Breath",
+          "title": "Gorgon Breath",
+          "text": "Gorgon Breath"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +14",
+      "tooltip": "Constitution +14: This item gives the wearer improved health, granting a +14 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +14"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Stone Guard",
+      "tooltip": "Legendary Stone Guard: This item is invested with the power of the earth. On being struck in melee, it has the chance to attempt to turn the target to stone, as the Flesh to Stone spell. A successful Fortitude save (DC 100) negates the effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Legendary_Stone_Guard",
+          "title": "Legendary Stone Guard",
+          "text": "Legendary Stone Guard"
+        }
+      ]
+    },
+    {
+      "text": "Natural Armor +14",
+      "tooltip": "Natural Armor +14: Passive: +14 Natural Armor Bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Natural_armor_bonus",
+          "title": "Natural armor bonus",
+          "text": "Natural Armor +14"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Helm of the Flame",
+  "page_id": 11427,
+  "revision_id": 631433,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:20:36.637148+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Helm of the Flame\n  | type                     = Helm\n  | slot                     = Head\n  | durability               = 80\n  | material                 = Steel\n  | hardness                 = 9\n  | basevalue                = 2,810 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 7\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = Stormcleave Outpost\n  | chest                    = [[Insgadreer]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{SpellPower|Devotion|54}}\n* {{Wizardry|I}}\n* {{Augment|Colorless}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This helmet is blessed with the power of the Silver Flame, aiding its cleric in turning of undead.\n  | pic                      = Helm of the Flame shown.jpg\n  | picdesc                  = Helm of the Flame.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Devotion +54",
+      "tooltip": "Devotion +54: Passive: +54 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +54"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry I",
+      "tooltip": "Wizardry I: This item grants the wearer +25 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry I"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

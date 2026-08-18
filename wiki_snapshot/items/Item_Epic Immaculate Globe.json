@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Epic Immaculate Globe",
+  "page_id": 91736,
+  "revision_id": 630184,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:51:21.524024+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Epic Immaculate Globe\n  | type                     = Orb\n  | prof                     = Magical Training\n  | reqtrait                 = <!-- Required Trait. Leave this comment if none.  -->\n  | UMD DC                   = <!-- Use Magic Device DC. Leave this comment if none.  -->\n  | minlevel                 = 20\n  | damagemod                = CHA\n  | attmod                   = INT\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +0\n  | dr                       = 0\n  | acp                      = 0\n  | asf                      = 0\n  | dmg                      = [1d4] + 0\n  | dmgtype                  = Force\n  | crit                     = 19-20 / x2\n  | durability               = 265\n  | material                 = Wood\n  | hardness                 = 40\n  | basevalue                = 8100 pp\n  | weight                   = 3 lbs\n  | released                 = Update 50\n  | quest                    = Epic Crafting\n  | epic                     = Immaculate Globe\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Immaculate Globe\n  | mythic                   = no  \n  | enhancements             = \n* {{Enhancement bonus|o|6|6}}\n* {{SpellPower|Efficacy|20||0}}\n* {{Stability|6}}\n* {{Elemental Resistance|elemental|30}}\n* {{Spellpen|6}}\n* {{Named item sets|Epic Saltmarsh Explorer}}\n* {{Augment|Purple}}\n  | description              = This spinning globe hums with magic. The map doesn't appear to resemble Saltmarsh, nor any place you've ever seen.\n  | pic                      = Immaculate_Globe_shown.png\n  | picdesc                  = Epic_Immaculate_Globe.png\n  | tips                     = \n}}\n[[Category:Sinister Secret of Saltmarsh epic items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Magical Training",
+  "material": "Wood",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Orb Bonus",
+      "tooltip": "+6 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +6 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Orb Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Permanent Efficacy",
+      "tooltip": "Permanent Efficacy: Passive: +20 Alchemical bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficacy",
+          "title": "Efficacy",
+          "text": "Permanent Efficacy"
+        }
+      ]
+    },
+    {
+      "text": "Superior Stability",
+      "tooltip": "Superior Stability: This armor grants a + 6 deflection bonus to AC and a + 6 resistance bonus to saves for characters of True Neutral alignment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Superior_Stability",
+          "title": "Superior Stability",
+          "text": "Superior Stability"
+        }
+      ]
+    },
+    {
+      "text": "Elemental Resistance +30",
+      "tooltip": "Elemental Resistance +30: Passive: +30 Enhancement bonus to your Acid, Cold, Electricity, and Fire Resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Elemental_Resistance",
+          "title": "Elemental Resistance",
+          "text": "Elemental Resistance +30"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration +6",
+      "tooltip": "Spell Penetration +6: Passive: +6 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration +6"
+        }
+      ]
+    },
+    {
+      "text": "Epic Saltmarsh Explorer",
+      "tooltip": "Epic Saltmarsh Explorer: 5 Pieces Equipped:+20 Artifact bonus to Physical and Magical Resistance Rating+10 Artifact bonus to Melee, Ranged, and Universal Spell Power+2 Artifact bonus to all Ability Scores+20 Artifact Bonus to Positive, Negative, and Repair Amplification",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Epic_Saltmarsh_Explorer",
+          "title": "Named item sets",
+          "text": "Epic Saltmarsh Explorer"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

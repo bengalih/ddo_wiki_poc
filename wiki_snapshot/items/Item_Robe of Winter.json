@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Robe of Winter",
+  "page_id": 8206,
+  "revision_id": 686701,
+  "revision_timestamp": "2026-05-27T17:40:22Z",
+  "fetched_at": "2026-08-17T22:48:01.243918+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Robe of Winter\n  | type                     = Robe\n  | feat                     = Cloth\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtC|BoE}}\n  | ac                       = +5\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 65\n  | material                 = Cloth\n  | hardness                 = 8\n  | basevalue                = 2405.5pp\n  | weight                   = 0 lbs\n  | quest                    = Stormcleave Outpost\n  | chest                    = [[Pious Grew'el]]'s Chest\n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|5}}\n* {{Elemental Resistance|Fire|20}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Robe of Resistance shown.jpg\n  | picdesc                  = Robe of Winter.png\n  | description              = This thin robe is chill to the touch.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +5",
+      "tooltip": "Armor Bonus +5: This item surrounds the wearer with an invisible but tangible field of force, granting +5 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +5"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +20",
+      "tooltip": "Fire Resistance +20: Passive: +20 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +20"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

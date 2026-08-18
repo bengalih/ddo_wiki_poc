@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Elder's Cap",
+  "page_id": 12008,
+  "revision_id": 629715,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:41:43.268922+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Elder's Cap\n  | type                     = Helm\n  | class                    = Clothing\n  | minlevel                 = 7\n  | slot                     = Head\n  | durability               = 50\n  | material                 = Leather\n  | hardness                 = 10\n  | bind                     = {{Bind|BtA|BoA}}\n  | basevalue                = 1,605pp\n  | weight                   = 0.10 lbs\n  | revamped                 = Update 36\n  | released                 = Update 6\n  | quest                    = Into the Deep\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Named item sets|Elder's Knowledge}}\n* {{Stat|INT|5}}\n* {{Skills|concentration|10}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Elder's Cap\n  | description              = Tribal drow elders use these caps to focus their minds and recall past events. They are passed down through the generations but few of them remain in existence.\n  | pic                      = Graskitch's Skullcap shown.jpg <!--Identical Style-->\n  | picdesc                  = Elder's Cap.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Elder's Knowledge",
+      "tooltip": "Elder's Knowledge: +2% Artifact bonus to spell critical chance. 5% Legendary bonus to spell crit damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Elder's_Knowledge",
+          "title": "Named item sets",
+          "text": "Elder's Knowledge"
+        }
+      ]
+    },
+    {
+      "text": "Intelligence +5",
+      "tooltip": "Intelligence +5: This item focuses the power of the wearer's mind, granting a +5 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +5"
+        }
+      ]
+    },
+    {
+      "text": "Concentration +10",
+      "tooltip": "Concentration +10: Passive: +10 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +10"
+        }
+      ]
+    }
+  ]
+}

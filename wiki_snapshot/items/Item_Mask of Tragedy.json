@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Mask of Tragedy",
+  "page_id": 12218,
+  "revision_id": 633437,
+  "revision_timestamp": "2025-04-22T02:13:32Z",
+  "fetched_at": "2026-08-17T22:23:17.038674+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Mask of Tragedy\n  | slot                     = Head\n  | type                     = Helm\n  | material                 = Leather\n  | hardness                 = 24\n  | minlevel                 = 4\n  | basevalue                = 1605 pp\n  | weight                   = 0.10 lbs\n  | durability               = 140\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | released                 = Update 5\n  | revamped                 = Update 39\n  | quest                    = Partycrashers\n  | chest                    = Theater, Rest Room or End chests\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Crushing Despair|7|3}} \n* {{Stat|WIS|3}}  \n* {{Spelllore|Void|8}}\n* {{SpellPower|Nullification|55}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Mask of Tragedy\n  | description              = A mask crafted for and used by the actors of the [[Livewood Theater]]. It represents sadness and misfortune, and is invested with magic to match.\n  | pic                      = Spooky Festival Mask shown.png <!--Identical Style-->\n  | picdesc                  = Mask of Tragedy.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Crushing Despair — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Crushing DespairCaster level: 7Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crushing_Despair",
+          "title": "Crushing Despair",
+          "text": "Crushing Despair"
+        }
+      ]
+    },
+    {
+      "text": "Wisdom +3",
+      "tooltip": "Wisdom +3: This item makes the wearer more in tune with her surroundings, granting a +3 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +3"
+        }
+      ]
+    },
+    {
+      "text": "Void Lore +8%",
+      "tooltip": "Void Lore +8: Passive: Your Negative Energy and Poison spells gain a 8% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Void Lore +8%"
+        }
+      ]
+    },
+    {
+      "text": "Nullification +55",
+      "tooltip": "Nullification +55: Passive: +55 Equipment bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Nullification +55"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "page_title": "Item:Oath of Droaam",
+  "page_id": 15682,
+  "revision_id": 678006,
+  "revision_timestamp": "2026-03-08T02:17:28Z",
+  "fetched_at": "2026-08-17T22:33:16.502384+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Oath of Droaam\n  | damage                   = 4.50[1d12] + 5 Slash, Adamantine, Magic\n  | crit                     = 19-20 / x4\n  | type                     = Great Axe\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Martial\n  | minlevel                 = 0\n  | durability               = 180\n  | material                 = Adamantine\n  | hardness                 = 28\n  | basevalue                = 13,102pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|no|drops=leaving}}\n  | quest                    = Tharashk Arena\n  | chest                    = Special quest only temporary weapon\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Burst|Flaming}}\n* {{Keen}}\n* {{Vorpal}}\n* {{Mat|Adamantine}}\n  | pic                      = Oath of Droaam shown.jpg\n  | picdesc                  = Oath of Droaam.png\n  | description              = The great axe was enchanted by the daughters of Sora Kell for the last champion of [[Droaam]].\n  | tips                     = \n}}\n[[Category:Quest items]]\n[[Category:Keen items with expanded crit profiles]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Flaming Burst",
+      "tooltip": "Flaming Burst: This weapon is sheathed in fire, and deals 1 to 6 fire damage each hit. Critical hits deal an additional 1 to 10 fire damage for weapons with a x2 critical multiplier, 2 to 20 for a x3 multiplier and 3 to 30 for a x4 multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flaming_Burst#Flaming_Burst",
+          "title": "Flaming Burst",
+          "text": "Flaming Burst"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Vorpal",
+      "tooltip": "Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 1000 Hit Points, they are instantly slain. If your target has above 1000 Hit Points, they take 100 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Vorpal",
+          "title": "Vorpal",
+          "text": "Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    }
+  ]
+}

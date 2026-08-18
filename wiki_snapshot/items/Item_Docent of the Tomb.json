@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Docent of the Tomb",
+  "page_id": 4994,
+  "revision_id": 629579,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:36:31.904615+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Docent of the Tomb\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=8|m=4}}\n  | durability               = 110\n  | material                 = Gem\n  | hardness                 = 16\n  | minlevel                 = 6\n  | quest                    = Free Delera\n  | chest                    = End chest\n  | basevalue                = 2,410 pp\n  | weight                   = 0 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Skills|Spot|8}}\n* {{Skills|Listen|8}}\n* {{Skills|Search|8}}\n* {{Skills|Balance|8}}\n* {{Augment|Colorless}}\n  | crafting                 = <!--Type of crafting. Leave blank if none. -->\n  | craftingupgrade          = <!--What item can be upgraded to. Leave blank if none.-->\n  | pic                      = Docent of the Tomb shown.jpg\n  | picdesc                  = Docent of the Tomb.png\n  | description              = This docent was designed for use in dark catacombs and other subterranean environs.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Spot +8",
+      "tooltip": "Spot +8: Passive: +8 Competence bonus to the Spot skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spot",
+          "title": "Spot",
+          "text": "Spot +8"
+        }
+      ]
+    },
+    {
+      "text": "Listen +8",
+      "tooltip": "Listen +8: Passive: +8 Competence bonus to the Listen skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Listen",
+          "title": "Listen",
+          "text": "Listen +8"
+        }
+      ]
+    },
+    {
+      "text": "Search +8",
+      "tooltip": "Search +8: Passive: +8 Competence bonus to the Search skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Search",
+          "title": "Search",
+          "text": "Search +8"
+        }
+      ]
+    },
+    {
+      "text": "Balance +8",
+      "tooltip": "Balance +8: Passive: +8 Competence bonus to the Balance skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Balance",
+          "title": "Balance",
+          "text": "Balance +8"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

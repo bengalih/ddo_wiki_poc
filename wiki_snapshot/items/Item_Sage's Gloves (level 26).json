@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Sage's Gloves (level 26)",
+  "page_id": 41465,
+  "revision_id": 650217,
+  "revision_timestamp": "2025-07-26T19:12:59Z",
+  "fetched_at": "2026-08-17T22:49:57.738823+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Sage's Gloves\n  | type                     = Gloves\n  | basevalue                = 10,420 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Hand\n  | durability               = 180\n  | material                 = Leather\n  | hardness                 = 27\n  | minlevel                 = 26\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 19\n  | quest                    = The Thrill of the Hunt\n  | end reward               = yes\n  | chest                    = \n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Spelllore|Healing|ix}}\n* {{Spelllore|Repair|viii}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Gloves Generic Greensteel.png\n  | picdesc                  = Sage's Gloves (Level 26).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "Healing Lore IX",
+      "tooltip": "Healing Lore IX: Passive: Your Positive Energy spells gain a 19% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Healing Lore IX"
+        }
+      ]
+    },
+    {
+      "text": "Repair Lore VIII",
+      "tooltip": "Repair Lore VIII: Passive: Your Repair and Rust spells gain a 18% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Repair Lore VIII"
+        }
+      ]
+    }
+  ]
+}

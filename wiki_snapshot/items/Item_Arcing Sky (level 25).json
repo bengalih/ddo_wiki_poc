@@ -1,0 +1,126 @@
+{
+  "page_title": "Item:Arcing Sky (level 25)",
+  "page_id": 33128,
+  "revision_id": 648807,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:04:36.681277+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Rune Arm\n  | name                     = {{Item|Arcing Sky}}\n  | reqtrait                 = [[Rune Arm Use|Artificer Rune Arm Use]]\n  | minlevel                 = 25\n  | durability               = 300\n  | material                 = Gem\n  | hardness                 = 26\n  | released                 = Update 17\n  | quest                    = Return to Gianthold Tor\n  | chest                    = Blue Dragon chest (Epic Elite)\n  | end reward               = \n  | turn in                  = \n  | basevalue                = 16,900 pp\n  | weight                   = 0.25 lbs.\n  | bind                     = {{Bind|BtC|BoE}}\n  | spell                    = Electrical Blast\n  | target                   = Foe, Directional, Breakable\n  | school                   = Evocation\n  | sr                       = no\n  | spell desc               = Deals electrical damage to a target with a cone-shaped blast of lighting. At higher charge tiers the blast is larger. Opponents within the blast receive a Reflex save for half damage.\n  | max charge               = 5\n  | imbue                    = Electrical V\n  | imbue die                = 2d10\n  | imbue dmg                = electrical\n  | enhancements             = \n* [[Electrical Blast]]\n* {{Dodge|8}}\n* {{Elemental Resistance|Electric|5|Competence}}\n* {{Elemental Resistance|Electric|10|Insight}}\n* {{Augment|Green}}\n* {{Augment|Yellow}}\n  | craftable rune arm       = no\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | craftingnotes            = <!--Any notes about the craftable item-->\n  | pic                      = Electrical Blast icon.png\n  | picdesc                  = Arcing Sky (Level 25).png\n  | description              = Sparks dance across the surface of this armament.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "Maximum Charge Tier: V",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maximum_Charge_Tier",
+          "title": "Maximum Charge Tier",
+          "text": "Maximum Charge Tier"
+        }
+      ]
+    },
+    {
+      "text": "Electrical Blast",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electrical_Blast",
+          "title": "Electrical Blast",
+          "text": "Electrical Blast"
+        }
+      ]
+    },
+    {
+      "text": "Dodge +8%",
+      "tooltip": "Dodge +8%: +8% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +8%"
+        }
+      ]
+    },
+    {
+      "text": "Inherent Electric Resistance - 5",
+      "tooltip": "Inherent Electric Resistance - 5: This item provides a +5 Competence bonus to your Electric resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance#Inherent_Resistances",
+          "title": "Electric Resistance",
+          "text": "Inherent Electric Resistance - 5"
+        }
+      ]
+    },
+    {
+      "text": "Inherent Electric Resistance - 10",
+      "tooltip": "Inherent Electric Resistance - 10: This item provides a +10 Insight bonus to your Electric resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance#Inherent_Resistances",
+          "title": "Electric Resistance",
+          "text": "Inherent Electric Resistance - 10"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    },
+    {
+      "text": "Rune Arm Imbue: Electrical V",
+      "tooltip": "Rune Arm Imbue: Electrical V: Wearing this Rune Arm will imbue any weapon you wield, dealing 2d10 points of electrical damage per hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rune_Arm_Imbue",
+          "title": "Rune Arm Imbue",
+          "text": "Rune Arm Imbue"
+        }
+      ]
+    }
+  ]
+}

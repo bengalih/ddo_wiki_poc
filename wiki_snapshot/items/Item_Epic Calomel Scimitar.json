@@ -1,0 +1,188 @@
+{
+  "page_title": "Item:Epic Calomel Scimitar",
+  "page_id": 19524,
+  "revision_id": 672740,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:45:38.146499+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic {{Item|Calomel Scimitar}}\n  | damage                   = 3[1d6] + 5 Slash, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Scimitar\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 20\n  | durability               = 260\n  | material                 = Steel\n  | hardness                 = 30\n  | basevalue                = 8,002 pp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Vaults of the Artificers\n  | end reward               = \n  | turn in                  = various challenge ingredients\n  | revamped                 = Update 76\n  | mythic                   = no\n  | epic                     = no\n  | enhancements             = \n{{VaultsOfTheArtificersUpgrade}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = \n  | description              = A weapon crafted from durable white Calomel ore is always sheathed in condensed water droplets. It is particularly effective against dragons and fiery creatures.\n  | pic                      = Calomel Scimitar shown.jpg\n  | picdesc                  = Epic Calomel Scimitar.png\n  | tips                     = '''See also:''' {{Item|Calomel Scimitar}} - Full table of the  Calomel Scimitar\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Scimitar",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": "Upgradeable - Tier 1: This item is a Tier 1 upgradable item.",
+      "children": [
+        {
+          "text": "+5 Enhancement Bonus",
+          "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+5 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Dragon Bane 4",
+          "tooltip": "Dragon Bane 4: This weapon is attuned specifically to disrupt those with draconic blood, dealing an additional 4d10 bane damage vs. Dragons.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Dragon Bane 4"
+            }
+          ]
+        },
+        {
+          "text": "Tidal Burst",
+          "tooltip": "Tidal Burst: This weapon is sheathed in water. The weapon deals an additional 1 to 4 damage each hit. In addition, critical hits deal an additional 1 to 8 damage for weapons with a x2 critical multiplier, 2 to 16 for a x3 critical multiplier and 3 to 24 for a x4 multiplier. Creatures with the Fire trait take double this damage instead.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Tidal#Tidal_Burst",
+              "title": "Tidal",
+              "text": "Tidal Burst"
+            }
+          ]
+        },
+        {
+          "text": "Crushing Wave",
+          "tooltip": "Crushing Wave: This weapon stores the unstoppable force of the ocean's fury deep within. When this weapon is used, this power occasionally comes to the surface, crushing enemies beneath a torrent of frigid water.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Crushing_Wave",
+              "title": "Crushing Wave",
+              "text": "Crushing Wave"
+            }
+          ]
+        },
+        {
+          "text": "Corrosive Salt",
+          "tooltip": "Corrosive Salt: This weapon stores a caustic, insatiable power deep within. When this weapon is used, this power can come to the surface in the form of a noxious, corrosive salt that dissolves all substances.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Corrosive_Salt",
+              "title": "Corrosive Salt",
+              "text": "Corrosive Salt"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": "Upgradeable - Tier 2: This item is a Tier 2 upgradable item.",
+      "children": [
+        {
+          "text": "+5 Enhancement Bonus → +6 Enhancement Bonus",
+          "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+5 Enhancement Bonus"
+            },
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+6 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Dragon Bane 4 → Dragon Bane 5",
+          "tooltip": "Dragon Bane 4: This weapon is attuned specifically to disrupt those with draconic blood, dealing an additional 4d10 bane damage vs. Dragons.Dragon Bane 5: This weapon is attuned specifically to disrupt those with draconic blood, dealing an additional 5d10 bane damage vs. Dragons.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Dragon Bane 4"
+            },
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Dragon Bane 5"
+            }
+          ]
+        },
+        {
+          "text": "Adds Colorless Augment Slot",
+          "tooltip": "Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Colorless Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This item is a Tier 3 upgradable item.",
+      "children": [
+        {
+          "text": "Adds Lifedrinker",
+          "tooltip": "Lifedrinker: This weapon uses the power of water to draw out the life essence of its targets. On an attack roll of 20 which is confirmed as a critical hit, this power comes to the surface, granting 25 temporary hit points to the wielder and dealing 25 to 45 damage to the target. Creatures with the Fire trait take double this damage instead.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Lifedrinker",
+              "title": "Lifedrinker",
+              "text": "Lifedrinker"
+            }
+          ]
+        },
+        {
+          "text": "Adds Purple Augment Slot",
+          "tooltip": "Blue, Purple, Red, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Purple Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "page_title": "Item:Legendary Stalker's Outfit",
+  "page_id": 96786,
+  "revision_id": 632977,
+  "revision_timestamp": "2025-04-22T01:42:18Z",
+  "fetched_at": "2026-08-17T22:10:00.464319+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Stalker's Outfit\n  | minlevel                 = 31\n  | type                     = Clothing\n  | feat                     = Cloth\n  | ac                       = +15\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 320\n  | material                 = Cloth\n  | hardness                 = 33\n  | basevalue                = 12,405pp 5gp\n  | weight                   = 0 lbs\n  | released                 = Update 55\n  | quest                    = All Hail the King\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Stat|Constitution|14}}\n* {{Spell Resistance|20|Insightful}}\n* {{Dodge|3|quality|prefix=Quality}}\n* {{Fortification|74|Insightful}}\n* {{Augment|Blue}}\n* {{Augment|Green}}\n* {{Named item sets|Dread Stalker}}\n  | crafting                 = \n  | description              = This nimble outfit appears to contain patches of Dinosaur leather.\n  | pic                      = Stalker's Outfit shown.jpg\n  | picdesc                  = Legendary Stalker's Outfit.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Clothing",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 31,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +14",
+      "tooltip": "Constitution +14: This item gives the wearer improved health, granting a +14 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +14"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Spell Resistance +20",
+      "tooltip": "Insightful Spell Resistance +20: +20 Insight bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Insightful Spell Resistance +20"
+        }
+      ]
+    },
+    {
+      "text": "Quality Dodge +3%",
+      "tooltip": "Quality Dodge +3%: +3% Quality bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Quality Dodge +3%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Fortification +74%",
+      "tooltip": "Insightful Fortification +74%: +74% Insight bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Insightful Fortification +74%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Dread Stalker",
+      "tooltip": "Dread Stalker: 3 Pieces Equipped:+3 Artifact bonus to Sneak Attack Dice+15 Artifact bonus to Melee and Ranged Power+15% Artifact bonus to Doublestrike and Doubleshot+15% Artifact bonus to damage vs. the helpless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Dread_Stalker",
+          "title": "Named item sets",
+          "text": "Dread Stalker"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

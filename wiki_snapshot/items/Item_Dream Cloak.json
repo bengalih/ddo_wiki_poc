@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Dream Cloak",
+  "page_id": 11399,
+  "revision_id": 690603,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:38:26.804131+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Dream Cloak\n  | type                     = Cloak\n  | class                    = Clothing\n  | slot                     = Back\n  | durability               = 120\n  | material                 = Leather\n  | hardness                 = 16\n  | basevalue                = 4,420 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 11 \n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = The Twilight Forge\n  | chest                    = End chest\n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Deep Slumber|5|3}} \n* {{Spell Focus|Enchantment|I}}\n* {{Stat|CHA|5}}\n* {{Augment|Yellow}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = An ancient cloak crafted by the quori that enabled them to put enemies to sleep and send them to dream in the Dal Quor realm.\n  | pic                      = Dream Cloak shown.jpg\n  | picdesc                  = Dream Cloak.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Deep Slumber — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Deep SlumberCaster level: 5Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deep_Slumber",
+          "title": "Deep Slumber",
+          "text": "Deep Slumber"
+        }
+      ]
+    },
+    {
+      "text": "Enchantment Focus I",
+      "tooltip": "Enchantment Focus I: +1 Equipment bonus to the DC of Enchantment spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Enchantment Focus I"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +5",
+      "tooltip": "Charisma +5: This item makes the wearer have more flair, granting a +5 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +5"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

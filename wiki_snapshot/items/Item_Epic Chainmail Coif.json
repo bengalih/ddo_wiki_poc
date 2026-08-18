@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Epic Chainmail Coif",
+  "page_id": 11434,
+  "revision_id": 629923,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:46:05.260327+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Epic Chainmail Coif\n  | type                     = Helm\n  | class                    = Clothing\n  | basevalue                = 8020 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Head\n  | durability               = 210\n  | material                 = Steel\n  | hardness                 = 30\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtA|boa}}\n  | epic                     = Chainmail Coif\n  | mythic                   = no\n  | enhancements             = \n* {{SpellPower|Potency|73}}\n* {{Bonus Turning|Hallowed|9}}\n* {{Bonus Turning|Sacred|9}}\n* {{Bonus Turning|Turning}}\n* {{Augment|Yellow}}\n* {{Augment|Green}}\n* {{Named item sets|Epic Oasis of Morality}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Chainmail Coif\n  | description              = Fine links of flametouched iron form this magical helm.\n  | pic                      = Chainmail Coif shown.jpg\n  | picdesc                  = Epic Chainmail Coif.png\n}}\n[[Category:Sands of Menechtarun epic items]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Potency +73",
+      "tooltip": "Potency +73: Passive: +73 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +73"
+        }
+      ]
+    },
+    {
+      "text": "Hallowed +9",
+      "tooltip": "Hallowed: An item with this quality assists only wearers who have the ability to turn undead. Hallowed items provide an +9 Enhancement bonus to the maximum Hit Dice of undead turned.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hallowed",
+          "title": "Hallowed",
+          "text": "Hallowed +9"
+        }
+      ]
+    },
+    {
+      "text": "Sacred +9",
+      "tooltip": "Sacred +9: An item with this quality assists only wearers who have the ability to turn undead. Sacred items provide an +9 Enhancement bonus to your effective level for Turning Undead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sacred",
+          "title": "Sacred",
+          "text": "Sacred +9"
+        }
+      ]
+    },
+    {
+      "text": "Turning",
+      "tooltip": "Turning : This will increase the total number of Turn Undead attempts you can use by 3. However, these additional Turn Undead attempts will only take effect after the wielder rests.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Turning",
+          "title": "Turning",
+          "text": "Turning"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Epic Oasis of Morality",
+      "tooltip": "Epic Oasis of Morality: 2 Pieces Equipped:+4% Artifact bonus to Positive Spellcrit Chance+20 Artifact bonus to Positive Spellpower+10% Artifact bonus to Fortification Bypass",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Epic_Oasis_of_Morality",
+          "title": "Named item sets",
+          "text": "Epic Oasis of Morality"
+        }
+      ]
+    }
+  ]
+}

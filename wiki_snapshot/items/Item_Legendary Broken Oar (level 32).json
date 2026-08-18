@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Legendary Broken Oar (level 32)",
+  "page_id": 97607,
+  "revision_id": 678005,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:33:39.258479+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Broken Oar\n  | minlevel                 = 32\n  | type                     = Quarterstaff\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = Two-handed\n  | damage                   = 5.40[1d6+4] + 15 Bludgeon, Magic\n  | crit                     = 18-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 375\n  | material                 = Densewood\n  | hardness                 = 42\n  | cost                     = 12,801 pp\n  | weight                   = 2 lbs\n  | released                 = Update 56\n  | quest                    = Treasure of Crystal Cove\n  | end reward               = \n  | turn in                  = {{CCi|silver|1500}}{{CCi|golden|700}}{{CCi|jasper|45}}{{CCi|green|1000}} at [[Euphonia's Barter Box]]\n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Bleeding|6}}\n* {{Impact}}\n* {{Doublestrike|16}}\n* {{Felling the Oak}}\n* {{Augment|Red}}\n  | crafting                 = \n  | description              = You're pretty sure this was an oar once. It doesn't do much to propel a ship now, but at least you can smack your foes with the pointy end.\n  | pic                      = Broken Oar shown.jpg\n  | picdesc                  = Legendary_Broken_Oar_(level_32).png\n  | tips                     = \n}}\n[[Category:Impact items with expanded crit profiles]]",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 32,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Bleeding 6",
+      "tooltip": "Bleeding 6: This weapon is wickedly curved, with spines and hooks meant to cause damage to those with flesh. This weapon does 6d8 bleeding damage to those that are vulnerable to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleeding",
+          "title": "Bleeding",
+          "text": "Bleeding 6"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Doublestrike 16%",
+      "tooltip": "Doublestrike 16%: Passive: 16% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 16%"
+        }
+      ]
+    },
+    {
+      "text": "Felling the Oak",
+      "tooltip": "Felling the Oak: On a natural 20 that is confirmed as a critical hit, this weapon will trip your opponent, forcing them to fall prone. There is no save against this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Felling_the_Oak",
+          "title": "Felling the Oak",
+          "text": "Felling the Oak"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

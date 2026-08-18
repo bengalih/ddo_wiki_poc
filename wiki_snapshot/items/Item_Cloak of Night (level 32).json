@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Cloak of Night (level 32)",
+  "page_id": 97842,
+  "revision_id": 663124,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:22:44.565526+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Cloak of Night}}\n  | type                     = Cloak\n  | class                    = Clothing\n  | basevalue                = 12,805 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Back\n  | durability               = 330\n  | material                 = Leather\n  | hardness                 = 34\n  | minlevel                 = 32\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = The Night Revels\n  | turn in                  = {{Item|Cloak of Night (level 28)}}{{Br}}{{Tab}}and {{NightRevelsRecipe|ing_chocolate=300|ing_almond=120|ing_apple=100}} at [[Joe Candymaker]]\n  | end reward               = \n  | enhancements             = \n* {{Guard|Invisibility}}\n* {{Ghostly|Enhanced}}\n* {{Deathblock}}\n* {{Guard|Nightmare}}\n* {{Dodge|14}}\n* {{DR|15|Good}}\n  | mythic                   = no\n  | pic                      = Cloak of Night shown.jpg\n  | picdesc                  = Cloak of Night (level 32).png\n  | description              = This Cloak is as smooth and dark as the most pitch-black of nights. Wearing it makes you difficult to spot and attack, and by awakening its powers you will enable it to aid you against creatures native to the darkness. \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 32,
+  "enchantments": [
+    {
+      "text": "Invisibility Guard",
+      "tooltip": "Invisibility Guard: This item has a chance of granting you temporary invisibility when you are hit by foes. The invisibility will not be removed when you attack or take damage, but it will wear off after 10 seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Invisibility_Guard",
+          "title": "Invisibility Guard",
+          "text": "Invisibility Guard"
+        }
+      ]
+    },
+    {
+      "text": "Enhanced Ghostly",
+      "tooltip": "Enhanced Ghostly: Equipping this item causes you to become partially incorporeal. Your melee attacks do not roll a miss chance for Incorporeal targets. Enemy attacks have a 15% chance to miss you due to incorporeality. You receive a +5 enhancement bonus to your Hide and Move Silently skills.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostly",
+          "title": "Ghostly",
+          "text": "Enhanced Ghostly"
+        }
+      ]
+    },
+    {
+      "text": "Deathblock",
+      "tooltip": "Deathblock: The wearer of this item is immune to all death spells and magical death effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock"
+        }
+      ]
+    },
+    {
+      "text": "Nightmare Guard",
+      "tooltip": "Nightmare Guard: This item has a chance to terrorizing foes that hit you, applying a Mind Thrust effect, when you are hit by them (dealing 5d8 force damage, Will save vs. Enchantments negates). It may also expose your foes to their greatest fears, acting as a Phantasmal Killer spell.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nightmare_Guard",
+          "title": "Nightmare Guard",
+          "text": "Nightmare Guard"
+        }
+      ]
+    },
+    {
+      "text": "Dodge +14%",
+      "tooltip": "Dodge +14%: +14% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +14%"
+        }
+      ]
+    },
+    {
+      "text": "DR 15/Good",
+      "tooltip": "Damage Reduction 15/Good: Reduces physical damage by 15, except from Good attacks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    }
+  ]
+}

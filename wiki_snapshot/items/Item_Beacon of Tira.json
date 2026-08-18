@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Beacon of Tira",
+  "page_id": 8319,
+  "revision_id": 628506,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:09:50.129075+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Beacon of Tira\n  | slot                     = Head\n  | type                     = Helm\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 25\n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Silver Flame Nugget\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{SpellPower|Radiance|78}}\n* {{SpellPower|Devotion|78}}\n* {{SpellPower|Combustion|78}}\n* {{Augment|Green}}\n  | pic                      = Beacon of Tira shown.jpg\n  | picdesc                  = Beacon of Tira.png\n  | description              = This brightly polished pure silver helm radiates light. A blue flame that almost appears to burn is attached to the top.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Radiance +78",
+      "tooltip": "Radiance +78: Passive: +78 Equipment bonus to Light and Alignment Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiance_(spell_boost)",
+          "title": "Radiance (spell boost)",
+          "text": "Radiance +78"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +78",
+      "tooltip": "Devotion +78: Passive: +78 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +78"
+        }
+      ]
+    },
+    {
+      "text": "Combustion +78",
+      "tooltip": "Combustion +78: Passive: +78 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +78"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Epic Noxious Fang",
+  "page_id": 11836,
+  "revision_id": 667713,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:52:47.766719+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Noxious Fang\n  | damage                   = 3[1d4] + 9 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Throwing Dagger\n  | hand                     = Thrown\n  | class                    = Thrown\n  | prof                     = Simple\n  | reqtrait                 = None\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 240\n  | material                 = Steel\n  | hardness                 = 30\n  | bind                     = {{Bind|BtA|BoA}}\n  | revamped                 = Update 76\n  | basevalue                = 16,200pp 2gp\n  | weight                   = 1.00 lbs\n  | minlevel                 = 20\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|9}}\n* {{Poisonous|4}}\n* {{Disintegration}}\n* {{Save|f|9}}\n* {{Poison|Large Scorpion}}\n* {{Returning}}\n* {{Augment|Red}}\n* {{Augment|Purple}}\n  | quest                    = Epic Crafting\n  | epic                     = Noxious Fang\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Noxious Fang\n  | description              = One of the dread spider Mandible's poisonous fangs was transformed into a throwing knife. It deals poison damage and is enchanted to always return to the thrower.\n  | pic                      = Epic_Noxious_Fang_shown.jpg\n  | picdesc                  = Epic Noxious Fang.png\n  | tips                     = \n}}\n[[Category:Phiarlan Carnival epic items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Throwing Dagger",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+9 Enhancement Bonus",
+      "tooltip": "+9 Enhancement Bonus: +9 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+9 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Poisonous 4",
+      "tooltip": "Poisonous 4: This effect causes the edges of this weapon to drip with a vile venom, dealing 4d6 poison damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Poisonous",
+          "title": "Poisonous",
+          "text": "Poisonous 4"
+        }
+      ]
+    },
+    {
+      "text": "Disintegration",
+      "tooltip": "Disintegration: This weapon has a dark, insidious power deep within. Occasionally, this power lashes out violently at enemies and attempts to disintegrate them.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disintegration",
+          "title": "Disintegration",
+          "text": "Disintegration"
+        }
+      ]
+    },
+    {
+      "text": "Fortitude Save +9",
+      "tooltip": "Fortitude Save +9: This item gives a +9 Resistance bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Fortitude Save +9"
+        }
+      ]
+    },
+    {
+      "text": "Large Scorpion Poison",
+      "tooltip": "Large Scorpion Poison: On a critical hit, this weapon injects the target with Large Scorpion poison, causing 1 to 4 Constitution loss with an additional 1 to 4 Constitution loss after 1 minute if a DC 14 Fortitude save is failed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Large_Scorpion_Poison",
+          "title": "Large Scorpion Poison",
+          "text": "Large Scorpion Poison"
+        }
+      ]
+    },
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

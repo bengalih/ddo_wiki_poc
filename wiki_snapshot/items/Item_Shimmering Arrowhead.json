@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Shimmering Arrowhead",
+  "page_id": 11099,
+  "revision_id": 634645,
+  "revision_timestamp": "2025-04-22T03:35:17Z",
+  "fetched_at": "2026-08-17T22:55:46.325765+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Shimmering Arrowhead\n  | type                     = Trinket\n  | minlevel                 = 18\n  | slot                     = Trinket\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 101\n  | material                 = Gem\n  | hardness                 = 30\n  | basevalue                = 10,020pp\n  | weight                   = 0.10 lbs\n  | quest                    = The Weapons Shipment\n  | end reward               = \n  | turn in                  = \n  | chest                    = End chest (main objective)\n  | mythic                   = no\n  | enhancements             = \n* {{Crippling}}\n* {{Seeker|4}}\n* {{Attack Bonus|2}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This arrowhead is made from an unusual material that hums slightly and radiates power.\n  | pic                      = Ingredient Generic Arrowhead.png\n  | picdesc                  = Shimmering Arrowhead.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Crippling",
+      "tooltip": "Crippling: A crippling weapon is infused with binding power so that when a target is critically hit their movement is slowed by half.Note: Real slowdown is only 25%",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crippling",
+          "title": "Crippling",
+          "text": "Crippling"
+        }
+      ]
+    },
+    {
+      "text": "Seeker +4",
+      "tooltip": "Seeker +4: Provides a +4 Enhancement bonus to confirm critical hits, and a +4 Enhancement bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Seeker +4"
+        }
+      ]
+    },
+    {
+      "text": "Attack Bonus +2",
+      "tooltip": "Attack Bonus +2: Provides a +2 competence bonus to your attack rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Attack_bonus",
+          "title": "Attack bonus",
+          "text": "Attack Bonus +2"
+        }
+      ]
+    }
+  ]
+}

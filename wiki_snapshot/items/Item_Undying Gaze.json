@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Undying Gaze",
+  "page_id": 10098,
+  "revision_id": 635652,
+  "revision_timestamp": "2025-04-22T04:42:09Z",
+  "fetched_at": "2026-08-17T23:22:14.129624+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Undying Gaze\n  | slot                     = Head\n  | type                     = Helm\n  | durability               = 120\n  | material                 = Steel\n  | hardness                 = 21\n  | basevalue                = 4420pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 11\n  | quest                    = Tattered Tapestries\n  | turn in                  = 20 Tattered Tapestries\n  | bind                     = {{Bind|BtC|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Fear (spell)|7|1|label=Fear}} \n* {{Skills|Intimidate|+11}}\n* {{Shatter|6}}\n* {{Augment|Yellow}}\n  | description              = Noble bugbears who are mummified are often buried wearing one of these masks as a headdress. The eyes are made to appear to be always open, intended to scare off any would be tomb raider.\n  | pic                      = Undying Gaze shown.jpg\n  | picdesc                  = Undying Gaze.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Fear — 1 Charges (Recharged/Day:1)",
+      "tooltip": "FearCaster level: 7Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fear_(spell)",
+          "title": "Fear (spell)",
+          "text": "Fear"
+        }
+      ]
+    },
+    {
+      "text": "Intimidate +11",
+      "tooltip": "Intimidate +11: Passive: +11 Competence bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Intimidate +11"
+        }
+      ]
+    },
+    {
+      "text": "Shatter +6",
+      "tooltip": "Shatter +6: This effect gives a +6 Enhancement bonus to the DC to resist the character's Sunder and Improved Sunder attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shatter",
+          "title": "Shatter",
+          "text": "Shatter +6"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

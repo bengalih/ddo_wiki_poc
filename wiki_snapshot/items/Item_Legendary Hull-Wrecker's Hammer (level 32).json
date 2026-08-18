@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Legendary Hull-Wrecker's Hammer (level 32)",
+  "page_id": 97605,
+  "revision_id": 632471,
+  "revision_timestamp": "2025-04-22T01:06:49Z",
+  "fetched_at": "2026-08-17T21:54:46.044923+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Hull-Wrecker's Hammer\n  | minlevel                 = 32\n  | type                     = Warhammer\n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = 5.40[1d8+2] + 15 Bludgeon, Magic\n  | crit                     = 20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 385\n  | material                 = Steel\n  | hardness                 = 42\n  | cost                     = 12,801 pp 2 gp\n  | weight                   = 2 lbs\n  | released                 = Update 56\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|silver|1500}}{{CCi|golden|700}}{{CCi|jasper|45}}{{CCi|green|1000}} at [[Euphonia's Barter Box]]\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Bludgeoning|6}}\n* {{Bane|Construct|6}}\n* {{Destruction|Improved}}\n* {{Augment|Red}}\n  | crafting                 = \n  | description              = Sometimes, the best tool for putting holes in the enemy's hull is a big ol' hammer.\n  | pic                      = Hull-Wrecker's Hammer shown.jpg\n  | picdesc                  = Legendary Hull-Wrecker's Hammer (level 32).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Warhammer",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 32,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Bludgeoning 6",
+      "tooltip": "Bludgeoning 6: The edges of this weapon are blunted, dealing an additional 6d6 bludgeon damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bludgeoning",
+          "title": "Bludgeoning",
+          "text": "Bludgeoning 6"
+        }
+      ]
+    },
+    {
+      "text": "Construct Bane 6",
+      "tooltip": "Construct Bane 6: This weapon is attuned specifically to disrupt creations, dealing an additional 6d10 bane damage vs. Constructs.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Construct Bane 6"
+        }
+      ]
+    },
+    {
+      "text": "Improved Destruction",
+      "tooltip": "Improved Destruction: On Hit: Your target gains a stack of Armor Destruction. (-1 penalty to Armor Class, -1% of its Fortification. 20 Second Duration. Stacks up to 15 times.) This effect may trigger once every second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Improved_Destruction",
+          "title": "Improved Destruction",
+          "text": "Improved Destruction"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

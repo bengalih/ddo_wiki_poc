@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Shen's Robe",
+  "page_id": 13641,
+  "revision_id": 686644,
+  "revision_timestamp": "2026-05-27T17:18:48Z",
+  "fetched_at": "2026-08-17T22:55:21.000522+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Shen's Robe\n  | type                     = Robe\n  | feat                     = Cloth\n  | ac                       = +0\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 15\n  | material                 = Cloth\n  | hardness                 = 3\n  | basevalue                = 105pp 5gp\n  | weight                   = 0 lbs\n  | quest                    = Special event items\n  | chest                    = [[Special event history#Trivia Contest|Trivia Contest reward for Correct Answer]]\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Solid Fog|7|3}}\n* {{Skills|Hide|15}}\n* {{Skills|Jump|15}}\n  | pic                      = Shens Robe shown.jpg\n  | picdesc                  = Shen's Robe.png\n  | description              = Wind, fire, all that kind of thing!\n  | notes                    = This is a rare item that can only be obtained through an event supported by the DDO community team.\n}}\n\n[[Category:Community Loot List items]]",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "enchantments": [
+    {
+      "text": "Solid Fog — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Solid FogCaster level: 7Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Solid_Fog",
+          "title": "Solid Fog",
+          "text": "Solid Fog"
+        }
+      ]
+    },
+    {
+      "text": "Hide +15",
+      "tooltip": "Hide +15: Passive: +15 Competence bonus to the Hide skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hide",
+          "title": "Hide",
+          "text": "Hide +15"
+        }
+      ]
+    },
+    {
+      "text": "Jump +15",
+      "tooltip": "Jump +15: Passive: +15 Competence bonus to the Jump skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Jump_(skill)",
+          "title": "Jump (skill)",
+          "text": "Jump +15"
+        }
+      ]
+    }
+  ]
+}

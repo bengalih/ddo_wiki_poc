@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Jeweled Cloak (level 25)",
+  "page_id": 33325,
+  "revision_id": 649321,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:25:42.397432+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Jeweled Cloak}}\n  | type                     = Cloak\n  | slot                     = Back\n  | durability               = 260\n  | material                 = Cloth\n  | hardness                 = 45\n  | basevalue                = 10,020pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 25\n  | bind                     = {{Bind|BtC|BoE|1}}\n  | released                 = Update 17\n  | quest                    = The Maze of Madness\n  | chest                    = and '''[[Trial by Fire]]''', end chest (Epic Elite) \n  | enhancements             = \n* {{Elemental Resistance|elemental|10|insight}}\n* {{Absorption|spell|0|25|10}}\n* {{Augment|Yellow}}\n* {{Augment|Green}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This cloak shimmers with light, reflected off of the many gemstones woven into its fabric.\n  | pic                      = Jeweled Cloak shown.jpg\n  | picdesc                  = Jeweled Cloak (Level 25).png\n  | tips                     = \n}}\n[[Category:Trial by Fire loot]]",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "Competence Elemental Resistance - 10",
+      "tooltip": "Competence Elemental Resistance - 10: This item provides a +10 Insight bonus to your Acid, Cold, Fire, and Electrical resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Elemental_Resistance#Inherent_Resistances",
+          "title": "Elemental Resistance",
+          "text": "Competence Elemental Resistance - 10"
+        }
+      ]
+    },
+    {
+      "text": "Spell Absorption - 25 Charges (Recharged/Day: 10)",
+      "tooltip": "Spell Absorption: This effect absorbs harmful spells targeted at the wearer.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Absorption",
+          "title": "Spell Absorption",
+          "text": "Spell Absorption"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

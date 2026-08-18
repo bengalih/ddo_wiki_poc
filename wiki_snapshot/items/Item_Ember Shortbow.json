@@ -1,0 +1,54 @@
+{
+  "page_title": "Item:Ember Shortbow",
+  "page_id": 13186,
+  "revision_id": 629772,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:43:00.463683+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Ember Shortbow\n  | prof                     = Martial\n  | damage                   = [1d6] + 0 Pierce\n  | crit                     = 20 / x3\n  | type                     = Short Bow\n  | class                    = Ranged\n  | minlevel                 = 0\n  | hand                     = Ranged\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 75\n  | material                 = Wood\n  | hardness                 = 6\n  | basevalue                = 233pp\n  | weight                   = 2 lbs\n  | quest                    = The Grotto\n  | chest                    = [[Sahuagin High Priestess]]'s chest, Barbarians, Bards, Fighters, Rangers, and Rogues\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|0}}\n* {{Fire Touch}}\n* {{Starter}}\n  | description              = This shortbow is carved with symbols and is warm to the touch.\n  | pic                      = Scorpion Tail Shortbow shown.jpg\n  | picdesc                  = Ember Shortbow.png‎\n  | tips                     = All [[Barbarian]]s, [[Bard]]s, [[Fighter]]s, [[Ranger]]s, and [[Rogue]]s get this automatically upon completing (or electing to skip) [[The Grotto]].\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Short Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "Masterwork",
+      "tooltip": "Masterwork: This weapon is more finely crafted than normal, providing a +1 enhancement bonus on attack rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Masterwork",
+          "title": "Masterwork",
+          "text": "Masterwork"
+        }
+      ]
+    },
+    {
+      "text": "Fire Touch",
+      "tooltip": "Fire Touch: This weapon gives off a faint aura of warmth. A fire touch weapon deals an additional +1 fire damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Touch",
+          "title": "Fire Touch",
+          "text": "Fire Touch"
+        }
+      ]
+    },
+    {
+      "text": "Starter",
+      "tooltip": "Starter: Starter equipment cannot be traded, sold or crafted.This item cannot be fed to sentient jewels.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Starter",
+          "title": "Starter",
+          "text": "Starter"
+        }
+      ]
+    }
+  ]
+}

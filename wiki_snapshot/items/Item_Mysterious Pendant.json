@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Mysterious Pendant",
+  "page_id": 56418,
+  "revision_id": 633647,
+  "revision_timestamp": "2025-04-22T02:27:25Z",
+  "fetched_at": "2026-08-17T22:29:25.755398+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Mysterious Pendant\n  | minlevel                 = 15\n  | type                     = Necklace\n  | slot                     = Neck\n  | race                     = Deep Gnome\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6020 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Deathblock}}\n* {{Stat|Int|1|Exceptional}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Necklace Generic Bright.png\n  | picdesc                  = Mysterious Pendant.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Deathblock",
+      "tooltip": "Deathblock: The wearer of this item is immune to all death spells and magical death effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Intelligence +1",
+      "tooltip": "Exceptional Intelligence +1: This item focuses the power of the wearer's mind, granting a +1 Exceptional bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Exceptional Intelligence +1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Surefooted Boots (level 13)",
+  "page_id": 37042,
+  "revision_id": 649433,
+  "revision_timestamp": "2025-07-26T19:12:38Z",
+  "fetched_at": "2026-08-17T23:08:02.079989+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Surefooted Boots}}\n  | minlevel                 = 13\n  | class                    = Clothing\n  | type                     = Boots\n  | slot                     = Feet\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 140\n  | material                 = Leather\n  | hardness                 = 23\n  | basevalue                = 5,220 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 17\n  | quest                    = The Crucible\n  | chest                    = [[Gorn Gut-Chewer]]'s chest (heroic hard)\n  | enhancements             = \n* {{Skills|bal|11}}\n* {{Striding|25}}\n* {{Augment|Colorless}}\n  | description              = Crafted by dwarves, these boots have a very sturdy look about them. They were most recently worn by Gorn Gut-Chewer of the Wyrm-Cult Orcs.\n  | pic                      = Boots Generic Dark.png\n  | picdesc                  = Surefooted Boots (Level 13).png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Balance +11",
+      "tooltip": "Balance +11: Passive: +11 Competence bonus to the Balance skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Balance",
+          "title": "Balance",
+          "text": "Balance +11"
+        }
+      ]
+    },
+    {
+      "text": "Striding +25%",
+      "tooltip": "Striding +25%: This item makes you more fleet of foot, giving you a 25% Enhancement bonus your movement speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Striding",
+          "title": "Striding",
+          "text": "Striding +25%"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Boot Boost +1 or +3",
+      "tooltip": "Mythic Boot Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Boot Boost"
+        }
+      ]
+    }
+  ]
+}

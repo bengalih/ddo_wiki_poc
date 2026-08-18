@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Epic Sparksoles",
+  "page_id": 91502,
+  "revision_id": 630461,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:56:41.643347+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Epic Sparksoles\n  | type                     = Boots\n  | slot                     = Feet\n  | class                    = Clothing\n  | durability               = 300\n  | material                 = Cloth\n  | hardness                 = 40\n  | basevalue                = 8,001pp\n  | minlevel                 = 20\n  | weight                   = 0.10 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 50\n  | quest                    = Epic Crafting\n  | epic                     = Sparksoles\n  | mythic                   = no\n  | enhancements             = \n* {{spelllore|lightning|16}}\n* {{spell Power|magnetism|111}}\n* {{Absorption|Electricity|27}}\n* {{Elemental Resistance|Electric|36}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n* {{Named item sets|Epic Saltmarsh Explorer}}\n  | description              = A light crackle follows each footfall.\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Sparksoles\n  | pic                      = \n  | picdesc                  = Epic Sparksoles.png\n  | tips                     = \n}}\n[[Category:Sinister Secret of Saltmarsh epic items]]",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Lightning Lore +16%",
+      "tooltip": "Lightning Lore +16: Passive: Your Electricity spells gain a 16% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore +16%"
+        }
+      ]
+    },
+    {
+      "text": "Magnetism +111",
+      "tooltip": "Magnetism +111: Passive: +111 Equipment bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Magnetism +111"
+        }
+      ]
+    },
+    {
+      "text": "Electric Absorption +27%",
+      "tooltip": "Electric Absorption +27%: Passive: 27% Enhancement Bonus to Electric Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Electric Absorption +27%"
+        }
+      ]
+    },
+    {
+      "text": "Electric Resistance +36",
+      "tooltip": "Electric Resistance +36: Passive: +36 Enhancement bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Electric Resistance +36"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Epic Saltmarsh Explorer",
+      "tooltip": "Epic Saltmarsh Explorer: 5 Pieces Equipped:+20 Artifact bonus to Physical and Magical Resistance Rating+10 Artifact bonus to Melee, Ranged, and Universal Spell Power+2 Artifact bonus to all Ability Scores+20 Artifact Bonus to Positive, Negative, and Repair Amplification",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Epic_Saltmarsh_Explorer",
+          "title": "Named item sets",
+          "text": "Epic Saltmarsh Explorer"
+        }
+      ]
+    }
+  ]
+}

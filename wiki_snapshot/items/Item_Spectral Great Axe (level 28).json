@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Spectral Great Axe (level 28)",
+  "page_id": 77949,
+  "revision_id": 665116,
+  "revision_timestamp": "2025-11-02T22:43:41Z",
+  "fetched_at": "2026-08-17T23:03:03.412774+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = [[Spectral Great Axe]]\n  | damage                   = 5.10[1d12] + 12 Slash, Magic\n  | crit                     = 20 / x3\n  | minlevel                 = 28\n  | type                     = Great Axe\n  | reqtrait                 = \n  | UMD DC                   = \n  | hand                     = Two-handed\n  | class                    = Slashing\n  | damagemod                = STR \n  | attackmod                = STR\n  | prof                     = Martial\n  | durability               = 380\n  | material                 = Force\n  | hardness                 = 38\n  | basevalue                = 11,220 pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = The Night Revels\n  | chest                    = \n  | turn in                  = {{Item|Spectral Great Axe (level 24)}}{{Br}}{{Tab}}and {{NightRevelsRecipe|ing_chocolate= 250|ing_almond= 100|ing_cinnamon= 120}} at [[Joe Candymaker]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|12}}\n* {{Ghostbane|6}}\n* {{Bane|Evil Outsider|6}}\n* {{Vorpal|Superior}}\n* {{Crushing|13}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = The residual power left behind as thousands of Spectral Dragon Scales crumbled to dust formed this ethereal weapon.\n  | pic                      = Spectral Greataxe shown.jpg\n  | picdesc                  = Spectral Greataxe (level 28).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+12 Enhancement Bonus",
+      "tooltip": "+12 Enhancement Bonus: +12 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+12 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Ghostbane 6",
+      "tooltip": "Ghostbane 6: This weapon is attuned specifically to hunt the risen dead, dealing an additional 6d10 bane damage vs. Undead monsters.Passive: This weapon has Ghost Touch, and bypasses ethereal monster's 50% chance to evade bane damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostbane",
+          "title": "Ghostbane",
+          "text": "Ghostbane 6"
+        }
+      ]
+    },
+    {
+      "text": "Evil Outsider Bane 6",
+      "tooltip": "Evil Outsider Bane 6: This weapon is attuned specifically to hunt monsters that bring ill intent from other planes, dealing an additional 6d10 bane damage vs. Evil Outsiders.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Evil Outsider Bane 6"
+        }
+      ]
+    },
+    {
+      "text": "Superior Vorpal",
+      "tooltip": "Superior Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 2500 Hit Points, they are instantly slain. If your target has above 2500 Hit Points, they take 250 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Superior_Vorpal",
+          "title": "Vorpal",
+          "text": "Superior Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Crushing 13",
+      "tooltip": "Crushing 13: This effect causes the edges of this weapon to ripple with force, dealing 13d6 force damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crushing",
+          "title": "Crushing",
+          "text": "Crushing 13"
+        }
+      ]
+    }
+  ]
+}

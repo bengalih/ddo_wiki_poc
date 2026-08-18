@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Quivering Quiver",
+  "page_id": 14505,
+  "revision_id": 634101,
+  "revision_timestamp": "2025-04-22T02:59:19Z",
+  "fetched_at": "2026-08-17T22:41:30.748939+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Quiver\n  | name                     = Quivering Quiver\n  | type                     = Wide Quiver\n  | minlevel                 = None\n  | bind                     = {{Bind|BtC|boa}}\n  | durability               = \n  | material                 = None\n  | hardness                 = \n  | cost                     = 500 pp\n  | weight                   = 1.00 lbs\n  | released                 = Update 9\n  | quest                    = Harbinger of Madness\n  | end reward               = yes\n  | capacity                 = 10\n  | maxstack                 = 300\n  | enhancements             = \n* {{Arrow Spitting}}\n  | description              = This quiver is completely organic, and is rough and slimy to the touch. It shivers periodically, and when provoked it will sometimes disgorge arrows of a random type. Try not to think about where they've been. The quiver will also hold 10 different types of arrow or bolt and can store each type in a stack of up to 300. Total capacity: 3000.\n  | pic                      = Quiver Generic Quivering.png\n  | picdesc                  = Quivering Quiver.png\n  | notes                    = Randomly produces stacks of 20 arrows (never bolts) of the following if you are hit:\n* +1 Xoriat [[Lawful Outsider|Lawbane]] Arrows - {{Bane|Lawful Outsider}}, ML:2\n* +3 Xoriat Arrows - ML:4\n* +3 Xoriat {{Mat|Cold Iron}} Arrows - ML:4\n* +3 Xoriat {{Mat|Adamantine}} Arrows - ML:4\n* +3 Xoriat {{Mat|Silver}} Arrows - ML:4\n* +3 Xoriat [[Corrosive]] Arrows - {{Acid}}, ML:6\n* +3 Xoriat {{Flaming}} Arrows - ML:6\n* +3 Xoriat {{Frost}} Arrows - ML:6\n* +3 Xoriat {{Shock}} Arrows - ML:6\n* +3 Xoriat {{Anarchic}} Arrows - ML:8\n}}",
+  "item_template": "Named item",
+  "material": "None",
+  "item_type": "Wide Quiver",
+  "item_class": "Quiver",
+  "slot": "Quiver",
+  "enchantments": [
+    {
+      "text": "Arrow Spitting",
+      "tooltip": "Arrow Spitting: While this item is equipped and an enemy hits you, there is a chance that this item will produce a stack of 20 arrows of a random type. Where exactly the arrows come from remains a mystery.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Arrow_Spitting",
+          "title": "Arrow Spitting",
+          "text": "Arrow Spitting"
+        }
+      ]
+    }
+  ]
+}

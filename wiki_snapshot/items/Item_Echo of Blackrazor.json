@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Echo of Blackrazor",
+  "page_id": 70606,
+  "revision_id": 687199,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:41:24.561651+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Echo of Blackrazor\n  | damage                   = [2d6] + 3 Slash, Magic, Crystal\n  | crit                     = 17-20 / x2\n  | type                     = Great Sword\n  | hand                     = Two-handed\n  | race                     = \n  | class                    = Slashing\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 9\n  | durability               = 190\n  | material                 = Crystal\n  | hardness                 = 19\n  | cost                     = 3605 pp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 39\n  | quest                    = White Plume Mountain\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Stealer of Souls}}\n* {{Keen|I}}\n* {{Entropic|3}}\n* {{Immunity|Psychic Ward}}\n* {{Augment|Orange}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = It delights in your voracity.\n  | pic                      = Echo of Blackrazor shown.jpg\n  | picdesc                  = Echo of Blackrazor.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Stealer of Souls",
+      "tooltip": "Stealer of Souls: Blackrazor hungers for the Souls of those you have defeated. On a Vorpal hit with this weapon, Blackrazor will absorb some of its Soul, draining one level from the target. When you strike the killing blow on an enemy, Blackrazor retains one Defeated Soul, up to a maximum of 5. Each Defeated Soul grants you +1 Profane bonus to Melee Power and +1 Profane bonus to Damage. If you block or unequip Blackrazor, the Defeated Souls will be released. Defeated Souls last for 30 seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stealer_of_Souls_(effect)",
+          "title": "Stealer of Souls (effect)",
+          "text": "Stealer of Souls"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Entropic 3",
+      "tooltip": "Entropic 3: This weapon is intensely powerful, and crackles with destructive, unpredictable magic. It deals an additional 3d6 untyped damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Entropic",
+          "title": "Entropic",
+          "text": "Entropic 3"
+        }
+      ]
+    },
+    {
+      "text": "Psychic Ward",
+      "tooltip": "Psychic Ward: This items wards you against mind-altering effects and spells, such as Charm and Domination.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Psychic_Ward",
+          "title": "Psychic Ward",
+          "text": "Psychic Ward"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

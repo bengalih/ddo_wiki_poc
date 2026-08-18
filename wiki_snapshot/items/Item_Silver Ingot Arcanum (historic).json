@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Silver Ingot Arcanum (historic)",
+  "page_id": 7941,
+  "revision_id": 634783,
+  "revision_timestamp": "2025-04-22T03:44:29Z",
+  "fetched_at": "2026-08-17T22:59:07.204938+00:00",
+  "categories": [],
+  "wikitext": "{{History|replaced={{Item|Silver Ingot Arcanum}}}}\n{{Named item|Weapon\n  | name                     = {{Item|Silver Ingot Arcanum}}\n  | damage                   = [1d6] + 2 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | minlevel                 = 12\n  | bind                     = {{Bind|no}}\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 150\n  | material                 = Wood\n  | hardness                 = 17\n  | basevalue                = 9,800 pp 2 cp\n  | weight                   = 4 lbs\n  | quest                    = Gianthold Tor\n  | chest                    = Blue Dragon Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|2}}\n* {{Spelllore|Ice|V}}\n* {{SpellPower|Glaciation|66}}\n  | description              = Once used as a wand by the giants of the Lost Empire, this five-foot rod makes a heavy fighting staff for a human-sized wielder. It is inscribed with runes that would fascinate and befuddle the greatest scholars of Xen'drik.\n  | pic                      = Silver Ingot Arcanum shown.jpg\n  | picdesc                  = Silver Ingot Arcanum (historic).png\n  | tips                     = Can also be found with:\n* {{SpellPower|Glaciation|60}}\n* {{SpellPower|Glaciation|54}}\n}}",
+  "item_template": "History",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +6",
+      "tooltip": "Spellcasting Implement +6: Passive: +6 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +6"
+        }
+      ]
+    },
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Ice Lore V",
+      "tooltip": "Ice Lore V: Passive: Your Cold spells gain a 15% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Ice Lore V"
+        }
+      ]
+    },
+    {
+      "text": "Glaciation +66",
+      "tooltip": "Glaciation +66: Passive: +66 Equipment bonus to Cold Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Glaciation",
+          "title": "Glaciation",
+          "text": "Glaciation +66"
+        }
+      ]
+    }
+  ]
+}

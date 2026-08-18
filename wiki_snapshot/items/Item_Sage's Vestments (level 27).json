@@ -1,0 +1,44 @@
+{
+  "page_title": "Item:Sage's Vestments (level 27)",
+  "page_id": 41478,
+  "revision_id": 686667,
+  "revision_timestamp": "2026-05-27T17:33:27Z",
+  "fetched_at": "2026-08-17T22:50:20.574494+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Sage's Vestments\n  | type                     = Robe\n  | feat                     = Cloth\n  | minlevel                 = 27\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +12\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 200\n  | material                 = Cloth\n  | hardness                 = 20\n  | basevalue                = 10,805pp 5gp\n  | weight                   = \n  | released                 = Update 19\n  | quest                    = Through a Mirror Darkly\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|12}}\n* {{Heroism|Greater}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Sage's Vestments shown.jpg\n  | picdesc                  = Sage's Vestments (Level 27).png\n  | description              = \n  | notes                    = {{Non-food|WAI}}\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +12",
+      "tooltip": "Armor Bonus +12: This item surrounds the wearer with an invisible but tangible field of force, granting +12 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +12"
+        }
+      ]
+    },
+    {
+      "text": "Greater Heroism",
+      "tooltip": "Greater Heroism: Passive: +4 morale bonus to all your attack rolls, saving throws, and skill checks. Does not grant immunity to Fear.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heroism_(enchantment)",
+          "title": "Heroism (enchantment)",
+          "text": "Greater Heroism"
+        }
+      ]
+    }
+  ]
+}

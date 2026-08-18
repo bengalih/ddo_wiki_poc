@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Thamor's Ring",
+  "page_id": 10225,
+  "revision_id": 635278,
+  "revision_timestamp": "2025-04-22T04:17:13Z",
+  "fetched_at": "2026-08-17T23:11:54.871884+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Thamor's Ring\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 120\n  | material                 = Gold\n  | hardness                 = 12\n  | basevalue                = 10,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | quest                    = Tower of Despair\n  | chest                    = right side end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CHA|6}}\n* {{Stat|CON|1|Exceptional}}\n* {{Named item sets|Earth Savant}}\n* {{CraftingEffects|Incredible Potential}}\n  | crafting                 = Incredible Potential\n  | craftingupgrade          = <!-- -->\n  | description              = The powerful Earth Savant Thamor wore this ring when he shook the earth and crushed an undead army.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Thamor's Ring.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Charisma +6",
+      "tooltip": "Charisma +6: This item makes the wearer have more flair, granting a +6 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +6"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Constitution +1",
+      "tooltip": "Exceptional Constitution +1: This item gives the wearer improved health, granting a +1 Exceptional bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Exceptional Constitution +1"
+        }
+      ]
+    },
+    {
+      "text": "Earth Savant",
+      "tooltip": "Earth Savant: This item is one of the two pieces of the Earth Savant set. When both items are equipped, you gain a +2% Artifact bonus to your Acid Spell Critical Chance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Earth_Savant",
+          "title": "Named item sets",
+          "text": "Earth Savant"
+        }
+      ]
+    },
+    {
+      "text": "Incredible Potential",
+      "tooltip": "Incredible Potential: Incredible Potential: This ring's power has not been fully unleashed. When this ring is combined with 9 Shavarath War Trophies and ac Imbued Shard of Great Power in an Altar of Subjugation, its full potential will be reveled.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incredible_Potential",
+          "title": "Incredible Potential",
+          "text": "Incredible Potential"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Dynastic Falcata",
+  "page_id": 7861,
+  "revision_id": 629694,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:41:17.021813+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Dynastic Falcata\n  | damage                   = [1d8] + 5 Slash, Lawful, Adamantine, Magic\n  | crit                     = 19-20 / x3\n  | type                     = Khopesh\n  | hand                     = One-handed\n  | class                    = Slashing\n  | damagemod                = STR, CHA\n  | attackmod                = STR, CHA\n  | prof                     = Exotic\n  | durability               = 165\n  | material                 = Adamantine\n  | reqtrait                 = Lawful\n  | UMD DC                   = 20\n  | hardness                 = 30\n  | basevalue                = 4,302pp\n  | weight                   = 12 lbs\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Sands of Menechtarun\n  | chest                    = Undead area - [[General Tanankh]]'s chest (Rare Encounter) ; <br /> [[Masei Mkembe]] sells for 625 [[Antique Bronze Tokens]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|5}}\n* {{Blast|Axiomatic|3}}\n* {{Blast|Good|3}}\n* {{Doublestrike|6}}\n* {{Favored Weapon}}\n* {{Mat|Adamantine}}\n* {{Augment|Purple}}\n* {{Augment|Red}}\n* {{Named item sets|Menechtarun Scavenger}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Dynastic Falcata\n  | description              = A fine falcata forged for the sons of kings.\n  | pic                      = Dynastic Falcata shown.jpg\n  | picdesc                  = Dynastic Falcata.png\n  | tips                     = This weapon uniquely uses the higher of the wielder's STR or CHA for attack and damage. \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Khopesh",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Axiomatic Blast 3",
+      "tooltip": "Axiomatic Blast 3: This weapon is an implement of law, dealing 3d6 Law damage on a successful hit, and an additional 3d6 Law damage on a critical hit. This effect makes the weapon lawfully aligned.Chaotic characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Axiomatic Blast 3"
+        }
+      ]
+    },
+    {
+      "text": "Good Blast 3",
+      "tooltip": "Good Blast 3: This weapon sings of virtue, dealing 3d6 Good damage on a successful hit, and an additional 3d6 Good damage on a critical hit. This effect makes the weapon good aligned.Evil characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Good Blast 3"
+        }
+      ]
+    },
+    {
+      "text": "Doublestrike 6%",
+      "tooltip": "Doublestrike 6%: Passive: 6% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 6%"
+        }
+      ]
+    },
+    {
+      "text": "Favored Weapon",
+      "tooltip": "Favored Weapon: This weapon has a divine attunement and gains bonuses as if it were a Favored Weapon regardless of your Deity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Favored_weapon",
+          "title": "Favored weapon",
+          "text": "Favored Weapon"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Menechtarun Scavenger",
+      "tooltip": "Menechtarun Scavenger: 2 Pieces Equipped:+5 Artifact bonus to Physical and Magical Resistance Rating+10 Artifact bonus to Positive, Negative, and Repair Amplification",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Menechtarun_Scavenger",
+          "title": "Named item sets",
+          "text": "Menechtarun Scavenger"
+        }
+      ]
+    }
+  ]
+}

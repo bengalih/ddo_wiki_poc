@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Lockup Property Log",
+  "page_id": 79710,
+  "revision_id": 633277,
+  "revision_timestamp": "2025-04-22T02:02:59Z",
+  "fetched_at": "2026-08-17T22:18:20.259073+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Lockup Property Log\n  | minlevel                 = 15\n  | type                     = Trinket\n  | race                     = Tiefling Scoundrel\n  | slot                     = Trinket\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | cost                     = 6020 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 42\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | turn in                  = \n  | chest                    = \n  | epic                     = no\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Dodge|6}}\n* {{Hp|vitality|20}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A list of the effects that were taken from you after the brawl. Looks like everything's accounted for. \n  | pic                      = Trinket Generic Book.png\n  | picdesc                  = Lockup Property Log.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Dodge +6%",
+      "tooltip": "Dodge +6%: +6% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +6%"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +20",
+      "tooltip": "Vitality +20: Passive: +20 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +20"
+        }
+      ]
+    }
+  ]
+}

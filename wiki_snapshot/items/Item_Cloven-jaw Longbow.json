@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Cloven-jaw Longbow",
+  "page_id": 7856,
+  "revision_id": 629073,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:24:12.749380+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Cloven-jaw Longbow\n  | damage                   = [1d8] + 2 Pierce, Magic\n  | crit                     = 20 / x3\n  | type                     = Long Bow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | prof                     = Martial\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | durability               = 100\n  | material                 = Wood\n  | hardness                 = 7\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtC|BoE}}\n  | basevalue                = 807pp 5gp\n  | weight                   = 3 lbs\n  | quest                    = The Sacred Helm\n  | chest                    = Chest at the top of the ladder\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Force}}\n* {{Augment|Red}}\n  | description              = This longbow is carved with symbols marking it as property of the Cloven-jaw tribe.\n  | pic                      = Cloven-Jaw Longbow shown.jpg\n  | picdesc                  = Cloven-jaw Longbow.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Force",
+      "tooltip": "Force: This weapon is humming with magical force. It deals an additional 1 to 6 force damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Force_(enchantment)",
+          "title": "Force (enchantment)",
+          "text": "Force"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

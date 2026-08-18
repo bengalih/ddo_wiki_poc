@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Whisper Ring",
+  "page_id": 10228,
+  "revision_id": 635795,
+  "revision_timestamp": "2025-04-22T04:51:41Z",
+  "fetched_at": "2026-08-17T23:26:10.261545+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Whisper Ring\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 120\n  | material                 = Gold\n  | hardness                 = 12\n  | basevalue                = 10,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | quest                    = Tower of Despair\n  | chest                    = right side end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|DEX|6}}\n* {{Stat|INT|1|Exceptional}}\n* {{Named item sets|Assassin}}\n* {{CraftingEffects|Incredible Potential}}\n  | crafting                 = Incredible Potential\n  | craftingupgrade          = <!-- -->\n  | description              = This blackened ring was worn by the dreaded assassin Awanahu. Some claim Awanahu took the life of a Coin Lord's child, instilling such fear in the father that he refused to seek justice.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Whisper Ring.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Dexterity +6",
+      "tooltip": "Dexterity +6: This item makes the wearer more nimble and dexterous, granting a +6 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +6"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Intelligence +1",
+      "tooltip": "Exceptional Intelligence +1: This item focuses the power of the wearer's mind, granting a +1 Exceptional bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Exceptional Intelligence +1"
+        }
+      ]
+    },
+    {
+      "text": "Assassin",
+      "tooltip": "Assassin: Bonus to hit and damage with sneak attacks (+2 to hit and +5 damage from attacks considered sneak attacks[both non-stacking even if it say exceptional]), 20% less threat. If have Assassin III Enhancement: chance with weapons to apply a Level Drain effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Assassin",
+          "title": "Named item sets",
+          "text": "Assassin"
+        }
+      ]
+    },
+    {
+      "text": "Incredible Potential",
+      "tooltip": "Incredible Potential: Incredible Potential: This ring's power has not been fully unleashed. When this ring is combined with 9 Shavarath War Trophies and ac Imbued Shard of Great Power in an Altar of Subjugation, its full potential will be reveled.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incredible_Potential",
+          "title": "Incredible Potential",
+          "text": "Incredible Potential"
+        }
+      ]
+    }
+  ]
+}

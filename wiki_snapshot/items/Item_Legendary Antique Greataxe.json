@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Antique Greataxe",
+  "page_id": 91315,
+  "revision_id": 640315,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:30:07.084662+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Antique Greataxe\n  | minlevel                 = 30\n  | type                     = Great Axe\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = Two-handed\n  | damage                   = 5[1d12+4] + 15 Slash, Good, Silver, Adamantine, Mithral, Cold Iron, Magic, Byeshk\n  | crit                     = 20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 400\n  | material                 = Adamantine\n  | hardness                 = 50\n  | cost                     = 12,302 pp\n  | weight                   = 12 lbs\n  | released                 = Update 50\n  | legendary                = Epic Antique Greataxe\n  | quest                    = Legendary Crafting\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Blast|Force|6}}\n* {{Mat|Metalline}}\n* {{Righteous}}\n* {{Burst|Holy|6|14}}\n* {{Mat|Adamantine}}\n* {{Augment|Red}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | description              = Lamden Wynn of the Golden Wing Inn kept this greataxe behind the bar in case of trouble. It's an old family heirloom, but he offered it to you as compensation for your efforts.\n  | pic                      = Antique Greataxe shown.jpg\n  | picdesc                  = Legendary Antique Greataxe.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Force Blast 6",
+      "tooltip": "Force Blast 6: This weapon ripples with intense force, dealing 6d6 Force damage on a successful hit, and an additional 6d6 Force damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Force Blast 6"
+        }
+      ]
+    },
+    {
+      "text": "Metalline",
+      "tooltip": "Metalline: Metalline bypasses any metal based damage reduction. (Adamantine, \"Alchemical, Silver\", Byeshk, Cold Iron, Mithral)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Metalline",
+          "title": "Metalline",
+          "text": "Metalline"
+        }
+      ]
+    },
+    {
+      "text": "Righteous",
+      "tooltip": "Righteous: This weapon is imbued with holy power, giving it an additional +2 to attack bonus and damage against any evil creature. This power makes the weapon good-aligned.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Righteous",
+          "title": "Righteous",
+          "text": "Righteous"
+        }
+      ]
+    },
+    {
+      "text": "Holy Burst 6",
+      "tooltip": "Holy Burst 6: This weapon sings of virtue, dealing 6d6 Good damage on a successful hit to Evil enemies, and 14d6 Good damage on a critical hit to Evil enemies. This effect makes the weapon good aligned.Evil characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Holy_Burst#Holy_Burst",
+          "title": "Holy Burst",
+          "text": "Holy Burst 6"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    }
+  ]
+}

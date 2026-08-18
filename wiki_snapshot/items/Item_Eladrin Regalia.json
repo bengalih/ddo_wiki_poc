@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Eladrin Regalia",
+  "page_id": 107809,
+  "revision_id": 629713,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:41:40.972801+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Eladrin Regalia\n  | minlevel                 = 15\n  | type                     = Clothing\n  | feat                     = Cloth\n  | ac                       = +5\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | race                     = Eladrin Chaosmancer\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Cloth\n  | hardness                 = 17\n  | basevalue                = 6,005 pp 5 gp\n  | weight                   = \n  | released                 = Update 68\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Sheltering|6}}\n* {{Dodge|6}}\n  | crafting                 = \n  | description              = This elegant robe belies the chaos inside.\n  | pic                      = Eladrin Regalia shown.jpg\n  | picdesc                  = Eladrin Regalia.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Clothing",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Sheltering +6",
+      "tooltip": "Sheltering +6: +6 Enhancement bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Sheltering +6"
+        }
+      ]
+    },
+    {
+      "text": "Dodge +6%",
+      "tooltip": "Dodge +6%: +6% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +6%"
+        }
+      ]
+    }
+  ]
+}

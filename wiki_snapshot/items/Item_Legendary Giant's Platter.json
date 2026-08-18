@@ -1,0 +1,132 @@
+{
+  "page_title": "Item:Legendary Giant's Platter",
+  "page_id": 68449,
+  "revision_id": 653031,
+  "revision_timestamp": "2025-08-07T00:39:48Z",
+  "fetched_at": "2026-08-17T21:49:42.912722+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Legendary Giant's Platter\n  | type                     = Large\n  | prof                     = General\n  | race                     = \n  | reqtrait                 = <!-- Required Trait. Leave this comment if none.  -->\n  | UMD DC                   = <!-- Use Magic Device DC. Leave this comment if none.  -->\n  | minlevel                 = 29\n  | damagemod                = STR\n  | attmod                   = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = 23\n  | maxdexbonus              = \n  | dr                       = 19\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = 4.80[1d10+6] + 15\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 /x3\n  | durability               = 410\n  | material                 = Densewood\n  | hardness                 = 54\n  | basevalue                = 12,004 pp\n  | weight                   = 10 lbs\n  | released                 = Update 38\n  | quest                    = The Madness of Crowds\n  | chest                    = End chest\n  | end reward               = <!-- At least 1 of these 3 should be filled in. Leave other 2 alone. -->\n  | turn in                  = <!-- At least 1 of these 3 should be filled in. Leave other 2 alone. -->\n  | epic                     = \n  | enhancements             = \n* {{Enhancement bonus|s|15}}\n* {{Sheltering|33|Enhancement|Magical}}\n* {{NaturalArmor|13}}\n* {{Hp|Vitality|44}}\n* {{ProtectionBonus|10}}\n* {{Augment|Purple}}\n* {{Named item sets|Wayward Warrior (Legendary)}}\n* {{Named item sets|Seasons of Change (Legendary)}}\n  | description              = One Giant's plate is another adventurer's treasure.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Giant's Platter shown.jpg\n  | picdesc                  = Legendary Giant's Platter.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Densewood",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Magical Sheltering +33",
+      "tooltip": "Magical Sheltering +33: +33 Enhancement bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Magical Sheltering +33"
+        }
+      ]
+    },
+    {
+      "text": "Natural Armor +13",
+      "tooltip": "Natural Armor +13: Passive: +13 Natural Armor Bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Natural_armor_bonus",
+          "title": "Natural armor bonus",
+          "text": "Natural Armor +13"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +44",
+      "tooltip": "Vitality +44: Passive: +44 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +44"
+        }
+      ]
+    },
+    {
+      "text": "Protection +10",
+      "tooltip": "Protection +10: Passive: +10 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +10"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Wayward Warrior (Legendary)",
+      "tooltip": "Wayward Warrior (Legendary): 2 Pieces Equipped:+5 Artifact Bonus to Natural Armor+3 Artifact Bonus to Constitution",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Wayward_Warrior_(Legendary)",
+          "title": "Named item sets",
+          "text": "Wayward Warrior (Legendary)"
+        }
+      ]
+    },
+    {
+      "text": "Seasons of Change (Legendary)",
+      "tooltip": "Seasons of Change (Legendary): 2 Pieces Equipped:+30 Artifact Bonus to Fire and Cold Spell Power+3 Artifact Bonus to Evocation DCs",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Seasons_of_Change_(Legendary)",
+          "title": "Named item sets",
+          "text": "Seasons of Change (Legendary)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

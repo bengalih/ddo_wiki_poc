@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Bow of the Elements (Air)",
+  "page_id": 7974,
+  "revision_id": 628707,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:14:05.118276+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Bow of the Elements (Air)\n  | damage                   = [1d8] + 5 Pierce, Magic\n  | crit                     = 20 / x3\n  | type                     = Long Bow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | prof                     = Martial\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | durability               = 180\n  | material                 = Wood\n  | hardness                 = 15\n  | basevalue                = 4,007 pp 5 gp\n  | weight                   = 3 lbs\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Sands of Menechtarun\n  | chest                    = Undead Area: [[Whirling Ozann]]'s chest (Rare Encounter) ; <br /> [[Masei Mkembe]] sells for 625 [[Antique Bronze Tokens]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|i|5}}\n* {{Lightning Strike}}\n* {{Blast|Shocking|3}}\n* {{Spelllore|Lightning|11}}\n* {{SpellPower|Magnetism|77}}\n* {{Augment|Red}}\n* {{Named item sets|The Desert's Writhing Storm}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Bow of the Elements (Air)\n  | description              = A composite longbow containing a bound air elemental.\n  | pic                      = Thornlord shown.jpg\n  | picdesc                  = Bow of the Elements (Air).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +15",
+      "tooltip": "Spellcasting Implement +15: Passive: +15 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +15"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Strike",
+      "tooltip": "Lightning Strike: This weapon stores the power of a volatile thunderstorm deep within. Occasionally, this dynamic power comes to the surface, devastating enemies with a massive lightning strike.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lightning_Strike",
+          "title": "Lightning Strike",
+          "text": "Lightning Strike"
+        }
+      ]
+    },
+    {
+      "text": "Shocking Blast 3",
+      "tooltip": "Shocking Blast 3: This weapon arcs with deadly electricity, dealing 3d6 Electric damage on a successful hit, and an additional 3d6 Electric damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Shocking Blast 3"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Lore +11%",
+      "tooltip": "Lightning Lore +11: Passive: Your Electricity spells gain a 11% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore +11%"
+        }
+      ]
+    },
+    {
+      "text": "Magnetism +77",
+      "tooltip": "Magnetism +77: Passive: +77 Equipment bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Magnetism +77"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Desert's Writhing Storm",
+      "tooltip": "The Desert's Writhing Storm: 2 Pieces Equipped:+2% Artifact bonus to Electric Spellcrit Chance+10 Artifact bonus to Electric Spellpower+10 Artifact bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Desert's_Writhing_Storm",
+          "title": "Named item sets",
+          "text": "The Desert's Writhing Storm"
+        }
+      ]
+    }
+  ]
+}

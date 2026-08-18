@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Implement of the Deep Woods",
+  "page_id": 24517,
+  "revision_id": 631529,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:23:22.462666+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Implement of the Deep Woods\n  | damage                   = 3[1d6] + 6 Bludgeon,  Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = Cleric, Druid, Favored Soul\n  | UMD DC                   = 0\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 280\n  | material                 = Densewood\n  | hardness                 = 30\n  | minlevel                 = 20\n  | quest                    = Eveningstar\n  | chest                    = \n  | end reward               = \n  | turn in                  = {{Commendation|Druids|15}}\n  | epic                     = no\n  | basevalue                = 8,000 pp 1 cp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|6}}\n* {{SpellPower|Devotion|90}}\n* {{SpellPower|Magnetism|90}}\n* {{SpellPower|Combustion|90}}\n* {{Spelllore|Fire|vi}}\n* {{Spelllore|Lightning|vi}}\n* {{Elemental Resistance|Elemental|5|Competence}}\n* {{Clicky|Restoration|7|1|1}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Implement of the Deep Woods shown.jpg\n  | picdesc                  = Implement of the Deep Woods.png\n  | description              = Staves of this type are a traditional druidic implement, though they can be used for a wide variety of divine magic. This staff can cast the Restoration spell. Although it is depleted after only one use, it will automatically recharge itself over time.\n  | tips                     = Spellcasting Implement does not display on Arcton Greenwort (Druid Trader) item description. Only after the item is created will it have an Spellcasting Implement shown.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +18",
+      "tooltip": "Spellcasting Implement +18: Passive: +18 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +18"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +90",
+      "tooltip": "Devotion +90: Passive: +90 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +90"
+        }
+      ]
+    },
+    {
+      "text": "Magnetism +90",
+      "tooltip": "Magnetism +90: Passive: +90 Equipment bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Magnetism +90"
+        }
+      ]
+    },
+    {
+      "text": "Combustion +90",
+      "tooltip": "Combustion +90: Passive: +90 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +90"
+        }
+      ]
+    },
+    {
+      "text": "Fire Lore VI",
+      "tooltip": "Fire Lore VI: Passive: Your Fire spells gain a 16% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore VI"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Lore VI",
+      "tooltip": "Lightning Lore VI: Passive: Your Electricity spells gain a 16% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore VI"
+        }
+      ]
+    },
+    {
+      "text": "Competence Elemental Resistance - 5",
+      "tooltip": "Competence Elemental Resistance - 5: This item provides a +5 Competence bonus to your Acid, Cold, Fire, and Electrical resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Elemental_Resistance#Inherent_Resistances",
+          "title": "Elemental Resistance",
+          "text": "Competence Elemental Resistance - 5"
+        }
+      ]
+    },
+    {
+      "text": "Restoration — 1 Charges (Recharged/Day:1)",
+      "tooltip": "RestorationCaster level: 7Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Restoration",
+          "title": "Restoration",
+          "text": "Restoration"
+        }
+      ]
+    }
+  ]
+}

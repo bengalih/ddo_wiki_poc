@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Corroded Rapier",
+  "page_id": 10997,
+  "revision_id": 672646,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:26:28.540490+00:00",
+  "categories": [],
+  "wikitext": "{{History|Item}}\n{{Named item|Weapon\n  | name                     = Corroded Rapier\n  | damage                   = [1d6] + 1 Pierce, Silver, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Rapier\n  | class                    = Piercing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX, CHA\n  | durability               = 75\n  | material                 = Steel\n  | hardness                 = 11\n  | minlevel                 = 5\n  | basevalue                = 1,811pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoE|}}\n  | quest                    = The Tide Turns\n  | chest                    = End chest;<br />[[Sentinels of Stormreach]], Quest chain end reward\n  | revamped                 = Update 76\n  | enhancements             = \n* {{Enhancement bonus|i|1}}\n* {{SpellPower|Devotion|36}}\n* {{Mat|Silver}}, Alchemical\n* {{CraftingEffects|Unraveling Enchantments}}\n  | crafting                 = Unraveling Enchantments\n  | craftingupgrade          = Elyd Edge\n  | description              = Elven script on this silver blade is impossible to read due to the heavy corrosion.\n  | pic                      = Corroded Rapier shown.jpg\n  | picdesc                  = Corroded Rapier.png‎\n  | tips                     = \n}}",
+  "item_template": "History",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Rapier",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +3",
+      "tooltip": "Spellcasting Implement +3: Passive: +3 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +3"
+        }
+      ]
+    },
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +36",
+      "tooltip": "Devotion +36: Passive: +36 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +36"
+        }
+      ]
+    },
+    {
+      "text": "Silver , Alchemical",
+      "tooltip": "Silver: A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as devils and vampires. Silver weapons have 2 points lower hardness then equivalent steel weapons, and as such aren't quite as durable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Silver",
+          "title": "Silver",
+          "text": "Silver"
+        }
+      ]
+    },
+    {
+      "text": "Unraveling Enchantments",
+      "tooltip": "Unraveling Enchantments: The enchantments on this item have become unstable and weakened with time, but those serving House Deneith may be able to restore it. Combine this item in Visbane's Folly atop Sentinel's Tower in House Deneith Enclave with a Sigil of the Goat, a Sigil of the Lion, and a Sigil of the Dragon to restore its original enchantments.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Unraveling_Enchantments",
+          "title": "Unraveling Enchantments",
+          "text": "Unraveling Enchantments"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

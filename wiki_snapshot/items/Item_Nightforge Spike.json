@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Nightforge Spike",
+  "page_id": 5515,
+  "revision_id": 668190,
+  "revision_timestamp": "2025-11-27T11:49:11Z",
+  "fetched_at": "2026-08-17T22:31:27.494359+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Nightforge Spike\n  | damage                   = 1.50[1d4] + 5 Pierce, Adamantine, Magic\n  | crit                     = 18-20 / x3\n  | type                     = Dart\n  | class                    = Thrown\n  | prof                     = Simple\n  | hand                     = Thrown\n  | minlevel                 = 8\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 95\n  | material                 = Adamantine \n  | hardness                 = 28\n  | bind                     = {{Bind|BtC|BoA}}\n  | basevalue                = 3,500pp 5cp\n  | weight                   = 0.50 lbs\n  | revamped                 = Update 76\n  | quest                    = A Relic of a Sovereign Past\n  | turn in                  = 10 [[Adamantine Ore]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Mat|Adamantine}}\n* {{Returning|100}}\n* {{Augment|Red}}\n  | description              = Weighted darts of forged adamantine. A skilled thrower can hurl them with surprising force and accuracy.\n  | pic                      = Nightforge Spike shown.jpg\n  | picdesc                  = Nightforge Spike.png\n}}\n{{DEFAULTSORT:Spike}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dart",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

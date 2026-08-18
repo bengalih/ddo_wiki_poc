@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Plundered Pirate Hat",
+  "page_id": 46334,
+  "revision_id": 633997,
+  "revision_timestamp": "2025-04-22T02:52:07Z",
+  "fetched_at": "2026-08-17T22:38:53.349292+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Plundered Pirate Hat\n  | type                     = Helm\n  | class                    = Clothing\n  | slot                     = Head\n  | durability               = 250\n  | material                 = Leather\n  | hardness                 = 34\n  | basevalue                = 9,620 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 24\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 22\n  | quest                    = Prove Your Worth (epic)\n  | chest                    = end chest\n  | enhancements             = \n* {{Stat|Charisma|8}}\n* {{Stat|Charisma|3|Insightful}}\n* {{TrueSeeing}}\n* {{Augment|Blue}}\n* {{Augment|Colorless}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Stolen fair and square from a long string of disreputable pirates, tracing all the way back to a surly Bugbear deckhand in Lhazaar.\n  | pic                      = Plundered Pirate Hat shown.jpg\n  | picdesc                  = Plundered Pirate Hat.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "Charisma +8",
+      "tooltip": "Charisma +8: This item makes the wearer have more flair, granting a +8 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +8"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Charisma +3",
+      "tooltip": "Insightful Charisma +3: This item makes the wearer have more flair, granting a +3 Insight bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Insightful Charisma +3"
+        }
+      ]
+    },
+    {
+      "text": "True Seeing",
+      "tooltip": "True Seeing: Passive: You gain the benefit of the spell True Seeing.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/True_Seeing_(enchantment)",
+          "title": "True Seeing (enchantment)",
+          "text": "True Seeing"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Head Boost +1 or +3",
+      "tooltip": "Mythic Head Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Head Boost"
+        }
+      ]
+    }
+  ]
+}

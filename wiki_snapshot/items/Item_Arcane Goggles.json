@@ -1,0 +1,70 @@
+{
+  "page_title": "Item:Arcane Goggles",
+  "page_id": 9664,
+  "revision_id": 628287,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:04:22.480780+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Arcane Goggles\n  | type                     = Goggles\n  | class                    = Goggles\n  | basevalue                = 405pp\n  | weight                   = 0.10 lbs\n  | slot                     = Eye\n  | durability               = 30\n  | material                 = Leather\n  | hardness                 = 8\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|boa}}\n  | quest                    = Sacrifices\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{skills|concentration|3}}\n* {{Power|1}}\n* {{Named item sets|Arcane Mind}}\n** (Note: This set description is incorrect. It gives 24 [[Potency]], not 24 [[Universal Spell Power]])\n  | pic                      = Arcane Goggles View.png\n  | picdesc                  = Arcane Goggles.png\n  | description              = This pair of goggles gives the wielder a remarkable insight into the arcane.\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "enchantments": [
+    {
+      "text": "Concentration +3",
+      "tooltip": "Concentration +3: Passive: +3 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +3"
+        }
+      ]
+    },
+    {
+      "text": "Power I",
+      "tooltip": "Power I: This item grants the wearer +10 maximum spell points. Favored Souls and Sorcerers gain double spell points from this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power",
+          "title": "Power",
+          "text": "Power I"
+        }
+      ]
+    },
+    {
+      "text": "Arcane Mind",
+      "tooltip": "Arcane Mind: +24 Equipment bonus to your Universal Spell Power.",
+      "children": [
+        {
+          "text": "(Note: This set description is incorrect. It gives 24 Potency, not 24 Universal Spell Power)",
+          "tooltip": null,
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Potency",
+              "title": "Potency",
+              "text": "Potency"
+            },
+            {
+              "target": "/page/Universal_Spell_Power",
+              "title": "Universal Spell Power",
+              "text": "Universal Spell Power"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Arcane_Mind",
+          "title": "Named item sets",
+          "text": "Arcane Mind"
+        }
+      ]
+    }
+  ]
+}

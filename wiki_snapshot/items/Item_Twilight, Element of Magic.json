@@ -1,0 +1,323 @@
+{
+  "page_title": "Item:Twilight, Element of Magic",
+  "page_id": 25639,
+  "revision_id": 635634,
+  "revision_timestamp": "2025-04-22T04:40:57Z",
+  "fetched_at": "2026-08-17T23:21:42.417731+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Twilight, Element of Magic\n  | damage                   = 3.60[1d8] + 7 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = <!-- Leave blank if not used-->\n  | UMD DC                   = <!-- Leave blank if not used-->\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 310\n  | material                 = Wood\n  | hardness                 = 33\n  | minlevel                 = 23\n  | released                 = Update 14\n  | quest                    = Caught in the Web\n  | chest                    = Any end chest\n  | end reward               = <!-- Leave blank if not used-->\n  | turn in                  = <!-- Leave blank if not used-->\n  | epic                     = no <!-- If yes, replace \"no\" with name of non-epic version-->\n  | basevalue                = 9200 pp 2cp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|i|7}}\n* {{SpellPower|Potency|80|Equipment}}\n* {{SpellPower|Impulse|120|Equipment}}\n* {{Spell Focus|Evocation|III}} \n* {{Spell Focus|Enchantment|III}} \n* {{Augmentation|2|Arcane|9}}\n* {{Spelllore|spell|vi}}\n* {{Attuned to Heroism}}\n  | crafting                 = Attuned to Heroism\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | pic                      = Twilight, Element of Magic shown.jpg\n  | picdesc                  = Twilight, Element of Magic.png\n  | description              = A spark of magic for a studious mind.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +21",
+      "tooltip": "Spellcasting Implement +21: Passive: +21 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +21"
+        }
+      ]
+    },
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Potency +80",
+      "tooltip": "Potency +80: Passive: +80 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +80"
+        }
+      ]
+    },
+    {
+      "text": "Impulse +120",
+      "tooltip": "Impulse +120: Passive: +120 Equipment bonus to Force, Untyped, Slashing, Piercing, and Bludgeoning Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impulse",
+          "title": "Impulse",
+          "text": "Impulse +120"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus III",
+      "tooltip": "Evocation Focus III: +3 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus III"
+        }
+      ]
+    },
+    {
+      "text": "Enchantment Focus III",
+      "tooltip": "Enchantment Focus III: +3 Equipment bonus to the DC of Enchantment spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Enchantment Focus III"
+        }
+      ]
+    },
+    {
+      "text": "Arcane Augmentation IX",
+      "tooltip": "Arcane Augmentation IX: Increases the wearer's caster level when casting ninth level or lower sorcerer or wizard spells by two.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Augmentation",
+          "title": "Spell Augmentation",
+          "text": "Arcane Augmentation IX"
+        }
+      ]
+    },
+    {
+      "text": "Spell Lore VI",
+      "tooltip": "Spell Lore VI: Passive: All of your spells gain a 6% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Spell Lore VI"
+        }
+      ]
+    },
+    {
+      "text": "Attuned to Heroism",
+      "tooltip": "This relic is attuned to heroic actions.",
+      "children": [
+        {
+          "text": "Attuned by Heroism: Tier 1",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Planar Conflux",
+              "tooltip": "Planar Conflux: When this item is equipped at the same time as a Planar Focus, you will gain set bonuses based on the Planar Focus that you have equipped.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Named_item_sets#Planar_Conflux",
+                  "title": "Named item sets",
+                  "text": "Planar Conflux"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 1"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "+7 Enhancement Bonus → +8 Enhancement Bonus",
+              "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.+8 Enhancement Bonus: +8 enhancement bonus to attack and damage rolls.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+7 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+8 Enhancement Bonus"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds a choice of one of the following:",
+              "tooltip": null,
+              "children": [
+                {
+                  "text": "Combustion +120",
+                  "tooltip": "Combustion +120: Passive: +120 Equipment bonus to Fire Spell Power.",
+                  "children": [],
+                  "links": [
+                    {
+                      "target": "/page/Combustion",
+                      "title": "Combustion",
+                      "text": "Combustion +120"
+                    }
+                  ]
+                },
+                {
+                  "text": "Glaciation +120",
+                  "tooltip": "Glaciation +120: Passive: +120 Equipment bonus to Cold Spell Power.",
+                  "children": [],
+                  "links": [
+                    {
+                      "target": "/page/Glaciation",
+                      "title": "Glaciation",
+                      "text": "Glaciation +120"
+                    }
+                  ]
+                },
+                {
+                  "text": "Corrosion +120",
+                  "tooltip": "Corrosion +120: Passive: +120 Equipment bonus to Acid Spell Power.",
+                  "children": [],
+                  "links": [
+                    {
+                      "target": "/page/Corrosion_(spell_boost)",
+                      "title": "Corrosion (spell boost)",
+                      "text": "Corrosion +120"
+                    }
+                  ]
+                },
+                {
+                  "text": "Magnetism +120",
+                  "tooltip": "Magnetism +120: Passive: +120 Equipment bonus to Electricity Spell Power.",
+                  "children": [],
+                  "links": [
+                    {
+                      "target": "/page/Magnetism",
+                      "title": "Magnetism",
+                      "text": "Magnetism +120"
+                    }
+                  ]
+                },
+                {
+                  "text": "Nullification +120",
+                  "tooltip": "Nullification +120: Passive: +120 Equipment bonus to Negative (Necrotic) and Poison Spell Power.",
+                  "children": [],
+                  "links": [
+                    {
+                      "target": "/page/Nullification",
+                      "title": "Nullification",
+                      "text": "Nullification +120"
+                    }
+                  ]
+                },
+                {
+                  "text": "Devotion +120",
+                  "tooltip": "Devotion +120: Passive: +120 Equipment bonus to Positive (Healing) Spell Power.",
+                  "children": [],
+                  "links": [
+                    {
+                      "target": "/page/Devotion",
+                      "title": "Devotion",
+                      "text": "Devotion +120"
+                    }
+                  ]
+                },
+                {
+                  "text": "Radiance +120",
+                  "tooltip": "Radiance +120: Passive: +120 Equipment bonus to Light and Alignment Spell Power.",
+                  "children": [],
+                  "links": [
+                    {
+                      "target": "/page/Radiance_(spell_boost)",
+                      "title": "Radiance (spell boost)",
+                      "text": "Radiance +120"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 3"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 4",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Red Augment Slot",
+              "tooltip": "Red and Colorless",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Augment_Slot",
+                  "title": "Augment Slot",
+                  "text": "Red Augment Slot"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 4"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Attuned_to_Heroism",
+          "title": "Attuned to Heroism",
+          "text": "Attuned to Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

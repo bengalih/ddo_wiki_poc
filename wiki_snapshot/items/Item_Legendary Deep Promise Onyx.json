@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Legendary Deep Promise Onyx",
+  "page_id": 80415,
+  "revision_id": 632045,
+  "revision_timestamp": "2025-04-22T00:38:26Z",
+  "fetched_at": "2026-08-17T21:40:13.211977+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Legendary Deep Promise Onyx\n  | minlevel                 = 29\n  | type                     = Trinket\n  | race                     = \n  | slot                     = Trinket\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 390\n  | material                 = Gem\n  | hardness                 = 49\n  | cost                     = 11,620 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | released                 = Update 46\n  | quest                    = Rosemary's Ballad\n  | chest                    = End chest\n  | enhancements             = \n* {{Stat|Intelligence|3|Quality}}\n* {{HealingAmp|27|N|Insightful}}\n* {{HealingAmp|14|N|Quality}}\n* {{Hp|False Life|50}}\n* {{Augment|Blue}} \n  | crafting                 = \n  | craftingupgrade          = \n  | description              = The deeper you look, the heavier it feels...\n  | pic                      = \n  | picdesc                  = Legendary Deep Promise Onyx.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Quality Intelligence +3",
+      "tooltip": "Quality Intelligence +3: This item focuses the power of the wearer's mind, granting a +3 Quality bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Quality Intelligence +3"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Negative Amplification +27",
+      "tooltip": "Negative Amplification: This effect amplifies all incoming negative energy healing by +27 (Insight bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Amplification",
+          "title": "Negative Amplification",
+          "text": "Insightful Negative Amplification +27"
+        }
+      ]
+    },
+    {
+      "text": "Quality Negative Amplification +14",
+      "tooltip": "Negative Amplification: This effect amplifies all incoming negative energy healing by +14 (Quality bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Amplification",
+          "title": "Negative Amplification",
+          "text": "Quality Negative Amplification +14"
+        }
+      ]
+    },
+    {
+      "text": "False Life +50",
+      "tooltip": "False Life +50: +50 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +50"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Trinket Boost +1 or +3",
+      "tooltip": "Mythic Trinket Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Trinket Boost"
+        }
+      ]
+    }
+  ]
+}

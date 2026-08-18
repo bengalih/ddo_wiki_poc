@@ -1,0 +1,30 @@
+{
+  "page_title": "Item:Min's Handwraps",
+  "page_id": 9547,
+  "revision_id": 672397,
+  "revision_timestamp": "2026-01-25T17:27:03Z",
+  "fetched_at": "2026-08-17T22:24:50.226482+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Min's Handwraps\n  | pic                      = Handwraps Generic.png\n  | damage                   = [1d6] + 0 Bludgeon\n  | crit                     = 20 / x2\n  | type                     = Handwrap\n  | hand                     = Simple\n  | class                    = Bludgeoning\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Exotic\n  | material                 = Cloth\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 120\n  | hardness                 = 13\n  | basevalue                = 5 pp\n  | weight                   = 0.50 lb\n  | revamped                 = Update 76\n  | quest                    = The Collaborator\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Minor Flaming}}\n  | description              = This strip of cloth, once worn by the promising disciple Min, has been enhanced to do additional fire damage to your opponents.\n  | picdesc                  = Min's Handwraps.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Handwrap",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "Minor Flaming",
+      "tooltip": "Minor Flaming: This weapon is sheathed in fire. A flaming weapon deals an extra 1 to 4 points of fire damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Minor_Flaming",
+          "title": "Minor Flaming",
+          "text": "Minor Flaming"
+        }
+      ]
+    }
+  ]
+}

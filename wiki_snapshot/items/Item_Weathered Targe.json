@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Weathered Targe",
+  "page_id": 8292,
+  "revision_id": 635789,
+  "revision_timestamp": "2025-04-22T04:51:17Z",
+  "fetched_at": "2026-08-17T23:25:59.962228+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Small\n  | prof                     = General\n  | minlevel                 = 10\n  | bind                     = {{Bind|btA|boA}}\n  | sb                       = +8\n  | dr                       = 8\n  | acp                      = None\n  | asf                      = 5\n  | dmg                      = [1d4] + 5\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | durability               = 145\n  | material                 = Darkwood\n  | hardness                 = 21\n  | basevalue                = 4000pp 3gp\n  | weight                   = 5 lbs\n  | quest                    = Sands of Menechtarun\n  | chest                    = Undead Area: [[Whirling Ozann]]'s Chest (Rare Encounter) ; <br /> [[Masei Mkembe]] sells for 625 [[Antique Bronze Tokens]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|a|5}}\n* {{Absorption|Electric|20}}\n* {{NaturalArmor|6}}\n* {{Sheltering|6|Insightful|Magical}}\n* {{Sheltering|3|Quality|Magical}}\n* {{mat|Densewood}}\n* {{Augment|Purple}}\n* {{Named item sets|Menechtarun Scavenger}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Weathered Targe\n  | description              = This ancient, worn shield is crafted from densewood. Despite its age and exposure to the elements, it still provides excellent protection.\n  | pic                      = Weathered Targe shown.jpg\n  | picdesc                  = Weathered Targe.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Darkwood",
+  "item_type": "Small Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Electric Absorption +20%",
+      "tooltip": "Electric Absorption +20%: Passive: 20% Enhancement Bonus to Electric Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Electric Absorption +20%"
+        }
+      ]
+    },
+    {
+      "text": "Natural Armor +6",
+      "tooltip": "Natural Armor +6: Passive: +6 Natural Armor Bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Natural_armor_bonus",
+          "title": "Natural armor bonus",
+          "text": "Natural Armor +6"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Magical Sheltering +6",
+      "tooltip": "Insightful Magical Sheltering +6: +6 Insight bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Insightful Magical Sheltering +6"
+        }
+      ]
+    },
+    {
+      "text": "Quality Magical Sheltering +3",
+      "tooltip": "Quality Magical Sheltering +3: +3 Quality bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Quality Magical Sheltering +3"
+        }
+      ]
+    },
+    {
+      "text": "Densewood",
+      "tooltip": "Densewood: Densewood is a particularly hardy type of wood often used for shields. It is heavier than normal wood, but has much higher hardness.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Densewood",
+          "title": "Densewood",
+          "text": "Densewood"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Menechtarun Scavenger",
+      "tooltip": "Menechtarun Scavenger: 2 Pieces Equipped:+5 Artifact bonus to Physical and Magical Resistance Rating+10 Artifact bonus to Positive, Negative, and Repair Amplification",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Menechtarun_Scavenger",
+          "title": "Named item sets",
+          "text": "Menechtarun Scavenger"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "page_title": "Item:Cavalry Plate (legacy) (level 16)",
+  "page_id": 14165,
+  "revision_id": 628905,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:19:35.996433+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Cavalry Plate}}\n  | type                     = Full Plate\n  | feat                     = Medium\n  | race                     = \n  | minlevel                 = 16\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +20\n  | maxdexbonus              = 3\n  | acp                      = -2\n  | asf                      = 25%\n  | durability               = 288\n  | material                 = Mithral\n  | hardness                 = 32\n  | basevalue                = 7,450 pp\n  | weight                   = 25 lbs\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|copper|1000}}{{CCi|silver|500}}{{CCi|sapphire|30}} at [[Dusty Old Treasure of Crystal Cove]]\n  | mythic                   = no\n  | enhancements             = \n* [[Upgradeable - Tier 1]]\n* {{Enhancement bonus|a|4}}\n* {{Demonic Shield}}\n* {{False Life|greater}}\n* {{DR|2|Chaotic|a}}\n* {{Resistance|4}}\n* {{Mat|Mithral}}\n** [[Upgradeable - Tier 2]]\n*** {{Enhancement bonus|a|4}} &rarr; {{Enhancement bonus|a|5}}\n** [[Upgradeable - Tier 3]]\n*** {{DR|2|Chaotic|a}} &rarr; {{DR|3|Chaotic|a}}\n  | crafting                 = Treasure of Crystal Cove\n  | craftingupgrade          = \n  | description              = High-seas pirates plundered this richly-decorated plate mail from naval cavalry officers. Although it did not suit the pirates well, a fighter looking for better protection may benefit from it.\n  | pic                      = Cavalry Plate shown.jpg\n  | picdesc                  = Cavalry Plate (Level 16).png\n  | notes                    = See also: {{Item|Cavalry Plate}} - Full table of the Cavalry Plate line\n* {{CCi|sapphire|60}}{{CCi|ruby|45}}{{CCi|green|400}}: {{Popup|Tier 2|[[File:Cavalry Plate (level 16)(tier 2).png|450 px]]|long=y}}\n* {{CCi|sapphire|90}}{{CCi|ruby|70}}{{CCi|green|800}}{{CCi|stalwart|1}}: {{Popup|Tier 3|[[File:Cavalry Plate (level 16)(tier 3).png|450 px]]|long=y}}\n}}<noinclude>[[Category:Treasure of Crystal Cove legacy reward items]]</noinclude>",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Demonic Shield",
+      "tooltip": "Demonic Shield: Each time you are hit in melee combat there is a chance that a shield of demonic energy will grant you a +30 Profane bonus to temporary hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Demonic_Shield#Demonic_Shield",
+          "title": "Demonic Shield",
+          "text": "Demonic Shield"
+        }
+      ]
+    },
+    {
+      "text": "Greater False Life",
+      "tooltip": "Greater False Life: This item grants the wearer +30 maximum health.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)#Greater_False_Life",
+          "title": "False Life (enchantment)",
+          "text": "Greater False Life"
+        }
+      ]
+    },
+    {
+      "text": "DR 2/Chaotic",
+      "tooltip": "Damage Reduction 2/Chaotic: Reduces physical damage by 2, except from Chaotic aligned attacks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +4",
+      "tooltip": "Resistance +4: Passive: +4 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +4"
+        }
+      ]
+    },
+    {
+      "text": "Mithral",
+      "tooltip": "Mithral: Mithral armor is one type lighter then normal. Arcane Spell Failure decreased by 10%. Maximum dexterity bonus increased by 2. Armor check penalty reduced by 3.",
+      "children": [
+        {
+          "text": "Upgradeable - Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "+4 Enhancement Bonus → +5 Enhancement Bonus",
+              "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+4 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+5 Enhancement Bonus"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_2",
+              "title": "Upgradeable - Tier 2",
+              "text": "Upgradeable - Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Upgradeable - Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "DR 2/Chaotic → DR 3/Chaotic",
+              "tooltip": "Damage Reduction 2/Chaotic: Reduces physical damage by 2, except from Chaotic aligned attacks.Damage Reduction 3/Chaotic: Reduces physical damage by 3, except from Chaotic aligned attacks.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Damage_Reduction",
+                  "title": "Damage Reduction",
+                  "text": "DR"
+                },
+                {
+                  "target": "/page/Damage_Reduction",
+                  "title": "Damage Reduction",
+                  "text": "DR"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_3",
+              "title": "Upgradeable - Tier 3",
+              "text": "Upgradeable - Tier 3"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Mithral",
+          "title": "Mithral",
+          "text": "Mithral"
+        }
+      ]
+    }
+  ]
+}

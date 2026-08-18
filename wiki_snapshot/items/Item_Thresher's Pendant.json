@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Thresher's Pendant",
+  "page_id": 98779,
+  "revision_id": 635474,
+  "revision_timestamp": "2025-04-22T04:30:17Z",
+  "fetched_at": "2026-08-17T23:17:42.070418+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Thresher's Pendant\n  | minlevel                 = 16\n  | type                     = Necklace\n  | slot                     = Neck\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 260\n  | material                 = Gem\n  | hardness                 = 36\n  | cost                     = 6,401 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 57\n  | quest                    = Growing Pains\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{HealingAmp|32|R}}\n* {{Sheltering|20|Enhancement|Physical}}\n* {{Resistance|6}}\n* {{Save|Spell|6}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | description              = A token of Thresher's appreciation - this appears to be a battleworn medal from the Last War, scuffed and repurposed.\n  | pic                      = \n  | picdesc                  = Thresher's Pendant.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Repair Amplification +32",
+      "tooltip": "Repair Amplification: This effect amplifies all incoming repair healing by +32 (Enhancement bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Repair_Amplification",
+          "title": "Repair Amplification",
+          "text": "Repair Amplification +32"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +20",
+      "tooltip": "Physical Sheltering +20: +20 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +20"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +6",
+      "tooltip": "Resistance +6: Passive: +6 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +6"
+        }
+      ]
+    },
+    {
+      "text": "Spell Save +6",
+      "tooltip": "Spell Save +6: This item gives a +6 Resistance bonus to your saves versus spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Saving_throw",
+          "title": "Saving throw",
+          "text": "Spell Save +6"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

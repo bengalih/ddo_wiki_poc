@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Corsair's Bandana",
+  "page_id": 24543,
+  "revision_id": 629171,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:26:45.950078+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Corsair's Bandana\n  | type                     = Helm\n  | slot                     = Head\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 110\n  | material                 = Cloth\n  | hardness                 = 10\n  | cost                     = 2,005pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 5\n  | released                 = Update 14\n  | revamped                 = \n  | chain reward             = \n  | quest                    = Three-Barrel Cove (heroic)\n  | chest                    = \n  | end reward               = yes\n  | turn in                  = \n  | enhancements             = \n* {{Skills|spot|5}}\n* {{Skills|swim|5}}\n* {{Resistance|2}}\n* {{Named item sets|Corsair's Cunning}}\n  | mythic                   = no\n  | epic                     = no\n  | legendary                = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A stylish bandana. Ownership of one like this is a sign of respect from the pirates of Three-Barrel Cove.\n  | pic                      = Corsair's Bandana shown.jpg\n  | picdesc                  = Corsair's Bandana.png\n  | tips                     = The {{Item|Pirate Treasure Map}}, the 3 items from the {{Named item sets|Corsair's Cunning}} set, the 4 'Scoundrel's type' weapons and {{Item|Brine Shaman's Staff}} have a chance of appearing in the end reward list of any of the [[Three-Barrel Cove (heroic)]] quests, except [[Guard Duty]]. Every third completion you will receive a complete list.\n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Spot +5",
+      "tooltip": "Spot +5: Passive: +5 Competence bonus to the Spot skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spot",
+          "title": "Spot",
+          "text": "Spot +5"
+        }
+      ]
+    },
+    {
+      "text": "Swim +5",
+      "tooltip": "Swim +5: Passive: +5 Competence bonus to the Swim skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Swim",
+          "title": "Swim",
+          "text": "Swim +5"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +2",
+      "tooltip": "Resistance +2: Passive: +2 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +2"
+        }
+      ]
+    },
+    {
+      "text": "Corsair's Cunning",
+      "tooltip": "Corsair's Cunning: 2 Item Set Bonus: Underwater Action3 Item Set Bonus: Feather Falling",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Corsair's_Cunning",
+          "title": "Named item sets",
+          "text": "Corsair's Cunning"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Beast-leather Belt",
+  "page_id": 56432,
+  "revision_id": 628507,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:09:52.665648+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Beast-leather Belt\n  | type                     = Belt\n  | race                     = Deep Gnome\n  | basevalue                = 6002 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 15\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Hp|Vitality|20}}\n* {{Skills|Spot|13}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Belt Generic.png\n  | picdesc                  = Beast-leather Belt.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Vitality +20",
+      "tooltip": "Vitality +20: Passive: +20 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +20"
+        }
+      ]
+    },
+    {
+      "text": "Spot +13",
+      "tooltip": "Spot +13: Passive: +13 Competence bonus to the Spot skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spot",
+          "title": "Spot",
+          "text": "Spot +13"
+        }
+      ]
+    }
+  ]
+}

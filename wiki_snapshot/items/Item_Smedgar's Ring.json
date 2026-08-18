@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Smedgar's Ring",
+  "page_id": 10223,
+  "revision_id": 634878,
+  "revision_timestamp": "2025-04-22T03:50:45Z",
+  "fetched_at": "2026-08-17T23:01:36.980875+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Smedgar's Ring\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 120\n  | material                 = Gold\n  | hardness                 = 12\n  | basevalue                = 10,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | quest                    = Tower of Despair\n  | chest                    = right side end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CHA|6}}\n* {{Stat|DEX|1|Exceptional}}\n* {{Named item sets|Virtuoso}}\n* {{CraftingEffects|Incredible Potential}}\n  | crafting                 = Incredible Potential\n  | craftingupgrade          = <!-- -->\n  | description              = This jewel encrusted ring belonged to the Virtuoso Smedgar, whose voice was the sound of emotion. With a song he moved the devil Ssharv, to yield in battle.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Smedgar's Ring.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Charisma +6",
+      "tooltip": "Charisma +6: This item makes the wearer have more flair, granting a +6 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +6"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Dexterity +1",
+      "tooltip": "Exceptional Dexterity +1: This item makes the wearer more nimble and dexterous, granting a +1 Exceptional bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Exceptional Dexterity +1"
+        }
+      ]
+    },
+    {
+      "text": "Virtuoso",
+      "tooltip": "Virtuoso: Additional Bard Song per rest, Extend Spell 2 Spell Points less.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Virtuoso",
+          "title": "Named item sets",
+          "text": "Virtuoso"
+        }
+      ]
+    },
+    {
+      "text": "Incredible Potential",
+      "tooltip": "Incredible Potential: Incredible Potential: This ring's power has not been fully unleashed. When this ring is combined with 9 Shavarath War Trophies and ac Imbued Shard of Great Power in an Altar of Subjugation, its full potential will be reveled.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incredible_Potential",
+          "title": "Incredible Potential",
+          "text": "Incredible Potential"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Great Axe of the Chained Soldier (level 25)",
+  "page_id": 33195,
+  "revision_id": 649923,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:14:47.970545+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Great Axe of the Chained Soldier}}\n  | sentience                = no\n  | damage                   = 3[1d12] + 8 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Great Axe\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | minlevel                 = 25\n  | damagemod                = STR \n  | attackmod                = STR\n  | durability               = 350\n  | material                 = Steel\n  | hardness                 = 30\n  | basevalue                = 10,002pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | released                 = Update 17\n  | quest                    = Return to Gianthold Tor\n  | chest                    = White Dragon chest (Epic Elite)\n  | enhancements             = \n* {{Enhancement bonus|w|8}}\n* {{Phlebotomizing}}\n* {{Immunity|Fear}}\n* {{Augment|Red}}\n* {{Augment|Orange}}\n  | pic                      = Great Axe of the Chained Soldier shown.jpg\n  | picdesc                  = Great Axe of the Chained Soldier (Level 25).png\n  | description              = The ancient giants commanded legions of martial drow slaves. These enchanted arms fortified courage and resolve, and dissuaded the conscripts from flight.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "+8 Enhancement Bonus",
+      "tooltip": "+8 Enhancement Bonus: +8 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+8 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Phlebotomizing",
+      "tooltip": "Phlebotomizing: This weapon is wickedly sharp and will do an additional 3 to 24 damage to targets that are vulnerable to bleeding.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleed#Phlebotomizing",
+          "title": "Bleed",
+          "text": "Phlebotomizing"
+        }
+      ]
+    },
+    {
+      "text": "Immunity to Fear",
+      "tooltip": "Immunity to Fear: The wearer of this item is immune to all fear effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Immunity_to_Fear",
+          "title": "Immunity to Fear",
+          "text": "Immunity to Fear"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

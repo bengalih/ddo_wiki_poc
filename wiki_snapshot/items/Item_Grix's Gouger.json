@@ -1,0 +1,139 @@
+{
+  "page_title": "Item:Grix's Gouger",
+  "page_id": 94794,
+  "revision_id": 631308,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:17:20.591469+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Grix's Gouger\n  | minlevel                 = 29\n  | type                     = Heavy Pick\n  | class                    = Piercing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = 5.30[1d6+3] + 15 Pierce, Magic\n  | crit                     = 20 / x4\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 355\n  | material                 = Crystal\n  | hardness                 = 39\n  | cost                     = 11,600 pp 8 gp\n  | weight                   = 6 lbs\n  | released                 = Update 53\n  | quest                    = Hunt or Be Hunted\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|i|15|29}}\n* {{Vorpal|Sovereign}}\n* {{Vulnerability|Electric}}\n* {{Blast|Shocking|6}}\n* {{SpellPower|Magnetism|74|Insight}}\n* {{SpellPower|Magnetism|36|Quality}}\n* {{Augment|Red}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | description              = It's best not to think about the violence that this crystalline Pick has enabled.\n  | pic                      = Grix's Gouger shown.jpg\n  | picdesc                  = Grix's Gouger.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Heavy Pick",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +29",
+      "tooltip": "Spellcasting Implement +29: Passive: +29 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +29"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Sovereign Vorpal",
+      "tooltip": "Sovereign Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 3000 Hit Points, they are instantly slain. If your target has above 3000 Hit Points, they take 300 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Sovereign_Vorpal",
+          "title": "Vorpal",
+          "text": "Sovereign Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Electric Vulnerability",
+      "tooltip": "Electric Vulnerability: On Hit: Applies a stack of Vulnerable (1% more damage for 3 seconds. This effect stacks up to 20 times, and loses one stack on expiration.). This effect may only occur on-hit once every second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vulnerable",
+          "title": "Vulnerable",
+          "text": "Electric Vulnerability"
+        }
+      ]
+    },
+    {
+      "text": "Shocking Blast 6",
+      "tooltip": "Shocking Blast 6: This weapon arcs with deadly electricity, dealing 6d6 Electric damage on a successful hit, and an additional 6d6 Electric damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Shocking Blast 6"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Magnetism +74",
+      "tooltip": "Insightful Magnetism +74: Passive: +74 Insight bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Insightful Magnetism +74"
+        }
+      ]
+    },
+    {
+      "text": "Quality Magnetism +36",
+      "tooltip": "Quality Magnetism +36: Passive: +36 Quality bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Quality Magnetism +36"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

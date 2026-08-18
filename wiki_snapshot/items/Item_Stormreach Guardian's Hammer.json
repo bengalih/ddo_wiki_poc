@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Stormreach Guardian's Hammer",
+  "page_id": 68884,
+  "revision_id": 635084,
+  "revision_timestamp": "2025-04-22T04:04:17Z",
+  "fetched_at": "2026-08-17T23:06:49.998604+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Stormreach Guardian's Hammer\n  | damage                   = 1.80[1d8] + 5 Bludgeon, Magic\n  | type                     = War Hammer\n  | crit                     = 20 / x3\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | minlevel                 = 14\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 205\n  | material                 = Steel\n  | hardness                 = 24\n  | cost                     = 5,601pp 2gp\n  | weight                   = 5 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 38\n  | quest                    = Quarantine\n  | chest                    = End Chest\n  | enhancements             = \n* {{Enhancement bonus|w|5}} \n* {{Chilling|3}}\n* {{Crushing|8}}\n* {{Ghost Touch}}\n* {{Shockwave}}\n* {{Augment|Red}}\n* {{Named item sets|Renegade Champion}}\n  | description              = Left behind by a fallen member of the Stormreach Harbor Guard, this hammer still has strikes left in it.\n  | pic                      = Legendary_Stormreach_Guardian%27s_Hammer_shown.jpg\n  | picdesc                  = Stormreach_Guardian's_Hammer.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "War Hammer",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Chilling 3",
+      "tooltip": "Chilling 3: This effect causes the edges of this weapon to become frozen to the touch, dealing 3d6 Ice damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Chilling",
+          "title": "Chilling",
+          "text": "Chilling 3"
+        }
+      ]
+    },
+    {
+      "text": "Crushing 8",
+      "tooltip": "Crushing 8: This effect causes the edges of this weapon to ripple with force, dealing 8d6 force damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crushing",
+          "title": "Crushing",
+          "text": "Crushing 8"
+        }
+      ]
+    },
+    {
+      "text": "Ghost Touch",
+      "tooltip": "Ghost Touch: An incorporeal creature's 50% chance to avoid damage does not apply to attacks with ghost touch weapons.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghost_Touch",
+          "title": "Ghost Touch",
+          "text": "Ghost Touch"
+        }
+      ]
+    },
+    {
+      "text": "Shockwave",
+      "tooltip": "Shockwave: On Vorpal, this weapon triggers a Shockwave, striking its target with bludgeoning damage and dealing damage to surrounding enemies.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shockwave#Shockwave",
+          "title": "Shockwave",
+          "text": "Shockwave"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Renegade Champion",
+      "tooltip": "Renegade Champion: 3 Pieces Equipped: +1 Artifact Bonus to Critical Multiplier on a 19-20. +2 Artifact Bonus to Rune Arm DCs. +10 Artifact Bonus to Repair Amplification",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Renegade_Champion",
+          "title": "Named item sets",
+          "text": "Renegade Champion"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Icerazor",
+  "page_id": 24198,
+  "revision_id": 672928,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:22:47.645214+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Icerazor\n  | type                     = Sickle\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Simple\n  | minlevel                 = 21\n  | bind                     = {{Bind|BtC|boe}} or {{Bind|BtC|boa}}\n  | damage                   = 3.20[1d6] + 6 Slash, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 260\n  | material                 = Ice\n  | hardness                 = 31\n  | basevalue                = 8,400pp 6gp\n  | weight                   = 2 lbs\n  | quest                    = The House of Broken Chains\n  | chest                    = End Chest ; [[Slavemaster Banister Avithoul]]'s chest in [[The Underdark]] ; [[Menace of the Underdark: City of Portals]], Quest chain end reward\n  | revamped                 = Update 76\n  | enhancements             = \n* {{Enhancement bonus|i|6}}\n* {{SpellPower|Glaciation|102}}\n* {{Spelllore|Ice|V}}\n* {{Slicing}}\n* {{Burst|Icy}}\n* {{Freezing Ice}}\n  | description              = This wicked sickle is crafted from magical ice that will never melt. Any flesh it touches will instantly freeze to the blade, to be painfully ripped away when the weapon is withdrawn.\n  | pic                      = Icerazor shown.jpg\n  | picdesc                  = Icerazor.png\n  | tips                     = [[Slavemaster Banister Avithoul]] is first rare accessed from portal from [[The King's Forest]] in the [[The Underdark]].\n\nThis item, like the others from this chain, can be acquired as an end reward for the chain as {{Bind|BtC|BoA}}.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Sickle",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 21,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +18",
+      "tooltip": "Spellcasting Implement +18: Passive: +18 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +18"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Glaciation +102",
+      "tooltip": "Glaciation +102: Passive: +102 Equipment bonus to Cold Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Glaciation",
+          "title": "Glaciation",
+          "text": "Glaciation +102"
+        }
+      ]
+    },
+    {
+      "text": "Ice Lore V",
+      "tooltip": "Ice Lore V: Passive: Your Cold spells gain a 15% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Ice Lore V"
+        }
+      ]
+    },
+    {
+      "text": "Slicing",
+      "tooltip": "Slicing: This weapon is incredibly sharp and will do an additional 1 to 4 damage to targets that are vulnerable to bleeding.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleed#Slicing",
+          "title": "Bleed",
+          "text": "Slicing"
+        }
+      ]
+    },
+    {
+      "text": "Icy Burst",
+      "tooltip": "Icy Burst: This weapon is sheathed in icy cold, and deals 1 to 6 cold damage each hit. Critical hits deal an additional 1 to 10 cold damage for weapons with a x2 critical multiplier, 2 to 20 for a x3 multiplier and 3 to 30 for a x4 multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Icy_Burst#Icy_Burst",
+          "title": "Icy Burst",
+          "text": "Icy Burst"
+        }
+      ]
+    },
+    {
+      "text": "Freezing Ice",
+      "tooltip": "Freezing Ice :",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Freezing_Ice",
+          "title": "Freezing Ice",
+          "text": "Freezing Ice"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

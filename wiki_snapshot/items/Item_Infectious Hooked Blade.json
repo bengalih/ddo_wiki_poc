@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Infectious Hooked Blade",
+  "page_id": 12874,
+  "revision_id": 631546,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:23:47.725627+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Infectious Hooked Blade\n  | prof                     = Exotic\n  | damage                   = 1.40[1d8] + 5 Slash, Magic\n  | crit                     = 19-20 / x3\n  | type                     = Khopesh\n  | class                    = Slashing\n  | minlevel                 = 12\n  | hand                     = One-handed\n  | damagemod                = STR \n  | attackmod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 185\n  | material                 = Steel\n  | hardness                 = 22\n  | revamped                 = Update 49\n  | quest                    = Cauldron of Sora Katra\n  | chest                    = upgraded version of [[Hooked Blade]]\n  | end reward               = \n  | basevalue                = 4,802pp\n  | weight                   = 12 lbs\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Limb Chopper}}\n* {{Maiming|3}}\n* {{Bane|Human|3}}\n* {{Demon Fever}}\n* {{Augment|Red}}\n  | description              = This vicious, curved sword, capable of slicing straight through enemy limbs, can now confer a deadly disease to the wielder's foes.\n  | crafting                 = \n  | craftingupgrade          = \n  | craftingnotes            = \n  | pic                      = Hooked Blade shown.jpg\n  | picdesc                  = Infectious Hooked Blade.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Khopesh",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Limb Chopper",
+      "tooltip": "Limb Chopper: This potent and feared ability allows the weapon to sever the limbs of those it strikes. On an attack roll of 20 which is confirmed as a critical hit, the weapon severs an opponent's limb from its body. Some creatures, including many aberrations and all oozes, have no limbs. Others, such as golems and undead creatures, are not affected by the loss of their limbs. Most other creatures, however, have their movement slowed 75% and attacks slowed by 50% when a limb is cut off.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Limb_Chopper",
+          "title": "Limb Chopper",
+          "text": "Limb Chopper"
+        }
+      ]
+    },
+    {
+      "text": "Maiming 3",
+      "tooltip": "Maiming: This weapon has a twisted haft or grip and spikes along its blade, head, or point. When you score a critical hit with this weapon, it does an additional +3d8 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maiming",
+          "title": "Maiming",
+          "text": "Maiming 3"
+        }
+      ]
+    },
+    {
+      "text": "Human Bane 3",
+      "tooltip": "Human Bane 3: This weapon is attuned specifically to hunt those with diversity and ambition, dealing an additional 3d10 bane damage vs. Humans.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Human Bane 3"
+        }
+      ]
+    },
+    {
+      "text": "Demon Fever",
+      "tooltip": "Demon Fever: This weapon is infected with a night hag's Demon Fever disease. On critical hits it will transfer the disease to enemies, dealing 1d8 Constitution damage. A successful Fortitude save (DC 22) negates this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Demon_Fever",
+          "title": "Demon Fever",
+          "text": "Demon Fever"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

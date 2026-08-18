@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Worn Razorclaw's Boots",
+  "page_id": 86982,
+  "revision_id": 635855,
+  "revision_timestamp": "2025-04-22T04:56:01Z",
+  "fetched_at": "2026-08-17T23:27:40.350717+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Worn Razorclaw's Boots\n  | type                     = Boots\n  | race                     = Razorclaw Shifter\n  | basevalue                = 6005 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 15\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|STR|+2|Insightful}}\n* {{Speed|V}}\n* {{Feather Falling}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Boots Generic Gray.png\n  | picdesc                  = Worn Razorclaw's Boots.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Insightful Strength +2",
+      "tooltip": "Insightful Strength +2: This item gives the wearer the power of Ogre Strength, granting a +2 Insight bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Insightful Strength +2"
+        }
+      ]
+    },
+    {
+      "text": "Speed V",
+      "tooltip": "Speed V: Passive: +25% enhancement bonus to movement speed, +5% enhancement bonus to melee and ranged attack speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Speed",
+          "title": "Speed",
+          "text": "Speed V"
+        }
+      ]
+    },
+    {
+      "text": "Feather Falling",
+      "tooltip": "Feather Falling: This item is engraved with feathers and bestows a powerful magical effect. Whenever the wearer begins to fall from any height, this effect slows the descent dramatically, causing the wearer to fall like a feather.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feather_Falling",
+          "title": "Feather Falling",
+          "text": "Feather Falling"
+        }
+      ]
+    }
+  ]
+}

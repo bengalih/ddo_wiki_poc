@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Legendary Illithid Hunter's Signet",
+  "page_id": 105628,
+  "revision_id": 632479,
+  "revision_timestamp": "2025-04-22T01:07:21Z",
+  "fetched_at": "2026-08-17T21:54:59.136831+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Legendary Illithid Hunter's Signet\n  | minlevel                 = 32\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 420\n  | material                 = Gold\n  | hardness                 = 52\n  | cost                     = 12,801 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 63\n  | quest                    = Stolen Power\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CON|3|Quality}}\n* {{Absorption|Force|16}}\n* {{Lifesealed|36}}\n* {{Save|Will|12}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n  | crafting                 = \n  | description              = The signet ring of a powerful Illithid hunter whose zeal took them one step further than they could manage. Perhaps you will have better fortune.\n  | pic                      = \n  | picdesc                  = Legendary Illithid Hunter's Signet.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 32,
+  "enchantments": [
+    {
+      "text": "Quality Constitution +3",
+      "tooltip": "Quality Constitution +3: This item gives the wearer improved health, granting a +3 Quality bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Quality Constitution +3"
+        }
+      ]
+    },
+    {
+      "text": "Force Absorption +16%",
+      "tooltip": "Force Absorption +16%: Passive: 16% Enhancement Bonus to Force Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Force Absorption +16%"
+        }
+      ]
+    },
+    {
+      "text": "Lifesealed +36",
+      "tooltip": "Lifesealed +36: You are immune to magical effects that cause instant death. In addition, you have a +36% enhancement bonus to Negative Energy Absorption.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lifesealed",
+          "title": "Lifesealed",
+          "text": "Lifesealed +36"
+        }
+      ]
+    },
+    {
+      "text": "Will Save +12",
+      "tooltip": "Will Save +12: This item gives a +12 Resistance bonus to your Will saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Will_save",
+          "title": "Will save",
+          "text": "Will Save +12"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

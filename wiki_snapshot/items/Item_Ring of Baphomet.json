@@ -1,0 +1,137 @@
+{
+  "page_title": "Item:Ring of Baphomet",
+  "page_id": 11187,
+  "revision_id": 634227,
+  "revision_timestamp": "2025-04-22T03:07:40Z",
+  "fetched_at": "2026-08-17T22:44:53.789071+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Ring of Baphomet\n  | minlevel                 = 11\n  | class                    = Jewelry\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 120 \n  | material                 = Gold\n  | hardness                 = 14\n  | basevalue                = 4,420 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Chains of Flame\n  | chest                    = [[Valgrim Forge-Bound]]'s Chest\n  | mythic                   = no\n  | enhancements             = \n* {{clicky|Bestow Curse|5|3}}\n* {{Stat|Str|6}}\n* {{Sheltering|15|Enhancement|Physical}}\n* {{Absorption|Alignment|15}}\n* {{Demonic Shield|Improved}}\n* {{cursed|WIS}}\n* {{cursed|CHA}}\n* {{Augment|Green}}\n* {{Augment|Yellow}}\n* {{Named item sets|The Desert's Starless Nights}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Ring of Baphomet\n  | description              = A large brass ring bearing demonic script. The metal is warm to the touch and appears to shrink to fit your finger.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Ring of Baphomet.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Bestow Curse — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Bestow CurseCaster level: 5Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bestow_Curse",
+          "title": "Bestow Curse",
+          "text": "Bestow Curse"
+        }
+      ]
+    },
+    {
+      "text": "Strength +6",
+      "tooltip": "Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +6"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +15",
+      "tooltip": "Physical Sheltering +15: +15 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +15"
+        }
+      ]
+    },
+    {
+      "text": "Alignment Absorption +15%",
+      "tooltip": "Alignment Absorption +15%: Passive: 15% Enhancement Bonus to Alignment Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Alignment Absorption +15%"
+        }
+      ]
+    },
+    {
+      "text": "Improved Demonic Shield",
+      "tooltip": "Improved Demonic Shield: Each time you are hit in melee combat there is a chance that a shield of demonic energy will grant you a +120 Profane bonus to temporary hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Demonic_Shield#Improved_Demonic_Shield",
+          "title": "Demonic Shield",
+          "text": "Improved Demonic Shield"
+        }
+      ]
+    },
+    {
+      "text": "Curse of Foolishness",
+      "tooltip": "Curse of Foolishness: Passive -1 Penalty to Wisdom. (The minimum level required to equip this item is lower than normal due to this curse.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cursed",
+          "title": "Cursed",
+          "text": "Curse of Foolishness"
+        }
+      ]
+    },
+    {
+      "text": "Curse of Repulsiveness",
+      "tooltip": "Curse of Repulsiveness: Passive -1 Penalty to Charisma. (The minimum level required to equip this item is lower than normal due to this curse.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cursed",
+          "title": "Cursed",
+          "text": "Curse of Repulsiveness"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Desert's Starless Nights",
+      "tooltip": "The Desert's Starless Nights: 2 Pieces Equipped:+2% Artifact bonus to Negative and Poison Spellcrit Chance+10 Artifact bonus to Negative and Poison Spellpower+5% Artifact bonus to Damage vs the Helpless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Desert's_Starless_Nights",
+          "title": "Named item sets",
+          "text": "The Desert's Starless Nights"
+        }
+      ]
+    }
+  ]
+}

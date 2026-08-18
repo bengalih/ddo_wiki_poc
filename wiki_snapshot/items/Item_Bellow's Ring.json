@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Bellow's Ring",
+  "page_id": 21409,
+  "revision_id": 628515,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:10:03.394943+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Bellow's Ring\n  | type                     = Necklace\n  | basevalue                = 402 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Neck\n  | released                 = Update 36\n  | quest                    = Come Out and Slay\n  | chest                    = Bellow's Chest\n  | durability               = 30\n  | material                 = Steel\n  | hardness                 = 12\n  | minlevel                 = 2\n  | bind                     = {{Bind|no}}\n  | mythic                   = false\n  | enhancements             = \n* {{Skills|intim|6}}\n* {{Hp|False Life|12}}\n* {{Incite|38}}\n  | description              = This humongous ring appears to have once been placed in Bellow's nose. After a thorough cleaning, you think that you might be able to fit it around your neck.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Bellows Ring.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "Intimidate +6",
+      "tooltip": "Intimidate +6: Passive: +6 Competence bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Intimidate +6"
+        }
+      ]
+    },
+    {
+      "text": "False Life +12",
+      "tooltip": "False Life +12: +12 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +12"
+        }
+      ]
+    },
+    {
+      "text": "Incite +38",
+      "tooltip": "Incite +38: +38% Enhancement bonus to increased threat generation from melee damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incite",
+          "title": "Incite",
+          "text": "Incite +38"
+        }
+      ]
+    }
+  ]
+}

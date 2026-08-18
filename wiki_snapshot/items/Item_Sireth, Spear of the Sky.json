@@ -1,0 +1,221 @@
+{
+  "page_title": "Item:Sireth, Spear of the Sky",
+  "page_id": 24842,
+  "revision_id": 682240,
+  "revision_timestamp": "2026-04-06T14:52:21Z",
+  "fetched_at": "2026-08-17T22:59:44.674101+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Sireth, Spear of the Sky\n  | damage                   = 3.60[1d10] + 7 Slash, Pierce, Good, Magic\n  | crit                     = 16-20 / x2\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | prof                     = Simple\n  | reqtrait                 = Good\n  | UMD DC                   = 32\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 310\n  | material                 = Steel\n  | hardness                 = 33\n  | minlevel                 = 23\n  | released                 = Update 14\n  | quest                    = Caught in the Web\n  | chest                    = End Chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | basevalue                = 9200pp 2cp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|w|7}}\n* {{Good|Supreme}}\n* {{Lightning Strike}}\n* {{Cloudburst}}\n* {{Freedom of Movement}}\n* {{Feather Falling}}\n* {{Attuned to Heroism}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Sireth, Spear of the Sky shown.jpg\n  | picdesc                  = Sireth, Spear of the Sky.png\n  | description              = Said to have been wielded by an astral deva, this spear is capable of tearing open the vault of heaven to bring the wrath of the skies down upon your enemies.\n  | tips                     = Although this is a quarterstaff, it does Slash and Pierce damage, not Bludgeon. This does not change the [[Improved Critical]] feat that you need for this weapon - [[Improved Critical|Improved Critical: Bludgeoning]]\nNote that [[Legendary Dreadnought#Overpower|Pulverizor]] does not currently work with Sireth. May not be WAI.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Supreme Good",
+      "tooltip": "Supreme Good: This weapon is infused with the supreme Power of Good. It does an additional 3 to 18 damage to non-good targets and can only be wielded by Good-aligned characters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Supreme_Good",
+          "title": "Supreme Good",
+          "text": "Supreme Good"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Strike",
+      "tooltip": "Lightning Strike: This weapon stores the power of a volatile thunderstorm deep within. Occasionally, this dynamic power comes to the surface, devastating enemies with a massive lightning strike.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lightning_Strike",
+          "title": "Lightning Strike",
+          "text": "Lightning Strike"
+        }
+      ]
+    },
+    {
+      "text": "Cloudburst",
+      "tooltip": "Cloudburst: On Vorpal, this weapon triggers a Cloudburst, striking its target with lightning and dealing sonic damage to surrounding enemies through a powerful thunderclap.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cloudburst_(effect)",
+          "title": "Cloudburst (effect)",
+          "text": "Cloudburst"
+        }
+      ]
+    },
+    {
+      "text": "Freedom of Movement",
+      "tooltip": "Freedom of Movement: This item grants its wearer the ability to move and attack normally while under the influence of magic that impedes movement, such as paralysis, solid fog, slow and web.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Freedom_of_Movement_(item_enchantment)",
+          "title": "Freedom of Movement (item enchantment)",
+          "text": "Freedom of Movement"
+        }
+      ]
+    },
+    {
+      "text": "Feather Falling",
+      "tooltip": "Feather Falling: This item is engraved with feathers and bestows a powerful magical effect. Whenever the wearer begins to fall from any height, this effect slows the descent dramatically, causing the wearer to fall like a feather.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feather_Falling",
+          "title": "Feather Falling",
+          "text": "Feather Falling"
+        }
+      ]
+    },
+    {
+      "text": "Attuned to Heroism",
+      "tooltip": "This relic is attuned to heroic actions.",
+      "children": [
+        {
+          "text": "Attuned by Heroism: Tier 1",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Planar Conflux",
+              "tooltip": "Planar Conflux: When this item is equipped at the same time as a Planar Focus, you will gain set bonuses based on the Planar Focus that you have equipped.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Named_item_sets#Planar_Conflux",
+                  "title": "Named item sets",
+                  "text": "Planar Conflux"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 1"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "+7 Enhancement Bonus → +8 Enhancement Bonus",
+              "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.+8 Enhancement Bonus: +8 enhancement bonus to attack and damage rolls.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+7 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+8 Enhancement Bonus"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds +0.5 weapon dice multiplier",
+              "tooltip": null,
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Weapon_dice_multiplier",
+                  "title": "Weapon dice multiplier",
+                  "text": "weapon dice multiplier"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 3"
+            }
+          ]
+        },
+        {
+          "text": "Attuned by Heroism: Tier 4",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Red Augment Slot",
+              "tooltip": "Red and Colorless",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Augment_Slot",
+                  "title": "Augment Slot",
+                  "text": "Red Augment Slot"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Attuned_to_Heroism",
+              "title": "Attuned to Heroism",
+              "text": "Attuned by Heroism: Tier 4"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Attuned_to_Heroism",
+          "title": "Attuned to Heroism",
+          "text": "Attuned to Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

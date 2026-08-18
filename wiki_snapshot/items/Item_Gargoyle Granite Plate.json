@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Gargoyle Granite Plate",
+  "page_id": 8107,
+  "revision_id": 631028,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:09:19.992910+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Gargoyle Granite Plate\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | race                     = \n  | minlevel                 = 4\n  | bind                     = {{Bind|BtC|BoE}}\n  | ac                       = +10\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 104\n  | material                 = Steel\n  | hardness                 = 15\n  | basevalue                = 1,750pp\n  | weight                   = 50 lbs\n  | quest                    = Redwillow's Ruins\n  | chest                    = [[Toligath]]'s Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|2}}\n* {{DR|2}}\n* {{Augment|Blue}}\n  | description              = This armor consists of shaped and fitted metal plates riveted and interlocked to cover the entire body.\n  | pic                      = Gargoyle Granite Plate shown.jpg\n  | picdesc                  = Gargoyle Granite Plate.png\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "DR 2/-",
+      "tooltip": "Damage Reduction 2/-: Reduces all physical damage by 2.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

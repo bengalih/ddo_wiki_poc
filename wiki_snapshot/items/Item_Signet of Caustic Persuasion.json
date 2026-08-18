@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Signet of Caustic Persuasion",
+  "page_id": 11196,
+  "revision_id": 634755,
+  "revision_timestamp": "2025-04-22T03:42:37Z",
+  "fetched_at": "2026-08-17T22:58:33.840955+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Signet of Caustic Persuasion\n  | minlevel                 = 11\n  | class                    = Jewelry\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 120\n  | material                 = Gold\n  | hardness                 = 16\n  | basevalue                = 4,420 pp\n  | weight                   = 0.10 lbs\n  | quest                    = The Twilight Forge\n  | chest                    = locked chest in entrance area\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Melf's Acid Arrow|3|3}}\n* {{SpellPower|Corrosion|66}}\n* {{Augment|Yellow}}\n* {{Augment|Green}}\n  | description              = The quori used this ring against their slaves to prod them to do their bidding if they resisted their mind control.\n  | pic                      = Ring Generic Jade.png\n  | picdesc                  = Signet of Caustic Persuasion.png‎\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Melf's Acid Arrow — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Melf's Acid ArrowCaster level: 3Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Melf%27s_Acid_Arrow",
+          "title": "Melf's Acid Arrow",
+          "text": "Melf's Acid Arrow"
+        }
+      ]
+    },
+    {
+      "text": "Corrosion +66",
+      "tooltip": "Corrosion +66: Passive: +66 Equipment bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Corrosion +66"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

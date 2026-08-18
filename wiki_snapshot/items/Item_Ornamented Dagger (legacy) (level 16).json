@@ -1,0 +1,154 @@
+{
+  "page_title": "Item:Ornamented Dagger (legacy) (level 16)",
+  "page_id": 14648,
+  "revision_id": 671164,
+  "revision_timestamp": "2026-01-08T22:54:54Z",
+  "fetched_at": "2026-08-17T22:34:04.872758+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Ornamented Dagger}}\n  | type                     = Dagger\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Simple\n  | minlevel                 = 16\n  | reqtrait                 = \n  | UMD DC                   = \n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = [1d4] + 4 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 130\n  | material                 = Steel\n  | hardness                 = 19\n  | basevalue                = 16,200pp 2gp\n  | weight                   = 1.00 lbs\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = at [[Dusty Old Treasure of Crystal Cove]]\n  | revamped                 = Update 76\n  | enhancements             = \n* [[Upgradeable - Tier 1]]\n* {{Enhancement_bonus|i|4}}\n* {{Skills|concentration|13}}\n* {{SpellPower|Potency|48}}\n* {{Spelllore|Fire|V}}\n** [[Upgradeable - Tier 2]]\n*** Adds {{Spelllore|Ice|V}}\n** [[Upgradeable - Tier 3]]\n*** Adds {{Spelllore|Lightning|V}}\n  | crafting                 = Treasure of Crystal Cove\n  | craftingupgrade          = <!-- yes -->\n  | description              = A dagger set with precious gems, each of which are enchanted with spell-enhancing magic. Most likely it was seized from nobles by a band of pirates as part of their pillaging.\n  | pic                      = Ornamented Dagger shown.jpg\n  | picdesc                  = Ornamented Dagger (Level 16).png\n  | tips                     = See also: [[Ornamented Dagger]] - Full table of the Ornamented Dagger line\n* {{Popup|Tier 2|[[File:Ornamented Dagger (Level 16) (Tier 2).png]]|long=yes}}\n* {{Popup|Tier 3|[[File:Ornamented Dagger (Level 16) (Tier 3).png]]|long=yes}}\n}}<noinclude>[[Category:Treasure of Crystal Cove legacy reward items]]</noinclude>",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Spellcasting Implement +12",
+      "tooltip": "Spellcasting Implement +12: Passive: +12 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +12"
+        }
+      ]
+    },
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Concentration +13",
+      "tooltip": "Concentration +13: Passive: +13 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +13"
+        }
+      ]
+    },
+    {
+      "text": "Potency +48",
+      "tooltip": "Potency +48: Passive: +48 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +48"
+        }
+      ]
+    },
+    {
+      "text": "Fire Lore V",
+      "tooltip": "Fire Lore V: Passive: Your Fire spells gain a 15% Equipment bonus to their chance to critical hit.",
+      "children": [
+        {
+          "text": "Upgradeable - Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Ice Lore V",
+              "tooltip": "Ice Lore V: Passive: Your Cold spells gain a 15% Equipment bonus to their chance to critical hit.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Spell_Lore",
+                  "title": "Spell Lore",
+                  "text": "Ice Lore V"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_2",
+              "title": "Upgradeable - Tier 2",
+              "text": "Upgradeable - Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Upgradeable - Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Lightning Lore V",
+              "tooltip": "Lightning Lore V: Passive: Your Electricity spells gain a 15% Equipment bonus to their chance to critical hit.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Spell_Lore",
+                  "title": "Spell Lore",
+                  "text": "Lightning Lore V"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_3",
+              "title": "Upgradeable - Tier 3",
+              "text": "Upgradeable - Tier 3"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore V"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

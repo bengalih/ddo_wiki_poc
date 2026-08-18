@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Legendary Bottle of Shadows",
+  "page_id": 80397,
+  "revision_id": 631864,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:32:50.298999+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Legendary Bottle of Shadows\n  | minlevel                 = 29\n  | type                     = Trinket\n  | race                     = none\n  | slot                     = Trinket\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 390\n  | material                 = Glass\n  | hardness                 = 49\n  | cost                     = 11,620 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | released                 = Update 46\n  | quest                    = The Home of Memory\n  | end reward               = \n  | turn in                  = \n  | chest                    = End Chest\n  | enhancements             = \n* {{Stat|Well Rounded|2|Profane}}\n* {{Absorption|Law|22}}\n* {{Absorption|Good|22}}\n* {{Concealment|Lesser Displacement}}\n* {{Augment|Green}} \n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A label on the bottle reads, \"For when you need to shroud yourself in darkness.\"\n  | pic                      = \n  | picdesc                  = Legendary Bottle of Shadows.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Glass",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Profane Well Rounded +2",
+      "tooltip": "Profane Well Rounded +2: +2 Profane bonus to all abilities.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ability",
+          "title": "Ability",
+          "text": "Profane Well Rounded +2"
+        }
+      ]
+    },
+    {
+      "text": "Law Absorption +22%",
+      "tooltip": "Law Absorption +22%: Passive: 22% Enhancement Bonus to Law Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Law Absorption +22%"
+        }
+      ]
+    },
+    {
+      "text": "Good Absorption +22%",
+      "tooltip": "Good Absorption +22%: Passive: 22% Enhancement Bonus to Good Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Good Absorption +22%"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Displacement",
+      "tooltip": "Lesser Displacement: Equipping this item causes light to distort around you. Attacks from enemies have a 25% chance to miss you due to concealment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lesser_Displacement",
+          "title": "Lesser Displacement",
+          "text": "Lesser Displacement"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Trinket Boost +1 or +3",
+      "tooltip": "Mythic Trinket Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Trinket Boost"
+        }
+      ]
+    }
+  ]
+}

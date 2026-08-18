@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Star of Endless Night (level 8)",
+  "page_id": 72590,
+  "revision_id": 665139,
+  "revision_timestamp": "2025-11-03T02:14:41Z",
+  "fetched_at": "2026-08-17T23:05:29.748878+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Star of Endless Night}}\n  | damage                   = [1d8] + 3 Bludgeon, Evil, Magic\n  | crit                     = 20 / x2\n  | type                     = Morningstar\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 8\n  | durability               = 145\n  | material                 = Steel\n  | hardness                 = 18\n  | cost                     = 3,220 pp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = The Night Revels\n  | chest                    = \n  | end reward               = \n  | turn in                  = {{Item|Star of Endless Night (level 4)}}{{Br}}{{Tab}}and {{NightRevelsRecipe|ing_chocolate= 80|ing_almond= 10|ing_cinnamon= 30}} at [[Joe Candymaker]]\n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Unholy|2|1}}\n* {{Smashing|6}}\n* {{Piercing|2}}\n* {{Tactics|Combat Mastery|4}}\n  | mythic                   = no\n  | crafting                 = The Night Revels\n  | craftingupgrade          = Star of Endless Night (level 12)\n  | pic                      = Coronation shown.jpg\n  | picdesc                  = Star of Endless Night (level 8).png\n  | description              = This Morningstar holds an aspect of the Endless Night deep within it.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Morningstar",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Unholy 2",
+      "tooltip": "Unholy 2: This weapon is used by the wicked to smite the pure, dealing an additional 2d6 evil damage on each hit. This effect makes the weapon evil aligned. Good characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Unholy 2"
+        }
+      ]
+    },
+    {
+      "text": "Smashing 6",
+      "tooltip": "Smashing 6: The edges of this weapon are blunted, dealing an additional 6d6 bludgeoning damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Smashing",
+          "title": "Smashing",
+          "text": "Smashing 6"
+        }
+      ]
+    },
+    {
+      "text": "Piercing 2",
+      "tooltip": "Piercing 2: The edges of this weapon have serrated edges, dealing an additional 2d6 piercing damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Piercing",
+          "title": "Piercing",
+          "text": "Piercing 2"
+        }
+      ]
+    },
+    {
+      "text": "Combat Mastery +4",
+      "tooltip": "Combat Mastery +4: +4 Enhancement bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combat_Mastery",
+          "title": "Combat Mastery",
+          "text": "Combat Mastery +4"
+        }
+      ]
+    }
+  ]
+}

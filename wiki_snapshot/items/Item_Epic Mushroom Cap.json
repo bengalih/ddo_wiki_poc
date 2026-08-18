@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Epic Mushroom Cap",
+  "page_id": 51274,
+  "revision_id": 700836,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:52:43.418997+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | minlevel                 = 26\n  | name                     = Epic Mushroom Cap\n  | type                     = Helm\n  | slot                     = Head\n  | durability               = 270\n  | material                 = Steel\n  | hardness                 = 36\n  | basevalue                = 10,420 pp\n  | weight                   = 0.10 lbs\n  | bind                     = {{Bind|No}}\n  | released                 = Update 25\n  | quest                    = ToEE: Water Node\n  | chest                    = [[Jotun Rimeblade]]'s chest, '''[[ToEE: Earth Node]]''', [[Hyrelgas]]' chest\n  | mythic                   = no\n  | enhancements             = \n* {{Proof|Poison|10}}\n* {{Deathblock|VIII}}\n* {{Good Luck|3}}\n* {{False Life|superior}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This large mushroom cap, a remnant of Zuggtmoy's power, has an indent large enough to fit one's head. To the resourceful adventurer, anything can become useful gear.\n  | pic                      = Mushroom Cap shown.jpg\n  | picdesc                  = Epic Mushroom Cap.png\n  | tips                     = \n}}\n[[C:ToEE: Earth Node loot]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "Proof Against Poison +10",
+      "tooltip": "Proof Against Poison +10: This item grants its wearer immunity to natural poisons. This item also grants a +10 Enhancement bonus to saving throws against magical poisons, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical poisons with a DC of less than 11 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Poison",
+          "title": "Proof Against Poison",
+          "text": "Proof Against Poison +10"
+        }
+      ]
+    },
+    {
+      "text": "Deathblock VIII",
+      "tooltip": "Deathblock VIII: Passive: 24% Enhancement Bonus to Negative Energy Absorption. In addition, you are immune to magical effects that can cause instant death.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock VIII"
+        }
+      ]
+    },
+    {
+      "text": "Good Luck +3",
+      "tooltip": "Good Luck +3: This item gives a +3 Luck bonus to all saves and skill checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Good_Luck",
+          "title": "Good Luck",
+          "text": "Good Luck +3"
+        }
+      ]
+    },
+    {
+      "text": "Superior False Life",
+      "tooltip": "Superior False Life: This item grants the wearer +40 maximum health.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)#Superior_False_Life",
+          "title": "False Life (enchantment)",
+          "text": "Superior False Life"
+        }
+      ]
+    }
+  ]
+}

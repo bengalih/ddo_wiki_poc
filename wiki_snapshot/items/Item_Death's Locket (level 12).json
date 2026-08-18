@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Death's Locket (level 12)",
+  "page_id": 35508,
+  "revision_id": 649054,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:31:10.762029+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = {{Item|Death's Locket}}\n  | minlevel                 = 12\n  | type                     = Necklace\n  | slot                     = Neck\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 130\n  | material                 = Gold\n  | hardness                 = 22\n  | basevalue                = 4,820 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 17\n  | quest                    = The Prison of the Planes\n  | chest                    = Dolurrh room's chest (Heroic Normal)\n  | enhancements             = \n* {{Deathblock}}\n* {{Absorption|Negative Energy|0|3}}\n  | pic                      = Necklace Generic Deaths Locket.png\n  | picdesc                  = Death's Locket (Level 12).png\n  | description              = This locket consists of the bones of several small mammals strung together with a small skull weighing them down. The side of the skull is hinged and opens to reveal some unknown thing's ashes.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Deathblock",
+      "tooltip": "Deathblock: The wearer of this item is immune to all death spells and magical death effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock"
+        }
+      ]
+    },
+    {
+      "text": "Negative Energy Absorption - 3 Charges (Recharged/Day: 3)",
+      "tooltip": "Negative Energy Absorption: This effect absorbs negative energy and energy drain effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Energy_Absorption",
+          "title": "Negative Energy Absorption",
+          "text": "Negative Energy Absorption"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

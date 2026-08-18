@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:First Blood (level 14)",
+  "page_id": 40483,
+  "revision_id": 649092,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:04:47.816138+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = [[Item:First Blood|First Blood]]\n  | damage                   = [1d10] + 4 Slash, Magic\n  | crit                     = 17-20 / x2\n  | type                     = Bastard Sword\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Exotic\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 220\n  | material                 = Steel\n  | hardness                 = 24\n  | minlevel                 = 14\n  | released                 = Update 19\n  | quest                    = The Thrill of the Hunt\n  | chest                    = End chest; <br />[[Shadow Over Wheloon]], Quest chain end reward (Heroic)\n  | basevalue                = 5,603pp 5gp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | enhancements             = \n* {{Enhancement bonus|w|4}}\n* {{Bloodletter|v}}\n* {{Doublestrike|8}}\n* {{Keen|i}}\n  | description              = It is not who hits hardest but who hits first. However, there is much to be said for hitting first AND hardest.\n  | pic                      = First Blood shown.jpg\n  | picdesc                  = First Blood (Level 14).png\n  | tips                     = \n}}\n[[Category:Shadow Over Wheloon rewards]]",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Bastard Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Bloodletter V",
+      "tooltip": "Bloodletter V: On Critical Hit: 11 to 66 Slashing damage from weapons with a x2 Critical Multiplier, 11 to 88 Slashing damage from weapons with a x3 Critical Multiplier, and 11 to 110 Slashing damage from weapons with a x4 or greater Critical Multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bloodletter",
+          "title": "Bloodletter",
+          "text": "Bloodletter V"
+        }
+      ]
+    },
+    {
+      "text": "Doublestrike 8%",
+      "tooltip": "Doublestrike 8%: Passive: 8% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 8%"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

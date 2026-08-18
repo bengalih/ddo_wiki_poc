@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Swailing Blade (level 16)",
+  "page_id": 26892,
+  "revision_id": 672801,
+  "revision_timestamp": "2026-01-25T19:24:22Z",
+  "fetched_at": "2026-08-17T23:08:17.909977+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Swailing Blade}}\n  | damage                   = [1d6] + 5 Slash, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Scimitar\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 16\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 220\n  | material                 = Steel\n  | hardness                 = 26\n  | basevalue                = 6,402pp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | released                 = Update 15\n  | revamped                 = Update 76\n  | quest                    = The Druid's Curse\n  | chest                    = End chest (Heroic Hard)\n  | enhancements             = \n* {{Enhancement bonus|i|5}}\n* {{Burst|Flaming}}\n* {{Incineration}}\n* {{SpellPower|Combustion|78}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Swailing Blade shown.jpg\n  | picdesc                  = Swailing Blade (Level 16).png\n  | description              = This curved sword shimmers with heat, while the air ignites in its wake.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Scimitar",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +15",
+      "tooltip": "Spellcasting Implement +15: Passive: +15 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +15"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Flaming Burst",
+      "tooltip": "Flaming Burst: This weapon is sheathed in fire, and deals 1 to 6 fire damage each hit. Critical hits deal an additional 1 to 10 fire damage for weapons with a x2 critical multiplier, 2 to 20 for a x3 multiplier and 3 to 30 for a x4 multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flaming_Burst#Flaming_Burst",
+          "title": "Flaming Burst",
+          "text": "Flaming Burst"
+        }
+      ]
+    },
+    {
+      "text": "Incineration",
+      "tooltip": "Incineration: This weapon stores the power of a raging inferno deep within. Occasionally, this destructive power comes to the surface, devastating enemies with massive fire damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incineration",
+          "title": "Incineration",
+          "text": "Incineration"
+        }
+      ]
+    },
+    {
+      "text": "Combustion +78",
+      "tooltip": "Combustion +78: Passive: +78 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +78"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

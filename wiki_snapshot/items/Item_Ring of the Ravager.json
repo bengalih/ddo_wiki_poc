@@ -1,0 +1,70 @@
+{
+  "page_title": "Item:Ring of the Ravager",
+  "page_id": 9539,
+  "revision_id": 634299,
+  "revision_timestamp": "2025-04-22T03:12:28Z",
+  "fetched_at": "2026-08-17T22:46:38.789657+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Ring of the Ravager\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 120\n  | material                 = Gold\n  | hardness                 = 12\n  | basevalue                = 10,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | quest                    = Tower of Despair\n  | chest                    = right side end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|STR|6}}\n* {{Stat|STR|1|Exceptional}}\n* {{Named item sets|Ravager}}\n* {{CraftingEffects|Incredible Potential}}\n  | crafting                 = Incredible Potential\n  | craftingupgrade          = <!-- -->\n  | description              = Many small hamlets shudder at the mention of the name Colethenis, the crazed Ravager who once wore this scratched and tarnished ring.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Ring of the Ravager.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Strength +6",
+      "tooltip": "Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +6"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Strength +1",
+      "tooltip": "Exceptional Strength +1: This item gives the wearer the power of Ogre Strength, granting a +1 Exceptional bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Exceptional Strength +1"
+        }
+      ]
+    },
+    {
+      "text": "Ravager ARCHIVE ME!.)",
+      "tooltip": "Ravager: Chance to inflict damage over time effect (Ravager's Cut: 2d6 slashing damage vs creatures that can bleed on melee hit or glancing blow plus four rounds of additional damage. Does not work with handwraps.This is working as intended",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Ravager",
+          "title": "Named item sets",
+          "text": "Ravager"
+        },
+        {
+          "target": "https://web.archive.org/save/https%3A%2F%2Fforums-old.ddo.com%2Fforums%2Fshowthread.php%3Fp%3D3747293%23post3747293",
+          "title": null,
+          "text": "ARCHIVE ME!"
+        }
+      ]
+    },
+    {
+      "text": "Incredible Potential",
+      "tooltip": "Incredible Potential: Incredible Potential: This ring's power has not been fully unleashed. When this ring is combined with 9 Shavarath War Trophies and ac Imbued Shard of Great Power in an Altar of Subjugation, its full potential will be reveled.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incredible_Potential",
+          "title": "Incredible Potential",
+          "text": "Incredible Potential"
+        }
+      ]
+    }
+  ]
+}

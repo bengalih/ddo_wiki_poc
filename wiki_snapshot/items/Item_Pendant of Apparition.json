@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Pendant of Apparition",
+  "page_id": 54658,
+  "revision_id": 690212,
+  "revision_timestamp": "2026-06-24T00:09:09Z",
+  "fetched_at": "2026-08-17T22:35:39.220233+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Pendant of Apparition\n  | minlevel                 = 15\n  | type                     = Necklace\n  | race                     = \n  | slot                     = Neck\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 25\n  | basevalue                = 6020 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | released                 = Update 29\n  | revamped                 = Update 59\n  | revamped2                = Update 80\n  | quest                    = To Curse the Sky\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n*{{Spell Focus|Illusion|5}}\n*{{Spell Focus|Abjuration|2|Insightful}}\n*{{Save|R|2|Quality}}\n*{{HealingAmp|30|H|Competence}}\n*{{Augment|Green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = The small gem on this chain fades away when its wearer performs magic.\n  | pic                      = Necklace Generic Yellow.png\n  | picdesc                  = Pendant of Apparition.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Illusion Focus +5",
+      "tooltip": "Illusion Focus +5: +5 Equipment bonus to the DC of Illusion spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Illusion Focus +5"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Abjuration Focus +2",
+      "tooltip": "Insightful Abjuration Focus +2: +2 Insight bonus to the DC of Abjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Abjuration Focus +2"
+        }
+      ]
+    },
+    {
+      "text": "Quality Reflex Save +2",
+      "tooltip": "Quality Reflex Save +2: This item gives a +2 Quality bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Quality Reflex Save +2"
+        }
+      ]
+    },
+    {
+      "text": "Competence Healing Amplification +30",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +30 (Competence bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Competence Healing Amplification +30"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

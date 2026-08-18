@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Crimson Gemstone",
+  "page_id": 4860,
+  "revision_id": 629211,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:27:46.474110+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Crimson Gemstone\n  | slot                     = Trinket\n  | type                     = Trinket\n  | durability               = 60\n  | material                 = Gem \n  | hardness                 = 25\n  | basevalue                = 2,005 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 5 \n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Assault on Splinterskull \n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Wizardry|II}}\n* {{Augment|Colorless}}\n  | description              = This gemstone pulses with a pale red light.\n  | pic                      = Gem Generic Red.png\n  | picdesc                  = Crimson Gemstone.png\n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Wizardry II",
+      "tooltip": "Wizardry II: This item grants the wearer +50 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry II"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

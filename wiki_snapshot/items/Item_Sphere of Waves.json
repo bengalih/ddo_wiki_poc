@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Sphere of Waves",
+  "page_id": 73074,
+  "revision_id": 634977,
+  "revision_timestamp": "2025-04-22T03:57:21Z",
+  "fetched_at": "2026-08-17T23:04:05.661514+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Sphere of Waves\n  | minlevel                 = 28\n  | type                     = Orb\n  | race                     = \n  | damagemod                = CHA\n  | attmod                   = INT\n  | dmg                      = [1d4] + 15\n  | dmgtype                  = Magic, Force\n  | crit                     = 20 / x2\n  | slot                     = Off Hand\n  | prof                     = Magical Training\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 345\n  | material                 = Ice\n  | hardness                 = 48\n  | basevalue                = 11,300 pp\n  | weight                   = 3 lbs\n  | released                 = Update 40\n  | quest                    = Schism Shard Crafting\n  | end reward               = \n  | turn in                  = 5 {{Item|Schism Shard}}s, {{Item|Legendary Echo of Wave}} and {{Item|Sentient Jewel of Wave}}\n  | chest                    = \n  | mythic                   = no  \n  | enhancements             = \n* {{Enhancement bonus|i|15|28}}\n* {{Cerulean Wave|Paragon|100}}\n* {{Spelllore|Frozen Storm|21}}\n* {{SpellPower|Power of the Frozen Storm|145}}\n* {{Elemental Resistance|Cold|51}}\n* {{Augment|Purple}}\n* {{Augment|Orange}}\n  | description              = I echo the crash of waves in your ears. Seize the moment, and swim for the surface.\n  | pic                      = Sphere of Waves shown.png\n  | picdesc                  = Sphere of Waves.png\n  | crafting                 = Threads of Fate\n  | tips                     = Can be upgraded with Threads of Fate to gain:\n* Tier 1: {{Mythic|Shield|+2}}\n* Tier 2: {{Mythic|Shield|+2}} → {{Mythic|Shield|+4}}\n[[C:Threads of Fate upgradable items]]\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Magical Training",
+  "material": "Ice",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +28",
+      "tooltip": "Spellcasting Implement +28: Passive: +28 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +28"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Paragon Cerulean Wave",
+      "tooltip": "Paragon Cerulean Wave: This powerful magical implement hums in your hands and resonates with icy magic. Spells you cast have a chance of freezing your targets in a block of solid ice. DC: 100",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cerulean_Wave",
+          "title": "Cerulean Wave",
+          "text": "Paragon Cerulean Wave"
+        }
+      ]
+    },
+    {
+      "text": "Frozen Storm Lore +21%",
+      "tooltip": "Frozen Storm Lore +21: Passive: Your Cold and Lightning spells gain a 21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Frozen Storm Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Power of the Frozen Storm +145",
+      "tooltip": "Power of the Frozen Storm +145: Passive: +145 Equipment bonus to Cold and Electric Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power_of_the_Frozen_Storm",
+          "title": "Power of the Frozen Storm",
+          "text": "Power of the Frozen Storm"
+        }
+      ]
+    },
+    {
+      "text": "Cold Resistance +51",
+      "tooltip": "Cold Resistance +51: Passive: +51 Enhancement bonus to your Cold Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Resistance",
+          "title": "Cold Resistance",
+          "text": "Cold Resistance +51"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    }
+  ]
+}

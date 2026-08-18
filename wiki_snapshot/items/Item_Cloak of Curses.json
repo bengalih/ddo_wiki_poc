@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Cloak of Curses",
+  "page_id": 11392,
+  "revision_id": 690602,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:22:24.479003+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Cloak of Curses\n  | type                     = Cloak\n  | class                    = Clothing\n  | slot                     = Back\n  | durability               = 120 \n  | material                 = Leather \n  | hardness                 = 17 \n  | basevalue                = 4,420 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 11 \n  | bind                     = {{Bind|BtC|BoE}} \n  | quest                    = The Cursed Crypt\n  | chest                    = End chest\n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* {{Chaotic Curse}}\n* {{Spell Focus|Enchantment|I}}\n* {{Augment|Yellow}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This cloak is made from the tattered remnants of Maldetto's robe.\n  | pic                      = Cloak of Curses Shown.jpg\n  | picdesc                  = Cloak of Curses.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Chaotic Curse",
+      "tooltip": "Chaotic Curse: The curse on this item is so powerful it can be transferred to any creature that dares touch the wearer. The rents in the fabric of the underlying cloth has made the curse unstable and it can reverse itself. Note especially that while the wearer is partially shielded he is not entirely immune to this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Chaotic_Curse",
+          "title": "Chaotic Curse",
+          "text": "Chaotic Curse"
+        }
+      ]
+    },
+    {
+      "text": "Enchantment Focus I",
+      "tooltip": "Enchantment Focus I: +1 Equipment bonus to the DC of Enchantment spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Enchantment Focus I"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

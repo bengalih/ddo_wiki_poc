@@ -1,0 +1,43 @@
+{
+  "page_title": "Item:Green Steel Handwraps",
+  "page_id": 64148,
+  "revision_id": 672358,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:16:19.685898+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Green Steel Handwraps\n  | damage                   = 1.50[1d6] + 5 Bludgeon, Evil, Magic\n  | crit                     = 20 / x2\n  | type                     = Handwrap\n  | hand                     = Simple\n  | class                    = bludgeoning\n  | UMD DC                   = \n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Exotic\n  | durability               = 170\n  | material                 = Steel\n  | hardness                 = 18\n  | minlevel                 = 12\n  | released                 = Update 33\n  | revamped                 = Update 76\n  | quest                    = Altar of Fecundity\n  | chest                    = [[Altar of Fecundity - Manufactured Ingredient Recipes|Manufactured Ingredient Recipes]]\n  | end reward               = \n  | basevalue                = 5450 pp\n  | weight                   = 0.50 lbs\n  | bind                     = {{Bind|BtC|boe}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|5}}\n* {{mat|Green Steel}}\n  | epic                     = no\n  | crafting                 = Green Steel\n  | craftingupgrade          = <!-- yep -->\n  | pic                      = Handwraps Generic.png\n  | picdesc                  = +5 Green Steel Handwraps.png\n  | description              = Strips of cloth meant to be wrapped around your hands. They have small pieces of a foreign metal woven throughout.\n  | tips                     = \n<!-- '''+5 Green Steel Handwraps'''\n{{Greensteel material|oot|rt|ws|ss|l}} -->\n}}\n[[Category:Green Steel items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Handwrap",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Green Steel",
+      "tooltip": "Green Steel: Greensteel is a rare and special material that can be crafted in the Vale of Twilight.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Green_Steel",
+          "title": "Green Steel",
+          "text": "Green Steel"
+        }
+      ]
+    }
+  ]
+}

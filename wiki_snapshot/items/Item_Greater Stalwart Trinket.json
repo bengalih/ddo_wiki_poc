@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Greater Stalwart Trinket",
+  "page_id": 13963,
+  "revision_id": 631242,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:15:39.925134+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Greater Stalwart Trinket\n  | type                     = Trinket\n  | class                    = Jewelry\n  | basevalue                = 905 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Trinket\n  | durability               = 40\n  | material                 = Gem\n  | hardness                 = 23\n  | minlevel                 = 4\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{Item|Stalwart Trinket}} (and other ingredients) at [[Dusty Old Treasure of Crystal Cove]]\n  | mythic                   = no\n  | enhancements             = \n* {{Popup|long=yes|[[Treasure of Crystal Cove|Upgradeable - Tier 3]]|'''[[Treasure of Crystal Cove|Upgradeable - Tier 3]]:''' This is a tier 3 upgradeable item.}}\n* {{Hp|Pirate Vitality}}\n* {{Fortification|0|10}}\n* {{Guard|Earthen}}\n  | description              = A pirate is steadfast and won't back down, even if the odds look grim. This trinket gives you boosts to your survivability.\n  | pic                      = Necklace Generic Bright.png\n  | picdesc                  = Greater Stalwart Trinket.png\n  | tips                     = \n}}<noinclude>[[Category:Treasure of Crystal Cove legacy reward items]]</noinclude>",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This is a tier 3 upgradeable item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Treasure_of_Crystal_Cove",
+          "title": "Treasure of Crystal Cove",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    },
+    {
+      "text": "Pirate Vitality",
+      "tooltip": "Pirate Vitality: You gain the toughness of a pirate, which bestows a +10 bonus to your maximum hit points. This stacks with all bonuses except itself.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Pirate_Vitality",
+          "title": "Pirate Vitality",
+          "text": "Pirate Vitality"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Fortification (+10%)",
+      "tooltip": "Exceptional Fortification (+10%): This item produces a magical force that protects vital areas of the wearer more effectively. When a critical hit or sneak attack is scored on the wearer, there is a +10% chance that the critical hit or sneak attack is negated and the damage is instead rolled normally. This ability is considered an Insight bonus when determining stacking with other sources of fortification",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Exceptional Fortification (+10%)"
+        }
+      ]
+    },
+    {
+      "text": "Earthen Guard",
+      "tooltip": "Earthen Guard: When you are successfully attacked, there is a chance that a Stone Skin will be cast on you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Earthen_Guard",
+          "title": "Earthen Guard",
+          "text": "Earthen Guard"
+        }
+      ]
+    }
+  ]
+}

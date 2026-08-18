@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Cormyrian Red Dragonscale Robe",
+  "page_id": 27079,
+  "revision_id": 686659,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:26:15.040295+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Cormyrian Red Dragonscale Robe\n  | type                     = Robe\n  | feat                     = Cloth\n  | ac                       = +9\n  | minlevel                 = 23\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 250\n  | material                 = Red Dragonscale\n  | hardness                 = 25\n  | basevalue                = 9,205 pp 5 gp\n  | weight                   = \n  | quest                    = Mikrom Sum\n  | turn in                  = \n  | mythic                   = no \n  | enhancements             = \n* {{ArmorBonus|9}}\n* {{Hp|Vitality|20}}\n* {{Elemental Resistance|Fire|40}}\n* {{Absorption|Fire|20}}\n* {{ProtectionBonus|6}}\n* {{Fortification|heavy}}\n* {{Seeker|10}}\n  | pic                      = Cormyrian Red Dragonscale Robe shown.jpg\n  | picdesc                  = Cormyrian Red Dragonscale Robe.png\n  | description              = A finely crafted robe that includes many scales from a red dragon.\n  | notes                    = Turn-in:\n* 375 [[Purple Dragon Knights]] favor\n* 20 {{Item|Flawless Red Dragon Scale}}s\n* {{Commendation|Villagers|15}}\n* {{Commendation|PDK|15}}\n* {{Commendation|Heroism|3}}\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Red Dragonscale",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +9",
+      "tooltip": "Armor Bonus +9: This item surrounds the wearer with an invisible but tangible field of force, granting +9 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +9"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +20",
+      "tooltip": "Vitality +20: Passive: +20 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +20"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +40",
+      "tooltip": "Fire Resistance +40: Passive: +40 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +40"
+        }
+      ]
+    },
+    {
+      "text": "Fire Absorption +20%",
+      "tooltip": "Fire Absorption +20%: Passive: 20% Enhancement Bonus to Fire Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Fire Absorption +20%"
+        }
+      ]
+    },
+    {
+      "text": "Protection +6",
+      "tooltip": "Protection +6: Passive: +6 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +6"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +100%",
+      "tooltip": "Fortification +100%: This suit of armor or shield produces a magical force that protects vital areas of the wearer much more effectively. When a critical hit or sneak attack is scored on the wearer, there is a 100% chance that the critical hit or sneak attack is negated and damage is instead rolled normally.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +100%"
+        }
+      ]
+    },
+    {
+      "text": "Seeker +10",
+      "tooltip": "Seeker +10: Provides a +10 Enhancement bonus to confirm critical hits, and a +10 Enhancement bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Seeker +10"
+        }
+      ]
+    }
+  ]
+}

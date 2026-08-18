@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Hunter's Band",
+  "page_id": 79662,
+  "revision_id": 631495,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:22:31.620781+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Hunter's Band\n  | type                     = Ring\n  | race                     = Aasimar Scourge\n  | slot                     = Finger\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Proof|Poison|6}}\n* {{Sheltering|7|Insightful|Physical}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Ring Generic Beholder.png\n  | picdesc                  = Hunter's Band.png\n  | food                     = no\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Proof Against Poison +6",
+      "tooltip": "Proof Against Poison +6: This item grants its wearer immunity to natural poisons. This item also grants a +6 Enhancement bonus to saving throws against magical poisons, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical poisons with a DC of less than 7 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Poison",
+          "title": "Proof Against Poison",
+          "text": "Proof Against Poison +6"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Physical Sheltering +7",
+      "tooltip": "Insightful Physical Sheltering +7: +7 Insight bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Insightful Physical Sheltering +7"
+        }
+      ]
+    }
+  ]
+}

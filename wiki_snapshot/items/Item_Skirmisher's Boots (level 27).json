@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Skirmisher's Boots (level 27)",
+  "page_id": 41506,
+  "revision_id": 649777,
+  "revision_timestamp": "2025-07-26T19:12:47Z",
+  "fetched_at": "2026-08-17T23:00:00.335071+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Skirmisher's Boots \n  | type                     = Boots\n  | class                    = Clothing\n  | basevalue                = 10,820pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 190\n  | material                 = Leather\n  | hardness                 = 28\n  | minlevel                 = 27\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 19\n  | quest                    = Lines of Supply\n  | end reward               = yes\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Elemental Resistance|Cold|45}}\n* {{Elemental Resistance|Fire|45}}\n  | crafting                 = \n  | description              = \n  | pic                      = Boots Spike.png\n  | picdesc                  = Skirmisher's Boots (Level 27).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "Cold Resistance +45",
+      "tooltip": "Cold Resistance +45: Passive: +45 Enhancement bonus to your Cold Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Resistance",
+          "title": "Cold Resistance",
+          "text": "Cold Resistance +45"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +45",
+      "tooltip": "Fire Resistance +45: Passive: +45 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +45"
+        }
+      ]
+    }
+  ]
+}

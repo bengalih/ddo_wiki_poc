@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Axe of Savaran",
+  "page_id": 124492,
+  "revision_id": 683315,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:07:05.718270+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Axe of Savaran\n  | minlevel                 = 10\n  | type                     = Throwing Axe\n  | class                    = Thrown\n  | prof                     = Martial\n  | hand                     = Thrown\n  | damage                   = [1d6] + 5 Slash, Magic\n  | crit                     = 20 / x3\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 130\n  | material                 = Steel\n  | hardness                 = 20\n  | cost                     = 4,000 pp 6 gp\n  | weight                   = 2 lbs\n  | released                 = Update 79\n  | quest                    = Thrall of Duty\n  | chest                    = end chest\n  | rare                     =\n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Electrifying|3}}\n* {{Jolting|7}}\n* {{Limb Chopper}}\n* {{Dragon's Edge|3}}\n* {{Returning}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A fragment of the Blue Dragon's power that arcs through the air like bolt of lightning.\n  | pic                      = Axe of Savaran shown.jpg\n  | picdesc                  = Axe of Savaran.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Throwing Axe",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Electrifying 3",
+      "tooltip": "Electrifying 3: This effect causes the edges of this weapon to arc with electricity, dealing 3d6 Lightning damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electrifying",
+          "title": "Electrifying",
+          "text": "Electrifying 3"
+        }
+      ]
+    },
+    {
+      "text": "Jolting 7",
+      "tooltip": "Jolting 7: This effect causes the edges of this weapon to arc with electricity, dealing 7d6 Lightning damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Jolting",
+          "title": "Jolting",
+          "text": "Jolting 7"
+        }
+      ]
+    },
+    {
+      "text": "Limb Chopper",
+      "tooltip": "Limb Chopper: This potent and feared ability allows the weapon to sever the limbs of those it strikes. On an attack roll of 20 which is confirmed as a critical hit, the weapon severs an opponent's limb from its body. Some creatures, including many aberrations and all oozes, have no limbs. Others, such as golems and undead creatures, are not affected by the loss of their limbs. Most other creatures, however, have their movement slowed 75% and attacks slowed by 50% when a limb is cut off.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Limb_Chopper",
+          "title": "Limb Chopper",
+          "text": "Limb Chopper"
+        }
+      ]
+    },
+    {
+      "text": "Dragon's Edge 3",
+      "tooltip": "Dragon's Edge 3: +9% Enhancement bonus to bypass enemy Fortification. On Crit: 3d8 Bleeding Damage to those that are vulnerable to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dragon%27s_Edge",
+          "title": "Dragon's Edge",
+          "text": "Dragon's Edge 3"
+        }
+      ]
+    },
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

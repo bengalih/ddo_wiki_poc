@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Legendary Hammer of Life",
+  "page_id": 91326,
+  "revision_id": 632426,
+  "revision_timestamp": "2025-04-22T01:03:49Z",
+  "fetched_at": "2026-08-17T21:53:26.971345+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Hammer of Life\n  | minlevel                 = 30\n  | type                     = Maul\n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | hand                     = Two-handed\n  | damage                   = 5[1d10+6] + 15 Bludgeon, Good, Magic\n  | crit                     = 20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtC|BoA|exclusive=1}}\n  | durability               = 385\n  | material                 = Steel\n  | hardness                 = 40\n  | cost                     = 12,001 pp 2 gp\n  | weight                   = 10 lbs\n  | released                 = Update 50\n  | quest                    = Legendary Crafting\n  | legendary                = Epic Hammer of Life\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Heal, Mass|17|3|1}}\n* {{Enhancement bonus|w|15}}\n* {{Disruption|Greater}}\n* {{Guard|Greater Disruption}}\n* {{Skills|Heal|21}}\n* {{Skills|Repair|21}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | description              = A mighty maul commissioned for the House Kundarak Champion. This weapon was lost in an early attempt to re-open the Vault of Night.\n  | pic                      = Hammer of Life shown.jpg\n  | picdesc                  = Legendary Hammer of Life.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Maul",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "Heal, Mass — 3 Charges (Recharged/Day:1)",
+      "tooltip": "Heal, MassCaster level: 17Charges: 3 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heal,_Mass",
+          "title": "Heal, Mass",
+          "text": "Heal, Mass"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Greater Disruption",
+      "tooltip": "Greater Disruption: On Hit: 4 to 24 Bane damage to Undead.On Vorpal Hit: If an undead struck by this weapon has fewer than 2000 Hit Points, it is instantly slain. If the undead has above 2000 Hit Points, it takes 200 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disruption#Greater_Disruption",
+          "title": "Disruption",
+          "text": "Greater Disruption"
+        }
+      ]
+    },
+    {
+      "text": "Greater Disruption Guard",
+      "tooltip": "Greater Disruption Guard: This Item stores a holy and righteous power deep within. When the wearer of this item is successfully attacked in melee by undead, this power occasionally comes to the surface, annihilating enemy undead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Greater_Disruption_Guard",
+          "title": "Greater Disruption Guard",
+          "text": "Greater Disruption Guard"
+        }
+      ]
+    },
+    {
+      "text": "Heal +21",
+      "tooltip": "Heal +21: Passive: +21 Competence bonus to the Heal skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heal_(skill)",
+          "title": "Heal (skill)",
+          "text": "Heal +21"
+        }
+      ]
+    },
+    {
+      "text": "Repair +21",
+      "tooltip": "Repair +21: Passive: +21 Competence bonus to the Repair skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Repair_(skill)",
+          "title": "Repair (skill)",
+          "text": "Repair +21"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

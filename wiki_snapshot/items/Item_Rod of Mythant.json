@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Rod of Mythant",
+  "page_id": 52666,
+  "revision_id": 690648,
+  "revision_timestamp": "2026-06-30T16:34:24Z",
+  "fetched_at": "2026-08-17T22:48:44.457615+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Rod of Mythant\n  | damage                   = 1.60[1d6] + 5 Bludgeon, Good, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 13\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 180\n  | material                 = Flametouched Iron\n  | hardness                 = 23\n  | basevalue                = 5,220 pp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 27\n  | quest                    = Demon Assault\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|I|5}}\n* {{Spell Focus|Evocation|I}}\n* {{Spelllore|Kinetic|IV}}\n* {{SpellPower|Impulse|66}}\n* {{Wizardry|III}}\n* {{Mat|Flametouched Iron}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This rod was taken from Mythant upon his imprisonment. It occasionally shakes in its wielder's hands, a side effect of the arcane power pent up inside of it.\n  | pic                      = Rod of Mythant shown.jpg\n  | picdesc                  = Rod of Mythant.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +15",
+      "tooltip": "Spellcasting Implement +15: Passive: +15 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +15"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus I",
+      "tooltip": "Evocation Focus I: +1 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus I"
+        }
+      ]
+    },
+    {
+      "text": "Kinetic Lore IV",
+      "tooltip": "Kinetic Lore IV: Passive: Your Force, Physical and Untyped spells gain a 14% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Kinetic Lore IV"
+        }
+      ]
+    },
+    {
+      "text": "Impulse +66",
+      "tooltip": "Impulse +66: Passive: +66 Equipment bonus to Force, Untyped, Slashing, Piercing, and Bludgeoning Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impulse",
+          "title": "Impulse",
+          "text": "Impulse +66"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry III",
+      "tooltip": "Wizardry III: This item grants the wearer +75 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry III"
+        }
+      ]
+    },
+    {
+      "text": "Flametouched Iron",
+      "tooltip": "Flametouched Iron: Flametouched Iron grants +1 saves versus Evil Outsiders.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flametouched_Iron",
+          "title": "Flametouched Iron",
+          "text": "Flametouched Iron"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

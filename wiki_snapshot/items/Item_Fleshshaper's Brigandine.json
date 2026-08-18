@@ -1,0 +1,92 @@
+{
+  "page_title": "Item:Fleshshaper's Brigandine",
+  "page_id": 16491,
+  "revision_id": 674771,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:07:17.133078+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Fleshshaper's Brigandine\n  | type                     = Brigandine\n  | feat                     = Medium\n  | race                     = \n  | minlevel                 = 14\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +18\n  | maxdexbonus              = 4\n  | acp                      = -4\n  | asf                      = 10%\n  | durability               = 244\n  | material                 = Magesteel\n  | hardness                 = 23\n  | basevalue                = 5,615 pp\n  | weight                   = 35 lbs\n  | released                 = Update 10\n  | quest                    = Reign of Madness\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Absorption|Negative Energy|20}}\n* {{Fleshmaker}}\n* {{Guard|Disintegration}}\n* {{CraftingEffects|Trace of Madness}}\n* {{Power Drain}}\n  | crafting                 = Altar of Insanity\n  | craftingupgrade          = \n  | pic                      = Beholder Plate Armor shown.jpg\n  | picdesc                  = Fleshshaper's Brigandine.png\n  | description              = A suit of metal plates once worn by a mad fleshcrafter of Xoriat. It's said that there is a matching staff, and like that staff this armor will expand the wearer's ability to manipulate positive and negative energies.\n  | notes                    = You can remove the [[Power Drain]] penalty with a [[Sustaining Symbiont]].\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Magesteel",
+  "armor_type": "Brigandine",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Negative Energy Absorption +20%",
+      "tooltip": "Negative Energy Absorption +20%: This effect absorbs 20% of all negative damage the character would have taken, after all other protections have been penetrated.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Energy_Absorption",
+          "title": "Negative Energy Absorption",
+          "text": "Negative Energy Absorption +20%"
+        }
+      ]
+    },
+    {
+      "text": "Fleshmaker",
+      "tooltip": "Fleshmaker: Magical insight into the ways of the flesh allow the wearer of this item to receive more effect from healing spells cast on them. +20 Positive Healing Amplification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fleshmaker",
+          "title": "Fleshmaker",
+          "text": "Fleshmaker"
+        }
+      ]
+    },
+    {
+      "text": "Disintegration Guard",
+      "tooltip": "Disintegration Guard: This item has a store of dark, insidious power deep within. When the wearer of this item is successfully attacked in melee, this power occasionally lashes out violently at enemies and attempts to disintegrate them.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disintegration_Guard",
+          "title": "Disintegration Guard",
+          "text": "Disintegration Guard"
+        }
+      ]
+    },
+    {
+      "text": "Trace of Madness",
+      "tooltip": "Trace of Madness: You can almost hear faint, panicked voices when this item is close to you. Perhaps the latent power of this item's hint of madness could be brought out by some catalyst.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Trace_of_Madness",
+          "title": "Trace of Madness",
+          "text": "Trace of Madness"
+        }
+      ]
+    },
+    {
+      "text": "Power Drain",
+      "tooltip": "Power Drain: This item reserves some of your power in order to function. You lose 30 maximum spell points (or up to 60 if you are a Sorcerer or Favored Soul).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power_Drain",
+          "title": "Power Drain",
+          "text": "Power Drain"
+        }
+      ]
+    }
+  ]
+}

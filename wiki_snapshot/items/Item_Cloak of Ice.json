@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Cloak of Ice",
+  "page_id": 11394,
+  "revision_id": 629018,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:22:33.975970+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Cloak of Ice\n  | type                     = Cloak\n  | slot                     = Back\n  | minlevel                 = 13\n  | bind                     = {{Bind|BtC|BoE}}\n  | basevalue                = 5,220 pp\n  | weight                   = 0.10 lbs\n  | durability               = 140\n  | material                 = Leather\n  | hardness                 = 19\n  | quest                    = Ghosts of Perdition\n  | chest                    = end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Fire Shield|Cold}}\n* {{Augment|Yellow}}\n* {{Augment|Colorless}}\n  | description              = A dirty white cloak always covered in frost.\n  | pic                      = Cloak of Ice (shown).png\n  | picdesc                  = Cloak of Ice.png\n  | tips                     = Pre-U17: ML 11, {{Bind|no|exclusive=y|nocat=1}}, {{Clicky|Fire Shield (cold version)|7|3|nocat=1}}\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Fire Shield (Cold)",
+      "tooltip": "Fire Shield (Cold): When you are successfully attacked, there is a 10% chance that a Fire Shield (Cold) will be cast on you. If this effect activates while you have an active Fire Shield (Hot) from another item source, they will nullify each-other.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Shield_(Cold)",
+          "title": "Fire Shield (Cold)",
+          "text": "Fire Shield (Cold)"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "page_title": "Item:Legendary Diabolist's Robe",
+  "page_id": 91200,
+  "revision_id": 689635,
+  "revision_timestamp": "2026-06-21T17:07:41Z",
+  "fetched_at": "2026-08-17T21:42:02.511268+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Diabolist's Robe\n  | minlevel                 = 30\n  | type                     = Clothing\n  | feat                     = Cloth\n  | ac                       = +15\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | bind                     = {{Bind|BtA|BoA|exclusive=1}}\n  | durability               = 305\n  | material                 = Cloth\n  | hardness                 = 32\n  | basevalue                = 12,005 pp 5 gp\n  | weight                   = \n  | released                 = Update 50\n  | revamped                 = Update 64\n  | revamped2                = Update 80\n  | legendary                = \n  | end reward               = \n  | turn in                  = \n  | quest                    = The Chronoscope (Legendary)\n  | chest                    = end chest, or [[Legendary Crafting|Legendary version]] of {{Item|Epic Diabolist's Robe}}\n  | enhancements             = \n* {{Clicky|Summon Monster IX|20|5|5}}\n* {{Enhancement bonus|a|15}}\n* {{Stat|Intelligence|14}}\n* {{Stat|Charisma|14}}\n* {{Spell Focus|Conjuration|9}}\n* {{Spell Resistance|41}}\n* {{Named item sets|Legendary Deadly Diabolist}}\n* {{Augment|Blue}}\n* {{Augment|Colorless}}\n  | crafting                 = \n  | description              = This infernal robe is connected to the devils of Shavarath somehow, though the exact nature of the link is unclear. It can summon evil creatures to the wearer's aid, and facilitates the casting of conjuration-based magic.\n  | pic                      = Pall of Blood shown.jpg\n  | picdesc                  = Legendary Diabolist's Robe.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Clothing",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "Summon Monster IX — 5 Charges (Recharged/Day:5)",
+      "tooltip": "Summon Monster IXCaster level: 20Charges: 5 (5/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Summon_Monster_IX",
+          "title": "Summon Monster IX",
+          "text": "Summon Monster IX"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Intelligence +14",
+      "tooltip": "Intelligence +14: This item focuses the power of the wearer's mind, granting a +14 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +14"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +14",
+      "tooltip": "Charisma +14: This item makes the wearer have more flair, granting a +14 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +14"
+        }
+      ]
+    },
+    {
+      "text": "Conjuration Focus +9",
+      "tooltip": "Conjuration Focus +9: +9 Equipment bonus to the DC of Conjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Conjuration Focus +9"
+        }
+      ]
+    },
+    {
+      "text": "Spell Resistance +41",
+      "tooltip": "Spell Resistance +41: +41 Enhancement bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Spell Resistance +41"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Deadly Diabolist",
+      "tooltip": "Legendary Deadly Diabolist: 2 Pieces Equipped: Your Summons, Charmed Monsters, and Hirelings gain +12 to all Ability Scores.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Legendary_Deadly_Diabolist",
+          "title": "Named item sets",
+          "text": "Legendary Deadly Diabolist"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

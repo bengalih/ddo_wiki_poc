@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Ironweave Tunic",
+  "page_id": 8118,
+  "revision_id": 631594,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:25:00.748503+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Ironweave Tunic\n  | type                     = Chain Shirt\n  | feat                     = Light\n  | race                     = None\n  | ac                       = +8\n  | maxdexbonus              = 7\n  | acp                      = -1\n  | asf                      = 15%\n  | durability               = 100\n  | material                 = Mithral\n  | hardness                 = 15\n  | minlevel                 = 6\n  | quest                    = The Tear of Dhakaan\n  | chest                    = [[Champion Prantag]]'s chest\n  | basevalue                = 2410pp\n  | weight                   = 35 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{DR|3|Bludgeoning}}\n* {{Save|r|-2||1}}\n* {{Augment|Blue}}\n  | pic                      = Ironweave Tunic shown.jpg\n  | picdesc                  = Ironweave Tunic.png\n  | description              = This chain shirt is reinforced with a stiff extra layer of fine mesh. The added protection comes with a price; the shirt is a lot less flexible than a normal chain shirt.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Chain Shirt",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "DR 3/Bludgeoning",
+      "tooltip": "Damage Reduction 3/Bludgeoning: Reduces physical damage by 3, except from Bludgeoning attacks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Reflex Save -2",
+      "tooltip": "Reflex Save -2: This item gives a -2 penalty to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save -2"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

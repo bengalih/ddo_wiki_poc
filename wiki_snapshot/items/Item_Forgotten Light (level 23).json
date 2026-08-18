@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Forgotten Light (level 23)",
+  "page_id": 29394,
+  "revision_id": 649125,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:08:05.706632+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Forgotten Light}}\n  | sentience                = no\n  | damage                   = 1.50[1d8] + 6 Bludgeon, Good, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Heavy Mace\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | minlevel                 = 23\n  | reqtrait                 = Good\n  | UMD DC                   = 26\n  | damagemod                = STR, WIS\n  | attackmod                = STR, WIS\n  | durability               = 290\n  | material                 = Dwarven Iron\n  | hardness                 = 33\n  | quest                    = Rest Stop\n  | chest                    = End chest (Epic Normal), [[Netherese Legacy]] chain end reward\n  | end reward               = \n  | turn in                  = \n  | basevalue                = 9201.2pp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | enhancements             = \n* {{Enhancement bonus|i|6}}\n* {{Good|Greater}}\n* {{SpellPower|Devotion|108}}\n* {{SpellPower|Radiance|108}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Forgotten Light shown.jpg\n  | picdesc                  = Forgotten Light (Level 23).png\n  | description              = This ancient mace radiates a feeling of peace and safety.\n  | tips                     = Note the expanded threat range and possibility to use Wisdom for attack and damage rolls.\n}}\n<noinclude>[[Category:Netherese Legacy reward items]]</noinclude>",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Heavy Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +18",
+      "tooltip": "Spellcasting Implement +18: Passive: +18 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +18"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Greater Good",
+      "tooltip": "Greater Good: This weapon is infused with the ultimate power of Good. It does an additional 2 to 12 damage to non-good targets and can only be wielded by Good-aligned characters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Greater_Good",
+          "title": "Greater Good",
+          "text": "Greater Good"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +108",
+      "tooltip": "Devotion +108: Passive: +108 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +108"
+        }
+      ]
+    },
+    {
+      "text": "Radiance +108",
+      "tooltip": "Radiance +108: Passive: +108 Equipment bonus to Light and Alignment Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiance_(spell_boost)",
+          "title": "Radiance (spell boost)",
+          "text": "Radiance +108"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

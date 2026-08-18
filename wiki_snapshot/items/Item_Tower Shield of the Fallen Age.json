@@ -1,0 +1,108 @@
+{
+  "page_title": "Item:Tower Shield of the Fallen Age",
+  "page_id": 108622,
+  "revision_id": 635579,
+  "revision_timestamp": "2025-04-22T04:37:17Z",
+  "fetched_at": "2026-08-17T23:20:20.560440+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Tower Shield of the Fallen Age\n  | type                     = Tower\n  | prof                     = Tower\n  | race                     = \n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 13\n  | damagemod                = STR\n  | attmod                   = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +17\n  | maxdexbonus              = 2\n  | dr                       = 13\n  | acp                      = -9\n  | asf                      = 50\n  | dmg                      = 1.60[1d12] + 5\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 /x3\n  | durability               = 250\n  | material                 = Steel\n  | hardness                 = 38\n  | basevalue                = 5,604 pp\n  | weight                   = 50 lbs\n  | released                 = Update 69\n  | quest                    = Portal to Below\n  | chest                    = end chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|s|5}}\n* {{Incite|27|Insightful}}\n* {{Rough Hide|7}}\n* {{Hp|Profane Lifeforce|23}}\n* {{Conditioning|20|Legendary}}\n* {{Augment|Red}}\n  | description              = Wild magic has imbued entropy into this shield over the years.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Tower Shield of the Fallen Age shown.jpg\n  | picdesc                  = Tower Shield of the Fallen Age.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Tower Shield Proficiency",
+  "material": "Steel",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Incite +27",
+      "tooltip": "Insightful Incite +27: +27% Insight bonus to increased threat generation from melee damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incite",
+          "title": "Incite",
+          "text": "Insightful Incite +27"
+        }
+      ]
+    },
+    {
+      "text": "Rough Hide +7",
+      "tooltip": "Rough Hide +7: This item fuses with your body and toughens your skin, providing a +7 Primal bonus to your natural armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rough_Hide",
+          "title": "Rough Hide",
+          "text": "Rough Hide +7"
+        }
+      ]
+    },
+    {
+      "text": "Profane Lifeforce +23",
+      "tooltip": "Profane Lifeforce +23: +23 Profane bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hit_Point",
+          "title": "Hit Point",
+          "text": "Profane Lifeforce +23"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Conditioning +20%",
+      "tooltip": "Legendary Conditioning +20%: You have a +20% Legendary bonus to Maximum Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Conditioning",
+          "title": "Conditioning",
+          "text": "Legendary Conditioning +20%"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

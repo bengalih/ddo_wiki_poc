@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Belt of Myriad Pockets",
+  "page_id": 91834,
+  "revision_id": 628522,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:10:12.439214+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Belt of Myriad Pockets\n  | type                     = Belt\n  | slot                     = Waist\n  | class                    = Clothing\n  | minlevel                 = 3\n  | durability               = 130\n  | material                 = Steel\n  | hardness                 = 23\n  | basevalue                = 1201 pp\n  | weight                   = 0.10 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 50\n  | quest                    = Swim at Your Own Risk\n  | chest                    = end chest\n  | epic                     = no\n  | enhancements             = \n* {{Stat|Con|1|insightful}}\n* {{Protection|3}}\n* {{Augment|Blue}}\n* {{Named item sets|Saltmarsh Explorer}}\n  | description              = One wonders where the items go when placed in the pockets... But they're always there when you go to retrieve them.\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Belt of Myriad Pockets\n  | pic                      = \n  | picdesc                  = Belt of Myriad Pockets.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Insightful Constitution +1",
+      "tooltip": "Insightful Constitution +1: This item gives the wearer improved health, granting a +1 Insight bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Insightful Constitution +1"
+        }
+      ]
+    },
+    {
+      "text": "Protection +3",
+      "tooltip": "Protection +3: Passive: +3 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +3"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Saltmarsh Explorer",
+      "tooltip": "Saltmarsh Explorer: 5 Pieces Equipped:+5 Artifact bonus to PRR and MRR+1 Artifact bonus to all ability scores",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Saltmarsh_Explorer",
+          "title": "Named item sets",
+          "text": "Saltmarsh Explorer"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Belt Boost +1 or +3",
+      "tooltip": "Mythic Belt Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Belt Boost"
+        }
+      ]
+    }
+  ]
+}

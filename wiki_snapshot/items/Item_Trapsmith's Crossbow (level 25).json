@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Trapsmith's Crossbow (level 25)",
+  "page_id": 42246,
+  "revision_id": 666402,
+  "revision_timestamp": "2025-11-19T16:43:56Z",
+  "fetched_at": "2026-08-17T23:20:49.470256+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = [[Item:Trapsmith's Crossbow|Trapsmith's Crossbow]]\n  | sentience                = no\n  | damage                   = 2[1d10] + 0 Pierce\n  | crit                     = 17-20 / x2\n  | type                     = Repeating Heavy Crossbow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = DEX\n  | attackmod                = DEX\n  | prof                     = Exotic\n  | durability               = 340\n  | material                 = Steel\n  | hardness                 = 35\n  | minlevel                 = 25\n  | released                 = Update 19\n  | revamped                 = Update 76\n  | quest                    = Through a Mirror Darkly\n  | chest                    = End chest (Epic Normal);<br />[[Shadow Over Wheloon]], Quest chain end reward (Epic)\n  | basevalue                = 10,040 pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | enhancements             = \n* {{Poison|VII}}\n* {{Doubleshot|8}}\n* {{Keen|I}}\n  | description              = A special crossbow built to poison all bolts that pass through it.\n  | pic                      = Trapsmith's Crossbow shown.jpg\n  | picdesc                  = Trapsmith's_Crossbow_(Level_25).png\n  | tips                     = \n}}\n[[Category:Shadow Over Wheloon rewards]]",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Repeating Heavy Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "Poison VII",
+      "tooltip": "Poison VII: On Hit: 7 to 21 Poison Damage.On Critical Hit: 1d4 Strength, Dexterity, or Constitution Damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Poison_(enchantment)",
+          "title": "Poison (enchantment)",
+          "text": "Poison VII"
+        }
+      ]
+    },
+    {
+      "text": "Doubleshot 8%",
+      "tooltip": "Doubleshot 8%: Passive: 8% Enhancement bonus to Doubleshot. (Doubleshot is a chance to score an additional hit with a ranged attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doubleshot",
+          "title": "Doubleshot",
+          "text": "Doubleshot 8%"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

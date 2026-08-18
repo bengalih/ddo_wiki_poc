@@ -1,0 +1,92 @@
+{
+  "page_title": "Item:Nullcloth Gown",
+  "page_id": 5481,
+  "revision_id": 686650,
+  "revision_timestamp": "2026-05-27T17:23:07Z",
+  "fetched_at": "2026-08-17T22:33:09.331657+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Nullcloth Gown\n  | type                     = Robe\n  | feat                     = Cloth\n  | minlevel                 = 10\n  | ac                       = +0\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 75\n  | material                 = Cloth\n  | hardness                 = 9\n  | basevalue                = 4,905pp 5gp\n  | weight                   = 0 lbs\n  | quest                    = The Titan Awakes\n  | chest                    = Raid Warded chest\n  | collectable              = \n  | enhancements             = \n* {{Spell Resistance|20}}\n* {{Magical Null}}\n* {{Elemental Resistance|Cold|10}}\n* {{Elemental Resistance|Electric|10}}\n* {{Elemental Resistance|Fire|10}}\n  | crafting                 = <!-- none -->\n  | craftingupgrade          = <!-- none -->\n  | craftingnotes            = <!-- none -->\n  | pic                      = Nullcloth Gown shown.jpg\n  | picdesc                  = Nullcloth Gown.png\n  | description              = An unusual garment that wraps magical energy around it, offering the wearer a great deal of magical resistance. Unfortunately, it also hinders all spellcasting. Even Divine casters can have their spells fail while wearing this robe.\n  | notes                    = There is almost no situation where it's worth it to wear the Nullcloth Gown. In fact, even if it didn't impose a spell failure penalty, the benefits of energy resist 10 and SR 20 are barely attractive. Contrary to some mis-conceptions, the 15% spell failure applies only to spells cast by you, not enemy spells targeted at you.\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Spell Resistance +20",
+      "tooltip": "Spell Resistance +20: +20 Enhancement bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Spell Resistance +20"
+        }
+      ]
+    },
+    {
+      "text": "Magical Null",
+      "tooltip": "Magical Null: The nullcloth that this robe is made from absorbs spell energies making it difficult for all spell casters, even Divine casters, to complete their spells. +15% Spell Failure chance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magical_Null",
+          "title": "Magical Null",
+          "text": "Magical Null"
+        }
+      ]
+    },
+    {
+      "text": "Cold Resistance +10",
+      "tooltip": "Cold Resistance +10: Passive: +10 Enhancement bonus to your Cold Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Resistance",
+          "title": "Cold Resistance",
+          "text": "Cold Resistance +10"
+        }
+      ]
+    },
+    {
+      "text": "Electric Resistance +10",
+      "tooltip": "Electric Resistance +10: Passive: +10 Enhancement bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Electric Resistance +10"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +10",
+      "tooltip": "Fire Resistance +10: Passive: +10 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +10"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

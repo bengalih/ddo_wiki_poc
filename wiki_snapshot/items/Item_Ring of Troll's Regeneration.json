@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Ring of Troll's Regeneration",
+  "page_id": 10298,
+  "revision_id": 634270,
+  "revision_timestamp": "2025-04-22T03:10:32Z",
+  "fetched_at": "2026-08-17T22:45:56.663424+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Ring of Troll's Regeneration\n  | type                     = Ring\n  | slot                     = Finger\n  | quest                    = Redwillow's Ruins\n  | durability               = 60\n  | material                 = Steel\n  | hardness                 = 7\n  | basevalue                = 2,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 5\n  | bind                     = {{Bind|BtC|BoE}}\n  | chest                    = [[Harblimar]]'s Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Regeneration}}\n* {{Augment|Green}}\n  | description              = This ring grants a limited ability to regenerate health using positive energy.\n  | pic                      = Ring Generic Troll.png\n  | picdesc                  = Ring of Troll's Regeneration.png\n  | tips                     = This item also exists as part of [[Veteran Status II starter item|Veteran II Starter equipment]].\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Regeneration",
+      "tooltip": "Regeneration: Causes the wearer to regenerate 1 hit point a minute using positive energy.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Regeneration",
+          "title": "Regeneration",
+          "text": "Regeneration"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

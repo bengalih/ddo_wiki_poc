@@ -1,0 +1,147 @@
+{
+  "page_title": "Item:Cutthroat's Smallblade (legacy) (level 8)",
+  "page_id": 14968,
+  "revision_id": 672823,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:29:18.371384+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Cutthroat's Smallblade}}\n  | damage                   = [1d6] + 2 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Short Sword\n  | hand                     = One-handed\n  | class                    = Piercing\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Martial\n  | durability               = 105\n  | material                 = Steel\n  | hardness                 = 15\n  | minlevel                 = 8\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|copper|650}}{{CCi|silver|375}}{{CCi|obsidian|20}} at [[Dusty Old Treasure of Crystal Cove]]\n  | revamped                 = Update 76\n  | end reward               = \n  | basevalue                = 5,001 pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* [[Upgradeable - Tier 1]]\n* {{Enhancement_bonus|w|2}}\n* {{Doublestrike|3}}\n* {{Bleed}}\n* {{Skills|Hide|7}}\n* {{Skills|ms|7}}\n** [[Upgradeable - Tier 2]]\n*** {{Enhancement_bonus|w|2}} &rarr; {{Enhancement_bonus|w|3}}\n** [[Upgradeable - Tier 3]]\n*** Adds {{Slicing}}\n  | crafting                 = Treasure of Crystal Cove\n  | craftingupgrade          = \n  | description              = When a cutlass is simply too big for the job, a pirate will turn instead to a trusty smallblade. This one is serrated and quite adept at inflicting painful wounds on living creatures.\n  | pic                      = Cutthroat's Smallblade shown.jpg\n  | picdesc                  = Cutthroat's Smallblade (Level 8).png\n  | tips                     = See also: [[Item:Cutthroat's Smallblade|Cutthroat's Smallblade]] - Full table of the Cutthroat's Smallblade line\n* {{CCi|obsidian|45}}{{CCi|amber|30}}{{CCi|green|200}}: {{Popup|Tier 2|[[File:Cutthroat's Smallblade (level 8)(tier 2).png|450 px]]|long=y}}\n* {{CCi|obsidian|70}}{{CCi|amber|50}}{{CCi|green|400}}{{CCi|nimble|1}}: {{Popup|Tier 3|[[File:Cutthroat's Smallblade (level 8)(tier 3).png|450 px]]|long=y}}\n}}<noinclude>[[Category:Treasure of Crystal Cove legacy reward items]]</noinclude>",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Short Sword",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Doublestrike 3%",
+      "tooltip": "Doublestrike 3%: Passive: 3% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 3%"
+        }
+      ]
+    },
+    {
+      "text": "Bleed",
+      "tooltip": "Bleed: This weapon is cruelly sharp and will do an additional 1 to 8 damage to targets that are vulnerable to bleeding.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleed#Bleed",
+          "title": "Bleed",
+          "text": "Bleed"
+        }
+      ]
+    },
+    {
+      "text": "Hide +7",
+      "tooltip": "Hide +7: Passive: +7 Competence bonus to the Hide skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hide",
+          "title": "Hide",
+          "text": "Hide +7"
+        }
+      ]
+    },
+    {
+      "text": "Move Silently +7",
+      "tooltip": "Move Silently +7: Passive: +7 Competence bonus to the Move Silently skill.",
+      "children": [
+        {
+          "text": "Upgradeable - Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "+2 Enhancement Bonus → +3 Enhancement Bonus",
+              "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+2 Enhancement Bonus"
+                },
+                {
+                  "target": "/page/Enhancement_bonus",
+                  "title": "Enhancement bonus",
+                  "text": "+3 Enhancement Bonus"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_2",
+              "title": "Upgradeable - Tier 2",
+              "text": "Upgradeable - Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Upgradeable - Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Slicing",
+              "tooltip": "Slicing: This weapon is incredibly sharp and will do an additional 1 to 4 damage to targets that are vulnerable to bleeding.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Bleed#Slicing",
+                  "title": "Bleed",
+                  "text": "Slicing"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_3",
+              "title": "Upgradeable - Tier 3",
+              "text": "Upgradeable - Tier 3"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Move_Silently",
+          "title": "Move Silently",
+          "text": "Move Silently +7"
+        }
+      ]
+    }
+  ]
+}

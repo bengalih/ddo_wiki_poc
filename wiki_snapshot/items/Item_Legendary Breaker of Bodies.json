@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:Legendary Breaker of Bodies",
+  "page_id": 61184,
+  "revision_id": 631887,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:33:31.255529+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Legendary Breaker of Bodies\n  | type                     = Large\n  | prof                     = General\n  | race                     = \n  | reqtrait                 = <!-- Required Trait. Leave this comment if none.  -->\n  | UMD DC                   = <!-- Use Magic Device DC. Leave this comment if none.  -->\n  | minlevel                 = 28\n  | damagemod                = STR\n  | attmod                   = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = 20\n  | maxdexbonus              = \n  | dr                       = 16\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = 4.60[2d8] + 12\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 /x2\n  | durability               = 400\n  | material                 = Densewood\n  | hardness                 = 53\n  | basevalue                = 11,604 pp\n  | weight                   = 10 lbs\n  | quest                    = Assault on the Aerie of the Slave Lords\n  | released                 = Update 32\n  | chest                    = End chest\n  | end reward               = <!-- At least 1 of these 3 should be filled in. Leave other 2 alone. -->\n  | turn in                  = <!-- At least 1 of these 3 should be filled in. Leave other 2 alone. -->\n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|s|12}}\n* {{Shield Bashing|%=20}}\n* {{Maiming|6}}\n* {{Bashing|6}}\n* {{Riposte|6}}\n* {{CraftingEffects|Against the Slave Lords Set Bonus}}\n* {{Augment|Purple}}\n  | description              = When they get out of line, break their bones.\n  | crafting                 = Slave Lords Crafting\n  | craftingupgrade          = \n  | pic                      = Breaker of Bodies shown.jpg\n  | picdesc                  = Legendary Breaker of Bodies.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Densewood",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+12 Enhancement Bonus",
+      "tooltip": "+12 Enhancement Bonus: +12 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+12 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Shield Bashing +20%",
+      "tooltip": "Shield Bashing +20%: +20% Enhancement bonus to your chance of a Secondary Shield Bash. This stacks with bonuses granted by any relevant feats.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bashing",
+          "title": "Shield Bashing",
+          "text": "Shield Bashing +20%"
+        }
+      ]
+    },
+    {
+      "text": "Maiming 6",
+      "tooltip": "Maiming: This weapon has a twisted haft or grip and spikes along its blade, head, or point. When you score a critical hit with this weapon, it does an additional +6d8 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maiming",
+          "title": "Maiming",
+          "text": "Maiming 6"
+        }
+      ]
+    },
+    {
+      "text": "Bashing 6",
+      "tooltip": "Bashing 6: This shield is exceptionally durable and dense, and does an additional 6d6 damage when used to shield bash.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bashing",
+          "title": "Bashing",
+          "text": "Bashing 6"
+        }
+      ]
+    },
+    {
+      "text": "Riposte +6",
+      "tooltip": "Riposte +6: This item enchants its user with incredible awareness and speed, granting a +6 Insight bonus to AC and to Saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Riposte",
+          "title": "Riposte",
+          "text": "Riposte +6"
+        }
+      ]
+    },
+    {
+      "text": "Against the Slave Lords Set Bonus",
+      "tooltip": "Against the Slave Lords Set Bonus: An Against the Slave Lords Set Bonus can be applied to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slave_Lords_Crafting",
+          "title": "Slave Lords Crafting",
+          "text": "Against the Slave Lords Set Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

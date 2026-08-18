@@ -1,0 +1,240 @@
+{
+  "page_title": "Item:Hide of the Goristro",
+  "page_id": 24322,
+  "revision_id": 693923,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:21:28.285380+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Hide of the Goristro\n  | type                     = Leather\n  | feat                     = Light\n  | minlevel                 = 22\n  | bind                     = {{Bind|BtC|BoE}}\n  | ac                       = +14\n  | maxdexbonus              = 14\n  | acp                      = \n  | asf                      = 10%\n  | durability               = 284\n  | material                 = Spiritcraft Leather\n  | hardness                 = 30\n  | basevalue                = 8,801pp\n  | weight                   = 15 lbs\n  | quest                    = Trial by Fury\n  | chest                    = [[Grulemith]]'s and hidden chest\n  | end reward               = \n  | turn in                  = \n  | enhancements             = \n* {{Enhancement bonus|a|6}}\n* One of the following ability bonuses:\n** {{Stat|STR|8}}\n** {{Stat|STR|3|Insightful}}\n** {{Stat|DEX|8}}\n** {{Stat|DEX|3|Insightful}}\n** {{Stat|CON|8}}\n** {{Stat|CON|3|Insightful}}\n* {{Hp|Vitality|20}}\n* {{Rough Hide|3}}\n* {{Alacrity|Melee|10}}\n* One of the following tactics bonuses:\n** {{Shatter|10}}\n** {{Stunning|10}}\n** {{Vertigo|10}}\n** [[Tendon Slice|Tendon Slice +10]]\n* Upgrade:\n** 375 [[Purple Dragon Knights]] favor and 15 [[Commendation: Druids of the King's Forest]] adds {{Named item sets|Woodsman's Guile}}\n  | crafting                 = Catalyst Crafting\n  | craftingupgrade          = Baphomet's Brutality¦Legendary Baphomet's Brutality\n  | pic                      = Hide of the Goristro shown.jpg\n  | picdesc                  = Hide of the Goristro.png\n  | description              = This thick demon hide armor offers both powerful protection and a repulsive stench.\n  | notes                    = Can be made part of the {{Named item sets|Woodsman's Guile}} set with 375 [[Purple Dragon Knights]] favor and 15 [[Commendation: Druids of the King's Forest]] by talking to [[Mikrom Sum]].\n* Upgrading item does not change binding status; so an unbound version will remain trade-able.\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Spiritcraft Leather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 22,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "One of the following ability bonuses:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "Strength +8",
+          "tooltip": "Strength +8: This item gives the wearer the power of Ogre Strength, granting a +8 Enhancement bonus to Strength.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Strength",
+              "title": "Strength",
+              "text": "Strength +8"
+            }
+          ]
+        },
+        {
+          "text": "Insightful Strength +3",
+          "tooltip": "Insightful Strength +3: This item gives the wearer the power of Ogre Strength, granting a +3 Insight bonus to Strength.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Strength",
+              "title": "Strength",
+              "text": "Insightful Strength +3"
+            }
+          ]
+        },
+        {
+          "text": "Dexterity +8",
+          "tooltip": "Dexterity +8: This item makes the wearer more nimble and dexterous, granting a +8 Enhancement bonus to Dexterity.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Dexterity",
+              "title": "Dexterity",
+              "text": "Dexterity +8"
+            }
+          ]
+        },
+        {
+          "text": "Insightful Dexterity +3",
+          "tooltip": "Insightful Dexterity +3: This item makes the wearer more nimble and dexterous, granting a +3 Insight bonus to Dexterity.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Dexterity",
+              "title": "Dexterity",
+              "text": "Insightful Dexterity +3"
+            }
+          ]
+        },
+        {
+          "text": "Constitution +8",
+          "tooltip": "Constitution +8: This item gives the wearer improved health, granting a +8 Enhancement bonus to Constitution.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Constitution",
+              "title": "Constitution",
+              "text": "Constitution +8"
+            }
+          ]
+        },
+        {
+          "text": "Insightful Constitution +3",
+          "tooltip": "Insightful Constitution +3: This item gives the wearer improved health, granting a +3 Insight bonus to Constitution.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Constitution",
+              "title": "Constitution",
+              "text": "Insightful Constitution +3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Vitality +20",
+      "tooltip": "Vitality +20: Passive: +20 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +20"
+        }
+      ]
+    },
+    {
+      "text": "Rough Hide +3",
+      "tooltip": "Rough Hide +3: This item fuses with your body and toughens your skin, providing a +3 Primal bonus to your natural armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rough_Hide",
+          "title": "Rough Hide",
+          "text": "Rough Hide +3"
+        }
+      ]
+    },
+    {
+      "text": "Melee Alacrity 10%",
+      "tooltip": "Melee Alacrity 10%: Gain 10% Enhancement bonus to Melee attack speed. Does not stack with the Haste spell.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Melee_Alacrity",
+          "title": "Melee Alacrity",
+          "text": "Melee Alacrity 10%"
+        }
+      ]
+    },
+    {
+      "text": "One of the following tactics bonuses:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "Shatter +10",
+          "tooltip": "Shatter +10: This effect gives a +10 Enhancement bonus to the DC to resist the character's Sunder and Improved Sunder attempts.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Shatter",
+              "title": "Shatter",
+              "text": "Shatter +10"
+            }
+          ]
+        },
+        {
+          "text": "Stunning +10",
+          "tooltip": "Stunning +10: +10 Enhancement bonus to the DC of character's Stunning Blow and Stunning Fist attempts.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Stunning",
+              "title": "Stunning",
+              "text": "Stunning +10"
+            }
+          ]
+        },
+        {
+          "text": "Vertigo +10",
+          "tooltip": "Vertigo +10: This effect gives a +10 Enhancement bonus to the DC to resist the character's Trip and Improved Trip attempts.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Vertigo_(enchantment)",
+              "title": "Vertigo (enchantment)",
+              "text": "Vertigo +10"
+            }
+          ]
+        },
+        {
+          "text": "Tendon Slice +10",
+          "tooltip": null,
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Tendon_Slice",
+              "title": "Tendon Slice",
+              "text": "Tendon Slice +10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Upgrade:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "375 Purple Dragon Knights favor and 15 Commendation: Druids of the King's Forest adds Woodsman's Guile",
+          "tooltip": "Woodsman's Guile: When all three items from the set are equipped, you will gain a +4 bonus to your To-Hit and +6 bonus to your Damage on any attack that would be considered a Sneak Attack.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Purple_Dragon_Knights",
+              "title": "Purple Dragon Knights",
+              "text": "Purple Dragon Knights"
+            },
+            {
+              "target": "/page/Commendation:_Druids_of_the_King%27s_Forest",
+              "title": "Commendation: Druids of the King's Forest",
+              "text": "Commendation: Druids of the King's Forest"
+            },
+            {
+              "target": "/page/Named_item_sets#Woodsman's_Guile",
+              "title": "Named item sets",
+              "text": "Woodsman's Guile"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

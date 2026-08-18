@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Calitomes' Ring",
+  "page_id": 10201,
+  "revision_id": 628847,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:18:14.210548+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Calitomes' Ring\n  | minlevel                 = 18\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | durability               = 120\n  | material                 = Gold\n  | hardness                 = 12\n  | basevalue                = 10,020 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Tower of Despair\n  | chest                    = right side end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CHA|6}}\n* {{Stat|DEX|1|Exceptional}}\n* {{Named item sets|Air Savant}}\n* {{CraftingEffects|Incredible Potential}}\n  | crafting                 = Incredible Potential\n  | craftingupgrade          = <!-- -->\n  | description              = The talented Air Savant, Calitomes, wore this engraved silver ring. She could whisper to thunderstorms and bend them to her will.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Calitomes' Ring.png\n  | tips                     = ''The set bonuses of % chance to Spell Critical and Critical Damage Multiplier for the Sorcerer prestige sets do '''not''' stack with [[Lore]] bonuses, but that they are two separate bonuses (eg. One could use an item with Greater Lightning Lore for +9% Chance to Critical, and the set bonus effect for +0.50 Critical Damage Multiplier, effectively having Major Lightning Lore.)<br />\n\n'''Note:'''<br />\nMax Caster Level is not the same thing as [[Spell Augmentation]]. One increases the potential maximum level, the other increases the actual level. So this increase will only affect spells for which your character already has capped.\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Charisma +6",
+      "tooltip": "Charisma +6: This item makes the wearer have more flair, granting a +6 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +6"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Dexterity +1",
+      "tooltip": "Exceptional Dexterity +1: This item makes the wearer more nimble and dexterous, granting a +1 Exceptional bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Exceptional Dexterity +1"
+        }
+      ]
+    },
+    {
+      "text": "Air Savant",
+      "tooltip": "Air Savant: This item is one of the two pieces of the Air Savant set. When both items are equipped, you gain a +2% Artifact bonus to your Electric Spell Critical Chance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Air_Savant",
+          "title": "Named item sets",
+          "text": "Air Savant"
+        }
+      ]
+    },
+    {
+      "text": "Incredible Potential",
+      "tooltip": "Incredible Potential: Incredible Potential: This ring's power has not been fully unleashed. When this ring is combined with 9 Shavarath War Trophies and ac Imbued Shard of Great Power in an Altar of Subjugation, its full potential will be reveled.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incredible_Potential",
+          "title": "Incredible Potential",
+          "text": "Incredible Potential"
+        }
+      ]
+    }
+  ]
+}

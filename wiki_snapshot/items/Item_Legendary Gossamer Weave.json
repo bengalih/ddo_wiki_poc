@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Legendary Gossamer Weave",
+  "page_id": 76891,
+  "revision_id": 689061,
+  "revision_timestamp": "2026-06-18T17:02:43Z",
+  "fetched_at": "2026-08-17T21:50:40.299573+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Legendary Gossamer Weave\n  | type                     = Cloak\n  | basevalue                = 11,601 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Back\n  | durability               = 390\n  | material                 = Cloth\n  | hardness                 = 49\n  | minlevel                 = 29\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 43\n  | revamped                 = Update 80\n  | quest                    = The Offshore Account\n  | end reward               = \n  | chest                    = End Chest\n  | enhancements             = \n* {{Spell Focus|Enchantment|7}}\n* {{Spell Focus|Illusion|7}}\n* {{Spell Resistance|38}}\n* {{Spellpen|8}}\n* {{Augment|Blue}}\n* {{Named item sets|Legendary Feywild Dreamer}}\n  | crafting                 = \n  | description              = Woven from magic itself.\n  | pic                      = Legendary_Gossamer_Weave_Shown.png\n  | picdesc                  = Legendary_Gossamer_Weave.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Enchantment Focus +7",
+      "tooltip": "Enchantment Focus +7: +7 Equipment bonus to the DC of Enchantment spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Enchantment Focus +7"
+        }
+      ]
+    },
+    {
+      "text": "Illusion Focus +7",
+      "tooltip": "Illusion Focus +7: +7 Equipment bonus to the DC of Illusion spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Illusion Focus +7"
+        }
+      ]
+    },
+    {
+      "text": "Spell Resistance +38",
+      "tooltip": "Spell Resistance +38: +38 Enhancement bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Spell Resistance +38"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration +8",
+      "tooltip": "Spell Penetration +8: Passive: +8 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration +8"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Feywild Dreamer",
+      "tooltip": "Legendary Feywild Dreamer: 3 Pieces Equipped: +30 Artifact bonus to Sonic, Force, Light/Alignment, and Acid Spell Power+6% Artifact bonus to Sonic, Force, Light/Alignment, and Acid Spell Critical Chance+3 Artifact bonus to Charisma+3 Artifact bonus to Spell DCs",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Legendary_Feywild_Dreamer",
+          "title": "Named item sets",
+          "text": "Legendary Feywild Dreamer"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

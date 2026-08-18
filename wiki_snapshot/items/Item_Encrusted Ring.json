@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Encrusted Ring",
+  "page_id": 10206,
+  "revision_id": 629790,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:43:24.446338+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Encrusted Ring\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 120\n  | material                 = Gold\n  | hardness                 = 12\n  | basevalue                = 10,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | quest                    = Tower of Despair\n  | chest                    = right side end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|STR|6}}\n* {{Stat|STR|1|Exceptional}}\n* {{Named item sets|Frenzied Berserker}}\n* {{CraftingEffects|Incredible Potential}}\n  | crafting                 = Incredible Potential\n  | craftingupgrade          = <!-- see incredible potential for list -->\n  | description              = This crude ring was stained red by the exploits of its previous bearer, Knost, an infamous Frenzied Berserker lost to Shavarath years ago.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Encrusted Ring.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Strength +6",
+      "tooltip": "Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +6"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Strength +1",
+      "tooltip": "Exceptional Strength +1: This item gives the wearer the power of Ogre Strength, granting a +1 Exceptional bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Exceptional Strength +1"
+        }
+      ]
+    },
+    {
+      "text": "Frenzied Berserker",
+      "tooltip": "Frenzied Berserker: An additional rage after resting, addition 2 points of damage per swing. If Frenzied Berserker III enhancement: +2 Strength and Constitution (Stacking)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Frenzied_Berserker",
+          "title": "Named item sets",
+          "text": "Frenzied Berserker"
+        }
+      ]
+    },
+    {
+      "text": "Incredible Potential",
+      "tooltip": "Incredible Potential: Incredible Potential: This ring's power has not been fully unleashed. When this ring is combined with 9 Shavarath War Trophies and ac Imbued Shard of Great Power in an Altar of Subjugation, its full potential will be reveled.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incredible_Potential",
+          "title": "Incredible Potential",
+          "text": "Incredible Potential"
+        }
+      ]
+    }
+  ]
+}

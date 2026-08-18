@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Green Steel Throwing Axe",
+  "page_id": 25632,
+  "revision_id": 667583,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:16:58.091365+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Green Steel Throwing Axe\n  | damage                   = 1.50[1d6] + 5 Slash, Evil, Magic\n  | crit                     = 20 / x3\n  | type                     = Throwing Axe\n  | hand                     = Thrown\n  | class                    = Thrown\n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 12\n  | prof                     = Martial\n  | durability               = 80\n  | material                 = Steel\n  | hardness                 = 25\n  | revamped                 = Update 76\n  | quest                    = Altar of Fecundity\n  | chest                    = [[Altar of Fecundity - Manufactured Ingredient Recipes|Manufactured Ingredient Recipes]]\n  | basevalue                = 5400.6pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|5}}\n* {{CraftingEffects|Green Steel}}\n* {{Returning|100}}\n  | crafting                 = Green Steel\n  | craftingupgrade          = <!-- yep -->\n  | description              = A small, light axe design for throwing.\n  | pic                      = Green Steel Throwing Axe shown.jpg\n  | picdesc                  = Green Steel Throwing Axe.png\n  | tips                     = \n'''+5 Green Steel Throwing Axe'''\n{{Greensteel material|oot|rt|wo|ss|l}}\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Throwing Axe",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Green Steel",
+      "tooltip": "Green Steel: This planar alloy has a greasy green-colored sheen and is favored by the Baatezu the devils of Shavarath. Green steel weapons leave terrible wounds, increasing the damage die type of the weapon and are treated as evil-aligned for the purpose of bypassing damage reduction.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Green_Steel",
+          "title": "Green Steel",
+          "text": "Green Steel"
+        }
+      ]
+    },
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Armor of Moonlight",
+  "page_id": 108725,
+  "revision_id": 685026,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:05:13.288421+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Armor of Moonlight\n  | minlevel                 = 13\n  | type                     = Light Armor\n  | feat                     = Light\n  | ac                       = +14\n  | maxdexbonus              = 6\n  | acp                      = \n  | asf                      = 10%\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 202\n  | material                 = Leather\n  | hardness                 = 21\n  | basevalue                = 5,250 pp\n  | weight                   = 15 lbs\n  | released                 = Update 69\n  | quest                    = The Zulkir's Plan\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Accuracy|11}}\n* {{Deadly|6}}\n* {{Save|Reflex|3|Insightful}}\n* {{SpellPower|Potency|13|Quality}}\n* {{Augment|Blue}}\n* {{Augment|Sun}}\n  | crafting                 = \n  | description              = Moonlight brings guidance <!--to ?--> those who walk in the dark.\n  | pic                      = Armor of Moonlight shown.jpg\n  | picdesc                  = Armor of Moonlight.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Light Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Accuracy +11",
+      "tooltip": "Accuracy +11: Passive: +11 Competence bonus to attack rolls",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accuracy",
+          "title": "Accuracy",
+          "text": "Accuracy +11"
+        }
+      ]
+    },
+    {
+      "text": "Deadly +6",
+      "tooltip": "Deadly +6: +6 Competence bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Deadly +6"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Reflex Save +3",
+      "tooltip": "Insightful Reflex Save +3: This item gives a +3 Insight bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Insightful Reflex Save +3"
+        }
+      ]
+    },
+    {
+      "text": "Quality Potency +13",
+      "tooltip": "Quality Potency +13: Passive: +13 Quality bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Quality Potency +13"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

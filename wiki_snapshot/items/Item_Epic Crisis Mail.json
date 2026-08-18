@@ -1,0 +1,128 @@
+{
+  "page_title": "Item:Epic Crisis Mail",
+  "page_id": 113797,
+  "revision_id": 685166,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:46:37.694033+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Epic Crisis Mail\n  | minlevel                 = 27\n  | type                     = Light Armor\n  | feat                     = Light\n  | ac                       = +34\n  | maxdexbonus              = 20\n  | acp                      = \n  | asf                      = 10%\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 422\n  | material                 = Leather\n  | hardness                 = 35\n  | basevalue                = 10,850 pp\n  | weight                   = 15 lbs\n  | released                 = Update 73\n  | quest                    = Dinosaur Crisis\n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{NaturalArmor|12}}\n* {{Fortification|33|Quality}}\n* {{Save|Fortitude|5|Insightful}}\n* {{Hp|Vitality|41}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n* {{Augment|Sun}}\n  | crafting                 = \n  | description              = \n  | pic                      = Crisis Mail shown.jpg\n  | picdesc                  = Epic Crisis Mail.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Light Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Natural Armor +12",
+      "tooltip": "Natural Armor +12: Passive: +12 Natural Armor Bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Natural_armor_bonus",
+          "title": "Natural armor bonus",
+          "text": "Natural Armor +12"
+        }
+      ]
+    },
+    {
+      "text": "Quality Fortification +33%",
+      "tooltip": "Quality Fortification +33%: +33% Quality bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Quality Fortification +33%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Fortitude Save +5",
+      "tooltip": "Insightful Fortitude Save +5: This item gives a +5 Insight bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Insightful Fortitude Save +5"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +41",
+      "tooltip": "Vitality +41: Passive: +41 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +41"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

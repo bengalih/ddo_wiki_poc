@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Robe of Sunlight",
+  "page_id": 108732,
+  "revision_id": 685521,
+  "revision_timestamp": "2026-05-06T13:19:52Z",
+  "fetched_at": "2026-08-17T22:47:58.237337+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Robe of Sunlight\n  | minlevel                 = 13\n  | type                     = Clothing\n  | feat                     = Cloth\n  | ac                       = +5\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 135\n  | material                 = Cloth\n  | hardness                 = 15\n  | basevalue                = 5,250 pp\n  | weight                   = 0 lbs\n  | released                 = Update 69\n  | quest                    = The Safehold\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Sheltering|17|Enhancement|Magical}}\n* {{Save|Spell|6}}\n* {{SpellPower|Potency|13|Quality}}\n* {{Skills|Spellcraft|15}}\n* {{Augment|Blue}}\n* {{Augment|Sun}}\n  | crafting                 = \n  | description              = The sun's rays embolden those who seek it.\n  | pic                      = Robe of Sunlight shown.jpg\n  | picdesc                  = Robe of Sunlight.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Clothing",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Magical Sheltering +17",
+      "tooltip": "Magical Sheltering +17: +17 Enhancement bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Magical Sheltering +17"
+        }
+      ]
+    },
+    {
+      "text": "Spell Save +6",
+      "tooltip": "Spell Save +6: This item gives a +6 Resistance bonus to your saves versus spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Saving_throw",
+          "title": "Saving throw",
+          "text": "Spell Save +6"
+        }
+      ]
+    },
+    {
+      "text": "Quality Potency +13",
+      "tooltip": "Quality Potency +13: Passive: +13 Quality bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Quality Potency +13"
+        }
+      ]
+    },
+    {
+      "text": "Spellcraft +15",
+      "tooltip": "Spellcraft +15: Passive: +15 Competence bonus to the Spellcraft skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcraft",
+          "title": "Spellcraft",
+          "text": "Spellcraft +15"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

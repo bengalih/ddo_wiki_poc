@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Melt Wood Staff",
+  "page_id": 4784,
+  "revision_id": 633476,
+  "revision_timestamp": "2025-04-22T02:16:08Z",
+  "fetched_at": "2026-08-17T22:24:17.053972+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Melt Wood Staff\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = [1d6] + 2 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 100\n  | material                 = Wood\n  | hardness                 = 12\n  | basevalue                = 800pp 1cp\n  | weight                   = 4 lbs\n  | quest                    = The Lost Seekers\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Clicky|Melf's Acid Arrow|3|3|1}}\n* {{Augment|red}}\n  | description              = The hollowed out gem embedded in this staff houses a small reservoir of acid, which refills very slowly. It was the favorite weapon of a notable Gnashtooth Kobold Shaman.\n  | pic                      = Melt Wood Staff shown.jpg\n  | picdesc                  = Melt Wood Staff.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Melf's Acid Arrow — 3 Charges (Recharged/Day:1)",
+      "tooltip": "Melf's Acid ArrowCaster level: 3Charges: 3 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Melf%27s_Acid_Arrow",
+          "title": "Melf's Acid Arrow",
+          "text": "Melf's Acid Arrow"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

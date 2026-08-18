@@ -1,0 +1,66 @@
+{
+  "page_title": "Item:Axe of the Scarlet Warrior",
+  "page_id": 15705,
+  "revision_id": 628397,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:07:07.108804+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Axe of the Scarlet Warrior\n  | damage                   = 3.50[1d12] + 5 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Great Axe\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Martial\n  | durability               = 180\n  | material                 = Steel\n  | hardness                 = 18\n  | minlevel                 = 0\n  | quest                    = The Shroud\n  | chest                    = Part 1\n  | basevalue                = 12,802pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|no|drops=both}} (Part 1)\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Stat|STR|6}}\n* {{Vorpal}}\n* {{Maiming}}\n  | pic                      = Axe of the Scarlet Warrior shown.jpg\n  | picdesc                  = Axe of the Scarlet Warrior.png\n  | description              = This greataxe was taken from the body of the Scarlet Warrior.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Strength +6",
+      "tooltip": "Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +6"
+        }
+      ]
+    },
+    {
+      "text": "Vorpal",
+      "tooltip": "Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 1000 Hit Points, they are instantly slain. If your target has above 1000 Hit Points, they take 100 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Vorpal",
+          "title": "Vorpal",
+          "text": "Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Maiming",
+      "tooltip": "Maiming: This weapon has a twisted haft or grip and spikes along its blade, head, or point. Whenever you score a critical hit with this weapon it deals an amount of extra untyped damage depending on its critical multiplier: x2 - 1 to 6, x3 - 2 to 12, x4 - 3 to 18.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maiming",
+          "title": "Maiming",
+          "text": "Maiming"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Helm of the White Dragon (level 12)",
+  "page_id": 35072,
+  "revision_id": 649239,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:21:04.889700+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Helm of the White Dragon}}\n  | type                     = Helm\n  | class                    = Clothing\n  | slot                     = Head\n  | durability               = 130\n  | material                 = White Dragonscale\n  | hardness                 = 22\n  | basevalue                = 4,820pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 12\n  | bind                     = {{Bind|BtC|BoE}}\n  | released                 = Update 17\n  | quest                    = Gianthold Tor\n  | chest                    = [[Grundaussir|White Dragon]]'s chest (Heroic Normal)\n  | end reward               = \n  | enhancements             = \n* {{Stat|STR|5}}\n* {{Augment|Colorless}}\n  | description              = This helm is crafted in the likeness of a ferocious white dragon.\n  | pic                      = Helm of the White Dragon shown.jpg\n  | picdesc                  = Helm of the White Dragon (Level 12).png\n}}",
+  "item_template": "Named item",
+  "material": "White Dragonscale",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Strength +5",
+      "tooltip": "Strength +5: This item gives the wearer the power of Ogre Strength, granting a +5 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +5"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Head Boost +1 or +3",
+      "tooltip": "Mythic Head Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Head Boost"
+        }
+      ]
+    }
+  ]
+}

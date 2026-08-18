@@ -1,0 +1,50 @@
+{
+  "page_title": "Item:Splintered Winter's Wrath",
+  "page_id": 11866,
+  "revision_id": 634999,
+  "revision_timestamp": "2025-04-22T03:58:37Z",
+  "fetched_at": "2026-08-17T23:04:34.588838+00:00",
+  "categories": [],
+  "wikitext": "{{History|item}}\n{{Named item|Eternal wand\n  | name                     = Splintered Winter's Wrath\n  | umd                      = 25\n  | noumd                    = Wiz, Sor, Brd\n  | minlevel                 = 5\n  | bind                     = {{Bind|BtA|BoE|1}}\n  | durability               = 25\n  | material                 = Wood\n  | hardness                 = 10\n  | weight                   = 0.10 lbs\n  | cost                     = 2,000 pp\n  | quest                    = The Tide Turns\n  | chest                    = End chest\n  | released                 = Update 4\n  | description              = A thin rod of blackened wood containing charges of the Snowball Swarm spell. Eternal wands recharge over time if they are not actively being used. It appears that at some point a very large mage sat on this wand, leaving an unpleasant looking crack along the grip.\n  | notes                    = \n  | icon                     = Spell snowballswarm.png‎\n  | spell                    = Snowball Swarm\n  | casterlvl                = 3\n  | charge                   = 5\n  | enhancements             = \n* {{Clicky|Snowball Swarm|3|5|5}}\n* {{SpellPower|Glaciation|30}}\n* {{CraftingEffects|Unraveling Enchantments}}\n  | mythic                   = no\n  | crafting                 = Unraveling Enchantments\n  | craftingupgrade          = Winter's Wrath\n  | picdesc                  = Splintered Winter's Wrath.png\n}}",
+  "item_template": "History",
+  "material": "Wood",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Snowball Swarm — 5 Charges (Recharged/Day:5)",
+      "tooltip": "Snowball SwarmCaster level: 3Charges: 5 (5/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Snowball_Swarm",
+          "title": "Snowball Swarm",
+          "text": "Snowball Swarm"
+        }
+      ]
+    },
+    {
+      "text": "Glaciation +30",
+      "tooltip": "Glaciation +30: Passive: +30 Equipment bonus to Cold Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Glaciation",
+          "title": "Glaciation",
+          "text": "Glaciation +30"
+        }
+      ]
+    },
+    {
+      "text": "Unraveling Enchantments",
+      "tooltip": "Unraveling Enchantments: The enchantments on this item have become unstable and weakened with time, but those serving House Deneith may be able to restore it. Combine this item in Visbane's Folly atop Sentinel's Tower in House Deneith Enclave with a Sigil of the Goat, a Sigil of the Lion, and a Sigil of the Dragon to restore its original enchantments.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Unraveling_Enchantments",
+          "title": "Unraveling Enchantments",
+          "text": "Unraveling Enchantments"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Wraps of Endless Light (level 24)",
+  "page_id": 27398,
+  "revision_id": 672430,
+  "revision_timestamp": "2026-01-25T17:34:11Z",
+  "fetched_at": "2026-08-17T23:27:48.574438+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | sentience                = no\n  | name                     = [[Wraps of Endless Light]]\n  | damage                   = 3.80[1d6] + 7 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Handwrap\n  | hand                     = Simple\n  | class                    = Bludgeoning\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Exotic\n  | minlevel                 = 24\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 360\n  | material                 = Cloth\n  | hardness                 = 37\n  | basevalue                = 9,603pp\n  | weight                   = 0.50 lbs\n  | quest                    = The Night Revels\n  | chest                    = \n  | turn in                  = various ingredients to [[Joe Candymaker]]\n  | end reward               = \n  | revamped                 = Update 76\n  | enhancements             = \n* {{Enhancement bonus|w|7}}\n* {{Bane|Undead|greater}}\n* {{Coruscating}}\n* {{Light Bringer}}\n* {{Sunburst|Greater}}\n  | mythic                   = no\n  | crafting                 = The Night Revels\n  | craftingupgrade          = Wraps of Endless Light (level 28)\n  | pic                      = Handwraps Generic.png\n  | picdesc                  = Wraps of Endless Light (level 24).png\n  | description              = These silken wraps blaze with an aura of light.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Handwrap",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Greater Undead Bane",
+      "tooltip": "Greater Undead Bane: A bane weapon excels at attacking one type or subtype of creature. Against Undeads, this weapon's effective enhancement bonus is +4 better than its normal enhancement bonus. It deals an extra 3 to 18 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Greater Undead Bane"
+        }
+      ]
+    },
+    {
+      "text": "Coruscating",
+      "tooltip": "Coruscating: This weapon shines with an inner light. A coruscating weapon deals an extra 2 to 12 points of light damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Coruscating",
+          "title": "Coruscating",
+          "text": "Coruscating"
+        }
+      ]
+    },
+    {
+      "text": "Light Bringer",
+      "tooltip": "Light Bringer: On Vorpal Hit: If an undead struck by this weapon has fewer than 1000 Hit Points, it is instantly slain. If the undead has above 1000 hit points, it takes 100 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Light_Bringer",
+          "title": "Light Bringer",
+          "text": "Light Bringer"
+        }
+      ]
+    },
+    {
+      "text": "Greater Sunburst",
+      "tooltip": "Greater Sunburst: This item blazes with the eternal fury at the heart of a sun. Occasionally, this power comes to the surface, unleashing a nova of light which will blind the struck enemy, dealing severe light damage to it and any other nearby foes.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sun_Burst#Greater_Sunburst",
+          "title": "Sun Burst",
+          "text": "Greater Sunburst"
+        }
+      ]
+    }
+  ]
+}

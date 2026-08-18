@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Cloak of Summer's End (level 16)",
+  "page_id": 123465,
+  "revision_id": 685068,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:22:58.836015+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Cloak of Summer's End\n  | type                     = Cloak\n  | cost                     = 6401 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Back\n  | durability               = 260\n  | material                 = Cloth\n  | hardness                 = 36\n  | minlevel                 = 16\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 78\n  | quest                    = Timeline Fragment Exchange\n  | turn in                  = 50 Timeline Fragments\n  | enhancements             = \n* {{Absorption|Light|17}}\n* {{Doubleshot|5}}\n* {{Stat|CON|8}}\n* {{Stat|CON|3|Insightful}}\n* {{Augment|Blue}}\n* {{Augment|Sun}}\n  | mythic                   = no\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = {{Cyan|Time-Twisted}} version of {{Orange|Cloak of Summer}}\n\nEven eternal summer must end someday. This cloak manifested on the day the Summer Court surrendered to eternal winter. \n  | pic                      = Cloak of Summer's End shown.jpg\n  | picdesc                  = Cloak of Summer's End (level 16).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Light Absorption +17%",
+      "tooltip": "Light Absorption +17%: Passive: 17% Enhancement Bonus to Light Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Light Absorption +17%"
+        }
+      ]
+    },
+    {
+      "text": "Doubleshot 5%",
+      "tooltip": "Doubleshot 5%: Passive: 5% Enhancement bonus to Doubleshot. (Doubleshot is a chance to score an additional hit with a ranged attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doubleshot",
+          "title": "Doubleshot",
+          "text": "Doubleshot 5%"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +8",
+      "tooltip": "Constitution +8: This item gives the wearer improved health, granting a +8 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +8"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Constitution +3",
+      "tooltip": "Insightful Constitution +3: This item gives the wearer improved health, granting a +3 Insight bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Insightful Constitution +3"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    }
+  ]
+}

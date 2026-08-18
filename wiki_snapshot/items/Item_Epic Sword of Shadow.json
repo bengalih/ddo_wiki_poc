@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Epic Sword of Shadow",
+  "page_id": 11871,
+  "revision_id": 640370,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:57:18.817790+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Sword of Shadow\n  | type                     = Great Sword\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | damage                   = 3[2d6] + 10 Slash, Adamantine, Magic\n  | crit                     = 17-20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 300\n  | material                 = Adamantine\n  | hardness                 = 40\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|10}}\n* {{Mat|Adamantine|w}}\n* {{Augment|Colorless}}\n* {{Augment|Red}}\n  | description              = This great sword was forged inside the Vault of Night itself. The essence of Shadow has seeped into this sword granting it exceptional death-dealing abilities.\n  | basevalue                = 8,305 pp\n  | weight                   = 8 lbs\n  | quest                    = Epic Crafting\n  | epic                     = Sword of Shadow\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Sword of Shadow\n  | pic                      = Sword of Shadow shown.jpg\n  | picdesc                  = Epic Sword of Shadow.png\n  | tips                     = Note that in addition to the awesome base damage, this greatsword has both an expanded critical threat range (same as a falchion with improved crit) and the x3 multiplier of a greataxe.\n\nBe aware that the legendary version of this weapon is a cosmetic item, not an actual weapon.\n}}\n[[Category:The Vault of Night epic items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+10 Enhancement Bonus",
+      "tooltip": "+10 Enhancement Bonus: +10 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+10 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

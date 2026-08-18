@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Elfcraft Breastplate",
+  "page_id": 33571,
+  "revision_id": 629749,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:42:30.628254+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Elfcraft Breastplate\n  | type                     = Breastplate\n  | feat                     = Light\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +12\n  | maxdexbonus              = 6\n  | asf                      = 15%\n  | durability               = 164\n  | material                 = Mithral\n  | hardness                 = 25\n  | basevalue                = 4,420pp\n  | weight                   = 15 lbs\n  | released                 = Update 17\n  | quest                    = Elfcraft Armor\n  | chest                    = \n  | end reward               = \n  | turn in                  = 10 [[Ancient Elven Relic]]s\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Spellpen|ii}}\n* {{Spelllore|Spell|iii}}\n* {{SpellPower|Potency|40}}\n* {{Mat|Mithral}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Elfcraft Breastplate shown.jpg\n  | picdesc                  = Elfcraft Breastplate.png\n  | description              = A breastplate imbued with the magic of the ancient giant empire's elven slaves.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Breastplate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration II",
+      "tooltip": "Spell Penetration II: Passive: +2 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration II"
+        }
+      ]
+    },
+    {
+      "text": "Spell Lore III",
+      "tooltip": "Spell Lore III: Passive: All of your spells gain a 3% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Spell Lore III"
+        }
+      ]
+    },
+    {
+      "text": "Potency +40",
+      "tooltip": "Potency +40: Passive: +40 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +40"
+        }
+      ]
+    },
+    {
+      "text": "Mithral",
+      "tooltip": "Mithral: Mithral armor is one type lighter then normal. Arcane Spell Failure decreased by 10%. Maximum dexterity bonus increased by 2. Armor check penalty reduced by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mithral",
+          "title": "Mithral",
+          "text": "Mithral"
+        }
+      ]
+    }
+  ]
+}

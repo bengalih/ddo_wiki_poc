@@ -1,0 +1,143 @@
+{
+  "page_title": "Item:Shade's Hood (level 26)",
+  "page_id": 42320,
+  "revision_id": 649471,
+  "revision_timestamp": "2025-07-26T19:12:39Z",
+  "fetched_at": "2026-08-17T22:53:57.795126+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Shade's Hood}}\n  | type                     = Helm\n  | class                    = Clothing\n  | slot                     = Head\n  | durability               = 270\n  | material                 = Steel\n  | hardness                 = 36\n  | basevalue                = 10,420pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 26\n  | bind                     = {{Bind|BtC|BoE}}\n  | released                 = Update 19\n  | quest                    = Army of Shadow\n  | chest                    = [[Rantha]]'s chest & end chest (Epic Hard)\n  | enhancements             = \n* {{Clicky|Shadow Walk|14|1|1}}\n* {{Resistance|9}}\n* One of the following:\n** {{Elemental Resistance|Acid|40}}\n** {{Elemental Resistance|Cold|40}}\n** {{Elemental Resistance|Fire|40}}\n** {{Elemental Resistance|Electric|40}}\n** {{Elemental Resistance|Sonic|40}}\n* {{Augment|Green}}\n* {{Augment|yellow}}\n  | description              = The hood of a Shade of Netheril, it resonates with shadowy protective energies.\n  | pic                      = The Shade's Hood shown.jpg\n  | picdesc                  = Shade's Hood (Level 26).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "Shadow Walk — 1 Charges (Recharged/Day:1)",
+      "tooltip": "Shadow WalkCaster level: 14Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shadow_Walk",
+          "title": "Shadow Walk",
+          "text": "Shadow Walk"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +9",
+      "tooltip": "Resistance +9: Passive: +9 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +9"
+        }
+      ]
+    },
+    {
+      "text": "One of the following:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "Acid Resistance +40",
+          "tooltip": "Acid Resistance +40: Passive: +40 Enhancement bonus to your Acid Resistance.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Acid_Resistance",
+              "title": "Acid Resistance",
+              "text": "Acid Resistance +40"
+            }
+          ]
+        },
+        {
+          "text": "Cold Resistance +40",
+          "tooltip": "Cold Resistance +40: Passive: +40 Enhancement bonus to your Cold Resistance.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Cold_Resistance",
+              "title": "Cold Resistance",
+              "text": "Cold Resistance +40"
+            }
+          ]
+        },
+        {
+          "text": "Fire Resistance +40",
+          "tooltip": "Fire Resistance +40: Passive: +40 Enhancement bonus to your Fire Resistance.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Fire_Resistance",
+              "title": "Fire Resistance",
+              "text": "Fire Resistance +40"
+            }
+          ]
+        },
+        {
+          "text": "Electric Resistance +40",
+          "tooltip": "Electric Resistance +40: Passive: +40 Enhancement bonus to your Electric Resistance.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Electric_Resistance",
+              "title": "Electric Resistance",
+              "text": "Electric Resistance +40"
+            }
+          ]
+        },
+        {
+          "text": "Sonic Resistance +40",
+          "tooltip": "Sonic Resistance +40: Passive: +40 Enhancement bonus to your Sonic Resistance.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Sonic_Resistance",
+              "title": "Sonic Resistance",
+              "text": "Sonic Resistance +40"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Head Boost +1 or +3",
+      "tooltip": "Mythic Head Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Head Boost"
+        }
+      ]
+    }
+  ]
+}

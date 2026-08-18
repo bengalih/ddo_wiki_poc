@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Warchanter's Band",
+  "page_id": 10227,
+  "revision_id": 635771,
+  "revision_timestamp": "2025-04-22T04:50:05Z",
+  "fetched_at": "2026-08-17T23:25:29.556282+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Warchanter's Band\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 120\n  | material                 = Gold\n  | hardness                 = 12\n  | basevalue                = 10,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | quest                    = Tower of Despair\n  | chest                    = right side end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CHA|6}}\n* {{Stat|STR|1|Exceptional}}\n* {{Named item sets|Warchanter}}\n* {{CraftingEffects|Incredible Potential}}\n  | crafting                 = Incredible Potential\n  | craftingupgrade          = <!-- -->\n  | description              = This carved ring was worn by the Warchanter Torin. His prowess with blade and song was the stuff of inspiration.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Warchanter's Band.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Charisma +6",
+      "tooltip": "Charisma +6: This item makes the wearer have more flair, granting a +6 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +6"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Strength +1",
+      "tooltip": "Exceptional Strength +1: This item gives the wearer the power of Ogre Strength, granting a +1 Exceptional bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Exceptional Strength +1"
+        }
+      ]
+    },
+    {
+      "text": "Warchanter",
+      "tooltip": "Warchanter: Additional Bard Song after resting, Maximize Spell costs 4 Spell Points less, Extend Spell costs 1 Spell Point less.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Warchanter",
+          "title": "Named item sets",
+          "text": "Warchanter"
+        }
+      ]
+    },
+    {
+      "text": "Incredible Potential",
+      "tooltip": "Incredible Potential: Incredible Potential: This ring's power has not been fully unleashed. When this ring is combined with 9 Shavarath War Trophies and ac Imbued Shard of Great Power in an Altar of Subjugation, its full potential will be reveled.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incredible_Potential",
+          "title": "Incredible Potential",
+          "text": "Incredible Potential"
+        }
+      ]
+    }
+  ]
+}

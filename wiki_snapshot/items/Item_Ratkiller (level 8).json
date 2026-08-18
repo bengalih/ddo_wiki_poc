@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Ratkiller (level 8)",
+  "page_id": 72553,
+  "revision_id": 634133,
+  "revision_timestamp": "2025-04-22T03:01:28Z",
+  "fetched_at": "2026-08-17T22:42:32.014238+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Ratkiller}}\n  | type                     = Maul\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | minlevel                 = 8\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = [1d10] + 3 Bludgeon, Magic\n  | crit                     = 20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 165\n  | material                 = Steel\n  | hardness                 = 18\n  | basevalue                = 3,201pp 2gp\n  | weight                   = 10 lbs\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|silver|250}}{{CCi|golden|100}}{{CCi|obsidian|20}}{{CCi|green|400}} at [[Euphonia's Barter Box]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|3}}\n* {{Stunning|6}}\n* {{Staggering Blow}}\n* {{Earthgrab}}\n* {{Bane|Animal|2}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This hammer is well-worn and appears to have been used in the past to exterminate pests aboard pirate vessels. It's a surprisingly strong weapon for such a mundane task and would probably be useful in battle as well.\n  | pic                      = Bloodknuckle's Smasher shown.jpg\n  | picdesc                  = Ratkiller (level 8).png\n  | tips                     = See also: [[Item:Ratkiller|Ratkiller]] - Full table of the Ratkiller line.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Maul",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Stunning +6",
+      "tooltip": "Stunning +6: +6 Enhancement bonus to the DC of character's Stunning Blow and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stunning",
+          "title": "Stunning",
+          "text": "Stunning +6"
+        }
+      ]
+    },
+    {
+      "text": "Staggering Blow",
+      "tooltip": "Staggering Blow: This item is enchanted to make your attacks send enemies reeling. When you roll a 20 on an attack with a melee weapon you will knock the target down unless it makes a DC 17 Balance check.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Staggering_Blow",
+          "title": "Staggering Blow",
+          "text": "Staggering Blow"
+        }
+      ]
+    },
+    {
+      "text": "Earthgrab",
+      "tooltip": "Earthgrab: This weapon stores the implacable strength of the earth deep within. When this weapon is used, this power occasionally comes to the surface, calling on the earth to erupt from the ground and hold an enemy in place.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Earthgrab",
+          "title": "Earthgrab",
+          "text": "Earthgrab"
+        }
+      ]
+    },
+    {
+      "text": "Animal Bane 2",
+      "tooltip": "Animal Bane 2: This weapon is attuned specifically to disrupt the natural, dealing an additional 2d10 bane damage vs. Animals.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Animal Bane 2"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

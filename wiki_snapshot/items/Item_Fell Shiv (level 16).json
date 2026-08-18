@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Fell Shiv (level 16)",
+  "page_id": 42269,
+  "revision_id": 671165,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:02:36.388056+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Fell Shiv}}\n  | damage                   = 2[1d4] + 2 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Dagger\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Simple\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 200\n  | material                 = Steel\n  | hardness                 = 26\n  | minlevel                 = 16\n  | quest                    = The Thrill of the Hunt\n  | chest                    = [[Devouring Shadow]] chest (Heroic Elite)\n  | revamped                 = Update 76\n  | basevalue                = 6,400pp 2gp\n  | weight                   = 1.00 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Vorpal|Improved}}\n* {{Augment|red}}\n  | description              = The hidden knife is often the deadliest.\n  | pic                      = Fell Shiv shown.jpg\n  | picdesc                  = Fell Shiv (Level 16).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Improved Vorpal",
+      "tooltip": "Improved Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 1500 Hit Points, they are instantly slain. If your target has above 1500 Hit Points, they take 150 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Improved_Vorpal",
+          "title": "Vorpal",
+          "text": "Improved Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

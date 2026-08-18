@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Cloak of the Mimic (level 4)",
+  "page_id": 66316,
+  "revision_id": 648994,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:23:47.577579+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Cloak of the Mimic}}\n  | type                     = Cloak\n  | class                    = Cloak\n  | cost                     = 1,601pp\n  | weight                   = 0.10 lbs\n  | slot                     = Back\n  | durability               = 140\n  | material                 = Cloth\n  | hardness                 = 14\n  | minlevel                 = 4\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 36\n  | quest                    = Mimic Hunt\n  | turn in                  = 80 {{Item|Mimic Token}}s\n  | mythic                   = no\n  | enhancements             = \n*{{Guard|Sticky Goo}}\n*{{Deathblock}}\n*{{Fortification|55}}\n*{{DR|5|Lawful}}\n*{{Augment|Green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | craftingnotes            = \n  | description              = This cloak seems to be made of a slightly irregular leather surface. When struck it sometimes exudes a substance that encases the attacker in goo.\n  | pic                      = Cloak of the Mimic shown.jpg\n  | picdesc                  = Cloak of the Mimic (Level 4).png\n  | tips                     = Turn in 80 {{Item|Mimic Token}}s at [[Glynereth]].\n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Sticky Goo Guard",
+      "tooltip": "Sticky Goo Guard: This item has a chance of encasing a creature in sticky goo, much like an attack of a mimic. It reduces the creatures move speed and attack speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sticky_Goo_Guard",
+          "title": "Sticky Goo Guard",
+          "text": "Sticky Goo Guard"
+        }
+      ]
+    },
+    {
+      "text": "Deathblock",
+      "tooltip": "Deathblock: The wearer of this item is immune to all death spells and magical death effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +55%",
+      "tooltip": "Fortification +55%: +55% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +55%"
+        }
+      ]
+    },
+    {
+      "text": "DR 5/Lawful",
+      "tooltip": "Damage Reduction 5/Lawful: Reduces physical damage by 5, except from Lawful attacks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

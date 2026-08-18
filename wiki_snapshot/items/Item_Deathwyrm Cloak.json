@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Deathwyrm Cloak",
+  "page_id": 44267,
+  "revision_id": 629366,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:31:28.438510+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Deathwyrm Cloak\n  | type                     = Cloak\n  | slot                     = Back\n  | durability               = 280\n  | material                 = Cloth\n  | hardness                 = 37\n  | basevalue                = 10,820 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 27\n  | bind                     = {{Bind|BtC|BoE}}\n  | released                 = Update 21\n  | quest                    = The Ruins of Thunderholme\n  | end reward               = \n  | chest                    = Rare encounter chests\n  | mythic                   = no\n  | enhancements             = \n* {{SpellPower|Nihil|30||0}}\n* {{Absorption|Force|10}} \n* {{HealingAmp|20|n|profane}}\n* {{Augment|Green}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Praise Null, the Reaver, taker of life. Praise Null, the Guardian of the Lost, shepherd of spirits.\n  | pic                      = Deathwyrm Cloak Shown.jpg\n  | picdesc                  = Deathwyrm Cloak.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "Permanent Nihil",
+      "tooltip": "Permanent Nihil: Passive: +30 Alchemical bonus to your Negative and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nihil",
+          "title": "Nihil",
+          "text": "Permanent Nihil"
+        }
+      ]
+    },
+    {
+      "text": "Force Absorption +10%",
+      "tooltip": "Force Absorption +10%: Passive: 10% Enhancement Bonus to Force Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Force Absorption +10%"
+        }
+      ]
+    },
+    {
+      "text": "Profane Negative Amplification +20",
+      "tooltip": "Negative Amplification: This effect amplifies all incoming negative energy healing by +20 (Profane bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Amplification",
+          "title": "Negative Amplification",
+          "text": "Profane Negative Amplification +20"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

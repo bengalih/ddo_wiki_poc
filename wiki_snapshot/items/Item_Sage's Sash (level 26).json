@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Sage's Sash (level 26)",
+  "page_id": 41441,
+  "revision_id": 649502,
+  "revision_timestamp": "2025-07-26T19:12:40Z",
+  "fetched_at": "2026-08-17T22:50:09.079175+00:00",
+  "categories": [],
+  "wikitext": "{{Non-food|WAI=true}}\n{{Named item|Clothing\n  | name                     = Sage's Sash\n  | type                     = Belt\n  | class                    = Clothing\n  | basevalue                = 10,420 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 180\n  | material                 = Leather\n  | hardness                 = 27\n  | minlevel                 = 26\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 19\n  | quest                    = A Lesson in Deception\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Wizardry|X}}\n* {{Hp|Hp|35}}\n  | description              = \n  | pic                      = Belt Generic Pantheon.png\n  | picdesc                  = Sage's Sash (Level 26).png\n}}",
+  "item_template": "Non-food",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "Wizardry X",
+      "tooltip": "Wizardry X: This item grants the wearer +250 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry X"
+        }
+      ]
+    },
+    {
+      "text": "Hit Points +35",
+      "tooltip": "Hit Points +35: Passive: +35 Enhancement Bonus to Hit Points",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hit_point",
+          "title": "Hit point",
+          "text": "Hit Points +35"
+        }
+      ]
+    }
+  ]
+}

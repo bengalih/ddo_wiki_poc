@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Book of Amaunator",
+  "page_id": 39442,
+  "revision_id": 628659,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:13:07.486038+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Book of Amaunator\n  | minlevel                 = 15\n  | type                     = Trinket\n  | slot                     = Trinket\n  | race                     = Sun Elf\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Efficient Metamagic|Empower Healing|2}}\n* {{HealingAmp|20|h|Exceptional}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = To those of good heart, be as the morning, bringing calm and rejuvenation. To your enemies, be a visage of searing doom, bearing the wrath of the sun.\n  | pic                      = Trinket Generic Book.png\n  | picdesc                  = Book of Amaunator.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Efficient Metamagic - Empower Healing II",
+      "tooltip": "Efficient Metamagic - Empower Healing II: The additional spell point cost for using the Empower Healing Metamagic feat is reduced by 2 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Empower Healing II"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Healing Amplification +20",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +20 (Exceptional bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Exceptional Healing Amplification +20"
+        }
+      ]
+    }
+  ]
+}

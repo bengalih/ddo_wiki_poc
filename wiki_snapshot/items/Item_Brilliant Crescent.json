@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Brilliant Crescent",
+  "page_id": 72225,
+  "revision_id": 677000,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:15:56.297616+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Brilliant Crescent\n  | damage                   = 4.60[1d6+3] + 15 Slash, Lawful, Adamantine, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Sickle\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Slashing\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 28\n  | durability               = 330\n  | material                 = Adamantine\n  | hardness                 = 48\n  | cost                     = 11,200pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 40\n  | revamped                 = Update 76\n  | quest                    = Killing Time\n  | chest                    = end chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Axiomatic|6|1}}\n* {{Keen}}\n* {{Limb Chopper}}\n* {{Mat|Adamantine}}\n* {{Augment|Red}}\n* {{Augment|Orange}}\n* {{Named item sets|Brilliant Crescents}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = The broken half a complex staff-like weapon enchanted to allow almost anyone to use it with some skill. This seems eerily drawn to your [main hand/offhand]...\n  | pic                      = Brilliant Crescent shown.jpg\n  | picdesc                  = Brilliant Crescent.png\n  | tips                     = '''Bug: Main hand cannot benefit from dexterity to hit and damage from the tempest tree. (offhand will)'''\n\n<s>Bug: Does not work with swashbuckling.</s> Since [[update 50]] the main-hand version of this item should allow swashbuckling.\n\nThere are 2 versions of this weapon, main hand and offhand, each of which can only be equipped to that hand.<br />\n{{Popup|Image of offhand version|[[File:Brilliant Crescent offhand.png]]|long=y}}\n}}\n[[Category:Draconic Raider's Reward Box items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Sickle",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Axiomatic 6",
+      "tooltip": "Axiomatic 6: This weapon is righteous and wielded by those who stand against chaos, dealing an additional 6d6 law damage on each hit. This effect makes the weapon lawfully aligned. (Chaotic characters wielding this weapon will suffer one negative level.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Axiomatic 6"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Limb Chopper",
+      "tooltip": "Limb Chopper: This potent and feared ability allows the weapon to sever the limbs of those it strikes. On an attack roll of 20 which is confirmed as a critical hit, the weapon severs an opponent's limb from its body. Some creatures, including many aberrations and all oozes, have no limbs. Others, such as golems and undead creatures, are not affected by the loss of their limbs. Most other creatures, however, have their movement slowed 75% and attacks slowed by 50% when a limb is cut off.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Limb_Chopper",
+          "title": "Limb Chopper",
+          "text": "Limb Chopper"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Brilliant Crescents",
+      "tooltip": "Brilliant Crescents: While wearing both items from the Brilliant Crescents set, you gain:+20% Offhand Strike Chance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Brilliant_Crescents",
+          "title": "Named item sets",
+          "text": "Brilliant Crescents"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

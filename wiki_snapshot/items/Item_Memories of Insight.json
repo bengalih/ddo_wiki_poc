@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Memories of Insight",
+  "page_id": 70987,
+  "revision_id": 633481,
+  "revision_timestamp": "2025-04-22T02:16:24Z",
+  "fetched_at": "2026-08-17T22:24:24.643202+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Memories of Insight\n  | type                     = Helm\n  | cost                     = 2401 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Head\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 26\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 39\n  | revamped                 = Update 59\n  | quest                    = Memory Lapse\n  | end reward               = \n  | chest                    = End chest\n  | enhancements             = \n* {{Stat|Int|4}}\n* {{Stat|Int|1|Insightful}}\n* {{Wizardry|79}}\n* {{Save|Reflex|4}}\n* {{Augment|Blue}}\n  | epic                     = no\n  | crafting                 = <!--Type of crafting. Leave blank if none. -->\n  | craftingupgrade          = <!-- can leave blank, though comment required if |crafting is used-->\n  | description              = A fragment of a misplaced thought, a brilliant light you once remembered. This tattered memory was once the face of someone who knew everything.\n  | pic                      = Memories of Insight shown.jpg\n  | picdesc                  = Memories of Insight.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "Intelligence +4",
+      "tooltip": "Intelligence +4: This item focuses the power of the wearer's mind, granting a +4 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +4"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Intelligence +1",
+      "tooltip": "Insightful Intelligence +1: This item focuses the power of the wearer's mind, granting a +1 Insight bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Insightful Intelligence +1"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry +79",
+      "tooltip": "Wizardry +79: +79 Enhancement bonus to spell points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry +79"
+        }
+      ]
+    },
+    {
+      "text": "Reflex Save +4",
+      "tooltip": "Reflex Save +4: This item gives a +4 Resistance bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save +4"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Head Boost +1 or +3",
+      "tooltip": "Mythic Head Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Head Boost"
+        }
+      ]
+    }
+  ]
+}

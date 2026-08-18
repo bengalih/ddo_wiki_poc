@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Fusible Sceptre of Impulse",
+  "page_id": 88801,
+  "revision_id": 689395,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:09:14.487118+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Fusible Sceptre of Impulse\n  | minlevel                 = 12\n  | type                     = Club\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damage                   = 1.40[1d6] + 6 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | race                     = \n  | slot                     = \n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 170\n  | material                 = Wood\n  | hardness                 = 22\n  | cost                     = 4,800 pp 1 cp\n  | weight                   = 3 lbs\n  | released                 = Update 49\n  | revamped                 = Update 80\n  | quest                    = Beautiful Nightmares\n  | end reward               = \n  | turn in                  = \n  | chest                    = End chest\n  | mythic                   = yes\n  | enhancements             = \n* {{Enhancement bonus|i|6|12}}\n* {{Spelllore|Kinetic|12}}\n* {{SpellPower|Impulse|84}}\n* {{SpellPower|Impulse|42|Insight}}\n* {{Spell Focus|Evocation|4}}\n* {{CraftingEffects|Fusible}}\n* {{Augment|Red}}\n  | crafting                 = Cauldron of Sora Katra\n  | craftingupgrade          = Impulsive Devoted Quarterstaff¦Impulsive Nullified Quarterstaff¦Impulsive Radiant Quarterstaff¦Impulsive Reconstructed Quarterstaff¦Impulsive Resonating Quarterstaff\n  | description              = This magical sceptre is attuned to Force spells.\n  | pic                      = Malleable Sceptre of Radiance shown.jpg\n  | picdesc                  = Fusible Sceptre of Impulse.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +12",
+      "tooltip": "Spellcasting Implement +12: Passive: +12 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +12"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Kinetic Lore +12%",
+      "tooltip": "Kinetic Lore +12: Passive: Your Force, Physical and Untyped spells gain a 12% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Kinetic Lore +12%"
+        }
+      ]
+    },
+    {
+      "text": "Impulse +84",
+      "tooltip": "Impulse +84: Passive: +84 Equipment bonus to Force, Untyped, Slashing, Piercing, and Bludgeoning Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impulse",
+          "title": "Impulse",
+          "text": "Impulse +84"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Impulse +42",
+      "tooltip": "Insightful Impulse +42: Passive: +42 Insight bonus to Force, Untyped, Slashing, Piercing, and Bludgeoning Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impulse",
+          "title": "Impulse",
+          "text": "Insightful Impulse +42"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus +4",
+      "tooltip": "Evocation Focus +4: +4 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus +4"
+        }
+      ]
+    },
+    {
+      "text": "Fusible",
+      "tooltip": "Fusible: Something about this item looks incomplete. Perhaps in the future it will be compatible with another item to create a brand-new fusion of the two.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cauldron_of_Sora_Katra",
+          "title": "Cauldron of Sora Katra",
+          "text": "Fusible"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

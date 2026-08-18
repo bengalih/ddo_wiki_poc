@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Frozen Plate",
+  "page_id": 12015,
+  "revision_id": 631009,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:08:53.141595+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Frozen Plate\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | race                     = \n  | minlevel                 = 6\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +16\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 156\n  | material                 = Steel\n  | hardness                 = 17\n  | basevalue                = 2550pp\n  | weight                   = 50 lbs\n  | quest                    = Altar of Vulkoor\n  | chest                    = Cleansed version of {{Item|Dampened Frozen Plate}}\n  | released                 = Update 6\n  | revamped                 = Update 50\n  | end reward               = \n  | collectable              = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Sheltering|10|Enhancement|physical}}\n* {{Absorption|Cold|17}}\n* {{Elemental Resistance|Cold|15}}\n* {{Guard|Ice|ii}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Frozen Plate\n  | pic                      = Frozen Plate shown.jpg\n  | picdesc                  = Frozen Plate.png\n  | description              = A sturdy suit of armor covered in a thin layer of ice and infused with the power of cold. It seems to have been left on the ocean floor and taken on the properties of the freezing, forbidding depths.\n  | notes                    = This item was modified by Update 14. Pre-U14 is ML 7, different values for armor bonus, hardness, durability, and base value.\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +10",
+      "tooltip": "Physical Sheltering +10: +10 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +10"
+        }
+      ]
+    },
+    {
+      "text": "Cold Absorption +17%",
+      "tooltip": "Cold Absorption +17%: Passive: 17% Enhancement Bonus to Cold Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Cold Absorption +17%"
+        }
+      ]
+    },
+    {
+      "text": "Cold Resistance +15",
+      "tooltip": "Cold Resistance +15: Passive: +15 Enhancement bonus to your Cold Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Resistance",
+          "title": "Cold Resistance",
+          "text": "Cold Resistance +15"
+        }
+      ]
+    },
+    {
+      "text": "Ice Guard II",
+      "tooltip": "Ice Guard II: When Hit in Melee: Deals 2 to 8 Cold damage to your attacker.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ice_Guard",
+          "title": "Ice Guard",
+          "text": "Ice Guard II"
+        }
+      ]
+    }
+  ]
+}

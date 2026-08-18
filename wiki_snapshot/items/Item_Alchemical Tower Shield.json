@@ -1,0 +1,60 @@
+{
+  "page_title": "Item:Alchemical Tower Shield",
+  "page_id": 19078,
+  "revision_id": 628224,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:02:58.859789+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Tower\n  | prof                     = Tower\n  | minlevel                 = 12\n  | sb                       = +15\n  | maxdexbonus              = 2\n  | dr                       = 12\n  | acp                      = -9\n  | asf                      = 50\n  | ap                       = -2\n  | dmg                      = 3[1d10] + 5\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | damagemod                = STR\n  | durability               = 150\n  | material                 = Dwarven Iron\n  | hardness                 = 15\n  | basevalue                = 5704.5pp\n  | weight                   = 50 lbs\n  | bind                     = {{Bind|no}}\n  | quest                    = The Master Artificer\n  | chest                    = Either End chest\n  | enhancements             = \n* {{Enhancement_bonus|a|5}}\n* {{CraftingEffects|Alchemical (Prototype)}}\n  | description              = This very large metal shield is strapped to your forearm and gripped with your hand.\n  | crafting                 = Alchemical Crafting\n  | craftingupgrade          = <!-- No -->\n  | pic                      = Alchemical Tower Shield shown.jpg\n  | picdesc                  = Alchemical Tower Shield.png\n  | tips                     = Minimum level starts at lvl 12 and increase to 16/18/20/20 depending on upgrades.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Tower Shield Proficiency",
+  "material": "Dwarven Iron",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Alchemical (Prototype)",
+      "tooltip": "Alchemical (Prototype): This experimental item, crafted and enchanted at ancient Cannith creation forges using powerful alchemy, is made of a material that allows elemental power sources to be bound to it. This item is in a prototype state and is currently in need of refinement before an elemental can be bound to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alchemical_Crafting",
+          "title": "Alchemical Crafting",
+          "text": "Alchemical (Prototype)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

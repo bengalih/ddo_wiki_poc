@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Neecha's Bead",
+  "page_id": 11085,
+  "revision_id": 633688,
+  "revision_timestamp": "2025-04-22T02:30:29Z",
+  "fetched_at": "2026-08-17T22:30:27.180683+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Neecha's Bead\n  | type                     = Trinket\n  | basevalue                = 120 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Trinket\n  | durability               = 20\n  | material                 = Gem\n  | hardness                 = 16\n  | minlevel                 = 0\n  | bind                     = {{Bind|no}}\n  | quest                    = Stealthy Repossession\n  | chest                    = [[Witch Doctor Neecha]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Save|F|2}}\n  | description              = A faint whispering sound surrounds this glowing yellow gem.\n  | pic                      = Gem Generic Yellow.png\n  | picdesc                  = Neecha's Bead.png\n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "enchantments": [
+    {
+      "text": "Fortitude Save +2",
+      "tooltip": "Fortitude Save +2: This item gives a +2 Resistance bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Fortitude Save +2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Infused Chaosrobe",
+  "page_id": 14552,
+  "revision_id": 686651,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:24:02.970028+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Infused Chaosrobe\n  | type                     = Robe\n  | feat                     = Cloth\n  | minlevel                 = 14\n  | ac                       = +0\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 85\n  | material                 = Cloth\n  | hardness                 = 10\n  | basevalue                = 6,405pp 5gp\n  | weight                   = 0 lbs\n  | quest                    = Fear Factory\n  | chest                    = End chest\n  | mythic                   = no\n  | enhancements             = \n* {{SpellPower|Spell Turmoil}}\n* {{Augmentation|1|Evocation|9}}\n* {{CraftingEffects|Trace of Madness}}\n* {{Power Drain}}\n  | crafting                 = Altar of Insanity\n  | craftingupgrade          = \n  | pic                      = Infused Chaosrobe shown.jpg\n  | picdesc                  = Infused Chaosrobe.png\n  | description              = This robe, imbued with powerful and unpredictable magic, seems to have come from Kythri originally. The denizens of Xoriat likely found its wild enchantments intriguing, so they seized it and brought it back with them to their own realm.\n  | notes                    = You can remove the [[Power Drain]] penalty with a [[Sustaining Symbiont]].\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "Spell Turmoil",
+      "tooltip": "Spell Turmoil: When casting any damaging Fire, Cold, Acid or Electric spells, there is a chance that you will gain a +20 Alchemical bonus to Spell Power to one of those energy types for 30 seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Turmoil",
+          "title": "Spell Turmoil",
+          "text": "Spell Turmoil"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Evocation Augmentation IX",
+      "tooltip": "Lesser Evocation Augmentation IX: Increases the wearer's caster level when casting ninth level or lower Evocation spells by one.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Augmentation",
+          "title": "Spell Augmentation",
+          "text": "Lesser Evocation Augmentation IX"
+        }
+      ]
+    },
+    {
+      "text": "Trace of Madness",
+      "tooltip": "Trace of Madness: You can almost hear faint, panicked voices when this item is close to you. Perhaps the latent power of this item's hint of madness could be brought out by some catalyst.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Trace_of_Madness",
+          "title": "Trace of Madness",
+          "text": "Trace of Madness"
+        }
+      ]
+    },
+    {
+      "text": "Power Drain",
+      "tooltip": "Power Drain: This item reserves some of your power in order to function. You lose 30 maximum spell points (or up to 60 if you are a Sorcerer or Favored Soul).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power_Drain",
+          "title": "Power Drain",
+          "text": "Power Drain"
+        }
+      ]
+    }
+  ]
+}

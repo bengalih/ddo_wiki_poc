@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Tracker's Band",
+  "page_id": 79660,
+  "revision_id": 635581,
+  "revision_timestamp": "2025-04-22T04:37:25Z",
+  "fetched_at": "2026-08-17T23:20:26.440106+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Tracker's Band\n  | type                     = Ring\n  | race                     = Aasimar Scourge\n  | slot                     = Finger\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CON|6}}\n* {{Fortification|81}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Ring Generic Silver.png\n  | picdesc                  = Tracker's_Band.png\n  | food                     = no\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Constitution +6",
+      "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +6"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +81%",
+      "tooltip": "Fortification +81%: +81% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +81%"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Spectral Great Crossbow (level 8)",
+  "page_id": 77889,
+  "revision_id": 666208,
+  "revision_timestamp": "2025-11-19T12:11:40Z",
+  "fetched_at": "2026-08-17T23:03:16.845164+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Spectral Great Crossbow}}\n  | damage                   = 1.50[2d8] + 3 Pierce, Magic\n  | crit                     = 18-20 / x2\n  | minlevel                 = 8\n  | type                     = Great Crossbow\n  | reqtrait                 = \n  | UMD DC                   = \n  | hand                     = Ranged\n  | class                    = Ranged\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | prof                     = Exotic\n  | durability               = 180\n  | material                 = Force\n  | hardness                 = 18\n  | basevalue                = 3,220 pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = The Night Revels\n  | chest                    = \n  | revamped                 = Update 76\n  | turn in                  = {{Item|Spectral Great Crossbow (level 4)}}{{Br}}{{Tab}}and {{NightRevelsRecipe|ing_chocolate= 80|ing_almond= 10|ing_cinnamon= 30}} at [[Joe Candymaker]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Ghostbane|2}}\n* {{Bane|Evil Outsider|2}}\n* {{Vorpal}}\n* {{Crushing|6}}\n  | crafting                 = The Night Revels\n  | craftingupgrade          = Spectral Great Crossbow (level 12)\n  | description              = The residual power left behind as thousands of Spectral Dragon Scales crumbled to dust formed this ethereal weapon.\n  | pic                      = Spectral Great Crossbow shown.jpg\n  | picdesc                  = Spectral Great Crossbow (level 8).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Great Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Ghostbane 2",
+      "tooltip": "Ghostbane 2: This weapon is attuned specifically to hunt the risen dead, dealing an additional 2d10 bane damage vs. Undead monsters.Passive: This weapon has Ghost Touch, and bypasses ethereal monster's 50% chance to evade bane damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostbane",
+          "title": "Ghostbane",
+          "text": "Ghostbane 2"
+        }
+      ]
+    },
+    {
+      "text": "Evil Outsider Bane 2",
+      "tooltip": "Evil Outsider Bane 2: This weapon is attuned specifically to hunt monsters that bring ill intent from other planes, dealing an additional 2d10 bane damage vs. Evil Outsiders.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Evil Outsider Bane 2"
+        }
+      ]
+    },
+    {
+      "text": "Vorpal",
+      "tooltip": "Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 1000 Hit Points, they are instantly slain. If your target has above 1000 Hit Points, they take 100 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Vorpal",
+          "title": "Vorpal",
+          "text": "Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Crushing 6",
+      "tooltip": "Crushing 6: This effect causes the edges of this weapon to ripple with force, dealing 6d6 force damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crushing",
+          "title": "Crushing",
+          "text": "Crushing 6"
+        }
+      ]
+    }
+  ]
+}

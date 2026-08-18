@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Arcane Armor",
+  "page_id": 49125,
+  "revision_id": 665900,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:04:18.587695+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Arcane Armor\n  | type                     = Breastplate\n  | feat                     = Light\n  | race                     = None\n  | ac                       = +10\n  | maxdexbonus              = 8\n  | acp                      = \n  | asf                      = 10%\n  | durability               = 212\n  | material                 = Leather\n  | hardness                 = 26\n  | minlevel                 = 18\n  | released                 = Update 24\n  | quest                    = Fashion Madness\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | basevalue                = 7,201 pp\n  | weight                   = 15 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|6}}\n* {{Wizardry|V}}\n* {{Stat|CON|1|Exceptional}}\n* {{Stat|INT|1|Exceptional}}\n* {{Arcane Casting Dexterity}}\n* {{Augment|Green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Arcane Armor shown.jpg\n  | picdesc                  = Arcane Armor.png\n  | description              = The result of an experiment in forming a brigade of armored wizards. The Wizards may have died in battle, but the armor remains.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Breastplate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry V",
+      "tooltip": "Wizardry V: This item grants the wearer +125 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry V"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Constitution +1",
+      "tooltip": "Exceptional Constitution +1: This item gives the wearer improved health, granting a +1 Exceptional bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Exceptional Constitution +1"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Intelligence +1",
+      "tooltip": "Exceptional Intelligence +1: This item focuses the power of the wearer's mind, granting a +1 Exceptional bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Exceptional Intelligence +1"
+        }
+      ]
+    },
+    {
+      "text": "Arcane Casting Dexterity",
+      "tooltip": "Arcane Casting Dexterity: This ability reduces the arcane spell failure chance by -10%.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Arcane_Casting_Dexterity",
+          "title": "Arcane Casting Dexterity",
+          "text": "Arcane Casting Dexterity"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

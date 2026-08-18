@@ -1,0 +1,40 @@
+{
+  "page_title": "Item:Jade Ring",
+  "page_id": 11181,
+  "revision_id": 631610,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:25:23.506108+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Jade Ring\n  | type                     = Ring\n  | class                    = Jewelry\n  | basevalue                = 420 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Finger\n  | durability               = 20 \n  | material                 = Gold \n  | hardness                 = 3\n  | minlevel                 = 1\n  | bind                     = {{Bind|BtC|BoE}} \n  | quest                    = Walk the Butcher's Path\n  | chest                    = [[Shaman Prysass]]' chest\n  | mythic                   = no\n  | enhancements             = \n* {{Resistance|1}}\n* {{Augment|Colorless}}\n  | description              = A silver ring set with jade that gives its wearer +1 to all saves.\n  | pic                      = Ring Generic Jade.png\n  | picdesc                  = Jade Ring.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "enchantments": [
+    {
+      "text": "Resistance +1",
+      "tooltip": "Resistance +1: Passive: +1 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +1"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Legendary Alchemical Light Mace",
+  "page_id": 99281,
+  "revision_id": 631754,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:29:37.918641+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Alchemical Light Mace\n  | damage                   = 4.80[1d6+3] +15 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Light Mace\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Simple\n  | durability               = 340\n  | material                 = Steel\n  | hardness                 = 39\n  | minlevel                 = 29\n  | basevalue                = 11,600 pp 5 gp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = Legendary Master Artificer\n  | chest                    = Either End chest\n  | released                 = Update 45\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{CraftingEffects|Legendary Alchemical Crafting (Prototype)}}\n* {{Augment|Red}}\n  | crafting                 = Legendary Alchemical Crafting\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | pic                      = Alchemical Light Mace shown.jpg\n  | picdesc                  = Legendary Alchemical Light Mace.png\n  | description              = This intricate weapon bears the mark of House Cannith.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Light Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Alchemical Crafting (Prototype)",
+      "tooltip": "Legendary Alchemical Crafting (Prototype): This experimental item, crafted and enchanted at ancient Cannith creation forges using powerful alchemy, is made of a material that allows elemental power sources to be bound to it. This item is in a prototype state and is currently in need of refinement.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alchemical_Crafting#Legendary",
+          "title": "Alchemical Crafting",
+          "text": "Legendary Alchemical Crafting (Prototype)"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

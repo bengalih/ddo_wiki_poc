@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:The Best Defense",
+  "page_id": 66825,
+  "revision_id": 635295,
+  "revision_timestamp": "2025-04-22T04:18:21Z",
+  "fetched_at": "2026-08-17T23:12:23.793663+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = The Best Defense\n  | type                     = Large\n  | prof                     = General\n  | race                     = \n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 10\n  | damagemod                = STR\n  | attmod                   = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +9\n  | maxdexbonus              = \n  | dr                       = 9\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = 1.50[1d10] + 5\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 18-20 / x3\n  | durability               = 220\n  | material                 = Densewood\n  | hardness                 = 35\n  | basevalue                = 4004 pp\n  | weight                   = 10 lbs\n  | released                 = Update 37\n  | quest                    = Oath of Vengeance\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|s|5}}\n* {{Fiery|3}}\n* {{Shield Bashing|+=9}}\n* {{Impact|I}}\n* {{Vorpal}}\n* {{Augment|Purple}}\n* {{Named item sets|Adherent of the Mists Set (Heroic)}}\n  | description              = ... is a good offense.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = The Legendary Best Defense shown.jpg\n  | picdesc                  = The Best Defense.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Densewood",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fiery 3",
+      "tooltip": "Fiery 3: This effect causes the edges of this weapon to burn with enchanted flames, dealing 3d6 Fire damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fiery",
+          "title": "Fiery",
+          "text": "Fiery 3"
+        }
+      ]
+    },
+    {
+      "text": "Shield Bashing +9",
+      "tooltip": "Shield Bashing +9: +9 Enhancement bonus to Increased chance of Secondary Shield Bash.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bashing",
+          "title": "Shield Bashing",
+          "text": "Shield Bashing +9"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Vorpal",
+      "tooltip": "Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 1000 Hit Points, they are instantly slain. If your target has above 1000 Hit Points, they take 100 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Vorpal",
+          "title": "Vorpal",
+          "text": "Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Adherent of the Mists Set (Heroic)",
+      "tooltip": "Adherent of the Mists Set (Heroic): 5 Pieces Equipped:+5 Profane bonus to Physical Resistance Rating+10 Profane bonus to Positive, Negative, and Repair Amplification+5 Profane bonus to Melee and Ranged Power+10 Profane bonus to Universal Spell Power",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Adherent_of_the_Mists_Set_(Heroic)",
+          "title": "Named item sets",
+          "text": "Adherent of the Mists Set (Heroic)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "page_title": "Item:Legendary Wand of Blasting",
+  "page_id": 101461,
+  "revision_id": 633162,
+  "revision_timestamp": "2025-04-22T01:54:38Z",
+  "fetched_at": "2026-08-17T22:15:12.113441+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Eternal wand\n  | name                     = Legendary Wand of Blasting\n  | umd                      = 35\n  | noumd                    = Wiz, Sor\n  | minlevel                 = 31\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | durability               = 335\n  | material                 = Wood\n  | hardness                 = 41\n  | weight                   = 0.10 lbs\n  | cost                     = 65,200 pp\n  | quest                    = Diplomatic Impunity\n  | chest                    = end chest\n  | released                 = Update 59\n  | description              = \nMany strange and powerful magical artifacts have been unearthed from the ancient Droaam ruins. This one is a wand that unpredictably casts one of many destructive spells when activated.\n  | notes                    = The clicky effect of this wand appears to do about as much damage (10d6 of a random damage type) as the heroic version. Without enhancements to boost wand damage, it is fairly useless.\n  | icon                     = Fireball.png\n  | spell                    = Elemental Surge\n  | casterlvl                = 31\n  | charge                   = 10\n  | crafting                 = \n  | craftingupgrade          = \n  | picdesc                  = Legendary Wand of Blasting.png\n  | enhancements             = \n* {{Clicky|Elemental Surge|31|10|10}}\n* {{Enhancement bonus|w|15}}\n* {{SpellPower|Potency|103}}\n}}",
+  "item_template": "Named item",
+  "material": "Wood",
+  "minimum_level": 31,
+  "enchantments": [
+    {
+      "text": "Elemental Surge — 10 Charges (Recharged/Day:10)",
+      "tooltip": "Elemental SurgeCaster level: 31Charges: 10 (10/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Elemental_Surge",
+          "title": "Elemental Surge",
+          "text": "Elemental Surge"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Potency +103",
+      "tooltip": "Potency +103: Passive: +103 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +103"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

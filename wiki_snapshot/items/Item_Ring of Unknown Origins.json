@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Ring of Unknown Origins",
+  "page_id": 11193,
+  "revision_id": 634271,
+  "revision_timestamp": "2025-04-22T03:10:36Z",
+  "fetched_at": "2026-08-17T22:45:58.082462+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Ring of Unknown Origins\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 140\n  | material                 = Gold\n  | hardness                 = 18\n  | basevalue                = 5,220 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 13\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = Flesh Maker's Laboratory\n  | chest                    = end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Proof|Disease|6}}\n* {{Proof|Poison|6}}\n* {{Stat|INT|5}}\n* {{Stat|CHA|5}}\n* {{Augment|Yellow}}\n  | description              = One of the many artificers at the laboratory found this ring on a corpse. It's yours now.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Ring of Unknown Origins.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Proof Against Disease +6",
+      "tooltip": "Proof Against Disease +6: This item grants its wearer immunity to natural diseases. This item also grants a +6 Enhancement bonus to saving throws against magical diseases, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical diseases with a DC of less than 7 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Disease",
+          "title": "Proof Against Disease",
+          "text": "Proof Against Disease +6"
+        }
+      ]
+    },
+    {
+      "text": "Proof Against Poison +6",
+      "tooltip": "Proof Against Poison +6: This item grants its wearer immunity to natural poisons. This item also grants a +6 Enhancement bonus to saving throws against magical poisons, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical poisons with a DC of less than 7 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Poison",
+          "title": "Proof Against Poison",
+          "text": "Proof Against Poison +6"
+        }
+      ]
+    },
+    {
+      "text": "Intelligence +5",
+      "tooltip": "Intelligence +5: This item focuses the power of the wearer's mind, granting a +5 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +5"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +5",
+      "tooltip": "Charisma +5: This item makes the wearer have more flair, granting a +5 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +5"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

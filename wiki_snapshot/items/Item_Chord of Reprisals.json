@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Chord of Reprisals",
+  "page_id": 11360,
+  "revision_id": 628977,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:21:39.633042+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Chord of Reprisals\n  | type                     = Belt\n  | class                    = Clothing\n  | basevalue                = 5,220 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 140\n  | material                 = Leather\n  | hardness                 = 19\n  | bind                     = {{Bind|BtC|BoE}}\n  | minlevel                 = 13\n  | quest                    = Inferno of the Damned\n  | chest                    = end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Guard|Fire|ii}}\n* {{Elemental Resistance|Cold|20}}\n* {{Augment|Green}}\n* {{Augment|Yellow}}\n  | description              = This cloth cord belt appears to have flames dancing down its length. When struck, this belt lashes out at the attacker with the intensity of the fires of hell.\n  | pic                      = Belt Generic.png\n  | picdesc                  = Chord of Reprisals.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Fire Guard II",
+      "tooltip": "Fire Guard II: When Hit in Melee: Deals 2 to 8 Fire damage to your attacker.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Guard",
+          "title": "Fire Guard",
+          "text": "Fire Guard II"
+        }
+      ]
+    },
+    {
+      "text": "Cold Resistance +20",
+      "tooltip": "Cold Resistance +20: Passive: +20 Enhancement bonus to your Cold Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Resistance",
+          "title": "Cold Resistance",
+          "text": "Cold Resistance +20"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

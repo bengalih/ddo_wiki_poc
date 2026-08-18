@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Shining Adamantine Plate",
+  "page_id": 8126,
+  "revision_id": 634647,
+  "revision_timestamp": "2025-04-22T03:35:25Z",
+  "fetched_at": "2026-08-17T22:55:49.447839+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Shining Adamantine Plate\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | ac                       = +17\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 184\n  | material                 = Adamantine\n  | hardness                 = 29\n  | basevalue                = 4,850 pp\n  | weight                   = 50 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 8\n  | quest                    = Tempest's Spine\n  | chest                    = right end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Skills|Command}}\n* {{Mat|Adamantine|a|3}}\n* {{Augment|Green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Gleaming Adamantine Plate shown.jpg <!--same  style-->\n  | picdesc                  = Shining Adamantine Plate.png\n  | description              = This armor consists of shaped and fitted metal plates riveted and interlocked to cover the entire body.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Adamantine",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Command +2",
+      "tooltip": "Command: Passive: +2 competence bonus on Charisma based skill checks. Command armor and command shields make their owners very noticeable, imposing a -6 penalty on Hide checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Command_(enchantment)",
+          "title": "Command (enchantment)",
+          "text": "Command +2"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Heavy armor made from adamantine grants its wearer damage reduction of 3/-.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

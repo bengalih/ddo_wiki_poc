@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Tatterchain",
+  "page_id": 77033,
+  "revision_id": 672416,
+  "revision_timestamp": "2026-01-25T17:31:51Z",
+  "fetched_at": "2026-08-17T23:11:13.697812+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Tatterchain\n  | damage                   = 2.40[1d6] + 5 Bludgeon, Good, Evil, Lawful, Chaotic, Adamantine, Magic\n  | crit                     = 20 / x2\n  | type                     = Handwrap\n  | hand                     = Simple\n  | class                    = Bludgeoning\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Exotic\n  | reqtrait                 = \n  | UMD DC                   = \n  | bind                     = {{Bind|BtA|BoA}}\n  | minlevel                 = 17\n  | durability               = 290\n  | material                 = Cloth\n  | hardness                 = 30\n  | basevalue                = 6803pp\n  | weight                   = 0.50 lbs\n  | released                 = Update 43\n  | revamped                 = Update 76\n  | quest                    = Finding Dorris\n  | chest                    = End chest\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{The Dragging of the Depths|4}}\n* {{Aligned}}\n* {{Lesser Boneshatter}}\n* {{Weaken Undead|weapon}}\n* {{Augment|Red}}\n  | pic                      = Handwraps Generic.png\n  | picdesc                  = Tatterchain.PNG\n  | description              = Wrap this around your hands to strike at the heart of Undead.\n  | tips                     = Unlike Unholy items, this item won't give you a negative level if you are Good aligned.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Handwrap",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 17,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "The Dragging of the Depths 4",
+      "tooltip": "The Dragging of the Depths 4: Attuned to the dark depths of the waves below, this weapon is cold to the touch and unholy. Each hit drains life from your enemies, dealing 4d6 Evil damage, and when striking Good enemies, it also deals an additional 4d6 Cold damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/The_Dragging_of_the_Depths",
+          "title": "The Dragging of the Depths",
+          "text": "The Dragging of the Depths 4"
+        }
+      ]
+    },
+    {
+      "text": "Aligned",
+      "tooltip": "Aligned: This weapon transmutes into a form that is able to bypass any alignment based Damage Reduction. (Chaotic, Good, Evil, Lawful)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Aligned",
+          "title": "Aligned",
+          "text": "Aligned"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Boneshatter",
+      "tooltip": "Lesser Boneshatter: This weapon is powerful enough to shatter the bones of those it strikes. On an attack roll of 20 which is confirmed as a critical hit, the weapon breaks multiple bones in the target's body, causing significant impairment. Creatures with skeletons take 10d6 damage and will have their movement and attacks slowed by 25% and their attack damage reduced by 25% when their bones are shattered.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Boneshatter_(enchantment)",
+          "title": "Boneshatter (enchantment)",
+          "text": "Lesser Boneshatter"
+        }
+      ]
+    },
+    {
+      "text": "Weaken Undead",
+      "tooltip": "Weaken Undead: Undead creatures struck by this weapon find themselves more vulnerable. Each time this weapon deals damage to an undead creature, the target loses 20% of its Fortification for the next 20 seconds. This effect does not stack with itself.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Weaken_Undead",
+          "title": "Weaken Undead",
+          "text": "Weaken Undead"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

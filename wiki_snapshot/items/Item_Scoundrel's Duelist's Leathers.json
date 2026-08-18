@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Scoundrel's Duelist's Leathers",
+  "page_id": 83177,
+  "revision_id": 634522,
+  "revision_timestamp": "2025-04-22T03:27:05Z",
+  "fetched_at": "2026-08-17T22:52:37.890777+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Scoundrel's Duelist's Leathers\n  | type                     = Leather\n  | feat                     = Light\n  | race                     = Tiefling Scoundrel\n  | ac                       = 9\n  | maxdexbonus              = 11\n  | acp                      = \n  | asf                      = 10%\n  | durability               = 190\n  | material                 = spiritcraft leather\n  | hardness                 = 26\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 15\n  | basevalue                = 6001 pp\n  | weight                   = 35 lbs\n  | quest                    = Advance to level 15\n  | chest                    = \n  | end reward               = y\n  | turn in                  = \n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Sheltering|15|Enhancement|Physical}}\n* {{Parrying|2}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Scoundrel's Leathers shown.jpg\n  | picdesc                  = Scoundrel's Duelist's Leathers.png\n  | description              = Fanciful, flavorful, and high-quality stitching - a work of art in its own right.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Spiritcraft Leather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +15",
+      "tooltip": "Physical Sheltering +15: +15 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +15"
+        }
+      ]
+    },
+    {
+      "text": "Parrying +2",
+      "tooltip": "Parrying +2: +2 Insight bonus to Armor Class, +2 Insight bonus to Saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Parrying",
+          "title": "Parrying",
+          "text": "Parrying +2"
+        }
+      ]
+    }
+  ]
+}

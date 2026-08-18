@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Tyrzza's Bane (old version)",
+  "page_id": 8052,
+  "revision_id": 635643,
+  "revision_timestamp": "2025-04-22T04:41:33Z",
+  "fetched_at": "2026-08-17T23:21:55.565624+00:00",
+  "categories": [],
+  "wikitext": "{{History}}\n{{Named item|Weapon\n  | historic                 = true\n  | nocat                    = true\n  | name                     = Tyrzza's Bane\n  | damage                   = 1d6 + 4 Pierce, Good, Cold Iron, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Rapier\n  | hand                     = One-handed\n  | class                    = Piercing\n  | reqtrait                 = Good\n  | UMD DC                   = 20\n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Martial\n  | durability               = 95\n  | material                 = Cold Iron\n  | hardness                 = 15\n  | minlevel                 = 8\n  | quest                    = Invaders!\n  | chest                    = End Chest (This weapon no longer Drops)\n  | basevalue                = 50,000 gp\n  | weight                   = 2 lbs.\n  | bind                     = {{Bind|no|nocat=true}}\n  | enhancements             = \n* {{Enhancement bonus|w|4|nocat=true}}\n* [[Pure Good]]\n* {{Mat|Cold Iron|nocat=true}}\n  | pic                      = Tyrzzas Bane Old Held.jpg\n  | picdesc                  = Item Tyrzzas Bane Old.png\n  | description              = A rapier infused with Tyrzza's essence and blessed by the Sovereign Host, this sword will prove to be a powerful weapon against the demons.\n  | tips                     = This weapon no longer drops, the new version of can be found [[Tyrzza's Bane|here]].\n}}",
+  "item_template": "History",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Rapier",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Pure Good",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Pure_Good",
+          "title": "Pure Good",
+          "text": "Pure Good"
+        }
+      ]
+    },
+    {
+      "text": "Cold Iron",
+      "tooltip": "Cold Iron: This iron mined deep underground, known for its effectiveness against fey creatures, is forged at a lower temperature to preserve its delicate properties. When combined with Good damage types, Cold Iron weapons are able to overcome the damage reduction of most Demons like Fire Reavers or Flesh Renders. See Monster DR and weaknesses for specifics.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Iron",
+          "title": "Cold Iron",
+          "text": "Cold Iron"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

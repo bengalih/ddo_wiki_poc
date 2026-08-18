@@ -1,0 +1,128 @@
+{
+  "page_title": "Item:Nullscale Armor",
+  "page_id": 72236,
+  "revision_id": 681145,
+  "revision_timestamp": "2026-03-27T21:34:22Z",
+  "fetched_at": "2026-08-17T22:33:10.772689+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Nullscale Armor\n  | type                     = Heavy Armor\n  | feat                     = Heavy\n  | race                     = None\n  | ac                       = +35\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 440\n  | material                 = Blue Dragonscale\n  | hardness                 = 39\n  | minlevel                 = 28\n  | released                 = Update 40\n  | revamped                 = Update 59\n  | quest                    = Killing Time\n  | chest                    = end chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | basevalue                = 11,250pp\n  | weight                   = 50 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Guard|Nullmagic}}\n* {{Sheltering|34|Enhancement|Physical}}\n* {{Fortification|145}}\n* {{Save|Will|12}}\n* {{Magical Null}}\n* {{Augment|Blue}}\n* {{Augment|Green}}\n  | crafting                 = Soulforge\n  | craftingupgrade          = Essence of the Nullscale Armor\n  | pic                      = Nullscale Armor shown.jpg\n  | picdesc                  = Nullscale Armor.png\n  | description              = An unusual suit of Blue Dragonscale that wraps magical energy around it, offering the wearer a great deal of magical resistance. Unfortunately, it also hinders all spellcasting. Even Divine casters can have their spells fail while wearing this robe.\n  | notes                    = \n}}\n[[Category:Draconic Raider's Reward Box items]]\n[[C:Essence augment material items]]",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Blue Dragonscale",
+  "armor_type": "Heavy Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Nullmagic Guard",
+      "tooltip": "Nullmagic Guard: On being hit with a spell: There is a small chance that you explode in arcane energies. Foes hit are subject to a silencing effect, preventing their spellcasts and dampening their magical protections for 10 seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullmagic_Guard",
+          "title": "Nullmagic Guard",
+          "text": "Nullmagic Guard"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +34",
+      "tooltip": "Physical Sheltering +34: +34 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +34"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +145%",
+      "tooltip": "Fortification +145%: +145% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +145%"
+        }
+      ]
+    },
+    {
+      "text": "Will Save +12",
+      "tooltip": "Will Save +12: This item gives a +12 Resistance bonus to your Will saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Will_save",
+          "title": "Will save",
+          "text": "Will Save +12"
+        }
+      ]
+    },
+    {
+      "text": "Magical Null",
+      "tooltip": "Magical Null: The nullcloth that this robe is made from absorbs spell energies making it difficult for all spell casters, even Divine casters, to complete their spells. +15% Spell Failure chance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magical_Null",
+          "title": "Magical Null",
+          "text": "Magical Null"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

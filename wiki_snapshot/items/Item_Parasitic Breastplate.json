@@ -1,0 +1,92 @@
+{
+  "page_title": "Item:Parasitic Breastplate",
+  "page_id": 14507,
+  "revision_id": 633874,
+  "revision_timestamp": "2025-04-22T02:43:34Z",
+  "fetched_at": "2026-08-17T22:35:16.130043+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Parasitic Breastplate\n  | type                     = Light Armor\n  | feat                     = Light\n  | minlevel                 = 14\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +16\n  | maxdexbonus              = 9\n  | acp                      = \n  | asf                      = 10%\n  | durability               = 228\n  | material                 = Flesh\n  | hardness                 = 24\n  | basevalue                = 5,620 pp\n  | weight                   = 30 lbs\n  | quest                    = In The Flesh\n  | chest                    = End chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Symbiotic Flexibility}}\n* {{ItemGrantedFeat|Diehard}}\n* {{CraftingEffects|Trace of Madness}}\n* {{Symbiotic Backlash}}\n* {{Rough Hide|3}}\n  | crafting                 = Altar of Insanity\n  | craftingupgrade          = \n  | pic                      = Parasitic Breastplate shown.jpg\n  | picdesc                  = Parasitic Breastplate.png\n  | description              = This grotesque breastplate appear to be at least partially alive. Its organic sinews cause it to be more flexible than most other armor of its type, and it will siphon some of its life into the wearer if he or she should become unconscious.\n  | notes                    = You can remove the [[Symbiotic Backlash]] penalty with a [[Sustaining Symbiont]].\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Flesh",
+  "armor_type": "Light Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Symbiotic Flexibility",
+      "tooltip": "Symbiotic Flexibility: Because this suit of armor has merged with your body, the flexibility it affords you is practically unparalleled. A suit of armor that has this property has a maximum Dexterity bonus 4 higher than normal, and its armor check penalty is reduced by 4.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Symbiotic_Flexibility",
+          "title": "Symbiotic Flexibility",
+          "text": "Symbiotic Flexibility"
+        }
+      ]
+    },
+    {
+      "text": "Diehard",
+      "tooltip": "Diehard: If you are incapacitated while this item is equipped, it will automatically stabilize you as if you had the Diehard feat.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Diehard",
+          "title": "Diehard",
+          "text": "Diehard"
+        }
+      ]
+    },
+    {
+      "text": "Trace of Madness",
+      "tooltip": "Trace of Madness: You can almost hear faint, panicked voices when this item is close to you. Perhaps the latent power of this item's hint of madness could be brought out by some catalyst.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Trace_of_Madness",
+          "title": "Trace of Madness",
+          "text": "Trace of Madness"
+        }
+      ]
+    },
+    {
+      "text": "Symbiotic Backlash",
+      "tooltip": "Symbiotic Backlash: This item is symbiotic and grants you benefits, but it also deals 2 to 12 extra damage to you when enemies roll a 20 on an attack against you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Symbiotic_Backlash",
+          "title": "Symbiotic Backlash",
+          "text": "Symbiotic Backlash"
+        }
+      ]
+    },
+    {
+      "text": "Rough Hide +3",
+      "tooltip": "Rough Hide +3: This item fuses with your body and toughens your skin, providing a +3 Primal bonus to your natural armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rough_Hide",
+          "title": "Rough Hide",
+          "text": "Rough Hide +3"
+        }
+      ]
+    }
+  ]
+}

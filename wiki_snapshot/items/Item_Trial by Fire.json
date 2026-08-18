@@ -1,0 +1,85 @@
+{
+  "page_title": "Item:Trial by Fire",
+  "page_id": 17896,
+  "revision_id": 682845,
+  "revision_timestamp": "2026-04-08T21:21:20Z",
+  "fetched_at": "2026-08-17T23:21:20.962645+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Rune Arm\n  | name                     = Trial by Fire\n  | reqtrait                 = [[Artificer Rune Arm Use]]\n  | UMD DC                   = None\n  | minlevel                 = 11\n  | durability               = 155\n  | material                 = Gem\n  | hardness                 = 16\n  | quest                    = Attack on Stormreach\n  | end reward               = yes\n  | basevalue                = 6,050pp\n  | weight                   = 0.25 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | spell                    = Fire Blast\n  | target                   = Foe, Directional, Breakable\n  | school                   = Evocation\n  | sr                       = no\n  | spell desc               = Deals fire damage to a target with a cone shaped blast of fire. At higher charge tiers the blast is larger. Opponents within the blast receive a [[Reflex save]] for half damage.\n  | max charge               = 3\n  | imbue                    = Fire II\n  | imbue die                = 2d4\n  | imbue dmg                = fire\n  | mythic                   = no\n  | enhancements             = \n* [[Fire Blast]]\n* {{hp|Vitality|20}} \n* {{Elemental Resistance|Fire|5|insight}} \n  | epic                     = no\n  | crafting                 = Essence Crafting\n  | craftingupgrade          = \n  | craftingnotes            = \n  | pic                      = Fire Blast icon.png\n  | picdesc                  = Trial by Fire (item).png\n  | description              = Droaam is sometimes a cruel and brutal place. Artificers that hail from there often enchant their armaments to help them survive the inevitable power struggles.\n  | tips                     = Disjuncted version: [[Image:Trial by Fire disjuncted.png]]\n}}",
+  "item_template": "Named item",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Maximum Charge Tier: III",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maximum_Charge_Tier",
+          "title": "Maximum Charge Tier",
+          "text": "Maximum Charge Tier"
+        }
+      ]
+    },
+    {
+      "text": "Fire Blast",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Blast",
+          "title": "Fire Blast",
+          "text": "Fire Blast"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +20",
+      "tooltip": "Vitality +20: Passive: +20 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +20"
+        }
+      ]
+    },
+    {
+      "text": "Inherent Fire Resistance - 5",
+      "tooltip": "Inherent Fire Resistance - 5: This item provides a +5 Insight bonus to your Fire resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance#Inherent_Resistances",
+          "title": "Fire Resistance",
+          "text": "Inherent Fire Resistance - 5"
+        }
+      ]
+    },
+    {
+      "text": "Rune Arm Imbue: Fire II",
+      "tooltip": "Rune Arm Imbue: Fire II: Wearing this Rune Arm will imbue any weapon you wield, dealing 2d4 points of fire damage per hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rune_Arm_Imbue",
+          "title": "Rune Arm Imbue",
+          "text": "Rune Arm Imbue"
+        }
+      ]
+    },
+    {
+      "text": "Craftable Rune Arm",
+      "tooltip": "This Rune Arm is craftable and can be customized using recipes at standard crafting devices after disjuncting.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Craftable_Rune_Arm",
+          "title": "Craftable Rune Arm",
+          "text": "Craftable Rune Arm"
+        }
+      ]
+    }
+  ]
+}

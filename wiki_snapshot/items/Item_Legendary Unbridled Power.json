@@ -1,0 +1,138 @@
+{
+  "page_title": "Item:Legendary Unbridled Power",
+  "page_id": 119343,
+  "revision_id": 659862,
+  "revision_timestamp": "2025-09-12T05:08:58Z",
+  "fetched_at": "2026-08-17T22:13:56.783183+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Rune Arm\n  | name                     = Legendary Unbridled Power\n  | reqtrait                 = [[Rune Arm Use|Artificer Rune Arm Use]]\n  | UMD DC                   = None\n  | minlevel                 = 34\n  | spell                    = Electrical Blast\n  | target                   = Foe, Directional, Breakable\n  | school                   = Evocation\n  | sr                       = No\n  | spell desc               = Deals electrical damage to a target with a cone shaped blast of lightning. At higher charge tiers the blast is larger. Opponents within the blast receive a Reflex save for half damage.<br /><br />Charge Tier 1: 1d6+1, plus 1 per ART Level<br />Charge Tier 2: 2d8+3, plus 1d2 per ART Level<br />Charge Tier 3: 3d10+6, plus 1d10 per ART Level<br />Charge Tier 4: 4d12+10, plus 2d8 per ART Level<br />Charge Tier 5: 5d14+15, plus 2d10 per ART Level\n  | max charge               = V\n  | imbue                    = Electrical VI\n  | imbue die                = 2d12\n  | imbue dmg                = electrical\n  | craftable rune arm       = no\n  | food                     = yes\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 550\n  | material                 = Gem\n  | hardness                 = 44\n  | cost                     = 28,475 pp\n  | weight                   = 0.25 lbs\n  | released                 = Update 75\n  | quest                    = Locked Away (Part Two)\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* [[Electrical Blast]]\n* {{SpellPower|Magnetism|79|Insight}}\n* {{Spelllore|Lightning|23}}\n* {{Lamordia Slot|Melancholic|Weapon}}\n* {{Lamordia Slot|Dolorous|Weapon}}\n* {{Augment|Green}}\n* {{Augment|Yellow}}\n  | crafting                 = \n  | description              = A strong enough electric shock can end life. Another strong one can begin it again.\n  | pic                      = Electrical Blast icon.png\n  | picdesc                  = Legendary Unbridled Power.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "minimum_level": 34,
+  "enchantments": [
+    {
+      "text": "Maximum Charge Tier: V",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maximum_Charge_Tier",
+          "title": "Maximum Charge Tier",
+          "text": "Maximum Charge Tier"
+        }
+      ]
+    },
+    {
+      "text": "Electrical Blast",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electrical_Blast",
+          "title": "Electrical Blast",
+          "text": "Electrical Blast"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Magnetism +79",
+      "tooltip": "Insightful Magnetism +79: Passive: +79 Insight bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Insightful Magnetism +79"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Lore +23%",
+      "tooltip": "Lightning Lore +23: Passive: Your Electricity spells gain a 23% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore +23%"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Melancholic Slot (Weapon)",
+      "tooltip": "Lamordia: Melancholic Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Melancholic Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Dolorous Slot (Weapon)",
+      "tooltip": "Lamordia: Dolorous Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Dolorous Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    },
+    {
+      "text": "Rune Arm Imbue: Electrical VI",
+      "tooltip": "Rune Arm Imbue: Electrical VI: Wearing this Rune Arm will imbue any weapon you wield, dealing 2d12 points of electrical damage per hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rune_Arm_Imbue",
+          "title": "Rune Arm Imbue",
+          "text": "Rune Arm Imbue"
+        }
+      ]
+    }
+  ]
+}

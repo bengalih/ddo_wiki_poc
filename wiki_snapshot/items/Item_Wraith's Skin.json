@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Wraith's Skin",
+  "page_id": 5518,
+  "revision_id": 635856,
+  "revision_timestamp": "2025-04-22T04:56:05Z",
+  "fetched_at": "2026-08-17T23:27:41.766757+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Wraith's Skin\n  | type                     = Leather\n  | feat                     = Light\n  | race                     = \n  | minlevel                 = 6\n  | bind                     = {{Bind|BtC|BoE}}\n  | ac                       = +7\n  | maxdexbonus              = 8\n  | asf                      = 10%\n  | durability               = 92\n  | material                 = Leather\n  | hardness                 = 14\n  | basevalue                = 2,401 pp\n  | weight                   = 15 lbs\n  | quest                    = Caverns of Korromar\n  | chest                    = [[Horus Hammercrush]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{Skills|ms|7}}\n* {{Skills|hide|7}}\n* {{Augment|Colorless}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Dink's Leather Wraps shown.jpg <!--same style-->\n  | picdesc                  = Wraith's Skin.png\n  | description              = This amazingly thin, yet strong leather is designed for stealth.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Move Silently +7",
+      "tooltip": "Move Silently +7: Passive: +7 Competence bonus to the Move Silently skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Move_Silently",
+          "title": "Move Silently",
+          "text": "Move Silently +7"
+        }
+      ]
+    },
+    {
+      "text": "Hide +7",
+      "tooltip": "Hide +7: Passive: +7 Competence bonus to the Hide skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hide",
+          "title": "Hide",
+          "text": "Hide +7"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Sword of Spiders",
+  "page_id": 126200,
+  "revision_id": 699174,
+  "revision_timestamp": "2026-07-23T16:30:33Z",
+  "fetched_at": "2026-08-17T23:08:47.029283+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Sword of Spiders\n  | damage                   = 1.20[1d8] + 5 Slash, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Long Sword\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 180\n  | material                 = Steel\n  | hardness                 = 21\n  | minlevel                 = 11\n  | basevalue                = 4,401pp 5gp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 81\n  | quest                    = Stealing from Sorcere\n  | chest                    = end chest\n  | mythic                   = yes\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Poisonous|3}}\n* {{Toxic|7}}\n* {{Nightshade Venom|45}}\n* {{Crippling}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A Drow sword made in devotion to Lolth.\n  | pic                      = Sword of Spiders shown.jpg\n  | picdesc                  = Sword of Spiders.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Poisonous 3",
+      "tooltip": "Poisonous 3: This effect causes the edges of this weapon to drip with a vile venom, dealing 3d6 poison damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Poisonous",
+          "title": "Poisonous",
+          "text": "Poisonous 3"
+        }
+      ]
+    },
+    {
+      "text": "Toxic 7",
+      "tooltip": "Toxic 7: This effect causes the edges of this weapon to drip with a vile venom, dealing 7d6 poison damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Toxic",
+          "title": "Toxic",
+          "text": "Toxic 7"
+        }
+      ]
+    },
+    {
+      "text": "Nightshade Venom 45",
+      "tooltip": "Nightshade Venom 45: Any creature struck by this weapon must succeed on a Difficulty Check 45 Fortitude save or fall unconscious. The target may attempt a new save to end the effect every several seconds; otherwise the sleep lasts for 20 seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nightshade_Venom",
+          "title": "Nightshade Venom",
+          "text": "Nightshade Venom 45"
+        }
+      ]
+    },
+    {
+      "text": "Crippling",
+      "tooltip": "Crippling: A crippling weapon is infused with binding power so that when a target is critically hit their movement is slowed by half.Note: Real slowdown is only 25%",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crippling",
+          "title": "Crippling",
+          "text": "Crippling"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

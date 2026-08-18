@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Elemental Fury (level 26)",
+  "page_id": 41610,
+  "revision_id": 672835,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:42:01.898876+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Elemental Fury}}\n  | sentience                = no\n  | damage                   = [1d6] + 5 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Short Sword\n  | hand                     = One-handed\n  | class                    = Piercing\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Martial\n  | durability               = 315\n  | material                 = Steel\n  | hardness                 = 36\n  | minlevel                 = 26\n  | released                 = Update 19\n  | revamped                 = Update 76\n  | quest                    = Breaking the Ranks\n  | chest                    = End chest (Epic Normal);<br />[[The Secret of the Storm Horns]], Quest chain end reward (Epic)\n  | basevalue                = 10,401pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Acid|iv}}\n* {{Flaming|iv}}\n* {{Shock|iv}}\n* {{Frost|iv}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Elemental Fury shown.jpg\n  | picdesc                  = Elemental Fury (level 26).png\n  | description              = 'Umbrage of earth, rage of fire. Temper of wind, ire of water. These are your weapons. Drive their fury into the hearts of your enemies.'<br />-Yrrgann, Gnoll Elementalist\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Short Sword",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Acid IV",
+      "tooltip": "Acid IV: On Hit: 4 to 16 Acid Damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Acid",
+          "title": "Acid",
+          "text": "Acid IV"
+        }
+      ]
+    },
+    {
+      "text": "Flaming IV",
+      "tooltip": "Flaming IV: On Hit: 4 to 16 Fire Damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flaming#Flaming",
+          "title": "Flaming",
+          "text": "Flaming IV"
+        }
+      ]
+    },
+    {
+      "text": "Shock IV",
+      "tooltip": "Shock IV: On Hit: 4 to 16 Electric Damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shock",
+          "title": "Shock",
+          "text": "Shock IV"
+        }
+      ]
+    },
+    {
+      "text": "Frost IV",
+      "tooltip": "Frost IV: On Hit: 4 to 16 Cold Damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Frost",
+          "title": "Frost",
+          "text": "Frost IV"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

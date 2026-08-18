@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Legendary Ward-Inscribed Pendant",
+  "page_id": 66441,
+  "revision_id": 633169,
+  "revision_timestamp": "2025-04-22T01:55:06Z",
+  "fetched_at": "2026-08-17T22:15:22.819824+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Legendary Ward-Inscribed Pendant\n  | slot                     = Neck\n  | type                     = Necklace\n  | durability               = 390\n  | material                 = Stone\n  | hardness                 = 49\n  | basevalue                = 11,620 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 29\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 37\n  | quest                    = Ravens' Bane\n  | chest                    = end chest\n  | enhancements             = \n* {{Save|Curse|2|Quality}}\n* {{Deadly|10}}\n* {{Stat|Constitution|13}}\n* {{NaturalArmor|13}}\n* {{Augment|Yellow}}\n* {{Named item sets|Crypt Raider Set (Legendary)}}\n  | pic                      = Necklace Generic Blue.png\n  | picdesc                  = Legendary Ward-Inscribed Pendant.png\n  | description              = There is an odd glyph inscribed on this stone pendant.\n}}",
+  "item_template": "Named item",
+  "material": "Stone",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Quality Curse Resistance +2",
+      "tooltip": "Quality Curse Resistance +2: Passive: +2 Quality bonus to saves versus curses.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Save",
+          "title": "Save",
+          "text": "Quality Curse Resistance +2"
+        }
+      ]
+    },
+    {
+      "text": "Deadly +10",
+      "tooltip": "Deadly +10: +10 Competence bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Deadly +10"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +13",
+      "tooltip": "Constitution +13: This item gives the wearer improved health, granting a +13 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +13"
+        }
+      ]
+    },
+    {
+      "text": "Natural Armor +13",
+      "tooltip": "Natural Armor +13: Passive: +13 Natural Armor Bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Natural_armor_bonus",
+          "title": "Natural armor bonus",
+          "text": "Natural Armor +13"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Crypt Raider Set (Legendary)",
+      "tooltip": "Crypt Raider Set (Legendary): 3 Pieces Equipped:+3 Artifact bonus to Imbue Dice+15 Artifact Bonus to Melee and Ranged Power-20% Artifact bonus to threat decrease with both melee and ranged attacks",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Crypt_Raider_Set_(Legendary)",
+          "title": "Named item sets",
+          "text": "Crypt Raider Set (Legendary)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

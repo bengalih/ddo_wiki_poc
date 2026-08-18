@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Phiarlan's Ring",
+  "page_id": 10515,
+  "revision_id": 633953,
+  "revision_timestamp": "2025-04-22T02:48:51Z",
+  "fetched_at": "2026-08-17T22:37:46.325575+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Phiarlan's Ring\n  | type                     = Ring\n  | slot                     = Finger\n  | durability               = 60\n  | material                 = Leather\n  | hardness                 = 7\n  | basevalue                = 2,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 5\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = Gwylan's Stand\n  | chest                    = [[Yarlbur]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|Perform|7}}\n* {{Augment|Yellow}}\n  | description              = A ring so old it predates the dragonmarked houses. It still carries the essence of song within.\n  | pic                      = Ring Generic Phiarlan.png\n  | picdesc                  = Phiarlan's Ring.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Perform +7",
+      "tooltip": "Perform +7: Passive: +7 Competence bonus to the Perform skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Perform",
+          "title": "Perform",
+          "text": "Perform +7"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "page_title": "Item:Planar Lariat",
+  "page_id": 126812,
+  "revision_id": 705506,
+  "revision_timestamp": "2026-08-15T16:18:17Z",
+  "fetched_at": "2026-08-17T22:38:28.432969+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Planar Lariat\n  | type                     = Belt\n  | class                    = Clothing\n  | slot                     = Waist\n  | durability               = 210\n  | material                 = Leather\n  | hardness                 = 31\n  | basevalue                = 4,401 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 11\n  | bind                     = {{Bind|BtA|BoA|exclusive=true}}\n  | quest                    = Catalyst Crafting\n  | turn in                  = {{Item|Planar Gird}}, its [[Abyssal Catalyst]] and 50 {{Item|Abyssal Gem}}s at the [[Strange Catalyst Forge]]\n  | epic                     = no\n  | released                 = Update 81\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Greater Heroism|11|3}}\n* {{Absorption|Chaos|16}}\n* {{Shield Bonus|1|Quality}}\n* {{Nearly Complete|Ability Score}}\n* {{Riposte|3}}\n* {{Augment|Blue}}\n* {{Augment|Moon}}\n  | crafting                 = Nearly Complete\n  | description              = This belt of interlocking gold disks is emblazoned with runes related to various Planes. Several pieces are bent and blistered from intense heat.\n  | pic                      = \n  | picdesc                  = Planar Lariat.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Greater Heroism — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Greater HeroismCaster level: 11Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Greater_Heroism",
+          "title": "Greater Heroism",
+          "text": "Greater Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Chaos Absorption +16%",
+      "tooltip": "Chaos Absorption +16%: Passive: 16% Enhancement Bonus to Chaos Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Chaos Absorption +16%"
+        }
+      ]
+    },
+    {
+      "text": "Quality Shield +1",
+      "tooltip": "Quality Shield +1: +1 quality bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bonus",
+          "title": "Shield Bonus",
+          "text": "Quality Shield +1"
+        }
+      ]
+    },
+    {
+      "text": "Nearly Complete: Ability Score",
+      "tooltip": "Nearly Complete: Ability Score: This item isn't quite finished, but it's only a step away from completion. Bring it to the forges on the upper floor of Gravenhollow and combine it with melted materials to restore this item to its full potential.",
+      "children": [
+        {
+          "text": "This item can be upgraded with one of the following:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Charisma +6",
+              "tooltip": "Charisma +6: This item makes the wearer have more flair, granting a +6 Enhancement bonus to Charisma.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Charisma",
+                  "title": "Charisma",
+                  "text": "Charisma +6"
+                }
+              ]
+            },
+            {
+              "text": "Constitution +6",
+              "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Constitution",
+                  "title": "Constitution",
+                  "text": "Constitution +6"
+                }
+              ]
+            },
+            {
+              "text": "Dexterity +6",
+              "tooltip": "Dexterity +6: This item makes the wearer more nimble and dexterous, granting a +6 Enhancement bonus to Dexterity.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Dexterity",
+                  "title": "Dexterity",
+                  "text": "Dexterity +6"
+                }
+              ]
+            },
+            {
+              "text": "Intelligence +6",
+              "tooltip": "Intelligence +6: This item focuses the power of the wearer's mind, granting a +6 Enhancement bonus to Intelligence.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Intelligence",
+                  "title": "Intelligence",
+                  "text": "Intelligence +6"
+                }
+              ]
+            },
+            {
+              "text": "Strength +6",
+              "tooltip": "Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Strength",
+                  "title": "Strength",
+                  "text": "Strength +6"
+                }
+              ]
+            },
+            {
+              "text": "Wisdom +6",
+              "tooltip": "Wisdom +6: This item makes the wearer more in tune with her surroundings, granting a +6 Enhancement bonus to Wisdom.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Wisdom",
+                  "title": "Wisdom",
+                  "text": "Wisdom +6"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Nearly_Complete",
+          "title": "Nearly Complete",
+          "text": "Nearly Complete: Ability Score"
+        }
+      ]
+    },
+    {
+      "text": "Riposte +3",
+      "tooltip": "Riposte +3: This item enchants its user with incredible awareness and speed, granting a +3 Insight bonus to AC and to Saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Riposte",
+          "title": "Riposte",
+          "text": "Riposte +3"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Moon Augment Slot",
+      "tooltip": "Moon",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Moon Augment Slot"
+        }
+      ]
+    }
+  ]
+}

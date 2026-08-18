@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Pendant of the Earth",
+  "page_id": 96159,
+  "revision_id": 691054,
+  "revision_timestamp": "2026-07-01T13:56:26Z",
+  "fetched_at": "2026-08-17T22:35:59.185433+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Pendant of the Earth\n  | basevalue                = 2801 pp\n  | weight                   = 0.10 lbs\n  | type                     = Necklace\n  | slot                     = Neck\n  | durability               = 170\n  | material                 = Steel\n  | hardness                 = 27\n  | minlevel                 = 7\n  | released                 = Update 55\n  | quest                    = Wild Thing\n  | chest                    = end chest\n  | bind                     = {{Bind|BtA|BoA}}\n  | crafting                 = \n  | craftingupgrade          = \n  | enhancements             = \n* {{Spell Focus|Spell Focus Mastery|1|insight}}\n* {{SpellPower|corrosion|33|insight}}\n* {{SpellPower|impulse|33|insight}}\n* {{SpellPower|combustion|33|insight}}\n* {{Augment|blue}}\n* {{Named item sets|The Dread Isle's Curse}}\n  | description              = This weighty necklace carries energy from the earth.\n  | pic                      = \n  | picdesc                  = Pendant of the Earth.png\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Insightful Spell Focus Mastery +1",
+      "tooltip": "Insightful Spell Focus Mastery +1: +1 Insight bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Insightful Spell Focus Mastery +1"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Corrosion +33",
+      "tooltip": "Insightful Corrosion +33: Passive: +33 Insight bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Insightful Corrosion +33"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Impulse +33",
+      "tooltip": "Insightful Impulse +33: Passive: +33 Insight bonus to Force, Untyped, Slashing, Piercing, and Bludgeoning Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impulse",
+          "title": "Impulse",
+          "text": "Insightful Impulse +33"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Combustion +33",
+      "tooltip": "Insightful Combustion +33: Passive: +33 Insight bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Insightful Combustion +33"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Dread Isle's Curse",
+      "tooltip": "The Dread Isle's Curse: 5 Pieces Equipped:+5 Profane bonus to Melee and Ranged Power+10 Profane bonus to Universal Spellpower+10 Profane bonus to Physical Resistance Rating+1 Profane bonus to Spell DCs+1 Profane bonus to all Ability ScoresThe Isle of Dread beckons you...",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Dread_Isle's_Curse",
+          "title": "Named item sets",
+          "text": "The Dread Isle's Curse"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

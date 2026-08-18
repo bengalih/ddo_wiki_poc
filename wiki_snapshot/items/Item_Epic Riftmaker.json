@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Epic Riftmaker",
+  "page_id": 52680,
+  "revision_id": 630321,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:54:02.666918+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Riftmaker\n  | damage                   = 4.60[1d12] + 12 Slash, Good, Magic\n  | crit                     = 20 / x4\n  | type                     = Great Axe\n  | hand                     = Two-handed\n  | race                     = \n  | class                    = Slashing\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 28\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 380\n  | material                 = Flametouched Iron\n  | hardness                 = 38\n  | basevalue                = 11,320 pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 27\n  | quest                    = The Devil's Details\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|12}}\n* {{Banishing|Improved}}\n* {{Bloodletter|VII}}\n* {{DmgPower|Melee|6}}\n* {{Burst|Superior Force}}\n* {{Mat|Flametouched Iron}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = There was once forged an axe so sharp, the very fabric of reality tore around it.\n  | pic                      = Riftmaker shown.jpg\n  | picdesc                  = Epic Riftmaker.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+12 Enhancement Bonus",
+      "tooltip": "+12 Enhancement Bonus: +12 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+12 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Improved Banishing",
+      "tooltip": "Improved Banishing: On Hit: 4 to 24 Bane damage to Outsiders.On Vorpal Hit: If an outsider struck by this weapon has fewer than 1500 Hit Points, it is instantly slain. If the outsider has above 1500 Hit Points, it takes 150 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Banishing#Improved_Banishing",
+          "title": "Banishing",
+          "text": "Improved Banishing"
+        }
+      ]
+    },
+    {
+      "text": "Bloodletter VII",
+      "tooltip": "Bloodletter VII: On Critical Hit: 15 to 90 Slashing damage from weapons with a x2 Critical Multiplier, 15 to 120 Slashing damage from weapons with a x3 Critical Multiplier, and 15 to 150 Slashing damage from weapons with a x4 or greater Critical Multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bloodletter",
+          "title": "Bloodletter",
+          "text": "Bloodletter VII"
+        }
+      ]
+    },
+    {
+      "text": "Melee Power +6",
+      "tooltip": "Melee Power +6: This item provides a +6 Enhancement bonus to Melee Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Melee_Power",
+          "title": "Melee Power",
+          "text": "Melee Power +6"
+        }
+      ]
+    },
+    {
+      "text": "Superior Force Burst",
+      "tooltip": "Superior Force Burst: This weapon is humming with magical force. The weapon deals an extra 2 to 12 force damage each hit. In addition, critical hits deal an additional 2 to 20 force damage for weapons with a x2 critical multiplier, 4 to 40 for a x3 critical multiplier and 6 to 60 for a x4 multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Force_(enchantment)#Superior_Force_Burst",
+          "title": "Force (enchantment)",
+          "text": "Superior Force Burst"
+        }
+      ]
+    },
+    {
+      "text": "Flametouched Iron",
+      "tooltip": "Flametouched Iron: Flametouched Iron grants +1 saves versus Evil Outsiders.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flametouched_Iron",
+          "title": "Flametouched Iron",
+          "text": "Flametouched Iron"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

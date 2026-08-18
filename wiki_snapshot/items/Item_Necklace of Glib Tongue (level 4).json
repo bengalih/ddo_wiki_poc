@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Necklace of Glib Tongue (level 4)",
+  "page_id": 72300,
+  "revision_id": 649307,
+  "revision_timestamp": "2025-07-26T19:12:35Z",
+  "fetched_at": "2026-08-17T22:30:03.904961+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = {{Item|Necklace of Glib Tongue}}\n  | minlevel                 = 4\n  | type                     = Necklace\n  | race                     = \n  | slot                     = Neck\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 140\n  | material                 = Leather\n  | hardness                 = 9\n  | cost                     = 1,601 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | released                 = Update 36\n  | quest                    = Mimic Hunt\n  | turn in                  = 80 {{Item|Mimic Token}}s\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|Alluring|3|Exceptional}}\n* {{Skills|Alluring|3|Insightful}}\n* {{Skills|Alluring|1|Quality}}\n* {{Skills|Linguistics|10}}\n* {{Augment|Yellow}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = An ancient Wizard constructed a series of these necklaces in an attempt to make it easier to listen to the populace surrounding his tower.\n  | pic                      = Belt Generic Faith.png\n  | picdesc                  = Necklace of Glib Tongue (Level 4).png\n  | tips                     = Turn in 80 {{Item|Mimic Token}}s at [[Glynereth]].\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Exceptional Alluring Skills Bonus +3",
+      "tooltip": "Exceptional Alluring Skills Bonus: +3 Exceptional bonus to Bluff, Diplomacy, Haggle, Intimidate, and Perform.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Skill",
+          "title": "Skill",
+          "text": "Exceptional Alluring Skills Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Alluring Skills Bonus +3",
+      "tooltip": "Insightful Alluring Skills Bonus: +3 Insight bonus to Bluff, Diplomacy, Haggle, Intimidate, and Perform.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Skill",
+          "title": "Skill",
+          "text": "Insightful Alluring Skills Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Quality Alluring Skills Bonus +1",
+      "tooltip": "Quality Alluring Skills Bonus: +1 Quality bonus to Bluff, Diplomacy, Haggle, Intimidate, and Perform.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Skill",
+          "title": "Skill",
+          "text": "Quality Alluring Skills Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Linguistics 10%",
+      "tooltip": "Linguistics: This item reduced the cooldowns of your Social skills (Diplomacy, Bluff, Intimidate) by 10%. This does not stack with the Negotiator ability.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Linguistics",
+          "title": "Linguistics",
+          "text": "Linguistics"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Blessed Goggles",
+  "page_id": 10162,
+  "revision_id": 628609,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:11:57.263363+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Blessed Goggles\n  | type                     = Goggles\n  | slot                     = Eye\n  | basevalue                = 120 pp\n  | weight                   = 0.10 lbs\n  | durability               = 20\n  | material                 = Leather\n  | hardness                 = 3\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Necromancer's Doom\n  | chest                    = \n  | end reward               = yes\n  | mythic                   = false\n  | enhancements             = \n* {{clicky|Bless|1|1}}\n  | description              = These enchanted goggles are said to grant a blessing upon those that gather around the wearer.\n  | pic                      = Blessed Goggles Equipped.png\n  | picdesc                  = Blessed Goggles.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "enchantments": [
+    {
+      "text": "Bless — 1 Charges (Recharged/Day:1)",
+      "tooltip": "BlessCaster level: 1Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bless",
+          "title": "Bless",
+          "text": "Bless"
+        }
+      ]
+    }
+  ]
+}

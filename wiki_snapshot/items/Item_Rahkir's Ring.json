@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Rahkir's Ring",
+  "page_id": 10219,
+  "revision_id": 634111,
+  "revision_timestamp": "2025-04-22T02:59:59Z",
+  "fetched_at": "2026-08-17T22:41:58.376242+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Rahkir's Ring\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 120\n  | material                 = Gold\n  | hardness                 = 12\n  | basevalue                = 10,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | quest                    = Tower of Despair\n  | chest                    = right side end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|INT|6}}\n* {{Stat|INT|1|Exceptional}}\n* {{Named item sets|Archmage}}\n* {{CraftingEffects|Incredible Potential}}\n  | crafting                 = Incredible Potential\n  | craftingupgrade          = <!-- -->\n  | description              = This ring courses with magical energy. It belonged to Rahkir, a famous Archmage and member of the Twelve. He disappeared while investigating a portal to Shavarath.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Rahkir's Ring.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Intelligence +6",
+      "tooltip": "Intelligence +6: This item focuses the power of the wearer's mind, granting a +6 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +6"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Intelligence +1",
+      "tooltip": "Exceptional Intelligence +1: This item focuses the power of the wearer's mind, granting a +1 Exceptional bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Exceptional Intelligence +1"
+        }
+      ]
+    },
+    {
+      "text": "Archmage",
+      "tooltip": "Archmage: This item is one of the two pieces of the Archmage set. When both items are equipped, you gain a +1% Artifact bonus to your Critical Chance with all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Archmage",
+          "title": "Named item sets",
+          "text": "Archmage"
+        }
+      ]
+    },
+    {
+      "text": "Incredible Potential",
+      "tooltip": "Incredible Potential: Incredible Potential: This ring's power has not been fully unleashed. When this ring is combined with 9 Shavarath War Trophies and ac Imbued Shard of Great Power in an Altar of Subjugation, its full potential will be reveled.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incredible_Potential",
+          "title": "Incredible Potential",
+          "text": "Incredible Potential"
+        }
+      ]
+    }
+  ]
+}

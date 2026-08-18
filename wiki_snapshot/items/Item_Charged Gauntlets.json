@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Charged Gauntlets",
+  "page_id": 12392,
+  "revision_id": 628943,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:20:52.776873+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Charged Gauntlets\n  | type                     = Gloves\n  | class                    = Clothing\n  | basevalue                = 2,005 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Hand\n  | durability               = 60\n  | material                 = Leather\n  | hardness                 = 11\n  | minlevel                 = 5\n  | bind                     = {{Bind|BtA|BoA}}\n  | revamped                 = Update 50\n  | released                 = Update 7\n  | quest                    = The Chronoscope\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Shocking Blow}}\n* {{Stat|STR|4}}\n* {{Elemental Resistance|Electric|14}}\n* {{Augment|Yellow}}\n* {{Named item sets|Might of the Abishai}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Charged Gauntlets\n  | description              = These gloves channel powerful electric energy into enemies that you strike.\n  | pic                      = Gloves Generic Charged.png\n  | picdesc                  = Charged Gauntlets.png\n  | tips                     = \n}}\n[[C:Eleven Year Old Cake items]]",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Shocking Blow",
+      "tooltip": "Shocking Blow: This item is charged with electricity. When in melee, on an attack roll of 20 which is confirmed as a critical hit it will punish the target with a large electric shock (10 to 60 electric damage). A successful Reflex save (DC 22) reduces this damage by half.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shocking_Blow",
+          "title": "Shocking Blow",
+          "text": "Shocking Blow"
+        }
+      ]
+    },
+    {
+      "text": "Strength +4",
+      "tooltip": "Strength +4: This item gives the wearer the power of Ogre Strength, granting a +4 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +4"
+        }
+      ]
+    },
+    {
+      "text": "Electric Resistance +14",
+      "tooltip": "Electric Resistance +14: Passive: +14 Enhancement bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Electric Resistance +14"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Might of the Abishai",
+      "tooltip": "Might of the Abishai: 3 Piece Equipped:+3 Profane bonus to Natural Armor+1 Profane bonus to all Ability Scores+1 Profane bonus to DCs5 Piece Equipped:+5 Profane bonus to Natural Armor+2 Profane bonus to all Ability Scores+2 Profane bonus to DCs",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Might_of_the_Abishai",
+          "title": "Named item sets",
+          "text": "Might of the Abishai"
+        }
+      ]
+    }
+  ]
+}

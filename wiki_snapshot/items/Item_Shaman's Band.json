@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Shaman's Band",
+  "page_id": 12016,
+  "revision_id": 634609,
+  "revision_timestamp": "2025-04-22T03:32:53Z",
+  "fetched_at": "2026-08-17T22:54:43.986919+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Shaman's Band\n  | type                     = Ring\n  | slot                     = Finger\n  | durability               = 50\n  | material                 = Leather\n  | hardness                 = 10\n  | basevalue                = 1,605pp\n  | weight                   = 0.10\n  | minlevel                 = 7\n  | bind                     = {{Bind|BtA|BoA}}\n  | revamped                 = Update 36\n  | released                 = Update 6\n  | quest                    = Into the Deep\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Spellpen|2}}\n* {{Wizardry|60}}\n* {{Named item sets|Shaman's Fury}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Shaman's Band\n  | description              = Drow shamans often carry these rings to make their fearsome spells more likely to strike their foes.\n  | pic                      = Ring Generic Immaterial.png\n  | picdesc                  = Shaman's Band.png\n  | tips                     = Pre-[[Update 36]] versions had {{Spellpen|i}}; BtC. They don't retroactive change but have to be reacquired. \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Spell Penetration +2",
+      "tooltip": "Spell Penetration +2: Passive: +2 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration +2"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry +60",
+      "tooltip": "Wizardry +60: +60 Enhancement bonus to spell points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry +60"
+        }
+      ]
+    },
+    {
+      "text": "Shaman's Fury",
+      "tooltip": "Shaman's Fury: 2 Pieces Equipped:+2% Artifact bonus to Fire, Cold, Electric, and Acid Spellcrit Chance+10 Artifact bonus to Fire, Cold, Electric, and Acid Spellpower",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Shaman's_Fury",
+          "title": "Named item sets",
+          "text": "Shaman's Fury"
+        }
+      ]
+    }
+  ]
+}

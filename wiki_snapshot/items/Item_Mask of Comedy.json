@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Mask of Comedy",
+  "page_id": 12567,
+  "revision_id": 633436,
+  "revision_timestamp": "2025-04-22T02:13:28Z",
+  "fetched_at": "2026-08-17T22:23:15.462105+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Mask of Comedy\n  | slot                     = Head\n  | type                     = Helm\n  | basevalue                = 1605 pp\n  | weight                   = 0.10 lbs\n  | durability               = 140\n  | material                 = Leather\n  | hardness                 = 24\n  | minlevel                 = 4\n  | released                 = Update 5\n  | revamped                 = Update 39\n  | quest                    = Under the Big Top\n  | chest                    = [[Maz'il'tilnik]]'s or [[Herli'nak the Untamed]]'s chest\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Good Hope|5|1}}\n* {{Stat|CHA|3}}\n* {{Spell Lore|Healing|8|Equipment}}\n* {{Spell Power|Devotion|55}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Mask of Comedy\n  | craftingnotes            = \n  | description              = A mask crafted for and used by the actors of the [[Livewood Theater]]. It represents happiness and high spirits, and is invested with magic to match.\n  | pic                      = Mask of Comedy shown.jpg\n  | picdesc                  = Mask of Comedy.png\n  | tips                     = [[Category:Eleven Year Old Cake items]]\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Good Hope — 1 Charges (Recharged/Day:1)",
+      "tooltip": "Good HopeCaster level: 5Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Good_Hope",
+          "title": "Good Hope",
+          "text": "Good Hope"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +3",
+      "tooltip": "Charisma +3: This item makes the wearer have more flair, granting a +3 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +3"
+        }
+      ]
+    },
+    {
+      "text": "Healing Lore +8%",
+      "tooltip": "Healing Lore +8: Passive: Your Positive Energy spells gain a 8% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Healing Lore +8%"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +55",
+      "tooltip": "Devotion +55: Passive: +55 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +55"
+        }
+      ]
+    }
+  ]
+}

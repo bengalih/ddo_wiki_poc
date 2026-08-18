@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Mace of the Wraith",
+  "page_id": 4863,
+  "revision_id": 633354,
+  "revision_timestamp": "2025-04-22T02:08:07Z",
+  "fetched_at": "2026-08-17T22:20:36.247871+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Mace of the Wraith\n  | damage                   = [1d8] + 3 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Heavy Mace\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 120\n  | material                 = Steel\n  | hardness                 = 16\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = Caverns of Korromar\n  | chest                    = [[Colvis Hammercrush]]'s chest\n  | basevalue                = 2,401pp 2gp\n  | weight                   = 8 lbs \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* [[Ghost Touch]]\n* {{Force}}\n* {{Augment|Red}}\n  | description              = A simple weapon comprised of a solid blunt head attached to a haft.\n  | pic                      = Mace of the Wraith shown.jpg\n  | picdesc                  = Mace of the Wraith.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Heavy Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Ghost Touch",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghost_Touch",
+          "title": "Ghost Touch",
+          "text": "Ghost Touch"
+        }
+      ]
+    },
+    {
+      "text": "Force",
+      "tooltip": "Force: This weapon is humming with magical force. It deals an additional 1 to 6 force damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Force_(enchantment)",
+          "title": "Force (enchantment)",
+          "text": "Force"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

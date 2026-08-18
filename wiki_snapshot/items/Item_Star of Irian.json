@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Star of Irian",
+  "page_id": 11795,
+  "revision_id": 641207,
+  "revision_timestamp": "2025-05-20T05:30:46Z",
+  "fetched_at": "2026-08-17T23:05:31.365916+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Star of Irian\n  | damage                   = 1.50[1d8] + 4 Pierce, Bludgeon, Good, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Morningstar\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 145\n  | material                 = Steel\n  | hardness                 = 18\n  | minlevel                 = 8\n  | bind                     = {{Bind|BtC|BoA}}\n  | basevalue                = 3,200.8 pp\n  | weight                   = 6 lbs\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|4}}\n* {{holy}}\n* {{Righteous}}\n* {{Augment|Red}}\n* {{Augment|Orange}}\n  | quest                    = Tempest's Spine\n  | chest                    = Beholder chest\n  | description              = A simple weapon comprised of a round, spiked head and a long haft.\n  | pic                      = Star of Irian shown.png\n  | picdesc                  = Star of Irian.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Morningstar",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Holy",
+      "tooltip": "Holy: A holy weapon is imbued with holy power. This power makes the weapon good-aligned. Evil characters wielding this weapon suffer a negative level. The weapon deals an extra 2 to 12 damage against all targets of evil alignment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)#Holy",
+          "title": "Alignment damage (weapon)",
+          "text": "Holy"
+        }
+      ]
+    },
+    {
+      "text": "Righteous",
+      "tooltip": "Righteous: This weapon is imbued with holy power, giving it an additional +2 to attack bonus and damage against any evil creature. This power makes the weapon good-aligned.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Righteous",
+          "title": "Righteous",
+          "text": "Righteous"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    }
+  ]
+}

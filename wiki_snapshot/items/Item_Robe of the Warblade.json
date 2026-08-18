@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Robe of the Warblade",
+  "page_id": 108768,
+  "revision_id": 685526,
+  "revision_timestamp": "2026-05-06T13:20:02Z",
+  "fetched_at": "2026-08-17T22:48:15.846349+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Robe of the Warblade\n  | minlevel                 = 13\n  | type                     = Clothing\n  | feat                     = Cloth\n  | ac                       = +5\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 135\n  | material                 = Cloth\n  | hardness                 = 15\n  | basevalue                = 5,250 pp\n  | weight                   = 0 lbs\n  | released                 = Update 69\n  | quest                    = Book Burning\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | rare                     = yes\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Accuracy|11}}\n* {{Deadly|6}}\n* {{Demonic Shield}}\n* {{Armor-Piercing|2|Legendary}}\n* {{Augment|Blue}}\n* {{Augment|Sun}}\n  | crafting                 = \n  | description              = When the Echo broke off from the Warblade, the force of its defiance manifested this robe, and shares its clarity of purpose.\n  | pic                      = Outfit of the Warblade shown.jpg <!-- Same style for all WarbladeArmor types-->\n  | picdesc                  = Robe of the Warblade.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Clothing",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Accuracy +11",
+      "tooltip": "Accuracy +11: Passive: +11 Competence bonus to attack rolls",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accuracy",
+          "title": "Accuracy",
+          "text": "Accuracy +11"
+        }
+      ]
+    },
+    {
+      "text": "Deadly +6",
+      "tooltip": "Deadly +6: +6 Competence bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Deadly +6"
+        }
+      ]
+    },
+    {
+      "text": "Demonic Shield",
+      "tooltip": "Demonic Shield: Each time you are hit in melee combat there is a chance that a shield of demonic energy will grant you a +30 Profane bonus to temporary hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Demonic_Shield#Demonic_Shield",
+          "title": "Demonic Shield",
+          "text": "Demonic Shield"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Armor-Piercing 2%",
+      "tooltip": "Legendary Armor-Piercing 2%: Passive: +2% Legendary bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Legendary Armor-Piercing 2%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

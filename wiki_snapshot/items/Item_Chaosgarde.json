@@ -1,0 +1,94 @@
+{
+  "page_title": "Item:Chaosgarde",
+  "page_id": 9364,
+  "revision_id": 628940,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:20:48.817179+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Chaosgarde\n  | type                     = Bracers\n  | class                    = Jewelry\n  | minlevel                 = 9\n  | slot                     = Wrist\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 100\n  | material                 = Silver\n  | hardness                 = 13\n  | basevalue                = 3,620 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = The Xorian Cipher\n  | chest                    = Green Key Room\n  | enhancements             = \n* '''Required Trait:''' [[Lawful]] ([[UMD|UMD: 20]])\n* {{Heroism}}\n* {{Chaosguard}}\n* {{Dodge|4}}\n* {{Augment|Yellow}}\n  | description              = This set of polished silver bracers is stamped with a mark of True Law. They look slightly damaged from prior battles.\n  | pic                      = Bracers Generic.png\n  | picdesc                  = Chaosgarde.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Silver",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Required Trait: Lawful (UMD: 20)",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lawful",
+          "title": "Lawful",
+          "text": "Lawful"
+        },
+        {
+          "target": "/page/UMD",
+          "title": "UMD",
+          "text": "UMD: 20"
+        }
+      ]
+    },
+    {
+      "text": "Heroism",
+      "tooltip": "Heroism: Passive: +2 morale bonus to all your attack rolls, saving throws, and skill checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heroism_(enchantment)",
+          "title": "Heroism (enchantment)",
+          "text": "Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Chaosguard",
+      "tooltip": "Chaosguard: The bearer of this item gains +2 Deflection bonus to AC and +2 Resistance bonus to saving throws from Chaotic Enemies.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Chaosguard",
+          "title": "Chaosguard",
+          "text": "Chaosguard"
+        }
+      ]
+    },
+    {
+      "text": "Dodge +4%",
+      "tooltip": "Dodge +4%: +4% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +4%"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Wrist Boost +1 or +3",
+      "tooltip": "Mythic Wrist Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Wrist Boost"
+        }
+      ]
+    }
+  ]
+}

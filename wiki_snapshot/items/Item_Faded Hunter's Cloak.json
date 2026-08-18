@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Faded Hunter's Cloak",
+  "page_id": 71467,
+  "revision_id": 630713,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:01:54.967655+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Faded Hunter's Cloak\n  | race                     = Aasimar Scourge\n  | type                     = Cloak\n  | slot                     = Back\n  | durability               = 160\n  | material                 = Cloth\n  | hardness                 = 20\n  | cost                     = 6005 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Hp|False Life|23}}\n* {{Resistance|5}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Faded Hunter's Cloak shown.jpg\n  | picdesc                  = Faded Hunter's Cloak.png\n  | food                     = no\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "False Life +23",
+      "tooltip": "False Life +23: +23 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +23"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +5",
+      "tooltip": "Resistance +5: Passive: +5 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +5"
+        }
+      ]
+    }
+  ]
+}

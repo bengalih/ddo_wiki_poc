@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Vorne's Belt",
+  "page_id": 11378,
+  "revision_id": 635736,
+  "revision_timestamp": "2025-04-22T04:47:45Z",
+  "fetched_at": "2026-08-17T23:24:37.777299+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Vorne's Belt\n  | type                     = Belt\n  | class                    = Clothing\n  | basevalue                = 10,002pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 110\n  | material                 = Leather\n  | hardness                 = 15\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Sins of Attrition\n  | chest                    = Any chest; [[Tower of Despair]], [[Nythirios]] chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CON|6}}\n* {{False Life|greater}}\n* {{Named item sets|Occult Slayer}}\n  | description              = This weathered leather belt is torn and tattered. The crude markings that cover it declare that it was worn by the feared Occult Slayer, Vorne.\n  | pic                      = Belt Generic.png\n  | picdesc                  = Vorne's Belt.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Constitution +6",
+      "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +6"
+        }
+      ]
+    },
+    {
+      "text": "Greater False Life",
+      "tooltip": "Greater False Life: This item grants the wearer +30 maximum health.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)#Greater_False_Life",
+          "title": "False Life (enchantment)",
+          "text": "Greater False Life"
+        }
+      ]
+    },
+    {
+      "text": "Occult Slayer",
+      "tooltip": "Occult Slayer: +2 Exceptional bonus to Will saves, +2 Exceptional bonus to Reflex saves, Spell Resistance (22).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Occult_Slayer",
+          "title": "Named item sets",
+          "text": "Occult Slayer"
+        }
+      ]
+    }
+  ]
+}

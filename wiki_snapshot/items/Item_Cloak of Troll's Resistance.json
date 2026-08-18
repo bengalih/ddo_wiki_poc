@@ -1,0 +1,58 @@
+{
+  "page_title": "Item:Cloak of Troll's Resistance",
+  "page_id": 11398,
+  "revision_id": 629038,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:23:12.508988+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Cloak of Troll's Resistance\n  | type                     = Cloak\n  | class                    = Clothing\n  | slot                     = Back\n  | durability               = 60 \n  | material                 = Gold \n  | hardness                 = 7 \n  | basevalue                = 2,005 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 5 \n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = Redwillow's Ruins\n  | chest                    = [[Geeblebrox]]'s Chest\n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* {{Elemental Resistance|Sonic|10}}\n* {{Augment|Green}} (Preslotted with Topaz of {{Elemental Resistance|Electric|10}})\n* {{Augment|Yellow}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This cloak gives a limited ability to resist cold, electric, and sonic damage as a troll does.\n  | pic                      = Cloak of Troll's Resistance Shown.jpg\n  | picdesc                  = Cloak of Troll's Resistance.png\n  | tips                     = This item also exists as part of [[Veteran Status II starter item|Veteran II Starter equipment]]s.\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Sonic Resistance +10",
+      "tooltip": "Sonic Resistance +10: Passive: +10 Enhancement bonus to your Sonic Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sonic_Resistance",
+          "title": "Sonic Resistance",
+          "text": "Sonic Resistance +10"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot (Preslotted with Topaz of Electric Resistance +10)",
+      "tooltip": "Blue, Green, Yellow, and ColorlessElectric Resistance +10: Passive: +10 Enhancement bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        },
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Electric Resistance +10"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

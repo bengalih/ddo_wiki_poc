@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Dagan's Mallet",
+  "page_id": 44283,
+  "revision_id": 667627,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:29:30.482194+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Dagan&#39;s Mallet\n  | damage                   = 4.40[1d4] +10 Bludgeon, Good, Evil, Lawful, Chaotic, Magic\n  | crit                     = 20 / x2\n  | type                     = Throwing Hammer\n  | hand                     = Thrown\n  | class                    = Thrown\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 27\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 370\n  | material                 = Steel\n  | hardness                 = 57\n  | basevalue                = 10,800 pp 1gp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | released                 = Update 21\n  | revamped                 = Update 76\n  | quest                    = The Ruins of Thunderholme\n  | chest                    = Any Rare Encounter chests \n  | end reward               = \n  | turn in                  = \n  | mythic                   = no\n  | enhancements             = \n* {{Returning|100}}\n* {{Enhancement bonus|w|10}}\n* {{Aligned}}\n* {{Knee Cracker}}\n* {{Thunderbane}}\n* {{Forged Lightning}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Dagan's Mallet shown.jpg\n  | picdesc                  = Dagan's Mallet.png\n  | description              = \"With the force of a bolt of lightning, I tear into my foes.\"<br/>- Dagan, Regent of Thunderholme\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Throwing Hammer",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "+10 Enhancement Bonus",
+      "tooltip": "+10 Enhancement Bonus: +10 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+10 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Aligned",
+      "tooltip": "Aligned: This weapon transmutes into a form that is able to bypass any alignment based Damage Reduction. (Chaotic, Good, Evil, Lawful)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Aligned",
+          "title": "Aligned",
+          "text": "Aligned"
+        }
+      ]
+    },
+    {
+      "text": "Knee Cracker",
+      "tooltip": "Knee Cracker: On Hit: 15% chance to slow 25% (No Save) for 5 sec (non-bosses only).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Knee_Cracker",
+          "title": "Knee Cracker",
+          "text": "Knee Cracker"
+        }
+      ]
+    },
+    {
+      "text": "Thunderbane",
+      "tooltip": "Thunderbane: This weapon was crafted in the great Thunderforge before the Dragons came. Against constructs and the undead, this weapon's effective enhancement bonus is +8 better than its normal enhancement bonus. It deals an extra 7 to 42 points of damage against the foes.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Thunderbane",
+          "title": "Thunderbane",
+          "text": "Thunderbane"
+        }
+      ]
+    },
+    {
+      "text": "Forged Lightning",
+      "tooltip": "Forged Lightning: On Hit: 2% Chance to do 300 to 500 damage in a blast radius.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Forged_Lightning",
+          "title": "Forged Lightning",
+          "text": "Forged Lightning"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    }
+  ]
+}

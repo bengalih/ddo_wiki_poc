@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Noxious Fang",
+  "page_id": 91341,
+  "revision_id": 667688,
+  "revision_timestamp": "2025-11-21T13:41:02Z",
+  "fetched_at": "2026-08-17T22:00:23.653847+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Noxious Fang\n  | minlevel                 = 30\n  | type                     = Throwing Dagger\n  | class                    = Thrown\n  | prof                     = Simple\n  | hand                     = Thrown\n  | damage                   = 5[1d4+2] + 15 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 340\n  | material                 = Steel\n  | hardness                 = 40\n  | cost                     = 12,000 pp 2 gp\n  | weight                   = 1.00 lbs\n  | released                 = Update 50\n  | revamped                 = Update 76\n  | quest                    = Legendary Crafting\n  | legendary                = Epic Noxious Fang\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Blast|Poison|6}}\n* {{Utter Disintegration}}\n* {{Save|Fortitude|12}}\n* {{Poison|Legendary Virulent}}\n* {{Returning}}\n* {{Augment|Red}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | description              = One of the dread spider Mandible's poisonous fangs was transformed into a throwing knife. It deals poison damage and is enchanted to always return to the thrower.\n  | pic                      = Epic Noxious Fang shown.jpg\n  | picdesc                  = Legendary Noxious Fang.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Throwing Dagger",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Poison Blast 6",
+      "tooltip": "Poison Blast 6: This weapon drips with vile poison, dealing 6d6 Poison damage on a successful hit, and an additional 6d6 Poison damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Poison Blast 6"
+        }
+      ]
+    },
+    {
+      "text": "Utter Disintegration",
+      "tooltip": "Utter Disintegration: This weapon has a dark, insidious power deep within. Occasionally, this power lashes out violently at enemies and attempts to disintegrate them. This disintegrate is incredibly powerful, and will utterly destroy weaker foes.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Utter_Disintegration",
+          "title": "Utter Disintegration",
+          "text": "Utter Disintegration"
+        }
+      ]
+    },
+    {
+      "text": "Fortitude Save +12",
+      "tooltip": "Fortitude Save +12: This item gives a +12 Resistance bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Fortitude Save +12"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Virulent Poison",
+      "tooltip": "Legendary Virulent Poison: This item carries a potent poison that is delivered with your attacks. On any strike, the Poison has a chance to be applied, dealing 5d6 Constitution damage if your enemy fails a DC100 Fortitude saving throw.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Legendary_Virulent_Poison",
+          "title": "Legendary Virulent Poison",
+          "text": "Legendary Virulent Poison"
+        }
+      ]
+    },
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

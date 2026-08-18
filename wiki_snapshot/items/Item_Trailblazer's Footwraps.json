@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Trailblazer's Footwraps",
+  "page_id": 99348,
+  "revision_id": 635584,
+  "revision_timestamp": "2025-04-22T04:37:37Z",
+  "fetched_at": "2026-08-17T23:20:30.626242+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Trailblazer's Footwraps\n  | minlevel                 = 15\n  | type                     = Boots\n  | race                     = Tabaxi Trailblazer\n  | slot                     = Feet\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | cost                     = 6,005 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 54\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|Dexterity|2|Insightful}}\n* {{Speed|V}}\n  | crafting                 = \n  | description              = Subtle, but effective.\n  | pic                      = Boots Generic Gray.png\n  | picdesc                  = Trailblazer's Footwraps.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Insightful Dexterity +2",
+      "tooltip": "Insightful Dexterity +2: This item makes the wearer more nimble and dexterous, granting a +2 Insight bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Insightful Dexterity +2"
+        }
+      ]
+    },
+    {
+      "text": "Speed V",
+      "tooltip": "Speed V: Passive: +25% enhancement bonus to movement speed, +5% enhancement bonus to melee and ranged attack speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Speed",
+          "title": "Speed",
+          "text": "Speed V"
+        }
+      ]
+    }
+  ]
+}

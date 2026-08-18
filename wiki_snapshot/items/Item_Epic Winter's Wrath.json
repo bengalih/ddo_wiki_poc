@@ -1,0 +1,62 @@
+{
+  "page_title": "Item:Epic Winter's Wrath",
+  "page_id": 10991,
+  "revision_id": 630595,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:59:24.213821+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Eternal wand\n  | name                     = Epic Winter's Wrath\n  | umd                      = 45\n  | noumd                    = [[Wizard|Wiz]], [[Sorcerer|Sor]]\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | epic                     = Winter's Wrath\n  | durability               = 225\n  | material                 = Wood\n  | hardness                 = 30\n  | weight                   = 0.10 lbs\n  | cost                     = 10,000 pp\n  | quest                    = Sentinels of Stormreach\n  | released                 = Update 4\n  | enhancements             = \n* {{Clicky|Otiluke's Freezing Sphere|20|15|15}}\n* {{SpellPower|Glaciation|111}}\n* {{Spelllore|Ice|+16}}\n* {{Wand Maximizing}}\n  | mythic                   = no\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Winter's Wrath\n  | chest                    = upgraded version of {{Item|Winter's Wrath}}\n  | description              = A thin rod of blackened wood containing charges of the Otiluke's Freezing Sphere spell. Eternal wands recharge over time if they are not actively being used.\n  | notes                    = Recharges at a rate of 1 charge per 30 seconds\n  | icon                     = OtilukesFreezingSphere.png\n  | spell                    = Otiluke's Freezing Sphere\n  | casterlvl                = 20\n  | charge                   = 15\n  | picdesc                  = Epic Winter's Wrath.png\n}}\n[[Category:Sentinels of Stormreach epic items]]",
+  "item_template": "Named item",
+  "material": "Wood",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Otiluke's Freezing Sphere — 15 Charges (Recharged/Day:15)",
+      "tooltip": "Otiluke's Freezing SphereCaster level: 20Charges: 15 (15/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Otiluke%27s_Freezing_Sphere",
+          "title": "Otiluke's Freezing Sphere",
+          "text": "Otiluke's Freezing Sphere"
+        }
+      ]
+    },
+    {
+      "text": "Glaciation +111",
+      "tooltip": "Glaciation +111: Passive: +111 Equipment bonus to Cold Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Glaciation",
+          "title": "Glaciation",
+          "text": "Glaciation +111"
+        }
+      ]
+    },
+    {
+      "text": "Ice Lore +16%",
+      "tooltip": "Ice Lore +16: Passive: Your Cold spells gain a +16% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Ice Lore +16%"
+        }
+      ]
+    },
+    {
+      "text": "Wand Maximizing",
+      "tooltip": "Wand Maximizing: Spells cast from this wand are treated as though they were Maximized, dealing 100% more damage than they normally would. This damage increase does not stack with bonuses granted by enhancements.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wand_Maximizing",
+          "title": "Wand Maximizing",
+          "text": "Wand Maximizing"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Sage's Spectacles (level 15)",
+  "page_id": 42428,
+  "revision_id": 649455,
+  "revision_timestamp": "2025-07-26T19:12:39Z",
+  "fetched_at": "2026-08-17T22:50:16.196888+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Sage's Spectacles\n  | minlevel                 = 15\n  | type                     = Goggles\n  | slot                     = Eye\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 90\n  | material                 = Glass\n  | hardness                 = 18\n  | basevalue                = 6,020pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 19\n  | quest                    = A Break In the Ice\n  | end reward               = yes\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Stat|INT|8}}\n* {{SpellPower|Combustion|84}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Skirmisher's Lenses shown.jpg\n  | picdesc                  = Sage's Spectacles (Level 15).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Glass",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Intelligence +8",
+      "tooltip": "Intelligence +8: This item focuses the power of the wearer's mind, granting a +8 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +8"
+        }
+      ]
+    },
+    {
+      "text": "Combustion +84",
+      "tooltip": "Combustion +84: Passive: +84 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +84"
+        }
+      ]
+    }
+  ]
+}

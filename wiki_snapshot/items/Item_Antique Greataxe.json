@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Antique Greataxe",
+  "page_id": 12641,
+  "revision_id": 628272,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:04:00.579700+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Antique Greataxe\n  | basevalue                = 1902 pp\n  | weight                   = 12 lbs\n  | damage                   = [1d12] +2 Slash, Adamantine, Magic\n  | crit                     = 20 / x3\n  | type                     = Great Axe\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = Two-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | reqtrait                 = None\n  | durability               = 140\n  | material                 = Adamantine\n  | hardness                 = 24\n  | minlevel                 = 4\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 5\n  | revamped                 = Update 39\n  | quest                    = The Maleficent Cabal\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Impactful|2}}\n* {{Bane|Evil Outsider|2}}\n* {{Alacrity|Melee|5}}\n* {{Mat|Adamantine}}\n* {{Augment|Red}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Antique Greataxe\n  | description              = Lamden Wynn of the Golden Wing Inn kept this greataxe behind the bar in case of trouble. It's an old family heirloom, but he offered it to you as compensation for your efforts.\n  | pic                      = Antique Greataxe shown.jpg\n  | picdesc                  = Antique Greataxe.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Impactful 2",
+      "tooltip": "Impactful 2: This effect causes the edges of this weapon to ripple with force, dealing 2 to 12 force on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impactful",
+          "title": "Impactful",
+          "text": "Impactful 2"
+        }
+      ]
+    },
+    {
+      "text": "Evil Outsider Bane 2",
+      "tooltip": "Evil Outsider Bane 2: This weapon is attuned specifically to hunt monsters that bring ill intent from other planes, dealing an additional 2d10 bane damage vs. Evil Outsiders.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Evil Outsider Bane 2"
+        }
+      ]
+    },
+    {
+      "text": "Melee Alacrity 5%",
+      "tooltip": "Melee Alacrity 5%: Gain 5% Enhancement bonus to Melee attack speed. Does not stack with the Haste spell.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Melee_Alacrity",
+          "title": "Melee Alacrity",
+          "text": "Melee Alacrity 5%"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

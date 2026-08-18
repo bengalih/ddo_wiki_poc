@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Mournlode Chain (level 4)",
+  "page_id": 58435,
+  "revision_id": 650053,
+  "revision_timestamp": "2025-07-26T19:12:55Z",
+  "fetched_at": "2026-08-17T22:28:05.305514+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Mournlode Armors|Mournlode Chain}}\n  | type                     = Chainmail\n  | feat                     = Light\n  | race                     = none\n  | ac                       = +5\n  | maxdexbonus              = 5\n  | acp                      = -1\n  | asf                      = 15%\n  | durability               = 72\n  | material                 = Steel\n  | hardness                 = 13\n  | minlevel                 = 4\n  | quest                    = Vaults of the Artificers\n  | turn in                  = Various Cannith challenge ingredients\n  | basevalue                = 1,610 pp\n  | weight                   = 25 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | enhancements             = \n{{VaultsOfTheArtificersUpgrade}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = Mournlode Chain (level 8)\n  | pic                      = Mournlode Chain shown.jpg\n  | picdesc                  = Mournlode Chain (Level 4).png\n  | description              = Metal armor constructed from valuable purple Mournlode crystal is imbued with a protective, almost holy power. Undead are seared by it,and it protects the wearer from evil.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Chainmail",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Protection +3",
+      "tooltip": "Protection +3: Passive: +3 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +3"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +3",
+      "tooltip": "Resistance +3: Passive: +3 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +3"
+        }
+      ]
+    },
+    {
+      "text": "Undead Guard +2",
+      "tooltip": "Undead Guard +2: Chance to deal 2d8 Good damage to undead when hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Guards",
+          "title": "Guards",
+          "text": "Undead Guard"
+        }
+      ]
+    }
+  ]
+}

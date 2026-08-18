@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Lorikk's Champion",
+  "page_id": 9113,
+  "revision_id": 633290,
+  "revision_timestamp": "2025-04-22T02:03:51Z",
+  "fetched_at": "2026-08-17T22:18:45.621804+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Large\n  | prof                     = General\n  | minlevel                 = 14\n  | bind                     = {{Bind|BtC|BoA}}\n  | sb                       = +10\n  | maxdexbonus              = \n  | dr                       = 10\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = [1d8] + 5\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | durability               = 145\n  | material                 = Mithral\n  | hardness                 = 17\n  | basevalue                = 4,902pp\n  | weight                   = 7.50 lbs\n  | quest                    = Hound of Xoriat\n  | chest                    = Warded chest (All [[Difficulty|difficulties]])\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Clicky|Panacea|9|2}}\n* {{Bonus Turning|Eternal Faith}}\n* {{Named item sets|Lorikk's Champion}}\n  | description              = This relic of the Silver Flame was supposedly once worn by the powerful cleric Lorikk. Lorikk and his brother Levik disappeared many years ago while investigating tales of an ancient creature residing beneath Stormreach.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Aegis of Flame shown.jpg\n  | picdesc                  = Lorikk's Champion.png\n  | tips                     = {{Bug|Although this shield is made of {{Mat|Mithral}}, players do not benefit from the normal qualities of this material.}}\n* \"Mithral\" enchantment is missing.\n* Players still suffer -15% [[Arcane spell failure]]\n* -1 [[Armor check penalty]]\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Mithral",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Panacea — 2 Charges (Recharged/Day:2)",
+      "tooltip": "PanaceaCaster level: 9Charges: 2 (2/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Panacea",
+          "title": "Panacea",
+          "text": "Panacea"
+        }
+      ]
+    },
+    {
+      "text": "Eternal Faith",
+      "tooltip": "Eternal Faith: An item with this quality assists only wearers who have the ability to turn undead. Eternal Faith increase the owner's effective level for the turning check by +2, his maximum Hit Dice turned by +2, and his total Hit Dice turned by +4.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Eternal_Faith",
+          "title": "Eternal Faith",
+          "text": "Eternal Faith"
+        }
+      ]
+    },
+    {
+      "text": "Lorikk's Champion",
+      "tooltip": "Lorikk's Champion: With 2 items equipped - Provides a +72 Equipment bonus to healing spell power. With 3 items equipped - Provides a +78 Equipment bonus to healing spell power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Lorikk's_Champion",
+          "title": "Named item sets",
+          "text": "Lorikk's Champion"
+        }
+      ]
+    }
+  ]
+}

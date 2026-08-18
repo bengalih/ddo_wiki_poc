@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Gettis",
+  "page_id": 125294,
+  "revision_id": 691306,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:09:49.397473+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Gettis\n  | minlevel                 = 15\n  | type                     = Handaxe\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = [1d6] + 3 Slash, Magic\n  | crit                     = 20 / x3\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | race                     = Duergar Mindcleaver\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 200\n  | material                 = Steel\n  | hardness                 = 114\n  | cost                     = 6,000 pp 6 gp\n  | weight                   = 8 lbs\n  | released                 = Update 80\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|3}}\n* {{Piercing|3}}\n* {{Shockwave}}\n  | crafting                 = \n  | description              = \n  | pic                      = Gettis shown.jpg\n  | picdesc                  = Gettis.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Handaxe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +9",
+      "tooltip": "Spellcasting Implement +9: Passive: +9 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +9"
+        }
+      ]
+    },
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Piercing 3",
+      "tooltip": "Piercing 3: The edges of this weapon have serrated edges, dealing an additional 3d6 piercing damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Piercing",
+          "title": "Piercing",
+          "text": "Piercing 3"
+        }
+      ]
+    },
+    {
+      "text": "Shockwave",
+      "tooltip": "Shockwave: On Vorpal, this weapon triggers a Shockwave, striking its target with bludgeoning damage and dealing damage to surrounding enemies.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shockwave#Shockwave",
+          "title": "Shockwave",
+          "text": "Shockwave"
+        }
+      ]
+    }
+  ]
+}

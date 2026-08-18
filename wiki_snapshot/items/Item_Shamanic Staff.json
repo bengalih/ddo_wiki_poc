@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Shamanic Staff",
+  "page_id": 11348,
+  "revision_id": 679486,
+  "revision_timestamp": "2026-03-20T19:57:58Z",
+  "fetched_at": "2026-08-17T22:54:55.833276+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Shamanic Staff\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | minlevel                 = 8\n  | reqtrait                 = Chaotic\n  | UMD DC                   = 20\n  | bind                     = {{Bind|BtA|boa}}\n  | damage                   = 1.25[1d6] + 4 Bludgeon, Chaotic, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 160\n  | material                 = Wood\n  | hardness                 = 18\n  | basevalue                = 3,200 pp 1 cp\n  | weight                   = 4 lbs\n  | quest                    = Cult of the Six\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|4}}\n* {{Chaos|True}}\n* {{SpellPower|Glaciation|42}}\n* {{Augment|Orange}}\n* {{Augment|Red}}\n  | description              = Holding this staff, you feel the power of ancient and wild magic course through your body.\n  | pic                      = Shamanic Staff shown.jpg\n  | picdesc                  = Shamanic Staff.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +12",
+      "tooltip": "Spellcasting Implement +12: Passive: +12 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +12"
+        }
+      ]
+    },
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "True Chaos",
+      "tooltip": "True Chaos: This weapon is infused with the power of True Chaos. It does an additional 1 to 6 damage to non-chaotic targets and can only be wielded by Chaotic-aligned characters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/True_Chaos",
+          "title": "True Chaos",
+          "text": "True Chaos"
+        }
+      ]
+    },
+    {
+      "text": "Glaciation +42",
+      "tooltip": "Glaciation +42: Passive: +42 Equipment bonus to Cold Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Glaciation",
+          "title": "Glaciation",
+          "text": "Glaciation +42"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

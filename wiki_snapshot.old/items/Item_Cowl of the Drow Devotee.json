@@ -1,0 +1,131 @@
+{
+  "page_title": "Item:Cowl of the Drow Devotee",
+  "page_id": 126764,
+  "revision_id": 699663,
+  "revision_timestamp": "2026-07-24T15:55:57Z",
+  "fetched_at": "2026-08-17T04:01:52.345444+00:00",
+  "categories": [],
+  "material": "Gem",
+  "item_type": "Helm",
+  "slot": "Head",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Insightful Dodge +3%",
+      "tooltip": "Insightful Dodge +3%: +3% Insight bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Insightful Dodge +3%"
+        }
+      ]
+    },
+    {
+      "text": "Dodge +7%",
+      "tooltip": "Dodge +7%: +7% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +7%"
+        }
+      ]
+    },
+    {
+      "text": "Sheltering +17",
+      "tooltip": "Sheltering +17: +17 Enhancement bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Sheltering +17"
+        }
+      ]
+    },
+    {
+      "text": "Nearly Complete: Healing Amplification",
+      "tooltip": "Nearly Complete: Healing Amplification: This item isn't quite finished, but it's only a step away from completion. Bring it to the forges on the upper floor of Gravenhollow and combine it with melted materials to restore this item to its full potential.",
+      "children": [
+        {
+          "text": "This item can be upgraded with one of the following:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Competence Healing Amplification +24",
+              "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +24 (Competence bonus). Includes spells, potions, and other effects.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Healing_Amplification",
+                  "title": "Healing Amplification",
+                  "text": "Competence Healing Amplification +24"
+                }
+              ]
+            },
+            {
+              "text": "Profane Negative Amplification +24",
+              "tooltip": "Negative Amplification: This effect amplifies all incoming negative energy healing by +24 (Profane bonus). Includes spells, potions, and other effects.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Negative_Amplification",
+                  "title": "Negative Amplification",
+                  "text": "Profane Negative Amplification +24"
+                }
+              ]
+            },
+            {
+              "text": "Repair Amplification +24",
+              "tooltip": "Repair Amplification: This effect amplifies all incoming repair healing by +24 (Enhancement bonus). Includes spells, potions, and other effects.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Repair_Amplification",
+                  "title": "Repair Amplification",
+                  "text": "Repair Amplification +24"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Nearly_Complete",
+          "title": "Nearly Complete",
+          "text": "Nearly Complete: Healing Amplification"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    }
+  ],
+  "item_class": "Clothing",
+  "item_template": ""
+}

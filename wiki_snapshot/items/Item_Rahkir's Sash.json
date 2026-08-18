@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Rahkir's Sash",
+  "page_id": 11373,
+  "revision_id": 668589,
+  "revision_timestamp": "2025-12-08T03:07:08Z",
+  "fetched_at": "2026-08-17T22:41:59.781782+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Rahkir's Sash\n  | type                     = Belt\n  | class                    = Clothing\n  | basevalue                = 10,005 pp\n  | weight                   = 0.10lbs\n  | slot                     = Waist\n  | durability               = 110\n  | material                 = Leather\n  | hardness                 = 15\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | quest                    = A New Invasion\n  | chest                    = Any chest; [[Tower of Despair]], [[Nythirios]] chest\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Greater Efficacy|1|3|3}}\n* {{Wizardry|am}}\n* {{Named item sets|Archmage}}\n  | description              = This fine cloth sash courses with magical energy. It belonged to Rahkir, a famous Archmage who disappeared while investigating a portal to Shavarath.\n  | pic                      = Belt Generic.png\n  | picdesc                  = Rahkir's Sash.png\n  | tips                     = \n}}\n[[Category:Tower of Despair loot]]",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Greater Efficacy — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Greater EfficacyCaster level: 1Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Greater_Efficacy",
+          "title": "Greater Efficacy",
+          "text": "Greater Efficacy"
+        }
+      ]
+    },
+    {
+      "text": "Archmagi",
+      "tooltip": "Archmagi: This item grants the wearer +200 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Archmagi"
+        }
+      ]
+    },
+    {
+      "text": "Archmage",
+      "tooltip": "Archmage: This item is one of the two pieces of the Archmage set. When both items are equipped, you gain a +1% Artifact bonus to your Critical Chance with all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Archmage",
+          "title": "Named item sets",
+          "text": "Archmage"
+        }
+      ]
+    }
+  ]
+}

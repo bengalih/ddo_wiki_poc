@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Ghost-Waking Cloak (level 12)",
+  "page_id": 35068,
+  "revision_id": 649149,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:09:54.026720+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Ghost-Waking Cloak}}\n  | minlevel                 = 12\n  | class                    = Clothing\n  | type                     = Cloak\n  | slot                     = Back\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 130\n  | material                 = Leather\n  | hardness                 = 22\n  | basevalue                = 4,820 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 17\n  | quest                    = The Crucible\n  | chest                    = [[Harza Ghost-Waker]]'s chest (Heroic Normal)\n  | end reward               = \n  | enhancements             = \n* {{Stat|CHA|5}}\n* {{Resistance|3}}\n* {{Ghostly}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A fine woolen garment once belonging to Harza Ghost-Waker of the Arzag-Khor. As you run your fingers over the material, you think you hear faint whispering in your ear.\n  | pic                      = Cloak of Invisibility Shown.jpg\n  | picdesc                  = Ghost-Waking Cloak (Level 12).png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Charisma +5",
+      "tooltip": "Charisma +5: This item makes the wearer have more flair, granting a +5 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +5"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +3",
+      "tooltip": "Resistance +3: Passive: +3 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +3"
+        }
+      ]
+    },
+    {
+      "text": "Ghostly",
+      "tooltip": "Ghostly: Equipping this item causes you to become partially incorporeal. Your melee attacks do not roll a miss chance for Incorporeal targets. Enemy attacks have a 10% chance to miss you due to incorporeality. You receive a +5 enhancement bonus to your Hide and Move Silently skills.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostly",
+          "title": "Ghostly",
+          "text": "Ghostly"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

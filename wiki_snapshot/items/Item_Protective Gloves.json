@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Protective Gloves",
+  "page_id": 11416,
+  "revision_id": 634055,
+  "revision_timestamp": "2025-04-22T02:55:59Z",
+  "fetched_at": "2026-08-17T22:40:23.600447+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Protective Gloves\n  | type                     = Gloves\n  | basevalue                = 105pp\n  | weight                   = 0.10 lbs\n  | slot                     = Hand\n  | durability               = 20\n  | material                 = Leather\n  | hardness                 = 3\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Necromancer's Doom\n  | chest                    = Chest behind locked door\n  | enhancements             = \n* {{Clicky|Shield (spell)|1|1|label=Shield}}\n  | description              = These gloves will cast a protective shield when their magic is called upon.\n  | pic                      = Gloves Generic.png\n  | picdesc                  = Protective Gloves.png\n  | tips                     = Not to be confused with [[Protector's Gloves]].\n  | mythic                   = No\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "enchantments": [
+    {
+      "text": "Shield — 1 Charges (Recharged/Day:1)",
+      "tooltip": "ShieldCaster level: 1Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_(spell)",
+          "title": "Shield (spell)",
+          "text": "Shield"
+        }
+      ]
+    }
+  ]
+}

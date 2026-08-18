@@ -1,0 +1,132 @@
+{
+  "page_title": "Item:Legendary The Cold of Night",
+  "page_id": 112442,
+  "revision_id": 633070,
+  "revision_timestamp": "2025-04-22T01:48:30Z",
+  "fetched_at": "2026-08-17T22:12:35.578789+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Legendary The Cold of Night\n  | minlevel                 = 33\n  | type                     = Orb\n  | prof                     = Magical Training\n  | sb                       = +0\n  | maxdexbonus              = 0\n  | dr                       = 0\n  | acp                      = 0\n  | asf                      = \n  | dmg                      = [1d4] + 0 Force\n  | crit                     = 19-20 / x2\n  | attackmod                = INT\n  | damagemod                = CHA\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 395\n  | material                 = Wood\n  | hardness                 = 53\n  | cost                     = 13,300 pp\n  | weight                   = 3 lbs\n  | released                 = Update 71\n  | quest                    = The Wizard's Labyrinth\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|oi|15|33}}\n* {{SpellPower|Glaciation|156}}\n* {{Spelllore|Ice|23}}\n* {{Augmentation|3|Cold|IX}}\n* {{Deathblock}}\n* {{Augment|Purple}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | description              = Moonlight eminates from this smooth, cool sphere.\n  | pic                      = Brimstone, the Heart of the Dracolich shown.jpg\n  | picdesc                  = Legendary The Cold of Night.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Magical Training",
+  "material": "Wood",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 33,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +33",
+      "tooltip": "Spellcasting Implement +33: Passive: +33 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +33"
+        }
+      ]
+    },
+    {
+      "text": "+15 Orb Bonus",
+      "tooltip": "+15 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +15 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Orb Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Glaciation +156",
+      "tooltip": "Glaciation +156: Passive: +156 Equipment bonus to Cold Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Glaciation",
+          "title": "Glaciation",
+          "text": "Glaciation +156"
+        }
+      ]
+    },
+    {
+      "text": "Ice Lore +23%",
+      "tooltip": "Ice Lore +23: Passive: Your Cold spells gain a 23% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Ice Lore +23%"
+        }
+      ]
+    },
+    {
+      "text": "Improved Cold Augmentation IX",
+      "tooltip": "Improved Cold Augmentation IX: Increases the wearer's caster level when casting ninth level or lower Cold spells by three.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Augmentation",
+          "title": "Spell Augmentation",
+          "text": "Improved Cold Augmentation IX"
+        }
+      ]
+    },
+    {
+      "text": "Deathblock",
+      "tooltip": "Deathblock: The wearer of this item is immune to all death spells and magical death effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Chain Shirt of Crippling",
+  "page_id": 9110,
+  "revision_id": 628928,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:20:20.147844+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Chain Shirt of Crippling\n  | type                     = Chain Shirt\n  | feat                     = Light\n  | race                     = \n  | minlevel                 = 14\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +14\n  | maxdexbonus              = 13\n  | acp                      = \n  | asf                      = 5%\n  | durability               = 152\n  | material                 = Mithral\n  | hardness                 = 22\n  | basevalue                = 6,510 pp\n  | weight                   = 12.50 lbs\n  | quest                    = Hound of Xoriat\n  | chest                    = Raid Warded chest\n  | endreward                = \n  | collectable              = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Mat|Mithral}}\n* {{ProtectionBonus|4}}\n* {{Crippling}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Chain Shirt of Crippling shown.jpg\n  | picdesc                  = Chain Shirt of Crippling.png\n  | description              = Forged in mithral, this chain shirt appears to have been crafted by a master smith using unknown techniques.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Chain Shirt",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Mithral",
+      "tooltip": "Mithral: Mithral armor is one type lighter then normal. Arcane Spell Failure decreased by 10%. Maximum dexterity bonus increased by 2. Armor check penalty reduced by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mithral",
+          "title": "Mithral",
+          "text": "Mithral"
+        }
+      ]
+    },
+    {
+      "text": "Protection +4",
+      "tooltip": "Protection +4: Passive: +4 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +4"
+        }
+      ]
+    },
+    {
+      "text": "Crippling",
+      "tooltip": "Crippling: A crippling weapon is infused with binding power so that when a target is critically hit their movement is slowed by half.Note: Real slowdown is only 25%",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crippling",
+          "title": "Crippling",
+          "text": "Crippling"
+        }
+      ]
+    }
+  ]
+}

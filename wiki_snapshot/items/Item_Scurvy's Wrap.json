@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Scurvy's Wrap",
+  "page_id": 17010,
+  "revision_id": 634537,
+  "revision_timestamp": "2025-04-22T03:28:05Z",
+  "fetched_at": "2026-08-17T22:52:59.671437+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Scurvy's Wrap\n  | type                     = Cloak\n  | class                    = Clothing\n  | slot                     = Back\n  | durability               = 40\n  | material                 = Leather\n  | hardness                 = 5\n  | basevalue                = 1,205 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 3\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = Irestone Inlet\n  | chest                    = [[Scurvy]]'s chest\n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* {{Elemental Resistance|Electric|10}}\n* {{Elemental Resistance|Fire|10}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This magical cloak, a trophy of battle, is magically enhanced.\n  | pic                      = Scurvy's Wrap Shown.jpg\n  | picdesc                  = Scurvy's Wrap.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Electric Resistance +10",
+      "tooltip": "Electric Resistance +10: Passive: +10 Enhancement bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Electric Resistance +10"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +10",
+      "tooltip": "Fire Resistance +10: Passive: +10 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +10"
+        }
+      ]
+    }
+  ]
+}

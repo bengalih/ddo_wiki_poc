@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Riftmaker",
+  "page_id": 52665,
+  "revision_id": 634223,
+  "revision_timestamp": "2025-04-22T03:07:24Z",
+  "fetched_at": "2026-08-17T22:44:48.143923+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Riftmaker\n  | damage                   = 1.60[1d12] + 5 Slash, Good, Magic\n  | crit                     = 20 / x4\n  | type                     = Great Axe\n  | hand                     = Two-handed\n  | race                     = \n  | class                    = Slashing\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 13\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 230\n  | material                 = Flametouched Iron\n  | hardness                 = 23\n  | basevalue                = 5,320 pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 27\n  | quest                    = The Devil's Details\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Burst|Force}}\n* {{Banishing}}\n* {{Bloodletter|III}}\n* {{Mat|Flametouched Iron}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = There was once forged an axe so sharp, the very fabric of reality tore around it.\n  | pic                      = Riftmaker shown.jpg\n  | picdesc                  = Riftmaker.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Force Burst",
+      "tooltip": "Force Burst: This weapon is humming with magical force, and does 1 to 6 force damage each hit. Critical hits deal an additional 1 to 10 force damage for weapons with a x2 critical multiplier, 2 to 20 for a x3 multiplier and 3 to 30 for a x4 multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Force_Burst#Force_Burst",
+          "title": "Force Burst",
+          "text": "Force Burst"
+        }
+      ]
+    },
+    {
+      "text": "Banishing",
+      "tooltip": "Banishing: On Hit: 4 to 24 Bane damage to Outsiders.On Vorpal Hit: If an outsider struck by this weapon has fewer than 1000 Hit Points, it is instantly slain. If the outsider has above 1000 Hit Points, it takes 100 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Banishing#Banishing",
+          "title": "Banishing",
+          "text": "Banishing"
+        }
+      ]
+    },
+    {
+      "text": "Bloodletter III",
+      "tooltip": "Bloodletter III: On Critical Hit: 7 to 42 Slashing damage from weapons with a x2 Critical Multiplier, 7 to 56 Slashing damage from weapons with a x3 Critical Multiplier, and 7 to 70 Slashing damage from weapons with a x4 or greater Critical Multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bloodletter",
+          "title": "Bloodletter",
+          "text": "Bloodletter III"
+        }
+      ]
+    },
+    {
+      "text": "Flametouched Iron",
+      "tooltip": "Flametouched Iron: Flametouched Iron grants +1 saves versus Evil Outsiders.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flametouched_Iron",
+          "title": "Flametouched Iron",
+          "text": "Flametouched Iron"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

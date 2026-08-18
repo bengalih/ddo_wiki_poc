@@ -1,0 +1,58 @@
+{
+  "page_title": "Item:Remlin's Step",
+  "page_id": 11623,
+  "revision_id": 634183,
+  "revision_timestamp": "2025-04-22T03:04:44Z",
+  "fetched_at": "2026-08-17T22:43:46.795143+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Remlin's Step\n  | type                     = Boots\n  | class                    = Clothing\n  | basevalue                = 1,605 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 50 \n  | material                 = Leather\n  | hardness                 = 9\n  | minlevel                 = 9\n  | bind                     = {{Bind|no}}\n  | quest                    = Dreams of Insanity\n  | chest                    = End Chest\n  | mythic                   = no\n  | enhancements             = \n* '''Required Trait:''' [[Lawful]] ([[UMD|UMD: 20]])\n* {{Striding|20}}\n* {{Chaosguard}}\n  | epic                     = no\n  | description              = These magical boots are said to protect a lawful person from the effects of chaotic creatures and allows the wielder to step quickly.\n  | pic                      = Boots Generic.png\n  | picdesc                  = Remlin's Step.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Required Trait: Lawful (UMD: 20)",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lawful",
+          "title": "Lawful",
+          "text": "Lawful"
+        },
+        {
+          "target": "/page/UMD",
+          "title": "UMD",
+          "text": "UMD: 20"
+        }
+      ]
+    },
+    {
+      "text": "Striding +20%",
+      "tooltip": "Striding +20%: This item makes you more fleet of foot, giving you a 20% Enhancement bonus your movement speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Striding",
+          "title": "Striding",
+          "text": "Striding +20%"
+        }
+      ]
+    },
+    {
+      "text": "Chaosguard",
+      "tooltip": "Chaosguard: The bearer of this item gains +2 Deflection bonus to AC and +2 Resistance bonus to saving throws from Chaotic Enemies.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Chaosguard",
+          "title": "Chaosguard",
+          "text": "Chaosguard"
+        }
+      ]
+    }
+  ]
+}

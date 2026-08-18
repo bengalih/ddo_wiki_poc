@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Decorated Bracers",
+  "page_id": 117186,
+  "revision_id": 645628,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:31:33.744288+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Decorated Bracers\n  | minlevel                 = 15\n  | type                     = Bracers\n  | race                     = Dhampir Dark Bargainer\n  | slot                     = Wrist\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | cost                     = 6,010 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 74\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Deathblock}}\n* {{Fortification|40|Insightful}}\n  | crafting                 = \n  | description              = \n  | pic                      = Bracers Generic.png\n  | picdesc                  = Decorated Bracers.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Deathblock",
+      "tooltip": "Deathblock: The wearer of this item is immune to all death spells and magical death effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Fortification +40%",
+      "tooltip": "Insightful Fortification +40%: +40% Insight bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Insightful Fortification +40%"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "page_title": "Item:Clearwater",
+  "page_id": 83916,
+  "revision_id": 629003,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:22:12.532410+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Clearwater\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=15|m=8|c=6}}\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 100\n  | material                 = Gem\n  | hardness                 = 15\n  | minlevel                 = 5\n  | released                 = Update 48\n  | revamped                 = Update 59\n  | quest                    = The Knight Who Cried Windmill\n  | chest                    = end chest\n  | end reward               = \n  | turn in                  = \n  | basevalue                = 2,010 pp\n  | weight                   = \n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|2}}\n* {{Fortification|59}}\n* {{HealingAmp|14|R}}\n* {{save|reflex|4}}\n* {{Dodge|4|Enhancement}}\n* {{Augment|Blue}}\n* {{Augment|Yellow}}\n* {{Named item sets|Seasons of the Feywild}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Clearwater shown.jpg\n  | picdesc                  = Clearwater.png\n  | description              = This gemstone is a pale blue, and its edges have been eroded by the tides.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +59%",
+      "tooltip": "Fortification +59%: +59% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +59%"
+        }
+      ]
+    },
+    {
+      "text": "Repair Amplification +14",
+      "tooltip": "Repair Amplification: This effect amplifies all incoming repair healing by +14 (Enhancement bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Repair_Amplification",
+          "title": "Repair Amplification",
+          "text": "Repair Amplification +14"
+        }
+      ]
+    },
+    {
+      "text": "Reflex Save +4",
+      "tooltip": "Reflex Save +4: This item gives a +4 Resistance bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save +4"
+        }
+      ]
+    },
+    {
+      "text": "Dodge +4%",
+      "tooltip": "Dodge +4%: +4% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +4%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Seasons of the Feywild",
+      "tooltip": "Seasons of the Feywild:",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Seasons_of_the_Feywild",
+          "title": "Named item sets",
+          "text": "Seasons of the Feywild"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

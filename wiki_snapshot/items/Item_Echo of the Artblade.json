@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Echo of the Artblade",
+  "page_id": 108737,
+  "revision_id": 678601,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:41:30.641983+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Echo of the Artblade\n  | minlevel                 = 13\n  | type                     = Long Sword\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = 1.60[1d8] + 5 Slash, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | durability               = 200\n  | material                 = Steel\n  | hardness                 = 23\n  | cost                     = 5,201 pp 5 gp\n  | weight                   = 4 lbs\n  | released                 = Update 69\n  | quest                    = Portal to Below\n  | chest                    = end chest\n  | rare                     = yes\n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|i|5|13}}\n* {{Guard|Nullmagic}}\n* {{Eversight}}\n* {{Arcane Casting Dexterity|Greater}}\n* {{SpellPower|Potency|14|Quality}}\n* {{Spell Focus|Spell Focus Mastery|1|Sacred}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = An echo of the legendary elven longsword Artblade. This echo broke off of the Artblade's mind in defiance of the Blade-rite's draconian tendencies, and is open to being wielded by anyone.\n  | pic                      = Echo of the Artblade shown.jpg\n  | picdesc                  = Echo of the Artblade.png\n  | tips                     = If this weapon is glamered, and then a Glamered Weapon Aura is applied on it, the Glamered Weapon Aura will not display.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +13",
+      "tooltip": "Spellcasting Implement +13: Passive: +13 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +13"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Nullmagic Guard",
+      "tooltip": "Nullmagic Guard: On being hit with a spell: There is a small chance that you explode in arcane energies. Foes hit are subject to a silencing effect, preventing their spellcasts and dampening their magical protections for 10 seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullmagic_Guard",
+          "title": "Nullmagic Guard",
+          "text": "Nullmagic Guard"
+        }
+      ]
+    },
+    {
+      "text": "Eversight",
+      "tooltip": "Eversight: You benefit from the spell True Seeing and are Immune to Blindness.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Eversight",
+          "title": "Eversight",
+          "text": "Eversight"
+        }
+      ]
+    },
+    {
+      "text": "Greater Arcane Casting Dexterity",
+      "tooltip": "Greater Arcane Casting Dexterity: This ability reduces the arcane spell failure chance by -15%.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Greater_Arcane_Casting_Dexterity",
+          "title": "Greater Arcane Casting Dexterity",
+          "text": "Greater Arcane Casting Dexterity"
+        }
+      ]
+    },
+    {
+      "text": "Quality Potency +14",
+      "tooltip": "Quality Potency +14: Passive: +14 Quality bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Quality Potency +14"
+        }
+      ]
+    },
+    {
+      "text": "Sacred Spell Focus Mastery +1",
+      "tooltip": "Sacred Spell Focus Mastery +1: +1 Sacred bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Sacred Spell Focus Mastery +1"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

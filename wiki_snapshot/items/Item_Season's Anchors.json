@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Season's Anchors",
+  "page_id": 107806,
+  "revision_id": 691082,
+  "revision_timestamp": "2026-07-01T14:07:04Z",
+  "fetched_at": "2026-08-17T22:53:08.174688+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Season's Anchors\n  | minlevel                 = 15\n  | type                     = Boots\n  | race                     = Eladrin Chaosmancer\n  | slot                     = Feet\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | cost                     = 6,005 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 68\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CON|6}}\n* {{Spell Focus|Evocation|1}}\n  | crafting                 = \n  | description              = \n  | pic                      = Boots Generic Gray.png\n  | picdesc                  = Season's Anchors.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Constitution +6",
+      "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +6"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus +1",
+      "tooltip": "Evocation Focus +1: +1 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus +1"
+        }
+      ]
+    }
+  ]
+}

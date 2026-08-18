@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Mystic Force",
+  "page_id": 117175,
+  "revision_id": 691114,
+  "revision_timestamp": "2026-07-01T14:13:58Z",
+  "fetched_at": "2026-08-17T22:29:31.395543+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Mystic Force\n  | minlevel                 = 15\n  | type                     = Sickle\n  | class                    = Slashing\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damage                   = [1d6] + 3 Slash, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | race                     = Dhampir Dark Bargainer\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 200\n  | material                 = Steel\n  | hardness                 = 114\n  | cost                     = 6,000 pp 6 cp\n  | weight                   = 2 lbs\n  | released                 = Update 74\n  | revamped                 = Update 76\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|3|15}}\n* {{Spell Power|Impulse|81}}\n* {{Spell Focus|Enchantment|2|Insightful}}\n  | crafting                 = \n  | description              = \n  | pic                      = Null, the Darkness Without shown.jpg\n  | picdesc                  = Mystic Force.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Sickle",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +15",
+      "tooltip": "Spellcasting Implement +15: Passive: +15 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +15"
+        }
+      ]
+    },
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Impulse +81",
+      "tooltip": "Impulse +81: Passive: +81 Equipment bonus to Force, Untyped, Slashing, Piercing, and Bludgeoning Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impulse",
+          "title": "Impulse",
+          "text": "Impulse +81"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Enchantment Focus +2",
+      "tooltip": "Insightful Enchantment Focus +2: +2 Insight bonus to the DC of Enchantment spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Enchantment Focus +2"
+        }
+      ]
+    }
+  ]
+}

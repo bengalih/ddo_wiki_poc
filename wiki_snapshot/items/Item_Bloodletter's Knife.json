@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Bloodletter's Knife",
+  "page_id": 2740,
+  "revision_id": 691298,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:12:18.129478+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Bloodletter's Knife\n  | type                     = Dagger\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Simple\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = [1d4] + 2 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 60\n  | material                 = Steel\n  | hardness                 = 12\n  | basevalue                = 800pp 2gp\n  | weight                   = 1.00 lb\n  | quest                    = The Lost Seekers\n  | end reward               = yes\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Slicing}}\n* {{Augment|Red}}\n  | description              = This wicked serrated knife, once possessed by the kobold Bloodletter, deals additional slashing damage to foes that are not immune to bleeding.\n  | pic                      = Bloodletter's Knife shown.jpg\n  | picdesc                  = Bloodletter's Knife.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Slicing",
+      "tooltip": "Slicing: This weapon is incredibly sharp and will do an additional 1 to 4 damage to targets that are vulnerable to bleeding.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleed#Slicing",
+          "title": "Bleed",
+          "text": "Slicing"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

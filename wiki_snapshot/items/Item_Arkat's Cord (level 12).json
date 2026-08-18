@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Arkat's Cord (level 12)",
+  "page_id": 35529,
+  "revision_id": 648818,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:04:43.001939+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Arkat's Cord}}\n  | minlevel                 = 12\n  | class                    = Clothing\n  | type                     = Belt\n  | slot                     = Waist\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 130\n  | material                 = Cloth\n  | hardness                 = 22\n  | basevalue                = 4,820 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 17\n  | quest                    = A Cry for Help\n  | chest                    = and '''[[Foundation of Discord]]''', end chest (heroic normal); [[The Ruins of Gianthold]] chain end reward\n  | end reward               = \n  | enhancements             = \n* {{Reinforced Fists}}\n* {{hp|Vitality|20}} (only from chain end reward)\n  | description              = Found by a slain foe in Gainthold, this cloth belt's former owner is identified by the name sewn into its lining.\n  | pic                      = Belt Generic Faith.png\n  | picdesc                  = Arkat's Cord (Level 12).png\n  | tips                     = This is another victim of buggy update 48.2, all heroic versions of this item except the one from chain end reward lost their {{hp|Vitality|20}} enchantment.\n}}\n[[Category:Foundation of Discord loot]]",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Reinforced Fists",
+      "tooltip": "Reinforced Fists: This item surrounds your fists with kinetic energy. Your unarmed damage is boosted by one half die.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reinforced_Fists",
+          "title": "Reinforced Fists",
+          "text": "Reinforced Fists"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +20 (only from chain end reward)",
+      "tooltip": "Vitality +20: Passive: +20 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +20"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Belt Boost +1 or +3",
+      "tooltip": "Mythic Belt Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Belt Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Shimmering Pendant",
+  "page_id": 11713,
+  "revision_id": 634646,
+  "revision_timestamp": "2025-04-22T03:35:21Z",
+  "fetched_at": "2026-08-17T22:55:47.898798+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Shimmering Pendant\n  | type                     = Necklace\n  | basevalue                = 1605 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Neck\n  | durability               = 140\n  | material                 = Gold\n  | hardness                 = 24\n  | minlevel                 = 4\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 5\n  | revamped                 = Update 39\n  | quest                    = Partycrashers\n  | chest                    = Private Rooms chest, End chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CHA|3}}\n* {{Skills|Diplomacy|6}}\n* {{Skills|Bluff|6}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Shimmering Pendant\n  | description              = This beautiful necklace immediately makes the wearer appear more attractive and confident.\n  | pic                      = Necklace Generic Gray.png\n  | picdesc                  = Shimmering Pendant.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Charisma +3",
+      "tooltip": "Charisma +3: This item makes the wearer have more flair, granting a +3 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +3"
+        }
+      ]
+    },
+    {
+      "text": "Diplomacy +6",
+      "tooltip": "Diplomacy +6: Passive: +6 Competence bonus to the Diplomacy skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Diplomacy",
+          "title": "Diplomacy",
+          "text": "Diplomacy +6"
+        }
+      ]
+    },
+    {
+      "text": "Bluff +6",
+      "tooltip": "Bluff +6: Passive: +6 Competence bonus to the Bluff skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bluff",
+          "title": "Bluff",
+          "text": "Bluff +6"
+        }
+      ]
+    }
+  ]
+}

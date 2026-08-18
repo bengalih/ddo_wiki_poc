@@ -1,0 +1,149 @@
+{
+  "page_title": "Item:Treasure Hunter's Spyglass (legacy) (level 12)",
+  "page_id": 13990,
+  "revision_id": 635610,
+  "revision_timestamp": "2025-04-22T04:39:21Z",
+  "fetched_at": "2026-08-17T06:37:26.280309+00:00",
+  "categories": [],
+  "material": "Gem",
+  "item_type": "Trinket",
+  "slot": "Trinket",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Detect Secret Doors — 5 Charges (Recharged/Day:5)",
+      "tooltip": "Detect Secret DoorsCaster level: 10Charges: 5 (5/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Detect_Secret_Doors",
+          "title": "Detect Secret Doors",
+          "text": "Detect Secret Doors"
+        }
+      ]
+    },
+    {
+      "text": "Spot +11",
+      "tooltip": "Spot +11: Passive: +11 Competence bonus to the Spot skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spot",
+          "title": "Spot",
+          "text": "Spot +11"
+        }
+      ]
+    },
+    {
+      "text": "Search +11",
+      "tooltip": "Search +11: Passive: +11 Competence bonus to the Search skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Search",
+          "title": "Search",
+          "text": "Search +11"
+        }
+      ]
+    },
+    {
+      "text": "Use Magic Device +1",
+      "tooltip": "Use Magic Device +1: Passive: +1 Competence bonus to the Use Magic Device skill.",
+      "children": [
+        {
+          "text": "Upgradeable - Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Spot +11 → Spot +13",
+              "tooltip": "Spot +11: Passive: +11 Competence bonus to the Spot skill.Spot +13: Passive: +13 Competence bonus to the Spot skill.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Spot",
+                  "title": "Spot",
+                  "text": "Spot +11"
+                },
+                {
+                  "target": "/page/Spot",
+                  "title": "Spot",
+                  "text": "Spot +13"
+                }
+              ]
+            },
+            {
+              "text": "Search +11 → Search +13",
+              "tooltip": "Search +11: Passive: +11 Competence bonus to the Search skill.Search +13: Passive: +13 Competence bonus to the Search skill.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Search",
+                  "title": "Search",
+                  "text": "Search +11"
+                },
+                {
+                  "target": "/page/Search",
+                  "title": "Search",
+                  "text": "Search +13"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_2",
+              "title": "Upgradeable - Tier 2",
+              "text": "Upgradeable - Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Upgradeable - Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Intelligence +5",
+              "tooltip": "Intelligence +5: This item focuses the power of the wearer's mind, granting a +5 Enhancement bonus to Intelligence.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Intelligence",
+                  "title": "Intelligence",
+                  "text": "Intelligence +5"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_3",
+              "title": "Upgradeable - Tier 3",
+              "text": "Upgradeable - Tier 3"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Use_Magic_Device",
+          "title": "Use Magic Device",
+          "text": "Use Magic Device +1"
+        }
+      ]
+    }
+  ],
+  "item_class": "Jewelry",
+  "item_template": ""
+}

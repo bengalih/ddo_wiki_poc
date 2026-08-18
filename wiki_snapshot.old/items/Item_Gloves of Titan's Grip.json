@@ -1,0 +1,106 @@
+{
+  "page_title": "Item:Gloves of Titan's Grip",
+  "page_id": 11540,
+  "revision_id": 631143,
+  "revision_timestamp": "2025-04-21T23:38:13Z",
+  "fetched_at": "2026-08-17T04:44:28.814502+00:00",
+  "categories": [],
+  "material": "Gold",
+  "item_type": "Gloves",
+  "slot": "Hand",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Titan's Grip — 3 Charges (Recharged/Day:1)",
+      "tooltip": "Titan's GripCaster level: 18Charges: 3 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Titan%27s_Grip",
+          "title": "Titan's Grip",
+          "text": "Titan's Grip"
+        }
+      ]
+    },
+    {
+      "text": "Strength +6",
+      "tooltip": "Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +6"
+        }
+      ]
+    },
+    {
+      "text": "Suppressed Power",
+      "tooltip": "Suppressed Power: This psionic item is powerful, but you sense that it has not unlocked all of its secrets to you at this time.",
+      "children": [
+        {
+          "text": "Adds Reconstruction +84",
+          "tooltip": "Reconstruction +84: Passive: +84 Equipment bonus to Repair and Rust Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Reconstruction",
+              "title": "Reconstruction",
+              "text": "Reconstruction +84"
+            }
+          ]
+        },
+        {
+          "text": "Adds Repair Lore V",
+          "tooltip": "Repair Lore V: Passive: Your Repair and Rust spells gain a 15% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Repair Lore V"
+            }
+          ]
+        },
+        {
+          "text": "Adds Repair Systems",
+          "tooltip": "Repair Systems: This item gradually repairs constructs and living constructs.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Repair_Systems",
+              "title": "Repair Systems",
+              "text": "Repair Systems"
+            }
+          ]
+        },
+        {
+          "text": "Becomes Bound to Character on Acquire, Exclusive",
+          "tooltip": null,
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bind",
+              "title": "Bind",
+              "text": "Bound to Character on Acquire"
+            },
+            {
+              "target": "/page/Exclusive",
+              "title": "Exclusive",
+              "text": "Exclusive"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Suppressed_Power",
+          "title": "Suppressed Power",
+          "text": "Suppressed Power"
+        }
+      ]
+    }
+  ],
+  "item_class": "Clothing",
+  "item_template": ""
+}

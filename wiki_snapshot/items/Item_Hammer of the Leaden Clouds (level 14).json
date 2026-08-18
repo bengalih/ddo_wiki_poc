@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Hammer of the Leaden Clouds (level 14)",
+  "page_id": 35531,
+  "revision_id": 649959,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:18:33.311534+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Hammer of the Leaden Clouds}}\n  | prof                     = Martial\n  | damage                   = [1d8] + 5 Bludgeon, Magic\n  | crit                     = 20 / x3\n  | type                     = War Hammer\n  | class                    = Bludgeoning\n  | minlevel                 = 14\n  | hand                     = One-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 205\n  | material                 = Steel \n  | hardness                 = 19\n  | basevalue                = 5,601pp 2gp\n  | weight                   = 5 lbs\n  | released                 = Update 17\n  | quest                    = Gianthold Tor\n  | chest                    = Blue Dragon chest (Heroic Elite)\n  | enhancements             = \n* {{Enhancement bonus|i|5}}\n* {{Spelllore|Sonic|v}}\n* {{SpellPower|Resonance|72}}\n* {{Shrieking}}\n* {{Stunning|10}}\n  | pic                      = Hammer of the Leaden Clouds shown.jpg\n  | picdesc                  = Hammer of the Leaden Clouds (Level 14).png\n  | description              = Buried in the Xen'drik wastes for millennia, this might have served as a giant lord's throwing-hammer. When swung, it rumbles like distant thunder.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "War Hammer",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +15",
+      "tooltip": "Spellcasting Implement +15: Passive: +15 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +15"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Sonic Lore V",
+      "tooltip": "Sonic Lore V: Passive: Your Sonic spells gain a 15% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Sonic Lore V"
+        }
+      ]
+    },
+    {
+      "text": "Resonance +72",
+      "tooltip": "Resonance +72: Passive: +72 Equipment bonus to Sonic Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resonance",
+          "title": "Resonance",
+          "text": "Resonance +72"
+        }
+      ]
+    },
+    {
+      "text": "Shrieking",
+      "tooltip": "Shrieking: Shrieking weapons emit a piercing screech whenever they are used to make a successful attack. This screech deals an additional 2 to 12 sonic damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shrieking",
+          "title": "Shrieking",
+          "text": "Shrieking"
+        }
+      ]
+    },
+    {
+      "text": "Stunning +10",
+      "tooltip": "Stunning +10: +10 Enhancement bonus to the DC of character's Stunning Blow and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stunning",
+          "title": "Stunning",
+          "text": "Stunning +10"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

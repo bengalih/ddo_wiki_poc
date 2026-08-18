@@ -1,0 +1,315 @@
+{
+  "page_title": "Item:Gem of Many Facets",
+  "page_id": 12194,
+  "revision_id": 684173,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:09:43.454607+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Gem of Many Facets\n  | type                     = Trinket\n  | class                    = Jewelry\n  | slot                     = Trinket\n  | durability               = 51\n  | material                 = Gem\n  | hardness                 = 25\n  | basevalue                = 2020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 5\n  | bind                     = {{Bind|BtA|BoA}}\n  | chest                    = and [[The Chronoscope (Legendary)]], optional chests\n  | released                 = Update 7\n  | revamped                 = Update 50\n  | quest                    = The Chronoscope\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Craftable}} (hidden)\n* {{Augment|Yellow}}\n{{Collapsed effect\n|* Random set 1 (from Red Fens or Vault of Night):\n|* {{Named item sets|Divine Blessing}}\n* {{Named item sets|Elder's Knowledge}}\n* {{Named item sets|Marshwalker}}\n* {{Named item sets|Raven's Eye}}\n* {{Named item sets|Shaman's Fury}}\n* {{Named item sets|Siren's Ward}}\n* {{Named item sets|Vulkoor's Cunning}}\n* {{Named item sets|Vulkoor's Might}}\n* {{Named item sets|Kundarak Delving Equipment}}\n* {{Named item sets|Mroranon's Might}}\n* {{Named item sets|Silver Concord's Subtlety}}\n* {{Named item sets|Wards of House Kundarak}}\n* {{Named item sets|Draconic Prophecy}}\n}}\n{{Collapsed effect\n|* Random set 2 (from Chronoscope or Sands of Menechtarun):\n|* {{Named item sets|Might of the Abishai}}\n* {{Named item sets|The Desert's Biting Sands}}\n* {{Named item sets|The Desert's Burning Sun}}\n* {{Named item sets|The Desert's Starless Nights}}\n* {{Named item sets|The Desert's Writhing Storm}}\n* {{Named item sets|Menechtarun Scavenger}}\n* {{Named item sets|Oasis of Morality}}\n* {{Named item sets|Vulkoor's Chosen}}\n* {{Named item sets|Windlasher's Ferocity}}\n}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Gem of Many Facets\n  | description              = From this chain hangs a gem that is very finely cut, giving it countless glittering faces. It can take the place of various other items for the purpose of activating certain set bonuses.<br><br>This item will randomly choose from available set bonuses whenever it is re-acquired or upgraded to a higher level version. This item is also keyed for Essence Crafting, and may be Disjuncted so that it can be crafted upon. Note that upgrading this item to a higher level version through Epic or Legendary Crafting will destroy what has been crafted upon it, and will also re-roll available set bonuses.\n  | tips                     = Note that although the gem itself is ML 5, the items it helps create sets with vary up to ML 11. Plan your gear around those items, not this one.\n\n* The description about \"re-acquiring\" the Gem is misleading; it means that each new Gem will have a different pair of sets. \n* Unlike the {{item|Epic Gem of Many Facets|epic version}}, you cannot re-select the set bonuses at an altar.\n\n'''Warning''': Don't trust the preview window in the [[Altar of Epic Rituals]]! When you place the item into the altar, the preview window shows a random pair of set bonuses. However, when you do upgrade the item, you will get a different random pair.\n  | pic                      = Gem Generic Large Green.png\n  | picdesc                  = Gem of Many Facets.png\n}}\n[[C:The Chronoscope (Legendary) loot]]",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Craftable (hidden)",
+      "tooltip": "Craftable : This item can be enhanced via Essence Crafting.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Essence_Crafting",
+          "title": "Essence Crafting",
+          "text": "Craftable"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Random set 1 (from Red Fens or Vault of Night):",
+      "tooltip": null,
+      "children": []
+    },
+    {
+      "text": "Divine Blessing",
+      "tooltip": "Divine Blessing: 2 Pieces Equipped:+2% Artifact bonus to Light, Alignment, and Positive Spellcrit Chance+10 Artifact bonus to Light, Alignment, and Positive Spellpower",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Divine_Blessing",
+          "title": "Named item sets",
+          "text": "Divine Blessing"
+        }
+      ]
+    },
+    {
+      "text": "Elder's Knowledge",
+      "tooltip": "Elder's Knowledge: +2% Artifact bonus to spell critical chance. 5% Legendary bonus to spell crit damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Elder's_Knowledge",
+          "title": "Named item sets",
+          "text": "Elder's Knowledge"
+        }
+      ]
+    },
+    {
+      "text": "Marshwalker",
+      "tooltip": "Marshwalker: 2 Pieces Equipped:+30% Enhancement bonus to movement speed+3 Artifact bonus to Jump and Tumble",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Marshwalker",
+          "title": "Named item sets",
+          "text": "Marshwalker"
+        }
+      ]
+    },
+    {
+      "text": "Raven's Eye",
+      "tooltip": "Raven's Eye: 2 Pieces Equipped:+3 Artifact bonus to Attack and Damage+3 Artifact bonus to Search and Spot",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Raven's_Eye",
+          "title": "Named item sets",
+          "text": "Raven's Eye"
+        }
+      ]
+    },
+    {
+      "text": "Shaman's Fury",
+      "tooltip": "Shaman's Fury: 2 Pieces Equipped:+2% Artifact bonus to Fire, Cold, Electric, and Acid Spellcrit Chance+10 Artifact bonus to Fire, Cold, Electric, and Acid Spellpower",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Shaman's_Fury",
+          "title": "Named item sets",
+          "text": "Shaman's Fury"
+        }
+      ]
+    },
+    {
+      "text": "Siren's Ward",
+      "tooltip": "Siren's Ward: 2 Pieces Equipped:+3 Artifact bonus to Armor Class+3 Artifact bonus to all Saving Throws",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Siren's_Ward",
+          "title": "Named item sets",
+          "text": "Siren's Ward"
+        }
+      ]
+    },
+    {
+      "text": "Vulkoor's Cunning",
+      "tooltip": "Vulkoor's Cunning: 2 Pieces Equipped:-20% Artifact bonus to Melee Threat Reduction+5 Artifact bonus to Melee and Ranged PowerYou gain On Vorpal: You apply a Vulkoorim Constitution Poison",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Vulkoor's_Cunning",
+          "title": "Named item sets",
+          "text": "Vulkoor's Cunning"
+        }
+      ]
+    },
+    {
+      "text": "Vulkoor's Might",
+      "tooltip": "Vulkoor's Might: 2 Pieces Equipped:+20% Artifact bonus to Threat Generation+3 Artifact bonus to Attack+3 Artifact bonus to Damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Vulkoor's_Might",
+          "title": "Named item sets",
+          "text": "Vulkoor's Might"
+        }
+      ]
+    },
+    {
+      "text": "Kundarak Delving Equipment",
+      "tooltip": "Kundarak Delving Equipment: 3 Pieces Equipped: +1 Artifact bonus to Sneak Attack Dice. +5% Artifact bonus to Helplessness Damage. +5% Artifact bonus to Doublestrike and Doubleshot",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Kundarak_Delving_Equipment",
+          "title": "Named item sets",
+          "text": "Kundarak Delving Equipment"
+        }
+      ]
+    },
+    {
+      "text": "Mroranon's Might",
+      "tooltip": "Mroranon's Might: 2 Pieces Equipped:+1 Artifact bonus to Strength+5 Artifact bonus to Melee and Ranged Power",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Mroranon's_Might",
+          "title": "Named item sets",
+          "text": "Mroranon's Might"
+        }
+      ]
+    },
+    {
+      "text": "Silver Concord's Subtlety",
+      "tooltip": "Silver Concord's Subtlety: 2 Pieces Equipped:+10% Artifact bonus to Fortification Bypass+5 Artifact bonus to Melee and Ranged Power",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Silver_Concord's_Subtlety",
+          "title": "Named item sets",
+          "text": "Silver Concord's Subtlety"
+        }
+      ]
+    },
+    {
+      "text": "Wards of House Kundarak",
+      "tooltip": "Wards of House Kundarak: 2 Pieces Equipped:+5% Artifact bonus to Armor Class+10 Artifact bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Wards_of_House_Kundarak",
+          "title": "Named item sets",
+          "text": "Wards of House Kundarak"
+        }
+      ]
+    },
+    {
+      "text": "Draconic Prophecy",
+      "tooltip": "Draconic Prophecy: 2 Pieces Equipped:+5 Artifact bonus to Universal Spellpower+10 Artifact bonus to Magical Resistance Rating Cap",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Draconic_Prophecy",
+          "title": "Named item sets",
+          "text": "Draconic Prophecy"
+        }
+      ]
+    },
+    {
+      "text": "Random set 2 (from Chronoscope or Sands of Menechtarun):",
+      "tooltip": null,
+      "children": []
+    },
+    {
+      "text": "Might of the Abishai",
+      "tooltip": "Might of the Abishai: 3 Piece Equipped:+3 Profane bonus to Natural Armor+1 Profane bonus to all Ability Scores+1 Profane bonus to DCs5 Piece Equipped:+5 Profane bonus to Natural Armor+2 Profane bonus to all Ability Scores+2 Profane bonus to DCs",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Might_of_the_Abishai",
+          "title": "Named item sets",
+          "text": "Might of the Abishai"
+        }
+      ]
+    },
+    {
+      "text": "The Desert's Biting Sands",
+      "tooltip": "The Desert's Biting Sands: 2 Pieces Equipped:+2% Artifact bonus to Force Spellcrit Chance+10 Artifact bonus to Force Spellpower+10 Artifact bonus to Magical Resistance Rating Cap",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Desert's_Biting_Sands",
+          "title": "Named item sets",
+          "text": "The Desert's Biting Sands"
+        }
+      ]
+    },
+    {
+      "text": "The Desert's Burning Sun",
+      "tooltip": "The Desert's Burning Sun: 2 Pieces Equipped:+2% Artifact bonus to Fire Spellcrit Chance+10 Artifact bonus to Fire Spellpower+5 Artifact bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Desert's_Burning_Sun",
+          "title": "Named item sets",
+          "text": "The Desert's Burning Sun"
+        }
+      ]
+    },
+    {
+      "text": "The Desert's Starless Nights",
+      "tooltip": "The Desert's Starless Nights: 2 Pieces Equipped:+2% Artifact bonus to Negative and Poison Spellcrit Chance+10 Artifact bonus to Negative and Poison Spellpower+5% Artifact bonus to Damage vs the Helpless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Desert's_Starless_Nights",
+          "title": "Named item sets",
+          "text": "The Desert's Starless Nights"
+        }
+      ]
+    },
+    {
+      "text": "The Desert's Writhing Storm",
+      "tooltip": "The Desert's Writhing Storm: 2 Pieces Equipped:+2% Artifact bonus to Electric Spellcrit Chance+10 Artifact bonus to Electric Spellpower+10 Artifact bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Desert's_Writhing_Storm",
+          "title": "Named item sets",
+          "text": "The Desert's Writhing Storm"
+        }
+      ]
+    },
+    {
+      "text": "Menechtarun Scavenger",
+      "tooltip": "Menechtarun Scavenger: 2 Pieces Equipped:+5 Artifact bonus to Physical and Magical Resistance Rating+10 Artifact bonus to Positive, Negative, and Repair Amplification",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Menechtarun_Scavenger",
+          "title": "Named item sets",
+          "text": "Menechtarun Scavenger"
+        }
+      ]
+    },
+    {
+      "text": "Oasis of Morality",
+      "tooltip": "Oasis of Morality: 2 Pieces Equipped:+2% Artifact bonus to Positive Spellcrit Chance+10 Artifact bonus to Positive Spellpower+5% Artifact bonus to Fortification Bypass",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Oasis_of_Morality",
+          "title": "Named item sets",
+          "text": "Oasis of Morality"
+        }
+      ]
+    },
+    {
+      "text": "Vulkoor's Chosen",
+      "tooltip": "Vulkoor's Chosen: 2 Pieces Equipped:+10 Artifact bonus to Poison Resistance+1 Artifact bonus to Sneak Attack Dice+1 Artifact bonus to Saving Throws+1 Artifact bonus to Dexterity and Constitution",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Vulkoor's_Chosen",
+          "title": "Named item sets",
+          "text": "Vulkoor's Chosen"
+        }
+      ]
+    },
+    {
+      "text": "Windlasher's Ferocity",
+      "tooltip": "Windlasher's Ferocity: 2 Pieces Equipped:+5% Artifact bonus to Doublestrike and Doubleshot+5 Artifact bonus to Melee and Ranged Power",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Windlasher's_Ferocity",
+          "title": "Named item sets",
+          "text": "Windlasher's Ferocity"
+        }
+      ]
+    }
+  ]
+}

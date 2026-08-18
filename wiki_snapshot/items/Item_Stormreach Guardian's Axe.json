@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Stormreach Guardian's Axe",
+  "page_id": 68870,
+  "revision_id": 635082,
+  "revision_timestamp": "2025-04-22T04:04:09Z",
+  "fetched_at": "2026-08-17T23:06:47.106037+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Stormreach Guardian's Axe\n  | damage                   = 1.80[1d10] + 5 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Dwarven War Axe\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Exotic\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | minlevel                 = 14\n  | durability               = 225\n  | material                 = Steel\n  | hardness                 = 24\n  | basevalue                = 12,803 pp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 38\n  | quest                    = Night Falls on Stormreach\n  | chest                    = End Chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Chilling|3}}\n* {{Armor-Piercing|11}}\n* {{Bleeding|3}}\n* {{Destruction}}\n* {{Augment|Red}}\n* {{Named item sets|Renegade Champion}}\n  | pic                      = Stormreach Guardian's Axe Shown.jpg\n  | picdesc                  = Stormreach Guardian's Axe.png\n  | description              = Left behind by a fallen member of the Stormreach Harbor Guard, this axe's work is not yet finished.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Dwarven War Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Chilling 3",
+      "tooltip": "Chilling 3: This effect causes the edges of this weapon to become frozen to the touch, dealing 3d6 Ice damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Chilling",
+          "title": "Chilling",
+          "text": "Chilling 3"
+        }
+      ]
+    },
+    {
+      "text": "Armor-Piercing 11%",
+      "tooltip": "Armor-Piercing 11%: Passive: +11% Enhancement bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Armor-Piercing 11%"
+        }
+      ]
+    },
+    {
+      "text": "Bleeding 3",
+      "tooltip": "Bleeding 3: This weapon is wickedly curved, with spines and hooks meant to cause damage to those with flesh. This weapon does 3d8 bleeding damage to those that are vulnerable to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleeding",
+          "title": "Bleeding",
+          "text": "Bleeding 3"
+        }
+      ]
+    },
+    {
+      "text": "Destruction",
+      "tooltip": "Destruction: On Hit: Your target gains a stack of Armor Destruction. (-1 penalty to Armor Class, -1% of its Fortification. 20 Second Duration. Stacks up to 15 times.) This effect may trigger once every three seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Destruction",
+          "title": "Destruction",
+          "text": "Destruction"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Renegade Champion",
+      "tooltip": "Renegade Champion: 3 Pieces Equipped: +1 Artifact Bonus to Critical Multiplier on a 19-20. +2 Artifact Bonus to Rune Arm DCs. +10 Artifact Bonus to Repair Amplification",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Renegade_Champion",
+          "title": "Named item sets",
+          "text": "Renegade Champion"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

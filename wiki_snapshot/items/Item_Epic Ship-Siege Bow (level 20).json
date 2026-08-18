@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Epic Ship-Siege Bow (level 20)",
+  "page_id": 82111,
+  "revision_id": 630420,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:55:54.755256+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Ship-Siege Bow}}\n  | damage                   = 3[1d8] + 6 Pierce, Magic\n  | crit                     = 19-20 / x3\n  | minlevel                 = 20\n  | type                     = Long Bow\n  | reqtrait                 = \n  | UMD DC                   = \n  | hand                     = Ranged\n  | class                    = Ranged\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | prof                     = Martial\n  | durability               = 280\n  | material                 = Densewood\n  | hardness                 = 30\n  | basevalue                = 8,007 pp 5 gp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = various ingredients at [[Euphonia's Barter Box]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|6}}\n* {{Fiery|4}}\n* {{Bane|Construct|4}}\n* {{Destruction|Improved}}\n* {{Keen}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Used for ship-to-ship combat.  You could use it on land as well, if you had to.\n  | pic                      = Ship-Siege Bow shown.jpg\n  | picdesc                  = Epic Ship-Siege Bow (level 20).png\n  | tips                     = \n}}<noinclude>[[Category:Treasure of Crystal Cove epic items]]</noinclude>",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fiery 4",
+      "tooltip": "Fiery 4: This effect causes the edges of this weapon to burn with enchanted flames, dealing 4d6 Fire damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fiery",
+          "title": "Fiery",
+          "text": "Fiery 4"
+        }
+      ]
+    },
+    {
+      "text": "Construct Bane 4",
+      "tooltip": "Construct Bane 4: This weapon is attuned specifically to disrupt creations, dealing an additional 4d10 bane damage vs. Constructs.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Construct Bane 4"
+        }
+      ]
+    },
+    {
+      "text": "Improved Destruction",
+      "tooltip": "Improved Destruction: On Hit: Your target gains a stack of Armor Destruction. (-1 penalty to Armor Class, -1% of its Fortification. 20 Second Duration. Stacks up to 15 times.) This effect may trigger once every second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Improved_Destruction",
+          "title": "Improved Destruction",
+          "text": "Improved Destruction"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

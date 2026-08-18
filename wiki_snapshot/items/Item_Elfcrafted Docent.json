@@ -1,0 +1,54 @@
+{
+  "page_title": "Item:Elfcrafted Docent",
+  "page_id": 10035,
+  "revision_id": 629756,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:42:40.197205+00:00",
+  "categories": [],
+  "wikitext": "{{History}}\n{{Named item|Armor\n  | name                     = Elfcrafted Docent\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+16|m=+7|c=+2}}\n  | durability               = 110\n  | material                 = Gem\n  | hardness                 = 16\n  | basevalue                = 3610pp\n  | weight                   = 0 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 10\n  | quest                    = Elfcraft Armor\n  | turn in                  = 10 [[Ancient Elven Relic]]s\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{Spell Focus|Evocation|1}}\n* Arcane Lore\n* Minor Spell Penetration VII\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Elfcrafted Docent shown.jpg\n  | picdesc                  = Elfcrafted Docent.png\n  | description              = This docent was imbued with the power of the elven slaves of the ancient giant empire.\n  | notes                    = \n}}",
+  "item_template": "History",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Evocation Focus +1",
+      "tooltip": "Evocation Focus +1: +1 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus +1"
+        }
+      ]
+    },
+    {
+      "text": "Arcane Lore",
+      "tooltip": null,
+      "children": []
+    },
+    {
+      "text": "Minor Spell Penetration VII",
+      "tooltip": null,
+      "children": []
+    }
+  ]
+}

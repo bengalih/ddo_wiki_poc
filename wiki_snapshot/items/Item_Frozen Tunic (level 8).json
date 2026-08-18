@@ -1,0 +1,204 @@
+{
+  "page_title": "Item:Frozen Tunic (level 8)",
+  "page_id": 23550,
+  "revision_id": 686697,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:09:00.321934+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Frozen Tunic}}\n  | type                     = Outfit\n  | feat                     = Cloth\n  | race                     = \n  | ac                       = +4\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 85\n  | material                 = Cloth\n  | hardness                 = 10\n  | minlevel                 = 8\n  | quest                    = Vaults of the Artificers\n  | chest                    = Crafted from various challenge ingredients\n  | basevalue                = 3,205pp 5gp\n  | weight                   = \n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | enhancements             = \n{{VaultsOfTheArtificersUpgrade}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = <!--yes -->\n  | description              = This tunic shimmers like frost and is filled with a powerful freezing energy. It will invest your attacks with an icy edge, as well as boosting the power of your ice-related magic. A bound Water Elemental fuels this item.\n  | pic                      = Frozen Tunic shown.jpg\n  | picdesc                  = Frozen Tunic (Level 8).png\n  | notes                    =\n* {{Popup|Tier 2|[[Image:Frozen Tunic (Level 8)(Tier 2).png|452 px]]|long=y}}\n* {{Popup|Tier 3|[[Image:Frozen Tunic (Level 8)(Tier 3).png|452 px]]|long=y}}\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Outfit",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": "Upgradeable - Tier 1: This item is a Tier 1 upgradable item.",
+      "children": [
+        {
+          "text": "Armor Bonus +4",
+          "tooltip": "Armor Bonus +4: This item surrounds the wearer with an invisible but tangible field of force, granting +4 armor bonus to AC, just as though he were wearing armor.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Armor_Bonus",
+              "title": "Armor Bonus",
+              "text": "Armor Bonus +4"
+            }
+          ]
+        },
+        {
+          "text": "Glaciation +69",
+          "tooltip": "Glaciation +69: Passive: +69 Equipment bonus to Cold Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Glaciation",
+              "title": "Glaciation",
+              "text": "Glaciation +69"
+            }
+          ]
+        },
+        {
+          "text": "Ice Lore +10%",
+          "tooltip": "Ice Lore +10: Passive: Your Cold spells gain a 10% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Ice Lore +10%"
+            }
+          ]
+        },
+        {
+          "text": "Minor Freezing Ice",
+          "tooltip": "Minor Freezing Ice :",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Freezing_Ice",
+              "title": "Freezing Ice",
+              "text": "Minor Freezing Ice"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": "Upgradeable - Tier 2: This item is a Tier 2 upgradable item.",
+      "children": [
+        {
+          "text": "Armor Bonus +4 → Armor Bonus +5",
+          "tooltip": "Armor Bonus +4: This item surrounds the wearer with an invisible but tangible field of force, granting +4 armor bonus to AC, just as though he were wearing armor.Armor Bonus +5: This item surrounds the wearer with an invisible but tangible field of force, granting +5 armor bonus to AC, just as though he were wearing armor.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Armor_Bonus",
+              "title": "Armor Bonus",
+              "text": "Armor Bonus +4"
+            },
+            {
+              "target": "/page/Armor_Bonus",
+              "title": "Armor Bonus",
+              "text": "Armor Bonus +5"
+            }
+          ]
+        },
+        {
+          "text": "Glaciation +69 → Glaciation +74",
+          "tooltip": "Glaciation +69: Passive: +69 Equipment bonus to Cold Spell Power.Glaciation +74: Passive: +74 Equipment bonus to Cold Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Glaciation",
+              "title": "Glaciation",
+              "text": "Glaciation +69"
+            },
+            {
+              "target": "/page/Glaciation",
+              "title": "Glaciation",
+              "text": "Glaciation +74"
+            }
+          ]
+        },
+        {
+          "text": "Ice Lore +10% → Ice Lore +11%",
+          "tooltip": "Ice Lore +10: Passive: Your Cold spells gain a 10% Equipment bonus to their chance to critical hit.Ice Lore +11: Passive: Your Cold spells gain a 11% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Ice Lore +10%"
+            },
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Ice Lore +11%"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This item is a Tier 3 upgradable item.",
+      "children": [
+        {
+          "text": "Glaciation +74 → Glaciation +79",
+          "tooltip": "Glaciation +74: Passive: +74 Equipment bonus to Cold Spell Power.Glaciation +79: Passive: +79 Equipment bonus to Cold Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Glaciation",
+              "title": "Glaciation",
+              "text": "Glaciation +74"
+            },
+            {
+              "target": "/page/Glaciation",
+              "title": "Glaciation",
+              "text": "Glaciation +79"
+            }
+          ]
+        },
+        {
+          "text": "Ice Lore +11% → Ice Lore +12%",
+          "tooltip": "Ice Lore +11: Passive: Your Cold spells gain a 11% Equipment bonus to their chance to critical hit.Ice Lore +12: Passive: Your Cold spells gain a 12% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Ice Lore +11%"
+            },
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Ice Lore +12%"
+            }
+          ]
+        },
+        {
+          "text": "Adds Green Augment Slot",
+          "tooltip": "Blue, Green, Yellow, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Green Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

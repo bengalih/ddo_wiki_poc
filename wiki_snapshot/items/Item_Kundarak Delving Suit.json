@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Kundarak Delving Suit",
+  "page_id": 5713,
+  "revision_id": 631698,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:27:45.693498+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Kundarak Delving Suit\n  | type                     = Chainmail\n  | feat                     = Light\n  | race                     = \n  | minlevel                 = 10\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +12\n  | maxdexbonus              = 11\n<!--|acp             = -->\n  | asf                      = 5%\n  | durability               = 156\n  | material                 = Mithral\n  | hardness                 = 24\n  | basevalue                = 4,415pp\n  | weight                   = 20 lbs\n  | quest                    = Plane of Night\n  | chest                    = Raid Warded Chest\n  | revamped                 = Update 59\n  | end reward               = \n  | turn in                  = \n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Deception|4}}\n* {{Skills|Search|6|Insight|prefix=Insightful}}\n* {{Skills|Spot|6|Insight|prefix=Insightful}}\n* {{Save|Reflex|6}}\n* {{Mat|Mithral}}\n* {{Named item sets|Kundarak Delving Equipment}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Kundarak Delving Suit\n  | pic                      = Kundarak Delving Suit shown.jpg\n  | picdesc                  = Kundarak Delving Suit.png\n  | description              = This armor is Kundarak-forged and useful for exploring (and infiltrating) secure spaces.\n  | notes                    = \n}}\n[[Category:Draconic Raider's Reward Box items]]",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Chainmail",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Deception +4",
+      "tooltip": "Deception +4: +4 Enhancement bonus to hit and +6 to damage for any hit that would qualify as a sneak attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Deception +4"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Search +6",
+      "tooltip": "Insightful Search +6: Passive: +6 Insight bonus to the Search skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Search",
+          "title": "Search",
+          "text": "Insightful Search +6"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Spot +6",
+      "tooltip": "Insightful Spot +6: Passive: +6 Insight bonus to the Spot skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spot",
+          "title": "Spot",
+          "text": "Insightful Spot +6"
+        }
+      ]
+    },
+    {
+      "text": "Reflex Save +6",
+      "tooltip": "Reflex Save +6: This item gives a +6 Resistance bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save +6"
+        }
+      ]
+    },
+    {
+      "text": "Mithral",
+      "tooltip": "Mithral: Mithral armor is one type lighter then normal. Arcane Spell Failure decreased by 10%. Maximum dexterity bonus increased by 2. Armor check penalty reduced by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mithral",
+          "title": "Mithral",
+          "text": "Mithral"
+        }
+      ]
+    },
+    {
+      "text": "Kundarak Delving Equipment",
+      "tooltip": "Kundarak Delving Equipment: 3 Pieces Equipped: +1 Artifact bonus to Sneak Attack Dice. +5% Artifact bonus to Helplessness Damage. +5% Artifact bonus to Doublestrike and Doubleshot",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Kundarak_Delving_Equipment",
+          "title": "Named item sets",
+          "text": "Kundarak Delving Equipment"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

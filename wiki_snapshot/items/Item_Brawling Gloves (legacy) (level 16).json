@@ -1,0 +1,121 @@
+{
+  "page_title": "Item:Brawling Gloves (legacy) (level 16)",
+  "page_id": 14046,
+  "revision_id": 628756,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:15:12.627071+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Brawling Gloves}}\n  | type                     = Gloves\n  | basevalue                = 8,105 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Hand\n  | durability               = 100\n  | material                 = Leather\n  | hardness                 = 11\n  | minlevel                 = 16\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Treasure of Crystal Cove\n  | end reward               = \n  | turn in                  = at [[Dusty Old Treasure of Crystal Cove]]\n  | enhancements             = \n* [[Upgradeable - Tier 1]]\n* {{Spike-Studded}}\n* {{Stat|STR|5}}\n* {{Glass Jaw Strike}}\n** [[Upgradeable - Tier 2]]\n*** Adds {{Sneak Attack Bonus|4}}\n** [[Upgradeable - Tier 3]]\n*** {{Stat|STR|5}} &rarr; {{Stat|STR|6}}\n  | mythic                   = no\n  | epic                     = no\n  | crafting                 = Treasure of Crystal Cove\n  | craftingupgrade          = \n  | description              = Some pirates prefer to brawl with their bare hands.  These strength-enhancing gloves are perfect for their fighting style.\n  | pic                      = Gloves Generic Brawling.png\n  | picdesc                  = Brawling Gloves (Level 16) (Tier 1).png\n  | tips                     = \n* See also: [[Brawling Gloves]] - Full table of the Swashbuckler line\n* {{Popup|Tier 2|[[File:Brawling Gloves (Level 16) (Tier 2).png|450 px]]|long=y}}\n* {{Popup|Tier 3|[[File:Brawling Gloves (Level 16) (Tier 3).png|450 px]]|long=y}}\n}}<noinclude>[[Category:Treasure of Crystal Cove legacy reward items]]</noinclude>",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Spike-Studded",
+      "tooltip": "Spike-Studded: This item is reinforced with metal studs that improve your unarmed strikes. Your unarmed attacks do an additional 1 to 4 piercing damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spike-Studded",
+          "title": "Spike-Studded",
+          "text": "Spike-Studded"
+        }
+      ]
+    },
+    {
+      "text": "Strength +5",
+      "tooltip": "Strength +5: This item gives the wearer the power of Ogre Strength, granting a +5 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +5"
+        }
+      ]
+    },
+    {
+      "text": "Glass Jaw Strike",
+      "tooltip": "Glass Jaw Strike: While wearing this item, when you roll a 20 on an unarmed attack, you will deal a tremendous blow to your target that will daze it (as the Sap ability) and may knock it down as well.",
+      "children": [
+        {
+          "text": "Upgradeable - Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Sneak Attack Bonus +4",
+              "tooltip": "Sneak Attack Bonus +4 : Provides a +4 Enhancement modifier to your attack bonus and a +6 Enhancement bonus to damage for any attack that would qualify as a Sneak Attack, even if the wielder is not a Rogue.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Sneak_Attack_Bonus",
+                  "title": "Sneak Attack Bonus",
+                  "text": "Sneak Attack Bonus +4"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_2",
+              "title": "Upgradeable - Tier 2",
+              "text": "Upgradeable - Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Upgradeable - Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Strength +5 → Strength +6",
+              "tooltip": "Strength +5: This item gives the wearer the power of Ogre Strength, granting a +5 Enhancement bonus to Strength. Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Strength",
+                  "title": "Strength",
+                  "text": "Strength +5"
+                },
+                {
+                  "target": "/page/Strength",
+                  "title": "Strength",
+                  "text": "Strength +6"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_3",
+              "title": "Upgradeable - Tier 3",
+              "text": "Upgradeable - Tier 3"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Glass_Jaw_Strike",
+          "title": "Glass Jaw Strike",
+          "text": "Glass Jaw Strike"
+        }
+      ]
+    }
+  ]
+}

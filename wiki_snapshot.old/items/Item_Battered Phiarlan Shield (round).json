@@ -1,0 +1,66 @@
+{
+  "page_title": "Item:Battered Phiarlan Shield (round)",
+  "page_id": 124286,
+  "revision_id": 677528,
+  "revision_timestamp": "2026-03-04T05:53:24Z",
+  "fetched_at": "2026-08-17T03:44:13.560406+00:00",
+  "categories": [],
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Steel",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Acid Guard +2",
+      "tooltip": "Acid Guard +2: Chance to deal 2d8 Acid damage when hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Guards",
+          "title": "Guards",
+          "text": "Acid Guard"
+        }
+      ]
+    },
+    {
+      "text": "Acid Absorption +15%",
+      "tooltip": "Acid Absorption +15%: Passive: 15% Enhancement Bonus to Acid Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Acid Absorption +15%"
+        }
+      ]
+    },
+    {
+      "text": "Absorb Enchantment Spells - 5 Charges (Recharged/Day: 5)",
+      "tooltip": "Absorb Enchantment Spells: This effect absorbs most enchantment-based spells. Only a few such spells can be absorbed before the item ceases to function and must have time to dissipate the absorbed energy.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Absorb_Enchantment_Spells",
+          "title": "Absorb Enchantment Spells",
+          "text": "Absorb Enchantment Spells"
+        }
+      ]
+    }
+  ],
+  "item_class": "Shield",
+  "item_template": ""
+}

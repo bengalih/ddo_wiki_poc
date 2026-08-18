@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Shadar-kai Armor",
+  "page_id": 39589,
+  "revision_id": 634572,
+  "revision_timestamp": "2025-04-22T03:30:25Z",
+  "fetched_at": "2026-08-17T22:53:50.760933+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Shadar-kai Armor\n  | type                     = Leather\n  | feat                     = Light\n  | race                     = Shadar-kai\n  | ac                       = 9\n  | maxdexbonus              = 11\n  | acp                      = 0\n  | asf                      = 10%\n  | durability               = 262\n  | material                 = Spiritcraft Leather\n  | hardness                 = 26\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 15\n  | basevalue                = 6,001 pp\n  | weight                   = 15 lbs\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{False Life|greater}}\n* {{Spearblock|III}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Shadar-kai Armor shown.jpg\n  | picdesc                  = Shadar-kai Armor.png\n  | description              = The pieces of this leather armor fit together perfectly, preventing the wearer from making noise.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Spiritcraft Leather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Greater False Life",
+      "tooltip": "Greater False Life: This item grants the wearer +30 maximum health.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)#Greater_False_Life",
+          "title": "False Life (enchantment)",
+          "text": "Greater False Life"
+        }
+      ]
+    },
+    {
+      "text": "Spearblock III",
+      "tooltip": "Spearblock III: Passive: Reduces physical damage taken by 6, except from Bludgeoning or Slashing weapons. (Damage Reduction: 6/Slash, Bludgeon)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spearblock",
+          "title": "Spearblock",
+          "text": "Spearblock III"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Coat of the Wanderer (level 4)",
+  "page_id": 123501,
+  "revision_id": 685099,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:24:34.879959+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Coat of the Wanderer\n  | type                     = Medium Armor\n  | feat                     = Medium\n  | race                     = \n  | minlevel                 = 4\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +12\n  | maxdexbonus              = 5\n  | acp                      = -1\n  | asf                      = 25%\n  | durability               = 120\n  | material                 = Leather\n  | hardness                 = 13\n  | basevalue                = 75 pp\n  | weight                   = 30 lbs\n  | released                 = Update 78\n  | quest                    = Timeline Fragment Exchange\n  | turn in                  = 50 Timeline Fragments\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|2}}\n* {{Speed|15}}\n* {{Save|Reflex|2|Insightful}}\n* {{Dodge|3}}\n* {{Stat|Well Rounded|1|Profane}}\n* {{Augment|Blue}}\n* {{Augment|Sun}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Coat of the Wanderer shown.jpg\n  | picdesc                  = Coat of the Wanderer (level 4).png\n  | description              = {{Cyan|Time-Twisted}} version of {{Orange|Coat of the Traveler}}\n\nThe Barovian tailor that made this coat suggested something sturdy, but the Wanderer requested one suited for speed instead.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Medium Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Speed +15%",
+      "tooltip": "Speed +15%: +15% enhancement bonus to movement speed, 5% bonus to attack speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Speed",
+          "title": "Speed",
+          "text": "Speed +15%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Reflex Save +2",
+      "tooltip": "Insightful Reflex Save +2: This item gives a +2 Insight bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Insightful Reflex Save +2"
+        }
+      ]
+    },
+    {
+      "text": "Dodge +3%",
+      "tooltip": "Dodge +3%: +3% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +3%"
+        }
+      ]
+    },
+    {
+      "text": "Profane Well Rounded +1",
+      "tooltip": "Profane Well Rounded +1: +1 Profane bonus to all abilities.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ability",
+          "title": "Ability",
+          "text": "Profane Well Rounded +1"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    }
+  ]
+}

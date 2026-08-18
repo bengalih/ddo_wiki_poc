@@ -1,0 +1,128 @@
+{
+  "page_title": "Item:Epic Silken Mail",
+  "page_id": 12679,
+  "revision_id": 683620,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:56:00.306811+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Epic Silken Mail\n  | type                     = Light Armor\n  | feat                     = Light\n  | race                     = \n  | minlevel                 = 20\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +16\n  | maxdexbonus              = 13\n  | acp                      = 0\n  | asf                      = 5%\n  | durability               = 280\n  | material                 = Mithral\n  | hardness                 = 34\n  | basevalue                = 8,415 pp\n  | weight                   = 20 lbs\n  | quest                    = \n  | epic                     = Silken Mail\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|6}}\n* {{Sheltering|24|Enhancement|Physical}}\n* {{Skills|hide|17}}\n* {{Skills|MS|17}}\n* {{Axeblock|X}}\n* {{Mat|Mithral}}\n* {{Augment|Colorless}}\n* {{Augment|Blue}}\n* {{Named item sets|Epic Vulkoor's Chosen}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Silken Mail\n  | pic                      = Silken Mail shown.jpg\n  | picdesc                  = Epic Silken Mail.png\n  | description              = A Mithral Chainmail hauberk this armor is completely silent and seems impervious to most slashing damage.\n  | notes                    = \n}}\n[[Category:Sands of Menechtarun epic items]]",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Light Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +24",
+      "tooltip": "Physical Sheltering +24: +24 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +24"
+        }
+      ]
+    },
+    {
+      "text": "Hide +17",
+      "tooltip": "Hide +17: Passive: +17 Competence bonus to the Hide skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hide",
+          "title": "Hide",
+          "text": "Hide +17"
+        }
+      ]
+    },
+    {
+      "text": "Move Silently +17",
+      "tooltip": "Move Silently +17: Passive: +17 Competence bonus to the Move Silently skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Move_Silently",
+          "title": "Move Silently",
+          "text": "Move Silently +17"
+        }
+      ]
+    },
+    {
+      "text": "Axeblock X",
+      "tooltip": "Axeblock X: Passive: Reduces physical damage taken by 20, except from Bludgeoning or Piercing weapons. (Damage Reduction: 20/Pierce, Bludgeon)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Axeblock",
+          "title": "Axeblock",
+          "text": "Axeblock X"
+        }
+      ]
+    },
+    {
+      "text": "Mithral",
+      "tooltip": "Mithral: Mithral armor is one type lighter then normal. Arcane Spell Failure decreased by 10%. Maximum dexterity bonus increased by 2. Armor check penalty reduced by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mithral",
+          "title": "Mithral",
+          "text": "Mithral"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Epic Vulkoor's Chosen",
+      "tooltip": "Epic Vulkoor's Chosen: 2 Pieces Equipped:+20 Artifact bonus to Poison Resistance+2 Artifact bonus to Sneak Attack Dice+2 Artifact bonus to Saving Throws+2 Artifact bonus to Dexterity and Constitution",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Epic_Vulkoor's_Chosen",
+          "title": "Named item sets",
+          "text": "Epic Vulkoor's Chosen"
+        }
+      ]
+    }
+  ]
+}

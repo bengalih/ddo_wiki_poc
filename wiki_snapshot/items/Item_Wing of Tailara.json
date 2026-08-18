@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Wing of Tailara",
+  "page_id": 124491,
+  "revision_id": 683738,
+  "revision_timestamp": "2026-04-11T19:12:19Z",
+  "fetched_at": "2026-08-17T23:27:04.329157+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Wing of Tailara\n  | minlevel                 = 10\n  | type                     = Khopesh\n  | class                    = Slashing\n  | prof                     = Exotic\n  | hand                     = One-handed\n  | damage                   = [1d8] + 4 Slash, Magic\n  | crit                     = 19-20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 165\n  | material                 = Steel\n  | hardness                 = 20\n  | cost                     = 4,002 pp\n  | weight                   = 12 lbs\n  | released                 = Update 79\n  | quest                    = The Final Draw\n  | chest                    = end chest\n  | rare                     =\n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Chilling|3}}\n* {{Freezing|7}}\n* {{Banishing}}\n* {{Dragon's Edge|3}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A frozen blade, hidden away from the one who made it.\n  | pic                      = Wing of Tailara shown.jpg\n  | picdesc                  = Wing of Tailara.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Khopesh",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Chilling 3",
+      "tooltip": "Chilling 3: This effect causes the edges of this weapon to become frozen to the touch, dealing 3d6 Ice damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Chilling",
+          "title": "Chilling",
+          "text": "Chilling 3"
+        }
+      ]
+    },
+    {
+      "text": "Freezing 7",
+      "tooltip": "Freezing 7: This effect causes the edges of this weapon to become frozen to the touch, dealing 7 to 42 Ice damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Freezing",
+          "title": "Freezing",
+          "text": "Freezing 7"
+        }
+      ]
+    },
+    {
+      "text": "Banishing",
+      "tooltip": "Banishing: On Hit: 4 to 24 Bane damage to Outsiders.On Vorpal Hit: If an outsider struck by this weapon has fewer than 1000 Hit Points, it is instantly slain. If the outsider has above 1000 Hit Points, it takes 100 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Banishing#Banishing",
+          "title": "Banishing",
+          "text": "Banishing"
+        }
+      ]
+    },
+    {
+      "text": "Dragon's Edge 3",
+      "tooltip": "Dragon's Edge 3: +9% Enhancement bonus to bypass enemy Fortification. On Crit: 3d8 Bleeding Damage to those that are vulnerable to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dragon%27s_Edge",
+          "title": "Dragon's Edge",
+          "text": "Dragon's Edge 3"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

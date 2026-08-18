@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:The Lotus Mail",
+  "page_id": 83554,
+  "revision_id": 635387,
+  "revision_timestamp": "2025-04-22T04:24:29Z",
+  "fetched_at": "2026-08-17T23:15:17.725157+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = The Lotus Mail\n  | type                     = Light Armor\n  | feat                     = Light\n  | race                     = \n  | ac                       = 9\n  | maxdexbonus              = 10\n  | acp                      = 0\n  | asf                      = 10%\n  | durability               = 106\n  | material                 = Leather\n  | hardness                 = 14\n  | minlevel                 = 5\n  | released                 = Update 48\n  | revamped                 = Update 59\n  | quest                    = The Icemount Curse\n  | chest                    = End Chest\n  | end reward               = \n  | turn in                  = \n  | basevalue                = 2,050 pp\n  | weight                   = 30 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|2}}\n* {{Fortification|59}}\n* {{HealingAmp|14|Positive|Competence}}\n* {{Save|r|4}}\n* {{Dodge|4}}\n* {{Augment|Blue}}\n* {{Named item sets|Seasons of the Feywild}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = The Lotus Mail shown.jpg\n  | picdesc                  = The Lotus Mail.png\n  | description              = This light armor seems to be patterned after the traditional clothing of the Eladrin.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Light Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +59%",
+      "tooltip": "Fortification +59%: +59% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +59%"
+        }
+      ]
+    },
+    {
+      "text": "Competence Healing Amplification +14",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +14 (Competence bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Competence Healing Amplification +14"
+        }
+      ]
+    },
+    {
+      "text": "Reflex Save +4",
+      "tooltip": "Reflex Save +4: This item gives a +4 Resistance bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save +4"
+        }
+      ]
+    },
+    {
+      "text": "Dodge +4%",
+      "tooltip": "Dodge +4%: +4% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +4%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Seasons of the Feywild",
+      "tooltip": "Seasons of the Feywild:",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Seasons_of_the_Feywild",
+          "title": "Named item sets",
+          "text": "Seasons of the Feywild"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Cloak of Silence",
+  "page_id": 11397,
+  "revision_id": 629033,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:22:53.758869+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Cloak of Silence\n  | minlevel                 = 5\n  | type                     = Cloak\n  | class                    = Clothing\n  | slot                     = Back\n  | durability               = 60 \n  | material                 = Leather\n  | hardness                 = 7\n  | basevalue                = 2,005 pp\n  | weight                   = 0.10 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = Redwillow's Ruins\n  | chest                    = [[Ker'xxan T'korcha]]'s chest\n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* {{Skills|MS|7}}\n* {{Augment|Yellow}}\n  | description              = This dark cloak seems as if it absorbs the sound around it. \n  | pic                      = Cloak of Silence Shown.jpg\n  | picdesc                  = Cloak of Silence.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Move Silently +7",
+      "tooltip": "Move Silently +7: Passive: +7 Competence bonus to the Move Silently skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Move_Silently",
+          "title": "Move Silently",
+          "text": "Move Silently +7"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Chains",
+  "page_id": 61397,
+  "revision_id": 628933,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:20:38.709724+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Chains\n  | minlevel                 = 8\n  | type                     = Necklace\n  | race                     = <!-- Choices are Bladeforged, Warforged, Sun Elf, Shadar Kai, Purple Dragon Knight, or none -->\n  | slot                     = Neck\n  | bind                     = {{Bind|Bta|BoA}}\n  | durability               = 90\n  | material                 = Silver\n  | hardness                 = 18\n  | basevalue                = 3220pp\n  | weight                   = 0.1 lbs\n  | epic                     = no\n  | quest                    = Slave Pits of the Undercity\n  | released                 = Update 32\n  | end reward               = \n  | turn in                  = \n  | chest                    = Small chest\n  | food                     = no\n  | enhancements             = \n* {{Slaver's Slot|Prefix}}\n* {{Slaver's Slot|Suffix}}\n* {{Slaver's Slot|Extra}}\n* {{Slaver's Slot|Bonus}}\n* {{CraftingEffects|Against the Slave Lords Set Bonus}}\n* {{Slaver's Slot|Augment}}\n  | crafting                 = Slave Lords Crafting\n  | craftingupgrade          = \n  | description              = Oppression will always fail, just as chains will always be broken.\n  | pic                      = \n  | picdesc                  = Chains.png\n  | tips                     = This unusual item can be worn in the Neck slot ''or'' the Waist slot - it will default to the Neck if both slots are empty when you equip it. The item is always damaged when found.\n}}[[Category:Waist items]]",
+  "item_template": "Named item",
+  "material": "Silver",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Slaver's Prefix Slot",
+      "tooltip": "Slaver's Prefix Slot: Apply a Slaver's shard to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slave_Lords_Crafting",
+          "title": "Slave Lords Crafting",
+          "text": "Slaver's Prefix Slot"
+        }
+      ]
+    },
+    {
+      "text": "Slaver's Suffix Slot",
+      "tooltip": "Slaver's Suffix Slot: Apply a Slaver's shard to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slave_Lords_Crafting",
+          "title": "Slave Lords Crafting",
+          "text": "Slaver's Suffix Slot"
+        }
+      ]
+    },
+    {
+      "text": "Slaver's Extra Slot",
+      "tooltip": "Slaver's Extra Slot: Apply a Slaver's shard to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slave_Lords_Crafting",
+          "title": "Slave Lords Crafting",
+          "text": "Slaver's Extra Slot"
+        }
+      ]
+    },
+    {
+      "text": "Slaver's Bonus Slot",
+      "tooltip": "Slaver's Bonus Slot: Apply a Slaver's shard to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slave_Lords_Crafting",
+          "title": "Slave Lords Crafting",
+          "text": "Slaver's Bonus Slot"
+        }
+      ]
+    },
+    {
+      "text": "Against the Slave Lords Set Bonus",
+      "tooltip": "Against the Slave Lords Set Bonus: An Against the Slave Lords Set Bonus can be applied to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slave_Lords_Crafting",
+          "title": "Slave Lords Crafting",
+          "text": "Against the Slave Lords Set Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Slaver's Augment Slot",
+      "tooltip": "Slaver's Augment Slot: Apply a Slaver's shard to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slave_Lords_Crafting",
+          "title": "Slave Lords Crafting",
+          "text": "Slaver's Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

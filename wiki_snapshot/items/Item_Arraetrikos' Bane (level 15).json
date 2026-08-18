@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Arraetrikos' Bane (level 15)",
+  "page_id": 54627,
+  "revision_id": 628321,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:05:23.995739+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Arraetrikos&#39; Bane\n  | minlevel                 = 15\n  | type                     = Ring\n  | race                     = <!-- Choices are Bladeforged, Warforged, Sun Elf, Shadar Kai, Purple Dragon Knight, or none -->\n  | slot                     = Finger\n  | bind                     = {{Bind|BtA|boa}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 25\n  | basevalue                = 6020pp\n  | weight                   = 0.1 lbs\n  | epic                     = no\n  | released                 = Update 29\n  | quest                    = Creeping Death\n  | end reward               = <!-- Any 1 of these 3 required. Leave blank if not used-->\n  | turn in                  = <!-- Leave blank if not used-->\n  | chest                    = End chest\n  | enhancements             = \n* {{Elemental Resistance|Fire|29}}\n* {{Save|e|2|Insight}}\n* {{Proof|Poison|2|Insight}}\n* {{Proof|Disease|1|Quality}}\n* {{Augment|Yellow}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This small ring was forged by Artificers with the hopes of resisting Arraetrikos' power.\n  | pic                      = Ring Generic Orange.png\n  | picdesc                  = Arraetrikos' Bane.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Fire Resistance +29",
+      "tooltip": "Fire Resistance +29: Passive: +29 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +29"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Enchantment Save +2",
+      "tooltip": "Insightful Enchantment Save +2: +2 Insight bonus to your saves versus enchantments",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enchantment_Save",
+          "title": "Enchantment Save",
+          "text": "Insightful Enchantment Save +2"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Proof Against Poison +2",
+      "tooltip": "Insightful Proof Against Poison +2: This item grants its wearer immunity to natural poisons. This item also grants a +2 Insight bonus to saving throws against magical poisons, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical poisons with a DC of less than 3 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Poison",
+          "title": "Proof Against Poison",
+          "text": "Insightful Proof Against Poison +2"
+        }
+      ]
+    },
+    {
+      "text": "Quality Proof Against Disease +1",
+      "tooltip": "Quality Proof Against Disease +1: This item grants its wearer immunity to natural diseases. This item also grants a +1 Quality bonus to saving throws against magical diseases, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical diseases with a DC of less than 2 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Disease",
+          "title": "Proof Against Disease",
+          "text": "Quality Proof Against Disease +1"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

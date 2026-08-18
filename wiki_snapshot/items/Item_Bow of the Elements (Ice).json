@@ -1,0 +1,72 @@
+{
+  "page_title": "Item:Bow of the Elements (Ice)",
+  "page_id": 7850,
+  "revision_id": 628708,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:14:06.525752+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Bow of the Elements (Ice)\n  | damage                   = 1.40[1d10] + 5 Pierce, Magic\n  | crit                     = 20 / x3\n  | type                     = Long Bow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | prof                     = Martial\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | durability               = 200\n  | material                 = Wood\n  | hardness                 = 17\n  | minlevel                 = 12\n  | bind                     = {{Bind|BtC|BoE}}\n  | basevalue                = 4807.5pp\n  | weight                   = 3 lbs\n  | quest                    = Ghosts of Perdition\n  | chest                    = End chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Burst|icy}}\n* {{ItemGrantedFeat|Precise Shot}}\n* {{Augment|Red}}\n  | pic                      = Thornlord shown.jpg\n  | picdesc                  = Bow of the Elements (Ice).png\n  | description              = A longbow containing a bound water elemental.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Icy Burst",
+      "tooltip": "Icy Burst: This weapon is sheathed in icy cold, and deals 1 to 6 cold damage each hit. Critical hits deal an additional 1 to 10 cold damage for weapons with a x2 critical multiplier, 2 to 20 for a x3 multiplier and 3 to 30 for a x4 multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Icy_Burst#Icy_Burst",
+          "title": "Icy Burst",
+          "text": "Icy Burst"
+        }
+      ]
+    },
+    {
+      "text": "Feat: Precise Shot",
+      "tooltip": "Feat: Precise Shot: While equipped this item grants the feat Precise Shot, allowing your ranged attacks to pass through other characters and monsters to strike your target.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feat",
+          "title": "Feat",
+          "text": "Feat"
+        },
+        {
+          "target": "/page/Precise_Shot",
+          "title": "Precise Shot",
+          "text": "Precise Shot"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

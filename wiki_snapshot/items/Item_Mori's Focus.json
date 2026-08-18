@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Mori's Focus",
+  "page_id": 94798,
+  "revision_id": 633536,
+  "revision_timestamp": "2025-04-22T02:20:04Z",
+  "fetched_at": "2026-08-17T22:26:23.958844+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Mori's Focus\n  | minlevel                 = 29\n  | type                     = Light Mace\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damage                   = 4.80[1d6+3] + 15 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 340\n  | material                 = Crystal\n  | hardness                 = 39\n  | cost                     = 11,600 pp 5 gp\n  | weight                   = 4 lbs\n  | released                 = Update 53\n  | quest                    = Hunt or Be Hunted\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|i|15|29}}\n* {{Vulnerability|Acid}}\n* {{Soul Tear}}\n* {{SpellPower|Corrosion|74|Insight}}\n* {{SpellPower|Corrosion|36|Quality}}\n* {{Augment|Red}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | description              = The Eladrin Mori conjured impressive magic from this crystalline Sceptre.\n  | pic                      = Mori's Focus shown.jpg\n  | picdesc                  = Mori's Focus.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Light Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +29",
+      "tooltip": "Spellcasting Implement +29: Passive: +29 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +29"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Acid Vulnerability",
+      "tooltip": "Acid Vulnerability: On Hit: Applies a stack of Vulnerable (1% more damage for 3 seconds. This effect stacks up to 20 times, and loses one stack on expiration.). This effect may only occur on-hit once every second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vulnerable",
+          "title": "Vulnerable",
+          "text": "Acid Vulnerability"
+        }
+      ]
+    },
+    {
+      "text": "Soul Tear",
+      "tooltip": "Soul Tear: This weapon tears at the soul of your foes, reducing their PRR and Healing Amplification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Soul_Tear",
+          "title": "Soul Tear",
+          "text": "Soul Tear"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Corrosion +74",
+      "tooltip": "Insightful Corrosion +74: Passive: +74 Insight bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Insightful Corrosion +74"
+        }
+      ]
+    },
+    {
+      "text": "Quality Corrosion +36",
+      "tooltip": "Quality Corrosion +36: Passive: +36 Quality bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Quality Corrosion +36"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

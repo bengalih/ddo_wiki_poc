@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Cloak of the Dawn",
+  "page_id": 39430,
+  "revision_id": 629046,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:23:34.897612+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Cloak of the Dawn\n  | type                     = Cloak\n  | race                     = Sun Elf\n  | slot                     = Back\n  | durability               = 160\n  | material                 = Cloth\n  | hardness                 = 20\n  | basevalue                = 6005 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Resistance|5}}\n* {{Fortification|100}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = As the sun rises at dawn, so is hope renewed.\n  | pic                      = Mithril Cloak of the Wolf Shown.jpg\n  | picdesc                  = Cloak of the Dawn.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Resistance +5",
+      "tooltip": "Resistance +5: Passive: +5 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +5"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +100%",
+      "tooltip": "Fortification +100%: +100% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +100%"
+        }
+      ]
+    }
+  ]
+}

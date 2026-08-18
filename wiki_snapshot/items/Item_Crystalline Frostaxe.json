@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Crystalline Frostaxe",
+  "page_id": 94548,
+  "revision_id": 671276,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:28:36.240610+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Crystalline Frostaxe\n  | damage                   = [1d6] + 2 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Handaxe\n  | hand                     = One-handed\n  | race                     = \n  | reqtrait                 = \n  | UMD DC                   = \n  | class                    = Slashing\n  | prof                     = Martial\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 4\n  | durability               = 90\n  | material                 = Ice\n  | hardness                 = 14\n  | cost                     = 1,600 pp 3 gp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 52\n  | revamped                 = Update 76\n  | quest                    = Snowpeaks Festival\n  | turn in                  = various ingredients at [[Flurry]]\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Chilling|2}}\n* {{Freezing Ice|Minor}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Crystalline Frostaxe shown.jpg\n  | picdesc                  = Crystalline Frostaxe.png\n  | description              = A Handaxe of pure icy crystal, almost too cold to touch.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Handaxe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Chilling 2",
+      "tooltip": "Chilling 2: This effect causes the edges of this weapon to become frozen to the touch, dealing 2d6 Ice damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Chilling",
+          "title": "Chilling",
+          "text": "Chilling 2"
+        }
+      ]
+    },
+    {
+      "text": "Minor Freezing Ice",
+      "tooltip": "Minor Freezing Ice :",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Freezing_Ice",
+          "title": "Freezing Ice",
+          "text": "Minor Freezing Ice"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

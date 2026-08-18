@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Daggertooth's Belt (level 14)",
+  "page_id": 34516,
+  "revision_id": 641404,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:29:45.104165+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Daggertooth's Belt}}\n  | type                     = Belt\n  | class                    = Clothing\n  | basevalue                = 5,620 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 150\n  | material                 = Leather\n  | hardness                 = 24\n  | bind                     = {{Bind|BtC|BoE}}\n  | minlevel                 = 14\n  | quest                    = The Crucible\n  | chest                    = [[Daggertooth]] chest (Heroic Elite)\n  | end reward               = \n  | enhancements             = \n* {{Armor Mastery|2}}\n* {{Augment|Green}}\n  | description              = This is the very belt that once held up Daggertooth of the Windlasher Gnoll's armor. It is tattered and worn, but somehow still provides excellent support.\n  | pic                      = Belt Generic Faith.png\n  | picdesc                  = Daggertooth's Belt (level 14).png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "Armor Mastery +2",
+      "tooltip": "Armor Mastery +2: Passive: +2 Enhancement bonus to the Max Dex Bonus of your equipped light, medium, or heavy armor. This benefit does not apply to the Max Dex Bonus of a Tower Shield.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Mastery",
+          "title": "Armor Mastery",
+          "text": "Armor Mastery +2"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Belt Boost +1 or +3",
+      "tooltip": "Mythic Belt Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Belt Boost"
+        }
+      ]
+    }
+  ]
+}

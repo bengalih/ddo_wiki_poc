@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Silver Flame Pendant",
+  "page_id": 11147,
+  "revision_id": 634775,
+  "revision_timestamp": "2025-04-22T03:43:57Z",
+  "fetched_at": "2026-08-17T22:59:04.276831+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Silver Flame Pendant\n  | type                     = Necklace\n  | class                    = Jewelry\n  | basevalue                = 1,620 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Neck\n  | durability               = 50\n  | material                 = Gold \n  | hardness                 = 9\n  | minlevel                 = 9 \n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = The Shadow Crypt\n  | chest                    = altar; upgraded from [[Silver Flame Amulet]]\n  | enhancements             = \n* {{Absorption|Negative Energy|0|5}}\n* {{Deathblock}}\n  | crafting                 = The Cursed Crypt\n  | craftingupgrade          = Silver Flame Talisman\n  | description              = This pendant of the Silver Flame has been transformed by the altars of blood and darkness.\n  | pic                      = Necklace Generic Gray.png\n  | picdesc                  = Silver Flame Pendant.png\n  | tips                     = This is the second upgrade to the [[Silver Flame Nugget]] which you can get from [[Jakob Izakanos]] in the [[Necropolis]]. <br />\nIf you have any upgraded version of the [[Silver Flame Nugget]] (amulet, pendant or talisman), talking and accepting the [[Emerald Claw Nugget]] from [[Pok Tranh]] will delete the Silver Flame nugget and replace it with an un-upgraded Emerald Claw nugget.\n  | mythic                   = No \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Negative Energy Absorption - 5 Charges (Recharged/Day: 5)",
+      "tooltip": "Negative Energy Absorption: This effect absorbs negative energy and energy drain effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Energy_Absorption",
+          "title": "Negative Energy Absorption",
+          "text": "Negative Energy Absorption"
+        }
+      ]
+    },
+    {
+      "text": "Deathblock",
+      "tooltip": "Deathblock: The wearer of this item is immune to all death spells and magical death effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock"
+        }
+      ]
+    }
+  ]
+}

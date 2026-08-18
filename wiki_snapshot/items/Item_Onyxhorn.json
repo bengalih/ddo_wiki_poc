@@ -1,0 +1,43 @@
+{
+  "page_title": "Item:Onyxhorn",
+  "page_id": 8136,
+  "revision_id": 687254,
+  "revision_timestamp": "2026-06-04T02:38:52Z",
+  "fetched_at": "2026-08-17T22:33:42.385122+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Onyxhorn\n  | minlevel                 = 6\n  | damage                   = 1.50[1d4] + 3 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Dagger\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | bind                     = {{Bind|BtC|boe}}\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 100\n  | material                 = Steel\n  | hardness                 = 16\n  | basevalue                = 2,400pp 2gp\n  | weight                   = 1 lbs\n  | quest                    = Stormcleave Outpost\n  | chest                    = [[Onyxhorn]]'s Chest\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Augment|Red}}\n  | description              = The horn of the minotaur of the same name.\n  | pic                      = Rhakmel's Dagger shown.jpg\n  | picdesc                  = Onyxhorn.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

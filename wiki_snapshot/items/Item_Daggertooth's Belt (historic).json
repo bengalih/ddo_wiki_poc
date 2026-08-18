@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Daggertooth's Belt (historic)",
+  "page_id": 35239,
+  "revision_id": 629295,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:29:41.137462+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=Item|replaced={{Item|Daggertooth's Belt}}}}\n{{Named item|Clothing\n  | name                     = {{Item|Daggertooth's Belt}}\n  | type                     = Belt\n  | class                    = Clothing\n  | basevalue                = 2,520 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 60\n  | material                 = Leather\n  | hardness                 = 15\n  | bind                     = {{Bind|no}}\n  | minlevel                 = 11\n  | quest                    = The Crucible\n  | chest                    = end chest\n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* {{Armor Mastery|2}}\n* {{Stat|CON|3}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This is the very belt that once held up Daggertooth of the Windlasher Gnoll's armor. It is tattered and worn, but somehow still provides excellent support.\n  | pic                      = Belt Generic Faith.png\n  | picdesc                  = Daggertooth's Belt (Level 11).png\n}}",
+  "item_template": "History",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Armor Mastery +2",
+      "tooltip": "Armor Mastery +2: Passive: +2 Enhancement bonus to the Max Dex Bonus of your equipped light, medium, or heavy armor. This benefit does not apply to the Max Dex Bonus of a Tower Shield.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Mastery",
+          "title": "Armor Mastery",
+          "text": "Armor Mastery +2"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +3",
+      "tooltip": "Constitution +3: This item gives the wearer improved health, granting a +3 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +3"
+        }
+      ]
+    }
+  ]
+}

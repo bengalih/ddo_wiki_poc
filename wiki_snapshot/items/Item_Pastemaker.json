@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Pastemaker",
+  "page_id": 2759,
+  "revision_id": 633875,
+  "revision_timestamp": "2025-04-22T02:43:38Z",
+  "fetched_at": "2026-08-17T22:35:17.649085+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Pastemaker\n  | type                     = Great Club\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = [1d10] + 2 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 95\n  | material                 = Wood\n  | hardness                 = 7\n  | basevalue                = 800pp 5gp\n  | weight                   = 8 lbs\n  | quest                    = The Lost Seekers\n  | end reward               = yes\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Skills|intim|3}}\n* {{Skills|Bluff|3}}\n* {{Augment|Red}}\n  | description              = This Great Club once belonged to a frenzied Ogre, Murat the Maniacal. Its gnarled and knobby features make it imposing and difficult for enemies to judge its attacks.\n  | pic                      = Pastemaker shown.jpg\n  | picdesc                  = Pastemaker.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Intimidate +3",
+      "tooltip": "Intimidate +3: Passive: +3 Competence bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Intimidate +3"
+        }
+      ]
+    },
+    {
+      "text": "Bluff +3",
+      "tooltip": "Bluff +3: Passive: +3 Competence bonus to the Bluff skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bluff",
+          "title": "Bluff",
+          "text": "Bluff +3"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

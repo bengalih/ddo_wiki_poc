@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Yogg-Ratha Plate",
+  "page_id": 9974,
+  "revision_id": 635880,
+  "revision_timestamp": "2025-04-22T04:57:41Z",
+  "fetched_at": "2026-08-17T23:28:20.289878+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Yogg-Ratha Plate\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtC|BoE}}\n  | ac                       = +15\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 156\n  | material                 = Steel\n  | hardness                 = 17\n  | basevalue                = 2,550 pp\n  | weight                   = 50 lbs\n  | quest                    = The Tear of Dhakaan\n  | chest                    = [[Champion Krazna]]'s chest\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{Clicky|Protection from Evil|1|3}}\n* {{Augment|Green}}\n  | pic                      = Yogg-Ratha Plate shown.jpg\n  | picdesc                  = Yogg-Ratha Plate.png\n  | description              = A battle-worn suit of acid-etched platemail. The complex etching across the armor's surface forms an abjurative pattern, a form of protection against pain and death.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Protection from Evil — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Protection from EvilCaster level: 1Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection_from_Evil",
+          "title": "Protection from Evil",
+          "text": "Protection from Evil"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

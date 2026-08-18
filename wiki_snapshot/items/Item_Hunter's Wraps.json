@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Hunter's Wraps",
+  "page_id": 87022,
+  "revision_id": 672363,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:22:38.823939+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Hunter's Wraps\n  | damage                   = 2[1d6] + 3 Bludgeon, Adamantine, Magic\n  | race                     = Razorclaw Shifter\n  | crit                     = 20 / x2\n  | type                     = Handwrap\n  | hand                     = Simple\n  | class                    = Bludgeoning\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Exotic\n  | material                 = Cloth\n  | minlevel                 = 15\n  | durability               = 270\n  | hardness                 = 28\n  | basevalue                = 6,003 pp\n  | weight                   = 0.50 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | revamped                 = Update 76\n  | quest                    = Advance to level 15\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Piercing|3}}\n* {{Slashing|3}}\n* {{Augment|Red}}\n  | description              = Wrap this around your hands to strike at the heart of Undead.\n  | pic                      = Handwraps Generic.png\n  | picdesc                  = Hunter's Wraps.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Handwrap",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Piercing 3",
+      "tooltip": "Piercing 3: The edges of this weapon have serrated edges, dealing an additional 3d6 piercing damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Piercing",
+          "title": "Piercing",
+          "text": "Piercing 3"
+        }
+      ]
+    },
+    {
+      "text": "Slashing 3",
+      "tooltip": "Slashing 3: The edges of this weapon are sharpened, dealing an additional 3d6 slashing damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slashing",
+          "title": "Slashing",
+          "text": "Slashing 3"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

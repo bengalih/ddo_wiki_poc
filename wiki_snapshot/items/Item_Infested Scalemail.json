@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Infested Scalemail",
+  "page_id": 106030,
+  "revision_id": 631554,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:23:59.855840+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Infested Scalemail\n  | type                     = Medium Armor\n  | feat                     = Medium\n  | minlevel                 = 4\n  | race                     = \n  | ac                       = 8\n  | maxdexbonus              = 2\n  | acp                      = -1\n  | asf                      = 20%\n  | durability               = 88\n  | material                 = Steel\n  | hardness                 = 13\n  | bind                     = {{Bind|BtA|BoE}}\n  | basevalue                = 1,610 pp\n  | weight                   = 25 lbs\n  | released                 = Update 64\n  | revamped                 = <!-- Update ## -->\n  | chain reward             = <!-- name of chain if chain reward; leave blank otherwise -->\n  | quest                    = The Chronoscope\n  | chest                    = and [[The Chronoscope (Legendary)]], [[Blood Plate]]'s chest\n  | end reward               = <!-- Leave blank if not used-->\n  | turn in                  = <!-- Leave blank if not used-->\n  | epic                     = no <!--Replace with non-epic version name if epic crafted item.-->\n  | legendary                = no <!--Replace with epic version name if legendary crafted item.-->\n  | enhancements             = \n* {{Enhancement bonus|a|2}}\n* {{Fortification|56}}\n* {{Guard|Disease}}\n* {{Sheltering|8}}\n* {{DR|5|Good}}\n* {{Augment|blue}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Infested Scalemail\n  | description              = An orthon warrior's body is crawling with hungry maggots that feed on its wounds. This suit of armor, crafted from the salvaged parts of an orthon's protective gear, is similarly infested and may impart a disease to those that attack the wearer.\n  | pic                      = Infested Armor shown.jpg\n  | picdesc                  = Infested Scalemail.png\n  | notes                    = \n  | tips                     = \n}}\n[[C:The Chronoscope (Legendary) loot]]",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Medium Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +56%",
+      "tooltip": "Fortification +56%: +56% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +56%"
+        }
+      ]
+    },
+    {
+      "text": "Disease Guard",
+      "tooltip": "Disease Guard: This item carries the Maggot Plague disease, which deals 1d6 Constitution damage and may be contracted by enemies that hit you. A successful Fortitude save (DC 20) will negate this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disease_Guard",
+          "title": "Disease Guard",
+          "text": "Disease Guard"
+        }
+      ]
+    },
+    {
+      "text": "Sheltering +8",
+      "tooltip": "Sheltering +8: +8 Enhancement bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Sheltering +8"
+        }
+      ]
+    },
+    {
+      "text": "DR 5/Good",
+      "tooltip": "Damage Reduction 5/Good: Reduces physical damage by 5, except from Good attacks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

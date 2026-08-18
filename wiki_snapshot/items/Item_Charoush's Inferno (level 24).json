@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Charoush's Inferno (level 24)",
+  "page_id": 34593,
+  "revision_id": 648952,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:21:03.510875+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Charoush's Inferno}}\n  | sentience                = no\n  | damage                   = 2[1d10] + 6 Slash, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Bastard Sword\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Exotic\n  | minlevel                 = 24\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 320\n  | material                 = Steel\n  | hardness                 = 29\n  | released                 = Update 17\n  | quest                    = Return to Prison of the Planes\n  | chest                    = Fernia Room's chest (Epic Hard)\n  | basevalue                = 9,603pp 5gp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | enhancements             = \n* {{Enhancement bonus|w|6}}\n* {{Conflagrating}}\n* {{Incineration|Greater}}\n  | pic                      = Charoush's Inferno shown.jpg\n  | picdesc                  = Charoush's Inferno (Level 24).png\n  | description              = This flaming bastard sword is all that is left of Charoush the Vizier. As you touch its hilt, you can feel a living presence within calling out in rage.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Bastard Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Conflagrating",
+      "tooltip": "Conflagrating: This weapon is sheathed in furious flame. A conflagrating weapon deals an extra 3 to 18 points of fire damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Conflagrating",
+          "title": "Conflagrating",
+          "text": "Conflagrating"
+        }
+      ]
+    },
+    {
+      "text": "Greater Incineration",
+      "tooltip": "Greater Incineration: This weapon stores the power of a raging inferno deep within. Occasionally, this destructive power comes to the surface, devastating enemies with massive fire damage. This damage will be dealt more often than a standard Incineration weapon.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incineration",
+          "title": "Incineration",
+          "text": "Greater Incineration"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

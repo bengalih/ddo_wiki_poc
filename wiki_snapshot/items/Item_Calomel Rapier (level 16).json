@@ -1,0 +1,135 @@
+{
+  "page_title": "Item:Calomel Rapier (level 16)",
+  "page_id": 58365,
+  "revision_id": 672643,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:18:28.993759+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Calomel Rapier}}\n  | damage                   = 2.20[1d6] + 4 Pierce, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Rapier\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Martial\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 205\n  | material                 = Steel\n  | hardness                 = 26\n  | minlevel                 = 16\n  | basevalue                = 6,402pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various challenge ingredients\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n{{VaultsOfTheArtificersUpgrade}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = Epic Calomel Rapier\n  | description              = A weapon crafted from durable white Calomel ore is always sheathed in condensed water droplets. It is particularly effective against dragons and fiery creatures.\n  | pic                      = Turbulent Epee shown.jpg <!-- Identical Style -->\n  | picdesc                  = Calomel_Rapier_(level_16).png\n  | tips                     = '''See also:''' {{Item|Calomel Rapier}} - Full table of the  Calomel Rapier\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Rapier",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": "Upgradeable - Tier 1: This item is a Tier 1 upgradable item.",
+      "children": [
+        {
+          "text": "+4 Enhancement Bonus",
+          "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+4 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Dragon Bane 4",
+          "tooltip": "Dragon Bane 4: This weapon is attuned specifically to disrupt those with draconic blood, dealing an additional 4d10 bane damage vs. Dragons.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Dragon Bane 4"
+            }
+          ]
+        },
+        {
+          "text": "Tidal Burst",
+          "tooltip": "Tidal Burst: This weapon is sheathed in water. The weapon deals an additional 1 to 4 damage each hit. In addition, critical hits deal an additional 1 to 8 damage for weapons with a x2 critical multiplier, 2 to 16 for a x3 critical multiplier and 3 to 24 for a x4 multiplier. Creatures with the Fire trait take double this damage instead.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Tidal#Tidal_Burst",
+              "title": "Tidal",
+              "text": "Tidal Burst"
+            }
+          ]
+        },
+        {
+          "text": "Crushing Wave",
+          "tooltip": "Crushing Wave: This weapon stores the unstoppable force of the ocean's fury deep within. When this weapon is used, this power occasionally comes to the surface, crushing enemies beneath a torrent of frigid water.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Crushing_Wave",
+              "title": "Crushing Wave",
+              "text": "Crushing Wave"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": "Upgradeable - Tier 2: This item is a Tier 2 upgradable item.",
+      "children": [
+        {
+          "text": "+4 Enhancement Bonus → +5 Enhancement Bonus",
+          "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+4 Enhancement Bonus"
+            },
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+5 Enhancement Bonus"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This item is a Tier 3 upgradable item.",
+      "children": [
+        {
+          "text": "Adds Purple Augment Slot",
+          "tooltip": "Blue, Purple, Red, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Purple Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

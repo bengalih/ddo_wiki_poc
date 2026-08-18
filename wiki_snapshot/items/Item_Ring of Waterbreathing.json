@@ -1,0 +1,40 @@
+{
+  "page_title": "Item:Ring of Waterbreathing",
+  "page_id": 8831,
+  "revision_id": 634273,
+  "revision_timestamp": "2025-04-22T03:10:44Z",
+  "fetched_at": "2026-08-17T22:46:00.870020+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Ring of Waterbreathing\n  | type                     = Ring\n  | basevalue                = 120 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Finger\n  | durability               = 30\n  | material                 = Gold\n  | hardness                 = 3\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = The Grotto\n  | chest                    = [[Sahuagin High Priestess]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Water Breathing|5|1}}\n* {{Starter}}\n  | description              = This simple gold band is engraved with the image of waves.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Ring of Waterbreathing.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "enchantments": [
+    {
+      "text": "Water Breathing — 1 Charges (Recharged/Day:1)",
+      "tooltip": "Water BreathingCaster level: 5Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Water_Breathing",
+          "title": "Water Breathing",
+          "text": "Water Breathing"
+        }
+      ]
+    },
+    {
+      "text": "Starter",
+      "tooltip": "Starter: Starter equipment cannot be traded, sold or crafted.This item cannot be fed to sentient jewels.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Starter",
+          "title": "Starter",
+          "text": "Starter"
+        }
+      ]
+    }
+  ]
+}

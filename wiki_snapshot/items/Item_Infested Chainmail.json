@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Infested Chainmail",
+  "page_id": 106029,
+  "revision_id": 631553,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:23:58.284284+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Infested Chainmail\n  | type                     = Chainmail\n  | feat                     = Light\n  | minlevel                 = 4\n  | race                     = \n  | ac                       = 8\n  | maxdexbonus              = 4\n  | acp                      = 0\n  | asf                      = 10%\n  | durability               = 88\n  | material                 = Leather\n  | hardness                 = 12\n  | bind                     = {{Bind|BtA|BoE}}\n  | basevalue                = 1,601 pp\n  | weight                   = 15 lbs\n  | released                 = Update 64\n  | revamped                 = <!-- Update ## -->\n  | quest                    = The Chronoscope\n  | legendary                = \n  | end reward               = \n  | mythic                   = yes\n  | turn in                  = \n  | chest                    = and [[The Chronoscope (Legendary)]], [[Blood Plate]]'s chest\n  | enhancements             = \n* {{Enhancement bonus|a|2}}\n* {{Fortification|56}}\n* {{Guard|Disease}}\n* {{Sheltering|8}}\n* {{DR|5|Good}}\n* {{Augment|blue}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Infested Chainmail\n  | description              = An orthon warrior's body is crawling with hungry maggots that feed on its wounds. This suit of armor, crafted from the salvaged parts of an orthon's protective gear, is similarly infested and may impart a disease to those that attack the wearer.\n  | pic                      = Infested Armor shown.jpg\n  | picdesc                  = Infested Chainmail.png\n  | notes                    = \n  | tips                     = \n}}\n[[C:The Chronoscope (Legendary) loot]]",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Chainmail",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +56%",
+      "tooltip": "Fortification +56%: +56% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +56%"
+        }
+      ]
+    },
+    {
+      "text": "Disease Guard",
+      "tooltip": "Disease Guard: This item carries the Maggot Plague disease, which deals 1d6 Constitution damage and may be contracted by enemies that hit you. A successful Fortitude save (DC 20) will negate this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disease_Guard",
+          "title": "Disease Guard",
+          "text": "Disease Guard"
+        }
+      ]
+    },
+    {
+      "text": "Sheltering +8",
+      "tooltip": "Sheltering +8: +8 Enhancement bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Sheltering +8"
+        }
+      ]
+    },
+    {
+      "text": "DR 5/Good",
+      "tooltip": "Damage Reduction 5/Good: Reduces physical damage by 5, except from Good attacks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

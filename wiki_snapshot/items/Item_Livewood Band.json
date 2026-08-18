@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Livewood Band",
+  "page_id": 37980,
+  "revision_id": 633267,
+  "revision_timestamp": "2025-04-22T02:02:18Z",
+  "fetched_at": "2026-08-17T22:18:05.767172+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Livewood Band\n  | type                     = Ring\n  | race                     = Bladeforged\n  | slot                     = Finger\n  | durability               = 160\n  | material                 = Wood\n  | hardness                 = 20\n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Stat|CON|5}}\n* {{skills|concentration|13}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Through wood and iron, we were given life.\n  | pic                      = Ring Generic Livewood.png\n  | picdesc                  = Livewood Band.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Wood",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Constitution +5",
+      "tooltip": "Constitution +5: This item gives the wearer improved health, granting a +5 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +5"
+        }
+      ]
+    },
+    {
+      "text": "Concentration +13",
+      "tooltip": "Concentration +13: Passive: +13 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +13"
+        }
+      ]
+    }
+  ]
+}

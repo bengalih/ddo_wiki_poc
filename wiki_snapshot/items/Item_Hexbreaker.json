@@ -1,0 +1,132 @@
+{
+  "page_title": "Item:Hexbreaker",
+  "page_id": 83544,
+  "revision_id": 631452,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:21:23.848675+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Hexbreaker\n  | type                     = Buckler\n  | prof                     = General\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 5\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = 5\n  | maxdexbonus              = \n  | dr                       = 6\n  | acp                      = 0\n  | asf                      = 0\n  | dmg                      = [1d6] + 2\n  | dmgtype                  = Bludgeon, Cold Iron, Magic, Crystal\n  | crit                     = 19-20 / x3\n  | attackmod                = DEX\n  | dmgmod                   = DEX\n  | durability               = 170\n  | material                 = Crystal\n  | hardness                 = 30\n  | basevalue                = 2,404pp\n  | weight                   = 5 lbs\n  | released                 = Update 48\n  | quest                    = Witch Hunt\n  | chest                    = End chest\n  | enhancements             = \n* {{Enhancement bonus|s|2}}\n* {{Guardbreaking}}\n* {{Immunity|Slippery Surface}}\n* {{Save|Spell|3}}\n* {{Spell Resistance|10}}\n* {{Mat|Crystal}}\n* {{Augment|Red}}\n* {{Named item sets|Seasons of the Feywild}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This crystalline shield seems to be perfect at deflecting magic. It seems to contain subtle magnetic energies.\n  | pic                      = Hexbreaker shown.jpg\n  | picdesc                  = Hexbreaker.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Crystal",
+  "item_type": "Buckler",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Guardbreaking",
+      "tooltip": "Guardbreaking: This item enables you to break an enemy's guard in between your melee attacks. On critical hits with your melee weapons, enemies will become dazed as a result.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Guardbreaking",
+          "title": "Guardbreaking",
+          "text": "Guardbreaking"
+        }
+      ]
+    },
+    {
+      "text": "Immunity to Slippery Surfaces",
+      "tooltip": "Immunity to Slippery Surfaces: The wearer of this item is not affected when walking on slippery surfaces.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Immunity_to_Slippery_Surfaces",
+          "title": "Immunity to Slippery Surfaces",
+          "text": "Immunity to Slippery Surfaces"
+        }
+      ]
+    },
+    {
+      "text": "Spell Save +3",
+      "tooltip": "Spell Save +3: This item gives a +3 Resistance bonus to your saves versus spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Saving_throw",
+          "title": "Saving throw",
+          "text": "Spell Save +3"
+        }
+      ]
+    },
+    {
+      "text": "Spell Resistance +10",
+      "tooltip": "Spell Resistance +10: +10 Enhancement bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Spell Resistance +10"
+        }
+      ]
+    },
+    {
+      "text": "Crystal",
+      "tooltip": "Crystal: Crystal weapons are able to overcome the protective damage reduction of many Quori creatures, which can be resistant to other weapons. Spell failure chances for armors and shields made from crystal are also decreased by 10%.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crystal",
+          "title": "Crystal",
+          "text": "Crystal"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Seasons of the Feywild",
+      "tooltip": "Seasons of the Feywild:",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Seasons_of_the_Feywild",
+          "title": "Named item sets",
+          "text": "Seasons of the Feywild"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

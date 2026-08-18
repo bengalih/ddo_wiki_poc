@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Icy Raiment",
+  "page_id": 9117,
+  "revision_id": 686682,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:23:07.734810+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Icy Raiment\n  | type                     = Outfit\n  | feat                     = Cloth\n  | ac                       = +6\n  | minlevel                 = 14\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 145\n  | material                 = Cloth\n  | hardness                 = 16\n  | basevalue                = 5,605pp 5gp\n  | weight                   = 0 lbs\n  | quest                    = The Subterrane - Central\n  | chest                    = [[Garamol]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|6}}\n* {{Dodge|8}}\n* {{ProtectionBonus|4}}\n* {{Resistance|3}}\n  | pic                      = Disciple's Robe shown.jpg\n  | picdesc                  = Icy Raiment.png\n  | description              = Like a winter morning, this outfit imbues the wearer with keen clarity of mind, allowing one to react quickly to danger.\n  | notes                    = This used to be a popular twink item for [[monk]]s and builds which did not wear armor. However, changes in the game decreased the popularity of this item. Still, it remains special as a rare non-epic source of Dodge Bonus 8%.\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Outfit",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +6",
+      "tooltip": "Armor Bonus +6: This item surrounds the wearer with an invisible but tangible field of force, granting +6 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +6"
+        }
+      ]
+    },
+    {
+      "text": "Dodge +8%",
+      "tooltip": "Dodge +8%: +8% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +8%"
+        }
+      ]
+    },
+    {
+      "text": "Protection +4",
+      "tooltip": "Protection +4: Passive: +4 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +4"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +3",
+      "tooltip": "Resistance +3: Passive: +3 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +3"
+        }
+      ]
+    }
+  ]
+}

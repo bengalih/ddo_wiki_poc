@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Sureshot",
+  "page_id": 73571,
+  "revision_id": 666324,
+  "revision_timestamp": "2025-11-19T15:46:03Z",
+  "fetched_at": "2026-08-17T23:08:09.357729+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Sureshot\n  | damage                   = 2[1d8] + 3 Pierce, Chaotic, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Light Crossbow\n  | hand                     = Ranged\n  | race                     = Tiefling Scoundrel\n  | class                    = Ranged\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = DEX\n  | damagemod                = DEX\n  | minlevel                 = 15\n  | durability               = 250\n  | material                 = Wood\n  | hardness                 = 25\n  | cost                     = 6010 pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | revamped                 = Update 76\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | turn in                  = \n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Anarchic|3|1}}\n* {{Vorpal}}\n  | crafting                 = <!--Type of crafting-->\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | description              = Shoot first, ask questions later\n  | pic                      = Sureshot shown.jpg\n  | picdesc                  = Sureshot.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Light Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Anarchic 3",
+      "tooltip": "Anarchic 3: This weapon is chaotic and used to undermine the righteous, dealing an additional 3d6 chaos damage on each hit. This effect makes the weapon chaotic aligned. (Lawful characters wielding this weapon will suffer one negative level.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Anarchic 3"
+        }
+      ]
+    },
+    {
+      "text": "Vorpal",
+      "tooltip": "Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 1000 Hit Points, they are instantly slain. If your target has above 1000 Hit Points, they take 100 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Vorpal",
+          "title": "Vorpal",
+          "text": "Vorpal"
+        }
+      ]
+    }
+  ]
+}

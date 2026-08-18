@@ -1,0 +1,129 @@
+{
+  "page_title": "Item:Epic Quenched Temple Robe",
+  "page_id": 95257,
+  "revision_id": 635916,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:53:37.353081+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=items|replaced={{Item|Legendary Robes of the Crushing Wave}}|customcat=Temple of Elemental Evil items}}\n\n{{Named item|Armor\n  | name                     = Epic Quenched Temple Robe\n  | historic                 = TRUE\n  | type                     = Robe\n  | feat                     = Cloth\n  | race                     = None\n  | ac                       = +11\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 270\n  | material                 = Cloth\n  | hardness                 = 28\n  | basevalue                = 10,405 pp 5 gp\n  | weight                   = 0 lbs\n  | bind                     = {{Bind|No|nocat=TRUE}}\n  | minlevel                 = 26\n  | released                 = Update 25\n  | quest                    = Temple of Elemental Evil Part Two\n  | chest                    = Elemental nodes chests\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|a|11|nocat=TRUE}}\n* {{Absorption|Cold|30|nocat=TRUE}}\n* {{Resistance|12|nocat=TRUE}}\n* {{CraftingEffects|Upgradeable Item (Temple of Elemental Evil)|nocat=TRUE}}\n** {{Concealment|Lesser Displacement|nocat=TRUE}}\n** {{Fortification|150|nocat=TRUE}}\n** {{Augment|Green|nocat=TRUE}}\n** {{Named item sets|Epic Elemental Evil Set|nocat=TRUE}}\n  | crafting                 = ToEE Crafting\n  | craftingupgrade          = \n  | pic                      = Quenched Temple Robe shown.jpg\n  | picdesc                  = Epic Quenched Temple Robe.png\n  | description              = Armor from deep within the Temple of Elemental Evil.\n  | notes                    = \n}}",
+  "item_template": "History",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "+11 Enhancement Bonus",
+      "tooltip": "+11 Enhancement Bonus: +11 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+11 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Cold Absorption +30%",
+      "tooltip": "Cold Absorption +30%: Passive: 30% Enhancement Bonus to Cold Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Cold Absorption +30%"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +12",
+      "tooltip": "Resistance +12: Passive: +12 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +12"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable Item (Temple of Elemental Evil)",
+      "tooltip": "Upgradeable Item (Temple of Elemental Evil): This item can be upgraded. Bring this item to the Overgrown Workbench in the Temple of Elemental Evil and combine it with Rusty Gilled Mushrooms to upgrade the item to a more powerful form.",
+      "children": [
+        {
+          "text": "Lesser Displacement",
+          "tooltip": "Lesser Displacement: Equipping this item causes light to distort around you. Attacks from enemies have a 25% chance to miss you due to concealment.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Lesser_Displacement",
+              "title": "Lesser Displacement",
+              "text": "Lesser Displacement"
+            }
+          ]
+        },
+        {
+          "text": "Fortification +150%",
+          "tooltip": "Fortification +150%: +150% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Fortification",
+              "title": "Fortification",
+              "text": "Fortification +150%"
+            }
+          ]
+        },
+        {
+          "text": "Green Augment Slot",
+          "tooltip": "Blue, Green, Yellow, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Green Augment Slot"
+            }
+          ]
+        },
+        {
+          "text": "Epic Elemental Evil Set",
+          "tooltip": "Epic Elemental Evil Set: While wearing both an Elemental Evil Set Item weapon and an Elemental Evil Set Item armor, you gain:+20 Quality bonus to Melee Power+20 Quality bonus to Ranged Power+20 Quality bonus to Universal Spell Power",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Named_item_sets#Epic_Elemental_Evil_Set",
+              "title": "Named item sets",
+              "text": "Epic Elemental Evil Set"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Overgrown_Workbench",
+          "title": "Overgrown Workbench",
+          "text": "Upgradeable Item (Temple of Elemental Evil)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:+3 Quenched Hand Axe",
+  "page_id": 55814,
+  "revision_id": 636306,
+  "revision_timestamp": "2025-04-22T20:33:11Z",
+  "fetched_at": "2026-08-17T03:29:43.808995+00:00",
+  "categories": [],
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Hand Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable Item (Temple of Elemental Evil)",
+      "tooltip": "Upgradeable Item (Temple of Elemental Evil): This item can be upgraded. Bring this item to the Overgrown Workbench in the Temple of Elemental Evil and combine it with Rusty Gilled Mushrooms to upgrade the item to a more powerful form.",
+      "children": [
+        {
+          "text": "",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Maiming",
+              "tooltip": "Maiming: This weapon has a twisted haft or grip and spikes along its blade, head, or point. Whenever you score a critical hit with this weapon it deals an amount of extra untyped damage depending on its critical multiplier: x2 - 1 to 6, x3 - 2 to 12, x4 - 3 to 18.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Maiming",
+                  "title": "Maiming",
+                  "text": "Maiming"
+                }
+              ]
+            },
+            {
+              "text": "Adds Freezing Gale",
+              "tooltip": "Freezing Gale: This weapon is imbued with a frigid wrath. On an attack roll of 20 which is confirmed as a critical hit this freezing power will be released, dealing damage to the target and all enemies near it for 15d6 cold damage. A successful Will save (DC 39) reduces this by half.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Freezing_Gale#Freezing_Gale",
+                  "title": "Freezing Gale",
+                  "text": "Freezing Gale"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Tier 2:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Icy Blast",
+              "tooltip": "Icy Blast: An icy blast weapon is sheathed in icy cold. Critical hits with this weapon deal an additional 1 to 10 cold damage for weapons with a x2 critical multiplier, 2 to 20 for a x3 critical multiplier, and 3 to 30 for a x4 multiplier. Additionally, if you roll a 20 when attacking and confirm the critical hit, the weapon blasts your target, doing 4 to 24 more cold damage.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Icy_Blast",
+                  "title": "Icy Blast",
+                  "text": "Icy Blast"
+                }
+              ]
+            },
+            {
+              "text": "Adds Purple Augment Slot",
+              "tooltip": "Blue, Purple, Red, and Colorless",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Augment_Slot",
+                  "title": "Augment Slot",
+                  "text": "Purple Augment Slot"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Overgrown_Workbench",
+          "title": "Overgrown Workbench",
+          "text": "Upgradeable Item (Temple of Elemental Evil)"
+        }
+      ]
+    },
+    {
+      "text": "Cold Vulnerability",
+      "tooltip": "Cold Vulnerability: On Hit: Applies a stack of Vulnerable (1% more damage for 3 seconds. This effect stacks up to 20 times, and loses one stack on expiration.). This effect may only occur on-hit once every second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vulnerable",
+          "title": "Vulnerable",
+          "text": "Cold Vulnerability"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ],
+  "item_class": "Weapon",
+  "item_template": ""
+}

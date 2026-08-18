@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Icon of the Lord of Blades",
+  "page_id": 37986,
+  "revision_id": 631512,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:22:57.383211+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Icon of the Lord of Blades\n  | type                     = Trinket\n  | race                     = Bladeforged\n  | slot                     = Trinket\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Stat|CHA|5}}\n* {{HealingAmp|20|r}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Every drop of blood you spill, every glory you shall earn, all are in my name. Remember this always.\n  | pic                      = Collectable generic orb.png\n  | picdesc                  = Icon of the Lord of Blades.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Charisma +5",
+      "tooltip": "Charisma +5: This item makes the wearer have more flair, granting a +5 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +5"
+        }
+      ]
+    },
+    {
+      "text": "Repair Amplification +20",
+      "tooltip": "Repair Amplification: This effect amplifies all incoming repair healing by +20 (Enhancement bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Repair_Amplification",
+          "title": "Repair Amplification",
+          "text": "Repair Amplification +20"
+        }
+      ]
+    }
+  ]
+}

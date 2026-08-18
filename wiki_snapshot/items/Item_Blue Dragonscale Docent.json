@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Blue Dragonscale Docent",
+  "page_id": 12884,
+  "revision_id": 628643,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:12:45.067782+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Blue Dragonscale Docent\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+17|m=+8|c=+3}}\n  | minlevel                 = 14\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 190\n  | material                 = Gem\n  | hardness                 = 24\n  | basevalue                = 5,610 pp\n  | weight                   = 0 lbs\n  | quest                    = Blue Dragonscale Armor\n  | turn in                  = 20 [[Blue Dragon Scale]]s\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Spellpen|ii}}\n* {{Spelllore|Spell|VI}}\n* {{SpellPower|Potency|52|Equipment}}\n* {{Elemental Resistance|Electric|30}}\n  | pic                      = Blue Dragonscale Docent shown.jpg\n  | picdesc                  = Blue Dragonscale Docent.png\n  | description              = This docent was crafted from the scales of a blue dragon.\n  | notes                    = Pre-Update 14 version were not retroactively updated and have to be reacquire for Update 14 enchantments.\n}}\n[[Category:Docents]]\n[[Category:Minimum level 14 docents]]",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration II",
+      "tooltip": "Spell Penetration II: Passive: +2 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration II"
+        }
+      ]
+    },
+    {
+      "text": "Spell Lore VI",
+      "tooltip": "Spell Lore VI: Passive: All of your spells gain a 6% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Spell Lore VI"
+        }
+      ]
+    },
+    {
+      "text": "Potency +52",
+      "tooltip": "Potency +52: Passive: +52 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +52"
+        }
+      ]
+    },
+    {
+      "text": "Electric Resistance +30",
+      "tooltip": "Electric Resistance +30: Passive: +30 Enhancement bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Electric Resistance +30"
+        }
+      ]
+    }
+  ]
+}

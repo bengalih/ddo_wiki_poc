@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Gnashtooth Sickle",
+  "page_id": 2757,
+  "revision_id": 672926,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:12:51.355654+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Gnashtooth Sickle\n  | type                     = Sickle\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Simple\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = [1d6] + 2 Slash, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 70\n  | material                 = Steel\n  | hardness                 = 12\n  | basevalue                = 800pp 6gp\n  | weight                   = 2 lbs\n  | quest                    = The Lost Seekers\n  | end reward               = yes\n  | revamped                 = Update 76\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Stench}}\n* {{Augment|Red}}\n  | description              = The Gnashtooth Kobolds routinely use these weapons in battle versus Troglodytes. The [[Troglodyte Stench|Troglodyte stench]] seeps into the metal and may make some enemies nauseous.\n  | pic                      = Widowblight shown.jpg <!-- same style-->\n  | picdesc                  = Gnashtooth Sickle.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Sickle",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Stench",
+      "tooltip": "Stench: This weapon creates a near paralyzing stench. On critical hits the target becomes nauseous, severely slowing its movement rate.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stench",
+          "title": "Stench",
+          "text": "Stench"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

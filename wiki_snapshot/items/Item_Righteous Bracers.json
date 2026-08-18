@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Righteous Bracers",
+  "page_id": 10191,
+  "revision_id": 634224,
+  "revision_timestamp": "2025-04-22T03:07:28Z",
+  "fetched_at": "2026-08-17T22:44:49.640461+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Righteous Bracers\n  | minlevel                 = 7\n  | type                     = Bracers\n  | slot                     = Wrist\n  | bind                     = {{Bind|BtC|boa}}\n  | durability               = 80\n  | material                 = Steel\n  | hardness                 = 17\n  | basevalue                = 3,620 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Necropolis\n  | turn in                  = [[Named quest rewards#Dark Scarab Powder|Dark Scarab Powder]]\n  | mythic                   = no\n  | enhancements             = \n* {{Guard|Undead}}\n* {{False Life|improved}}\n  | pic                      = Bracers Generic.png\n  | picdesc                  = Righteous Bracers.png\n  | description              = These dark bracers were made of metal blessed by servants of the Silver Flame. \n}}\n[[Category:Necropolis_Scarab_collectable]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Undead Guard",
+      "tooltip": "Undead Guard: This armor burns those Undead that attack the wearer, causing 3d8 Good damage on a successful melee attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Undead_Guard",
+          "title": "Undead Guard",
+          "text": "Undead Guard"
+        }
+      ]
+    },
+    {
+      "text": "Improved False Life",
+      "tooltip": "Improved False Life: This item grants the wearer +20 maximum health.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)#Improved_False_Life",
+          "title": "False Life (enchantment)",
+          "text": "Improved False Life"
+        }
+      ]
+    }
+  ]
+}

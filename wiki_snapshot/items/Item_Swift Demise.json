@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Swift Demise",
+  "page_id": 7069,
+  "revision_id": 666271,
+  "revision_timestamp": "2025-11-19T15:26:02Z",
+  "fetched_at": "2026-08-17T23:08:39.682579+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Swift Demise\n  | basevalue                = 2405 pp\n  | weight                   = 8 lbs\n  | damage                   = [1d10] + 3 Pierce, Magic\n  | crit                     = 19-20 / x3\n  | type                     = Heavy Crossbow\n  | class                    = Ranged\n  | prof                     = Simple\n  | hand                     = Ranged\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | durability               = 145\n  | material                 = Wood\n  | hardness                 = 11\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtC|BoE}}\n  | revamped                 = Update 76\n  | quest                    = Gwylan's Stand\n  | chest                    = [[Maneater]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|3}}\n* {{Crippling}}\n* {{Augment|Red}}\n  | description              = A ranged weapon consisting of a small bow mounted crosswise on a heavy wooden stock. This weapon is large enough to require a winch for reloading, yet is surprisingly simple to use.\n  | pic                      = Swift Demise shown.jpg\n  | picdesc                  = Swift Demise.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Heavy Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Crippling",
+      "tooltip": "Crippling: A crippling weapon is infused with binding power so that when a target is critically hit their movement is slowed by half.Note: Real slowdown is only 25%",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crippling",
+          "title": "Crippling",
+          "text": "Crippling"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

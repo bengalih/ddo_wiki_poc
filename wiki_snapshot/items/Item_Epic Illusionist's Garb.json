@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Epic Illusionist's Garb",
+  "page_id": 11835,
+  "revision_id": 689633,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:51:20.146336+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Epic Illusionist's Garb\n  | type                     = Clothing\n  | feat                     = Cloth\n  | race                     = \n  | minlevel                 = 20\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | ac                       = +6\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 205\n  | material                 = Cloth\n  | hardness                 = 22\n  | basevalue                = 8,005 pp 5 gp\n  | weight                   = \n  | revamped                 = Update 59\n  | revamped2                = Update 80\n  | quest                    = Epic Crafting\n  | epic                     = Illusionist's Garb\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Illusionist's Garb\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Prismatic Spray|10|5}}\n* {{Enhancement_bonus|a|6}}\n* {{Stat|Int|+9}}\n* {{Save|w|9}}\n* {{Spell Focus|Illusion|+6}}\n* {{Hp|False Life|36}}\n* {{Augment|Blue}}\n  | pic                      = Illusionist's Garb shown.jpg\n  | picdesc                  = Epic Illusionist's Garb.png\n  | description              = This magician's robe catches the eye and appears to glitter prismatically in the light. The wearer becomes more clever and can conjure a number of hypnotic effects.\n  | notes                    = \n}}\n[[Category:Phiarlan Carnival epic items]]",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Clothing",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Prismatic Spray — 5 Charges (Recharged/Day:5)",
+      "tooltip": "Prismatic SprayCaster level: 10Charges: 5 (5/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Prismatic_Spray",
+          "title": "Prismatic Spray",
+          "text": "Prismatic Spray"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Intelligence +9",
+      "tooltip": "Intelligence +9: This item focuses the power of the wearer's mind, granting a +9 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +9"
+        }
+      ]
+    },
+    {
+      "text": "Will Save +9",
+      "tooltip": "Will Save +9: This item gives a +9 Resistance bonus to your Will saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Will_save",
+          "title": "Will save",
+          "text": "Will Save +9"
+        }
+      ]
+    },
+    {
+      "text": "Illusion Focus +6",
+      "tooltip": "Illusion Focus +6: +6 Equipment bonus to the DC of Illusion spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Illusion Focus +6"
+        }
+      ]
+    },
+    {
+      "text": "False Life +36",
+      "tooltip": "False Life +36: +36 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +36"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

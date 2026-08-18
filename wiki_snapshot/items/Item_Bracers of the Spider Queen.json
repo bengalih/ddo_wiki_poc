@@ -1,0 +1,180 @@
+{
+  "page_title": "Item:Bracers of the Spider Queen",
+  "page_id": 126299,
+  "revision_id": 699327,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:14:51.281031+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Bracers of the Spider Queen\n  | type                     = Bracers\n  | cost                     = 4,401 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Wrist\n  | durability               = 210\n  | material                 = Steel\n  | hardness                 = 31\n  | minlevel                 = 11\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 81\n  | quest                    = \n  | chest                    = \n  | enhancements             = \n* {{Spell Focus|Necromancy|4}}\n* {{Spell Focus|Necromancy|2|Insightful}}\n* {{Efficient Metamagic|Empower|I}}\n* {{Nearly Complete|Ability Score}}\n* {{Augment|Blue}}\n* {{Augment|Moon}}\n  | epic                     = \n  | crafting                 = Nearly Complete\n  | craftingupgrade          = \n  | description              = A pair of well-made bracers given to those truly devoted to Lolth.\n  | pic                      = \n  | picdesc                  = Bracers of the Spider Queen.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Necromancy Focus +4",
+      "tooltip": "Necromancy Focus +4: +4 Equipment bonus to the DC of Necromancy spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Necromancy Focus +4"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Necromancy Focus +2",
+      "tooltip": "Insightful Necromancy Focus +2: +2 Insight bonus to the DC of Necromancy spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Necromancy Focus +2"
+        }
+      ]
+    },
+    {
+      "text": "Efficient Metamagic - Empower I",
+      "tooltip": "Efficient Metamagic - Empower I: The additional spell point cost for using the Empower Metamagic feat is reduced by 1 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Empower I"
+        }
+      ]
+    },
+    {
+      "text": "Nearly Complete: Ability Score",
+      "tooltip": "Nearly Complete: Ability Score: This item isn't quite finished, but it's only a step away from completion. Bring it to the forges on the upper floor of Gravenhollow and combine it with melted materials to restore this item to its full potential.",
+      "children": [
+        {
+          "text": "This item can be upgraded with one of the following:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Charisma +6",
+              "tooltip": "Charisma +6: This item makes the wearer have more flair, granting a +6 Enhancement bonus to Charisma.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Charisma",
+                  "title": "Charisma",
+                  "text": "Charisma +6"
+                }
+              ]
+            },
+            {
+              "text": "Constitution +6",
+              "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Constitution",
+                  "title": "Constitution",
+                  "text": "Constitution +6"
+                }
+              ]
+            },
+            {
+              "text": "Dexterity +6",
+              "tooltip": "Dexterity +6: This item makes the wearer more nimble and dexterous, granting a +6 Enhancement bonus to Dexterity.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Dexterity",
+                  "title": "Dexterity",
+                  "text": "Dexterity +6"
+                }
+              ]
+            },
+            {
+              "text": "Intelligence +6",
+              "tooltip": "Intelligence +6: This item focuses the power of the wearer's mind, granting a +6 Enhancement bonus to Intelligence.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Intelligence",
+                  "title": "Intelligence",
+                  "text": "Intelligence +6"
+                }
+              ]
+            },
+            {
+              "text": "Strength +6",
+              "tooltip": "Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Strength",
+                  "title": "Strength",
+                  "text": "Strength +6"
+                }
+              ]
+            },
+            {
+              "text": "Wisdom +6",
+              "tooltip": "Wisdom +6: This item makes the wearer more in tune with her surroundings, granting a +6 Enhancement bonus to Wisdom.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Wisdom",
+                  "title": "Wisdom",
+                  "text": "Wisdom +6"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Nearly_Complete",
+          "title": "Nearly Complete",
+          "text": "Nearly Complete: Ability Score"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Moon Augment Slot",
+      "tooltip": "Moon",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Moon Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Wrist Boost +1 or +3",
+      "tooltip": "Mythic Wrist Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Wrist Boost"
+        }
+      ]
+    }
+  ]
+}

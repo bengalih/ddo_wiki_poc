@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Boots of the Innocent",
+  "page_id": 11381,
+  "revision_id": 628679,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:13:33.668856+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Boots of the Innocent\n  | type                     = Boots\n  | class                    = Clothing\n  | slot                     = Feet\n  | minlevel                 = 13\n  | bind                     = {{Bind|BtC|BoE}}\n  | basevalue                = 5,220 pp\n  | weight                   = 0.10 lbs\n  | durability               = 140\n  | material                 = Gold\n  | hardness                 = 18\n  | quest                    = Desecrated Temple of Vol\n  | chest                    = end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Resistance|5}}\n* {{Augment|Yellow}}\n  | description              = These boots belonged to an ancient nobleman's son. Kidnapped from Stormreach, he was sacrificed to Vol in this shrine. His ghost haunts the remains of the shrine.\n  | pic                      = Boots Generic.png\n  | picdesc                  = Boots of the Innocent.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Resistance +5",
+      "tooltip": "Resistance +5: Passive: +5 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +5"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

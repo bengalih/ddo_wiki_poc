@@ -1,0 +1,139 @@
+{
+  "page_title": "Item:Legendary Scepter of the Fleshweaver",
+  "page_id": 101408,
+  "revision_id": 689643,
+  "revision_timestamp": "2026-06-21T17:12:03Z",
+  "fetched_at": "2026-08-17T22:05:29.389179+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Scepter of the Fleshweaver\n  | damage                   = 5.20[1d6+2] + 15 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Simple\n  | durability               = 375\n  | material                 = Steel\n  | hardness                 = 41\n  | minlevel                 = 31\n  | released                 = Update 59\n  | revamped                 = Update 80\n  | quest                    = Frame Work\n  | chest                    = End chests, [[Dorris]]' chests\n  | basevalue                = 12,400 pp 2 cp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | mythic                   = yes\n  | enhancements             = \n* {{Clicky|Stone to Flesh|5|5}}\n* {{Enhancement bonus|i|15|31}}\n* {{Stat|INT|14}}\n* {{Spell Focus|Transmutation|9}}\n* {{SpellPower|Devotion|149}}\n* {{CraftingEffects|Fragmented}}\n* {{Augment|Red}}\n* {{Augment|Purple}}\n  | crafting                 = Cauldron of Sora Katra\n  | craftingupgrade          = Legendary Master Transmuter's Staff\n  | pic                      = Scepter of the Fleshweaver shown.jpg\n  | picdesc                  = Legendary Scepter of the Fleshweaver.png\n  | description              = Said to be a creation of Mordain the Fleshweaver, master transmuter of [[Droaam]], this scepter boosts the wielder's intellect and improves his or her skill with transmutation magic.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 31,
+  "enchantments": [
+    {
+      "text": "Stone to Flesh — 5 Charges (Recharged/Day:5)",
+      "tooltip": "Stone to FleshCaster level: 5Charges: 5 (5/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stone_to_Flesh",
+          "title": "Stone to Flesh",
+          "text": "Stone to Flesh"
+        }
+      ]
+    },
+    {
+      "text": "Spellcasting Implement +31",
+      "tooltip": "Spellcasting Implement +31: Passive: +31 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +31"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Intelligence +14",
+      "tooltip": "Intelligence +14: This item focuses the power of the wearer's mind, granting a +14 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +14"
+        }
+      ]
+    },
+    {
+      "text": "Transmutation Focus +9",
+      "tooltip": "Transmutation Focus +9: +9 Equipment bonus to the DC of Transmutation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Transmutation Focus +9"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +149",
+      "tooltip": "Devotion +149: Passive: +149 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +149"
+        }
+      ]
+    },
+    {
+      "text": "Fragmented",
+      "tooltip": "Fragmented: This item looks as though it is only one half of a greater item. Perhaps in the future it could be rejoined with its other half to reform the item in its original glory.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cauldron_of_Sora_Katra",
+          "title": "Cauldron of Sora Katra",
+          "text": "Fragmented"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

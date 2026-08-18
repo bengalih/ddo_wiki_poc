@@ -1,0 +1,140 @@
+{
+  "page_title": "Item:Legendary Docent of the Locus",
+  "page_id": 96828,
+  "revision_id": 632125,
+  "revision_timestamp": "2025-04-22T00:43:47Z",
+  "fetched_at": "2026-08-17T21:42:20.517374+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Docent of the Locus\n  | minlevel                 = 31\n  | type                     = Docent\n  | feat                     = Docent\n  | ac                       = {{WFABonus|a=26|m=15|c=6}}\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | race                     = Warforged\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 360\n  | material                 = Stone\n  | hardness                 = 41\n  | basevalue                = 12,410 pp\n  | weight                   = \n  | released                 = Update 55\n  | quest                    = Fall of the Forbidden Temple \n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Stat|Constitution|14}}\n* {{Spell Resistance|20|Insightful}}\n* {{Dodge|3|Quality|prefix=Quality}}\n* {{Fortification|74|Insightful}}\n* {{Augment|Blue}}\n* {{Augment|Yellow}}\n* {{Named item sets|Echoes of the Walking Ancestors}}\n* {{Named item sets|Deacon of the Auricular Sacrarium}}\n  | crafting                 = \n  | description              = This stone heart beats slowly in your hands. Its volcanic rock exterior is smooth to the touch.\n  | pic                      = Docent of the Locus shown.jpg\n  | picdesc                  = Legendary Docent of the Locus.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Stone",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 31,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +14",
+      "tooltip": "Constitution +14: This item gives the wearer improved health, granting a +14 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +14"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Spell Resistance +20",
+      "tooltip": "Insightful Spell Resistance +20: +20 Insight bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Insightful Spell Resistance +20"
+        }
+      ]
+    },
+    {
+      "text": "Quality Dodge +3%",
+      "tooltip": "Quality Dodge +3%: +3% Quality bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Quality Dodge +3%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Fortification +74%",
+      "tooltip": "Insightful Fortification +74%: +74% Insight bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Insightful Fortification +74%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Echoes of the Walking Ancestors",
+      "tooltip": "Echoes of the Walking Ancestors: 3 Pieces Equipped:+3 Artifact bonus to all Spell DCs+3 Artifact bonus to all Tactical DCs and Assassinate+3 Artifact bonus to all Ability Scores+3 Artifact bonus to Imbue Dice",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Echoes_of_the_Walking_Ancestors",
+          "title": "Named item sets",
+          "text": "Echoes of the Walking Ancestors"
+        }
+      ]
+    },
+    {
+      "text": "Deacon of the Auricular Sacrarium",
+      "tooltip": "Deacon of the Auricular Sacrarium: 3 Pieces Equipped:+6% Artifact bonus to Universal Spell Critical Chance+25 Artifact bonus to Universal Spellpower+15% Legendary bonus to Spell Critical Damage+30 Bonus to Magical Resistance Rating Cap",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Deacon_of_the_Auricular_Sacrarium",
+          "title": "Named item sets",
+          "text": "Deacon of the Auricular Sacrarium"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

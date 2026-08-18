@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Belt of Tongue",
+  "page_id": 11358,
+  "revision_id": 628526,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:10:17.573391+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Belt of Tongue\n  | type                     = Belt\n  | class                    = Clothing\n  | basevalue                = 5,220 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 140 \n  | material                 = Leather\n  | hardness                 = 19 \n  | bind                     = {{Bind|BtC|BoE}} \n  | minlevel                 = 13 \n  | quest                    = Litany of the Dead\n  | chest                    = [[Cholthulzz]]'s chest\n  | enhancements             = \n* {{Spell Resistance|19}}\n* {{Save|e|6}}\n  | description              = The Black Abbot had Cholthulzz's tongue stretched and tied into a belt, a gruesome but powerful garment.\n  | pic                      = Belt Generic Tongue.png\n  | picdesc                  = Belt of Tongue.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Spell Resistance +19",
+      "tooltip": "Spell Resistance +19: +19 Enhancement bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Spell Resistance +19"
+        }
+      ]
+    },
+    {
+      "text": "Enchantment Save +6",
+      "tooltip": "Enchantment Save +6: +6 Resistance bonus to your saves versus enchantments",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enchantment_Save",
+          "title": "Enchantment Save",
+          "text": "Enchantment Save +6"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Belt Boost +1 or +3",
+      "tooltip": "Mythic Belt Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Belt Boost"
+        }
+      ]
+    }
+  ]
+}

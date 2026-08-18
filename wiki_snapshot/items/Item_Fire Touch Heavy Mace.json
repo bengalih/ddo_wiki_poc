@@ -1,0 +1,42 @@
+{
+  "page_title": "Item:Fire Touch Heavy Mace",
+  "page_id": 17566,
+  "revision_id": 630838,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:04:26.560601+00:00",
+  "categories": [],
+  "wikitext": "{{History|item}}\n{{Named item|Weapon\n  | name                     = Fire Touch Heavy Mace\n  | damage                   = [1d8] + 0 Bludgeon\n  | crit                     = 20 / x2\n  | type                     = Heavy Mace\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Simple\n  | material                 = steel\n  | hardness                 = 10\n  | durability               = 40\n  | minlevel                 = 0\n  | quest                    = Cannith Crafting Tutorial\n  | chest                    = \n  | end reward               = \n  | epic                     = no\n  | bind                     = {{Bind|BtC|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Fire Touch}}\n* {{Craftable|5}}\n  | weight                   = 3 lbs\n  | basevalue                = 1cp\n  | crafting                 = \n  | craftingupgrade          = \n  | craftingnotes            = \n  | pic                      = \n  | picdesc                  = Fire Touch Heavy Mace.jpg\n  | description              = A simple weapon comprised of a solid blunt head attached to a haft.\n  | tips                     = This is a legacy weapon from a now-obsolete crafting system, and is no longer available via the tutorial.\n}}",
+  "item_template": "History",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Heavy Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "Fire Touch",
+      "tooltip": "Fire Touch: This weapon gives off a faint aura of warmth. A fire touch weapon deals an additional +1 fire damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Touch",
+          "title": "Fire Touch",
+          "text": "Fire Touch"
+        }
+      ]
+    },
+    {
+      "text": "Craftable (+5)",
+      "tooltip": "Craftable (+5): This item can be enhanced via Essence Crafting.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Essence_Crafting",
+          "title": "Essence Crafting",
+          "text": "Craftable (+5)"
+        }
+      ]
+    }
+  ]
+}

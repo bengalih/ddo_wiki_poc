@@ -1,0 +1,44 @@
+{
+  "page_title": "Item:Dragontouched Shroud",
+  "page_id": 9123,
+  "revision_id": 686668,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:37:59.529531+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Dragontouched Shroud\n  | type                     = Robe\n  | feat                     = Cloth\n  | minlevel                 = 16\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +6 \n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 96\n  | material                 = Cloth\n  | hardness                 = 25\n  | basevalue                = 6805.5pp\n  | weight                   = 0 lbs\n  | quest                    = Dragontouched Armor\n  | turn in                  = 50 [[Draconic Rune]]s & Complete the quest [[Stealer of Souls]]\n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|6}}\n* {{Mat|Dragontouched}}\n  | crafting                 = Dragontouched Armor\n  | craftingupgrade          = \n  | pic                      = Dragontouched Shroud shown.jpg\n  | picdesc                  = Dragontouched Shroud.png\n  | description              = This robe is embroidered with several ancient draconic runes that appear to be dormant. Perhaps untold powers could be awakened if a power source can be found.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +6",
+      "tooltip": "Armor Bonus +6: This item surrounds the wearer with an invisible but tangible field of force, granting +6 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +6"
+        }
+      ]
+    },
+    {
+      "text": "Dragontouched",
+      "tooltip": "Dragontouched: This mythical material was created by combining an unknown metal with ancient enchantments known only by the dragons. This material is said to enchant the wielder as if they were protected by +5 armor enchantment. Additionally it provides leather items with additional flexibility and metal armors additional protection.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dragontouched",
+          "title": "Dragontouched",
+          "text": "Dragontouched"
+        }
+      ]
+    }
+  ]
+}

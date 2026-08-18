@@ -1,0 +1,172 @@
+{
+  "page_title": "Item:Rock Boots (level 7)",
+  "page_id": 36737,
+  "revision_id": 634367,
+  "revision_timestamp": "2025-04-22T03:17:01Z",
+  "fetched_at": "2026-08-17T22:48:31.803266+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Rock Boots}}\n  | type                     = Boots\n  | minlevel                 = 7\n  | slot                     = Feet\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 80\n  | material                 = Steel\n  | hardness                 = 17\n  | basevalue                = 2805pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various ingredients\n  | mythic                   = no\n  | enhancements             = \n{{VaultsOfTheArtificersUpgrade}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = <!--yes-->\n  | description              = These boots are encased in a stony shell, bolstered by the power of a bound Earth Elemental. They allow the user to execute a ferocious stomp that knocks nearby enimes over, as well as turning your attackers to stone on occasion.\n  | pic                      = Rock Boots Orb.png\n  | picdesc                  = Rock Boots (Level 7).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": "Upgradeable - Tier 1: This item is a Tier 1 upgradable item.",
+      "children": [
+        {
+          "text": "Corrosion +69",
+          "tooltip": "Corrosion +69: Passive: +69 Equipment bonus to Acid Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Corrosion_(spell_boost)",
+              "title": "Corrosion (spell boost)",
+              "text": "Corrosion +69"
+            }
+          ]
+        },
+        {
+          "text": "Acid Lore +10%",
+          "tooltip": "Acid Lore +10: Passive: Your Acid spells gain a 10% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Acid Lore +10%"
+            }
+          ]
+        },
+        {
+          "text": "Lesser Stone Prison Guard",
+          "tooltip": "Lesser Stone Prison Guard: This item has a chance to turn those who hit you to stone. A successful Fortitude save (DC ?15?) will negate this effect.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Lesser_Stone_Prison_Guard",
+              "title": "Lesser Stone Prison Guard",
+              "text": "Lesser Stone Prison Guard"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": "Upgradeable - Tier 2: This item is a Tier 2 upgradable item.",
+      "children": [
+        {
+          "text": "Corrosion +69 → Corrosion +74",
+          "tooltip": "Corrosion +69: Passive: +69 Equipment bonus to Acid Spell Power.Corrosion +74: Passive: +74 Equipment bonus to Acid Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Corrosion_(spell_boost)",
+              "title": "Corrosion (spell boost)",
+              "text": "Corrosion +69"
+            },
+            {
+              "target": "/page/Corrosion_(spell_boost)",
+              "title": "Corrosion (spell boost)",
+              "text": "Corrosion +74"
+            }
+          ]
+        },
+        {
+          "text": "Acid Lore +10% → Acid Lore +11%",
+          "tooltip": "Acid Lore +10: Passive: Your Acid spells gain a 10% Equipment bonus to their chance to critical hit.Acid Lore +11: Passive: Your Acid spells gain a 11% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Acid Lore +10%"
+            },
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Acid Lore +11%"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This item is a Tier 3 upgradable item.",
+      "children": [
+        {
+          "text": "Corrosion +74 → Corrosion +79",
+          "tooltip": "Corrosion +74: Passive: +74 Equipment bonus to Acid Spell Power.Corrosion +79: Passive: +79 Equipment bonus to Acid Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Corrosion_(spell_boost)",
+              "title": "Corrosion (spell boost)",
+              "text": "Corrosion +74"
+            },
+            {
+              "target": "/page/Corrosion_(spell_boost)",
+              "title": "Corrosion (spell boost)",
+              "text": "Corrosion +79"
+            }
+          ]
+        },
+        {
+          "text": "Acid Lore +11% → Acid Lore +12%",
+          "tooltip": "Acid Lore +11: Passive: Your Acid spells gain a 11% Equipment bonus to their chance to critical hit.Acid Lore +12: Passive: Your Acid spells gain a 12% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Acid Lore +11%"
+            },
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Acid Lore +12%"
+            }
+          ]
+        },
+        {
+          "text": "Adds Green Augment Slot",
+          "tooltip": "Blue, Green, Yellow, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Green Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

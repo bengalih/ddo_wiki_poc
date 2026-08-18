@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Severlin's Iron Fists (level 15)",
+  "page_id": 68088,
+  "revision_id": 634557,
+  "revision_timestamp": "2025-04-22T03:29:25Z",
+  "fetched_at": "2026-08-17T22:53:28.713796+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Severlin's Iron Fists}}\n  | type                     = Gloves\n  | cost                     = 6,005 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Hand\n  | material                 = Steel\n  | durability               = 160\n  | hardness                 = 25\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 30\n  | quest                    = Anniversary Party\n  | turn in                  = {{U30 ingredient|40}}\n  | mythic                   = no\n  | enhancements             = \n* {{Tactics|Shatter|9}}\n* {{Skills|Diplomacy|16}}\n* {{Incite|75}}\n* {{Stat|Charisma|3|Insightful}}\n* {{Augment|Green}}\n  | description              = Respect the power and the might of the iron rule.\n  | pic                      = Gloves Generic Forgotten.png\n  | picdesc                  = Severlin's Iron Fists (level 15).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Shatter +9",
+      "tooltip": "Shatter +9: +9 Enhancement bonus to the DC of character's Sunder and Improved Sunder attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shatter",
+          "title": "Shatter",
+          "text": "Shatter +9"
+        }
+      ]
+    },
+    {
+      "text": "Diplomacy +16",
+      "tooltip": "Diplomacy +16: Passive: +16 Competence bonus to the Diplomacy skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Diplomacy",
+          "title": "Diplomacy",
+          "text": "Diplomacy +16"
+        }
+      ]
+    },
+    {
+      "text": "Incite +75",
+      "tooltip": "Incite +75: +75% Enhancement bonus to increased threat generation from melee damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incite",
+          "title": "Incite",
+          "text": "Incite +75"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Charisma +3",
+      "tooltip": "Insightful Charisma +3: This item makes the wearer have more flair, granting a +3 Insight bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Insightful Charisma +3"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

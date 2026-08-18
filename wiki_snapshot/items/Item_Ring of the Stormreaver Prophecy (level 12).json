@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Ring of the Stormreaver Prophecy (level 12)",
+  "page_id": 36044,
+  "revision_id": 649384,
+  "revision_timestamp": "2025-07-26T19:12:37Z",
+  "fetched_at": "2026-08-17T22:46:53.681045+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = {{Item|Ring of the Stormreaver Prophecy}}\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 130\n  | material                 = Gold \n  | hardness                 = 22\n  | basevalue                = 4,820 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 12 \n  | bind                     = {{Bind|BtC|BoE}}\n  | released                 = Update 17\n  | quest                    = Gianthold Tor\n  | chest                    = [[Rhindvutha|Black Dragon]]'s chest (Heroic Normal)\n  | enhancements             = \n* {{Stat|WIS|5}}\n* {{Resistance|2}}\n  | pic                      = Ring Generic Prophecy.png\n  | picdesc                  = Ring of the Stormreaver Prophecy (Level 12).png\n  | description              = This ring is inscribed with runes that comprise a small fragment of the Stormreaver Prophecy. It is of recent manufacture, yet the skill used in its crafting suggests familiarity with lost giantcraft. \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Wisdom +5",
+      "tooltip": "Wisdom +5: This item makes the wearer more in tune with her surroundings, granting a +5 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +5"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +2",
+      "tooltip": "Resistance +2: Passive: +2 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +2"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

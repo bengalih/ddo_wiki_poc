@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Benign Breath",
+  "page_id": 24637,
+  "revision_id": 684874,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:10:50.028418+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Benign Breath\n  | minlevel                 = 9\n  | type                     = Trinket\n  | slot                     = Trinket\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 100\n  | material                 = Leather\n  | hardness                 = 14\n  | basevalue                = 4,920 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Necropolis\n  | turn in                  = [[Item:Eerie Scarab Powder|Eerie Scarab Powder]]\n  | mythic                   = no\n  | enhancements             = \n* {{Wizardry|Magi}}\n* {{SpellPower|Potency|20}}\n  | description              = This symbol belonged to a young sorceror that fought beside the forces of the Silver Flame against the undead tide.\n  | pic                      = Trinket Generic Arrowhead.png\n  | picdesc                  = Benign Breath.png\n  | tips                     = \n* Previously called [[Beignin's Breath]] (and still shows as such in the collector's dialogue).\n* In-game text has old description.\n}}\n[[Category:Necropolis_Scarab_collectable]]",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Magi",
+      "tooltip": "Magi: This item grants the wearer +100 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magi",
+          "title": "Magi",
+          "text": "Magi"
+        }
+      ]
+    },
+    {
+      "text": "Potency +20",
+      "tooltip": "Potency +20: Passive: +20 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +20"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Fine Finesse",
+  "page_id": 73572,
+  "revision_id": 672669,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:04:19.162258+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Fine Finesse\n  | damage                   = 2[1d6] + 3 Pierce, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Rapier\n  | hand                     = One-handed\n  | race                     = Tiefling Scoundrel\n  | class                    = Piercing\n  | prof                     = Martial\n  | reqtrait                 = <!-- Leave blank if not used-->\n  | UMD DC                   = <!-- Leave blank if not used-->\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 15\n  | durability               = 195\n  | material                 = Steel\n  | hardness                 = 25\n  | cost                     = 6002 pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | chest                    = <!-- Leave blank if not used-->\n  | end reward               = true\n  | turn in                  = <!-- Leave blank if not used-->\n  | revamped                 = Update 76\n  | epic                     = no <!-- If yes, replace \"no\" with name of non-epic version-->\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Fiery|3}}\n* {{Vorpal}}\n  | crafting                 = <!--Type of crafting-->\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | description              = \n  | pic                      = Fine Finesse shown.jpg\n  | picdesc                  = Fine Finesse.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Rapier",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fiery 3",
+      "tooltip": "Fiery 3: This effect causes the edges of this weapon to burn with enchanted flames, dealing 3d6 Fire damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fiery",
+          "title": "Fiery",
+          "text": "Fiery 3"
+        }
+      ]
+    },
+    {
+      "text": "Vorpal",
+      "tooltip": "Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 1000 Hit Points, they are instantly slain. If your target has above 1000 Hit Points, they take 100 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Vorpal",
+          "title": "Vorpal",
+          "text": "Vorpal"
+        }
+      ]
+    }
+  ]
+}

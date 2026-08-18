@@ -1,0 +1,52 @@
+{
+  "page_title": "Item:Rider's Chapeau",
+  "page_id": 77432,
+  "revision_id": 634222,
+  "revision_timestamp": "2025-04-22T03:07:20Z",
+  "fetched_at": "2026-08-17T22:44:46.738390+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Rider's Chapeau\n  | type                     = Helm\n  | cost                     = 401 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Head\n  | durability               = 110\n  | material                 = Cloth\n  | hardness                 = 21\n  | minlevel                 = 1\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 44\n  | quest                    = Treasure Hunt\n  | chest                    = End Chest\n  | enhancements             = \n* {{Stat|Cha|1}}\n* {{Augment|Blue}}\n  | epic                     = no\n  | crafting                 = <!--Type of crafting. Leave blank if none. -->\n  | craftingupgrade          = <!-- can leave blank, though comment required if |crafting is used-->\n  | description              = Keeps the sunset out of your eyes.\n  | pic                      = Rider's Chapeau shown.jpg\n  | picdesc                  = Rider's Chapeau.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "enchantments": [
+    {
+      "text": "Charisma +1",
+      "tooltip": "Charisma +1: This item makes the wearer have more flair, granting a +1 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +1"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Head Boost +1 or +3",
+      "tooltip": "Mythic Head Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Head Boost"
+        }
+      ]
+    }
+  ]
+}

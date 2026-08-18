@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Pall of Blood",
+  "page_id": 8199,
+  "revision_id": 690592,
+  "revision_timestamp": "2026-06-30T16:00:03Z",
+  "fetched_at": "2026-08-17T22:35:11.473864+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Pall of Blood\n  | type                     = Robe\n  | feat                     = Cloth\n  | ac                       = +4\n  | minlevel                 = 4\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 45\n  | material                 = Cloth\n  | hardness                 = 6\n  | basevalue                = 1,605.5 pp\n  | weight                   = 0 lbs\n  | quest                    = The Bloody Crypt\n  | chest                    = End Chest\n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|4}}\n* {{Spell Focus|Necromancy|I}}\n* {{Augment|Green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | craftingnotes            = \n  | pic                      = Pall of Blood shown.jpg\n  | picdesc                  = Pall of Blood.png\n  | description              = This deep red robe is lined with purple highlights and a blood red symbol of the lich on the shoulder.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +4",
+      "tooltip": "Armor Bonus +4: This item surrounds the wearer with an invisible but tangible field of force, granting +4 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +4"
+        }
+      ]
+    },
+    {
+      "text": "Necromancy Focus I",
+      "tooltip": "Necromancy Focus I: +1 Equipment bonus to the DC of Necromancy spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Necromancy Focus I"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Epic Templar's Justice",
+  "page_id": 21905,
+  "revision_id": 640369,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:58:24.954629+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Templar's Justice\n  | damage                   = 3[1d10] + 6 Slash, Good, Cold Iron, Magic\n  | crit                     = 20 / x3\n  | type                     = Dwarven War Axe\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Exotic\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 285\n  | material                 = Cold Iron\n  | hardness                 = 30\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtA|BoA}}\n  | basevalue                = 8,003 pp\n  | weight                   = 8 lbs\n  | revamped                 = Update 50\n  | released                 = Update 13\n  | quest                    = Epic Crafting\n  | chest                    = \n  | end reward               = \n  | turn in                  = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|6}}\n* {{Burst|Holy|4|10}}\n* {{Blast|Good|4}}\n* {{Coruscating|4}}\n* {{Godly Wrath}}\n* {{Mat|Cold Iron|w}}\n* {{Augment|Red}}\n  | epic                     = Templar's Justice\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Templar's Justice\n  | pic                      = Templar's Justice shown.jpg\n  | picdesc                  = Epic Templar's Justice.png\n  | description              = A sanctified axe that shines brightly with the power of the Silver Flame. It is said to deliver the wrath of Tira Miron again and again upon those that it strikes.\n  | tips                     = \n}}\n[[Category:Web of Chaos epic items|Templar's Justice]]",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Dwarven War Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Holy Burst 4",
+      "tooltip": "Holy Burst 4: This weapon sings of virtue, dealing 4d6 Good damage on a successful hit to Evil enemies, and 10d6 Good damage on a critical hit to Evil enemies. This effect makes the weapon good aligned.Evil characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Holy_Burst#Holy_Burst",
+          "title": "Holy Burst",
+          "text": "Holy Burst 4"
+        }
+      ]
+    },
+    {
+      "text": "Good Blast 4",
+      "tooltip": "Good Blast 4: This weapon sings of virtue, dealing 4d6 Good damage on a successful hit, and an additional 4d6 Good damage on a critical hit. This effect makes the weapon good aligned.Evil characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Good Blast 4"
+        }
+      ]
+    },
+    {
+      "text": "Coruscating 4",
+      "tooltip": "Coruscating 4: This effect causes the edges of this weapon to coruscate, dealing 4d6 Light damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Coruscating",
+          "title": "Coruscating",
+          "text": "Coruscating 4"
+        }
+      ]
+    },
+    {
+      "text": "Godly Wrath",
+      "tooltip": "Godly Wrath: This weapon is filled with the power of a wrathful deity. Occasionally, this holy power is unleashed, applying a lasting effect that deals 2 to 8 light damage every two seconds for six seconds. If the effect is reapplied before it wears off, the effect will stack and the duration will reset. The effect can be stacked up to 3 times.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Godly_Wrath",
+          "title": "Godly Wrath",
+          "text": "Godly Wrath"
+        }
+      ]
+    },
+    {
+      "text": "Cold Iron",
+      "tooltip": "Cold Iron: This iron mined deep underground, known for its effectiveness against fey creatures, is forged at a lower temperature to preserve its delicate properties. When combined with Good damage types, Cold Iron weapons are able to overcome the damage reduction of most Demons like Fire Reavers or Flesh Renders. See Monster DR and weaknesses for specifics.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Iron",
+          "title": "Cold Iron",
+          "text": "Cold Iron"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

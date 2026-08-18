@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Duergarcraft Dagger",
+  "page_id": 126937,
+  "revision_id": 701493,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:39:48.707417+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Duergarcraft Dagger\n  | damage                   = 1.50[1d4] + 5 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Dagger\n  | class                    = Piercing\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 150\n  | material                 = Steel\n  | hardness                 = 21\n  | minlevel                 = 11\n  | basevalue                = 4,400pp 2gp\n  | weight                   = 1.00 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 81\n  | quest                    = Terror of Demogorgon\n  | chest                    = any end chest, most optional chests\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Piercing|3}}\n* {{Stabbing|7}}\n* {{Banishing|45}}\n* {{Destruction|Improved}}\n* {{Augment|Red}}\n  | crafting                 = Sealed Altar\n  | craftingupgrade          = Dagger of the Oozing Hunger\n  | description              = Crafted long ago in Gauntlygrym, these weapons seem to have scattered far and wide.\n  | pic                      = Duergarcraft Dagger shown.jpg\n  | picdesc                  = Duergarcraft Dagger.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Piercing 3",
+      "tooltip": "Piercing 3: The edges of this weapon have serrated edges, dealing an additional 3d6 piercing damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Piercing",
+          "title": "Piercing",
+          "text": "Piercing 3"
+        }
+      ]
+    },
+    {
+      "text": "Stabbing 7",
+      "tooltip": "Stabbing 7: The edges of this weapon are serrated, dealing an additional 7d6 piercing damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stabbing",
+          "title": "Stabbing",
+          "text": "Stabbing 7"
+        }
+      ]
+    },
+    {
+      "text": "Banishing 45",
+      "tooltip": "Banishing 45: On Hit: 3d6 Bane damage to Outsiders.On Vorpal Hit: If an outsider struck by this weapon has fewer than 1880 Hit Points, it is instantly slain. If the outsider has above 1880 Hit Points, it takes 3d20 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Banishing",
+          "title": "Banishing",
+          "text": "Banishing 45"
+        }
+      ]
+    },
+    {
+      "text": "Improved Destruction",
+      "tooltip": "Improved Destruction: On Hit: Your target gains a stack of Armor Destruction. (-1 penalty to Armor Class, -1% of its Fortification. 20 Second Duration. Stacks up to 15 times.) This effect may trigger once every second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Improved_Destruction",
+          "title": "Improved Destruction",
+          "text": "Improved Destruction"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

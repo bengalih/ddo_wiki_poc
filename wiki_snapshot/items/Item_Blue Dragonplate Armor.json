@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Blue Dragonplate Armor",
+  "page_id": 10650,
+  "revision_id": 628641,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:12:42.503693+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Blue Dragonplate Armor\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | race                     = \n  | minlevel                 = 14\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +22\n  | maxdexbonus              = 2\n  | acp                      = -3\n  | asf                      = 35%\n  | durability               = 276\n  | material                 = Blue Dragonscale\n  | hardness                 = 25\n  | basevalue                = 5,750pp\n  | weight                   = 25 lbs\n  | quest                    = Blue Dragonscale Armor\n  | chest                    = \n  | end reward               = \n  | turn in                  = 20 [[Blue Dragon Scale]]s\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Spellpen|ii}}\n* {{Spelllore|Spell|vi}}\n* {{SpellPower|Potency|52|Equipment}}\n* {{Elemental Resistance|Electric|30}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | craftingnotes            = \n  | pic                      = Blue Dragonplate Armor shown.jpg\n  | picdesc                  = Blue Dragonplate Armor.png\n  | description              = Plate armor forged from the scales of a blue dragon.\n  | notes                    = Pre-U14 version has Potency +48.\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Blue Dragonscale",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration II",
+      "tooltip": "Spell Penetration II: Passive: +2 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration II"
+        }
+      ]
+    },
+    {
+      "text": "Spell Lore VI",
+      "tooltip": "Spell Lore VI: Passive: All of your spells gain a 6% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Spell Lore VI"
+        }
+      ]
+    },
+    {
+      "text": "Potency +52",
+      "tooltip": "Potency +52: Passive: +52 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +52"
+        }
+      ]
+    },
+    {
+      "text": "Electric Resistance +30",
+      "tooltip": "Electric Resistance +30: Passive: +30 Enhancement bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Electric Resistance +30"
+        }
+      ]
+    }
+  ]
+}

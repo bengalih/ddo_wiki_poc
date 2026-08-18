@@ -1,0 +1,92 @@
+{
+  "page_title": "Item:Emerald Guard",
+  "page_id": 8105,
+  "revision_id": 629779,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:43:09.829618+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Emerald Guard\n  | type                     = Medium Armor\n  | feat                     = Medium\n  | race                     = \n  | minlevel                 = 16\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +22\n  | maxdexbonus              = 4\n  | asf                      = 25%\n  | durability               = 296\n  | material                 = Mithral\n  | hardness                 = 32\n  | basevalue                = 7,450pp\n  | weight                   = 50 lbs\n  | quest                    = Emerald Claw Nugget\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Nightshield|14|1}}\n* {{Enhancement bonus|a|5}}\n* {{Attack Bonus|2}}\n* {{Mat|Mithral}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n  | pic                      = Emerald Guard shown.jpg\n  | picdesc                  = Emerald Guard.png\n  | description              = This platemail has been tinted a bright emerald color. A deep imprint of a claw has been etched into the center of the chest.\n  | notes                    = {{Bug|As a mithral armor it should weight 25 lbs instead of 50.}}\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Medium Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Nightshield — 1 Charges (Recharged/Day:1)",
+      "tooltip": "NightshieldCaster level: 14Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nightshield",
+          "title": "Nightshield",
+          "text": "Nightshield"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Attack Bonus +2",
+      "tooltip": "Attack Bonus +2: Provides a +2 competence bonus to your attack rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Attack_bonus",
+          "title": "Attack bonus",
+          "text": "Attack Bonus +2"
+        }
+      ]
+    },
+    {
+      "text": "Mithral",
+      "tooltip": "Mithral: Mithral armor is one type lighter then normal. Arcane Spell Failure decreased by 10%. Maximum dexterity bonus increased by 2. Armor check penalty reduced by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mithral",
+          "title": "Mithral",
+          "text": "Mithral"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Black Velvet Capelet",
+  "page_id": 74280,
+  "revision_id": 628579,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:11:19.927340+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Black Velvet Capelet\n  | type                     = Cloak\n  | cost                     = 6001 pp\n  | weight                   = 0.10lbs\n  | slot                     = Back\n  | durability               = 250\n  | material                 = Cloth\n  | hardness                 = 35\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 42\n  | quest                    = The Wraithcallers\n  | end reward               = \n  | chest                    = End Chest\n  | enhancements             = \n* {{HealingAmp|15|n|Insight}}\n* {{Stat|Well Rounded|1|Profane}}\n* {{Stat|Intelligence|8}}\n* {{Boon of Undeath}}\n* {{Augment|blue}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This cloak shrouds you in negative energy.\n  | pic                      = Legendary Black Velvet Capelet Shown.jpg\n  | picdesc                  = Black Velvet Capelet desc.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Insightful Negative Amplification +15",
+      "tooltip": "Negative Amplification: This effect amplifies all incoming negative energy healing by +15 (Insight bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Amplification",
+          "title": "Negative Amplification",
+          "text": "Insightful Negative Amplification +15"
+        }
+      ]
+    },
+    {
+      "text": "Profane Well Rounded +1",
+      "tooltip": "Profane Well Rounded +1: +1 Profane bonus to all abilities.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ability",
+          "title": "Ability",
+          "text": "Profane Well Rounded +1"
+        }
+      ]
+    },
+    {
+      "text": "Intelligence +8",
+      "tooltip": "Intelligence +8: This item focuses the power of the wearer's mind, granting a +8 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +8"
+        }
+      ]
+    },
+    {
+      "text": "Boon of Undeath",
+      "tooltip": "Boon of Undeath: Undead take solace in the hate of others. Every time a character wearing a Boon of Undeath item is struck in combat, an Inflict Light Wounds spell will be cast on the character.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Boon_of_Undeath",
+          "title": "Boon of Undeath",
+          "text": "Boon of Undeath"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

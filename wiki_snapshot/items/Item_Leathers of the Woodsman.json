@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Leathers of the Woodsman",
+  "page_id": 24518,
+  "revision_id": 631724,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:28:50.437600+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Leathers of the Woodsman\n  | type                     = Leather\n  | feat                     = Light\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +13\n  | maxdexbonus              = 14\n  | asf                      = 10%\n  | durability               = 256\n  | material                 = Spiritcraft Leather\n  | hardness                 = 28\n  | basevalue                = 8,001 pp\n  | weight                   = 15 lbs\n  | quest                    = Eveningstar\n  | chest                    = \n  | end reward               = \n  | turn in                  = {{Commendation|Druids|10}}\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|6}}\n* {{Stat|Dex|7}}\n* {{Alacrity|Melee|10}}\n* {{Skills|Hide|15}}\n* {{Named item sets|Woodsman's Guile}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Leathers of the Woodsman shown.jpg\n  | picdesc                  = Leathers of the Woodsman.png\n  | description              = This exquisite suit of leathers is standard equipment for rangers of the King's Forest, in service to the crown of Cormyr. Equipment intended for use in service to the kingdom is layered with powerful enchantments by the War Wizards.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Spiritcraft Leather",
+  "armor_type": "Leather",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +7",
+      "tooltip": "Dexterity +7: This item makes the wearer more nimble and dexterous, granting a +7 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +7"
+        }
+      ]
+    },
+    {
+      "text": "Melee Alacrity 10%",
+      "tooltip": "Melee Alacrity 10%: Gain 10% Enhancement bonus to Melee attack speed. Does not stack with the Haste spell.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Melee_Alacrity",
+          "title": "Melee Alacrity",
+          "text": "Melee Alacrity 10%"
+        }
+      ]
+    },
+    {
+      "text": "Hide +15",
+      "tooltip": "Hide +15: Passive: +15 Competence bonus to the Hide skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hide",
+          "title": "Hide",
+          "text": "Hide +15"
+        }
+      ]
+    },
+    {
+      "text": "Woodsman's Guile",
+      "tooltip": "Woodsman's Guile: When all three items from the set are equipped, you will gain a +4 bonus to your To-Hit and +6 bonus to your Damage on any attack that would be considered a Sneak Attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Woodsman's_Guile",
+          "title": "Named item sets",
+          "text": "Woodsman's Guile"
+        }
+      ]
+    }
+  ]
+}

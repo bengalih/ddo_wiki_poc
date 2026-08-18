@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Memory of Hiding in Darkness",
+  "page_id": 66478,
+  "revision_id": 633486,
+  "revision_timestamp": "2025-04-22T02:16:44Z",
+  "fetched_at": "2026-08-17T22:24:31.977937+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Memory of Hiding in Darkness\n  | type                     = Docent\n  | slot                     = Armor\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+15|m=+8|c=6}}\n  | durability               = 150\n  | material                 = Gem\n  | hardness                 = 20\n  | weight                   = \n  | basevalue                = 4010pp\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 37\n  | quest                    = A Raven at the Door\n  | chest                    = End chest, Rescue Yesper From The Dungeons optional chest\n  | crafting                 = \n  | enhancements             = \n* {{Fortification|77}}\n* {{Parrying|2}}\n* {{Sheltering|14|Enhancement|Physical}}\n* {{Stat|Well Rounded|1|Profane}}\n* {{Enhancement bonus|a|5}}\n* {{Augment|green}}\n* {{Named item sets|Silent Avenger Set (Heroic)}}\n  | description              = This stone resonates with the memory of a tailor fleeing from those who would take him from his family.\n  | tips                     = \n  | pic                      = Memory of Hiding in Darkness shown.jpg\n  | picdesc                  = Memory of Hiding in Darkness.png\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Fortification +77%",
+      "tooltip": "Fortification +77%: +77% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +77%"
+        }
+      ]
+    },
+    {
+      "text": "Parrying +2",
+      "tooltip": "Parrying +2: +2 Insight bonus to Armor Class, +2 Insight bonus to Saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Parrying",
+          "title": "Parrying",
+          "text": "Parrying +2"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +14",
+      "tooltip": "Physical Sheltering +14: +14 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +14"
+        }
+      ]
+    },
+    {
+      "text": "Profane Well Rounded +1",
+      "tooltip": "Profane Well Rounded +1: +1 Profane bonus to all abilities.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ability",
+          "title": "Ability",
+          "text": "Profane Well Rounded +1"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Silent Avenger Set (Heroic)",
+      "tooltip": "Silent Avenger Set (Heroic): 3 Pieces Equipped:You gain a 5% Artifact Bonus to Doublestrike and Doubleshot.You gain +1 Artifact Bonus to Sneak Attack Dice.You gain a 10% Artifact Bonus to Fortification Bypass.You gain +5% Artifact Bonus to Damage vs. Helpless opponents.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Silent_Avenger_Set_(Heroic)",
+          "title": "Named item sets",
+          "text": "Silent Avenger Set (Heroic)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "page_title": "Item:Smash 'n Grabber",
+  "page_id": 91559,
+  "revision_id": 634876,
+  "revision_timestamp": "2025-04-22T03:50:37Z",
+  "fetched_at": "2026-08-17T23:01:33.987764+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Smash 'n Grabber\n  | type                     = Small\n  | prof                     = General\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 3\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +6\n  | maxdexbonus              = \n  | dr                       = 6\n  | acp                      = 0\n  | asf                      = 5\n  | dmg                      = [1d8] + 2\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | mythic                   = yes\n  | durability               = 150\n  | material                 = Steel\n  | hardness                 = 28\n  | basevalue                = 1,604pp\n  | weight                   = 5 lbs\n  | released                 = Update 50\n  | quest                    = What Sleeps Below\n  | chest                    = end chest\n  | end reward               = \n  | turn in                  = \n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Smash 'n Grabber\n  | enhancements             = \n* {{Enhancement bonus|s|2}}\n* {{Shield Bashing|%=5}}\n* {{Bludgeoning|2|}}\n* {{Named item sets|Saltmarsh Explorer}}\n* {{Augment|red}}\n  | description              = Made of wood and Saltiron, this small shield still allows the kind of mobility needed to get one's prize... and then get out.\n  | pic                      = Smash 'n Grabber shown.png\n  | picdesc                  = Smash 'n Grabber.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Steel",
+  "item_type": "Small Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Shield Bashing +5%",
+      "tooltip": "Shield Bashing +5%: +5% Enhancement bonus to your chance of a Secondary Shield Bash. This stacks with bonuses granted by any relevant feats.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bashing",
+          "title": "Shield Bashing",
+          "text": "Shield Bashing +5%"
+        }
+      ]
+    },
+    {
+      "text": "Bludgeoning 2",
+      "tooltip": "Bludgeoning 2: The edges of this weapon are blunted, dealing an additional 2d6 bludgeon damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bludgeoning",
+          "title": "Bludgeoning",
+          "text": "Bludgeoning 2"
+        }
+      ]
+    },
+    {
+      "text": "Saltmarsh Explorer",
+      "tooltip": "Saltmarsh Explorer: 5 Pieces Equipped:+5 Artifact bonus to PRR and MRR+1 Artifact bonus to all ability scores",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Saltmarsh_Explorer",
+          "title": "Named item sets",
+          "text": "Saltmarsh Explorer"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Cloak of Moonlight",
+  "page_id": 108629,
+  "revision_id": 685066,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:22:36.371608+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Cloak of Moonlight\n  | minlevel                 = 13\n  | type                     = Cloak\n  | slot                     = Back\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 230\n  | material                 = Cloth\n  | hardness                 = 33\n  | cost                     = 5201 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 69\n  | quest                    = The Zulkir's Plan\n  | chest                    = end chest\n  | end reward               = \n  | enhancements             = \n* {{Elemental Resistance|Elemental|5|Competence}}\n* {{Immunity|Fear}}\n* {{Proof|Poison|6}}\n* {{Wizardry|137}}\n* {{Augment|blue}}\n* {{Augment|Sun}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Magic of old still resonates in this cloak's silver and blue threads.\n  | pic                      = Cloak of Moonlight shown.jpg\n  | picdesc                  = Cloak of Moonlight.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Competence Elemental Resistance - 5",
+      "tooltip": "Competence Elemental Resistance - 5: This item provides a +5 Competence bonus to your Acid, Cold, Fire, and Electrical resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Elemental_Resistance#Inherent_Resistances",
+          "title": "Elemental Resistance",
+          "text": "Competence Elemental Resistance - 5"
+        }
+      ]
+    },
+    {
+      "text": "Immunity to Fear",
+      "tooltip": "Immunity to Fear: The wearer of this item is immune to all fear effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Immunity_to_Fear",
+          "title": "Immunity to Fear",
+          "text": "Immunity to Fear"
+        }
+      ]
+    },
+    {
+      "text": "Proof Against Poison +6",
+      "tooltip": "Proof Against Poison +6: This item grants its wearer immunity to natural poisons. This item also grants a +6 Enhancement bonus to saving throws against magical poisons, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical poisons with a DC of less than 7 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Poison",
+          "title": "Proof Against Poison",
+          "text": "Proof Against Poison +6"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry +137",
+      "tooltip": "Wizardry +137: +137 Enhancement bonus to spell points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry +137"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

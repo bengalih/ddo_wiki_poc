@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Mist Vial",
+  "page_id": 117185,
+  "revision_id": 645627,
+  "revision_timestamp": "2025-06-21T13:07:09Z",
+  "fetched_at": "2026-08-17T22:25:31.028709+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Mist Vial\n  | minlevel                 = 15\n  | type                     = Necklace\n  | race                     = Dhampir Dark Bargainer\n  | slot                     = Neck\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | cost                     = 6,020 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 74\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Sheltering|15|Enhancement|Magical}}\n* {{HealingAmp|20|Healing|Exceptional}}\n* {{HealingAmp|1|Negative|Profane}}\n  | crafting                 = \n  | description              = \n  | pic                      = Necklace Generic Bright.png\n  | picdesc                  = Mist Vial.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Magical Sheltering +15",
+      "tooltip": "Magical Sheltering +15: +15 Enhancement bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Magical Sheltering +15"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Healing Amplification +20",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +20 (Exceptional bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Exceptional Healing Amplification +20"
+        }
+      ]
+    },
+    {
+      "text": "Profane Negative Amplification +1",
+      "tooltip": "Negative Amplification: This effect amplifies all incoming negative energy healing by +1 (Profane bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Amplification",
+          "title": "Negative Amplification",
+          "text": "Profane Negative Amplification +1"
+        }
+      ]
+    }
+  ]
+}

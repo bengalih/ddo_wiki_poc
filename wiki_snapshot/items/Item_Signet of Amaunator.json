@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Signet of Amaunator",
+  "page_id": 39448,
+  "revision_id": 634754,
+  "revision_timestamp": "2025-04-22T03:42:33Z",
+  "fetched_at": "2026-08-17T22:58:32.480412+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Signet of Amaunator\n  | minlevel                 = 15\n  | type                     = Ring\n  | slot                     = Finger\n  | race                     = Sun Elf\n  | bind                     = {{Bind|BTC|BoA}}\n  | durability               = 160\n  | material                 = Silver\n  | hardness                 = 20\n  | basevalue                = 6020 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Deathblock}}\n* {{Proof|Disease|6}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Ring Generic Silver.png\n  | picdesc                  = Signet of Amaunator.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Silver",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Deathblock",
+      "tooltip": "Deathblock: The wearer of this item is immune to all death spells and magical death effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock"
+        }
+      ]
+    },
+    {
+      "text": "Proof Against Disease +6",
+      "tooltip": "Proof Against Disease +6: This item grants its wearer immunity to natural diseases. This item also grants a +6 Enhancement bonus to saving throws against magical diseases, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical diseases with a DC of less than 7 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Disease",
+          "title": "Proof Against Disease",
+          "text": "Proof Against Disease +6"
+        }
+      ]
+    }
+  ]
+}

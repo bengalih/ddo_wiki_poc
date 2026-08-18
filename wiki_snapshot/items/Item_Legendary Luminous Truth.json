@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Luminous Truth",
+  "page_id": 91328,
+  "revision_id": 632567,
+  "revision_timestamp": "2025-04-22T01:13:29Z",
+  "fetched_at": "2026-08-17T21:58:03.171309+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Luminous Truth\n  | minlevel                 = 30\n  | type                     = Quarterstaff\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = Two-handed\n  | damage                   = 5[1d6+4] + 15 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 380\n  | material                 = Wood\n  | hardness                 = 40\n  | cost                     = 12,000 pp 1 cp\n  | weight                   = 4 lbs\n  | released                 = Update 50\n  | quest                    = Legendary Crafting\n  | legendary                = Epic Luminous Truth\n  | mythic                   = no\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | enhancements             = \n* {{Enhancement bonus|i|15|30}}\n* {{Spelllore|Purifying Flame|21}}\n* {{SpellPower|Power of the Flames of Purity|146}}\n* {{Blast|Flaming|6}}\n* {{Coruscating|6}}\n* {{Incineration|Overwhelming}}\n* {{Augment|Red}}\n  | crafting                 = \n  | description              = This tool was crafted for divine priests of the Silver Flame, as well as those who would wield a quarterstaff as a weapon in the Silver Flame's name. It deals fire and light damage to its targets and enhances the power of magical light and flames.\n  | pic                      = Luminous Truth shown.jpg\n  | picdesc                  = Legendary Luminous Truth.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +30",
+      "tooltip": "Spellcasting Implement +30: Passive: +30 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +30"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Purifying Flame Lore +21%",
+      "tooltip": "Purifying Flame Lore +21: Passive: Your Fire and Light spells gain a 21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Purifying Flame Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Power of the Flames of Purity +146",
+      "tooltip": "Power of the Flames of Purity +146: Passive: +146 Equipment bonus to Fire and Light Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power_of_the_Flames_of_Purity",
+          "title": "Power of the Flames of Purity",
+          "text": "Power of the Flames of Purity"
+        }
+      ]
+    },
+    {
+      "text": "Flaming Blast 6",
+      "tooltip": "Flaming Blast 6: This weapon burns with deadly magical fire, dealing 6d6 Fire damage on a successful hit, and an additional 6d6 Fire damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Flaming Blast 6"
+        }
+      ]
+    },
+    {
+      "text": "Coruscating 6",
+      "tooltip": "Coruscating 6: This effect causes the edges of this weapon to coruscate, dealing 6d6 Light damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Coruscating",
+          "title": "Coruscating",
+          "text": "Coruscating 6"
+        }
+      ]
+    },
+    {
+      "text": "Overwhelming Incineration",
+      "tooltip": "Overwhelming Incineration: This weapon stores the power of a raging inferno deep within. Occasionally, this destructive power comes to the surface, devastating enemies with overwhelming fire damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incineration",
+          "title": "Incineration",
+          "text": "Overwhelming Incineration"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

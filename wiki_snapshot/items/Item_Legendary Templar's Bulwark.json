@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Legendary Templar's Bulwark",
+  "page_id": 95326,
+  "revision_id": 633061,
+  "revision_timestamp": "2025-04-22T01:47:54Z",
+  "fetched_at": "2026-08-17T22:12:18.126715+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Tower\n  | prof                     = Tower\n  | minlevel                 = 30\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +25\n  | maxdexbonus              = 4\n  | dr                       = 22\n  | acp                      = -6\n  | asf                      = 40\n  | dmg                      = 5[2d8] + 15\n  | dmgtype                  = Bludgeon, Silver, Mithral, Magic\n  | crit                     = 19-20 / x2\n  | durability               = 400\n  | material                 = Mithral\n  | hardness                 = 45\n  | basevalue                = 12404.5pp\n  | weight                   = 25 lbs\n  | legendary                = Epic Templar's Bulwark\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|s|15}}\n* {{Elemental Resistance|Fire|51}} \n* {{Elemental Resistance|Cold|51}} \n* {{Elemental Resistance|Electric|51}} \n* {{Elemental Resistance|Acid|51}} \n* {{Mat|Mithral}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Templars of the Silver Flame wield these massive tower shields, said to blessed by Tira Miron, to guard against weapon blows and elemental spells alike.\n  | pic                      = Kundarak Trooper's Shield shown.jpg\n  | picdesc                  = Legendary Templar's Bulwark.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Tower Shield Proficiency",
+  "material": "Mithral",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +51",
+      "tooltip": "Fire Resistance +51: Passive: +51 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +51"
+        }
+      ]
+    },
+    {
+      "text": "Cold Resistance +51",
+      "tooltip": "Cold Resistance +51: Passive: +51 Enhancement bonus to your Cold Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Resistance",
+          "title": "Cold Resistance",
+          "text": "Cold Resistance +51"
+        }
+      ]
+    },
+    {
+      "text": "Electric Resistance +51",
+      "tooltip": "Electric Resistance +51: Passive: +51 Enhancement bonus to your Electric Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electric_Resistance",
+          "title": "Electric Resistance",
+          "text": "Electric Resistance +51"
+        }
+      ]
+    },
+    {
+      "text": "Acid Resistance +51",
+      "tooltip": "Acid Resistance +51: Passive: +51 Enhancement bonus to your Acid Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Acid_Resistance",
+          "title": "Acid Resistance",
+          "text": "Acid Resistance +51"
+        }
+      ]
+    },
+    {
+      "text": "Mithral",
+      "tooltip": "Mithral: Mithral armor is one type lighter then normal. Arcane Spell Failure decreased by 10%. Maximum dexterity bonus increased by 2. Armor check penalty reduced by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mithral",
+          "title": "Mithral",
+          "text": "Mithral"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "page_title": "Item:Starter Module",
+  "page_id": 69589,
+  "revision_id": 706098,
+  "revision_timestamp": "2026-08-17T21:39:18Z",
+  "fetched_at": "2026-08-17T23:05:36.410061+00:00",
+  "categories": [],
+  "wikitext": "{{Non-food|WAI=true}}\n{{Named item|Weapon\n  | name                     = Starter Module\n  | damage                   = x[xdx] +x Damage types, bludgeon\n  | crit                     = 20 / x2\n  | type                     = Collar\n  | hand                     = One-handed\n  | race                     = Pet\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = <!-- Leave blank if not used-->\n  | UMD DC                   = <!-- Leave blank if not used-->\n  | attackmod                = \n  | damagemod                = \n  | minlevel                 = 0\n  | durability               = <!-- Durability-->\n  | material                 = <!-- Steel, Silver, etc-->\n  | hardness                 = \n  | cost                     = pp\n  | weight                   = lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = \n  | chest                    = <!-- Leave blank if not used-->\n  | end reward               = <!-- Leave blank if not used-->\n  | turn in                  = <!-- Leave blank if not used-->\n  | epic                     = no <!-- If yes, replace \"no\" with name of non-epic version-->\n  | enhancements             = \n* {{Enhancement bonus|w|1}}\n  | description              = \n  | pic                      = Starter Module shown.jpg\n  | picdesc                  = Starter Module.png\n  | tips                     = \n}}",
+  "item_template": "Non-food",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Collar",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

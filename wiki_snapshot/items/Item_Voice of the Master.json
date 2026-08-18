@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Voice of the Master",
+  "page_id": 10022,
+  "revision_id": 693817,
+  "revision_timestamp": "2026-07-09T18:30:39Z",
+  "fetched_at": "2026-08-17T23:24:29.123566+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Voice of the Master\n  | minlevel                 = 5\n  | slot                     = Trinket\n  | type                     = Trinket\n  | durability               = 100\n  | material                 = Adamantine \n  | hardness                 = 25\n  | basevalue                = 2,020 pp\n  | weight                   = 0.10 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Delera's Tomb \n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Heroic Inspiration}}\n* {{Good Luck|1}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = The Master's Gift\n  | pic                      = Trinket Generic Voice.png\n  | picdesc                  = Voice of the Master.png\n  | description              = A comforting and inspiring presence surrounds you as you hold this carving. A short chain of adamantine connects the carved head to a curiously shaped polyhedron with 20's carved on each side.\n  | tips                     = \n* Many players don't slot this trinket until just before receiving XP at the end of a quest. When a party is about to fight the final boss or open the last chest, you will often hear a player say \"Voices!\" as a reminder to the group. Alternatively, someone might type \"VOM\" or \"V\" in party chat to remind you to slot the trinket.\n* This item was added in [[Module 7]] to remember Gary Gygax, who created Dungeons and Dragons and narrated Delera's Tomb.\n* This is part of the {{DM's Vision}} item set, along with the [[Mantle of the Worldshaper]] from [[The Abandoned Excavation]].\n}}",
+  "item_template": "Named item",
+  "material": "Adamantine",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Heroic Inspiration",
+      "tooltip": "Heroic Inspiration: This item inspires you to acts of great heroism, granting a +5% bonus to experience points granted by completing quests while it is equipped. This stacks with experience boosting effects from elixirs but does not stack with experience boosting effects from other equippable items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heroic_Inspiration",
+          "title": "Heroic Inspiration",
+          "text": "Heroic Inspiration"
+        }
+      ]
+    },
+    {
+      "text": "Good Luck +1",
+      "tooltip": "Good Luck +1: This item gives a +1 Luck bonus to all saves and skill checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Good_Luck",
+          "title": "Good Luck",
+          "text": "Good Luck +1"
+        }
+      ]
+    }
+  ]
+}

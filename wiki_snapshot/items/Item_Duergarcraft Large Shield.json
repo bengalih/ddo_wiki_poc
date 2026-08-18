@@ -1,0 +1,108 @@
+{
+  "page_title": "Item:Duergarcraft Large Shield",
+  "page_id": 126328,
+  "revision_id": 703558,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:40:13.192588+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Duergarcraft Large Shield\n  | type                     = Large\n  | prof                     = General\n  | race                     = \n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 11\n  | damagemod                = STR\n  | attmod                   = STR\n  | bind                     = {{Bind|BtC|BoA}}\n  | sb                       = +15\n  | maxdexbonus              =\n  | dr                       = 9\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = 1.20[1d10] + 5\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | durability               = 230\n  | material                 = Steel\n  | hardness                 = 36\n  | basevalue                = 4,804 pp\n  | weight                   = 10 lbs\n  | released                 = Update 81\n  | quest                    = Terror of Demogorgon\n  | chest                    = any end chest, many optional chests\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|s|5}}\n* {{Shield Bashing|%=9}}\n* {{Conditioning|15|Legendary}}\n* {{Guardbreaking}}\n* {{Incite|11|Quality}}\n* {{Augment|Red}}\n  | description              = An extremely high-quality shield.\n  | crafting                 = Sealed Altar\n  | craftingupgrade          = Large Shield of the Oozing Hunger\n  | pic                      = Duergarcraft Large Shield shown.jpg\n  | picdesc                  = Duergarcraft Large Shield.png\n  | tips                     = {{Bug|Mistakenly became BtC with Update 81.1.}}\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Steel",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Shield Bashing +9%",
+      "tooltip": "Shield Bashing +9%: +9% Enhancement bonus to your chance of a Secondary Shield Bash. This stacks with bonuses granted by any relevant feats.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bashing",
+          "title": "Shield Bashing",
+          "text": "Shield Bashing +9%"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Conditioning +15%",
+      "tooltip": "Legendary Conditioning +15%: You have a +15% Legendary bonus to Maximum Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Conditioning",
+          "title": "Conditioning",
+          "text": "Legendary Conditioning +15%"
+        }
+      ]
+    },
+    {
+      "text": "Guardbreaking",
+      "tooltip": "Guardbreaking: This item enables you to break an enemy's guard in between your melee attacks. On critical hits with your melee weapons, enemies will become dazed as a result.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Guardbreaking",
+          "title": "Guardbreaking",
+          "text": "Guardbreaking"
+        }
+      ]
+    },
+    {
+      "text": "Quality Incite +11",
+      "tooltip": "Quality Incite +11: +11% Quality bonus to increased threat generation from melee damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incite",
+          "title": "Incite",
+          "text": "Quality Incite +11"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

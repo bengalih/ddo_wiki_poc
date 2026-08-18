@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Goggles of Intuition",
+  "page_id": 11112,
+  "revision_id": 677093,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:13:10.356090+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Goggles of Intuition\n  | type                     = Goggles\n  | class                    = Goggles\n  | slot                     = Eye\n  | durability               = 60\n  | material                 = Glass\n  | hardness                 = 9\n  | basevalue                = 2,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 5\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = The Bloody Crypt\n  | chest                    = end chest\n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* {{Sneak Attack Bonus|2}}\n* {{Augment|Colorless}} \n  | pic                      = Goggles of Intuition shown.jpg\n  | picdesc                  = Goggles of Intuition.png\n  | description              = Anyone who wears these goggles is able to quickly identify weak points and vulnerable spots for a physical blow.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Glass",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Sneak Attack Bonus +2",
+      "tooltip": "Sneak Attack Bonus +2 : Provides a +2 Enhancement modifier to your attack bonus and a +3 Enhancement bonus to damage for any attack that would qualify as a Sneak Attack, even if the wielder is not a Rogue.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sneak_Attack_Bonus",
+          "title": "Sneak Attack Bonus",
+          "text": "Sneak Attack Bonus +2"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

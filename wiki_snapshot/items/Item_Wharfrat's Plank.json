@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Wharfrat's Plank",
+  "page_id": 8293,
+  "revision_id": 635791,
+  "revision_timestamp": "2025-04-22T04:51:25Z",
+  "fetched_at": "2026-08-17T23:26:04.494863+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Large\n  | prof                     = General\n  | minlevel                 = 8\n  | bind                     = {{Bind|BtA|boa}}\n  | sb                       = +8\n  | dr                       = 8\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = [1d6] + 4\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | durability               = 150\n  | material                 = Darkwood\n  | hardness                 = 16\n  | basevalue                = 3,200 pp 7 gp\n  | weight                   = 7.50 lbs\n  | quest                    = Cult of the Six\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|s|4}}\n* {{Skills|Swim|11}}\n* {{Augment|Purple}}\n* {{Augment|Colorless}}\n  | description              = A clever sailor in need of a shield made this item. Somewhere there is a sunken ship with a hole cut out of the starboard side.\n  | pic                      = Wharfrat's Plank shown.jpg\n  | picdesc                  = Wharfrat's Plank.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Darkwood",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Swim +11",
+      "tooltip": "Swim +11: Passive: +11 Competence bonus to the Swim skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Swim",
+          "title": "Swim",
+          "text": "Swim +11"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

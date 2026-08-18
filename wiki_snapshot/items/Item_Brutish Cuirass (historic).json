@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Brutish Cuirass (historic)",
+  "page_id": 89983,
+  "revision_id": 628818,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:16:33.919464+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=item|replaced={{Item|Brutish Cuirass}}}}\n{{Named item|Armor\n  | name                     = Brutish Cuirass\n  | feat                     = Heavy\n  | type                     = Full Plate\n  | minlevel                 = 12\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +17\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 166\n  | material                 = Adamantine\n  | hardness                 = 28\n  | basevalue                = 6,450 pp\n  | weight                   = 50 lbs\n  | released                 = Update 8\n  | quest                    = Blockade Buster\n  | chest                    = Bash's Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Staggering Blow}}\n* {{Save|F|5}}\n* {{Mat|Adamantine}}\n  | description              = This suit of armor seems to have been crafted for [[Droaam]] troops to enhance their aggressive tendencies. It invests the wearer's attacks with great fervor, causing them to stun enemies occasionally.\n  | pic                      = Brutish Cuirass shown.jpg\n  | picdesc                  = Brutish Cuirass (historic).png\n  | notes                    = \n}}",
+  "item_template": "History",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Adamantine",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Staggering Blow",
+      "tooltip": "Staggering Blow: This item is enchanted to make your attacks send enemies reeling. When you roll a 20 on an attack with a melee weapon you will knock the target down unless it makes a DC 17 Balance check.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Staggering_Blow",
+          "title": "Staggering Blow",
+          "text": "Staggering Blow"
+        }
+      ]
+    },
+    {
+      "text": "Fortitude Save +5",
+      "tooltip": "Fortitude Save +5: This item gives a +5 Resistance bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Fortitude Save +5"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    }
+  ]
+}

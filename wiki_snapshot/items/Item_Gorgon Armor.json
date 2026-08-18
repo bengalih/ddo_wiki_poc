@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Gorgon Armor",
+  "page_id": 12320,
+  "revision_id": 631202,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:13:44.041877+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Gorgon Armor\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | race                     = \n  | minlevel                 = 8\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | ac                       = +17\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 176\n  | material                 = Steel\n  | hardness                 = 19\n  | basevalue                = 3,350 pp\n  | weight                   = 50 lbs\n  | revamped                 = Update 49\n  | quest                    = Eyes of Stone\n  | chest                    = Coin Lords' chest\n  | enhancements             = \n* {{Clicky|Gorgon Breath|10|3}} \n* {{Enhancement bonus|a|5}}\n* {{Stat|Con|5}}\n* {{Guard|Earthen}}\n* {{NaturalArmor|5}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Gorgon Armor shown.jpg\n  | picdesc                  = Gorgon Armor.png\n  | description              = A suit of armor crafted using the essence of a vicious gorgon. It allows its wearer to breathe a cone of vapor that will petrify creatures, just as a gorgon can do.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Gorgon Breath — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Gorgon BreathCaster level: 10Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Gorgon_Breath",
+          "title": "Gorgon Breath",
+          "text": "Gorgon Breath"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +5",
+      "tooltip": "Constitution +5: This item gives the wearer improved health, granting a +5 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +5"
+        }
+      ]
+    },
+    {
+      "text": "Earthen Guard",
+      "tooltip": "Earthen Guard: When you are successfully attacked, there is a chance that a Stone Skin will be cast on you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Earthen_Guard",
+          "title": "Earthen Guard",
+          "text": "Earthen Guard"
+        }
+      ]
+    },
+    {
+      "text": "Natural Armor +5",
+      "tooltip": "Natural Armor +5: Passive: +5 Natural Armor Bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Natural_armor_bonus",
+          "title": "Natural armor bonus",
+          "text": "Natural Armor +5"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

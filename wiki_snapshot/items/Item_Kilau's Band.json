@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Kilau's Band",
+  "page_id": 10209,
+  "revision_id": 631656,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:26:45.620870+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Kilau's Band\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 120\n  | material                 = Gold\n  | hardness                 = 12\n  | basevalue                = 10,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | quest                    = Tower of Despair\n  | chest                    = right side end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|DEX|6}}\n* {{Stat|WIS|1|Exceptional}}\n* {{Named item sets|Tempest}}\n* {{CraftingEffects|Incredible Potential}}\n  | crafting                 = Incredible Potential\n  | craftingupgrade          = <!-- -->\n  | description              = This dented and scuffed ring belonged to Kilau, an arrogant and deadly Tempest. He was last seen entering a portal to Shavarath, shouting challenges for a worthy fight.\n  | pic                      = Ring Generic Gold.png\n  | picdesc                  = Kilau's Band.png\n  | tips                     = Despite the description, the set bonus appears to do bleeding damage, and not slashing (undead, plants, elementals and constructs are immune to it).\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Dexterity +6",
+      "tooltip": "Dexterity +6: This item makes the wearer more nimble and dexterous, granting a +6 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +6"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Wisdom +1",
+      "tooltip": "Exceptional Wisdom +1: This item makes the wearer more in tune with her surroundings, granting a +1 Exceptional bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Exceptional Wisdom +1"
+        }
+      ]
+    },
+    {
+      "text": "Tempest",
+      "tooltip": "Tempest: 1d4 Additional Slash Damage. If have Tempest III Enhancement: +3 To-Hit Bonus.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Tempest",
+          "title": "Named item sets",
+          "text": "Tempest"
+        }
+      ]
+    },
+    {
+      "text": "Incredible Potential",
+      "tooltip": "Incredible Potential: Incredible Potential: This ring's power has not been fully unleashed. When this ring is combined with 9 Shavarath War Trophies and ac Imbued Shard of Great Power in an Altar of Subjugation, its full potential will be reveled.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incredible_Potential",
+          "title": "Incredible Potential",
+          "text": "Incredible Potential"
+        }
+      ]
+    }
+  ]
+}

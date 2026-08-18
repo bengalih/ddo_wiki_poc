@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Hooked Blade",
+  "page_id": 12615,
+  "revision_id": 631467,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:21:47.327783+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Hooked Blade\n  | prof                     = Exotic\n  | damage                   = 1.40[1d8] + 5 Slash, Magic\n  | crit                     = 19-20 / x3\n  | type                     = Khopesh\n  | class                    = Slashing\n  | minlevel                 = 12\n  | hand                     = One-handed\n  | damagemod                = STR \n  | attackmod                = STR\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 185\n  | material                 = Steel\n  | hardness                 = 22\n  | revamped                 = Update 49\n  | quest                    = Attack on Stormreach\n  | end reward               = yes\n  | basevalue                = 4,802pp\n  | weight                   = 12 lbs\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Limb Chopper}}\n* {{Maiming|3}}\n* {{Bane|Human|3}}\n* {{CraftingEffects|Malleable}}\n  | crafting                 = Malleable\n  | craftingupgrade          = Bloody Hooked Blade¦Destructive Hooked Blade¦Infectious Hooked Blade¦Petrifying Hooked Blade\n  | pic                      = Hooked Blade shown.jpg\n  | picdesc                  = Hooked Blade.png\n  | description              = A vicious, curved sword wielded by [[Droaam]] raiders of all races and types. It is sharp and jagged enough to slice straight through enemy limbs, crippling them severely.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Khopesh",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Limb Chopper",
+      "tooltip": "Limb Chopper: This potent and feared ability allows the weapon to sever the limbs of those it strikes. On an attack roll of 20 which is confirmed as a critical hit, the weapon severs an opponent's limb from its body. Some creatures, including many aberrations and all oozes, have no limbs. Others, such as golems and undead creatures, are not affected by the loss of their limbs. Most other creatures, however, have their movement slowed 75% and attacks slowed by 50% when a limb is cut off.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Limb_Chopper",
+          "title": "Limb Chopper",
+          "text": "Limb Chopper"
+        }
+      ]
+    },
+    {
+      "text": "Maiming 3",
+      "tooltip": "Maiming: This weapon has a twisted haft or grip and spikes along its blade, head, or point. When you score a critical hit with this weapon, it does an additional +3d8 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maiming",
+          "title": "Maiming",
+          "text": "Maiming 3"
+        }
+      ]
+    },
+    {
+      "text": "Human Bane 3",
+      "tooltip": "Human Bane 3: This weapon is attuned specifically to hunt those with diversity and ambition, dealing an additional 3d10 bane damage vs. Humans.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Human Bane 3"
+        }
+      ]
+    },
+    {
+      "text": "Malleable",
+      "tooltip": "Malleable: This item has a magical aura of malleability and can be combined with any item that has the Fusible property to create a new, more powerful fusion of the two items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cauldron_of_Sora_Katra",
+          "title": "Cauldron of Sora Katra",
+          "text": "Malleable"
+        }
+      ]
+    }
+  ]
+}

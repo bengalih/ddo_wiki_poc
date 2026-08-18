@@ -1,0 +1,108 @@
+{
+  "page_title": "Item:Crabshell Buckler",
+  "page_id": 70624,
+  "revision_id": 629195,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:27:24.069710+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Crabshell Buckler\n  | type                     = Buckler\n  | prof                     = General\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 9\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +6\n  | maxdexbonus              = \n  | dr                       = 8\n  | acp                      = 0\n  | asf                      = 5\n  | ap                       = \n  | dmg                      = [1d6] + 4\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | attmod                   = DEX\n  | damagemod                = DEX\n  | durability               = 210\n  | material                 = Bone\n  | hardness                 = 34\n  | basevalue                = 4,004pp\n  | weight                   = 5 lbs\n  | released                 = Update 39\n  | quest                    = White Plume Mountain\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Absorption|Chitinous Covering|19}}\n* {{NaturalArmor|5}}\n* {{Immunity|Slippery Surfaces}}\n* {{Guardbreaking}}\n* {{Augment|Orange}}\n  | description              = A very permanent reminder of the risks of uncooked shellfish.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Crabshell Buckler shown.png\n  | picdesc                  = Crabshell Buckler.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Bone",
+  "item_type": "Buckler",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Chitinous Covering +19%",
+      "tooltip": "Chitinous Covering +19%: This shield is made of the scavenged chitinous shell of a giant crab, and is magically warded against fire. +19% Enhancement bonus to Fire absorption.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Chitinous Covering +19%"
+        }
+      ]
+    },
+    {
+      "text": "Natural Armor +5",
+      "tooltip": "Natural Armor +5: Passive: +5 Natural Armor Bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Natural_armor_bonus",
+          "title": "Natural armor bonus",
+          "text": "Natural Armor +5"
+        }
+      ]
+    },
+    {
+      "text": "Immunity to Slippery Surfaces",
+      "tooltip": "Immunity to Slippery Surfaces: The wearer of this item is not affected when walking on slippery surfaces.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Immunity_to_Slippery_Surfaces",
+          "title": "Immunity to Slippery Surfaces",
+          "text": "Immunity to Slippery Surfaces"
+        }
+      ]
+    },
+    {
+      "text": "Guardbreaking",
+      "tooltip": "Guardbreaking: This item enables you to break an enemy's guard in between your melee attacks. On critical hits with your melee weapons, enemies will become dazed as a result.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Guardbreaking",
+          "title": "Guardbreaking",
+          "text": "Guardbreaking"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

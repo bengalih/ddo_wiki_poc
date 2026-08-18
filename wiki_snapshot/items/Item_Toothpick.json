@@ -1,0 +1,43 @@
+{
+  "page_title": "Item:Toothpick",
+  "page_id": 9118,
+  "revision_id": 672708,
+  "revision_timestamp": "2026-01-25T19:03:57Z",
+  "fetched_at": "2026-08-17T23:19:49.129993+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Toothpick\n  | damage                   = [1d6] + 0 Pierce\n  | crit                     = 18-20 / x2\n  | type                     = Rapier\n  | hand                     = One-handed\n  | class                    = Piercing\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Martial\n  | durability               = 95\n  | material                 = Steel\n  | hardness                 = 15\n  | minlevel                 = 12\n  | quest                    = Prey on the Hunter\n  | chest                    = End chest\n  | revamped                 = Update 76\n  | basevalue                = 5,032pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Bane|Giant|greater}}\n* {{Enhancement bonus|w|0}}\n  | pic                      = Turbulent Epee shown.jpg\n  | picdesc                  = Toothpick.png\n  | description              = A long, thin, slightly rusted sword with a fine point.  It appears to be encrusted with small chunks of an unknown material.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Rapier",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Greater Giant Bane",
+      "tooltip": "Greater Giant Bane: A bane weapon excels at attacking one type or subtype of creature. Against Giants, this weapon's effective enhancement bonus is +4 better than its normal enhancement bonus. It deals an extra 3 to 18 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Greater Giant Bane"
+        }
+      ]
+    },
+    {
+      "text": "Masterwork",
+      "tooltip": "Masterwork: This weapon is more finely crafted than normal, providing a +1 enhancement bonus on attack rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Masterwork",
+          "title": "Masterwork",
+          "text": "Masterwork"
+        }
+      ]
+    }
+  ]
+}

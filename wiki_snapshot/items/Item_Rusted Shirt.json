@@ -1,0 +1,49 @@
+{
+  "page_title": "Item:Rusted Shirt",
+  "page_id": 4996,
+  "revision_id": 634413,
+  "revision_timestamp": "2025-04-22T03:20:01Z",
+  "fetched_at": "2026-08-17T22:49:38.857753+00:00",
+  "categories": [],
+  "wikitext": "{{History|item}}\n{{Named item|Armor\n  | name                     = Rusted Shirt\n  | type                     = Chain Shirt\n  | feat                     = Light\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +8\n  | maxdexbonus              = 7\n  | acp                      = -1\n  | asf                      = 15%\n  | durability               = 80\n  | material                 = Blueshine\n  | hardness                 = 13\n  | basevalue                = 2410 pp\n  | weight                   = 25 lbs\n  | quest                    = Delera's Tomb\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{Augment|Blue}} (Preslotted with Diamond of {{Stat|Constitution|2}})\n  | description              = At first glance, this chain shirt appears to be ruined. Closer examination reveals that the rust is meant to disguise its high quality construction that is actually quite resistant to rust.\n  | pic                      = Rusted Shirt shown.jpg\n  | picdesc                  = Rusted Shirt.png\n  | notes                    = \n}}\n[[Category:Delera's Tomb reward items]]",
+  "item_template": "History",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Blueshine",
+  "armor_type": "Chain Shirt",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot (Preslotted with Diamond of Constitution +2)",
+      "tooltip": "Blue and Colorless Constitution +2: This item gives the wearer improved health, granting a +2 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        },
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +2"
+        }
+      ]
+    }
+  ]
+}

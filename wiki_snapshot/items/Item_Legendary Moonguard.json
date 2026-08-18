@@ -1,0 +1,108 @@
+{
+  "page_title": "Item:Legendary Moonguard",
+  "page_id": 74143,
+  "revision_id": 653023,
+  "revision_timestamp": "2025-08-07T00:32:45Z",
+  "fetched_at": "2026-08-17T21:59:40.847053+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Legendary Moonguard\n  | type                     = Buckler\n  | prof                     = General\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 29\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +20\n  | maxdexbonus              = \n  | dr                       = 19\n  | acp                      = 0\n  | asf                      = 0\n  | ap                       = \n  | dmg                      = 4.80[1d6+2] + 15\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | attmod                   = DEX\n  | damagemod                = DEX\n  | durability               = 410\n  | material                 = Steel\n  | hardness                 = 54\n  | basevalue                = 12,004pp\n  | weight                   = 5 lbs\n  | released                 = Update 42\n  | quest                    = Red Rain\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | enhancements             = \n* {{Enhancement bonus|s|15}}\n* {{Guardbreaking}}\n* {{Coruscating|6}}\n* {{Sheltering|16|Insight|Magical}}\n* {{Sheltering| 8|Quality|Magical}}\n* {{Augment|Blue}}\n  | description              = Raise the shining crescent against the tide of the abyss.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Moonguard shown.jpg\n  | picdesc                  = Legendary Moonguard.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Steel",
+  "item_type": "Buckler",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Guardbreaking",
+      "tooltip": "Guardbreaking: This item enables you to break an enemy's guard in between your melee attacks. On critical hits with your melee weapons, enemies will become dazed as a result.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Guardbreaking",
+          "title": "Guardbreaking",
+          "text": "Guardbreaking"
+        }
+      ]
+    },
+    {
+      "text": "Coruscating 6",
+      "tooltip": "Coruscating 6: This effect causes the edges of this weapon to coruscate, dealing 6d6 Light damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Coruscating",
+          "title": "Coruscating",
+          "text": "Coruscating 6"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Magical Sheltering +16",
+      "tooltip": "Insightful Magical Sheltering +16: +16 Insight bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Insightful Magical Sheltering +16"
+        }
+      ]
+    },
+    {
+      "text": "Quality Magical Sheltering +8",
+      "tooltip": "Quality Magical Sheltering +8: +8 Quality bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Quality Magical Sheltering +8"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Scalegouger",
+  "page_id": 91839,
+  "revision_id": 634469,
+  "revision_timestamp": "2025-04-22T03:23:45Z",
+  "fetched_at": "2026-08-17T22:51:01.098164+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Scalegouger\n  | prof                     = Martial\n  | sentience                = \n  | type                     = Heavy Pick\n  | hand                     = One-handed\n  | class                    = Piercing\n  | damage                   = [1d6] + 2 Pierce, Evil, Magic\n  | crit                     = 20 / x4\n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 3\n  | durability               = 95\n  | material                 = Flametouched Iron\n  | hardness                 = 13\n  | basevalue                = 1200 pp, 8 gp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 50\n  | quest                    = Danger at Dunwater\n  | chest                    = End Chest\n  | turn in                  = \n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Scalegouger \n  | mythic                   = Yes\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Bane|Reptilian|2}}\n* {{Unholy|2|1}}\n* {{Augment|red}}\n  | description              = This Heavy Pick is a quick and efficient way to pry scales from large fish.\n  | pic                      = Scalegouger shown.jpg\n  | picdesc                  = Scalegouger.jpg\n  | tips                     = Although [[Flametouched Iron]] is considered good this weapon is evil.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Heavy Pick",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Reptilian Bane 2",
+      "tooltip": "Reptilian Bane 2: This weapon is attuned specifically to hunt those with cunning and scales, dealing an additional 2d10 bane damage vs. Reptilians.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Reptilian Bane 2"
+        }
+      ]
+    },
+    {
+      "text": "Unholy 2",
+      "tooltip": "Unholy 2: This weapon is used by the wicked to smite the pure, dealing an additional 2d6 evil damage on each hit. This effect makes the weapon evil aligned. Good characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Unholy 2"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

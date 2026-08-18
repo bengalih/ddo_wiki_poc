@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Quorforged Docent of Victory (level 36)",
+  "page_id": 123545,
+  "revision_id": 685507,
+  "revision_timestamp": "2026-05-06T13:19:24Z",
+  "fetched_at": "2026-08-17T22:41:42.845297+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Quorforged Docent of Victory\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+42|m=+39|c=+15}}\n  | minlevel                 = 36\n  | bind                     = {{Bind|BtA|BoA}}\n  | maxdexbonus              =\n  | acp                      =\n  | asf                      =\n  | durability               = 410\n  | material                 = Crystal\n  | hardness                 = 46\n  | basevalue                = 50pp\n  | weight                   = 0 lbs\n  | quest                    = Timeline Fragment Exchange\n  | turn in                  = 50 Timeline Fragments\n  | released                 = Update 78\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Save|Will|13}}\n* {{Tactics|Combat Mastery|12}}\n* {{Fortification|41|Quality}}\n* {{Absorption|Chaos|24}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n* {{Augment|Sun}}\n  | crafting                 =\n  | craftingupgrade          =\n  | pic                      = Quorforged Docent of Victory shown.jpg\n  | picdesc                  = Quorforged Docent of Victory (level 36).png\n  | description              = {{Cyan|Time-Twisted}} version of {{Orange|Quorforged Docent of Battle}}\n\nThis docent belongs to the servants of the Quori that still run Stormreach to this day.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Crystal",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 36,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Will Save +13",
+      "tooltip": "Will Save +13: This item gives a +13 Resistance bonus to your Will saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Will_save",
+          "title": "Will save",
+          "text": "Will Save +13"
+        }
+      ]
+    },
+    {
+      "text": "Combat Mastery +12",
+      "tooltip": "Combat Mastery +12: +12 Enhancement bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combat_Mastery",
+          "title": "Combat Mastery",
+          "text": "Combat Mastery +12"
+        }
+      ]
+    },
+    {
+      "text": "Quality Fortification +41%",
+      "tooltip": "Quality Fortification +41%: +41% Quality bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Quality Fortification +41%"
+        }
+      ]
+    },
+    {
+      "text": "Chaos Absorption +24%",
+      "tooltip": "Chaos Absorption +24%: Passive: 24% Enhancement Bonus to Chaos Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Chaos Absorption +24%"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Drow Sage's Cowl",
+  "page_id": 68577,
+  "revision_id": 629657,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:39:06.050302+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Drow Sage's Cowl\n  | type                     = Helm\n  | basevalue                = 5,601pp\n  | weight                   = 0.10 lbs\n  | slot                     = Head\n  | durability               = 240\n  | material                 = Steel\n  | hardness                 = 34\n  | minlevel                 = 14\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 38\n  | quest                    = Toxic Treatment \n  | end reward               = \n  | chest                    = End chest\n  | enhancements             = \n* {{stat|wis|7}}\n* {{TrueSeeing}}\n* {{HealingAmp|29|h|Competence}}\n* {{Save|Will|7}}\n* {{CraftingEffects|Trace of Madness}}\n* {{Augment|Blue}}\n  | epic                     = no\n  | crafting                 = Altar of Insanity\n  | craftingupgrade          = \n  | description              = The wise are just as vulnerable as anyone else to having their thoughts twisted; they just believe more fervently that they were right all along.\n  | pic                      = Drow Sage's Cowl shown.jpg\n  | picdesc                  = Drow Sage's Cowl.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "Wisdom +7",
+      "tooltip": "Wisdom +7: This item makes the wearer more in tune with her surroundings, granting a +7 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +7"
+        }
+      ]
+    },
+    {
+      "text": "True Seeing",
+      "tooltip": "True Seeing: Passive: You gain the benefit of the spell True Seeing.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/True_Seeing_(enchantment)",
+          "title": "True Seeing (enchantment)",
+          "text": "True Seeing"
+        }
+      ]
+    },
+    {
+      "text": "Competence Healing Amplification +29",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +29 (Competence bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Competence Healing Amplification +29"
+        }
+      ]
+    },
+    {
+      "text": "Will Save +7",
+      "tooltip": "Will Save +7: This item gives a +7 Resistance bonus to your Will saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Will_save",
+          "title": "Will save",
+          "text": "Will Save +7"
+        }
+      ]
+    },
+    {
+      "text": "Trace of Madness",
+      "tooltip": "Trace of Madness: You can almost hear faint, panicked voices when this item is close to you. Perhaps the latent power of this item's hint of madness could be brought out by some catalyst.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Trace_of_Madness",
+          "title": "Trace of Madness",
+          "text": "Trace of Madness"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Head Boost +1 or +3",
+      "tooltip": "Mythic Head Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Head Boost"
+        }
+      ]
+    }
+  ]
+}

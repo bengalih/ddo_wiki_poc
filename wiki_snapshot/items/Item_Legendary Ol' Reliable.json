@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Ol' Reliable",
+  "page_id": 96468,
+  "revision_id": 677710,
+  "revision_timestamp": "2026-03-05T00:05:23Z",
+  "fetched_at": "2026-08-17T22:00:33.612620+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Ol' Reliable\n  | minlevel                 = 31\n  | type                     = Warhammer\n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = 5.20[1d8+2] + 15 Bludgeon, Good, Evil, Lawful, Chaotic, Magic\n  | crit                     = 20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | race                     = \n  | slot                     = \n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 375\n  | material                 = Wood\n  | hardness                 = 41\n  | cost                     = 12,401 pp 2 gp\n  | weight                   = 5 lbs\n  | released                 = Update 55\n  | quest                    = The Curse and the Captive Crustacean\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | mythic                   = yes\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Blast|Force|6}}\n* {{Aligned}}\n* {{Alacrity|Melee|15}}\n* {{Bane|human|6}}\n* {{Augment|red}}\n* {{Named item sets|The Legendary Dread Isle's Curse}}\n  | crafting                 = \n  | description              = This hefty wooden hammer is everything you need to repair and maintain a seaworthy vessel.\n  | pic                      = Ol' Reliable shown.jpg\n  | picdesc                  = Legendary-Ol'-Reliable.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Warhammer",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 31,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Force Blast 6",
+      "tooltip": "Force Blast 6: This weapon ripples with intense force, dealing 6d6 Force damage on a successful hit, and an additional 6d6 Force damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Force Blast 6"
+        }
+      ]
+    },
+    {
+      "text": "Aligned",
+      "tooltip": "Aligned: This weapon transmutes into a form that is able to bypass any alignment based Damage Reduction. (Chaotic, Good, Evil, Lawful)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Aligned",
+          "title": "Aligned",
+          "text": "Aligned"
+        }
+      ]
+    },
+    {
+      "text": "Melee Alacrity 15%",
+      "tooltip": "Melee Alacrity 15%: Gain 15% Enhancement bonus to Melee attack speed. Does not stack with the Haste spell.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Melee_Alacrity",
+          "title": "Melee Alacrity",
+          "text": "Melee Alacrity 15%"
+        }
+      ]
+    },
+    {
+      "text": "Human Bane 6",
+      "tooltip": "Human Bane 6: This weapon is attuned specifically to hunt those with diversity and ambition, dealing an additional 6d10 bane damage vs. Humans.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Human Bane 6"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Legendary Dread Isle's Curse",
+      "tooltip": "The Legendary Dread Isle's Curse: 5 Pieces Equipped:+15 Profane bonus to Melee and Ranged Power+25 Profane bonus to Universal Spellpower+30 Profane bonus to Physical Resistance Rating+2 Profane bonus to Spell DCs+2 Profane bonus to all Ability Scores+4 Profane bonus to Attack and DamageThe Isle of Dread beckons you...",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Legendary_Dread_Isle's_Curse",
+          "title": "Named item sets",
+          "text": "The Legendary Dread Isle's Curse"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

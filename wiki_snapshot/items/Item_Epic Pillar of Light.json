@@ -1,0 +1,139 @@
+{
+  "page_title": "Item:Epic Pillar of Light",
+  "page_id": 79364,
+  "revision_id": 630275,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:53:12.523999+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Pillar of Light\n  | damage                   = 3.60[1d6] + 6 Bludgeon, Good, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = <!-- Leave blank if not used-->\n  | UMD DC                   = <!-- Leave blank if not used-->\n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 23\n  | durability               = 310\n  | material                 = Wood\n  | hardness                 = 33\n  | cost                     = 9,200pp 2cp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 45\n  | quest                    = Setting the Wards: The Lower Cathedral\n  | chest                    = End Chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|i|6|23}}\n* {{Spelllore|Silver Flame |18}}\n* {{SpellPower|Power of the Silver Flame|122}}\n* {{Holy|5|1}}\n* {{Bonus Turning|Hallowed|11}}\n* {{Bonus Turning|Sacred|11}}\n* {{Augment|Orange}}\n* {{Clicky|Searing Light|5|3|3}}\n  | crafting                 = <!--Type of crafting-->\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | description              = This fiery staff blazes with the righteousness of the Silver Flame.\n  | pic                      = Pillar of Light shown.jpg\n  | picdesc                  = Epic Pillar of Light.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +23",
+      "tooltip": "Spellcasting Implement +23: Passive: +23 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +23"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Silver Flame Lore +18%",
+      "tooltip": "Silver Flame Lore +18: Passive: Your Positive, Light, and Alignment spells gain a 18% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Silver Flame Lore +18%"
+        }
+      ]
+    },
+    {
+      "text": "Power of the Silver Flame +122",
+      "tooltip": "Power of the Silver Flame +122: Passive: +122 Equipment bonus to Positive, Light, and Alignment Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power_of_the_Silver_Flame",
+          "title": "Power of the Silver Flame",
+          "text": "Power of the Silver Flame"
+        }
+      ]
+    },
+    {
+      "text": "Holy 5",
+      "tooltip": "Holy 5: This weapon is wielded by the pure to smite the wicked, dealing an additional 5d6 good damage on each hit. This effect makes the weapon good aligned. Evil characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Holy 5"
+        }
+      ]
+    },
+    {
+      "text": "Hallowed +11",
+      "tooltip": "Hallowed: An item with this quality assists only wearers who have the ability to turn undead. Hallowed items provide an +11 Enhancement bonus to the maximum Hit Dice of undead turned.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hallowed",
+          "title": "Hallowed",
+          "text": "Hallowed +11"
+        }
+      ]
+    },
+    {
+      "text": "Sacred +11",
+      "tooltip": "Sacred +11: An item with this quality assists only wearers who have the ability to turn undead. Sacred items provide an +11 Enhancement bonus to your effective level for Turning Undead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sacred",
+          "title": "Sacred",
+          "text": "Sacred +11"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Searing Light — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Searing LightCaster level: 5Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Searing_Light",
+          "title": "Searing Light",
+          "text": "Searing Light"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

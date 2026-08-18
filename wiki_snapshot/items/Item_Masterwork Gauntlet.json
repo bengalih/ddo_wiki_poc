@@ -1,0 +1,113 @@
+{
+  "page_title": "Item:Masterwork Gauntlet",
+  "page_id": 104368,
+  "revision_id": 633449,
+  "revision_timestamp": "2025-04-22T02:14:20Z",
+  "fetched_at": "2026-08-17T22:23:34.807684+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Masterwork Gauntlet\n  | type                     = Gloves\n  | cost                     = 12,801 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Hand\n  | durability               = 420\n  | bind                     = {{Bind|BtC|BoA}}\n  | material                 = Steel\n  | hardness                 = 52\n  | minlevel                 = 32\n  | released                 = Update 61\n  | revamped                 = <!-- Update ## -->\n  | quest                    = Fire Over Morgrave\n  | chest                    = end chest\n  | enhancements             = \n* {{Assassinate|7|insightful}}\n* {{Assassinate|3|Quality}}\n* {{Deception|Bluff=Improved}}\n* {{Skills|Dex|6}}\n* {{Augment|Green}}\n* {{Augment|Yellow}}\n* {{Named item sets|Legendary Forbidden Knowledge}}\n  | epic                     = no\n  | crafting                 = <!--Type of crafting. Leave blank if none. -->\n  | craftingupgrade          = <!-- can leave blank, though comment required if |crafting is used-->\n  | description              = This gauntlet is fabricated in a way to grant great skill while not hampering the fine dexterity of the user.\n  | pic                      = \n  | picdesc                  = Masterwork Gauntlet.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 32,
+  "enchantments": [
+    {
+      "text": "Insightful Assassinate +7",
+      "tooltip": "Insightful Assassinate +7: +7 Insight bonus to the DC of character's Assassinate attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Assassinate",
+          "title": "Assassinate",
+          "text": "Insightful Assassinate +7"
+        }
+      ]
+    },
+    {
+      "text": "Quality Assassinate +3",
+      "tooltip": "Quality Assassinate +3: +3 Quality bonus to the DC of character's Assassinate attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Assassinate",
+          "title": "Assassinate",
+          "text": "Quality Assassinate +3"
+        }
+      ]
+    },
+    {
+      "text": "Improved Deception",
+      "tooltip": "Improved Deception: This item makes your weapons hard to focus upon and thus provides a +5 enhancement bonus to Bluff checks. In addition, while using this item your weapons have a chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception#Improved_Deception",
+          "title": "Deception",
+          "text": "Improved Deception"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity Skills - Exceptional Bonus +6",
+      "tooltip": "Dexterity Skills - Exceptional Bonus +6: Passive +6 Exceptional bonus to the Dexterity based skills of: Balance, Hide, Move Silently, Open Lock, and Tumble",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Skills",
+          "title": "Skills",
+          "text": "Dexterity Skills - Exceptional Bonus +6"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Forbidden Knowledge",
+      "tooltip": "Legendary Forbidden Knowledge: 3 Pieces Equipped:+30 Profane bonus to PRR4 Pieces Equipped:+3 Profane bonus to all ability scores+4 Profane bonus to attack and damage5 Pieces Equipped:+15 Profane bonus to Melee and Ranged Power+25 Profane bonus to Universal Spell Power+3 Profane bonus to Spell DCs",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Legendary_Forbidden_Knowledge",
+          "title": "Named item sets",
+          "text": "Legendary Forbidden Knowledge"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Hands Boost +1 or +3",
+      "tooltip": "Mythic Hands Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Hands Boost"
+        }
+      ]
+    }
+  ]
+}

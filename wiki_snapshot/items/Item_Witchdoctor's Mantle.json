@@ -1,0 +1,40 @@
+{
+  "page_title": "Item:Witchdoctor's Mantle",
+  "page_id": 4910,
+  "revision_id": 635841,
+  "revision_timestamp": "2025-04-22T04:55:05Z",
+  "fetched_at": "2026-08-17T23:27:18.686094+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Witchdoctor's Mantle\n  | basevalue                = 405 pp\n  | weight                   = 0.1 lbs\n  | type                     = Cloak\n  | slot                     = Back\n  | durability               = 30\n  | material                 = Leather\n  | hardness                 = 6\n  | minlevel                 = 0\n  | quest                    = The Seal of Shan-To-Kor\n  | end reward               = yes\n  | bind                     = {{Bind|BtA|boa}}\n  | mythic                   = no\n  | enhancements             = \n* {{Save|W|2}}\n* {{Power|2}}\n  | description              = A ceremonial mantle worm by hobgoblin witchdoctors, providing them with great mystical insight.\n  | pic                      = Witchdoctor's Mantle Shown.jpg\n  | picdesc                  = Witchdoctor's Mantle.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "enchantments": [
+    {
+      "text": "Will Save +2",
+      "tooltip": "Will Save +2: This item gives a +2 Resistance bonus to your Will saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Will_save",
+          "title": "Will save",
+          "text": "Will Save +2"
+        }
+      ]
+    },
+    {
+      "text": "Power II",
+      "tooltip": "Power II: This item grants the wearer +20 maximum spell points. Favored Souls and Sorcerers gain double spell points from this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power",
+          "title": "Power",
+          "text": "Power II"
+        }
+      ]
+    }
+  ]
+}

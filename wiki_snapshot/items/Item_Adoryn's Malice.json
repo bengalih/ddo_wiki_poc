@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Adoryn's Malice",
+  "page_id": 7842,
+  "revision_id": 628167,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:01:41.518975+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Adoryn's Malice\n  | damage                   = 1.50[1d8] + 5 Bludgeon, Adamantine, Magic\n  | crit                     = 20 / x2\n  | type                     = Light Mace\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtC|boe}}\n  | durability               = 150\n  | material                 = Adamantine\n  | hardness                 = 30\n  | basevalue                = 4,300pp 5gp\n  | weight                   = 4 lbs\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|5}}\n* {{Bane|Construct|greater}}\n* {{mat|Adamantine}}\n* {{Augment|Red}}\n  | quest                    = The Twilight Forge\n  | chest                    = End Chest\n  | pic                      = Adoryn's Malice shown.jpg\n  | picdesc                  = Adoryn's Malice.png\n  | description              = This light mace was named after one of the workers that worked in the foundry of the Twilight Forge thousands of years ago. Adoryn was responsible for running the forge that birthed the [[Warforged Titan]]. Upon realizing what he had helped unleash on the world, he attempted to destroy it with this specially designed, handcrafted light mace.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Light Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Greater Construct Bane",
+      "tooltip": "Greater Construct Bane: A bane weapon excels at attacking one type or subtype of creature. Against Constructs, this weapon's effective enhancement bonus is +4 better than its normal enhancement bonus. It deals an extra 3 to 18 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Greater Construct Bane"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

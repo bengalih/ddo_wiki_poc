@@ -1,0 +1,151 @@
+{
+  "page_title": "Item:Marro, the Bone of Demons",
+  "page_id": 104374,
+  "revision_id": 633431,
+  "revision_timestamp": "2025-04-22T02:13:12Z",
+  "fetched_at": "2026-08-17T22:23:09.700461+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Marro, the Bone of Demons\n  | prof                     = Simple\n  | sentience                = Yes\n  | damage                   = 5.40[1d6+3] + 15 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | class                    = Bludgeoning\n  | race                     = none\n  | minlevel                 = 32\n  | reqtrait                 = <!-- Leave blank if not used-->\n  | UMD DC                   = <!-- Leave blank if not used-->\n  | hand                     = One-handed\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 370\n  | material                 = Adamantine\n  | hardness                 = 42\n  | cost                     = 12,800 pp 2 cp\n  | weight                   = 3 lbs\n  | released                 = Update 61\n  | revamped                 = <!-- Update ## -->\n  | quest                    = Fire Over Morgrave\n  | chest                    = end chest\n  | epic                     = no <!--Replace with non-epic version name if epic crafted item.-->\n  | legendary                = no <!--Replace with epic version name if legendary crafted item.-->\n  | enhancements             = \n* {{Enhancement bonus|i|15|32}}\n* {{SpellPower|Power of the Firestorm|158}}\n* {{Efficient Metamagic|Embolden|2}}\n* {{Efficient Metamagic|Intensify|2}}\n* {{Elemental Spell Power|Greater}}\n* {{Planar Searing}}\n* {{Augment|Orange}}\n* {{Augment|Purple}}\n* {{Named item sets|Legendary Forbidden Knowledge}}\n  | crafting                 = Esoteric Table\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | description              = The power inscribed on a bone, made manifest.\n  | pic                      = Marro, the Bone of Demons shown.jpg\n  | picdesc                  = Marro, the Bone of Demons.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 32,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +32",
+      "tooltip": "Spellcasting Implement +32: Passive: +32 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +32"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Power of the Firestorm +158",
+      "tooltip": "Power of the Firestorm +158: Passive: +158 Equipment bonus to Fire and Electric Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power_of_the_Firestorm",
+          "title": "Power of the Firestorm",
+          "text": "Power of the Firestorm"
+        }
+      ]
+    },
+    {
+      "text": "Efficient Metamagic - Embolden II",
+      "tooltip": "Efficient Metamagic - Embolden II: The additional spell point cost for using the Embolden Metamagic feat is reduced by 2 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Embolden II"
+        }
+      ]
+    },
+    {
+      "text": "Efficient Metamagic - Intensify II",
+      "tooltip": "Efficient Metamagic - Intensify II: The additional spell point cost for using the Intensify Metamagic feat is reduced by 2 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Intensify II"
+        }
+      ]
+    },
+    {
+      "text": "Greater Elemental Spell Power",
+      "tooltip": "Greater Elemental Spell Power: Harnessing a small amount of the power and potential of the raw elements, this item gives you a +100 bonus to your maximum spell points. This stacks with all other bonuses except Greater Elemental Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Greater_Elemental_Spell_Power",
+          "title": "Greater Elemental Spell Power",
+          "text": "Greater Elemental Spell Power"
+        }
+      ]
+    },
+    {
+      "text": "Planar Searing",
+      "tooltip": "Planar Searing: This weapon harbors a burn unlike anything you've ever seen - As if otherworldly power has started to change it forever.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Planar_Searing",
+          "title": "Planar Searing",
+          "text": "Planar Searing"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Forbidden Knowledge",
+      "tooltip": "Legendary Forbidden Knowledge: 3 Pieces Equipped:+30 Profane bonus to PRR4 Pieces Equipped:+3 Profane bonus to all ability scores+4 Profane bonus to attack and damage5 Pieces Equipped:+15 Profane bonus to Melee and Ranged Power+25 Profane bonus to Universal Spell Power+3 Profane bonus to Spell DCs",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Legendary_Forbidden_Knowledge",
+          "title": "Named item sets",
+          "text": "Legendary Forbidden Knowledge"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

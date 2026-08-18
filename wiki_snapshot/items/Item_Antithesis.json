@@ -1,0 +1,92 @@
+{
+  "page_title": "Item:Antithesis",
+  "page_id": 8195,
+  "revision_id": 686685,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:04:01.876726+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Antithesis\n  | type                     = Robe\n  | feat                     = Cloth\n  | ac                       = +6\n  | durability               = 125\n  | material                 = Cloth\n  | hardness                 = 14\n  | basevalue                = 4805.5 pp\n  | weight                   = 0 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | minlevel                 = 12\n  | quest                    = Inferno of the Damned\n  | chest                    = End Chest\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|6}}\n* {{ProtectionBonus|4}}\n* {{Resistance|4}}\n* {{Guard|Fire|ii}}\n* {{Guard|Ice|ii}}\n* {{Augment|Colorless}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Antithesis shown.jpg\n  | picdesc                  = Antithesis.png\n  | description              = This robe's design has stark points of contrast, some areas looking peaceful and serene, while others appear as visages of infernal realms.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +6",
+      "tooltip": "Armor Bonus +6: This item surrounds the wearer with an invisible but tangible field of force, granting +6 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +6"
+        }
+      ]
+    },
+    {
+      "text": "Protection +4",
+      "tooltip": "Protection +4: Passive: +4 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +4"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +4",
+      "tooltip": "Resistance +4: Passive: +4 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +4"
+        }
+      ]
+    },
+    {
+      "text": "Fire Guard II",
+      "tooltip": "Fire Guard II: When Hit in Melee: Deals 2 to 8 Fire damage to your attacker.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Guard",
+          "title": "Fire Guard",
+          "text": "Fire Guard II"
+        }
+      ]
+    },
+    {
+      "text": "Ice Guard II",
+      "tooltip": "Ice Guard II: When Hit in Melee: Deals 2 to 8 Cold damage to your attacker.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ice_Guard",
+          "title": "Ice Guard",
+          "text": "Ice Guard II"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

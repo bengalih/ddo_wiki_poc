@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Bulwark of True Law",
+  "page_id": 98790,
+  "revision_id": 628830,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:16:54.799899+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Bulwark of True Law\n  | minlevel                 = 16\n  | type                     = Heavy Armor\n  | feat                     = Heavy\n  | ac                       = +20\n  | maxdexbonus              = 2\n  | acp                      = -5\n  | asf                      = 35%\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 280\n  | material                 = Steel\n  | hardness                 = 27\n  | basevalue                = 6,550 pp\n  | weight                   = 50 lbs\n  | released                 = Update 57\n  | quest                    = Order in the Court!\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Stat|Charisma|1|Quality}}\n* {{Absorption|Law|17}}\n* {{Spell Resistance|23}}\n* {{Sheltering|20|Enhancement|Physical}}\n* {{Embodiment of Law}}\n* {{Augment|Green}}\n  | crafting                 = \n  | description              = A dedication to the best of us.\n  | pic                      = Bulwark of True Law shown.jpg\n  | picdesc                  = Bulwark of True Law.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Heavy Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Quality Charisma +1",
+      "tooltip": "Quality Charisma +1: This item makes the wearer have more flair, granting a +1 Quality bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Quality Charisma +1"
+        }
+      ]
+    },
+    {
+      "text": "Law Absorption +17%",
+      "tooltip": "Law Absorption +17%: Passive: 17% Enhancement Bonus to Law Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Law Absorption +17%"
+        }
+      ]
+    },
+    {
+      "text": "Spell Resistance +23",
+      "tooltip": "Spell Resistance +23: +23 Enhancement bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Spell Resistance +23"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +20",
+      "tooltip": "Physical Sheltering +20: +20 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +20"
+        }
+      ]
+    },
+    {
+      "text": "Embodiment of Law",
+      "tooltip": "Embodiment of Law: Chaotic aligned characters equipping this item suffer a temporary negative level until the item is removed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Embodiment_of_Law_(enchantment)",
+          "title": "Embodiment of Law (enchantment)",
+          "text": "Embodiment of Law"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

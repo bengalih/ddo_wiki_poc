@@ -1,0 +1,70 @@
+{
+  "page_title": "Item:Arcane Necklace",
+  "page_id": 9737,
+  "revision_id": 628288,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:04:23.902317+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Arcane Necklace\n  | type                     = Necklace\n  | class                    = Jewelry\n  | basevalue                = 405pp\n  | weight                   = 0.10 lbs\n  | slot                     = Neck\n  | durability               = 30\n  | material                 = Steel\n  | hardness                 = 12\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = The Salvation of Korthos\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Named item sets|Arcane Mind}} \n** (Note: This set description is incorrect. It gives 24 [[Potency]], not 24 [[Universal Spell Power]])\n* {{Stat|INT|1}}\n* {{Stat|CHA|1}}\n  | pic                      = Necklace Generic.png\n  | picdesc                  = Arcane Necklace.png\n  | description              = This necklace is infused with the spirit of a clever archmage.\n  | tips                     = The other half of this set is the [[Arcane Goggles]] from [[Sacrifices]]. This necklace can also be gained as an and reward from [[Phiarlan Carnival]].\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "enchantments": [
+    {
+      "text": "Arcane Mind",
+      "tooltip": "Arcane Mind: +24 Equipment bonus to your Universal Spell Power.",
+      "children": [
+        {
+          "text": "(Note: This set description is incorrect. It gives 24 Potency, not 24 Universal Spell Power)",
+          "tooltip": null,
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Potency",
+              "title": "Potency",
+              "text": "Potency"
+            },
+            {
+              "target": "/page/Universal_Spell_Power",
+              "title": "Universal Spell Power",
+              "text": "Universal Spell Power"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Arcane_Mind",
+          "title": "Named item sets",
+          "text": "Arcane Mind"
+        }
+      ]
+    },
+    {
+      "text": "Intelligence +1",
+      "tooltip": "Intelligence +1: This item focuses the power of the wearer's mind, granting a +1 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +1"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +1",
+      "tooltip": "Charisma +1: This item makes the wearer have more flair, granting a +1 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +1"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Nightmother's Repeating Heavy Crossbow",
+  "page_id": 83284,
+  "revision_id": 666408,
+  "revision_timestamp": "2025-11-19T16:44:40Z",
+  "fetched_at": "2026-08-17T22:32:13.687068+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Nightmother's Repeating Heavy Crossbow\n  | damage                   = 4.80[1d10+2] + 15 Pierce, Evil, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Repeating Heavy Crossbow\n  | class                    = Ranged\n  | prof                     = Exotic\n  | hand                     = Ranged\n  | damagemod                = DEX\n  | attackmod                = DEX\n  | durability               = 380\n  | material                 = Steel\n  | hardness                 = 39\n  | minlevel                 = 29\n  | basevalue                = 11,640 pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtA|BoA}} from chest; {{Bind|BtC|BoA}} otherwise\n  | released                 = Update 37\n  | revamped                 = Update 76\n  | quest                    = Blue Water Inn\n  | turn in                  = 80 [[Vistani Totem]]s\n  | enhancements             = \n* {{Enhancement_bonus|w|15}}\n* {{Mother Night's Embrace|Legendary}}\n* {{Bane|Human|6}}\n* {{Vampirism|2}}\n* {{Chilling|6}}\n* {{Augment|Orange}}\n  | description              = Forged in the Demiplane of Dread, this weapon has been hallowed in the name of Mother Night. It holds ineffable power... and something else?\n  | pic                      = Macabre Repeating Heavy Crossbow Shown.jpg\n  | picdesc                  = Nightmother's Repeating Heavy Crossbow.png\n  | tips                     = This and similar weapons are available from multiple sources:\n* For free, one per life, from [[Tobar the Smith]] in [[The Land of Barovia]]. BtC.\n* Purchased for [[Vistani Totem]]s in [[Blue Water Inn]]. BtC.\n* Looted in [[Mists of Ravenloft|Ravenloft]]'s 3rd story arc \"The Light of the Land\" quests. BtA + eligible for Mythic / Reaper bonuses.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Repeating Heavy Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Mother Night's Embrace",
+      "tooltip": "Mother Night's Embrace: This weapon is unholy and imbued by one of the two deities of Barovia - the Mother Night. This weapon is evil, dealing an additional 6d6 evil damage on hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mother_Night%27s_Embrace",
+          "title": "Mother Night's Embrace",
+          "text": "Mother Night's Embrace"
+        }
+      ]
+    },
+    {
+      "text": "Human Bane 6",
+      "tooltip": "Human Bane 6: This weapon is attuned specifically to hunt those with diversity and ambition, dealing an additional 6d10 bane damage vs. Humans.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Human Bane 6"
+        }
+      ]
+    },
+    {
+      "text": "Vampirism 2",
+      "tooltip": "Vampirism 2: This weapon thirsts for the blood of your enemies, healing you for +2d2 hit points with each hit.Note: internal cooldown of 1 second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Vampirism 2"
+        }
+      ]
+    },
+    {
+      "text": "Chilling 6",
+      "tooltip": "Chilling 6: This effect causes the edges of this weapon to become frozen to the touch, dealing 6d6 Ice damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Chilling",
+          "title": "Chilling",
+          "text": "Chilling 6"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

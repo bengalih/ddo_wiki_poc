@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Elder's Focus",
+  "page_id": 12523,
+  "revision_id": 629716,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:41:44.401487+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Elder's Focus\n  | type                     = Necklace\n  | slot                     = Neck\n  | durability               = 50\n  | material                 = Steel\n  | hardness                 = 14\n  | minlevel                 = 7\n  | bind                     = {{Bind|BtA|BoA}}\n  | basevalue                = 1,605pp\n  | weight                   = 0.10 lbs\n  | revamped                 = Update 36\n  | released                 = Update 6\n  | quest                    = The Last Stand\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Efficient Metamagic|Extend|1}}\n* {{Skills|Spellcraft|10}}\n* {{Wizardry|60}}\n* {{Named item sets|Elder's Knowledge}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Elder's Focus\n  | description              = Tribal drow elders use these charms to focus their minds and recall past events. They are passed down through the generations but few of them remain in existence.\n  | pic                      = Necklace Generic Silver.png\n  | picdesc                  = Elder's Focus.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Efficient Metamagic - Extend I",
+      "tooltip": "Efficient Metamagic - Extend I: The additional spell point cost for using the Extend Metamagic feat is reduced by 1 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Extend I"
+        }
+      ]
+    },
+    {
+      "text": "Spellcraft +10",
+      "tooltip": "Spellcraft +10: Passive: +10 Competence bonus to the Spellcraft skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcraft",
+          "title": "Spellcraft",
+          "text": "Spellcraft +10"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry +60",
+      "tooltip": "Wizardry +60: +60 Enhancement bonus to spell points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry +60"
+        }
+      ]
+    },
+    {
+      "text": "Elder's Knowledge",
+      "tooltip": "Elder's Knowledge: +2% Artifact bonus to spell critical chance. 5% Legendary bonus to spell crit damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Elder's_Knowledge",
+          "title": "Named item sets",
+          "text": "Elder's Knowledge"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Epic Shimmering Pendant",
+  "page_id": 12647,
+  "revision_id": 630413,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:55:44.319566+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Epic Shimmering Pendant\n  | type                     = Necklace\n  | slot                     = Neck\n  | durability               = 210\n  | material                 = Gold\n  | hardness                 = 22\n  | basevalue                = 8,005pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtA|BoA}}\n  | epic                     = Shimmering Pendant\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Suggestion (spell)|20|3|label=Suggestion}}\n* {{Stat|CHA|+9}}\n* {{Skills|Diplo|+17}}\n* {{Skills|Perform|+17}}\n* {{Skills|UMD|+3}}\n* {{Augment|Yellow}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Shimmering Pendant\n  | description              = This beautiful necklace immediately makes the wearer appear more attractive and confident.\n  | pic                      = Necklace Generic Gray.png\n  | picdesc                  = Epic Shimmering Pendant.png\n}}\n[[Category:Phiarlan Carnival epic items]]",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Suggestion — 3 Charges (Recharged/Day:3)",
+      "tooltip": "SuggestionCaster level: 20Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Suggestion_(spell)",
+          "title": "Suggestion (spell)",
+          "text": "Suggestion"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +9",
+      "tooltip": "Charisma +9: This item makes the wearer have more flair, granting a +9 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +9"
+        }
+      ]
+    },
+    {
+      "text": "Diplomacy +17",
+      "tooltip": "Diplomacy +17: Passive: +17 Competence bonus to the Diplomacy skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Diplomacy",
+          "title": "Diplomacy",
+          "text": "Diplomacy +17"
+        }
+      ]
+    },
+    {
+      "text": "Perform +17",
+      "tooltip": "Perform +17: Passive: +17 Competence bonus to the Perform skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Perform",
+          "title": "Perform",
+          "text": "Perform +17"
+        }
+      ]
+    },
+    {
+      "text": "Use Magic Device +3",
+      "tooltip": "Use Magic Device +3: Passive: +3 Competence bonus to the Use Magic Device skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Use_Magic_Device",
+          "title": "Use Magic Device",
+          "text": "Use Magic Device +3"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

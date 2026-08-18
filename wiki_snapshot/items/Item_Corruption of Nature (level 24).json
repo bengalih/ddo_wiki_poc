@@ -1,0 +1,114 @@
+{
+  "page_title": "Item:Corruption of Nature (level 24)",
+  "page_id": 26437,
+  "revision_id": 629170,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:26:44.638515+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Rune Arm\n  | name                     = [[Corruption of Nature]]\n  | reqtrait                 = [[Rune Arm Use|Artificer Rune Arm Use]]\n  | minlevel                 = 24\n  | durability               = 275\n  | material                 = Wood\n  | hardness                 = 25\n  | quest                    = Outbreak\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | basevalue                = 14,850 pp\n  | weight                   = 0.25 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | food                     = 1\n  | spell                    = Acid Shot\n  | target                   = Foe, Directional, Breakable\n  | school                   = Evocation\n  | sr                       = no\n  | spell desc               = Fires a missile of acid that corrodes your enemies.  At higher charge levels multiple projectiles are fired in a spray. Opponents struck by a projectile receive a Fortitude save for half damage.\n  | max charge               = 5\n  | imbue                    = Acid V\n  | imbue die                = 2d10\n  | imbue dmg                = acid\n  | enhancements             = \n* [[Acid Shot]]\n* {{SpellPower|Corrosion|114}}\n* {{SpellPower|Potency|76}}\n* {{Rough Hide|6}}\n* {{Stat|INT|+3|Insightful}}\n  | craftable rune arm       = no\n  | crafting                 = <!--none-->\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | pic                      = Acid Shot icon.png\n  | picdesc                  = Corruption of Nature (Level 24).png\n  | description              = This magical device, found in Eveningstar's hospital, seems to somehow have been altered by the magical plague afflicting the villagers. When worn by an Artificer capable of channeling energy through it, it infects them with a benign version of the disease, temporarily toughening their skin for as long as the rune arm is worn.\n  | tips                     = This is one of the few rune arms in game that does not [[Bind]] on Acquire, and may be found in the Auction House and other vendors. Others are [[Archaic Device]], [[The Turmoil Within]], [[Strinati's Hand Cannon]], and [[Hand of the Tombs]].\n}}",
+  "item_template": "Named item",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "Maximum Charge Tier: V",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maximum_Charge_Tier",
+          "title": "Maximum Charge Tier",
+          "text": "Maximum Charge Tier"
+        }
+      ]
+    },
+    {
+      "text": "Acid Shot",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Acid_Shot",
+          "title": "Acid Shot",
+          "text": "Acid Shot"
+        }
+      ]
+    },
+    {
+      "text": "Corrosion +114",
+      "tooltip": "Corrosion +114: Passive: +114 Equipment bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Corrosion +114"
+        }
+      ]
+    },
+    {
+      "text": "Potency +76",
+      "tooltip": "Potency +76: Passive: +76 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +76"
+        }
+      ]
+    },
+    {
+      "text": "Rough Hide +6",
+      "tooltip": "Rough Hide +6: This item fuses with your body and toughens your skin, providing a +6 Primal bonus to your natural armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rough_Hide",
+          "title": "Rough Hide",
+          "text": "Rough Hide +6"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Intelligence +3",
+      "tooltip": "Insightful Intelligence +3: This item focuses the power of the wearer's mind, granting a +3 Insight bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Insightful Intelligence +3"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    },
+    {
+      "text": "Rune Arm Imbue: Acid V",
+      "tooltip": "Rune Arm Imbue: Acid V: Wearing this Rune Arm will imbue any weapon you wield, dealing 2d10 points of acid damage per hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rune_Arm_Imbue",
+          "title": "Rune Arm Imbue",
+          "text": "Rune Arm Imbue"
+        }
+      ]
+    }
+  ]
+}

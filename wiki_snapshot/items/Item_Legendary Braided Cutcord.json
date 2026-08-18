@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Legendary Braided Cutcord",
+  "page_id": 66474,
+  "revision_id": 631882,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:33:23.172629+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Legendary Braided Cutcord\n  | type                     = Belt\n  | slot                     = Waist\n  | durability               = 390\n  | material                 = Steel\n  | hardness                 = 49\n  | weight                   = 0.10 lbs\n  | basevalue                = 11,620 pp\n  | minlevel                 = 29\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 37\n  | quest                    = The Final Vintage\n  | chest                    = End chest\n  | crafting                 = \n  | enhancements             = \n* {{Dodge|3|Quality|prefix=Quality}}\n* {{Concealment|Blurry}}\n* {{Stat|Dexterity|13}}\n* {{Stat|Dexterity|3|Quality}}\n* {{Augment|Green}}\n* {{Named item sets|Silent Avenger Set (Legendary)}}\n  | description              = The braid of this belt is formed by sharpened wire.\n  | tips                     = \n  | pic                      = Belt Generic Faith.png\n  | picdesc                  = Legendary Braided Cutcord.png\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Quality Dodge +3%",
+      "tooltip": "Quality Dodge +3%: +3% Quality bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Quality Dodge +3%"
+        }
+      ]
+    },
+    {
+      "text": "Blurry",
+      "tooltip": "Blurry: Equipping this item causes you to become slightly blurry. Attacks from enemies have a 20% chance to miss you due to concealment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blurry",
+          "title": "Blurry",
+          "text": "Blurry"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +13",
+      "tooltip": "Dexterity +13: This item makes the wearer more nimble and dexterous, granting a +13 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +13"
+        }
+      ]
+    },
+    {
+      "text": "Quality Dexterity +3",
+      "tooltip": "Quality Dexterity +3: This item makes the wearer more nimble and dexterous, granting a +3 Quality bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Quality Dexterity +3"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Silent Avenger Set (Legendary)",
+      "tooltip": "Silent Avenger Set (Legendary): 3 Pieces Equipped:You gain a 15% Artifact Bonus to Doublestrike and Doubleshot.You gain +3 Artifact Bonus to Sneak Attack Dice.You gain a 30% Artifact Bonus to Fortification Bypass.You gain +15% Artifact Bonus to Damage vs. Helpless opponents.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Silent_Avenger_Set_(Legendary)",
+          "title": "Named item sets",
+          "text": "Silent Avenger Set (Legendary)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Belt Boost +1 or +3",
+      "tooltip": "Mythic Belt Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Belt Boost"
+        }
+      ]
+    }
+  ]
+}

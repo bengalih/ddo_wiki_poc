@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Bracers of Assistance",
+  "page_id": 9945,
+  "revision_id": 628715,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:14:15.662548+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Bracers of Assistance\n  | type                     = Bracers\n  | basevalue                = 120 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Wrist\n  | quest                    = The Cannith Crystal\n  | end reward               = yes\n  | durability               = 20\n  | material                 = Leather\n  | hardness                 = 6\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{clicky|Aid|3|1}} \n  | description              = This pair of simple leather bracers glow faintly of magic.\n  | pic                      = Bracers Generic.png\n  | picdesc                  = Bracers of Assistance.png\n  | tips                     = These are Caster Level 3, so always add 11 temporary hit points. These can be used to revive an [[unconscious]] party member.\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "enchantments": [
+    {
+      "text": "Aid — 1 Charges (Recharged/Day:1)",
+      "tooltip": "AidCaster level: 3Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Aid",
+          "title": "Aid",
+          "text": "Aid"
+        }
+      ]
+    }
+  ]
+}

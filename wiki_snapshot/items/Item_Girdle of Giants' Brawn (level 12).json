@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Girdle of Giants' Brawn (level 12)",
+  "page_id": 11365,
+  "revision_id": 649169,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:10:51.436964+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Girdle of Giants' Brawn}}\n  | type                     = Belt\n  | class                    = Clothing\n  | basevalue                = 4,820 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 130 \n  | material                 = Leather \n  | hardness                 = 22 \n  | bind                     = {{Bind|BtC|BoE}}\n  | minlevel                 = 12\n  | released                 = Update 17\n  | quest                    = Madstone Crater\n  | chest                    = end chest (normal)\n  | enhancements             = \n* {{Stat|STR|6}}\n* {{Stat|INT|-3}}\n* {{Augment|Yellow}}\n  | description              = While this girdle is incredibly difficult to lift, once it is around your waist, its weight seems to drop in half.\n  | pic                      = Belt Generic Gold.png\n  | picdesc                  = Girdle of Giants' Brawn (Level 12).png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Strength +6",
+      "tooltip": "Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +6"
+        }
+      ]
+    },
+    {
+      "text": "Intelligence -3",
+      "tooltip": "Intelligence -3: This item makes the wearer slow-witted, granting -3 Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence -3"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Belt Boost +1 or +3",
+      "tooltip": "Mythic Belt Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Belt Boost"
+        }
+      ]
+    }
+  ]
+}

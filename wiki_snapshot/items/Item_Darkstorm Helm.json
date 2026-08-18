@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Darkstorm Helm",
+  "page_id": 21284,
+  "revision_id": 629316,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:30:21.113436+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Darkstorm Helm\n  | slot                     = Head\n  | type                     = Helm\n  | durability               = 170\n  | material                 = Gold\n  | hardness                 = 22\n  | basevalue                = 6405 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 16\n  | released                 = Update 13\n  | quest                    = Servants of the Overlord\n  | chest                    = locked chest, end chest\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | enhancements             = \n* {{Clicky|Call Lightning Storm|16|1}} \n* {{Spelllore|Lightning|14}}\n* {{Spelllore|Void|14}}\n* {{SpellPower|Magnetism|97}}\n* {{SpellPower|Nullification|97}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Darkstorm Helm\n  | description              = Helms such as this, forged from some dark and glittering metal, are worn by drow spellcasters both arcane and divine to heighten the power of their spells. This helm can channel enough energy to start a brief thunderstorm.\n  | pic                      = Deific Diadem shown.jpg‎\n  | picdesc                  = Darkstorm Helm.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Call Lightning Storm — 1 Charges (Recharged/Day:1)",
+      "tooltip": "Call Lightning StormCaster level: 16Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Call_Lightning_Storm",
+          "title": "Call Lightning Storm",
+          "text": "Call Lightning Storm"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Lore +14%",
+      "tooltip": "Lightning Lore +14: Passive: Your Electricity spells gain a 14% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore +14%"
+        }
+      ]
+    },
+    {
+      "text": "Void Lore +14%",
+      "tooltip": "Void Lore +14: Passive: Your Negative Energy and Poison spells gain a 14% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Void Lore +14%"
+        }
+      ]
+    },
+    {
+      "text": "Magnetism +97",
+      "tooltip": "Magnetism +97: Passive: +97 Equipment bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Magnetism +97"
+        }
+      ]
+    },
+    {
+      "text": "Nullification +97",
+      "tooltip": "Nullification +97: Passive: +97 Equipment bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Nullification +97"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Head Boost +1 or +3",
+      "tooltip": "Mythic Head Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Head Boost"
+        }
+      ]
+    }
+  ]
+}

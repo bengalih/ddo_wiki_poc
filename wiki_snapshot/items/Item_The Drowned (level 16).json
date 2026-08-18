@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:The Drowned (level 16)",
+  "page_id": 82179,
+  "revision_id": 691037,
+  "revision_timestamp": "2026-07-01T13:50:04Z",
+  "fetched_at": "2026-08-17T23:13:37.385237+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = {{Item|The Drowned}}\n  | dmg                      = [1d4] + 0 Force\n  | crit                     = 19-20 / x2\n  | minlevel                 = 16\n  | type                     = Orb\n  | prof                     = Magical Training\n  | hand                     = Ranged\n  | class                    = Ranged\n  | attackmod                = INT\n  | damagemod                = CHA\n  | sb                       = +0\n  | durability               = 225\n  | material                 = Gem\n  | hardness                 = 36\n  | basevalue                = 6,401 pp 5 gp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|silver|750}}{{CCi|golden|300}}{{CCi|ruby|30}}{{CCi|green|600}} at [[Euphonia's Barter Box]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|oi|5|16}}\n* {{SpellPower|Glaciation|48|Insightful}}\n* {{Spelllore|Ice|14}}\n* {{Spell Focus|Evocation|2|Insightful}}\n* {{Fortification|48|Insightful}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Down, down, down they sink.\n  | pic                      = The Drowned shown.jpg\n  | picdesc                  = The Drowned (level 16).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Magical Training",
+  "material": "Gem",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +16",
+      "tooltip": "Spellcasting Implement +16: Passive: +16 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +16"
+        }
+      ]
+    },
+    {
+      "text": "+5 Orb Bonus",
+      "tooltip": "+5 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +5 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Orb Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Glaciation +48",
+      "tooltip": "Insightful Glaciation +48: Passive: +48 Insightful bonus to Cold Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Glaciation",
+          "title": "Glaciation",
+          "text": "Insightful Glaciation +48"
+        }
+      ]
+    },
+    {
+      "text": "Ice Lore +14%",
+      "tooltip": "Ice Lore +14: Passive: Your Cold spells gain a 14% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Ice Lore +14%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Evocation Focus +2",
+      "tooltip": "Insightful Evocation Focus +2: +2 Insight bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Evocation Focus +2"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Fortification +48%",
+      "tooltip": "Insightful Fortification +48%: +48% Insight bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Insightful Fortification +48%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

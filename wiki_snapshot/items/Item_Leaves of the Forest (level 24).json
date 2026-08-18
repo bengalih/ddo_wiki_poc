@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Leaves of the Forest (level 24)",
+  "page_id": 26502,
+  "revision_id": 650835,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:28:58.894734+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Leaves of the Forest}}\n  | type                     = Scalemail\n  | feat                     = Medium\n  | race                     = \n  | minlevel                 = 24\n  | ac                       = +18\n  | maxdexbonus              = 10\n  | acp                      = -2\n  | asf                      = 20%\n  | durability               = 328\n  | material                 = Darkwood\n  | hardness                 = 33\n  | basevalue                = 9,605pp\n  | weight                   = 15 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | released                 = Update 15\n  | quest                    = Thorn and Paw\n  | chest                    = End chest (Epic Elite)\n  | enhancements             = \n* {{Enhancement bonus|a|7}}\n* {{Fortification|100}}\n* {{Stat|CON|+3|Insightful}}\n* {{Rough Hide|6}}\n* {{Fortification|0|50}}\n* {{Stat|WIS|+3|Insightful}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Rather then being made of metal, the scales and plates of this mail are instead fashioned from rare darkwood, a natural material that, when properly treated, is as hard as steel.\n  | pic                      = Leaves of the Forest shown.jpg\n  | picdesc                  = Leaves of the Forest (Level 24).png\n  | notes                    = \n  | dpl table listing        = Leaves of the Forest\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Darkwood",
+  "armor_type": "Scalemail",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +100%",
+      "tooltip": "Fortification +100%: +100% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +100%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Constitution +3",
+      "tooltip": "Insightful Constitution +3: This item gives the wearer improved health, granting a +3 Insight bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Insightful Constitution +3"
+        }
+      ]
+    },
+    {
+      "text": "Rough Hide +6",
+      "tooltip": "Rough Hide +6: This item fuses with your body and toughens your skin, providing a +6 Primal bonus to your natural armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rough_Hide",
+          "title": "Rough Hide",
+          "text": "Rough Hide +6"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Fortification (+50%)",
+      "tooltip": "Exceptional Fortification (+50%): This item produces a magical force that protects vital areas of the wearer more effectively. When a critical hit or sneak attack is scored on the wearer, there is a +50% chance that the critical hit or sneak attack is negated and the damage is instead rolled normally. This ability is considered an Insight bonus when determining stacking with other sources of fortification",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Exceptional Fortification (+50%)"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Wisdom +3",
+      "tooltip": "Insightful Wisdom +3: This item makes the wearer more in tune with her surroundings, granting a +3 Insight bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Insightful Wisdom +3"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

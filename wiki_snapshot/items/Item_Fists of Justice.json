@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Fists of Justice",
+  "page_id": 39434,
+  "revision_id": 630869,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:05:09.458142+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Fists of Justice\n  | type                     = Gloves\n  | race                     = Sun Elf\n  | slot                     = Hand\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Stat|STR|+5}}\n* {{Attack Bonus|2}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Gloves Generic Fabricator.png\n  | picdesc                  = Fists_of_Justice.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Strength +5",
+      "tooltip": "Strength +5: This item gives the wearer the power of Ogre Strength, granting a +5 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +5"
+        }
+      ]
+    },
+    {
+      "text": "Attack Bonus +2",
+      "tooltip": "Attack Bonus +2: Provides a +2 competence bonus to your attack rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Attack_bonus",
+          "title": "Attack bonus",
+          "text": "Attack Bonus +2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:Barnacled Buckler",
+  "page_id": 46326,
+  "revision_id": 628429,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:07:56.161649+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Barnacled Buckler\n  | type                     = Buckler\n  | prof                     = General\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 24\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +9\n  | maxdexbonus              = \n  | dr                       = 11\n  | acp                      = 0\n  | asf                      = 0\n  | ap                       = \n  | dmg                      = 3.80[2d6] + 7\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attmod                   = STR\n  | damagemod                = STR\n  | durability               = 315\n  | material                 = Densewood\n  | hardness                 = 34\n  | basevalue                = 9,902pp\n  | weight                   = 5 lbs\n  | released                 = Update 22\n  | quest                    = Old Tomb, New Tenants\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | enhancements             = \n* {{Enhancement bonus|a|7}}\n* {{Riposte|viii}}\n* {{Elemental Resistance|elemental|10|insight}}\n* {{Guard|Corrosive Salt}}\n* {{Guard|Vulnerability}}\n* {{Sheltering|12}}\n* {{Augment|Purple}}\n  | description              = What strange odyssey in the Thunder Sea granted this buckler its remarkable powers may ever be secrets of the ocean's angry waves.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Barnacled Buckler shown.jpg\n  | picdesc                  = Barnacled Buckler.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Densewood",
+  "item_type": "Buckler",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Riposte VIII",
+      "tooltip": "Riposte VIII: When Missed by an attack: Deals 8 to 32 damage to your attacker. Passive: +4 Insight bonus to Armor Class, +4 Insight bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Riposte",
+          "title": "Riposte",
+          "text": "Riposte VIII"
+        }
+      ]
+    },
+    {
+      "text": "Competence Elemental Resistance - 10",
+      "tooltip": "Competence Elemental Resistance - 10: This item provides a +10 Insight bonus to your Acid, Cold, Fire, and Electrical resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Elemental_Resistance#Inherent_Resistances",
+          "title": "Elemental Resistance",
+          "text": "Competence Elemental Resistance - 10"
+        }
+      ]
+    },
+    {
+      "text": "Corrosive Salt Guard",
+      "tooltip": "Corrosive Salt Guard: This item stores a caustic, insatiable power deep within. When the wearer of this item is successfully attacked in melee, this power can come to the surface in the form of a noxious, corrosive salt that dissolves all substances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosive_Salt_Guard",
+          "title": "Corrosive Salt Guard",
+          "text": "Corrosive Salt Guard"
+        }
+      ]
+    },
+    {
+      "text": "Vulnerability Guard",
+      "tooltip": "Vulnerability Guard: This item stores powerful erosive forces. When the wearer is missed in combat, this power occasionally releases a degrading blast, adding three stacks of vulnerability to all enemies nearby.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vulnerability_Guard",
+          "title": "Vulnerability Guard",
+          "text": "Vulnerability Guard"
+        }
+      ]
+    },
+    {
+      "text": "Sheltering +12",
+      "tooltip": "Sheltering +12: +12 Enhancement bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Sheltering +12"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "page_title": "Item:Prisoner's Manacles (level 15)",
+  "page_id": 42321,
+  "revision_id": 649600,
+  "revision_timestamp": "2025-07-26T19:12:43Z",
+  "fetched_at": "2026-08-17T22:40:14.486681+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = {{Item|Prisoner's Manacles}}\n  | minlevel                 = 15\n  | type                     = Bracers\n  | slot                     = Wrist\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 25\n  | basevalue                = 6,020pp\n  | weight                   = 0.10 lbs\n  | quest                    = Army of Shadow\n  | chest                    = [[Rantha]]'s chest & end chest (Heroic Hard)\n  | enhancements             = \n* {{Reinforced Fists}}\n* {{Incite|20}}\n* One of the following:\n** {{ArmorBonus|8}}\n** {{Elemental Resistance|Acid|30}}\n** {{Elemental Resistance|Cold|30}}\n** {{Elemental Resistance|Fire|30}}\n** {{Elemental Resistance|Electric|30}}\n** {{Elemental Resistance|Sonic|30}}\n** {{Fortification|105}}\n** {{Stat|STR|6}}\n** {{Stat|DEX|6}}\n** {{Stat|CON|6}}\n  | description              = Broken chains, yet still a Prisoner.\n  | pic                      = Bracers Generic Prisoner.png\n  | picdesc                  = Prisoner's Manacles (Level 15).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Reinforced Fists",
+      "tooltip": "Reinforced Fists: This item surrounds your fists with kinetic energy. Your unarmed damage is boosted by one half die.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reinforced_Fists",
+          "title": "Reinforced Fists",
+          "text": "Reinforced Fists"
+        }
+      ]
+    },
+    {
+      "text": "Incite +20",
+      "tooltip": "Incite +20: +20% Enhancement bonus to increased threat generation from melee damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incite",
+          "title": "Incite",
+          "text": "Incite +20"
+        }
+      ]
+    },
+    {
+      "text": "One of the following:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "Armor Bonus +8",
+          "tooltip": "Armor Bonus +8: This item surrounds the wearer with an invisible but tangible field of force, granting +8 armor bonus to AC, just as though he were wearing armor.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Armor_Bonus",
+              "title": "Armor Bonus",
+              "text": "Armor Bonus +8"
+            }
+          ]
+        },
+        {
+          "text": "Acid Resistance +30",
+          "tooltip": "Acid Resistance +30: Passive: +30 Enhancement bonus to your Acid Resistance.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Acid_Resistance",
+              "title": "Acid Resistance",
+              "text": "Acid Resistance +30"
+            }
+          ]
+        },
+        {
+          "text": "Cold Resistance +30",
+          "tooltip": "Cold Resistance +30: Passive: +30 Enhancement bonus to your Cold Resistance.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Cold_Resistance",
+              "title": "Cold Resistance",
+              "text": "Cold Resistance +30"
+            }
+          ]
+        },
+        {
+          "text": "Fire Resistance +30",
+          "tooltip": "Fire Resistance +30: Passive: +30 Enhancement bonus to your Fire Resistance.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Fire_Resistance",
+              "title": "Fire Resistance",
+              "text": "Fire Resistance +30"
+            }
+          ]
+        },
+        {
+          "text": "Electric Resistance +30",
+          "tooltip": "Electric Resistance +30: Passive: +30 Enhancement bonus to your Electric Resistance.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Electric_Resistance",
+              "title": "Electric Resistance",
+              "text": "Electric Resistance +30"
+            }
+          ]
+        },
+        {
+          "text": "Sonic Resistance +30",
+          "tooltip": "Sonic Resistance +30: Passive: +30 Enhancement bonus to your Sonic Resistance.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Sonic_Resistance",
+              "title": "Sonic Resistance",
+              "text": "Sonic Resistance +30"
+            }
+          ]
+        },
+        {
+          "text": "Fortification +105%",
+          "tooltip": "Fortification +105%: +105% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Fortification",
+              "title": "Fortification",
+              "text": "Fortification +105%"
+            }
+          ]
+        },
+        {
+          "text": "Strength +6",
+          "tooltip": "Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Strength",
+              "title": "Strength",
+              "text": "Strength +6"
+            }
+          ]
+        },
+        {
+          "text": "Dexterity +6",
+          "tooltip": "Dexterity +6: This item makes the wearer more nimble and dexterous, granting a +6 Enhancement bonus to Dexterity.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Dexterity",
+              "title": "Dexterity",
+              "text": "Dexterity +6"
+            }
+          ]
+        },
+        {
+          "text": "Constitution +6",
+          "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Constitution",
+              "title": "Constitution",
+              "text": "Constitution +6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Mythic Wrist Boost +1 or +3",
+      "tooltip": "Mythic Wrist Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Wrist Boost"
+        }
+      ]
+    }
+  ]
+}

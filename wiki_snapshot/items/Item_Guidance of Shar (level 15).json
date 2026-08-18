@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Guidance of Shar (level 15)",
+  "page_id": 36500,
+  "revision_id": 649962,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:18:07.182794+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = [[Item:Guidance of Shar|Guidance of Shar]]\n  | type                     = Trinket\n  | class                    = Jewelry\n  | slot                     = Trinket\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 25 \n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15 \n  | bind                     = {{Bind|BtC|BoE}}\n  | released                 = Update 18\n  | quest                    = Disciples of Shar\n  | chest                    = end chest (Heroic Elite)\n  | enhancements             = \n* {{Stat|Charisma|6}}\n* {{Concealment|Blurry}}\n* {{Guidance of Shar}}\n* {{Augment|Green}}\n  | description              = This thin black disc of metal is a holy symbol dedicated to Shar, Mistress of the Night.\n  | pic                      = Guidance of Shar orb.png\n  | picdesc                  = Guidance of Shar (Level 15).png\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Charisma +6",
+      "tooltip": "Charisma +6: This item makes the wearer have more flair, granting a +6 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +6"
+        }
+      ]
+    },
+    {
+      "text": "Blurry",
+      "tooltip": "Blurry: Equipping this item causes you to become slightly blurry. Attacks from enemies have a 20% chance to miss you due to concealment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blurry",
+          "title": "Blurry",
+          "text": "Blurry"
+        }
+      ]
+    },
+    {
+      "text": "Guidance of Shar",
+      "tooltip": "Guidance of Shar: On Vorpal Melee Hit: Your target is blinded for 3 seconds.10% Chance On Being Hit: You are blinded for 1 second. Blindness immunity does not prevent this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Guidance_of_Shar_(enchantment)",
+          "title": "Guidance of Shar (enchantment)",
+          "text": "Guidance of Shar"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Trinket Boost +1 or +3",
+      "tooltip": "Mythic Trinket Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Trinket Boost"
+        }
+      ]
+    }
+  ]
+}

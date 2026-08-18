@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Nicked Repeating Light Crossbow",
+  "page_id": 65018,
+  "revision_id": 666434,
+  "revision_timestamp": "2025-11-19T16:52:17Z",
+  "fetched_at": "2026-08-17T22:31:01.549107+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Nicked Repeating Light Crossbow\n  | type                     = Repeating Light Crossbow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | prof                     = Exotic\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = [1d8] + 2 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | durability               = 100\n  | material                 = Wood \n  | hardness                 = 7\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement_bonus|w|2}}\n* {{Chilling|2}}\n* {{Doubleshot|2}}\n* {{Deadly|3}}\n  | description              = A complex weapon consisting of a light crossbow and a clip for bolts that is loaded by pulling the reloading lever.\n  | basevalue                = 225 pp\n  | weight                   = 6 lbs\n  | released                 = Update 0\n  | revamped                 = Update 76\n  | quest                    = The Sharn Syndicate\n  | end reward               = yes\n  | pic                      = Nicked Repeating Light Crossbow shown.png\n  | tips                     = <s>The weapon is bugged and does not work. ({{Forums|488357}}) </s> <small>Should be fixed with [[Update_36_Patch_2_Release_Notes#Items|Update 36 Patch 2]].</small>\n  | picdesc                  = Nicked Repeating Light Crossbow.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Repeating Light Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Chilling 2",
+      "tooltip": "Chilling 2: This effect causes the edges of this weapon to become frozen to the touch, dealing 2d6 Ice damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Chilling",
+          "title": "Chilling",
+          "text": "Chilling 2"
+        }
+      ]
+    },
+    {
+      "text": "Doubleshot 2%",
+      "tooltip": "Doubleshot 2%: Passive: 2% Enhancement bonus to Doubleshot. (Doubleshot is a chance to score an additional hit with a ranged attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doubleshot",
+          "title": "Doubleshot",
+          "text": "Doubleshot 2%"
+        }
+      ]
+    },
+    {
+      "text": "Deadly +3",
+      "tooltip": "Deadly +3: +3 Competence bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Deadly +3"
+        }
+      ]
+    }
+  ]
+}

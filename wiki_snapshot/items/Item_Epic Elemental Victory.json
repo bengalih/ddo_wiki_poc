@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Epic Elemental Victory",
+  "page_id": 51659,
+  "revision_id": 700799,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:48:06.870854+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Epic Elemental Victory\n  | type                     = Helm\n  | slot                     = Head\n  | durability               = 270\n  | material                 = Steel\n  | hardness                 = 36\n  | basevalue                = 10,420 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 26\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 25\n  | quest                    = ToEE: Depths of the Temple\n  | chest                    = end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Absorption|Acid|24}}\n* {{Absorption|Fire|24}}\n* {{Absorption|Cold|24}}\n* {{Absorption|Electric|24}}\n  | epic                     = no\n  | crafting                 = Catalyst Crafting\n  | craftingupgrade          = Legendary Crown of Ioun\n  | description              = You have delved deep into the Temple of Elemental Evil, and conquered all four of its nodes; where will your journey take you next, weathered traveller?\n  | pic                      = Elemental Victory shown.png\n  | picdesc                  = Epic Elemental Victory.png\n  | tips                     = Both the [[Mirror of Glamering|Glamered]] version and the item version now appear the same (four octahedra: blue, red, green, and violet) as shown in the image. (The former Glamered appearance can, as of Update 81, be obtained by upgrading this item into the Legendary Crown of Ioun.)\n<br/> '''Note''': Although its drop chance was buffed in [[Update 81]], this item is still significantly  rarer than the other named items in this chest.\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "Acid Absorption +24%",
+      "tooltip": "Acid Absorption +24%: Passive: 24% Enhancement Bonus to Acid Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Acid Absorption +24%"
+        }
+      ]
+    },
+    {
+      "text": "Fire Absorption +24%",
+      "tooltip": "Fire Absorption +24%: Passive: 24% Enhancement Bonus to Fire Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Fire Absorption +24%"
+        }
+      ]
+    },
+    {
+      "text": "Cold Absorption +24%",
+      "tooltip": "Cold Absorption +24%: Passive: 24% Enhancement Bonus to Cold Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Cold Absorption +24%"
+        }
+      ]
+    },
+    {
+      "text": "Electric Absorption +24%",
+      "tooltip": "Electric Absorption +24%: Passive: 24% Enhancement Bonus to Electric Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Electric Absorption +24%"
+        }
+      ]
+    }
+  ]
+}

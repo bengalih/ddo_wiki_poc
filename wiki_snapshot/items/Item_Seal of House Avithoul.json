@@ -1,0 +1,119 @@
+{
+  "page_title": "Item:Seal of House Avithoul",
+  "page_id": 24711,
+  "revision_id": 677131,
+  "revision_timestamp": "2026-02-28T20:52:18Z",
+  "fetched_at": "2026-08-17T22:53:01.007974+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Seal of House Avithoul\n  | minlevel                 = 21\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtC|boe}}\n  | durability               = 220\n  | material                 = Steel\n  | hardness                 = 26\n  | basevalue                = 8,420 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = The House of Broken Chains\n  | end reward               = \n  | turn in                  = \n  | chest                    = [[Magroph Avithoul]] chest\n  | enhancements             = \n* One of the following:\n** {{Stat|DEX|7}}\n** {{Stat|DEX|2|Insightful}}\n** {{Stat|WIS|7}}\n** {{Stat|WIS|2|Insightful}}\n* {{Sneak Attack Bonus|5}}\n* {{Sneak Attack Bonus|3|Insightful}}\n* {{Deception|Bluff=improved}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This ring bears an iron circle with eight spikes thrusting from the sides, reminiscent of the legs of a spider. A small chain is attached to it.\n  | pic                      = Necklace Generic Jorgundal.png\n  | picdesc                  = Seal of House Avithoul.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 21,
+  "enchantments": [
+    {
+      "text": "One of the following:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "Dexterity +7",
+          "tooltip": "Dexterity +7: This item makes the wearer more nimble and dexterous, granting a +7 Enhancement bonus to Dexterity.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Dexterity",
+              "title": "Dexterity",
+              "text": "Dexterity +7"
+            }
+          ]
+        },
+        {
+          "text": "Insightful Dexterity +2",
+          "tooltip": "Insightful Dexterity +2: This item makes the wearer more nimble and dexterous, granting a +2 Insight bonus to Dexterity.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Dexterity",
+              "title": "Dexterity",
+              "text": "Insightful Dexterity +2"
+            }
+          ]
+        },
+        {
+          "text": "Wisdom +7",
+          "tooltip": "Wisdom +7: This item makes the wearer more in tune with her surroundings, granting a +7 Enhancement bonus to Wisdom.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Wisdom",
+              "title": "Wisdom",
+              "text": "Wisdom +7"
+            }
+          ]
+        },
+        {
+          "text": "Insightful Wisdom +2",
+          "tooltip": "Insightful Wisdom +2: This item makes the wearer more in tune with her surroundings, granting a +2 Insight bonus to Wisdom.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Wisdom",
+              "title": "Wisdom",
+              "text": "Insightful Wisdom +2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Sneak Attack Bonus +5",
+      "tooltip": "Sneak Attack Bonus +5 : Provides a +5 Enhancement modifier to your attack bonus and a +8 Enhancement bonus to damage for any attack that would qualify as a Sneak Attack, even if the wielder is not a Rogue.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sneak_Attack_Bonus",
+          "title": "Sneak Attack Bonus",
+          "text": "Sneak Attack Bonus +5"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Sneak Attack Bonus +3",
+      "tooltip": "Insightful Sneak Attack Bonus +3 : Provides a +3 Insightful modifier to your attack bonus and a +5 Insightful bonus to damage for any attack that would qualify as a Sneak Attack, even if the wielder is not a Rogue.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sneak_Attack_Bonus",
+          "title": "Sneak Attack Bonus",
+          "text": "Insightful Sneak Attack Bonus +3"
+        }
+      ]
+    },
+    {
+      "text": "Improved Deception",
+      "tooltip": "Improved Deception: This item makes your weapons hard to focus upon and thus provides a +5 enhancement bonus to Bluff checks. In addition, while using this item your weapons have a chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception#Improved_Deception",
+          "title": "Deception",
+          "text": "Improved Deception"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

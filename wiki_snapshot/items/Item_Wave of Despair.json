@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Wave of Despair",
+  "page_id": 64792,
+  "revision_id": 635784,
+  "revision_timestamp": "2025-04-22T04:50:57Z",
+  "fetched_at": "2026-08-17T23:25:51.187933+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Wave of Despair\n  | damage                   = 2[1d10] + 5 Slash, Chaotic, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Bastard Sword\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Exotic\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 230\n  | material                 = Steel\n  | hardness                 = 25\n  | minlevel                 = 15\n  | released                 = Update 36\n  | quest                    = Desire in the Dark\n  | chest                    = End chest\n  | basevalue                = 6003pp 5gp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Echoes of Angdrelve|4}}\n* {{Wounding|2}}\n* {{Anarchic|4}}\n* {{Slay Living}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Wave of Despair shown.jpg\n  | picdesc                  = Wave of Despair.png\n  | description              = The edges of this bastard sword glow with a sinister purple light. Graz'zt's malevolent influence has transformed its once-mundane blade into one resembling his own.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Bastard Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Echoes of Angdrelve 4",
+      "tooltip": "Echoes of Angdrelve 4: Eager to taste the flesh of your enemies, this wicked sword drips burning acid at your command. Each strike from this devastating weapon deals an additional 4d6 Acid damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Echoes_of_Angdrelve",
+          "title": "Echoes of Angdrelve",
+          "text": "Echoes of Angdrelve 4"
+        }
+      ]
+    },
+    {
+      "text": "Wounding 2",
+      "tooltip": "Wounding 2: This weapon saps the health from your enemies, dealing 2 Constitution damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wounding",
+          "title": "Wounding",
+          "text": "Wounding 2"
+        }
+      ]
+    },
+    {
+      "text": "Anarchic 4",
+      "tooltip": "Anarchic 4: On Hit: 4 to 16 Chaos damage. Chaos-aligned creatures are immune to this effect.Penalty: If equipped by a Lawful user, they receive 1 Negative Level for as long as this item is equipped.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Anarchic 4"
+        }
+      ]
+    },
+    {
+      "text": "Slay Living",
+      "tooltip": "Slay Living: This weapon stores a dark and sinister power deep within. When the weapon is used, this power occasionally comes to the surface, attempting to instantly snuff out the life force of the enemy.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slay_Living_(enchantment)",
+          "title": "Slay Living (enchantment)",
+          "text": "Slay Living"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

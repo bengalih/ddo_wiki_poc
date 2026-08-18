@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Sage's Locket (level 26)",
+  "page_id": 41471,
+  "revision_id": 690640,
+  "revision_timestamp": "2026-06-30T16:31:30Z",
+  "fetched_at": "2026-08-17T22:50:00.623906+00:00",
+  "categories": [],
+  "wikitext": "{{Non-food|WAI=true}}\n{{Named item|Jewelry\n  | name                     = Sage's Locket\n  | minlevel                 = 26\n  | type                     = Necklace\n  | slot                     = Neck\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 180\n  | material                 = Gold\n  | hardness                 = 27\n  | basevalue                = 10,420 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 19\n  | quest                    = Friends in Low Places\n  | end reward               = yes\n  | turn in                  = <!-- Leave blank if not used-->\n  | chest                    = <!-- Leave blank if not used-->\n  | mythic                   = no\n  | enhancements             = \n* {{Spell Focus|Evocation|V}}\n* {{Skills|Spellcraft|15}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Necklace Generic Green.png\n  | picdesc                  = Sage's Locket (Level 26).png\n  | tips                     = \n}}",
+  "item_template": "Non-food",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "Evocation Focus V",
+      "tooltip": "Evocation Focus V: +5 Equipment bonus to the DC of Evocation spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Evocation Focus V"
+        }
+      ]
+    },
+    {
+      "text": "Spellcraft +15",
+      "tooltip": "Spellcraft +15: Passive: +15 Competence bonus to the Spellcraft skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcraft",
+          "title": "Spellcraft",
+          "text": "Spellcraft +15"
+        }
+      ]
+    }
+  ]
+}

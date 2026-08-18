@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Blademaster Gauntlets",
+  "page_id": 5013,
+  "revision_id": 628599,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:11:44.424617+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Blademaster Gauntlets\n  | slot                     = Hand\n  | type                     = Gloves\n  | durability               = 60\n  | material                 = Leather\n  | hardness                 = 7\n  | basevalue                = 2,005 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 5\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Assault on Splinterskull\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|STR|3}}\n* {{Augment|Yellow}}\n  | description              = These gauntlets are crafted for powerful hobgoblin warriors known as Blademasters.\n  | pic                      = Gloves Generic.png\n  | picdesc                  = Blademaster Gauntlets.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Strength +3",
+      "tooltip": "Strength +3: This item gives the wearer the power of Ogre Strength, granting a +3 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +3"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

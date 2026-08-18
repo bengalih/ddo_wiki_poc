@@ -1,0 +1,117 @@
+{
+  "page_title": "Item:Smoldering Platemail Armor",
+  "page_id": 95164,
+  "revision_id": 634886,
+  "revision_timestamp": "2025-04-22T03:51:17Z",
+  "fetched_at": "2026-08-17T23:01:48.481207+00:00",
+  "categories": [],
+  "wikitext": "{{History|items|replaced={{Item|Heavy Armor of the Eternal Flame}}|customcat=Temple of Elemental Evil items}}\n\n{{Named item|Armor\n  | name                     = Smoldering Platemail Armor\n  | historic                 = TRUE\n  | type                     = Platemail\n  | feat                     = Heavy\n  | race                     = \n  | ac                       = +16\n  | maxdexbonus              = 3\n  | acp                      = 0\n  | asf                      = 35%\n  | durability               = 174\n  | material                 = Steel\n  | hardness                 = 18\n  | basevalue                = 2950 pp\n  | weight                   = 50 lbs\n  | bind                     = {{Bind|No|nocat=TRUE}}\n  | minlevel                 = 7\n  | released                 = Update 25\n  | quest                    = Temple of Elemental Evil Part Two\n  | chest                    = Elemental nodes chests\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{Absorption|Fire|10|nocat=TRUE}}\n* {{Resistance|2|nocat=TRUE}}\n* {{CraftingEffects|Upgradeable Item (Temple of Elemental Evil)|nocat=TRUE}}\n** {{Concealment|Dusk|nocat=TRUE}}\n** {{Fortification|75|nocat=TRUE}}\n** {{Augment|Green|nocat=TRUE}}\n  | crafting                 = ToEE Crafting\n  | craftingupgrade          = \n  | pic                      = Heavy Armor of the Eternal Flame shown.jpg\n  | picdesc                  = Smoldering Platemail Armor.png\n  | description              = Armor from deep within the Temple of Elemental Evil.\n  | notes                    = \n}}",
+  "item_template": "History",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Platemail",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fire Absorption +10%",
+      "tooltip": "Fire Absorption +10%: Passive: 10% Enhancement Bonus to Fire Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Fire Absorption +10%"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +2",
+      "tooltip": "Resistance +2: Passive: +2 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable Item (Temple of Elemental Evil)",
+      "tooltip": "Upgradeable Item (Temple of Elemental Evil): This item can be upgraded. Bring this item to the Overgrown Workbench in the Temple of Elemental Evil and combine it with Rusty Gilled Mushrooms to upgrade the item to a more powerful form.",
+      "children": [
+        {
+          "text": "Dusk",
+          "tooltip": "Dusk: Equipping this item engulfs you in twilight shadows. Attacks from enemies have a 10% chance to miss you due to concealment.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Dusk_(enchantment)",
+              "title": "Dusk (enchantment)",
+              "text": "Dusk"
+            }
+          ]
+        },
+        {
+          "text": "Fortification +75%",
+          "tooltip": "Fortification +75%: +75% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Fortification",
+              "title": "Fortification",
+              "text": "Fortification +75%"
+            }
+          ]
+        },
+        {
+          "text": "Green Augment Slot",
+          "tooltip": "Blue, Green, Yellow, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Green Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Overgrown_Workbench",
+          "title": "Overgrown Workbench",
+          "text": "Upgradeable Item (Temple of Elemental Evil)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

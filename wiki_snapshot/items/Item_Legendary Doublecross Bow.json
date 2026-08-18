@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Legendary Doublecross Bow",
+  "page_id": 91336,
+  "revision_id": 666471,
+  "revision_timestamp": "2025-11-19T17:04:41Z",
+  "fetched_at": "2026-08-17T21:42:27.686105+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Doublecross Bow\n  | minlevel                 = 30\n  | type                     = Repeating Light Crossbow\n  | class                    = Ranged\n  | prof                     = Exotic\n  | hand                     = Ranged\n  | damage                   = 5[1d8+2] + 15 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = DEX, INT\n  | damagemod                = DEX\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 380\n  | material                 = Wood\n  | hardness                 = 35\n  | cost                     = 12,025 pp\n  | weight                   = 6 lbs\n  | released                 = Update 50\n  | revamped                 = Update 76\n  | quest                    = Legendary Crafting\n  | legendary                = Epic Doublecross Bow\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Blast|Poison|6}}\n* {{Crippling}}\n* {{Armor-Piercing|21}}\n* {{Twining Hemlock}}\n* {{Augment|Red}}\n  | crafting                 = \n  | description              = The drow of Faerun's Underdark favor small handcrossbows that can be used quickly, silently, and with poisoned ammunition. The bolts fired from this light repeating weapon will inject a struck target with a venom that may put it to sleep instantly.\n  | pic                      = Doublecross Bow shown.jpg\n  | picdesc                  = Legendary Doublecross Bow.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Repeating Light Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Poison Blast 6",
+      "tooltip": "Poison Blast 6: This weapon drips with vile poison, dealing 6d6 Poison damage on a successful hit, and an additional 6d6 Poison damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Poison Blast 6"
+        }
+      ]
+    },
+    {
+      "text": "Crippling",
+      "tooltip": "Crippling: A crippling weapon is infused with binding power so that when a target is critically hit their movement is slowed by half.Note: Real slowdown is only 25%",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crippling",
+          "title": "Crippling",
+          "text": "Crippling"
+        }
+      ]
+    },
+    {
+      "text": "Armor-Piercing 21%",
+      "tooltip": "Armor-Piercing 21%: Passive: +21% Enhancement bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Armor-Piercing 21%"
+        }
+      ]
+    },
+    {
+      "text": "Twining Hemlock",
+      "tooltip": "Twining Hemlock: This weapon is poisoned with a deadly strain of flowering plant. Hits by this weapon have a chance of putting your foe to sleep.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Twining_Hemlock",
+          "title": "Twining Hemlock",
+          "text": "Twining Hemlock"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Legendary Ruined Glory",
+  "page_id": 99668,
+  "revision_id": 632800,
+  "revision_timestamp": "2025-04-22T01:29:33Z",
+  "fetched_at": "2026-08-17T22:04:43.094155+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Legendary Ruined Glory\n  | type                     = Cloak\n  | cost                     = 12041pp\n  | weight                   = 0.10lbs\n  | slot                     = Back\n  | durability               = 410\n  | bind                     = {{Bind|BtA|BoA}}\n  | material                 = Cloth\n  | hardness                 = 51\n  | minlevel                 = 31\n  | released                 = Update 58\n  | revamped                 = Update 59\n  | quest                    = Kill Ten Rats\n  | end reward               = <!-- Any 1 of these 3 required. Leave blank if not used-->\n  | turn in                  = <!-- Leave blank if not used-->\n  | chest                    = End Chest\n  | enhancements             = \n* {{Save|Reflex|12}}\n* {{Sheltering|35|Enhancement|Magical}}\n* {{Stat|CON|14}}\n* {{Dodge|6|Insight|prefix=Insightful}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n  | epic                     = no\n  | crafting                 = <!--Type of crafting. Leave blank if none. -->\n  | craftingupgrade          = <!-- can leave blank, though comment required if |crafting is used-->\n  | description              = This tattered cloth was once a shining gold before being lost to the sewers, but its defensive magic still lingers in it.\n  | pic                      = Ruined Glory shown.jpg\n  | picdesc                  = Legendary Ruined Glory.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 31,
+  "enchantments": [
+    {
+      "text": "Reflex Save +12",
+      "tooltip": "Reflex Save +12: This item gives a +12 Resistance bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save +12"
+        }
+      ]
+    },
+    {
+      "text": "Magical Sheltering +35",
+      "tooltip": "Magical Sheltering +35: +35 Enhancement bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Magical Sheltering +35"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +14",
+      "tooltip": "Constitution +14: This item gives the wearer improved health, granting a +14 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +14"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Dodge +6%",
+      "tooltip": "Insightful Dodge +6%: +6% Insight bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Insightful Dodge +6%"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

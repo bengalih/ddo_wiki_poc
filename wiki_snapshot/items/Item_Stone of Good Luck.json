@@ -1,0 +1,29 @@
+{
+  "page_title": "Item:Stone of Good Luck",
+  "page_id": 11097,
+  "revision_id": 635067,
+  "revision_timestamp": "2025-04-22T04:03:09Z",
+  "fetched_at": "2026-08-17T23:06:25.221904+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Stone of Good Luck\n  | type                     = Trinket\n  | basevalue                = 920 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Trinket\n  | quest                    = Random\n  | chest                    = Chests with loot level ~7\n  | durability               = 40\n  | material                 = Gem\n  | hardness                 = 23\n  | minlevel                 = 7\n  | bind                     = {{Bind|no}}\n  | mythic                   = no\n  | enhancements             = \n* {{Good Luck|1}}\n  | description              = A bit of rough, polished agate.\n  | pic                      = Trinket Generic Stone.png\n  | picdesc                  = Stone of Good Luck.png\n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Good Luck +1",
+      "tooltip": "Good Luck +1: This item gives a +1 Luck bonus to all saves and skill checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Good_Luck",
+          "title": "Good Luck",
+          "text": "Good Luck +1"
+        }
+      ]
+    }
+  ]
+}

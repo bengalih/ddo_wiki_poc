@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Scepter of Mad Trickery",
+  "page_id": 14483,
+  "revision_id": 690605,
+  "revision_timestamp": "2026-06-30T16:08:35Z",
+  "fetched_at": "2026-08-17T22:51:36.148722+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Scepter of Mad Trickery\n  | damage                   = 2[1d6] + 5 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Simple\n  | durability               = 130\n  | material                 = Wood\n  | hardness                 = 13\n  | minlevel                 = 14\n  | released                 = Update 9\n  | quest                    = Harbinger of Madness\n  | end reward               = yes\n  | basevalue                = 12,800pp 2cp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Spell Focus|Illusion|II}}\n* {{Spell Focus|Enchantment|II}}\n* {{Spellpen|ii}}\n* {{Mind Turbulence}}\n  | pic                      = Scepter of Mad Trickery shown.jpg\n  | picdesc                  = Scepter of Mad Trickery.png\n  | description              = Holding this scepter by its slippery grip, you hear voices cackling madly and a chill runs down your spine. Suddenly your thoughts are filled with ways to weave illusions that will drive your enemies to insanity.\n  | tips                     = You can remove the [[Mind Turbulence]] penalty with a [[Sustaining Symbiont]].\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Illusion Focus II",
+      "tooltip": "Illusion Focus II: +2 Equipment bonus to the DC of Illusion spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Illusion Focus II"
+        }
+      ]
+    },
+    {
+      "text": "Enchantment Focus II",
+      "tooltip": "Enchantment Focus II: +2 Equipment bonus to the DC of Enchantment spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Enchantment Focus II"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration II",
+      "tooltip": "Spell Penetration II: Passive: +2 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration II"
+        }
+      ]
+    },
+    {
+      "text": "Mind Turbulence",
+      "tooltip": "Mind Turbulence: This item fills your mind with chaos, disrupting your thoughts and causing a -10 Concentration penalty.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mind_Turbulence",
+          "title": "Mind Turbulence",
+          "text": "Mind Turbulence"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "page_title": "Item:Epic Cloak of the Zephyr",
+  "page_id": 10395,
+  "revision_id": 629934,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:46:19.734109+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Epic Cloak of the Zephyr\n  | type                     = Cloak\n  | class                    = Clothing\n  | basevalue                = 8,020 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Back\n  | durability               = 210\n  | material                 = Leather\n  | hardness                 = 25\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{clicky|Invisibility|20|3}}\n* {{Concealment|Blurry}}\n* {{Guard|Invisibility}}\n* {{Spelllore|Lightning|16}}\n* {{Spell Power|Magnetism|111}}\n* {{Guard|Lightning Storm}}\n* {{Augment|Yellow}}\n* {{Augment|Green}}\n* {{Named item sets|The Epic Desert's Writhing Storm}}\n  | epic                     = Cloak of the Zephyr\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Cloak of the Zephyr\n  | description              = This diaphanous wrap enables its wearer to fade from sight.\n  | pic                      = Cloak of the Zephyr Shown.jpg\n  | picdesc                  = Epic Cloak of the Zephyr.png\n  | tips                     = \n  | revamped                 = Update 50\n}}\n[[Category:Sands of Menechtarun epic items]]",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Invisibility — 3 Charges (Recharged/Day:3)",
+      "tooltip": "InvisibilityCaster level: 20Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Invisibility",
+          "title": "Invisibility",
+          "text": "Invisibility"
+        }
+      ]
+    },
+    {
+      "text": "Blurry",
+      "tooltip": "Blurry: Equipping this item causes you to become slightly blurry. Attacks from enemies have a 20% chance to miss you due to concealment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blurry",
+          "title": "Blurry",
+          "text": "Blurry"
+        }
+      ]
+    },
+    {
+      "text": "Invisibility Guard",
+      "tooltip": "Invisibility Guard: This item has a chance of granting you temporary invisibility when you are hit by foes. The invisibility will not be removed when you attack or take damage, but it will wear off after 10 seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Invisibility_Guard",
+          "title": "Invisibility Guard",
+          "text": "Invisibility Guard"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Lore +16%",
+      "tooltip": "Lightning Lore +16: Passive: Your Electricity spells gain a 16% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore +16%"
+        }
+      ]
+    },
+    {
+      "text": "Magnetism +111",
+      "tooltip": "Magnetism +111: Passive: +111 Equipment bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Magnetism +111"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Storm Guard",
+      "tooltip": "Lightning Storm Guard: This item stores the power of a volatile thunderstorm deep within. When the wearer of this item is successfully attacked in melee, this dynamic power occasionally comes to the surface, devastating enemies with a massive lightning strike.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lightning_Storm_Guard",
+          "title": "Lightning Storm Guard",
+          "text": "Lightning Storm Guard"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Epic Desert's Writhing Storm",
+      "tooltip": "The Epic Desert's Writhing Storm: 2 Pieces Equipped:+4% Artifact bonus to Electric Spellcrit Chance+20 Artifact bonus to Electric Spellpower+20 Artifact bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Epic_Desert's_Writhing_Storm",
+          "title": "Named item sets",
+          "text": "The Epic Desert's Writhing Storm"
+        }
+      ]
+    }
+  ]
+}

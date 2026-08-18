@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Serpentbranch",
+  "page_id": 4982,
+  "revision_id": 634551,
+  "revision_timestamp": "2025-04-22T03:29:01Z",
+  "fetched_at": "2026-08-17T22:53:19.662023+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Serpentbranch\n  | damage                   = [1d8] + 3 Pierce, Magic\n  | crit                     = 20 / x3\n  | type                     = Long Bow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | prof                     = Martial\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | durability               = 140\n  | material                 = Wood\n  | hardness                 = 11\n  | minlevel                 = 6\n  | bind                     = {{Bind|BtA|BoA}}\n  | basevalue                = 2,407pp 5 gp\n  | weight                   = 3 lbs\n  | released                 = Update 45\n  | quest                    = The Missing Party\n  | chest                    = End chest\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Poisonous|2}}\n* {{Proof|Poison|6}}\n* {{Augment|Purple}}\n* {{Augment|Orange}}\n  | description              = A crude longbow fashioned from jungle vines, it exudes a sticky sap that adheres well to the tips of arrows.\n  | pic                      = Silver Longbow shown.jpg <!--same style-->\n  | picdesc                  = Serpentbranch.png\n  | tip                      = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Poisonous 2",
+      "tooltip": "Poisonous 2: This effect causes the edges of this weapon to drip with a vile venom, dealing 2d6 poison damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Poisonous",
+          "title": "Poisonous",
+          "text": "Poisonous 2"
+        }
+      ]
+    },
+    {
+      "text": "Proof Against Poison +6",
+      "tooltip": "Proof Against Poison +6: This item grants its wearer immunity to natural poisons. This item also grants a +6 Enhancement bonus to saving throws against magical poisons, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical poisons with a DC of less than 7 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Poison",
+          "title": "Proof Against Poison",
+          "text": "Proof Against Poison +6"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

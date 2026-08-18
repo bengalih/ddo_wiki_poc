@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Long-Lost Charm",
+  "page_id": 99665,
+  "revision_id": 690575,
+  "revision_timestamp": "2026-06-30T15:49:17Z",
+  "fetched_at": "2026-08-17T22:18:30.766357+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Long-Lost Charm\n  | minlevel                 = 18\n  | type                     = Trinket\n  | race                     = none\n  | slot                     = Trinket\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 280\n  | material                 = Leather\n  | hardness                 = 38\n  | cost                     = 7,201 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | released                 = Update 58\n  | revamped                 = Update 80\n  | quest                    = Kill Ten Rats\n  | end reward               = <!-- Any 1 of these 3 required. Leave blank if not used-->\n  | turn in                  = <!-- Leave blank if not used-->\n  | chest                    = End Chest\n  | enhancements             = \n* {{Spell Focus|Enchantment|5}}\n* {{Spellpen|6}}\n* {{Good Luck|2}}\n* {{Guard|Improved Disease}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A Sharn socialite dropped her beloved trinket into the sewers by accident years ago. It's... somewhat worse for wear, but it'll do.\n  | pic                      = \n  | picdesc                  = Long-Lost Charm.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Enchantment Focus +5",
+      "tooltip": "Enchantment Focus +5: +5 Equipment bonus to the DC of Enchantment spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Enchantment Focus +5"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration +6",
+      "tooltip": "Spell Penetration +6: Passive: +6 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration +6"
+        }
+      ]
+    },
+    {
+      "text": "Good Luck +2",
+      "tooltip": "Good Luck +2: This item gives a +2 Luck bonus to all saves and skill checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Good_Luck",
+          "title": "Good Luck",
+          "text": "Good Luck +2"
+        }
+      ]
+    },
+    {
+      "text": "Improved Disease Guard",
+      "tooltip": "Improved Disease Guard: This item carries a virulent disease that may be contracted by enemies that hit you, dealing 2 to 8 Constitution damage. A successful Fortitude save (DC 24) will negate this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Improved_Disease_Guard",
+          "title": "Improved Disease Guard",
+          "text": "Improved Disease Guard"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Trinket Boost +1 or +3",
+      "tooltip": "Mythic Trinket Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Trinket Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "page_title": "Item:Ring of the Ancestors",
+  "page_id": 10233,
+  "revision_id": 634276,
+  "revision_timestamp": "2025-04-22T03:10:56Z",
+  "fetched_at": "2026-08-17T22:46:05.327634+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Ring of the Ancestors\n  | minlevel                 = 11\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|no}}\n  | durability               = 120\n  | material                 = Silver\n  | hardness                 = 16\n  | basevalue                = 4,420 pp\n  | weight                   = 0.10 lbs\n  | quest                    = Slavers of the Shrieking Mines\n  | chest                    = [[Lord Ythrixid]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* '''Required Trait:''' [[Good]] ([[UMD]]: 0)\n* {{Clicky|Raise Dead |9|1}} \n  | description              = Wildman lore dictates that this ancient ring was created by an incredibly intelligent elder. They say it has the power to bring one back from the dead. Fearing it could be used by their quori slavers, he forged the ring such that only one pure of heart could utilize its power.\n  | pic                      = Ring Generic Silver.png\n  | picdesc                  = Ring of the Ancestors.png\n  | tips                     = The ([[UMD]]: 0) remark refers to the fact you cannot equip this ring at all if your alignment is not good, no matter how high your UMD is.\n}}",
+  "item_template": "Named item",
+  "material": "Silver",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Required Trait: Good (UMD: 0)",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Good",
+          "title": "Good",
+          "text": "Good"
+        },
+        {
+          "target": "/page/UMD",
+          "title": "UMD",
+          "text": "UMD"
+        }
+      ]
+    },
+    {
+      "text": "Raise Dead — 1 Charges (Recharged/Day:1)",
+      "tooltip": "Raise Dead Caster level: 9Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Raise_Dead",
+          "title": "Raise Dead",
+          "text": "Raise Dead"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Widow Weave Cloak",
+  "page_id": 11406,
+  "revision_id": 635811,
+  "revision_timestamp": "2025-04-22T04:52:45Z",
+  "fetched_at": "2026-08-17T23:26:32.795710+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Widow Weave Cloak\n  | type                     = Cloak\n  | class                    = Clothing\n  | slot                     = Back\n  | durability               = 100\n  | material                 = Cloth\n  | hardness                 = 18\n  | basevalue                = 3,620 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 9\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = The Spawn of Whisperdoom\n  | turn in                  = Silver Goblet to the [[Ungurz Lieutenant]] for a small chance to get it\n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* {{Spearblock|III}}\n* {{Immunity|Web}}\n* {{Proof|Poison|6}}\n* {{Augment|Yellow}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This cloak is a by-product of the Kar'Thul experimentation on Whisperdoom and her spawn. The magically altered spiders were found to produce strong silk imbued with special properties. Months of delicate work and treatment went into this item's fabrication and few were actually produced. These cloaks were likely reserved for Kar'Thul of high regard.\n  | pic                      = Widow Weave Cloak shown.jpg\n  | picdesc                  = Widow Weave Cloak.png\n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Spearblock III",
+      "tooltip": "Spearblock III: Passive: Reduces physical damage taken by 6, except from Bludgeoning or Slashing weapons. (Damage Reduction: 6/Slash, Bludgeon)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spearblock",
+          "title": "Spearblock",
+          "text": "Spearblock III"
+        }
+      ]
+    },
+    {
+      "text": "Web Immunity",
+      "tooltip": "Web Immunity: This item grants the wearer the ability to move and attack freely through webs of all kinds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Web_Immunity",
+          "title": "Web Immunity",
+          "text": "Web Immunity"
+        }
+      ]
+    },
+    {
+      "text": "Proof Against Poison +6",
+      "tooltip": "Proof Against Poison +6: This item grants its wearer immunity to natural poisons. This item also grants a +6 Enhancement bonus to saving throws against magical poisons, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical poisons with a DC of less than 7 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Poison",
+          "title": "Proof Against Poison",
+          "text": "Proof Against Poison +6"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Dawnbreaker",
+  "page_id": 39424,
+  "revision_id": 629325,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:30:33.273558+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Dawnbreaker\n  | damage                   = 1.50[1d10] + 3 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Heavy Mace\n  | hand                     = One-handed\n  | race                     = Sun Elf\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 215\n  | material                 = Steel\n  | hardness                 = 25\n  | minlevel                 = 15\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | epic                     = no\n  | basevalue                = 60008 gp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|BtC|boa}}\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Solar|III}}\n* {{Ghost Touch}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Dawnbreaker shown.jpg\n  | picdesc                  = Dawnbreaker.png\n  | description              = The sun shines brightest at dawn.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Heavy Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Solar III",
+      "tooltip": "Solar III: On Hit: 3 to 12 Light Damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Solar",
+          "title": "Solar",
+          "text": "Solar III"
+        }
+      ]
+    },
+    {
+      "text": "Ghost Touch",
+      "tooltip": "Ghost Touch: An incorporeal creature's 50% chance to avoid damage does not apply to attacks with ghost touch weapons.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghost_Touch",
+          "title": "Ghost Touch",
+          "text": "Ghost Touch"
+        }
+      ]
+    }
+  ]
+}

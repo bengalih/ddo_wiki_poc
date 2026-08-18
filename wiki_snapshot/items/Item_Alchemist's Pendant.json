@@ -1,0 +1,70 @@
+{
+  "page_title": "Item:Alchemist's Pendant",
+  "page_id": 17943,
+  "revision_id": 628227,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:03:02.854882+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Alchemist's Pendant\n  | type                     = Necklace\n  | class                    = Clothing\n  | slot                     = Neck\n  | durability               = 110\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 10,005pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Blown to Bits\n  | chest                    = end chests including the optional one for destroying all the crates\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CON|6}}\n* {{Alchemical Conservation}}\n* {{Hp|Greater Elemental Energy}}\n* {{Nearly Finished}}\n  | crafting                 = Nearly Finished\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | description              = House Cannith alchemists often wear charms such as this to ward against the deadly materials they work with. It also boosts the wearer's ability to utilize his or her energy more efficiently.\n  | pic                      = Necklace Generic Gold.png\n  | picdesc                  = Alchemist's Pendant.png\n  | tips                     = \n<table border=\"0\" align=\"center\">\n<tr><td align=\"center\">{{Popup|[[File:1_Alchemist's_Pendant.jpg|link=]]| Alchemist's Pendent}} + {{Popup|[[File:1_Metallic_Ingot.jpg|link=]]| 1 Metallic Ingot}} + {{Popup|[[File:1_Glowing_Ingot.jpg|link=]]| 1 Glowing Ingot}} + {{Popup|[[File:1_Pliable_Ingot.jpg|link=]]| 1 Pliable Ingot}} + {{Popup|[[File:1_Lesser_Cannith_Power_Cell.jpg|link=]]| 1 Lesser Cannith Power Cell}}\n</td></tr><tr><td><hr width=\"100%\">\n</td></tr><tr><td>[[File:Alchemist's Pendant (Finished).png|350px]]\n</td></tr></table> \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Constitution +6",
+      "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +6"
+        }
+      ]
+    },
+    {
+      "text": "Alchemical Conservation",
+      "tooltip": "Alchemical Conservation: This item modifies the user's energy expenditure in such a way that many abilities can be used more frequently than normal. You will gain +1 ki on every successful attack, and you will increase the number of Action Boosts, Turn Undead attempts, and Bard Songs you can use per rest by 1 each.These additional uses will only take effect after you rest.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alchemical_Conservation",
+          "title": "Alchemical Conservation",
+          "text": "Alchemical Conservation"
+        }
+      ]
+    },
+    {
+      "text": "Greater Elemental Energy",
+      "tooltip": "Greater Elemental Energy: Harnessing a small amount of power and potential of the raw elements, this item gives you a +20 bonus to your maximum hit points. This stacks with all bonuses except for Greater Elemental Energy.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Elemental_Energy",
+          "title": "Elemental Energy",
+          "text": "Greater Elemental Energy"
+        }
+      ]
+    },
+    {
+      "text": "Nearly Finished - Alchemist's Lore",
+      "tooltip": "Alchemist's Lore: Reduces the cost of Empower, Empower Healing, and Maximize by 2 SP. Spells cost 10%/20%/30% less when you are below 50%/25%/10% hp.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nearly_Finished",
+          "title": "Nearly Finished",
+          "text": "Nearly Finished"
+        },
+        {
+          "target": "/page/Named_item_sets#Alchemist's_Lore",
+          "title": "Named item sets",
+          "text": "Alchemist's Lore"
+        }
+      ]
+    }
+  ]
+}

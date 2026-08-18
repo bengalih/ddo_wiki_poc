@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Necklace of Venom",
+  "page_id": 12175,
+  "revision_id": 633676,
+  "revision_timestamp": "2025-04-22T02:29:21Z",
+  "fetched_at": "2026-08-17T22:30:09.566145+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Necklace of Venom\n  | type                     = Necklace\n  | basevalue                = 1,605 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Neck\n  | durability               = 50\n  | material                 = Steel\n  | hardness                 = 14\n  | minlevel                 = 7\n  | bind                     = {{Bind|BtA|BoA}}\n  | revamped                 = Update 36\n  | released                 = Update 6\n  | quest                    = The Claw of Vulkoor\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Named item sets|Vulkoor's Cunning}}\n* {{Proof|Poison|6}}\n* {{Hp|False Life|17}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Necklace of Venom\n  | description              = Drow assassins say this necklace is infused with Vulkoor's subtle poisons. Wearing it will make one's attacks deft and lethal.\n  | pic                      = Necklace Generic Green.png\n  | picdesc                  = Necklace of Venom.png\n  | tips                     = Old versions had standard [[False Life (enchantment)#False_Life|False Life]]. They don't retroactively change but have to be reacquired.\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Vulkoor's Cunning",
+      "tooltip": "Vulkoor's Cunning: 2 Pieces Equipped:-20% Artifact bonus to Melee Threat Reduction+5 Artifact bonus to Melee and Ranged PowerYou gain On Vorpal: You apply a Vulkoorim Constitution Poison",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Vulkoor's_Cunning",
+          "title": "Named item sets",
+          "text": "Vulkoor's Cunning"
+        }
+      ]
+    },
+    {
+      "text": "Proof Against Poison +6",
+      "tooltip": "Proof Against Poison +6: This item grants its wearer immunity to natural poisons. This item also grants a +6 Enhancement bonus to saving throws against magical poisons, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical poisons with a DC of less than 7 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Poison",
+          "title": "Proof Against Poison",
+          "text": "Proof Against Poison +6"
+        }
+      ]
+    },
+    {
+      "text": "False Life +17",
+      "tooltip": "False Life +17: +17 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +17"
+        }
+      ]
+    }
+  ]
+}

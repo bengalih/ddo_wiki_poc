@@ -1,0 +1,207 @@
+{
+  "page_title": "Item:Legendary Duergarcraft Docent",
+  "page_id": 126350,
+  "revision_id": 700209,
+  "revision_timestamp": "2026-07-25T18:57:32Z",
+  "fetched_at": "2026-08-17T21:43:35.431525+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Duergarcraft Docent\n  | minlevel                 = 35\n  | type                     = Docent\n  | feat                     = Docent\n  | ac                       = {{WFABonus|a=26|m=15}}\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | race                     = Warforged\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 400\n  | material                 = Crystal\n  | hardness                 = 45\n  | basevalue                = 14,050 pp\n  | weight                   = \n  | released                 = Update 81\n  | quest                    = Demon in the Rough\n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|a|16}}\n* {{Fortification|163}}\n* {{Sheltering|14|Quality|Physical}}\n* {{Hp|False Life|9|Quality}}\n* {{Nearly Complete|Ability Score|1}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n* {{Augment|Sun}}\n  | crafting                 = Nearly Complete\n  | description              = Protective gear made by Duergar craftspeople.\n  | pic                      = Duergarcraft Docent shown.jpg\n  | picdesc                  = Legendary Duergarcraft Docent.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Crystal",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 35,
+  "enchantments": [
+    {
+      "text": "+16 Enhancement Bonus",
+      "tooltip": "+16 Enhancement Bonus: +16 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+16 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +163%",
+      "tooltip": "Fortification +163%: +163% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +163%"
+        }
+      ]
+    },
+    {
+      "text": "Quality Physical Sheltering +14",
+      "tooltip": "Quality Physical Sheltering +14: +14 Quality bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Quality Physical Sheltering +14"
+        }
+      ]
+    },
+    {
+      "text": "Quality False Life +9",
+      "tooltip": "Quality False Life +9: +9 Quality bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "Quality False Life +9"
+        }
+      ]
+    },
+    {
+      "text": "Nearly Complete: Ability Score",
+      "tooltip": "Nearly Complete: Ability Score: This item isn't quite finished, but it's only a step away from completion. Bring it to the forges on the upper floor of Gravenhollow and combine it with melted materials to restore this item to its full potential.",
+      "children": [
+        {
+          "text": "This item can be upgraded with one of the following:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Charisma +15",
+              "tooltip": "Charisma +15: This item makes the wearer have more flair, granting a +15 Enhancement bonus to Charisma.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Charisma",
+                  "title": "Charisma",
+                  "text": "Charisma +15"
+                }
+              ]
+            },
+            {
+              "text": "Constitution +15",
+              "tooltip": "Constitution +15: This item gives the wearer improved health, granting a +15 Enhancement bonus to Constitution.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Constitution",
+                  "title": "Constitution",
+                  "text": "Constitution +15"
+                }
+              ]
+            },
+            {
+              "text": "Dexterity +15",
+              "tooltip": "Dexterity +15: This item makes the wearer more nimble and dexterous, granting a +15 Enhancement bonus to Dexterity.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Dexterity",
+                  "title": "Dexterity",
+                  "text": "Dexterity +15"
+                }
+              ]
+            },
+            {
+              "text": "Intelligence +15",
+              "tooltip": "Intelligence +15: This item focuses the power of the wearer's mind, granting a +15 Enhancement bonus to Intelligence.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Intelligence",
+                  "title": "Intelligence",
+                  "text": "Intelligence +15"
+                }
+              ]
+            },
+            {
+              "text": "Strength +15",
+              "tooltip": "Strength +15: This item gives the wearer the power of Ogre Strength, granting a +15 Enhancement bonus to Strength.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Strength",
+                  "title": "Strength",
+                  "text": "Strength +15"
+                }
+              ]
+            },
+            {
+              "text": "Wisdom +15",
+              "tooltip": "Wisdom +15: This item makes the wearer more in tune with her surroundings, granting a +15 Enhancement bonus to Wisdom.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Wisdom",
+                  "title": "Wisdom",
+                  "text": "Wisdom +15"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Nearly_Complete",
+          "title": "Nearly Complete",
+          "text": "Nearly Complete: Ability Score"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

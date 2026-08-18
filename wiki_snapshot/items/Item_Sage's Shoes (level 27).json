@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Sage's Shoes (level 27)",
+  "page_id": 41512,
+  "revision_id": 690642,
+  "revision_timestamp": "2026-06-30T16:31:56Z",
+  "fetched_at": "2026-08-17T22:50:12.129249+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Sage's Shoes\n  | type                     = Boots\n  | class                    = Clothing\n  | basevalue                = 10,820pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 190\n  | material                 = Leather\n  | hardness                 = 28\n  | minlevel                 = 27\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 19\n  | quest                    = Lines of Supply\n  | end reward               = yes\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Spell Focus|Conjuration|V}}\n* {{Hp|vitality|40}}\n  | crafting                 = \n  | description              = \n  | pic                      = Boots Generic Blue Gold.png\n  | picdesc                  = Sage's Shoes (Level 27).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "Conjuration Focus V",
+      "tooltip": "Conjuration Focus V: +5 Equipment bonus to the DC of Conjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Conjuration Focus V"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +40",
+      "tooltip": "Vitality +40: Passive: +40 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +40"
+        }
+      ]
+    }
+  ]
+}

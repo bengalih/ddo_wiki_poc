@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Soulrazor",
+  "page_id": 72889,
+  "revision_id": 634908,
+  "revision_timestamp": "2025-04-22T03:52:45Z",
+  "fetched_at": "2026-08-17T23:02:23.322649+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Soulrazor\n  | damage                   = 4.80[1d8+3] +15 Slash, Magic, Crystal\n  | crit                     = 17-20 / x2\n  | type                     = Long Sword\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 28\n  | durability               = 350\n  | material                 = Crystal\n  | hardness                 = 38\n  | cost                     = 11201pp 5gp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 40\n  | quest                    = Schism Shard Crafting\n  | chest                    = \n  | end reward               = \n  | turn in                  = 5 {{Item|Schism Shard}}s, {{Item|Legendary Echo of Blackrazor}} and {{Item|Sentient Jewel of Blackrazor}}\n  | epic                     = no\n  | mythic                   = no  \n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Overwhelming Stealer of Souls}}\n* {{Keen}}\n* {{Entropic|6}}\n* {{Vampirism|3}}\n* {{Immunity|Psychic Ward}}\n* {{Augment|Red}}\n* {{Augment|Orange}}\n  | crafting                 = Threads of Fate\n  | craftingupgrade          = \n  | description              = I delight in your voracity.\n  | pic                      = Soulrazor shown.jpg\n  | picdesc                  = Soulrazor.png\n  | tips                     = {{Bug|HP limit of {{Overwhelming Stealer of Souls|Legendary}}  is only 5,000 instead of 10,000.}}\n\nCan be upgraded with Threads of Fate to gain:\n* Tier 1: {{Mythic|Weapon|+2}}\n* Tier 2: {{Mythic|Weapon|+2}} → {{Mythic|Weapon|+4}}\n[[C:Threads of Fate upgradable items]]\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Overwhelming Stealer of Souls",
+      "tooltip": "Overwhelming Stealer of Souls: This weapon tears at the very essence of your foes. On any strike, this weapon applies a single stack of Soul Scar, which reduces your target's Will Saves, Armor Class, and Fortification by 1 per stack, max 10. Occasionally, this weapon attempts to rip the life from your foe, as if it were the victim of a Phantasmal Killer spell with a DC of 100 versus Will. Bosses (and enemies with more than 10,000 hit points) are immune to this effect. Killing a monster will consume your soul, adding a stack of Consumed Soul to you. Consumed Souls stack up to 20 times, and linger for 20 seconds. Each one provides a +1 Profane bonus to Damage and Melee Power. If you block or unequip this weapon, the Consumed Souls will be released.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Overwhelming_Stealer_of_Souls",
+          "title": "Overwhelming Stealer of Souls",
+          "text": "Overwhelming Stealer of Souls"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Entropic 6",
+      "tooltip": "Entropic 6: This weapon is intensely powerful, and crackles with destructive, unpredictable magic. It deals an additional 6d6 untyped damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Entropic",
+          "title": "Entropic",
+          "text": "Entropic 6"
+        }
+      ]
+    },
+    {
+      "text": "Vampirism 3",
+      "tooltip": "Vampirism 3: This weapon thirsts for the blood of your enemies, healing you for +3d2 hit points with each hit.Note: internal cooldown of 1 second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Vampirism 3"
+        }
+      ]
+    },
+    {
+      "text": "Psychic Ward",
+      "tooltip": "Psychic Ward: This items wards you against mind-altering effects and spells, such as Charm and Domination.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Psychic_Ward",
+          "title": "Psychic Ward",
+          "text": "Psychic Ward"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    }
+  ]
+}

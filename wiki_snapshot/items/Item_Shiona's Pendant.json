@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Shiona's Pendant",
+  "page_id": 11144,
+  "revision_id": 634703,
+  "revision_timestamp": "2025-04-22T03:39:09Z",
+  "fetched_at": "2026-08-17T22:57:12.249156+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Shiona's Pendant\n  | type                     = Necklace\n  | class                    = Jewelry\n  | basevalue                = 10,002pp\n  | weight                   = 0.10 lbs\n  | slot                     = Neck\n  | durability               = 110\n  | material                 = Steel\n  | minlevel                 = 18\n  | hardness                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = A New Invasion\n  | chest                    = Any chest ; [[Tower of Despair]], [[Nythirios]] chest\n  | mythic                   = no\n  | enhancements             = \n* {{SpellPower|Potency|48}}\n* {{Wizardry|VI}}\n* {{Named item sets|Spell Singer}}\n  | description              = This slim silver necklace once belonged to the renowned Spell Singer, Shiona.\n  | pic                      = Necklace Generic.png\n  | picdesc                  = Shiona's Pendant.png\n}}\n[[Category:Tower of Despair loot]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Potency +48",
+      "tooltip": "Potency +48: Passive: +48 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +48"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry VI",
+      "tooltip": "Wizardry VI: This item grants the wearer +150 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry VI"
+        }
+      ]
+    },
+    {
+      "text": "Spell Singer",
+      "tooltip": "Spell Singer: 2 additional Bard songs per rest.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Spell_Singer",
+          "title": "Named item sets",
+          "text": "Spell Singer"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Spear Bane",
+  "page_id": 9947,
+  "revision_id": 634916,
+  "revision_timestamp": "2025-04-22T03:53:17Z",
+  "fetched_at": "2026-08-17T23:02:36.049530+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Spear Bane\n  | type                     = Bracers\n  | basevalue                = 120 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Wrist\n  | quest                    = The Cannith Crystal\n  | end reward               = yes\n  | durability               = 20\n  | material                 = Leather\n  | hardness                 = 6\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Spearblock|ii}}\n  | description              = This pair of simple leather bracers glow faintly of magic.\n  | pic                      = Bracers Generic.png\n  | picdesc                  = Spear Bane.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "enchantments": [
+    {
+      "text": "Spearblock II",
+      "tooltip": "Spearblock II: Passive: Reduces physical damage taken by 4, except from Bludgeoning or Slashing weapons. (Damage Reduction: 4/Slash, Bludgeon)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spearblock",
+          "title": "Spearblock",
+          "text": "Spearblock II"
+        }
+      ]
+    }
+  ]
+}

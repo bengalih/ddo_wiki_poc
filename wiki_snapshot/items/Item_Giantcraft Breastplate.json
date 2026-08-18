@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Giantcraft Breastplate",
+  "page_id": 33425,
+  "revision_id": 631064,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:10:17.193583+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Giantcraft Breastplate\n  | type                     = Breastplate\n  | feat                     = Medium\n  | race                     = \n  | minlevel                 = 10\n  | bind                     = {{Bind|BtC|BoA}}\n  | epic                     = no\n  | ac                       = +12\n  | maxdexbonus              = 4\n  | acp                      = -3\n  | asf                      = 25%\n  | durability               = 164\n  | material                 = Adamantine\n  | hardness                 = 30\n  | basevalue                = 5,020pp\n  | weight                   = 30 lbs\n  | released                 = Update 17\n  | quest                    = Giantcraft Armor\n  | chest                    = \n  | end reward               = \n  | turn in                  = 10 [[Ancient Giant Relic]]s\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Guard|haste}}\n* {{Guard|vengeful|guard=off}}\n* {{RelentlessFury}}\n* {{Mat|Adamantine}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Giantcraft Breastplate shown.jpg\n  | picdesc                  = Giantcraft Breastplate.png\n  | description              = A breastplate imbued with the magic of the ancient giant empire.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Adamantine",
+  "armor_type": "Breastplate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Haste Guard",
+      "tooltip": "Haste Guard: When you are hit by enemies, there is a chance you will be Hasted, quickening your attack and movement speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Haste_Guard",
+          "title": "Haste Guard",
+          "text": "Haste Guard"
+        }
+      ]
+    },
+    {
+      "text": "Vengeful",
+      "tooltip": "Vengeful: When its wielder is hit in battle, this weapon has a 10% chance to cause him or her to become full of anger and go into a Rage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vengeful",
+          "title": "Vengeful",
+          "text": "Vengeful"
+        }
+      ]
+    },
+    {
+      "text": "Relentless Fury",
+      "tooltip": "Relentless Fury: While this item is equipped, any killing blows you strike against enemies may drive you into a furious rage, providing a 5% Enhancement damage bonus to your melee, ranged and unarmed attacks for 30 seconds. Slaying weaker opponents has a reduced chance of producing this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Relentless_Fury",
+          "title": "Relentless Fury",
+          "text": "Relentless Fury"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    }
+  ]
+}

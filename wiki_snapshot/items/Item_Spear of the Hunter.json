@@ -1,0 +1,132 @@
+{
+  "page_title": "Item:Spear of the Hunter",
+  "page_id": 94799,
+  "revision_id": 634917,
+  "revision_timestamp": "2025-04-22T03:53:21Z",
+  "fetched_at": "2026-08-17T23:02:37.577572+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Spear of the Hunter\n  | minlevel                 = 29\n  | type                     = Quarterstaff\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = Two-handed\n  | damage                   = 5.30[1d6+6] + 15 Pierce, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 370\n  | material                 = Wood\n  | hardness                 = 39\n  | cost                     = 11,600 pp 1 cp\n  | weight                   = 4 lbs\n  | released                 = Update 53\n  | quest                    = Hunt or Be Hunted\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{The Falling Star}}\n* {{Thrill of the Hunt}}\n* {{Bleeding|6}}\n* {{Vorpal|Sovereign}}\n* {{Named item sets|Huntmaster's Favor}}\n* {{Augment|Red}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | description              = The Master of the Hunt has graciously granted you this as a token of his respect.\n  | pic                      = Spear of the Hunter shown.jpg\n  | picdesc                  = Spear of the Hunter.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "The Falling Star",
+      "tooltip": "The Falling Star: On hit, this weapon has a chance to put down a falling star upon your foes, dealing 90d6 Fire Damage and 30d6 Bludgeoning Damage to enemies caught within the blast. This blast is so powerful it has a chance to knock nearby enemies down upon impact.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/The_Falling_Star",
+          "title": "The Falling Star",
+          "text": "The Falling Star"
+        }
+      ]
+    },
+    {
+      "text": "Thrill of the HuntOn Hit: You have a small chance to attempt to hold a monster in place. Even if the Hold is unsuccessful, their will saves will be reduced by 5.",
+      "tooltip": "Thrill of the Hunt: \"Lesser beings hunt for the prize, but for me, the hunt is prize enough.\"",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Thrill_of_the_Hunt_(enchantment)",
+          "title": "Thrill of the Hunt (enchantment)",
+          "text": "Thrill of the Hunt"
+        },
+        {
+          "target": "/page/Hold_Monster",
+          "title": "Hold Monster",
+          "text": "Hold"
+        }
+      ]
+    },
+    {
+      "text": "Bleeding 6",
+      "tooltip": "Bleeding 6: This weapon is wickedly curved, with spines and hooks meant to cause damage to those with flesh. This weapon does 6d8 bleeding damage to those that are vulnerable to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleeding",
+          "title": "Bleeding",
+          "text": "Bleeding 6"
+        }
+      ]
+    },
+    {
+      "text": "Sovereign Vorpal",
+      "tooltip": "Sovereign Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 3000 Hit Points, they are instantly slain. If your target has above 3000 Hit Points, they take 300 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Sovereign_Vorpal",
+          "title": "Vorpal",
+          "text": "Sovereign Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Huntmaster's Favor",
+      "tooltip": "Huntmaster's Favor:",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Huntmaster's_Favor",
+          "title": "Named item sets",
+          "text": "Huntmaster's Favor"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

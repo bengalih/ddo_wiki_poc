@@ -1,0 +1,43 @@
+{
+  "page_title": "Item:Alchemical Longbow",
+  "page_id": 19201,
+  "revision_id": 671270,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:02:35.653092+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Alchemical Longbow\n  | damage                   = 3[1d8] + 5 Pierce, Magic\n  | crit                     = 20 / x3\n  | type                     = Long Bow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | damagemod                = DEX\n  | attackmod                = DEX\n  | prof                     = Martial\n  | durability               = 150\n  | material                 = Steel\n  | hardness                 = 17\n  | minlevel                 = 12\n  | basevalue                = 10,207 pp 5 gp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|no}}\n  | quest                    = The Master Artificer\n  | chest                    = Either End chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{CraftingEffects|Alchemical (Prototype)}}\n  | crafting                 = Alchemical Crafting\n  | craftingupgrade          = \n  | pic                      = Alchemical Longbow shown.jpg\n  | picdesc                  = Alchemical Longbow.png\n  | description              = A large, curved wooden bow, often nearly as tall as a human. This weapon is popular among elves and rangers.\n  | tips                     = This bow's tooltip is a duplicate of that found on randomly generated Long Bows; as such, it erroneously claims that this weapon is made of [[Wood]]. \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Alchemical (Prototype)",
+      "tooltip": "Alchemical (Prototype): This experimental item, crafted and enchanted at ancient Cannith creation forges using powerful alchemy, is made of a material that allows elemental power sources to be bound to it. This item is in a prototype state and is currently in need of refinement before an elemental can be bound to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alchemical_Crafting",
+          "title": "Alchemical Crafting",
+          "text": "Alchemical (Prototype)"
+        }
+      ]
+    }
+  ]
+}

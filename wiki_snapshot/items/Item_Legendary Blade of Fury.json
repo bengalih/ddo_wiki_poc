@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Legendary Blade of Fury",
+  "page_id": 101471,
+  "revision_id": 687198,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:31:52.312549+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Blade of Fury\n  | prof                     = Martial\n  | damage                   = 5.20[2d6+4] + 15 Slash, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Great Sword\n  | class                    = Slashing\n  | minlevel                 = 31\n  | hand                     = Two-handed\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 410\n  | material                 = Steel\n  | hardness                 = 41\n  | basevalue                = 12,405pp\n  | weight                   = 8 lbs\n  | released                 = Update 59\n  | quest                    = Eyes of Stone\n  | chest                    = Coin Lords' chest\n  | mythic                   = yes\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Medusa Fury}}\n* {{Legendary Demon Fever}}\n* {{Wounding|3}}\n* {{CraftingEffects|Fusible}}\n  | description              = The signature weapon of a Medusa general from [[Droaam]] who attempted to invade Stormreach. It appears that it allowed her to enter a bloodthirsty rage when she was sufficiently wounded.\n  | crafting                 = Fusible\n  | craftingupgrade          = Legendary Crippling Fury Blade¦Legendary Maiming Fury Blade¦Legendary Vengeful Fury Blade¦Legendary Vampiric Fury Blade¦Legendary Crippling Fury Shortsword¦Legendary Maiming Fury Shortsword¦Legendary Vengeful Fury Shortsword¦Legendary Vampiric Fury Shortsword\n  | tips                     = \n  | pic                      = Blade of Fury shown.jpg\n  | picdesc                  = Legendary Blade of Fury.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 31,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Medusa Fury",
+      "tooltip": "Medusa Fury: When you fall below 25% of your maximum hit points you will enter a constant Medusa Fury until your hit points return to 25% or greater. Medusa Fury grants a +4 morale bonus to Strength and Constitution, a 5% morale bonus to your chance to doublestrike, and a -25% penalty to fortifications.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Medusa_Fury",
+          "title": "Medusa Fury",
+          "text": "Medusa Fury"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Demon Fever",
+      "tooltip": "Legendary Demon Fever: This deadly weapon saps the health from your enemies, dealing 3d3 Constitution damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Legendary_Demon_Fever",
+          "title": "Legendary Demon Fever",
+          "text": "Legendary Demon Fever"
+        }
+      ]
+    },
+    {
+      "text": "Wounding 3",
+      "tooltip": "Wounding 3: This weapon saps the health from your enemies, dealing 3 Constitution damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wounding",
+          "title": "Wounding",
+          "text": "Wounding 3"
+        }
+      ]
+    },
+    {
+      "text": "Fusible",
+      "tooltip": "Fusible: Something about this item looks incomplete. Perhaps in the future it will be compatible with another item to create a brand-new fusion of the two.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cauldron_of_Sora_Katra",
+          "title": "Cauldron of Sora Katra",
+          "text": "Fusible"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

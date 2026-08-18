@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Vampiric Fury Shortsword",
+  "page_id": 13104,
+  "revision_id": 672988,
+  "revision_timestamp": "2026-01-25T20:22:16Z",
+  "fetched_at": "2026-08-17T23:23:26.663641+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Vampiric Fury Shortsword\n  | damage                   = 1.40[1d6] + 5 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Short Sword\n  | class                    = Piercing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | reqtrait                 = \n  | durability               = 175\n  | material                 = Steel\n  | hardness                 = 22\n  | basevalue                = 4,801pp\n  | weight                   = 2 lbs\n  | minlevel                 = 12\n  | bind                     = {{Bind|BtA|BoA}}\n  | revamped                 = Update 76\n  | quest                    = Cauldron of Sora Katra\n  | chest                    = Upgraded version of [[Blade of Fury]] and [[Staff of the Shadow]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Medusa Fury}}\n* {{Demon Fever}}\n* {{Wounding|2}}\n* {{Vampirism|1}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | craftingnotes            = \n  | description              = This small sword, capable of conferring a disease to enemies, can now draw life from its wielder's foes.\n  | pic                      = Crippling Fury Shortsword shown.jpg\n  | picdesc                  = Vampiric Fury Shortsword.png\n  | tips                     = [[Blade of Fury]] + [[Staff of the Shadow]] + [[Mark of Sheshka]] + [[Mark of Tzaryan Rrac]]. When this Recipe is created, 2 shortswords are created\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Short Sword",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Medusa Fury",
+      "tooltip": "Medusa Fury: When you fall below 25% of your maximum hit points you will enter a constant Medusa Fury until your hit points return to 25% or greater. Medusa Fury grants a +4 morale bonus to Strength and Constitution, a 5% morale bonus to your chance to doublestrike, and a -25% penalty to fortifications.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Medusa_Fury",
+          "title": "Medusa Fury",
+          "text": "Medusa Fury"
+        }
+      ]
+    },
+    {
+      "text": "Demon Fever",
+      "tooltip": "Demon Fever: This weapon is infected with a night hag's Demon Fever disease. On critical hits it will transfer the disease to enemies, dealing 1d8 Constitution damage. A successful Fortitude save (DC 22) negates this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Demon_Fever",
+          "title": "Demon Fever",
+          "text": "Demon Fever"
+        }
+      ]
+    },
+    {
+      "text": "Wounding 2",
+      "tooltip": "Wounding 2: This weapon saps the health from your enemies, dealing 2 Constitution damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wounding",
+          "title": "Wounding",
+          "text": "Wounding 2"
+        }
+      ]
+    },
+    {
+      "text": "Vampirism 1",
+      "tooltip": "Vampirism 1: This weapon thirsts for the blood of your enemies, healing you for +1d2 hit points with each hit.Note: internal cooldown of 1 second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Vampirism 1"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

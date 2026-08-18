@@ -1,0 +1,151 @@
+{
+  "page_title": "Item:Light and Darkness",
+  "page_id": 10877,
+  "revision_id": 633251,
+  "revision_timestamp": "2025-04-22T02:01:14Z",
+  "fetched_at": "2026-08-17T05:41:40.024362+00:00",
+  "categories": [],
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Mithral",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Superior Stability",
+      "tooltip": "Superior Stability: This armor grants a + 6 deflection bonus to AC and a + 6 resistance bonus to saves for characters of True Neutral alignment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Superior_Stability",
+          "title": "Superior Stability",
+          "text": "Superior Stability"
+        }
+      ]
+    },
+    {
+      "text": "Protection +4",
+      "tooltip": "Protection +4: Passive: +4 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +4"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +4",
+      "tooltip": "Resistance +4: Passive: +4 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +4"
+        }
+      ]
+    },
+    {
+      "text": "DR 3/-",
+      "tooltip": "Damage Reduction 3/-: Reduces all physical damage by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Light armor and shields made from adamantine grant their user damage reduction of 1/-.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Mithral",
+      "tooltip": "Mithral: Mithral armor is one type lighter then normal. Arcane Spell Failure decreased by 10%. Maximum dexterity bonus increased by 2. Armor check penalty reduced by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mithral",
+          "title": "Mithral",
+          "text": "Mithral"
+        }
+      ]
+    },
+    {
+      "text": "Suppressed Power",
+      "tooltip": "Suppressed Power: This psionic item is powerful, but you sense that it has not unlocked all of its secrets to you at this time.",
+      "children": [
+        {
+          "text": "Adds DR 5/Epic",
+          "tooltip": "Damage Reduction 5/Epic: Reduces physical damage by 5, except from Epic aligned attacks.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Damage_Reduction",
+              "title": "Damage Reduction",
+              "text": "DR"
+            }
+          ]
+        },
+        {
+          "text": "Adds Bashing",
+          "tooltip": "Bashing: This shield does an additional 1 to 6 damage when used to shield bash.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bashing",
+              "title": "Bashing",
+              "text": "Bashing"
+            }
+          ]
+        },
+        {
+          "text": "Becomes Bound to Character on Equip",
+          "tooltip": null,
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bind",
+              "title": "Bind",
+              "text": "Bound to Character on Equip"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Suppressed_Power",
+          "title": "Suppressed Power",
+          "text": "Suppressed Power"
+        }
+      ]
+    }
+  ],
+  "item_class": "Shield",
+  "item_template": ""
+}

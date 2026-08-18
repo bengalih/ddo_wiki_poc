@@ -1,0 +1,138 @@
+{
+  "page_title": "Item:Prototype IV: Discharge System",
+  "page_id": 102613,
+  "revision_id": 690550,
+  "revision_timestamp": "2026-06-30T15:09:59Z",
+  "fetched_at": "2026-08-17T22:40:31.999208+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Rune Arm\n  | name                     = Prototype IV: Discharge System\n  | reqtrait                 = [[Rune Arm Use|Artificer Rune Arm Use]]\n  | UMD DC                   = None\n  | minlevel                 = 18\n  | spell                    = Electrical Blast\n  | target                   = Foe, Directional, Breakable\n  | school                   = Evocation\n  | sr                       = No\n  | spell desc               = Deals electrical damage to a target with a cone shaped blast of lightning. At higher charge tiers the blast is larger. Opponents within the blast receive a Reflex save for half damage.<br /><br />Charge Tier 1: 1d6+1, plus 1 per ART Level<br />Charge Tier 2: 2d8+3, plus 1d2 per ART Level<br />Charge Tier 3: 3d10+6, plus 1d10 per ART Level<br />Charge Tier 4: 4d12+10, plus 2d8 per ART Level<br />Charge Tier 5: 5d14+15, plus 2d10 per ART Level\n  | max charge               = V\n  | imbue                    = Electrical IV\n  | imbue die                = 2d8\n  | imbue dmg                = electrical\n  | craftable rune arm       = no\n  | food                     = yes\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 310\n  | material                 = Gem\n  | hardness                 = 28\n  | cost                     = 11,475 pp\n  | weight                   = 0.25 lbs\n  | released                 = Update 61 \n  | revamped                 = Update 80\n  | quest                    = Vecna Denied\n  | end reward               = \n  | turn in                  = \n  | chest                    = End chest\n  | enhancements             = \n* [[Electrical Blast]]\n* {{SpellPower|Magnetism|52|Insight}}\n* {{Spelllore|Lightning|15}}\n* {{Spell Focus|Rune Arm|5}}\n* {{Efficient Metamagic|Empower|II}}\n* {{Named item sets|Forbidden Knowledge}}\n* {{Augment|Green}}\n  | crafting                 = \n  | description              = Prototype Notes IV: Well, at least we managed to output the excess lightning SOMEWHERE. I'm not sure this solution is optimal, however. Back to the drawing board.\n  | pic                      = Electrical Blast icon.png\n  | picdesc                  = Prototype IV Discharge System.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Maximum Charge Tier: V",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maximum_Charge_Tier",
+          "title": "Maximum Charge Tier",
+          "text": "Maximum Charge Tier"
+        }
+      ]
+    },
+    {
+      "text": "Electrical Blast",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electrical_Blast",
+          "title": "Electrical Blast",
+          "text": "Electrical Blast"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Magnetism +52",
+      "tooltip": "Insightful Magnetism +52: Passive: +52 Insight bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Insightful Magnetism +52"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Lore +15%",
+      "tooltip": "Lightning Lore +15: Passive: Your Electricity spells gain a 15% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore +15%"
+        }
+      ]
+    },
+    {
+      "text": "Rune Arm Focus +5",
+      "tooltip": "Rune Arm Focus +5: +5 Equipment bonus to the DC of Rune Arm spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Rune Arm Focus +5"
+        }
+      ]
+    },
+    {
+      "text": "Efficient Metamagic - Empower II",
+      "tooltip": "Efficient Metamagic - Empower II: The additional spell point cost for using the Empower Metamagic feat is reduced by 2 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Empower II"
+        }
+      ]
+    },
+    {
+      "text": "Forbidden Knowledge",
+      "tooltip": "Forbidden Knowledge: 3 Pieces Equipped:+10 Profane bonus to PRR4 Pieces Equipped:+1 Profane bonus to all ability scores+1 Profane bonus to attack and damage5 Pieces Equipped:+5 Profane bonus to Melee and Ranged Power+10 Profane bonus to Universal Spell Power+1 Profane bonus to Spell DCs",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Forbidden_Knowledge",
+          "title": "Named item sets",
+          "text": "Forbidden Knowledge"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    },
+    {
+      "text": "Rune Arm Imbue: Electrical IV",
+      "tooltip": "Rune Arm Imbue: Electrical IV: Wearing this Rune Arm will imbue any weapon you wield, dealing 2d8 points of electrical damage per hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rune_Arm_Imbue",
+          "title": "Rune Arm Imbue",
+          "text": "Rune Arm Imbue"
+        }
+      ]
+    }
+  ]
+}

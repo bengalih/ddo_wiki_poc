@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Nightforge Armbands",
+  "page_id": 9883,
+  "revision_id": 633720,
+  "revision_timestamp": "2025-04-22T02:32:37Z",
+  "fetched_at": "2026-08-17T22:31:13.014923+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Nightforge Armbands\n  | basevalue                = 3,620 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Wrist\n  | type                     = Bracers\n  | durability               = 120\n  | material                 = Adamantine\n  | hardness                 = 19\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 9\n  | quest                    = A Relic of a Sovereign Past\n  | turn in                  = [[Adamantine Ore|10 Adamantine Ore]]\n  | mythic                   = no\n  | enhancements             = \n* {{clicky|Heroism |5|3}} \n* {{False Life|improved}}\n* {{Augment|Yellow}}\n  | pic                      = Bracers Generic.png\n  | picdesc                  = Nightforge Armbands.png\n  | description              = Images from famous battles are inscribed onto these adamantine bracers.\n}}\n{{DEFAULTSORT:Armbands}}",
+  "item_template": "Named item",
+  "material": "Adamantine",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Heroism — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Heroism Caster level: 5Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heroism",
+          "title": "Heroism",
+          "text": "Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Improved False Life",
+      "tooltip": "Improved False Life: This item grants the wearer +20 maximum health.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)#Improved_False_Life",
+          "title": "False Life (enchantment)",
+          "text": "Improved False Life"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

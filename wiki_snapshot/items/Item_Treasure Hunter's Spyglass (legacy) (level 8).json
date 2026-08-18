@@ -1,0 +1,150 @@
+{
+  "page_title": "Item:Treasure Hunter's Spyglass (legacy) (level 8)",
+  "page_id": 14301,
+  "revision_id": 635613,
+  "revision_timestamp": "2025-04-22T04:39:33Z",
+  "fetched_at": "2026-08-17T23:21:12.527397+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = {{Item|Treasure Hunter's Spyglass}}\n  | basevalue                = 2,505 pp\n  | weight                   = 0.10 lbs\n  | type                     = Trinket\n  | slot                     = Trinket\n  | durability               = 60\n  | material                 = Gem\n  | hardness                 = 25\n  | minlevel                 = 8\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|copper|650}}{{CCi|silver|375}}{{CCi|amber|20}} at [[Dusty Old Treasure of Crystal Cove]]\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Detect Secret Doors|10|5}}\n* [[Upgradeable - Tier 1]]\n* {{Skills|Spot|7}}\n* {{Skills|Search|7}}\n* {{Skills|UMD|1}}\n** [[Upgradeable - Tier 2]]\n*** {{Skills|Spot|7}} &rarr; {{Skills|Spot|11}}\n*** {{Skills|Search|7}} &rarr; {{Skills|Search|11}}\n** [[Upgradeable - Tier 3]]\n*** Adds {{Stat|INT|4}}\n  | description              = A tool such as this is a great aid to the treasure-seeking pirate, for it allows him or her to locate small details, find secret passages and notice any traps that might be lurking along the way.\n  | crafting                 = Treasure of Crystal Cove\n  | craftingupgrade          = \n  | pic                      = Trinket Generic Spyglass.png\n  | picdesc                  = Treasure Hunter's Spyglass (Level 8) (Tier 1).png\n  | tips                     = See also: [[Treasure Hunter's Spyglass]] - Full table of the Treasure Hunter's Spyglass line.\n* {{CCi|amber|45}}{{CCi|obsidian|30}}{{CCi|green|200}}: {{Popup|Tier 2|[[File:Treasure Hunter's Spyglass (level 8)(tier 2).png|450 px]]|long=y}}\n* {{CCi|amber|70}}{{CCi|obsidian|50}}{{CCi|green|400}}{{CCi|cunning|1}}: {{Popup|Tier 3|[[File:Treasure Hunter's Spyglass (level 8)(tier 3).png|450 px]]|long=y}}\n}}<noinclude>[[Category:Treasure of Crystal Cove legacy reward items]]</noinclude>",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Detect Secret Doors — 5 Charges (Recharged/Day:5)",
+      "tooltip": "Detect Secret DoorsCaster level: 10Charges: 5 (5/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Detect_Secret_Doors",
+          "title": "Detect Secret Doors",
+          "text": "Detect Secret Doors"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Upgradeable_-_Tier_1",
+          "title": "Upgradeable - Tier 1",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Spot +7",
+      "tooltip": "Spot +7: Passive: +7 Competence bonus to the Spot skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spot",
+          "title": "Spot",
+          "text": "Spot +7"
+        }
+      ]
+    },
+    {
+      "text": "Search +7",
+      "tooltip": "Search +7: Passive: +7 Competence bonus to the Search skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Search",
+          "title": "Search",
+          "text": "Search +7"
+        }
+      ]
+    },
+    {
+      "text": "Use Magic Device +1",
+      "tooltip": "Use Magic Device +1: Passive: +1 Competence bonus to the Use Magic Device skill.",
+      "children": [
+        {
+          "text": "Upgradeable - Tier 2",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Spot +7 → Spot +11",
+              "tooltip": "Spot +7: Passive: +7 Competence bonus to the Spot skill.Spot +11: Passive: +11 Competence bonus to the Spot skill.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Spot",
+                  "title": "Spot",
+                  "text": "Spot +7"
+                },
+                {
+                  "target": "/page/Spot",
+                  "title": "Spot",
+                  "text": "Spot +11"
+                }
+              ]
+            },
+            {
+              "text": "Search +7 → Search +11",
+              "tooltip": "Search +7: Passive: +7 Competence bonus to the Search skill.Search +11: Passive: +11 Competence bonus to the Search skill.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Search",
+                  "title": "Search",
+                  "text": "Search +7"
+                },
+                {
+                  "target": "/page/Search",
+                  "title": "Search",
+                  "text": "Search +11"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_2",
+              "title": "Upgradeable - Tier 2",
+              "text": "Upgradeable - Tier 2"
+            }
+          ]
+        },
+        {
+          "text": "Upgradeable - Tier 3",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Intelligence +4",
+              "tooltip": "Intelligence +4: This item focuses the power of the wearer's mind, granting a +4 Enhancement bonus to Intelligence.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Intelligence",
+                  "title": "Intelligence",
+                  "text": "Intelligence +4"
+                }
+              ]
+            }
+          ],
+          "links": [
+            {
+              "target": "/page/Upgradeable_-_Tier_3",
+              "title": "Upgradeable - Tier 3",
+              "text": "Upgradeable - Tier 3"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Use_Magic_Device",
+          "title": "Use Magic Device",
+          "text": "Use Magic Device +1"
+        }
+      ]
+    }
+  ]
+}

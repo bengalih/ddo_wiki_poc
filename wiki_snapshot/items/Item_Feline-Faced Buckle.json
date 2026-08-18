@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Feline-Faced Buckle",
+  "page_id": 99347,
+  "revision_id": 630746,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:02:30.755278+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Feline-Faced Buckle\n  | minlevel                 = 15\n  | type                     = Belt\n  | race                     = Tabaxi Trailblazer\n  | slot                     = Waist\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | cost                     = 6,002 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 54\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Hp|False Life|23}}\n* {{Stat|Wisdom|6}}\n  | crafting                 = \n  | description              = An ornate belt buckle shaped with the visage of Traiblazers who came before.\n  | pic                      = Belt Generic.png\n  | picdesc                  = Feline-Faced Buckle.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "False Life +23",
+      "tooltip": "False Life +23: +23 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +23"
+        }
+      ]
+    },
+    {
+      "text": "Wisdom +6",
+      "tooltip": "Wisdom +6: This item makes the wearer more in tune with her surroundings, granting a +6 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +6"
+        }
+      ]
+    }
+  ]
+}

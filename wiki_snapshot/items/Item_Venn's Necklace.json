@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Venn's Necklace",
+  "page_id": 2777,
+  "revision_id": 635706,
+  "revision_timestamp": "2025-04-22T04:45:45Z",
+  "fetched_at": "2026-08-17T23:23:47.200773+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Venn's Necklace\n  | slot                     = Neck\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 40\n  | material                 = Leather\n  | hardness                 = 8\n  | basevalue                = 1220pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 3\n  | type                     = Necklace\n  | quest                    = The Lost Seekers\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Wizardry|I}}\n* {{Augment|Colorless}}\n  | description              = Venn ar-Kerran never understood the magical nature of this family heirloom, his brother [[Arlos ar-Kerran|Arlos]] did. He has offered it to you in thanks for saving his life.\n  | pic                      = Necklace Generic Gold.png\n  | picdesc                  = Venn's_Necklace.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Wizardry I",
+      "tooltip": "Wizardry I: This item grants the wearer +25 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry I"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

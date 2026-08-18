@@ -1,0 +1,44 @@
+{
+  "page_title": "Item:Martial Outfit (level 16)",
+  "page_id": 42355,
+  "revision_id": 686671,
+  "revision_timestamp": "2026-05-27T17:34:16Z",
+  "fetched_at": "2026-08-17T22:23:12.693039+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Martial Outfit\n  | type                     = Outfit\n  | feat                     = Cloth\n  | ac                       = +7\n  | minlevel                 = 16\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 100\n  | material                 = Cloth\n  | hardness                 = 11\n  | basevalue                = 6,405pp 5gp\n  | weight                   = \n  | released                 = Update 19\n  | quest                    = Through a Mirror Darkly\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|7}}\n* {{Heroism}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Martial Outfit shown.jpg\n  | picdesc                  = Martial Outfit (Level 16).png\n  | description              = \n  | notes                    = {{Non-food}} \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Outfit",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +7",
+      "tooltip": "Armor Bonus +7: This item surrounds the wearer with an invisible but tangible field of force, granting +7 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +7"
+        }
+      ]
+    },
+    {
+      "text": "Heroism",
+      "tooltip": "Heroism: Passive: +2 morale bonus to all your attack rolls, saving throws, and skill checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heroism_(enchantment)",
+          "title": "Heroism (enchantment)",
+          "text": "Heroism"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "page_title": "Item:Jolly Roger Bomb",
+  "page_id": 14116,
+  "revision_id": 668186,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:25:52.459480+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Jolly Roger Bomb\n  | damage                   = [1] + 0 Bludgeon\n  | crit                     = 20 / x1\n  | type                     = Dart\n  | hand                     = Thrown\n  | class                    = Thrown\n  | prof                     = Simple\n  | UMD DC                   = 20\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 5\n  | material                 = Glass\n  | hardness                 = 5\n  | minlevel                 = 5\n  | revamped                 = Update 76\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = 100 silver [[doubloons]] at [[Euphonia's Barter Box]], \n  | basevalue                = 5cp\n  | weight                   = 0.05 lbs\n  | bind                     = {{Bind|no}}\n  | mythic                   = no\n  | enhancements             = \n* Special: Casts [[Slay Living]] at caster level 10.\n  | pic                      = Bottled Fear orb.png\n  | picdesc                  = Jolly Roger Bomb.png\n  | description              = A glass flask filled with a dark gas. When it breaks on impact, nearby enemies are subjected to a Slay Living effect. ('''Slays any living enemy''' or deals '''12 to 18 damage''' on a successful Fortitude save.\n''D&D Dice: Slay a living enemy of deals 3d3+9 damage on a successful Fort save.)\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dart",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Special: Casts Slay Living at caster level 10.",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Slay_Living",
+          "title": "Slay Living",
+          "text": "Slay Living"
+        }
+      ]
+    }
+  ]
+}

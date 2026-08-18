@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Robe of Shadow (level 16)",
+  "page_id": 12379,
+  "revision_id": 689254,
+  "revision_timestamp": "2026-06-19T11:12:51Z",
+  "fetched_at": "2026-08-17T22:47:48.168065+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Robe of Shadow}}\n  | type                     = Robe\n  | feat                     = Cloth\n  | ac                       = +0\n  | minlevel                 = 16\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | durability               = 165\n  | material                 = Cloth\n  | hardness                 = 18\n  | basevalue                = 6,405 pp 5 gp\n  | weight                   = 0 lbs\n  | quest                    = The Night Revels\n  | chest                    = \n  | turn in                  = Upgrade of [[Item:Robe of Shadow (level 12)|Robe of Shadow (level 12)]]\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Nightshield|14|3}}\n* {{SpellPower|Nullification|78}}\n* {{Spelllore|Void|v}}\n* {{False Life|greater}}\n* {{Spell Focus|Necromancy|I}}\n  | crafting                 = The Night Revels\n  | craftingupgrade          = Robe of Shadow (level 20)\n  | pic                      = Robe of Shadow shown.jpg\n  | picdesc                  = Robe of Shadow (level 16).png\n  | description              = This robe is as dark as the night sky and almost seems to crawl visibly with moving shadows. It boosts the power of the wearer's negative energy magic, and grants a measure of necromantic protection against enemy attacks.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "Nightshield — 3 Charges (Recharged/Day:3)",
+      "tooltip": "NightshieldCaster level: 14Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nightshield",
+          "title": "Nightshield",
+          "text": "Nightshield"
+        }
+      ]
+    },
+    {
+      "text": "Nullification +78",
+      "tooltip": "Nullification +78: Passive: +78 Equipment bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Nullification +78"
+        }
+      ]
+    },
+    {
+      "text": "Void Lore V",
+      "tooltip": "Void Lore V: Passive: Your Negative Energy and Poison spells gain a 15% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Void Lore V"
+        }
+      ]
+    },
+    {
+      "text": "Greater False Life",
+      "tooltip": "Greater False Life: This item grants the wearer +30 maximum health.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)#Greater_False_Life",
+          "title": "False Life (enchantment)",
+          "text": "Greater False Life"
+        }
+      ]
+    },
+    {
+      "text": "Necromancy Focus I",
+      "tooltip": "Necromancy Focus I: +1 Equipment bonus to the DC of Necromancy spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Necromancy Focus I"
+        }
+      ]
+    }
+  ]
+}

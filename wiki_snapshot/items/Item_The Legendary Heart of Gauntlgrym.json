@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:The Legendary Heart of Gauntlgrym",
+  "page_id": 126205,
+  "revision_id": 700977,
+  "revision_timestamp": "2026-07-28T01:35:29Z",
+  "fetched_at": "2026-08-17T23:14:57.555031+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = The Legendary Heart of Gauntlgrym\n  | damage                   = 6[1d10+3] + 16 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Dwarven War Axe\n  | class                    = Slashing\n  | prof                     = Exotic\n  | hand                     = One-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 435\n  | material                 = Steel\n  | hardness                 = 45\n  | minlevel                 = 35\n  | basevalue                = 14,003pp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 81\n  | quest                    = A Long Way to Mushrooms\n  | chest                    = end chest\n  | mythic                   = yes\n  | enhancements             = \n* {{Enhancement bonus|w|16}}\n* {{Impactful|7}}\n* {{Crushing|16}}\n* {{Telekinetic||117}}\n* {{Limb Chopper}}\n* {{Augment|Orange}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This axe, made to honor Dwarven craftspeople, was empowered by a particularly powerful Duergar Mindcleaver.\n  | pic                      = The Heart of Gauntlgrym shown.jpg\n  | picdesc                  = The Legendary Heart of Gauntlgrym.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Dwarven War Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 35,
+  "enchantments": [
+    {
+      "text": "+16 Enhancement Bonus",
+      "tooltip": "+16 Enhancement Bonus: +16 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+16 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Impactful 7",
+      "tooltip": "Impactful 7: This effect causes the edges of this weapon to ripple with force, dealing 7 to 42 force on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impactful",
+          "title": "Impactful",
+          "text": "Impactful 7"
+        }
+      ]
+    },
+    {
+      "text": "Crushing 16",
+      "tooltip": "Crushing 16: This effect causes the edges of this weapon to ripple with force, dealing 16d6 force damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crushing",
+          "title": "Crushing",
+          "text": "Crushing 16"
+        }
+      ]
+    },
+    {
+      "text": "Telekinetic 117",
+      "tooltip": "Telekinetic 117: Targets that suffer a critical hit from a Telekinetic weapon must make a DC 117 Reflex saving throw or be knocked down.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Telekinetic",
+          "title": "Telekinetic",
+          "text": "Telekinetic 117"
+        }
+      ]
+    },
+    {
+      "text": "Limb Chopper",
+      "tooltip": "Limb Chopper: This potent and feared ability allows the weapon to sever the limbs of those it strikes. On an attack roll of 20 which is confirmed as a critical hit, the weapon severs an opponent's limb from its body. Some creatures, including many aberrations and all oozes, have no limbs. Others, such as golems and undead creatures, are not affected by the loss of their limbs. Most other creatures, however, have their movement slowed 75% and attacks slowed by 50% when a limb is cut off.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Limb_Chopper",
+          "title": "Limb Chopper",
+          "text": "Limb Chopper"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

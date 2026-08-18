@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Vibrant Purple Ioun Stone (unsuppressed)",
+  "page_id": 15584,
+  "revision_id": 635719,
+  "revision_timestamp": "2025-04-22T04:46:37Z",
+  "fetched_at": "2026-08-17T23:24:05.666357+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Vibrant Purple Ioun Stone\n  | minlevel                 = 5\n  | type                     = Trinket\n  | slot                     = Trinket\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 30\n  | material                 = Gem\n  | hardness                 = 22\n  | basevalue                = 420 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Dreamforge\n  | end reward               = \n  | turn in                  = \n  | chest                    = [[Suppressed Power]] Crafting\n  | mythic                   = no\n  | enhancements             = \n* {{Wizardry|Archmagi}}\n* {{Spellpen|III}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A vibrant purple gem about 1 inch in diameter.\n  | pic                      = Gem Generic Purple.png\n  | picdesc                  = Vibrant Purple Ioun Stone (unsuppressed).png\n  | tips                     = \n* Unlike most trinkets, Ioun Stones have an actual visual effect on your character - a soft glow matching its color will slowly rotate around you.\n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Archmagi",
+      "tooltip": "Archmagi: This item grants the wearer +200 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Archmagi"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration III",
+      "tooltip": "Spell Penetration III: Passive: +3 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration III"
+        }
+      ]
+    }
+  ]
+}

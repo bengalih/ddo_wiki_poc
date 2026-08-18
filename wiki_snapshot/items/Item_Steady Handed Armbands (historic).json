@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Steady Handed Armbands (historic)",
+  "page_id": 11065,
+  "revision_id": 635048,
+  "revision_timestamp": "2025-04-22T04:01:53Z",
+  "fetched_at": "2026-08-17T23:05:43.400258+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=item|replaced={{Item|Steady Handed Armbands}}}}\n\n{{Named item|Jewelry\n  | name                     = Steady Handed Armbands\n  | type                     = Bracers\n  | basevalue                = 2,520 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Wrist\n  | durability               = 60\n  | material                 = Leather\n  | hardness                 = 15\n  | minlevel                 = 11\n  | bind                     = {{Bind|no}}\n  | quest                    = Madstone Crater\n  | chest                    = End Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Attack Bonus|1}}\n* {{Stat|DEX|3}}\n  | description              = These leather bands aren't too spectacular looking, but when you put them on, it is almost as if your arms are weightless.\n  | pic                      = Bracers Generic Steady.png\n  | picdesc                  = Steady Handed Armbands.png\n}}",
+  "item_template": "History",
+  "material": "Leather",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Attack Bonus +1",
+      "tooltip": "Attack Bonus +1: Provides a +1 competence bonus to your attack rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Attack_bonus",
+          "title": "Attack bonus",
+          "text": "Attack Bonus +1"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +3",
+      "tooltip": "Dexterity +3: This item makes the wearer more nimble and dexterous, granting a +3 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Silver Necklace of Prophecy",
+  "page_id": 11149,
+  "revision_id": 634787,
+  "revision_timestamp": "2025-04-22T03:44:41Z",
+  "fetched_at": "2026-08-17T22:59:20.076914+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Silver Necklace of Prophecy\n  | type                     = Necklace\n  | class                    = Jewelry\n  | slot                     = Neck\n  | durability               = 110\n  | material                 = Mithral\n  | hardness                 = 11\n  | basevalue                = 3,620 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 9\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Plane of Night\n  | chest                    = warded chest\n  | enhancements             = \n* {{Spelllore|Ice|11}}\n* {{SpellPower|Glaciation|73}}\n* {{Absorption|Cold|19}}\n* {{Elemental Resistance|Cold|20}}\n* {{Named item sets|Draconic Prophecy}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Silver Necklace of Prophecy\n  | description              = This glittering necklace is rumored to contain important hints of the draconic prophecy. They rarely fall in the hands of non-dragon kind.\n  | pic                      = Necklace Generic Prophecy.png\n  | picdesc                  = Silver Necklace of Prophecy.png\n}}",
+  "item_template": "Named item",
+  "material": "Mithral",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Ice Lore +11%",
+      "tooltip": "Ice Lore +11: Passive: Your Cold spells gain a 11% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Ice Lore +11%"
+        }
+      ]
+    },
+    {
+      "text": "Glaciation +73",
+      "tooltip": "Glaciation +73: Passive: +73 Equipment bonus to Cold Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Glaciation",
+          "title": "Glaciation",
+          "text": "Glaciation +73"
+        }
+      ]
+    },
+    {
+      "text": "Cold Absorption +19%",
+      "tooltip": "Cold Absorption +19%: Passive: 19% Enhancement Bonus to Cold Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Cold Absorption +19%"
+        }
+      ]
+    },
+    {
+      "text": "Cold Resistance +20",
+      "tooltip": "Cold Resistance +20: Passive: +20 Enhancement bonus to your Cold Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Resistance",
+          "title": "Cold Resistance",
+          "text": "Cold Resistance +20"
+        }
+      ]
+    },
+    {
+      "text": "Draconic Prophecy",
+      "tooltip": "Draconic Prophecy: 2 Pieces Equipped:+5 Artifact bonus to Universal Spellpower+10 Artifact bonus to Magical Resistance Rating Cap",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Draconic_Prophecy",
+          "title": "Named item sets",
+          "text": "Draconic Prophecy"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

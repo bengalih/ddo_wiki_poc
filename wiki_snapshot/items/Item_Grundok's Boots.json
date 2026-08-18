@@ -1,0 +1,40 @@
+{
+  "page_title": "Item:Grundok's Boots",
+  "page_id": 10667,
+  "revision_id": 631310,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:17:23.525095+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Grundok's Boots\n  | minlevel                 = 1\n  | slot                     = Feet\n  | type                     = Boots\n  | durability               = 20\n  | material                 = Gold\n  | hardness                 = 3\n  | basevalue                = 405 pp\n  | weight                   = 0.10 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = The Kobolds' New Ringleader\n  | chest                    = [[Grundok the Quick]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|Jump|3}}\n* {{Augment|Yellow}}\n  | description              = These magical boots were taken from the chest of the bugbear Grundok.\n  | pic                      = Boots Generic Grundok.png\n  | picdesc                  = Grundok's Boots.png\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "enchantments": [
+    {
+      "text": "Jump +3",
+      "tooltip": "Jump +3: Passive: +3 Competence bonus to the Jump skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Jump_(skill)",
+          "title": "Jump (skill)",
+          "text": "Jump +3"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

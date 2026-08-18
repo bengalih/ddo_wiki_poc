@@ -1,0 +1,171 @@
+{
+  "page_title": "Item:Ancient Gemstone",
+  "page_id": 24279,
+  "revision_id": 628258,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:03:42.490133+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Ancient Gemstone\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+20|m=+9|c=+3}}\n  | durability               = 250\n  | material                 = Gem\n  | hardness                 = 30\n  | basevalue                = 8010pp\n  | weight                   = 0 lbs\n  | bind                     = {{Bind|BtC|BoE}} or {{Bind|BtC|BoA}}\n  | minlevel                 = 20\n  | quest                    = The Lost Thread\n  | chest                    = end chest ; [[Menace of the Underdark: The Darkening]], quest chain end reward\n  | enhancements             = \n* {{Enhancement bonus|a|6}}\n* {{Resistance|6}}\n* {{Stat|CON|7}}\n* {{Good Luck|2}}\n* Upgrades:\n** 5 [[Commendation: Clerics of Amaunator]] adds {{Named item sets|Amaunator's Blessing}}\n** 5 [[Commendation: Druids of the King's Forest]] adds {{Named item sets|Woodsman's Guile}}\n** 5 [[Commendation: Purple Dragon Knights]] adds {{Named item sets|Knight's Loyalty}}\n** 5 [[Commendation: Villagers of Eveningstar]] adds {{Named item sets|Way of the Sun Soul}}\n** 5 [[Commendation: War Wizards]] adds {{Named item sets|Battle Arcanist}}\n  | crafting                 = Commendations {{!}} Eveningstar Commendations Traders\n  | craftingupgrade          = \n  | pic                      = Ancient Gemstone shown.jpg\n  | picdesc                  = Ancient Gemstone.png\n  | description              = This metal and gem-studded sphere was found in the ruined Temple of Mystra. It may have been used as a power source for some sort of magical device or construct.\n  | notes                    = This item, like the others from this chain, can be acquired as an end reward for the chain as {{Bind|BtC|BoA}}.\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +6",
+      "tooltip": "Resistance +6: Passive: +6 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +6"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +7",
+      "tooltip": "Constitution +7: This item gives the wearer improved health, granting a +7 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +7"
+        }
+      ]
+    },
+    {
+      "text": "Good Luck +2",
+      "tooltip": "Good Luck +2: This item gives a +2 Luck bonus to all saves and skill checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Good_Luck",
+          "title": "Good Luck",
+          "text": "Good Luck +2"
+        }
+      ]
+    },
+    {
+      "text": "Upgrades:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "5 Commendation: Clerics of Amaunator adds Amaunator's Blessing",
+          "tooltip": "Amaunator's Blessing: When all three items from the set are equipped, you will gain a 10% Enhancement discount to the Spell Point cost of all your spells.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Commendation:_Clerics_of_Amaunator",
+              "title": "Commendation: Clerics of Amaunator",
+              "text": "Commendation: Clerics of Amaunator"
+            },
+            {
+              "target": "/page/Named_item_sets#Amaunator's_Blessing",
+              "title": "Named item sets",
+              "text": "Amaunator's Blessing"
+            }
+          ]
+        },
+        {
+          "text": "5 Commendation: Druids of the King's Forest adds Woodsman's Guile",
+          "tooltip": "Woodsman's Guile: When all three items from the set are equipped, you will gain a +4 bonus to your To-Hit and +6 bonus to your Damage on any attack that would be considered a Sneak Attack.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Commendation:_Druids_of_the_King%27s_Forest",
+              "title": "Commendation: Druids of the King's Forest",
+              "text": "Commendation: Druids of the King's Forest"
+            },
+            {
+              "target": "/page/Named_item_sets#Woodsman's_Guile",
+              "title": "Named item sets",
+              "text": "Woodsman's Guile"
+            }
+          ]
+        },
+        {
+          "text": "5 Commendation: Purple Dragon Knights adds Knight's Loyalty",
+          "tooltip": "Knight's Loyalty: When all three items from the set are equipped, you will gain a +3 artifact bonus to your To-Hit and Damage rolls, and a +3 Insight bonus to Natural Armor.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Commendation:_Purple_Dragon_Knights",
+              "title": "Commendation: Purple Dragon Knights",
+              "text": "Commendation: Purple Dragon Knights"
+            },
+            {
+              "target": "/page/Named_item_sets#Knight's_Loyalty",
+              "title": "Named item sets",
+              "text": "Knight's Loyalty"
+            }
+          ]
+        },
+        {
+          "text": "5 Commendation: Villagers of Eveningstar adds Way of the Sun Soul",
+          "tooltip": "Way of the Sun Soul: When all three item from the set are equipped and you are in a centered state, you will gain +2 artifact bonus to To-Hit and Damage rolls. In addition, when you roll a natural 20 on an attack roll that is confirmed as a critical hit, you will gain temporary benefit based on the elemental stance you are in, if any.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Commendation:_Villagers_of_Eveningstar",
+              "title": "Commendation: Villagers of Eveningstar",
+              "text": "Commendation: Villagers of Eveningstar"
+            },
+            {
+              "target": "/page/Named_item_sets#Way_of_the_Sun_Soul",
+              "title": "Named item sets",
+              "text": "Way of the Sun Soul"
+            }
+          ]
+        },
+        {
+          "text": "5 Commendation: War Wizards adds Battle Arcanist",
+          "tooltip": "Battle Arcanist: When all three items from the set are equipped, you will gain a 10% Enhancement discount to the Spell Point cost of all your spells.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Commendation:_War_Wizards",
+              "title": "Commendation: War Wizards",
+              "text": "Commendation: War Wizards"
+            },
+            {
+              "target": "/page/Named_item_sets#Battle_Arcanist",
+              "title": "Named item sets",
+              "text": "Battle Arcanist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

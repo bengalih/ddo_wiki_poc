@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Epic Firestorm Greaves",
+  "page_id": 10400,
+  "revision_id": 630118,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:49:52.233614+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Epic Firestorm Greaves\n  | type                     = Boots\n  | class                    = Clothing\n  | basevalue                = 8,020 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 210\n  | material                 = Steel\n  | hardness                 = 30\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtA|BoA}}\n  | epic                     = Firestorm Greaves\n  | mythic                   = no\n  | enhancements             = \n* {{Absorption|Fire|27}}\n* {{Elemental Resistance|Fire|36}}\n* {{Sheltering|24|Enhancement|Magical}}\n* {{Speed|30}}\n* {{Augment|Colorless}}\n* {{Augment|Green}}\n* {{Named item sets|The Epic Desert's Burning Sun}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Firestorm Greaves\n  | description              = Greaves fashioned from the finest steel and the essence of fire.  These greaves can protect their wearer from most forms of magical fire.\n  | pic                      = Boots Generic.png\n  | picdesc                  = Epic Firestorm Greaves.png\n  | tips                     = \n  | revamped                 = Update 50\n}}\n[[Category:Sands of Menechtarun epic items]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Fire Absorption +27%",
+      "tooltip": "Fire Absorption +27%: Passive: 27% Enhancement Bonus to Fire Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Fire Absorption +27%"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +36",
+      "tooltip": "Fire Resistance +36: Passive: +36 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +36"
+        }
+      ]
+    },
+    {
+      "text": "Magical Sheltering +24",
+      "tooltip": "Magical Sheltering +24: +24 Enhancement bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Magical Sheltering +24"
+        }
+      ]
+    },
+    {
+      "text": "Speed +30%",
+      "tooltip": "Speed +30%: +30% enhancement bonus to movement speed, 15% bonus to attack speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Speed",
+          "title": "Speed",
+          "text": "Speed +30%"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Epic Desert's Burning Sun",
+      "tooltip": "The Epic Desert's Burning Sun: 2 Pieces Equipped:+4% Artifact bonus to Fire Spellcrit Chance+20 Artifact bonus to Fire Spellpower+10 Artifact bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Epic_Desert's_Burning_Sun",
+          "title": "Named item sets",
+          "text": "The Epic Desert's Burning Sun"
+        }
+      ]
+    }
+  ]
+}

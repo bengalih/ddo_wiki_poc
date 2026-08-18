@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Legendary Commander Vishral's Dragonscale",
+  "page_id": 98724,
+  "revision_id": 631972,
+  "revision_timestamp": "2025-04-22T00:33:21Z",
+  "fetched_at": "2026-08-17T21:38:11.244433+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Commander Vishral's Dragonscale\n  | minlevel                 = 31\n  | type                     = Medium Armor\n  | feat                     = Medium\n  | ac                       = +33\n  | maxdexbonus              = 10\n  | acp                      = -1\n  | asf                      = 25%\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 454\n  | material                 = Red Dragonscale\n  | hardness                 = 40\n  | basevalue                = 12,475 pp\n  | weight                   = 30 lbs\n  | released                 = Update 57\n  | quest                    = Army of Eternal Night\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Stat|Strength|3|Quality}}\n* {{Absorption|Fire|36}}\n* {{Spell Resistance|40}}\n* {{Sheltering|35|Enhancement|Physical}}\n* {{Taint of Evil}}\n* {{Augment|Green}}\n  | crafting                 = \n  | description              = This corrupted Red Dragonscale plate was taken from the desiccated skeletal corpse of an ancient foe.\n  | pic                      = Epic Red Dragonscale Armor shown.jpg\n  | picdesc                  = Legendary Commander Vishral's Dragonscale.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Red Dragonscale",
+  "armor_type": "Medium Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 31,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Quality Strength +3",
+      "tooltip": "Quality Strength +3: This item gives the wearer the power of Ogre Strength, granting a +3 Quality bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Quality Strength +3"
+        }
+      ]
+    },
+    {
+      "text": "Fire Absorption +36%",
+      "tooltip": "Fire Absorption +36%: Passive: 36% Enhancement Bonus to Fire Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Fire Absorption +36%"
+        }
+      ]
+    },
+    {
+      "text": "Spell Resistance +40",
+      "tooltip": "Spell Resistance +40: +40 Enhancement bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Spell Resistance +40"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +35",
+      "tooltip": "Physical Sheltering +35: +35 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +35"
+        }
+      ]
+    },
+    {
+      "text": "Taint of Evil",
+      "tooltip": "Taint of Evil: Good aligned characters equipping this item suffer a temporary negative level until the item is removed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Taint_of_Evil",
+          "title": "Taint of Evil",
+          "text": "Taint of Evil"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

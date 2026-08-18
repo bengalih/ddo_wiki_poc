@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Hull-Melter's Mace (level 12)",
+  "page_id": 82125,
+  "revision_id": 691031,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:22:17.002574+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Hull-Melter's Mace}}\n  | type                     = Light Mace\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | minlevel                 = 12\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = 1.40[1d6] + 4 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 170\n  | material                 = Steel\n  | hardness                 = 22\n  | basevalue                = 4,800pp 5gp\n  | weight                   = 2 lbs\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|silver|500}}{{CCi|golden|200}}{{CCi|amethyst|25}}{{CCi|green|500}} at [[Euphonia's Barter Box]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|i|4|12}}\n* {{Spell Power|Corrosion|42|Insightful}}\n* {{Spelllore|Acid|12}}\n* {{Spell Focus|Conjuration|2|Ins}}\n* {{Fortification|42|Insightful}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = no<!--yes-->\n  | description              = Used by ship mages. The bigger the holes you can melt in the enemy's hull, the faster they'll sink.\n  | pic                      = Hull-Melter's Mace shown.jpg\n  | picdesc                  = Hull-Melter's Mace (12).png\n  | tips                     = See also: [[Item:Hull-Melter's Mace|Hull-Melter's Mace]] - Full table of the Hull-Melter's Mace line.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Light Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +12",
+      "tooltip": "Spellcasting Implement +12: Passive: +12 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +12"
+        }
+      ]
+    },
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Corrosion +42",
+      "tooltip": "Insightful Corrosion +42: Passive: +42 Insightful bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Insightful Corrosion +42"
+        }
+      ]
+    },
+    {
+      "text": "Acid Lore +12%",
+      "tooltip": "Acid Lore +12: Passive: Your Acid spells gain a 12% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Acid Lore +12%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Conjuration Focus +2",
+      "tooltip": "Insightful Conjuration Focus +2: +2 Insight bonus to the DC of Conjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Conjuration Focus +2"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Fortification +42%",
+      "tooltip": "Insightful Fortification +42%: +42% Insight bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Insightful Fortification +42%"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

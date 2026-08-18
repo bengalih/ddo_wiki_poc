@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Maelstrom",
+  "page_id": 7884,
+  "revision_id": 633367,
+  "revision_timestamp": "2025-04-22T02:08:59Z",
+  "fetched_at": "2026-08-17T22:21:04.739464+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Maelstrom\n  | basevalue                = 3,202 pp\n  | weight                   = 12 lbs\n  | damage                   = 1.50[1d12] + 3 Slash, Chaotic, Magic\n  | crit                     = 20 / x3\n  | type                     = Great Axe\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = Two-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 180\n  | material                 = Steel\n  | hardness                 = 18\n  | minlevel                 = 8\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Tempest's Spine\n  | chest                    = Fire and Ice Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Frost}}\n* {{Anarchic}}\n* {{Augment|Red}}\n* {{Augment|Purple}}\n  | pic                      = Maelstrom shown.jpg\n  | picdesc                  = Maelstrom.png\n  | description              = A big, heavy, double-bladed axe wieldable only with two hands.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Frost",
+      "tooltip": "Frost: This weapon is sheathed in icy cold. A frost weapon deals an extra 1 to 6 points of cold damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Frost",
+          "title": "Frost",
+          "text": "Frost"
+        }
+      ]
+    },
+    {
+      "text": "Anarchic",
+      "tooltip": "Anarchic: An anarchic weapon is chaotically aligned and infused with the power of chaos. It makes the weapon chaos-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2 to 12 damage against all of lawful alignment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)#Anarchic",
+          "title": "Alignment damage (weapon)",
+          "text": "Anarchic"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

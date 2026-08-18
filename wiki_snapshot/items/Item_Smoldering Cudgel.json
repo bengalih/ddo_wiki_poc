@@ -1,0 +1,66 @@
+{
+  "page_title": "Item:Smoldering Cudgel",
+  "page_id": 11720,
+  "revision_id": 634880,
+  "revision_timestamp": "2025-04-22T03:50:53Z",
+  "fetched_at": "2026-08-17T23:01:39.758938+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Smoldering Cudgel\n  | basevalue                = 1 cp\n  | weight                   = 3 lbs\n  | damage                   = [1d6] + 0 Bludgeon\n  | crit                     = 20 / x2\n  | type                     = Club\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = One-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | umd dc                   = \n  | reqtrait                 = \n  | durability               = 60\n  | material                 = Wood\n  | hardness                 = 6\n  | minlevel                 = 0\n  | bind                     = {{Bind|no||drops=death}}\n  | quest                    = Ghost of a Chance\n  | chest                    = Found in Fire Pit\n  | mythic                   = no\n  | enhancements             = \n* {{Fire Touch}}\n* {{Skills|Spot|-5}}\n* {{Skills|Command}}\n* {{Skills|Perform|1}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This crude stick was once used as campfire kindling. It has retained some of its fiery qualities. Wielding this will make you quite easy to spot.\n  | pic                      = Smoldering Cudgel shown.jpg\n  | picdesc                  = Smoldering Cudgel.png\n  | tips                     = This club is found in the Ghost of a Chance quest in a firepit in the same room as the optional scrag troll [[Brekik]], originally so that adventurers could kill the troll if they had no fire attacks otherwise.  Now that scrags will die as normal, its only use is to halt his regeneration.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "Fire Touch",
+      "tooltip": "Fire Touch: This weapon gives off a faint aura of warmth. A fire touch weapon deals an additional +1 fire damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Touch",
+          "title": "Fire Touch",
+          "text": "Fire Touch"
+        }
+      ]
+    },
+    {
+      "text": "Spot -5",
+      "tooltip": "Spot -5: Passive: -5 penalty to the Spot skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spot",
+          "title": "Spot",
+          "text": "Spot -5"
+        }
+      ]
+    },
+    {
+      "text": "Command +2",
+      "tooltip": "Command: Passive: +2 competence bonus on Charisma based skill checks. Command armor and command shields make their owners very noticeable, imposing a -6 penalty on Hide checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Command_(enchantment)",
+          "title": "Command (enchantment)",
+          "text": "Command +2"
+        }
+      ]
+    },
+    {
+      "text": "Perform +1",
+      "tooltip": "Perform +1: Passive: +1 Competence bonus to the Perform skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Perform",
+          "title": "Perform",
+          "text": "Perform +1"
+        }
+      ]
+    }
+  ]
+}

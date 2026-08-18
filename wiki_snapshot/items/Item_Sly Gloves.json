@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Sly Gloves",
+  "page_id": 39598,
+  "revision_id": 634872,
+  "revision_timestamp": "2025-04-22T03:50:21Z",
+  "fetched_at": "2026-08-17T23:01:27.033090+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Sly Gloves\n  | type                     = Gloves\n  | race                     = Shadar-kai\n  | slot                     = Hand\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{doublestrike|3}}\n* {{Attack Bonus|2}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Gloves Generic Blasphemy.png\n  | picdesc                  = Sly Gloves.png\n  | tips                     = {{Bug|Current description of \"Doublestrike 3%\" effect is incorrect as Doubleshot is not changed at all.}}\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Doublestrike 3%",
+      "tooltip": "Doublestrike 3%: Passive: 3% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 3%"
+        }
+      ]
+    },
+    {
+      "text": "Attack Bonus +2",
+      "tooltip": "Attack Bonus +2: Provides a +2 competence bonus to your attack rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Attack_bonus",
+          "title": "Attack bonus",
+          "text": "Attack Bonus +2"
+        }
+      ]
+    }
+  ]
+}

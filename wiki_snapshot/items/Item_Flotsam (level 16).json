@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Flotsam (level 16)",
+  "page_id": 71002,
+  "revision_id": 691296,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:07:28.593122+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = [[Flotsam]] (Level 16)\n  | damage                   = 2.20[1d4] + 5 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Dagger\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Piercing\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 16\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 215\n  | material                 = Densewood\n  | hardness                 = 26\n  | cost                     = 6,401 pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA|}}\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|silver|750}}{{CCi|golden|300}}{{CCi|ruby|30}}{{CCi|green|600}} at [[Euphonia's Barter Box]]\n  | revamped                 = Update 76\n  | mythic                   = no\n  | epic                     = \n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Disruption|Improved}}\n* {{Bludgeoning|4}}\n* {{Corrosive Salt}}\n* {{Bane|Undead|4}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This driftwood shard has saved a few lives by being hard to detect as a weapon. It seems to be effective against the undead.\n  | pic                      = Flotsam shown.jpg\n  | picdesc                  = Flotsam (level 16).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Improved Disruption",
+      "tooltip": "Improved Disruption: On Hit: 4 to 24 Bane damage to Undead.On Vorpal Hit: If an undead struck by this weapon has fewer than 1500 Hit Points, it is instantly slain. If the undead has above 1500 Hit Points, it takes 150 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disruption#Improved_Disruption",
+          "title": "Disruption",
+          "text": "Improved Disruption"
+        }
+      ]
+    },
+    {
+      "text": "Bludgeoning 4",
+      "tooltip": "Bludgeoning 4: The edges of this weapon are blunted, dealing an additional 4d6 bludgeon damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bludgeoning",
+          "title": "Bludgeoning",
+          "text": "Bludgeoning 4"
+        }
+      ]
+    },
+    {
+      "text": "Corrosive Salt",
+      "tooltip": "Corrosive Salt: This weapon stores a caustic, insatiable power deep within. When this weapon is used, this power can come to the surface in the form of a noxious, corrosive salt that dissolves all substances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosive_Salt",
+          "title": "Corrosive Salt",
+          "text": "Corrosive Salt"
+        }
+      ]
+    },
+    {
+      "text": "Undead Bane 4",
+      "tooltip": "Undead Bane 4: Those that have died must return, and this weapon is attuned specifically to lay them to rest. This weapon deals an additional 4d10 bane damage vs. Undead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Undead Bane 4"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

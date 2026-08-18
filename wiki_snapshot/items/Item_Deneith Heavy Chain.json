@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Deneith Heavy Chain",
+  "page_id": 12827,
+  "revision_id": 629446,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:33:23.415514+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Deneith Heavy Chain\n  | type                     = Chainmail\n  | feat                     = Medium\n  | race                     = \n  | minlevel                 = 5\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +10\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 110\n  | material                 = Steel\n  | hardness                 = 15\n  | basevalue                = 2,030pp\n  | weight                   = 55 lbs\n  | released                 = Update 4\n  | revamped                 = Update 40\n  | quest                    = The Tide Turns\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|2}}\n* {{Sheltering|9|Enhancement|Physical}}\n* {{Life Shield}}\n* {{DR|Invulnerability}}\n* {{Augment|Blue}}\n  | epic                     = no\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Deneith Heavy Chain\n  | pic                      = Deneith Heavy Chain shown.jpg\n  | picdesc                  = Deneith Heavy Chain.png\n  | description              = This armor is made of doubled layers of heavy chainmail that rival the protection of plate. It is typically worn by elite mercenaries serving House Deneith that prefer strength of protection over mobility, but still wish to wear medium armor.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Chainmail",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +9",
+      "tooltip": "Physical Sheltering +9: +9 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +9"
+        }
+      ]
+    },
+    {
+      "text": "Life Shield",
+      "tooltip": "Life Shield: Every time you are hit while wearing a Life Shield item there is a 10% chance you gain 15 temporary hitpoints that last for up to 1 minute.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Life_Shield",
+          "title": "Life Shield",
+          "text": "Life Shield"
+        }
+      ]
+    },
+    {
+      "text": "Invulnerability",
+      "tooltip": "Invulnerability: Reduces physical damage by 5, except from attacks from magic weapons. DR 5/magic.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Invulnerability",
+          "title": "Invulnerability",
+          "text": "Invulnerability"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

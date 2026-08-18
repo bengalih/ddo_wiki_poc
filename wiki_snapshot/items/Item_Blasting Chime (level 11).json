@@ -1,0 +1,225 @@
+{
+  "page_title": "Item:Blasting Chime (level 11)",
+  "page_id": 26695,
+  "revision_id": 690612,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:11:47.135733+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = [[Blasting Chime]]\n  | type                     = Trinket\n  | minlevel                 = 11\n  | slot                     = Trinket\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 120\n  | material                 = Gem\n  | hardness                 = 31\n  | basevalue                = 4405pp\n  | weight                   = 0.10 lbs\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various ingredients\n  | mythic                   = no\n  | enhancements             = \n{{VaultsOfTheArtificersUpgrade}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = <!--yes-->\n  | description              = A small set of chimes that greatly amplifies any sonic energy channeled through it.\n  | pic                      = Blasting Chime Orb.png\n  | picdesc                  = Blasting Chime (Level 11).png\n  | tips                     = As of Update 17, the [[Anthem]] property on this item now works correctly.\n* {{Popup|Tier 2|[[Image:Blasting Chime (level 11)(tier 2).png|452 px]]|long=y}}\n* {{Popup|Tier 3|[[Image:Blasting Chime (level 11)(tier 3).png|452 px]]|long=y}}\n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": "Upgradeable - Tier 1: This item is a Tier 1 upgradable item.",
+      "children": [
+        {
+          "text": "Weaken Construct",
+          "tooltip": "Weaken Construct: While wearing this item, your attacks cause constructs to lose 20% of their Fortification for the next 20 seconds. This effect does not stack with itself.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Weaken_Construct",
+              "title": "Weaken Construct",
+              "text": "Weaken Construct"
+            }
+          ]
+        },
+        {
+          "text": "Sonic Lore +12%",
+          "tooltip": "Sonic Lore +12: Passive: Your Sonic spells gain a 12% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Sonic Lore +12%"
+            }
+          ]
+        },
+        {
+          "text": "Sonic Guard +3",
+          "tooltip": "Sonic Guard +3: Chance to deal 3d8 Sonic damage when hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Guards",
+              "title": "Guards",
+              "text": "Sonic Guard"
+            }
+          ]
+        },
+        {
+          "text": "Resonance +82",
+          "tooltip": "Resonance +82: Passive: +82 Equipment bonus to Sonic Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Resonance",
+              "title": "Resonance",
+              "text": "Resonance +82"
+            }
+          ]
+        },
+        {
+          "text": "Evocation Focus I",
+          "tooltip": "Evocation Focus I: +1 Equipment bonus to the DC of Evocation spells.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Focus",
+              "title": "Spell Focus",
+              "text": "Evocation Focus I"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": "Upgradeable - Tier 2: This item is a Tier 2 upgradable item.",
+      "children": [
+        {
+          "text": "Sonic Lore +12% → Sonic Lore +13%",
+          "tooltip": "Sonic Lore +12: Passive: Your Sonic spells gain a 12% Equipment bonus to their chance to critical hit.Sonic Lore +13: Passive: Your Sonic spells gain a 13% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Sonic Lore +12%"
+            },
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Sonic Lore +13%"
+            }
+          ]
+        },
+        {
+          "text": "Resonance +82 → Resonance +88",
+          "tooltip": "Resonance +82: Passive: +82 Equipment bonus to Sonic Spell Power.Resonance +88: Passive: +88 Equipment bonus to Sonic Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Resonance",
+              "title": "Resonance",
+              "text": "Resonance +82"
+            },
+            {
+              "target": "/page/Resonance",
+              "title": "Resonance",
+              "text": "Resonance +88"
+            }
+          ]
+        },
+        {
+          "text": "Adds Anthem",
+          "tooltip": "Anthem: When equipped by a character with Bard levels, this item begins to hum an inspiring tune. Your bard songs regenerate slowly over time.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Anthem_(item_enchantment)",
+              "title": "Anthem (item enchantment)",
+              "text": "Anthem"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This item is a Tier 3 upgradable item.",
+      "children": [
+        {
+          "text": "Sonic Lore +13% → Sonic Lore +14%",
+          "tooltip": "Sonic Lore +13: Passive: Your Sonic spells gain a 13% Equipment bonus to their chance to critical hit.Sonic Lore +14: Passive: Your Sonic spells gain a 14% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Sonic Lore +13%"
+            },
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Sonic Lore +14%"
+            }
+          ]
+        },
+        {
+          "text": "Resonance +88 → Resonance +94",
+          "tooltip": "Resonance +88: Passive: +88 Equipment bonus to Sonic Spell Power.Resonance +94: Passive: +94 Equipment bonus to Sonic Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Resonance",
+              "title": "Resonance",
+              "text": "Resonance +88"
+            },
+            {
+              "target": "/page/Resonance",
+              "title": "Resonance",
+              "text": "Resonance +94"
+            }
+          ]
+        },
+        {
+          "text": "Sonic Guard +3 → Sonic Guard +4",
+          "tooltip": "Sonic Guard +3: Chance to deal 3d8 Sonic damage when hit.Sonic Guard +4: Chance to deal 4d8 Sonic damage when hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Guards",
+              "title": "Guards",
+              "text": "Sonic Guard"
+            },
+            {
+              "target": "/page/Guards",
+              "title": "Guards",
+              "text": "Sonic Guard"
+            }
+          ]
+        },
+        {
+          "text": "Adds Green Augment Slot",
+          "tooltip": "Blue, Green, Yellow, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Green Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

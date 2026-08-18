@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Calomel Rapier (level 4)",
+  "page_id": 58367,
+  "revision_id": 672644,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:18:30.304327+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Calomel Rapier}}\n  | damage                   = [1d6] + 1 Pierce, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Rapier\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Martial\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 85\n  | material                 = Steel\n  | hardness                 = 14\n  | minlevel                 = 4\n  | basevalue                = 1,602pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various challenge ingredients\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|1}}\n* {{Bane|dragon|2}}\n* {{Tidal}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = Calomel Rapier (Level 8)\n  | description              = A weapon crafted from durable white Calomel ore is always sheathed in condensed water droplets. It is particularly effective against dragons and fiery creatures.\n  | pic                      = Turbulent Epee shown.jpg <!-- Identical Style -->\n  | picdesc                  = Calomel_Rapier.png\n  | tips                     = '''See also:''' {{Item|Calomel Rapier}} - Full table of the  Calomel Rapier\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Rapier",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Dragon Bane 2",
+      "tooltip": "Dragon Bane 2: This weapon is attuned specifically to disrupt those with draconic blood, dealing an additional 2d10 bane damage vs. Dragons.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Dragon Bane 2"
+        }
+      ]
+    },
+    {
+      "text": "Tidal",
+      "tooltip": "Tidal: This weapon is sheathed in water. A tidal weapon deals an extra 1 to 4 points of damage on a successful hit. Creatures with the Fire trait take double this damage instead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Tidal",
+          "title": "Tidal",
+          "text": "Tidal"
+        }
+      ]
+    }
+  ]
+}

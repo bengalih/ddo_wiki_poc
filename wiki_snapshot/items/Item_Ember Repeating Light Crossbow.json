@@ -1,0 +1,54 @@
+{
+  "page_title": "Item:Ember Repeating Light Crossbow",
+  "page_id": 17950,
+  "revision_id": 666433,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:42:59.205632+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Ember Repeating Light Crossbow\n  | damage                   = [1d8] + 0 Pierce\n  | crit                     = 19-20 / x2\n  | type                     = Repeating Light Crossbow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | damagemod                = DEX\n  | attackmod                = DEX\n  | prof                     = Exotic\n  | durability               = 90\n  | material                 = Wood\n  | hardness                 = 6\n  | minlevel                 = 0\n  | revamped                 = Update 76\n  | quest                    = The Grotto\n  | end reward               = yes\n  | basevalue                = 255 pp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|BtC|boa}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|0}}\n* {{Fire Touch}}\n* {{Starter}}\n  | epic                     = no\n  | pic                      = Ember Repeating Light Crossbow shown.jpg\n  | picdesc                  = Ember Repeating Light Crossbow.png\n  | description              = A complex weapon consisting of a light crossbow and a clip for bolts that is loaded by pulling the reloading lever. The weapon is warm to the touch.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Repeating Light Crossbow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "Masterwork",
+      "tooltip": "Masterwork: This weapon is more finely crafted than normal, providing a +1 enhancement bonus on attack rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Masterwork",
+          "title": "Masterwork",
+          "text": "Masterwork"
+        }
+      ]
+    },
+    {
+      "text": "Fire Touch",
+      "tooltip": "Fire Touch: This weapon gives off a faint aura of warmth. A fire touch weapon deals an additional +1 fire damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Touch",
+          "title": "Fire Touch",
+          "text": "Fire Touch"
+        }
+      ]
+    },
+    {
+      "text": "Starter",
+      "tooltip": "Starter: Starter equipment cannot be traded, sold or crafted.This item cannot be fed to sentient jewels.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Starter",
+          "title": "Starter",
+          "text": "Starter"
+        }
+      ]
+    }
+  ]
+}

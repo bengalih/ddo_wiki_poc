@@ -1,0 +1,43 @@
+{
+  "page_title": "Item:Rod of Superior Healing",
+  "page_id": 116814,
+  "revision_id": 642548,
+  "revision_timestamp": "2025-05-22T23:48:11Z",
+  "fetched_at": "2026-08-17T22:48:45.853689+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Rod of Superior Healing\n  | damage                   = [1d6] + 4 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 17\n  | durability               = 220\n  | material                 = Wood\n  | hardness                 = 22\n  | cost                     = 6,805\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = \n  | quest                    = DDO Store\n  | chest                    = \n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Clicky| Superior Healing|9|50|no}}\n  | description              = A sceptre containing multiple charges of Superior Healing.\n  | pic                      = Rod of Greater Teleport shown.jpg\n  | picdesc                  = Rod of Superior Healing.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 17,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Superior Healing — 50 Charges",
+      "tooltip": "Superior HealingCaster level: 9Charges: 50",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Superior_Healing",
+          "title": "Superior Healing",
+          "text": "Superior Healing"
+        }
+      ]
+    }
+  ]
+}

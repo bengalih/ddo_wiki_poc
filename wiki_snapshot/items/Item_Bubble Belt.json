@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Bubble Belt",
+  "page_id": 10166,
+  "revision_id": 628819,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:16:35.307519+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Bubble Belt\n  | minlevel                 = 9\n  | type                     = Belt\n  | slot                     = Waist\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 100\n  | material                 = Leather\n  | hardness                 = 14\n  | basevalue                = 3605pp\n  | weight                   = 0.10 lbs\n  | quest                    = Cult of the Six\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Water Breathing|5|3}} \n* {{Underwater Action}}\n* {{Skills|Swim|10}}\n* {{Augment|Yellow}}\n  | description              = Twisting a dial on this unusual belt's buckle causes the wearer to be surrounded by a bubble of air.\n  | pic                      = Belt Generic.png\n  | picdesc                  = Bubble Belt.png\n  | tips                     = A convenient item to have not only for your character but for party members that need Water Breathing ability for long swims but lack the ability themselves. For instance, this belt is convenient in the raid, [[Tempest's Spine]], as many players may still have limited water-breathing, even at level 10.\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Water Breathing — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Water BreathingCaster level: 5Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Water_Breathing",
+          "title": "Water Breathing",
+          "text": "Water Breathing"
+        }
+      ]
+    },
+    {
+      "text": "Underwater Action",
+      "tooltip": "Underwater Action: This item grants the wearer the ability to breathe water as if it were air.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Underwater_Action",
+          "title": "Underwater Action",
+          "text": "Underwater Action"
+        }
+      ]
+    },
+    {
+      "text": "Swim +10",
+      "tooltip": "Swim +10: Passive: +10 Competence bonus to the Swim skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Swim",
+          "title": "Swim",
+          "text": "Swim +10"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

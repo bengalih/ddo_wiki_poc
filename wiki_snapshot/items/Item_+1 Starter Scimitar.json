@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:+1 Starter Scimitar",
+  "page_id": 17492,
+  "revision_id": 672713,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T19:50:47.469611+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = +1 Starter Scimitar\n  | damage                   = [1d8] + 1 Slash, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Scimitar\n  | hand                     = One-handed\n  | class                    = Slashing\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Martial\n  | durability               = 80\n  | material                 = Steel\n  | hardness                 = 12\n  | minlevel                 = 2\n  | quest                    = The Voyage\n  | chest                    = \n  | end reward               = yes\n  | revamped                 = Update 76\n  | basevalue                = 2 pp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|1}}\n* {{Flaming}}\n* {{Starter}}\n  | epic                     = no\n  | pic                      = \n  | picdesc                  = +1 Starter Scimitar.png\n  | description              = A curved sword favored by the elves of Valenar. The unique shape gives this weapon a keener edge. An enscription on the hilt reads 'To my dearest ...'. The rest of the wording appears to have been melted off the hilt.\n  | tips                     = This scimitar has larger weapon die than most scimitars, 1d8 instead of usual 1d6.\n  | food                     = no\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Scimitar",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Flaming",
+      "tooltip": "Flaming: This weapon is sheathed in fire. A flaming weapon deals an extra 1 to 6 points of fire damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flaming#Flaming",
+          "title": "Flaming",
+          "text": "Flaming"
+        }
+      ]
+    },
+    {
+      "text": "Starter",
+      "tooltip": "Starter: Starter equipment cannot be traded, sold or crafted.This item cannot be fed to sentient jewels.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Starter",
+          "title": "Starter",
+          "text": "Starter"
+        }
+      ]
+    }
+  ]
+}

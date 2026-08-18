@@ -1,0 +1,29 @@
+{
+  "page_title": "Item:Topaz of the Twelve",
+  "page_id": 11475,
+  "revision_id": 635560,
+  "revision_timestamp": "2025-04-22T04:36:01Z",
+  "fetched_at": "2026-08-17T23:19:52.110567+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Topaz of the Twelve\n  | type                     = Trinket\n  | class                    = Jewelry\n  | basevalue                = 4,920 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Trinket\n  | durability               = 71\n  | material                 = Gem\n  | hardness                 = 27\n  | minlevel                 = 13\n  | bind                     = {{Bind|BtC|BoA|1}}\n  | quest                    = The Marketplace\n  | turn in                  = 50 [[Planar Shards]] from The [[Subterrane]]\n  | mythic                   = no\n  | enhancements             = \n* {{clicky|Heal (spell)|14|1|no|label=Heal}}\n  | description              = This fragment of a gemstone is infused with the power from The Twelve.\n  | pic                      = Gem Generic Yellow.png\n  | picdesc                  = Topaz of the Twelve.png\n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Heal — 1 Charges",
+      "tooltip": "HealCaster level: 14Charges: 1",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heal_(spell)",
+          "title": "Heal (spell)",
+          "text": "Heal"
+        }
+      ]
+    }
+  ]
+}

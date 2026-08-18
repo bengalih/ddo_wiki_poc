@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Legendary Pyrefang's Collar",
+  "page_id": 94754,
+  "revision_id": 632718,
+  "revision_timestamp": "2025-04-22T01:24:09Z",
+  "fetched_at": "2026-08-17T22:02:38.305326+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Legendary Pyrefang's Collar\n  | minlevel                 = 29\n  | type                     = Belt\n  | slot                     = Waist\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 390\n  | material                 = Steel\n  | hardness                 = 49\n  | cost                     = 11,601 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 53\n  | quest                    = One Dame Thing After Another\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Spell Focus|Mastery|2|Profane}}\n* {{Spelllore|Fire|21}}\n* {{SpellPower|Combustion|142}}\n* {{Elemental Resistance|Fire|50}}\n* {{Augment|Blue}}\n* {{Augment|Yellow}}\n  | crafting                 = \n  | description              = The fearsome Hound was no match for you.\n  | pic                      = \n  | picdesc                  = Legendary Pyrefang's Collar.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Profane Spell Focus Mastery +2",
+      "tooltip": "Profane Spell Focus Mastery +2: +2 Profane bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Profane Spell Focus Mastery +2"
+        }
+      ]
+    },
+    {
+      "text": "Fire Lore +21%",
+      "tooltip": "Fire Lore +21: Passive: Your Fire spells gain a 21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Combustion +142",
+      "tooltip": "Combustion +142: Passive: +142 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +142"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +50",
+      "tooltip": "Fire Resistance +50: Passive: +50 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +50"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Belt Boost +1 or +3",
+      "tooltip": "Mythic Belt Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Belt Boost"
+        }
+      ]
+    }
+  ]
+}

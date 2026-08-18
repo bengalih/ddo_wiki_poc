@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Drowhunter",
+  "page_id": 64787,
+  "revision_id": 629662,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:39:13.726182+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Drowhunter\n  | damage                   = 2.50[1d10] + 5 Slash, Lawful, Magic\n  | crit                     = 20 / x3\n  | type                     = Dwarven War Axe\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Exotic\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | minlevel                 = 15\n  | durability               = 235\n  | material                 = Steel\n  | hardness                 = 25\n  | basevalue                = 6003 pp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 36\n  | quest                    = Records of the Past\n  | chest                    = End Chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Vorpal|Improved}}\n* {{Bane|Elf|4}}\n* {{Axiomatic|4|1}}\n* {{Maiming|4}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Drowhunter shown.jpg\n  | picdesc                  = Drowhunter.png\n  | description              = This impressive war axe was forged to target the Drow, striking down all who did not flee from its fearsome wielder.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Dwarven War Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Improved Vorpal",
+      "tooltip": "Improved Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 1500 Hit Points, they are instantly slain. If your target has above 1500 Hit Points, they take 150 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Improved_Vorpal",
+          "title": "Vorpal",
+          "text": "Improved Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Elf Bane 4",
+      "tooltip": "Elf Bane 4: This weapon is attuned specifically to disrupt those who are attuned to nature, dealing an additional 4d10 bane damage vs. Elves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Elf Bane 4"
+        }
+      ]
+    },
+    {
+      "text": "Axiomatic 4",
+      "tooltip": "Axiomatic 4: This weapon is righteous and wielded by those who stand against chaos, dealing an additional 4d6 law damage on each hit. This effect makes the weapon lawfully aligned. (Chaotic characters wielding this weapon will suffer one negative level.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Axiomatic 4"
+        }
+      ]
+    },
+    {
+      "text": "Maiming 4",
+      "tooltip": "Maiming: This weapon has a twisted haft or grip and spikes along its blade, head, or point. When you score a critical hit with this weapon, it does an additional +4d8 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maiming",
+          "title": "Maiming",
+          "text": "Maiming 4"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

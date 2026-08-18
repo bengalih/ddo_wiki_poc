@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Epic Silver Flame Bracers",
+  "page_id": 79278,
+  "revision_id": 630425,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:56:01.862372+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Epic Silver Flame Bracers\n  | minlevel                 = 23\n  | type                     = Bracers\n  | race                     = \n  | slot                     = Wrist\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 240\n  | material                 = Steel\n  | hardness                 = 31\n  | cost                     = 9,220 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | released                 = Update 45\n  | quest                    = Setting the Wards: The Lower Cathedral\n  | end reward               = \n  | turn in                  = \n  | chest                    = End Chest\n  | enhancements             = \n* {{Clicky|Restoration|7|3}}\n* {{ProtectionBonus|9}}\n* {{Spelllore|Radiance|18}}\n* {{SpellPower|Radiance|122}}\n* {{Augment|Yellow}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = These golden bracers are emblazoned with flame-shaped symbols.\n  | pic                      = Bracers Generic.png\n  | picdesc                  = Epic Silver Flame Bracers.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "Restoration — 3 Charges (Recharged/Day:3)",
+      "tooltip": "RestorationCaster level: 7Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Restoration",
+          "title": "Restoration",
+          "text": "Restoration"
+        }
+      ]
+    },
+    {
+      "text": "Protection +9",
+      "tooltip": "Protection +9: Passive: +9 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +9"
+        }
+      ]
+    },
+    {
+      "text": "Radiance Lore +18%",
+      "tooltip": "Radiance Lore +18: Passive: Your Light and Aligned spells gain a 18% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Radiance Lore +18%"
+        }
+      ]
+    },
+    {
+      "text": "Radiance +122",
+      "tooltip": "Radiance +122: Passive: +122 Equipment bonus to Light and Alignment Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiance_(spell_boost)",
+          "title": "Radiance (spell boost)",
+          "text": "Radiance +122"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Wrist Boost +1 or +3",
+      "tooltip": "Mythic Wrist Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Wrist Boost"
+        }
+      ]
+    }
+  ]
+}

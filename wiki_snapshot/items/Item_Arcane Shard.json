@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Arcane Shard",
+  "page_id": 10151,
+  "revision_id": 628289,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:04:25.195361+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Arcane Shard\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | minlevel                 = 10\n  | reqtrait                 = \n  | UMD DC                   = \n  | damage                   = [1d6] + 5 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 180\n  | material                 = Wood\n  | hardness                 = 20\n  | basevalue                = 4,000pp 1cp\n  | weight                   = 4 lbs\n  | quest                    = Dreams of Insanity\n  | chest                    = End Chest\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|i|5}}\n* {{Efficient Metamagic|Maximize|2}}\n* {{Spellpen|ii}}\n* {{SpellPower|Potency|40}}\n* {{Augment|Red}}\n  | description              = This staff is what remains of an ancient giant artifact that was said to imbue the wielder with phenomenal magical power.\n  | pic                      = Arcane Shard shown.jpg\n  | picdesc                  = Arcane Shard.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +15",
+      "tooltip": "Spellcasting Implement +15: Passive: +15 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +15"
+        }
+      ]
+    },
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Efficient Metamagic - Maximize II",
+      "tooltip": "Efficient Metamagic - Maximize II: The additional spell point cost for using the Maximize Metamagic feat is reduced by 4 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Maximize II"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration II",
+      "tooltip": "Spell Penetration II: Passive: +2 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration II"
+        }
+      ]
+    },
+    {
+      "text": "Potency +40",
+      "tooltip": "Potency +40: Passive: +40 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +40"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

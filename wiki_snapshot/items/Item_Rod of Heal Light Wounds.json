@@ -1,0 +1,42 @@
+{
+  "page_title": "Item:Rod of Heal Light Wounds",
+  "page_id": 79981,
+  "revision_id": 634372,
+  "revision_timestamp": "2025-04-22T03:17:21Z",
+  "fetched_at": "2026-08-17T22:48:40.272998+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Rod of Heal Light Wounds\n  | damage                   = [1d6] + 1 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Club\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 0\n  | durability               = 80\n  | material                 = Wood\n  | hardness                 = 8\n  | cost                     = 1 cp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = \n  | quest                    = DDO Store\n  | chest                    = \n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|1}}\n* {{Clicky|Heal Light Wounds|3|50|no}}\n  | description              = A sceptre containing multiple charges of Heal Light Wounds.\n  | pic                      = Rod of Heal Light Wounds shown.jpg\n  | picdesc                  = Rod of Heal Light Wounds.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Heal Light Wounds — 50 Charges",
+      "tooltip": "Heal Light WoundsCaster level: 3Charges: 50",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heal_Light_Wounds",
+          "title": "Heal Light Wounds",
+          "text": "Heal Light Wounds"
+        }
+      ]
+    }
+  ]
+}

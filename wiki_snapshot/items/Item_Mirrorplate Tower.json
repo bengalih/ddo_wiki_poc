@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:Mirrorplate Tower",
+  "page_id": 66435,
+  "revision_id": 633502,
+  "revision_timestamp": "2025-04-22T02:17:48Z",
+  "fetched_at": "2026-08-17T22:25:26.707583+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Mirrorplate Tower\n  | type                     = Tower\n  | prof                     = Tower\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +17\n  | maxdexbonus              = 2\n  | dr                       = 13\n  | acp                      = -9\n  | asf                      = 50\n  | dmg                      = [1d12] + 5\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | durability               = 220\n  | material                 = Planeforged Steel\n  | hardness                 = 35\n  | basevalue                = 4,404 pp\n  | weight                   = 50 lbs\n  | released                 = Update 37\n  | quest                    = The Final Vintage\n  | chest                    = End chest\n  | enhancements             = \n* {{Enhancement bonus|s|5}}\n* {{Save|Spell|5}}\n* {{Sheltering|3|Quality|Magical}}\n* {{Absorption|Block Elements}}\n* {{Mirror Shield}}\n* {{Augment|Purple}}\n* {{Named item sets|Adherent of the Mists Set (Heroic)}}\n  | description              = This highly polished tower shield reflects the light - and so much more...\n  | pic                      = Mirrorplate Tower Shown.jpg\n  | picdesc                  = Mirrorplate Tower.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Tower Shield Proficiency",
+  "material": "Planeforged Steel",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Spell Save +5",
+      "tooltip": "Spell Save +5: This item gives a +5 Resistance bonus to your saves versus spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Saving_throw",
+          "title": "Saving throw",
+          "text": "Spell Save +5"
+        }
+      ]
+    },
+    {
+      "text": "Quality Magical Sheltering +3",
+      "tooltip": "Quality Magical Sheltering +3: +3 Quality bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Quality Magical Sheltering +3"
+        }
+      ]
+    },
+    {
+      "text": "Block Elements",
+      "tooltip": "Block Elements: On Shield Block: Gain 15% damage absorption versus acid, cold, electric, fire, and sonic damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Block Elements"
+        }
+      ]
+    },
+    {
+      "text": "Mirror Shield",
+      "tooltip": "Mirror Shield: This highly polished shield has highly reflective qualities. While actively blocking, you gain +50 Insight bonus to Magical Resistance Rating.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mirror_Shield",
+          "title": "Mirror Shield",
+          "text": "Mirror Shield"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Adherent of the Mists Set (Heroic)",
+      "tooltip": "Adherent of the Mists Set (Heroic): 5 Pieces Equipped:+5 Profane bonus to Physical Resistance Rating+10 Profane bonus to Positive, Negative, and Repair Amplification+5 Profane bonus to Melee and Ranged Power+10 Profane bonus to Universal Spell Power",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Adherent_of_the_Mists_Set_(Heroic)",
+          "title": "Named item sets",
+          "text": "Adherent of the Mists Set (Heroic)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

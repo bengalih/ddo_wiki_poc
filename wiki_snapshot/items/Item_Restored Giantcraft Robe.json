@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Restored Giantcraft Robe",
+  "page_id": 33456,
+  "revision_id": 686662,
+  "revision_timestamp": "2026-05-27T17:32:49Z",
+  "fetched_at": "2026-08-17T22:44:33.819472+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Restored Giantcraft Robe\n  | type                     = Robe\n  | feat                     = Cloth\n  | race                     = \n  | ac                       = +9\n  | minlevel                 = 23\n  | bind                     = {{Bind|BtC|BoA}}\n  | epic                     = no\n  | durability               = 235\n  | material                 = Cloth\n  | hardness                 = 25\n  | basevalue                = 9,205.5pp\n  | weight                   = 0 lbs\n  | released                 = Update 17\n  | quest                    = Giantcraft Armor\n  | chest                    = \n  | end reward               = \n  | turn in                  = 10 [[Restored Giant Relic]]s\n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|9}}\n* {{Guard|Haste}}\n* {{ArmorPiercing|15}}\n* {{RelentlessFury}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Giantcraft Robe shown.jpg\n  | picdesc                  = Restored Giantcraft Robe.png\n  | description              = A fine silk robe imbued with the magic of the ancient giant empire.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +9",
+      "tooltip": "Armor Bonus +9: This item surrounds the wearer with an invisible but tangible field of force, granting +9 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +9"
+        }
+      ]
+    },
+    {
+      "text": "Haste Guard",
+      "tooltip": "Haste Guard: When you are hit by enemies, there is a chance you will be Hasted, quickening your attack and movement speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Haste_Guard",
+          "title": "Haste Guard",
+          "text": "Haste Guard"
+        }
+      ]
+    },
+    {
+      "text": "Armor-Piercing 15%",
+      "tooltip": "Armor-Piercing 15%: Passive: +15% Enhancement bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Armor-Piercing 15%"
+        }
+      ]
+    },
+    {
+      "text": "Relentless Fury",
+      "tooltip": "Relentless Fury: While this item is equipped, any killing blows you strike against enemies may drive you into a furious rage, providing a 5% Enhancement damage bonus to your melee, ranged and unarmed attacks for 30 seconds. Slaying weaker opponents has a reduced chance of producing this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Relentless_Fury",
+          "title": "Relentless Fury",
+          "text": "Relentless Fury"
+        }
+      ]
+    }
+  ]
+}

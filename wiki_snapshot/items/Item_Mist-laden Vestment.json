@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Mist-laden Vestment",
+  "page_id": 66878,
+  "revision_id": 633505,
+  "revision_timestamp": "2025-04-22T02:18:00Z",
+  "fetched_at": "2026-08-17T22:25:32.561250+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Mist-laden Vestment\n  | type                     = Light Armor\n  | feat                     = Light\n  | race                     = None\n  | ac                       = +10\n  | maxdexbonus              = 11\n  | acp                      = \n  | asf                      = 10%\n  | durability               = 140\n  | material                 = Leather\n  | hardness                 = 19\n  | minlevel                 = 10\n  | released                 = Update 37\n  | quest                    = Fresh-baked Dreams\n  | chest                    = End chest, Mill chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | basevalue                = 4,050 pp\n  | weight                   = 30 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Fortification|77}}\n* {{Parrying|2}}\n* {{Sheltering|14|Enhancement|Physical}}\n* {{Stat|Well Rounded|1|Profane}}\n* {{Augment|Green}}\n* {{Named item sets|Silent Avenger Set (Heroic)}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Mist-laden Vestment shown.jpg\n  | picdesc                  = Mist-laden Vestment.png\n  | description              = The fabric of this garment feels lighter than it should.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Light Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +77%",
+      "tooltip": "Fortification +77%: +77% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +77%"
+        }
+      ]
+    },
+    {
+      "text": "Parrying +2",
+      "tooltip": "Parrying +2: +2 Insight bonus to Armor Class, +2 Insight bonus to Saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Parrying",
+          "title": "Parrying",
+          "text": "Parrying +2"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +14",
+      "tooltip": "Physical Sheltering +14: +14 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +14"
+        }
+      ]
+    },
+    {
+      "text": "Profane Well Rounded +1",
+      "tooltip": "Profane Well Rounded +1: +1 Profane bonus to all abilities.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ability",
+          "title": "Ability",
+          "text": "Profane Well Rounded +1"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Silent Avenger Set (Heroic)",
+      "tooltip": "Silent Avenger Set (Heroic): 3 Pieces Equipped:You gain a 5% Artifact Bonus to Doublestrike and Doubleshot.You gain +1 Artifact Bonus to Sneak Attack Dice.You gain a 10% Artifact Bonus to Fortification Bypass.You gain +5% Artifact Bonus to Damage vs. Helpless opponents.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Silent_Avenger_Set_(Heroic)",
+          "title": "Named item sets",
+          "text": "Silent Avenger Set (Heroic)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

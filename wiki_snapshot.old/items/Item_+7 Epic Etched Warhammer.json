@@ -1,0 +1,139 @@
+{
+  "page_title": "Item:+7 Epic Etched Warhammer",
+  "page_id": 97498,
+  "revision_id": 636150,
+  "revision_timestamp": "2025-04-22T20:30:21Z",
+  "fetched_at": "2026-08-17T03:33:19.042782+00:00",
+  "categories": [],
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "War Hammer",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable Item (Temple of Elemental Evil)",
+      "tooltip": "Upgradeable Item (Temple of Elemental Evil): This item can be upgraded. Bring this item to the Overgrown Workbench in the Temple of Elemental Evil and combine it with Rusty Gilled Mushrooms to upgrade the item to a more powerful form.",
+      "children": [
+        {
+          "text": "Tier 1:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Greater Maiming",
+              "tooltip": "Greater Maiming: This weapon has a twisted haft or grip and spikes along its blade, head, or point. Whenever you score a critical hit with this weapon it deals an amount of extra untyped damage depending on its critical multiplier: x2 - 8 to 48, x3 - 12 to 72, x4 - 16 to 96.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Maiming#Greater_Maiming",
+                  "title": "Maiming",
+                  "text": "Greater Maiming"
+                }
+              ]
+            },
+            {
+              "text": "Adds Greater Acid Torrent",
+              "tooltip": "Greater Acid Torrent: This weapon is imbued with a vitriolic wrath. On an attack roll of 20 which is confirmed as a critical hit this power will be released, dealing damage to the target and all enemies near it for 30d3 + 90 acid damage. A successful Reflex save (DC 90) reduces this by half.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Acid_Torrent#Greater_Acid_Torrent",
+                  "title": "Acid Torrent",
+                  "text": "Greater Acid Torrent"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Tier 2:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Greater Acid Blast",
+              "tooltip": "Greater Acid Blast: An acid blast weapon is sheathed in corrosive acid. Critical hits with this weapon deal an additional 4 to 40 acid damage for weapons with a x2 critical multiplier, 6 to 60 for a x3 critical multiplier, and 8 to 80 for a x4 multiplier. Additionally, if you roll a 20 when attacking and confirm the critical hit, the weapon blasts your target, doing 6 to 36 more acid damage.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Greater_Acid_Blast",
+                  "title": "Greater Acid Blast",
+                  "text": "Greater Acid Blast"
+                }
+              ]
+            },
+            {
+              "text": "Adds Purple Augment Slot",
+              "tooltip": "Blue, Purple, Red, and Colorless",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Augment_Slot",
+                  "title": "Augment Slot",
+                  "text": "Purple Augment Slot"
+                }
+              ]
+            },
+            {
+              "text": "Adds Epic Elemental Evil Set",
+              "tooltip": "Epic Elemental Evil Set: While wearing both an Elemental Evil Set Item weapon and an Elemental Evil Set Item armor, you gain:+20 Quality bonus to Melee Power+20 Quality bonus to Ranged Power+20 Quality bonus to Universal Spell Power",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Named_item_sets#Epic_Elemental_Evil_Set",
+                  "title": "Named item sets",
+                  "text": "Epic Elemental Evil Set"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Overgrown_Workbench",
+          "title": "Overgrown Workbench",
+          "text": "Upgradeable Item (Temple of Elemental Evil)"
+        }
+      ]
+    },
+    {
+      "text": "Acid Vulnerability",
+      "tooltip": "Acid Vulnerability: On Hit: Applies a stack of Vulnerable (1% more damage for 3 seconds. This effect stacks up to 20 times, and loses one stack on expiration.). This effect may only occur on-hit once every second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vulnerable",
+          "title": "Vulnerable",
+          "text": "Acid Vulnerability"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ],
+  "item_class": "Weapon",
+  "item_template": ""
+}

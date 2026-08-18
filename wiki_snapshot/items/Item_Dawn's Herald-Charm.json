@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Dawn's Herald-Charm",
+  "page_id": 66823,
+  "revision_id": 629324,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:30:31.868010+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Dawn's Herald-Charm\n  | slot                     = Neck\n  | type                     = Necklace\n  | durability               = 200\n  | material                 = Steel\n  | hardness                 = 30\n  | basevalue                = 4001 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 37\n  | quest                    = Death House\n  | chest                    = end chest\n  | enhancements             = \n* {{Stat|Wisdom|6}}\n* {{Bonus Turning|Insightful Faith}}\n* {{Bonus Turning|Sacred}}\n* {{Bonus Turning|Hallowed}}\n* {{Augment|Yellow}}\n* {{Named item sets|Adherent of the Mists Set (Heroic)}}\n  | pic                      = Necklace Generic Blue.png\n  | picdesc                  = Dawn's Herald-Charm.png\n  | description              = With this around your neck, you can finally rest in peace.\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Wisdom +6",
+      "tooltip": "Wisdom +6: This item makes the wearer more in tune with her surroundings, granting a +6 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +6"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Faith",
+      "tooltip": "Insightful Faith: An item with this quality assists only wearers who have the ability to turn undead. Insightful Faith items provide Insight Bonuses to the owner's effective level for the turning check by +2, their maximum Hit Dice turned by +2, and their total Hit Dice turned by +4.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Insightful_Faith",
+          "title": "Insightful Faith",
+          "text": "Insightful Faith"
+        }
+      ]
+    },
+    {
+      "text": "Sacred",
+      "tooltip": "Sacred: An item with this quality assists only wearers who have the ability to turn undead. Sacred items provide an +2 Enhancement bonus to your effective level for Turning Undead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sacred",
+          "title": "Sacred",
+          "text": "Sacred"
+        }
+      ]
+    },
+    {
+      "text": "Hallowed +2",
+      "tooltip": "Hallowed: An item with this quality assists only wearers who have the ability to turn undead. Hallowed items provide an +2 Enhancement bonus to the maximum Hit Dice of undead turned.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hallowed",
+          "title": "Hallowed",
+          "text": "Hallowed +2"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Adherent of the Mists Set (Heroic)",
+      "tooltip": "Adherent of the Mists Set (Heroic): 5 Pieces Equipped:+5 Profane bonus to Physical Resistance Rating+10 Profane bonus to Positive, Negative, and Repair Amplification+5 Profane bonus to Melee and Ranged Power+10 Profane bonus to Universal Spell Power",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Adherent_of_the_Mists_Set_(Heroic)",
+          "title": "Named item sets",
+          "text": "Adherent of the Mists Set (Heroic)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Neck Boost +1 or +3",
+      "tooltip": "Mythic Neck Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Neck Boost"
+        }
+      ]
+    }
+  ]
+}

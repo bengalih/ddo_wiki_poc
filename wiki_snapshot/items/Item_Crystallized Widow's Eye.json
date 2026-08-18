@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Crystallized Widow's Eye",
+  "page_id": 11077,
+  "revision_id": 629265,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:28:59.969839+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Crystallized Widow's Eye\n  | type                     = Trinket\n  | slot                     = Trinket\n  | durability               = 100\n  | material                 = Gem\n  | hardness                 = 17\n  | basevalue                = 3,620pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 9\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = The Spawn of Whisperdoom\n  | turn in                  = {{Item|Splinterskull Battle Standard}} to the [[Ungurz Lieutenant]] for a small chance to get it\n  | mythic                   = no\n  | enhancements             = \n* {{Power|10}}\n* {{Skills|Spot|10}}\n* {{Augment|Yellow}}\n  | description              = The ogres of the Kar'Thul tribe were able to preserve a small portion of Whisperdoom's essence and use it for their own gain. By slaughtering her spawn, removing the eyes and crystallizing them, they produced great magical foci. This process was no longer practiced when the ogres found Whisperdoom too dangerous to handle.\n  | pic                      = Gem Generic Orange.png\n  | picdesc                  = Crystallized Widow's Eye.png\n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Power X",
+      "tooltip": "Power X: This item grants the wearer +100 maximum spell points. Favored Souls and Sorcerers gain double spell points from this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power",
+          "title": "Power",
+          "text": "Power X"
+        }
+      ]
+    },
+    {
+      "text": "Spot +10",
+      "tooltip": "Spot +10: Passive: +10 Competence bonus to the Spot skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spot",
+          "title": "Spot",
+          "text": "Spot +10"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

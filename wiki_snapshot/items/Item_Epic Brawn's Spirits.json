@@ -1,0 +1,113 @@
+{
+  "page_title": "Item:Epic Brawn's Spirits",
+  "page_id": 11666,
+  "revision_id": 629876,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:45:13.546294+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Epic Brawn's Spirits\n  | type                     = Trinket\n  | slot                     = Trinket\n  | durability               = 203\n  | material                 = Gem\n  | hardness                 = 20\n  | basevalue                = 8,020 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | epic                     = Brawn's Spirits\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Rage (spell)|15|5|label=Rage}}\n* {{Skills|intim|+17}}\n* {{Incite|+91}}\n* {{Stat|STR|+4|Insightful}}\n* {{Stat|CON|+4|Insightful}}\n* {{Cursed|WIS}}\n* {{Cursed|INT}}\n* {{Augment|Green}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Brawn's Spirits\n  | description              = A powerful draught of the giant Brawn's spirits. One swig will give you great battle prowess and allow you to intimidate your foes, but it does make you a bit addle-brained.\n  | pic                      = Trinket Generic Brawn.png\n  | picdesc                  = Epic Brawn's Spirits.png\n  | tips                     = \n}}\n[[Category:Phiarlan Carnival epic items]]",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Rage — 5 Charges (Recharged/Day:5)",
+      "tooltip": "RageCaster level: 15Charges: 5 (5/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rage_(spell)",
+          "title": "Rage (spell)",
+          "text": "Rage"
+        }
+      ]
+    },
+    {
+      "text": "Intimidate +17",
+      "tooltip": "Intimidate +17: Passive: +17 Competence bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Intimidate +17"
+        }
+      ]
+    },
+    {
+      "text": "Incite +91",
+      "tooltip": "Incite +91: +91% Enhancement bonus to increased threat generation from melee damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incite",
+          "title": "Incite",
+          "text": "Incite +91"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Strength +4",
+      "tooltip": "Insightful Strength +4: This item gives the wearer the power of Ogre Strength, granting a +4 Insight bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Insightful Strength +4"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Constitution +4",
+      "tooltip": "Insightful Constitution +4: This item gives the wearer improved health, granting a +4 Insight bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Insightful Constitution +4"
+        }
+      ]
+    },
+    {
+      "text": "Curse of Foolishness",
+      "tooltip": "Curse of Foolishness: Passive -1 Penalty to Wisdom. (The minimum level required to equip this item is lower than normal due to this curse.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cursed",
+          "title": "Cursed",
+          "text": "Curse of Foolishness"
+        }
+      ]
+    },
+    {
+      "text": "Curse of Dullness",
+      "tooltip": "Curse of Dullness: Passive -1 Penalty to Intelligence. (The minimum level required to equip this item is lower than normal due to this curse.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cursed",
+          "title": "Cursed",
+          "text": "Curse of Dullness"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

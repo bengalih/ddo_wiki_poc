@@ -1,0 +1,86 @@
+{
+  "page_title": "Item:Legendary Wand of the Temple's Eternal Flame",
+  "page_id": 97523,
+  "revision_id": 633165,
+  "revision_timestamp": "2025-04-22T01:54:50Z",
+  "fetched_at": "2026-08-17T22:15:16.622122+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Eternal wand\n  | name                     = Legendary Wand of the Temple's Eternal Flame\n  | umd                      = 20\n  | noumd                    = Wiz, Sor, Art\n  | minlevel                 = 31\n  | bind                     = {{Bind|BtA|BoA|exclusive=1}}\n  | durability               = 335\n  | material                 = Wood\n  | hardness                 = 41\n  | cost                     = 3,500 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 56\n  | quest                    = The Temple of Elemental Evil\n  | chest                    = any chest\n  | icon                     = FlamingBolt.png\n  | spell                    = Flaming Bolt\n  | casterlvl                = 31\n  | charge                   = 50\n  | enhancements             = \n* {{Clicky|Flaming Bolt|31|50|50}}\n* {{SpellPower|Combustion|149}}\n* {{Spelllore|Fire|22}}\n* {{Augmentation|3|Fire|IX}}\n* {{Augment|Green}}\n  | description              = A thin rod of blackened wood containing charges of the Flaming Bolt spell. Eternal wands recharge over time if they are not actively being used.\n  | pic                      = \n  | picdesc                  = Legendary Wand of the Temple's Eternal Flame.png\n  | notes                    = {{Non-food|wai}}\n{{Bug|All eternal wands in ToEE spawn with [[Spellcasting Implement]] enchantment that vanishes after first relog.}}\n}}",
+  "item_template": "Named item",
+  "material": "Wood",
+  "minimum_level": 31,
+  "enchantments": [
+    {
+      "text": "Flaming Bolt — 50 Charges (Recharged/Day:50)",
+      "tooltip": "Flaming BoltCaster level: 31Charges: 50 (50/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flaming_Bolt",
+          "title": "Flaming Bolt",
+          "text": "Flaming Bolt"
+        }
+      ]
+    },
+    {
+      "text": "Combustion +149",
+      "tooltip": "Combustion +149: Passive: +149 Equipment bonus to Fire Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combustion",
+          "title": "Combustion",
+          "text": "Combustion +149"
+        }
+      ]
+    },
+    {
+      "text": "Fire Lore +22%",
+      "tooltip": "Fire Lore +22: Passive: Your Fire spells gain a 22% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore +22%"
+        }
+      ]
+    },
+    {
+      "text": "Improved Fire Augmentation IX",
+      "tooltip": "Improved Fire Augmentation IX: Increases the wearer's caster level when casting ninth level or lower Fire spells by three.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Augmentation",
+          "title": "Spell Augmentation",
+          "text": "Improved Fire Augmentation IX"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

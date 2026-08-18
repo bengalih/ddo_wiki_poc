@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:Heavy Armor of the Black Earth",
+  "page_id": 97293,
+  "revision_id": 665909,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:19:19.648636+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Heavy Armor of the Black Earth\n  | minlevel                 = 8\n  | type                     = Heavy Armor\n  | feat                     = Heavy\n  | ac                       = +18\n  | maxdexbonus              = 2\n  | acp                      = -5\n  | asf                      = 35%\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 200\n  | material                 = Steel\n  | hardness                 = 19\n  | basevalue                = 3,350 pp\n  | weight                   = 50 lbs\n  | released                 = Update 56\n  | quest                    = ToEE: Earth Node\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest and random locked chest\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{Resistance|4}}\n* {{Absorption|Acid|18}}\n* {{Concealment|Blurry}}\n* {{Fortification|70}}\n* {{Named item sets|Temple's Monolith}}\n* {{Augment|Green}}\n  | crafting                 = \n  | description              = Armor from deep within the Temple of Elemental Evil.\n  | pic                      = Heavy Armor of the Black Earth shown.jpg\n  | picdesc                  = Heavy Armor of the Black Earth.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Heavy Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +4",
+      "tooltip": "Resistance +4: Passive: +4 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +4"
+        }
+      ]
+    },
+    {
+      "text": "Acid Absorption +18%",
+      "tooltip": "Acid Absorption +18%: Passive: 18% Enhancement Bonus to Acid Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Acid Absorption +18%"
+        }
+      ]
+    },
+    {
+      "text": "Blurry",
+      "tooltip": "Blurry: Equipping this item causes you to become slightly blurry. Attacks from enemies have a 20% chance to miss you due to concealment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blurry",
+          "title": "Blurry",
+          "text": "Blurry"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +70%",
+      "tooltip": "Fortification +70%: +70% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +70%"
+        }
+      ]
+    },
+    {
+      "text": "Temple's Monolith",
+      "tooltip": "Temple's Monolith: 2 Pieces Equipped:+5 Artifact Bonus to Melee and Ranged Power+10 Artifact Bonus to Acid Spell Power+10 Artifact Bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Temple's_Monolith",
+          "title": "Named item sets",
+          "text": "Temple's Monolith"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

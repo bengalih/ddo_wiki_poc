@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Legendary Flamesalt Battle Axe",
+  "page_id": 94463,
+  "revision_id": 632254,
+  "revision_timestamp": "2025-04-22T00:52:20Z",
+  "fetched_at": "2026-08-17T21:47:39.220522+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Flamesalt Battle Axe\n  | minlevel                 = 29\n  | type                     = Battle Axe\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = 4.80[1d8+2] + 15 Slash, Good, Magic\n  | crit                     = 20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 360\n  | material                 = Flametouched Iron\n  | hardness                 = 39\n  | cost                     = 11,701 pp 9 gp\n  | weight                   = 6 lbs\n  | released                 = Update 50\n  | quest                    = Captain Xendros\n  | end reward               = \n  | turn in                  = 5 {{Item|Legendary Quartermaster's Chit}}s\n  | chest                    = \n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Chilling|6}}\n* {{Bane|Monstrous Humanoid|6}}\n* {{Weakening|3}}\n* {{Mat|Flametouched Iron}}\n* {{Augment|Red}}\n  | mythic                   = no\n  | crafting                 = \n  | description              = This weapon's steel has partially corroded due to the salt in the air, which interfered with the forging process. It seems to have enhanced the weapon's with a subtle magic, making it equivalent to Flametouched Iron, at the cost of some of the steel's natural durability.\n  | pic                      = Flamesalt Battle Axe shown.jpg\n  | picdesc                  = Legendary Flamesalt Battle Axe.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Battle Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Chilling 6",
+      "tooltip": "Chilling 6: This effect causes the edges of this weapon to become frozen to the touch, dealing 6d6 Ice damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Chilling",
+          "title": "Chilling",
+          "text": "Chilling 6"
+        }
+      ]
+    },
+    {
+      "text": "Monstrous Humanoid Bane 6",
+      "tooltip": "Monstrous Humanoid Bane 6: This weapon is attuned specifically to hunt those who are descended from monsters dealing an additional 6d10 bane damage vs. Monstrous Humanoids.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Monstrous Humanoid Bane 6"
+        }
+      ]
+    },
+    {
+      "text": "Weakening 3",
+      "tooltip": "Weakening 3: This weapon saps the power and might from your enemies, dealing 3 Strength damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Weakening",
+          "title": "Weakening",
+          "text": "Weakening 3"
+        }
+      ]
+    },
+    {
+      "text": "Flametouched Iron",
+      "tooltip": "Flametouched Iron: Flametouched Iron grants +1 saves versus Evil Outsiders.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Flametouched_Iron",
+          "title": "Flametouched Iron",
+          "text": "Flametouched Iron"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

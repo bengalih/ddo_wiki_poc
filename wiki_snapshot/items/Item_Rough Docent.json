@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Rough Docent",
+  "page_id": 77434,
+  "revision_id": 675427,
+  "revision_timestamp": "2026-02-16T08:25:47Z",
+  "fetched_at": "2026-08-17T22:48:58.232554+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Rough Docent\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+12|m=+5|c=+1}}\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 60\n  | material                 = Gem\n  | hardness                 = 11\n  | minlevel                 = 1\n  | released                 = Update 44\n  | quest                    = The Bugbear Bandits\n  | chest                    = End chest\n  | end reward               = <!--At least 1 of these 3 should be filled in. Leave other 2 blank.-->\n  | turn in                  = <!--At least 1 of these 3 should be filled in. Leave other 2 blank.-->\n  | epic                     = no\n  | basevalue                = 410 pp\n  | weight                   = 0 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|1}}\n* {{Fortification|38}}\n* {{Augment|Blue}}\n  | crafting                 = <!--Type of crafting. Leave blank if none.-->\n  | craftingupgrade          = <!--What item can be upgraded to. Leave blank if none.-->\n  | pic                      = Rough Docent shown.jpg\n  | picdesc                  = Rough Docent.png\n  | description              = This magical artifact will help you resist critical hits.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +38%",
+      "tooltip": "Fortification +38%: +38% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +38%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Emerald Claw Talisman",
+  "page_id": 11130,
+  "revision_id": 629778,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:43:08.415567+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Emerald Claw Talisman\n  | type                     = Necklace\n  | class                    = Jewelry\n  | basevalue                = 3,620 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Neck\n  | durability               = 70\n  | material                 = Gold\n  | hardness                 = 11\n  | minlevel                 = 11\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = The Cursed Crypt\n  | chest                    = Altar; upgraded from [[Emerald Claw Pendant]]\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Symbol of Fear |11|3}}\n* {{Skills|diplo|11}}\n* {{Skills|intim|11}}\n* {{Fearsome}}\n  | crafting                 = Accursed Ascension\n  | craftingupgrade          = \n  | description              = This Talisman of the Emerald Claw has been transformed by the altars of blood, darkness and damnation.\n  | pic                      = Necklace Generic Green.png\n  | picdesc                  = Emerald Claw Talisman.png\n  | tips                     = This is the third and final upgrade to the [[Emerald Claw Nugget]] which you can get from [[Pok Tranh]] in the [[Necropolis]]. <br />\nIf you have any upgraded version of the [[Emerald Claw Nugget]] (amulet, pendant or talisman), talking and accepting the [[Silver Flame Nugget]] from [[Jakob Izakanos]] will delete the Emerald Claw nugget and replace it with an un-upgraded Silver Flame nugget.\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Symbol of Fear — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Symbol of Fear Caster level: 11Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Symbol_of_Fear",
+          "title": "Symbol of Fear",
+          "text": "Symbol of Fear"
+        }
+      ]
+    },
+    {
+      "text": "Diplomacy +11",
+      "tooltip": "Diplomacy +11: Passive: +11 Competence bonus to the Diplomacy skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Diplomacy",
+          "title": "Diplomacy",
+          "text": "Diplomacy +11"
+        }
+      ]
+    },
+    {
+      "text": "Intimidate +11",
+      "tooltip": "Intimidate +11: Passive: +11 Competence bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Intimidate +11"
+        }
+      ]
+    },
+    {
+      "text": "Fearsome",
+      "tooltip": "Fearsome: This item causes those who strike the user to be overcome with terror, as from the Fear spell.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fearsome",
+          "title": "Fearsome",
+          "text": "Fearsome"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Legendary Souleater",
+  "page_id": 91330,
+  "revision_id": 632963,
+  "revision_timestamp": "2025-04-22T01:41:02Z",
+  "fetched_at": "2026-08-17T22:09:32.385435+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Souleater\n  | minlevel                 = 30\n  | type                     = Quarterstaff\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | hand                     = Two-handed\n  | damage                   = 5[1d6+4] + 15 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 380\n  | material                 = Wood\n  | hardness                 = 40\n  | cost                     = 12,000 pp 1 cp\n  | weight                   = 4 lbs\n  | released                 = Update 50\n  | quest                    = Legendary Crafting\n  | legendary                = Epic Souleater\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Trap the Soul|Legendary}}\n* {{Stat|Well Rounded|3|Profane}}\n* {{Feeding|30}}\n* {{Vampirism|3}}\n* {{Negativity|6}}\n* {{Hp|Profane Lifeforce|45}}\n* {{Augment|Orange}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | description              = This is the staff used by the sahuagin High Priestess Slikir to commune with and channel a demon. It took on many of the demon's aspects and is now a dangerous and corrupted implement.\n  | pic                      = Souleater shown.jpg\n  | picdesc                  = Legendary Souleater.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Trap the Soul",
+      "tooltip": "Legendary Trap the Soul: This equipment stores an overwhelming, merciless power deep within. When you strike an enemy with a melee or missile attack, this power occasionally comes to the surface, sucking out the life force of an enemy and imprisoning the essence of their body and soul in a gem.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Trap_the_Soul_(enchantment)",
+          "title": "Trap the Soul (enchantment)",
+          "text": "Legendary Trap the Soul"
+        }
+      ]
+    },
+    {
+      "text": "Profane Well Rounded +3",
+      "tooltip": "Profane Well Rounded +3: +3 Profane bonus to all abilities.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ability",
+          "title": "Ability",
+          "text": "Profane Well Rounded +3"
+        }
+      ]
+    },
+    {
+      "text": "Feeding 30",
+      "tooltip": "Feeding 30: On Vorpal Hit: Your target incurs one Negative Level, and you gain +30 temporary hit points. (These Temporary Hit Points last for one minute, or until used to negate incoming damage.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feeding",
+          "title": "Feeding",
+          "text": "Feeding 30"
+        }
+      ]
+    },
+    {
+      "text": "Vampirism 3",
+      "tooltip": "Vampirism 3: This weapon thirsts for the blood of your enemies, healing you for +3d2 hit points with each hit.Note: internal cooldown of 1 second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Vampirism 3"
+        }
+      ]
+    },
+    {
+      "text": "Negativity 6",
+      "tooltip": "Negativity 6: This effect causes this weapon to be shrouded in dark mists, dealing 6d6 negative energy on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negativity",
+          "title": "Negativity",
+          "text": "Negativity 6"
+        }
+      ]
+    },
+    {
+      "text": "Profane Lifeforce +45",
+      "tooltip": "Profane Lifeforce +45: +45 Profane bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hit_Point",
+          "title": "Hit Point",
+          "text": "Profane Lifeforce +45"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

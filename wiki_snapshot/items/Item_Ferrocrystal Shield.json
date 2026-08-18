@@ -1,0 +1,132 @@
+{
+  "page_title": "Item:Ferrocrystal Shield",
+  "page_id": 84067,
+  "revision_id": 630799,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:03:35.522287+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Ferrocrystal Shield\n  | type                     = Large\n  | prof                     = General\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 5\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = 9\n  | maxdexbonus              = \n  | dr                       = 6\n  | acp                      = -1\n  | asf                      = 5\n  | dmg                      = [1d10] + 2\n  | dmgtype                  = Bludgeon, Cold Iron, Magic, Crystal\n  | crit                     = 18-20 / x3\n  | durability               = 170\n  | material                 = Crystal\n  | hardness                 = 30\n  | basevalue                = 2404 pp\n  | weight                   = 10 lbs\n  | released                 = Update 48\n  | quest                    = Combatting Corruption\n  | chest                    = end chest\n  | turn in                  = \n  | enhancements             = \n* {{Enhancement bonus|s|2}}\n* {{Impact|I}}\n* {{Shield Bashing|%=6}}\n* {{Entropic|2}}\n* {{Sheltering|2|Quality|Magical}}\n* {{Mat|Crystal}}\n* {{Augment|Red}}\n* {{Named item sets|Seasons of the Feywild}} \n  | crafting                 = <!--Type of crafting. Leave blank if none. -->\n  | craftingupgrade          = <!-- can leave blank, though comment required if |crafting is used -->\n  | description              = This crystalline shield can damage enemies with an entropic power. It seems to contain subtle magnetic energies.\n  | pic                      = Ferrocrystal Shield shown.jpg\n  | picdesc                  = Ferrocrystal Shield.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Crystal",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Shield Bashing +6%",
+      "tooltip": "Shield Bashing +6%: +6% Enhancement bonus to your chance of a Secondary Shield Bash. This stacks with bonuses granted by any relevant feats.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bashing",
+          "title": "Shield Bashing",
+          "text": "Shield Bashing +6%"
+        }
+      ]
+    },
+    {
+      "text": "Entropic 2",
+      "tooltip": "Entropic 2: This weapon is intensely powerful, and crackles with destructive, unpredictable magic. It deals an additional 2d6 untyped damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Entropic",
+          "title": "Entropic",
+          "text": "Entropic 2"
+        }
+      ]
+    },
+    {
+      "text": "Quality Magical Sheltering +2",
+      "tooltip": "Quality Magical Sheltering +2: +2 Quality bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Quality Magical Sheltering +2"
+        }
+      ]
+    },
+    {
+      "text": "Crystal",
+      "tooltip": "Crystal: Crystal weapons are able to overcome the protective damage reduction of many Quori creatures, which can be resistant to other weapons. Spell failure chances for armors and shields made from crystal are also decreased by 10%.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crystal",
+          "title": "Crystal",
+          "text": "Crystal"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Seasons of the Feywild",
+      "tooltip": "Seasons of the Feywild:",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Seasons_of_the_Feywild",
+          "title": "Named item sets",
+          "text": "Seasons of the Feywild"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

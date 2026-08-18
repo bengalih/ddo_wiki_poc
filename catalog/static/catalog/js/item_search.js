@@ -2,7 +2,7 @@ function getFilterRows() {
 
     return Array.from(
         document.querySelectorAll(
-            "#enhancement-filters .enhancement-filter"
+            "#enchantment-filters .enchantment-filter"
         )
     );
 }
@@ -15,18 +15,18 @@ function getCurrentFilters() {
 
             const valueSelect =
                 row.querySelector(
-                    ".enhancement-value"
+                    ".enchantment-value"
                 );
 
             const minInput =
                 row.querySelector(
-                    ".enhancement-min"
+                    ".enchantment-min"
                 );
 
             return {
-                enhancement:
+                enchantment:
                     row.querySelector(
-                        "select.enhancement-name"
+                        "select.enchantment-name"
                     ).value,
 
                 value:
@@ -50,7 +50,7 @@ function buildOptionsUrl() {
     url.search = "";
 
     url.searchParams.set(
-        "enhancement_options",
+        "enchantment_options",
         "1"
     );
 
@@ -62,9 +62,16 @@ function buildOptionsUrl() {
     );
 
     url.searchParams.set(
-        "item_type",
+        "category",
         document.getElementById(
-            "item_type"
+            "category"
+        ).value
+    );
+
+    url.searchParams.set(
+        "type",
+        document.getElementById(
+            "type"
         ).value
     );
 
@@ -95,30 +102,30 @@ function buildOptionsUrl() {
 		getCurrentFilters();
 
 	url.searchParams.set(
-		"enhancement_filter_count",
+		"enchantment_filter_count",
 		filters.length
 	);
 
 	filters.forEach(
 		function(filter, index) {
 
-			if (filter.enhancement) {
+			if (filter.enchantment) {
 				url.searchParams.set(
-					"enhancement_" + index,
-					filter.enhancement
+					"enchantment_" + index,
+					filter.enchantment
 				);
 			}
 
 			if (filter.value) {
 				url.searchParams.set(
-					"enhancement_value_" + index,
+					"enchantment_value_" + index,
 					filter.value
 				);
 			}
 
 			if (filter.min) {
 				url.searchParams.set(
-					"enhancement_min_" + index,
+					"enchantment_min_" + index,
 					filter.min
 				);
 			}
@@ -144,7 +151,7 @@ async function getAvailableOptions() {
 
     if (!response.ok) {
         throw new Error(
-            "Failed to retrieve enhancement options"
+            "Failed to retrieve enchantment options"
         );
     }
 
@@ -152,16 +159,16 @@ async function getAvailableOptions() {
 }
 
 
-function populateEnhancementOptions(
-    enhancementSelect,
+function populateEnchantmentOptions(
+    enchantmentSelect,
     options,
     labels,
-    selectedEnhancement,
-    excludedEnhancements = new Set()
+    selectedEnchantment,
+    excludedEnchantments = new Set()
 ) {
 
-    enhancementSelect.innerHTML =
-        '<option value="">Any enhancement</option>';
+    enchantmentSelect.innerHTML =
+        '<option value="">Any enchantment</option>';
 
     Object.keys(options)
         .sort(
@@ -179,15 +186,15 @@ function populateEnhancementOptions(
             function(name) {
 
                 /*
-                 * Don't allow an enhancement that has already
+                 * Don't allow an enchantment that has already
                  * been selected in an earlier filter row.
                  *
                  * Keep the current row's selection available
                  * so refreshing the controls doesn't clear it.
                  */
                 if (
-                    name !== selectedEnhancement &&
-                    excludedEnhancements.has(name)
+                    name !== selectedEnchantment &&
+                    excludedEnchantments.has(name)
                 ) {
                     return;
                 }
@@ -202,12 +209,12 @@ function populateEnhancementOptions(
                     labels[name] || name;
 
                 if (
-                    name === selectedEnhancement
+                    name === selectedEnchantment
                 ) {
                     option.selected = true;
                 }
 
-                enhancementSelect.appendChild(
+                enchantmentSelect.appendChild(
                     option
                 );
             }
@@ -216,46 +223,46 @@ function populateEnhancementOptions(
     if (
         Object.prototype.hasOwnProperty.call(
             options,
-            selectedEnhancement
+            selectedEnchantment
         )
     ) {
-        enhancementSelect.value =
-            selectedEnhancement;
+        enchantmentSelect.value =
+            selectedEnchantment;
     } else {
-        enhancementSelect.value = "";
+        enchantmentSelect.value = "";
     }
 }
 
 
-function populateEnhancementValues(
+function populateEnchantmentValues(
     row,
     rowData,
     selectedValue
 ) {
 
-    const enhancementSelect =
+    const enchantmentSelect =
         row.querySelector(
-            "select.enhancement-name"
+            "select.enchantment-name"
         );
 
     const valueSelect =
         row.querySelector(
-            ".enhancement-value"
+            ".enchantment-value"
         );
 
     const minInput =
         row.querySelector(
-            ".enhancement-min"
+            ".enchantment-min"
         );
 
-    const enhancement =
-        enhancementSelect.value;
+    const enchantment =
+        enchantmentSelect.value;
 
     const options =
-        rowData.enhancements || {};
+        rowData.enchantments || {};
 
     const values =
-        options[enhancement] || [];
+        options[enchantment] || [];
 
     valueSelect.innerHTML =
         '<option value="">Any value</option>';
@@ -297,19 +304,19 @@ function populateEnhancementValues(
 
     /*
      * A value selector is disabled only when
-     * the selected enhancement has no values.
+     * the selected enchantment has no values.
      */
     valueSelect.disabled =
-        enhancement !== "" &&
+        enchantment !== "" &&
         values.length === 0;
 
     if (minInput) {
         const hasMagnitudes =
-            (rowData.has_magnitudes || {})[enhancement]
+            (rowData.has_magnitudes || {})[enchantment]
             === true;
 
         minInput.disabled =
-            enhancement === "" ||
+            enchantment === "" ||
             !hasMagnitudes;
 
         /*
@@ -327,12 +334,12 @@ function populateEnhancementValues(
 }
 
 
-async function refreshEnhancementFilters(
+async function refreshEnchantmentFilters(
     preserveValues = true
 ) {
 
     const requestId =
-        ++refreshEnhancementFilters.requestId;
+        ++refreshEnchantmentFilters.requestId;
 
     const rows =
         getFilterRows();
@@ -357,7 +364,7 @@ async function refreshEnhancementFilters(
      */
     if (
         requestId !==
-        refreshEnhancementFilters.requestId
+        refreshEnchantmentFilters.requestId
     ) {
         return;
     }
@@ -365,18 +372,18 @@ async function refreshEnhancementFilters(
     rows.forEach(
         function(row, index) {
 
-            const enhancementSelect =
+            const enchantmentSelect =
                 row.querySelector(
-                    "select.enhancement-name"
+                    "select.enchantment-name"
                 );
 
             const valueSelect =
                 row.querySelector(
-                    ".enhancement-value"
+                    ".enchantment-value"
                 );
 
-            const selectedEnhancement =
-                enhancementSelect.value;
+            const selectedEnchantment =
+                enchantmentSelect.value;
 
 			const selectedValue =
 				preserveValues
@@ -389,16 +396,16 @@ async function refreshEnhancementFilters(
 
             const rowData =
                 data.rows[index] || {
-                    enhancements: {}
+                    enchantments: {}
                 };
 
             const options =
-                rowData.enhancements;
+                rowData.enchantments;
 
             const labels =
                 rowData.labels || {};
 
-			const excludedEnhancements =
+			const excludedEnchantments =
 				new Set();
 
 			rows.forEach(
@@ -406,7 +413,7 @@ async function refreshEnhancementFilters(
 
 					/*
 					 * Bidirectional scoping: the current
-					 * row must not offer an enhancement
+					 * row must not offer an enchantment
 					 * already chosen in any other row.
 					 */
 					if (
@@ -415,35 +422,35 @@ async function refreshEnhancementFilters(
 						return;
 					}
 
-					const otherEnhancement =
+					const otherEnchantment =
 						otherRow.querySelector(
-							"select.enhancement-name"
+							"select.enchantment-name"
 						).value;
 
-					if (otherEnhancement) {
-						excludedEnhancements.add(
-							otherEnhancement
+					if (otherEnchantment) {
+						excludedEnchantments.add(
+							otherEnchantment
 						);
 					}
 				}
 			);
 
             /*
-             * If the current enhancement is no longer
+             * If the current enchantment is no longer
              * valid based on the current search,
              * clear it and its value.
              */
-            const enhancementStillValid =
+            const enchantmentStillValid =
                 Object.prototype.hasOwnProperty.call(
                     options,
-                    selectedEnhancement
+                    selectedEnchantment
                 );
 
             if (
-                selectedEnhancement &&
-                !enhancementStillValid
+                selectedEnchantment &&
+                !enchantmentStillValid
             ) {
-                enhancementSelect.value =
+                enchantmentSelect.value =
                     "";
 
                 valueSelect.value =
@@ -453,76 +460,132 @@ async function refreshEnhancementFilters(
                     "";
             }
 
-			populateEnhancementOptions(
-				enhancementSelect,
+			populateEnchantmentOptions(
+				enchantmentSelect,
 				options,
 				labels,
-				enhancementSelect.value,
-				excludedEnhancements
+				enchantmentSelect.value,
+				excludedEnchantments
 			);
 
-            populateEnhancementValues(
+            populateEnchantmentValues(
                 row,
                 rowData,
                 (
-                    enhancementSelect.value ===
-                    selectedEnhancement
+                    enchantmentSelect.value ===
+                    selectedEnchantment
                 )
                     ? selectedValue
                     : ""
             );
         }
     );
+
+    const typeSelect =
+        document.getElementById(
+            "type"
+        );
+
+    const typeOptions =
+        data.types || [];
+
+    const selectedType =
+        preserveValues
+            ? typeSelect.value
+            : "";
+
+    typeSelect.innerHTML =
+        '<option value="">All types</option>';
+
+    typeOptions.forEach(
+        function(type) {
+
+            const option =
+                document.createElement(
+                    "option"
+                );
+
+            option.value =
+                type.value;
+            option.textContent =
+                type.label;
+
+            if (
+                type.value ===
+                selectedType
+            ) {
+                option.selected = true;
+            }
+
+            typeSelect.appendChild(
+                option
+            );
+        }
+    );
+
+    if (
+        typeOptions.some(
+            function(type) {
+                return type.value ===
+                    selectedType;
+            }
+        )
+    ) {
+        typeSelect.value =
+            selectedType;
+    } else {
+        typeSelect.value = "";
+    }
 }
 
-refreshEnhancementFilters.requestId = 0;
+refreshEnchantmentFilters.requestId = 0;
 
 
-async function updateEnhancementValues(
-    enhancementSelect
+async function updateEnchantmentValues(
+    enchantmentSelect
 ) {
 
     const row =
-        enhancementSelect.closest(
-            ".enhancement-filter"
+        enchantmentSelect.closest(
+            ".enchantment-filter"
         );
     const valueSelect =
         row.querySelector(
-            ".enhancement-value"
+            ".enchantment-value"
         );
 
     /*
-     * Changing this enhancement invalidates
+     * Changing this enchantment invalidates
      * only this row's previous value.
      */
     valueSelect.value = "";
 
     valueSelect.dataset.selectedValue = "";
 
-    await refreshEnhancementFilters(
+    await refreshEnchantmentFilters(
         true
     );
 }
 
 
-function updateEnhancementValuesFromValue() {
+function updateEnchantmentValuesFromValue() {
 
     /*
      * A value change scopes every other row, so
      * refresh them all. This row's own selection
      * is preserved.
      */
-    refreshEnhancementFilters(
+    refreshEnchantmentFilters(
         true
     );
 }
 
 
-function addEnhancement() {
+function addEnchantment() {
 
     const container =
         document.getElementById(
-            "enhancement-filters"
+            "enchantment-filters"
         );
 
     const index =
@@ -534,37 +597,37 @@ function addEnhancement() {
         );
 
     row.className =
-        "enhancement-filter";
+        "enchantment-filter";
 
     row.innerHTML = `
 <select
-    name="enhancement_${index}"
-    class="enhancement-name"
+    name="enchantment_${index}"
+    class="enchantment-name"
 >
-    <option value="">Any enhancement</option>
+    <option value="">Any enchantment</option>
 </select>
 
 <select
-    name="enhancement_value_${index}"
-    class="enhancement-value"
+    name="enchantment_value_${index}"
+    class="enchantment-value"
 >
     <option value="">Any value</option>
 </select>
 
 <input
     type="number"
-    name="enhancement_min_${index}"
-    class="enhancement-min"
+    name="enchantment_min_${index}"
+    class="enchantment-min"
     min="0"
     step="any"
     placeholder="Min"
-    title="Match items with this enhancement at or above this magnitude (e.g. 20 matches +22% and +26%)"
+    title="Match items with this enchantment at or above this magnitude (e.g. 20 matches +22% and +26%)"
 >
 
 <button
     type="button"
-    class="remove-enhancement"
-    onclick="removeEnhancement(this)"
+    class="remove-enchantment"
+    onclick="removeEnchantment(this)"
 >
     Remove
 </button>
@@ -574,20 +637,20 @@ function addEnhancement() {
         row
     );
 
-    const enhancementSelect =
+    const enchantmentSelect =
         row.querySelector(
-            "select.enhancement-name"
+            "select.enchantment-name"
         );
 
     const valueSelect =
         row.querySelector(
-            ".enhancement-value"
+            ".enchantment-value"
         );
 
-    enhancementSelect.addEventListener(
+    enchantmentSelect.addEventListener(
         "change",
         function() {
-            updateEnhancementValues(
+            updateEnchantmentValues(
                 this
             );
         }
@@ -595,18 +658,18 @@ function addEnhancement() {
 
     valueSelect.addEventListener(
         "change",
-        updateEnhancementValuesFromValue
+        updateEnchantmentValuesFromValue
     );
 
     const minInput =
         row.querySelector(
-            ".enhancement-min"
+            ".enchantment-min"
         );
 
     minInput.addEventListener(
         "input",
         function() {
-            refreshEnhancementFilters(
+            refreshEnchantmentFilters(
                 true
             );
         }
@@ -616,65 +679,65 @@ function addEnhancement() {
      * Recalculate all rows so the new row
      * gets options based on the current search.
      */
-    refreshEnhancementFilters(
+    refreshEnchantmentFilters(
         true
     );
 
-    renumberEnhancements();
+    renumberEnchantments();
 }
 
 
-function removeEnhancement(
+function removeEnchantment(
     button
 ) {
 
     button.parentElement.remove();
 
-    renumberEnhancements();
+    renumberEnchantments();
 
     if (
         getFilterRows().length === 0
     ) {
-        addEnhancement();
+        addEnchantment();
 
         return;
     }
 
-    refreshEnhancementFilters(
+    refreshEnchantmentFilters(
         true
     );
 }
 
 
-function renumberEnhancements() {
+function renumberEnchantments() {
 
     getFilterRows().forEach(
         function(row, index) {
 
-            const enhancementSelect =
+            const enchantmentSelect =
                 row.querySelector(
-                    "select.enhancement-name"
+                    "select.enchantment-name"
                 );
 
             const valueSelect =
                 row.querySelector(
-                    ".enhancement-value"
+                    ".enchantment-value"
                 );
 
             const minInput =
                 row.querySelector(
-                    ".enhancement-min"
+                    ".enchantment-min"
                 );
 
-            enhancementSelect.name =
-                "enhancement_" + index;
+            enchantmentSelect.name =
+                "enchantment_" + index;
 
             valueSelect.name =
-                "enhancement_value_" + index;
+                "enchantment_value_" + index;
 
             if (minInput) {
                 minInput.name =
-                    "enhancement_min_" + index;
+                    "enchantment_min_" + index;
             }
         }
     );
@@ -696,7 +759,7 @@ document.addEventListener(
             includeUpgradesCheckbox.addEventListener(
                 "change",
                 function() {
-                    refreshEnhancementFilters(
+                    refreshEnchantmentFilters(
                         true
                     );
                 }
@@ -705,18 +768,27 @@ document.addEventListener(
 
         const typeSelect =
             document.getElementById(
-                "item_type"
+                "type"
             );
 
         typeSelect.addEventListener(
             "change",
             function() {
+                refreshEnchantmentFilters(
+                    true
+                );
+            }
+        );
 
-                /*
-                 * Type changes can invalidate
-                 * any existing enhancement/value.
-                 */
-                refreshEnhancementFilters(
+        const categorySelect =
+            document.getElementById(
+                "category"
+            );
+
+        categorySelect.addEventListener(
+            "change",
+            function() {
+                refreshEnchantmentFilters(
                     true
                 );
             }
@@ -725,25 +797,25 @@ document.addEventListener(
         getFilterRows().forEach(
             function(row) {
 
-                const enhancementSelect =
+                const enchantmentSelect =
                     row.querySelector(
-                        "select.enhancement-name"
+                        "select.enchantment-name"
                     );
 
                 const valueSelect =
                     row.querySelector(
-                        ".enhancement-value"
+                        ".enchantment-value"
                     );
 
                 const minInput =
                     row.querySelector(
-                        ".enhancement-min"
+                        ".enchantment-min"
                     );
 
-                enhancementSelect.addEventListener(
+                enchantmentSelect.addEventListener(
                     "change",
                     function() {
-                        updateEnhancementValues(
+                        updateEnchantmentValues(
                             this
                         );
                     }
@@ -751,14 +823,14 @@ document.addEventListener(
 
                 valueSelect.addEventListener(
                     "change",
-                    updateEnhancementValuesFromValue
+                    updateEnchantmentValuesFromValue
                 );
 
                 if (minInput) {
                     minInput.addEventListener(
                         "input",
                         function() {
-                            refreshEnhancementFilters(
+                            refreshEnchantmentFilters(
                                 true
                             );
                         }
@@ -771,7 +843,7 @@ document.addEventListener(
          * Populate all controls from the current
          * server-rendered selections.
          */
-        refreshEnhancementFilters(
+        refreshEnchantmentFilters(
             true
         );
     }

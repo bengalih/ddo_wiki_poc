@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:Frostwell",
+  "page_id": 119129,
+  "revision_id": 663517,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:08:48.826416+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Frostwell\n  | type                     = Orb\n  | prof                     = Magical Training\n  | race                     = \n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 8\n  | damagemod                = INT\n  | attmod                   = CHA\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +0\n  | maxdexbonus              = None\n  | dr                       = 0\n  | acp                      = 0\n  | asf                      = 0%\n  | dmg                      = [1d6] + 0\n  | dmgtype                  = Force\n  | crit                     = 20 / x2\n  | durability               = 195\n  | material                 = Wood\n  | hardness                 = 33\n  | basevalue                = 5,300 pp\n  | weight                   = 3 lbs\n  | quest                    = A Light in the Attic\n  | released                 = Update 75\n  | chest                    = end chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|oi|4|8}}\n* {{Spell Power|Glaciation|17|Quality}}\n* {{Spellpen|3}}\n* {{Lamordia Slot|Melancholic|Weapon}}\n* {{Lamordia Slot|Dolorous|Weapon}}\n* {{Augment|Purple}}\n  | description              = A vessel for the biting cold of the wind whipping through the snowy streets.\n  | crafting                 =\n  | craftingupgrade          = \n  | pic                      = Death's Anchor shown.jpg\n  | picdesc                  = Frostwell.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Magical Training",
+  "material": "Wood",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +8",
+      "tooltip": "Spellcasting Implement +8: Passive: +8 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +8"
+        }
+      ]
+    },
+    {
+      "text": "+4 Orb Bonus",
+      "tooltip": "+4 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +4 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Orb Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Quality Glaciation +17",
+      "tooltip": "Quality Glaciation +17: Passive: +17 Quality bonus to Cold Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Glaciation",
+          "title": "Glaciation",
+          "text": "Quality Glaciation +17"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration +3",
+      "tooltip": "Spell Penetration +3: Passive: +3 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration +3"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Melancholic Slot (Weapon)",
+      "tooltip": "Lamordia: Melancholic Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Melancholic Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Dolorous Slot (Weapon)",
+      "tooltip": "Lamordia: Dolorous Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Dolorous Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

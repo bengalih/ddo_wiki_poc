@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Cloak of Shadows",
+  "page_id": 4859,
+  "revision_id": 629032,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:22:52.316390+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Cloak of Shadows\n  | type                     = Cloak\n  | slot                     = Back\n  | minlevel                 = 7\n  | basevalue                = 2805 pp\n  | weight                   = 0.10 lbs\n  | durability               = 80\n  | material                 = Leather\n  | hardness                 = 9\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = The Church and the Cult\n  | chest                    = End chest\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|Hide|10}}\n* {{Skills|ms|10}}\n* {{Augment|Green}}\n  | description              = A long, lustrous black cloak that is nearly impossible to examine closely. Your eyes tend to slide right off.\n  | pic                      = Cloak of Shadows shown.jpg  \n  | picdesc                  = Cloak of Shadows.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Hide +10",
+      "tooltip": "Hide +10: Passive: +10 Competence bonus to the Hide skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hide",
+          "title": "Hide",
+          "text": "Hide +10"
+        }
+      ]
+    },
+    {
+      "text": "Move Silently +10",
+      "tooltip": "Move Silently +10: Passive: +10 Competence bonus to the Move Silently skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Move_Silently",
+          "title": "Move Silently",
+          "text": "Move Silently +10"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    }
+  ]
+}

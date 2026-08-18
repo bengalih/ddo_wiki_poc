@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Morninglord's Handwraps",
+  "page_id": 78393,
+  "revision_id": 672398,
+  "revision_timestamp": "2026-01-25T17:27:25Z",
+  "fetched_at": "2026-08-17T22:26:50.807585+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Morninglord's Handwraps\n  | damage                   = 4.80[1d6+2] + 15 Bludgeon, Good, Silver, Magic\n  | crit                     = 20 / x2\n  | type                     = Handwrap\n  | hand                     = Simple\n  | class                    = Bludgeoning\n  | prof                     = Exotic\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 29\n  | durability               = 410\n  | material                 = Cloth\n  | hardness                 = 40\n  | basevalue                = 11,605 pp\n  | weight                   = 0.50 lbs\n  | bind                     = {{Bind|BtA|BoA}} from chest; {{Bind|BtC|BoA}} otherwise\n  | quest                    = Blue Water Inn\n  | turn in                  = {{Vistani Totem|60}}\n  | revamped                 = Update 76\n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Holy|6|1}}\n* {{Fiery|6}}\n* {{Coruscating|6}}\n* {{Mat|Silver}}, Alchemical\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This weapon was designed to serve the Morninglord, and has been blessed with unimaginable power... and something else?\n  | pic                      = Handwraps Generic.png\n  | picdesc                  = Morninglord's_Handwraps.png\n  | tips                     = This and similar weapons are available from multiple sources:\n* For free, one per life, from Tobar the Smith in Barovia. BtC.\n* Purchased for Vistani Totems in Blue Water Inn. BtC.\n* Looted in Ravenloft quests. BtA + eligible for Mythic / Reaper bonuses.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Handwrap",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Holy 6",
+      "tooltip": "Holy 6: This weapon is wielded by the pure to smite the wicked, dealing an additional 6d6 good damage on each hit. This effect makes the weapon good aligned. Evil characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Holy 6"
+        }
+      ]
+    },
+    {
+      "text": "Fiery 6",
+      "tooltip": "Fiery 6: This effect causes the edges of this weapon to burn with enchanted flames, dealing 6d6 Fire damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fiery",
+          "title": "Fiery",
+          "text": "Fiery 6"
+        }
+      ]
+    },
+    {
+      "text": "Coruscating 6",
+      "tooltip": "Coruscating 6: This effect causes the edges of this weapon to coruscate, dealing 6d6 Light damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Coruscating",
+          "title": "Coruscating",
+          "text": "Coruscating 6"
+        }
+      ]
+    },
+    {
+      "text": "Silver , Alchemical",
+      "tooltip": "Silver: A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as devils and vampires. Silver weapons have 2 points lower hardness then equivalent steel weapons, and as such aren't quite as durable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Silver",
+          "title": "Silver",
+          "text": "Silver"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

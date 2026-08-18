@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Tattered Gloves",
+  "page_id": 15110,
+  "revision_id": 635252,
+  "revision_timestamp": "2025-04-22T04:15:29Z",
+  "fetched_at": "2026-08-17T23:11:17.031918+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Tattered Gloves\n  | type                     = Gloves\n  | basevalue                = 402pp\n  | weight                   = 0.10 lbs\n  | slot                     = Hand\n  | durability               = 30\n  | material                 = Leather\n  | hardness                 = 7\n  | minlevel                 = 2\n  | bind                     = {{Bind|no}}\n  | quest                    = The Captives\n  | chest                    = [[Parnash]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Power|2}}\n* {{Spelllore|Fire|ii}}\n  | description              = This pair of singed leather gloves are tattered and worn through from use.\n  | pic                      = Gloves Generic.png\n  | picdesc                  = Tattered Gloves.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "Power II",
+      "tooltip": "Power II: This item grants the wearer +20 maximum spell points. Favored Souls and Sorcerers gain double spell points from this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power",
+          "title": "Power",
+          "text": "Power II"
+        }
+      ]
+    },
+    {
+      "text": "Fire Lore II",
+      "tooltip": "Fire Lore II: Passive: Your Fire spells gain a 12% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Fire Lore II"
+        }
+      ]
+    }
+  ]
+}

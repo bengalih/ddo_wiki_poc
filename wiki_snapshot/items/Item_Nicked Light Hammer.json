@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Nicked Light Hammer",
+  "page_id": 64908,
+  "revision_id": 672575,
+  "revision_timestamp": "2026-01-25T18:11:12Z",
+  "fetched_at": "2026-08-17T22:30:54.411899+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Nicked Light Hammer\n  | type                     = Light Hammer\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = [1d4] + 2 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 70\n  | material                 = Steel \n  | hardness                 = 12\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Electrifying|2}}\n* {{Shatter|4}}\n* {{Deadly|3}}\n  | description              = A small sledge with a blunt, square head.\n  | basevalue                = 2,001 gp\n  | weight                   = 2 lbs\n  | released                 = Update 36\n  | revamped                 = Update 76\n  | quest                    = The Sharn Syndicate\n  | end reward               = yes\n  | pic                      = Nicked Light Hammer shown.jpg\n  | tips                     = \n  | picdesc                  = Nicked Light Hammer.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Light Hammer",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Electrifying 2",
+      "tooltip": "Electrifying 2: This effect causes the edges of this weapon to arc with electricity, dealing 2d6 Lightning damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electrifying",
+          "title": "Electrifying",
+          "text": "Electrifying 2"
+        }
+      ]
+    },
+    {
+      "text": "Shatter +4",
+      "tooltip": "Shatter +4: This effect gives a +4 Enhancement bonus to the DC to resist the character's Sunder and Improved Sunder attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shatter",
+          "title": "Shatter",
+          "text": "Shatter +4"
+        }
+      ]
+    },
+    {
+      "text": "Deadly +3",
+      "tooltip": "Deadly +3: +3 Competence bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Deadly +3"
+        }
+      ]
+    }
+  ]
+}

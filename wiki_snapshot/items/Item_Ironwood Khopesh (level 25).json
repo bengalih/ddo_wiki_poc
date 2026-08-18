@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Ironwood Khopesh (level 25)",
+  "page_id": 29631,
+  "revision_id": 649658,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:25:09.309930+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Ironwood Khopesh}}\n  | sentience                = no\n  | damage                   = 1.50[1d8] +7 Slash, Adamantine, Magic\n  | crit                     = 19-20 / x3\n  | type                     = Khopesh\n  | hand                     = One-handed\n  | class                    = Slashing\n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Exotic\n  | durability               = 315\n  | material                 = Wood\n  | hardness                 = 35\n  | minlevel                 = 25\n  | quest                    = Lost in the Swamp\n  | chest                    = End Chest (Epic Elite)\n  | end reward               = \n  | basevalue                = 10,002 pp\n  | weight                   = 24 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | enhancements             = \n* {{Enhancement bonus|w|7}}\n* {{Stone Prison|Greater}}\n* {{Cosmic}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Ironwood Khopesh shown.jpg\n  | picdesc                  = Ironwood Khopesh (Level 25).png\n  | description              = This extremely heavy, single-edged sword appears to be made from some kind of petrified wood that holds an edge as strong and sharp as adamantine. It is reinforced  with a field of magical force that will deal punishing blows to any enemy it strikes.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Khopesh",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Greater Stone Prison",
+      "tooltip": "Greater Stone Prison: This weapon is invested with the power of the earth. On an attack roll of 20 which is confirmed as a critical hit it will attempt to turn the target to stone, as the Flesh to Stone spell. A successful Fortitude save (DC 33) negates this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Greater_Stone_Prison",
+          "title": "Greater Stone Prison",
+          "text": "Greater Stone Prison"
+        }
+      ]
+    },
+    {
+      "text": "Cosmic",
+      "tooltip": "Cosmic: This weapon is glowing with a barely-contained magical force. It deals an additional 3 to 18 force damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cosmic",
+          "title": "Cosmic",
+          "text": "Cosmic"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Dusk",
+  "page_id": 12721,
+  "revision_id": 629678,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:40:54.297673+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Dusk\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+12|m=+5|c=+1}}\n  | durability               = 130\n  | material                 = Gem\n  | hardness                 = 18\n  | minlevel                 = 8\n  | quest                    = The Shadow Crypt\n  | chest                    = Optional \"big chest\"\n  | basevalue                = 3,210 pp\n  | weight                   = 0 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Concealment|Dusk}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Dusk (docent) shown.jpg\n  | picdesc                  = Dusk (docent).png\n  | description              = This docent is studded with black diamonds and seems to absorb light.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Dusk",
+      "tooltip": "Dusk: Equipping this item engulfs you in twilight shadows. Attacks from enemies have a 10% chance to miss you due to concealment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dusk_(enchantment)",
+          "title": "Dusk (enchantment)",
+          "text": "Dusk"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

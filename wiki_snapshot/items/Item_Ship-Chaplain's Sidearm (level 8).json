@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Ship-Chaplain's Sidearm (level 8)",
+  "page_id": 87289,
+  "revision_id": 634709,
+  "revision_timestamp": "2025-04-22T03:39:33Z",
+  "fetched_at": "2026-08-17T22:57:20.975898+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Ship-Chaplain's Sidearm}}\n  | damage                   = [1d8] + 3 Bludgeon, Good, Magic\n  | crit                     = 20 / x2\n  | type                     = Morningstar\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 8\n  | durability               = 145\n  | material                 = Steel\n  | hardness                 = 18\n  | cost                     = 3,200 pp 8 gp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | epic                     = \n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|silver|250}}{{CCi|golden|100}}{{CCi|obsidian|20}}{{CCi|green|400}} at [[Euphonia's Barter Box]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Holy|2|1}}\n* {{Ghostbane|2}}\n* {{Burst|Holy}}\n* {{Deadly|1|Insightful}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Ship-Chaplain's Sidearm shown.jpg\n  | picdesc                  = Ship-Chaplain's Sidearm (level 8).png\n  | description              = Even pirates, at times, need the guidance of the divine.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Morningstar",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Holy 2",
+      "tooltip": "Holy 2: This weapon is wielded by the pure to smite the wicked, dealing an additional 2d6 good damage on each hit. This effect makes the weapon good aligned. Evil characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Holy 2"
+        }
+      ]
+    },
+    {
+      "text": "Ghostbane 2",
+      "tooltip": "Ghostbane 2: This weapon is attuned specifically to hunt the risen dead, dealing an additional 2d10 bane damage vs. Undead monsters.Passive: This weapon has Ghost Touch, and bypasses ethereal monster's 50% chance to evade bane damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostbane",
+          "title": "Ghostbane",
+          "text": "Ghostbane 2"
+        }
+      ]
+    },
+    {
+      "text": "Holy Burst",
+      "tooltip": "Holy Burst: A holy weapon is imbued with holy power. This power makes the weapon good-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2 to 12 points of damage against all of evil alignment and an extra 3 to 18 on a critical for weapons with a x2 critical multiplier, 4 to 24 for a x3 multiplier, and 5 to 30 for a x4 multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Holy_Burst#Holy_Burst",
+          "title": "Holy Burst",
+          "text": "Holy Burst"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Deadly +1",
+      "tooltip": "Insightful Deadly +1: +1 Insight bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Insightful Deadly +1"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

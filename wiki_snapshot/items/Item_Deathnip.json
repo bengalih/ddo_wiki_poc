@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Deathnip",
+  "page_id": 12594,
+  "revision_id": 629364,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:31:25.792399+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Deathnip\n  | damage                   = 1.80[1d6] + 5 Pierce, Magic\n  | crit                     = 18-20 / x4\n  | type                     = Heavy Pick\n  | class                    = Piercing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | umd dc                   = \n  | reqtrait                 = \n  | durability               = 205\n  | material                 = Steel\n  | hardness                 = 29\n  | basevalue                = 5600.8pp\n  | weight                   = 6 lbs\n  | quest                    = Tome of Untold Legends\n  | turn in                  = completed Tome: Binding\n  | minlevel                 = 14\n  | bind                     = {{Bind|BtC|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|5}}\n* {{Heartseeker|IV}}\n* {{Seeker|10}}\n* {{Augment|Red}}\n  | description              = Rumor holds that a powerful shaman had this blade magically implanted in his mouth. When his enemies slew him, they kept his skull and blade as a trophy.\n  | pic                      = Deathnip shown.jpg\n  | picdesc                  = Deathnip.png\n  | tips                     = Weapon effects upgraded in Update 17. Pre-Update 17 versions were not retroactively updated and have to be reacquired.\n\nGlamered weapon auras do not work on a glamered Deathnip.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Heavy Pick",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Heartseeker IV",
+      "tooltip": "Heartseeker IV: On Critical Hit: 9 to 54 Piercing damage from weapons with a x2 Critical Multiplier, 9 to 72 Piercing damage from weapons with a x3 Critical Multiplier, and 9 to 90 Piercing damage from weapons with a x4 or greater Critical Multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heartseeker",
+          "title": "Heartseeker",
+          "text": "Heartseeker IV"
+        }
+      ]
+    },
+    {
+      "text": "Seeker +10",
+      "tooltip": "Seeker +10: Provides a +10 Enhancement bonus to confirm critical hits, and a +10 Enhancement bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Seeker +10"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

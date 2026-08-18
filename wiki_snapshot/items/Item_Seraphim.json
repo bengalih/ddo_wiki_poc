@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Seraphim",
+  "page_id": 10095,
+  "revision_id": 693998,
+  "revision_timestamp": "2026-07-09T20:16:34Z",
+  "fetched_at": "2026-08-17T22:53:18.120487+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Seraphim\n  | slot                     = Head\n  | type                     = Helm\n  | durability               = 120\n  | material                 = Steel\n  | hardness                 = 21\n  | basevalue                = 4,420pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 11\n  | quest                    = Tattered Tapestries\n  | turn in                  = 20 Tattered Tapestries\n  | bind                     = {{Bind|BtC|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Bonus Turning|Sacred}}\n* {{Bonus Turning|Hallowed}}\n* {{Spell Focus|Abjuration|1}}\n* {{SpellPower|Devotion|66}}\n  | description              = This helm was taken from the body of a fallen Astral Deva.\n  | crafting                 = Catalyst Crafting\n  | craftingupgrade          = Lolth's Protection\n  | pic                      = Seraphim shown.jpg\n  | picdesc                  = Seraphim.png\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Sacred",
+      "tooltip": "Sacred: An item with this quality assists only wearers who have the ability to turn undead. Sacred items provide an +2 Enhancement bonus to your effective level for Turning Undead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sacred",
+          "title": "Sacred",
+          "text": "Sacred"
+        }
+      ]
+    },
+    {
+      "text": "Hallowed +2",
+      "tooltip": "Hallowed: An item with this quality assists only wearers who have the ability to turn undead. Hallowed items provide an +2 Enhancement bonus to the maximum Hit Dice of undead turned.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hallowed",
+          "title": "Hallowed",
+          "text": "Hallowed +2"
+        }
+      ]
+    },
+    {
+      "text": "Abjuration Focus +1",
+      "tooltip": "Abjuration Focus +1: +1 Equipment bonus to the DC of Abjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Abjuration Focus +1"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +66",
+      "tooltip": "Devotion +66: Passive: +66 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +66"
+        }
+      ]
+    }
+  ]
+}

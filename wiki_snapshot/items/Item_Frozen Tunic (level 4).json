@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Frozen Tunic (level 4)",
+  "page_id": 23236,
+  "revision_id": 686705,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:08:58.843364+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Frozen Tunic}}\n  | type                     = Outfit\n  | feat                     = Cloth\n  | race                     = \n  | ac                       = +3\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 45\n  | material                 = Cloth\n  | hardness                 = 6\n  | minlevel                 = 4\n  | quest                    = Vaults of the Artificers\n  | chest                    = Crafted from various challenge ingredients\n  | basevalue                = 1,605pp 5gp\n  | weight                   = \n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|3}}\n* {{SpellPower|Glaciation|54}}\n* {{Spelllore|Ice|8}}\n* {{Freezing Ice|Minor}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = <!--yes -->\n  | description              = This tunic shimmers like frost and is filled with a powerful freezing energy. It will invest your attacks with an icy edge, as well as boosting the power of your ice-related magic. A bound Water Elemental fuels this item.\n  | pic                      = Frozen Tunic shown.jpg\n  | picdesc                  = Frozen Tunic (Level 4).png\n  | notes                    = '''See also:''' [[Frozen Tunic]] - Full table of the Frozen Tunic line\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Outfit",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +3",
+      "tooltip": "Armor Bonus +3: This item surrounds the wearer with an invisible but tangible field of force, granting +3 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +3"
+        }
+      ]
+    },
+    {
+      "text": "Glaciation +54",
+      "tooltip": "Glaciation +54: Passive: +54 Equipment bonus to Cold Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Glaciation",
+          "title": "Glaciation",
+          "text": "Glaciation +54"
+        }
+      ]
+    },
+    {
+      "text": "Ice Lore +8%",
+      "tooltip": "Ice Lore +8: Passive: Your Cold spells gain a 8% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Ice Lore +8%"
+        }
+      ]
+    },
+    {
+      "text": "Minor Freezing Ice",
+      "tooltip": "Minor Freezing Ice :",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Freezing_Ice",
+          "title": "Freezing Ice",
+          "text": "Minor Freezing Ice"
+        }
+      ]
+    }
+  ]
+}

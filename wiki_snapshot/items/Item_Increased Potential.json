@@ -1,0 +1,96 @@
+{
+  "page_title": "Item:Increased Potential",
+  "page_id": 53686,
+  "revision_id": 690650,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:23:36.001387+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Increased Potential\n  | type                     = Orb\n  | prof                     = Magical Training\n  | race                     = \n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 14\n  | damagemod                = INT, CHA\n  | attmod                   = INT, CHA\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +3\n  | maxdexbonus              = None\n  | dr                       = 0\n  | acp                      = 0\n  | asf                      = 0\n  | dmg                      = [1d6] + 0\n  | dmgtype                  = Force\n  | crit                     = 20 / x2\n  | durability               = 205\n  | material                 = Gem\n  | hardness                 = 34\n  | basevalue                = 5,902 pp\n  | weight                   = 3 lbs\n  | released                 = Update 28\n  | quest                    = Subversion\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|o|5}}\n* {{Wizardry|V}}\n* {{Spellpen|I|Insight|prefix=Insightful}}\n* {{Spell Focus|Spell|I|Quality}}\n* {{Augment|Orange}}\n  | description              = One should always strive to unlock their true potential.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Increased Potential shown.jpg\n  | picdesc                  = Increased Potential.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Magical Training",
+  "material": "Gem",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Orb Bonus",
+      "tooltip": "+5 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +5 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Orb Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry V",
+      "tooltip": "Wizardry V: This item grants the wearer +125 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry V"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Spell Penetration I",
+      "tooltip": "Insightful Spell Penetration I: Passive: +1 Insight bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Insightful Spell Penetration I"
+        }
+      ]
+    },
+    {
+      "text": "Quality Spell Focus I",
+      "tooltip": "Quality Spell Focus I: +1 Quality bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Quality Spell Focus I"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

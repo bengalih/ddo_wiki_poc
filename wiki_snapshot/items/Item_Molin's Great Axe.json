@@ -1,0 +1,30 @@
+{
+  "page_title": "Item:Molin's Great Axe",
+  "page_id": 9548,
+  "revision_id": 633516,
+  "revision_timestamp": "2025-04-22T02:18:44Z",
+  "fetched_at": "2026-08-17T22:25:53.169893+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Molin's Great Axe\n  | damage                   = [1d12] + 0 Slashing\n  | crit                     = 20 / x3\n  | type                     = Great Axe\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = Two-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 110\n  | material                 = Steel\n  | hardness                 = 11\n  | minlevel                 = 0\n  | basevalue                = 202pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = The Collaborator\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Bane|Monstrous Humanoid|lesser}}\n  | description              = Used by Molin, a young dwarf adventurer, this big, heavy, double-bladed axe is wieldable only with two hands. It is said to haunt the dreams of the Sahuagin.\n  | pic                      = Carnifex shown.jpg\n  | picdesc                  = Molin's Great Axe.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "Lesser Monstrous Humanoid Bane",
+      "tooltip": "Lesser Monstrous Humanoid Bane: A bane weapon excels at attacking one type or subtype of creature. Against Monstrous Humanoids, this weapon's effective enhancement bonus is +1 better than its normal enhancement bonus. It deals an extra 1 to 6 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Lesser Monstrous Humanoid Bane"
+        }
+      ]
+    }
+  ]
+}

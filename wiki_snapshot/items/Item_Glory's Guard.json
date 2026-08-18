@@ -1,0 +1,83 @@
+{
+  "page_title": "Item:Glory's Guard",
+  "page_id": 78214,
+  "revision_id": 631131,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:11:54.970303+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Large\n  | prof                     = General\n  | minlevel                 = 1\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +8\n  | dr                       = 5\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = [1d10] + 1\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | durability               = 130\n  | material                 = Crystal\n  | hardness                 = 26\n  | basevalue                = 804 pp\n  | weight                   = 10 lbs\n  | released                 = Update 44\n  | quest                    = The Borderlands\n  | end reward               = \n  | chest                    = chest (Rare Encounters)\n  | enhancements             = \n* {{Enhancement bonus|s|1}}\n* {{Bonus Turning|Hallowed|1}}\n* {{Bonus Turning|Sacred|1}}\n* {{Augment|Blue}}\n  | description              = This shield has a faint holy aura within it.\n  | pic                      = Glory's Guard shown.png\n  | picdesc                  = Glory's Guard.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Crystal",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Hallowed +1",
+      "tooltip": "Hallowed: An item with this quality assists only wearers who have the ability to turn undead. Hallowed items provide an +1 Enhancement bonus to the maximum Hit Dice of undead turned.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hallowed",
+          "title": "Hallowed",
+          "text": "Hallowed +1"
+        }
+      ]
+    },
+    {
+      "text": "Sacred +1",
+      "tooltip": "Sacred +1: An item with this quality assists only wearers who have the ability to turn undead. Sacred items provide an +1 Enhancement bonus to your effective level for Turning Undead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sacred",
+          "title": "Sacred",
+          "text": "Sacred +1"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

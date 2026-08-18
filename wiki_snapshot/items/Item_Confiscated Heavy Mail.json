@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Confiscated Heavy Mail",
+  "page_id": 70416,
+  "revision_id": 673319,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:25:16.588925+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Confiscated Heavy Mail\n  | type                     = Heavy Armor\n  | feat                     = Heavy\n  | race                     = \n  | ac                       = 22\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 212\n  | material                 = Steel\n  | hardness                 = 17\n  | minlevel                 = 6\n  | released                 = Update 39\n  | quest                    = The Price of Freedom\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no \n  | basevalue                = 2450pp\n  | weight                   = 50 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{Fire Shield|Cold}}\n* {{Stat|CON|4}}\n* {{Concealment|Dusk}}\n* {{Spell Resistance|12}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Confiscated Heavy Mail shown.jpg\n  | picdesc                  = Confiscated Heavy Mail.png\n  | description              = If struck while wearing this armor, enchanted flames rise up to protect you. It's a pity they don't last forever...\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Heavy Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 6,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fire Shield (Cold)",
+      "tooltip": "Fire Shield (Cold): When you are successfully attacked, there is a 10% chance that a Fire Shield (Cold) will be cast on you. If this effect activates while you have an active Fire Shield (Hot) from another item source, they will nullify each-other.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Shield_(Cold)",
+          "title": "Fire Shield (Cold)",
+          "text": "Fire Shield (Cold)"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +4",
+      "tooltip": "Constitution +4: This item gives the wearer improved health, granting a +4 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +4"
+        }
+      ]
+    },
+    {
+      "text": "Dusk",
+      "tooltip": "Dusk: Equipping this item engulfs you in twilight shadows. Attacks from enemies have a 10% chance to miss you due to concealment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dusk_(enchantment)",
+          "title": "Dusk (enchantment)",
+          "text": "Dusk"
+        }
+      ]
+    },
+    {
+      "text": "Spell Resistance +12",
+      "tooltip": "Spell Resistance +12: +12 Enhancement bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Spell Resistance +12"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

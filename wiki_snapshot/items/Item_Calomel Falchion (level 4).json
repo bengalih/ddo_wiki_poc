@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Calomel Falchion (level 4)",
+  "page_id": 47983,
+  "revision_id": 648948,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:18:24.856548+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Calomel Falchion}}\n  | damage                   = [2d4] + 1 Slash, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Falchion\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 130\n  | material                 = Steel\n  | hardness                 = 14\n  | minlevel                 = 4\n  | basevalue                = 1,607pp 5gp\n  | weight                   = 8\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various challenge ingredients\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|1}}\n* {{Bane|Dragon|2}}\n* {{Tidal}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = \n  | description              = A weapon crafted from durable white Calomel ore is always sheathed in condensed water droplets. It is particularly effective against dragons and fiery creatures.\n  | pic                      = Calomel Falchion Shown.jpg\n  | picdesc                  = Calomel Falchion (level_4).png\n  | tips                     = '''See also:''' {{Item|Calomel Falchion}} - Full table of the  Calomel Falchion\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Falchion",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+1 Enhancement Bonus",
+      "tooltip": "+1 Enhancement Bonus: +1 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+1 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Dragon Bane 2",
+      "tooltip": "Dragon Bane 2: This weapon is attuned specifically to disrupt those with draconic blood, dealing an additional 2d10 bane damage vs. Dragons.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Dragon Bane 2"
+        }
+      ]
+    },
+    {
+      "text": "Tidal",
+      "tooltip": "Tidal: This weapon is sheathed in water. A tidal weapon deals an extra 1 to 4 points of damage on a successful hit. Creatures with the Fire trait take double this damage instead.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Tidal",
+          "title": "Tidal",
+          "text": "Tidal"
+        }
+      ]
+    }
+  ]
+}

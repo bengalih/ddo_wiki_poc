@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:Epic Stone Wall",
+  "page_id": 49691,
+  "revision_id": 630480,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:57:05.985016+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Epic Stone Wall\n  | type                     = Tower\n  | prof                     = Tower\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 26\n  | damagemod                = STR\n  | attmod                   = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +21\n  | maxdexbonus              = 2\n  | dr                       = 18\n  | acp                      = -7\n  | asf                      = 40\n  | dmg                      = 4.20[2d10] + 10\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 / x2\n  | durability               = 380\n  | material                 = Stone\n  | hardness                 = 51\n  | basevalue                = 10804 pp\n  | weight                   = 50 lbs\n  | released                 = Update 24\n  | quest                    = Terminal Delirium\n  | chest                    = Third Dance Bonus Chest (Epic)\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|s|10}}\n* {{Spearblock|VII}}\n* {{Axeblock|VII}}\n* {{Hardened Exterior|2}}\n* {{Orlassk's Prison}}\n* Hidden effect: {{Stone Paws}}\n* {{Augment|Purple}}\n  | description              = \n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Stone Wall shown.jpg\n  | picdesc                  = Epic Stone Wall.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Tower Shield Proficiency",
+  "material": "Stone",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "+10 Enhancement Bonus",
+      "tooltip": "+10 Enhancement Bonus: +10 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+10 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Spearblock VII",
+      "tooltip": "Spearblock VII: Passive: Reduces physical damage taken by 14, except from Bludgeoning or Slashing weapons. (Damage Reduction: 14/Slash, Bludgeon)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spearblock",
+          "title": "Spearblock",
+          "text": "Spearblock VII"
+        }
+      ]
+    },
+    {
+      "text": "Axeblock VII",
+      "tooltip": "Axeblock VII: Passive: Reduces physical damage taken by 14, except from Bludgeoning or Piercing weapons. (Damage Reduction: 14/Pierce, Bludgeon)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Axeblock",
+          "title": "Axeblock",
+          "text": "Axeblock VII"
+        }
+      ]
+    },
+    {
+      "text": "Hardened Exterior 2",
+      "tooltip": "Hardened Exterior 2: You gain a +2 profane bonus to AC.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hardened_Exterior",
+          "title": "Hardened Exterior",
+          "text": "Hardened Exterior 2"
+        }
+      ]
+    },
+    {
+      "text": "Orlassk's Prison",
+      "tooltip": "Orlassk's Prison: This shield radiates with the power of the Lord of Stone. A shield bash will turn the target to stone. This effect can trigger once ever 90 seconds. A successful Fortitude save (DC 65) negates this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Orlassk%27s_Prison",
+          "title": "Orlassk's Prison",
+          "text": "Orlassk's Prison"
+        }
+      ]
+    },
+    {
+      "text": "Hidden effect: Stone Paws",
+      "tooltip": "Stone Paws: In Animal Form, Gain +2[W] and DR 15/Adamantine.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stone_Paws",
+          "title": "Stone Paws",
+          "text": "Stone Paws"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

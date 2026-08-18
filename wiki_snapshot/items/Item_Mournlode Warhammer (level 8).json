@@ -1,0 +1,152 @@
+{
+  "page_title": "Item:Mournlode Warhammer (level 8)",
+  "page_id": 48040,
+  "revision_id": 641230,
+  "revision_timestamp": "2025-05-20T05:43:40Z",
+  "fetched_at": "2026-08-17T22:28:52.727389+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Mournlode Warhammer}}\n  | damage                   = [1d8] + 2 Bludgeon, Good, Magic\n  | crit                     = 20 / x3\n  | type                     = War Hammer\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 150\n  | material                 = Steel\n  | hardness                 = 18\n  | minlevel                 = 8\n  | basevalue                = 3,201pp 5gp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various challenge ingredients\n  | mythic                   = no\n  | enhancements             = \n{{VaultsOfTheArtificersUpgrade}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = \n  | description              = A weapon crafted from valuable purple Mournlode crystal is especially effective against the undead.\n  | pic                      = Mournlode Warhammer shown.jpg\n  | picdesc                  = Mournlode Warhammer (level 8).png\n  | tips                     = '''See also:''' {{Item|Mournlode Warhammer}} - Full table of the  Mournlode Warhammer\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "War Hammer",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": "Upgradeable - Tier 1: This item is a Tier 1 upgradable item.",
+      "children": [
+        {
+          "text": "+2 Enhancement Bonus",
+          "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+2 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Righteous",
+          "tooltip": "Righteous: This weapon is imbued with holy power, giving it an additional +2 to attack bonus and damage against any evil creature. This power makes the weapon good-aligned.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Righteous",
+              "title": "Righteous",
+              "text": "Righteous"
+            }
+          ]
+        },
+        {
+          "text": "Undead Bane 2",
+          "tooltip": "Undead Bane 2: Those that have died must return, and this weapon is attuned specifically to lay them to rest. This weapon deals an additional 2d10 bane damage vs. Undead.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Undead Bane 2"
+            }
+          ]
+        },
+        {
+          "text": "Incandescence",
+          "tooltip": "Incandescence: This weapon glows with the light of Irian. This weapon deals an extra 1 to 6 points of light damage on a successful hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Incandescence",
+              "title": "Incandescence",
+              "text": "Incandescence"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": "Upgradeable - Tier 2: This item is a Tier 2 upgradable item.",
+      "children": [
+        {
+          "text": "+2 Enhancement Bonus → +3 Enhancement Bonus",
+          "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+2 Enhancement Bonus"
+            },
+            {
+              "target": "/page/Enhancement_bonus",
+              "title": "Enhancement bonus",
+              "text": "+3 Enhancement Bonus"
+            }
+          ]
+        },
+        {
+          "text": "Undead Bane 2 → Undead Bane 3",
+          "tooltip": "Undead Bane 2: Those that have died must return, and this weapon is attuned specifically to lay them to rest. This weapon deals an additional 2d10 bane damage vs. Undead.Undead Bane 3: Those that have died must return, and this weapon is attuned specifically to lay them to rest. This weapon deals an additional 3d10 bane damage vs. Undead.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Undead Bane 2"
+            },
+            {
+              "target": "/page/Bane_(enchantment)",
+              "title": "Bane (enchantment)",
+              "text": "Undead Bane 3"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This item is a Tier 3 upgradable item.",
+      "children": [
+        {
+          "text": "Adds Purple Augment Slot",
+          "tooltip": "Blue, Purple, Red, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Purple Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

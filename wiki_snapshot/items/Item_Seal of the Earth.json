@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Seal of the Earth",
+  "page_id": 5740,
+  "revision_id": 634541,
+  "revision_timestamp": "2025-04-22T03:28:21Z",
+  "fetched_at": "2026-08-17T22:53:05.263569+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Seal of the Earth\n  | slot                     = Finger\n  | type                     = Ring\n  | durability               = 120\n  | material                 = Leather\n  | hardness                 = 16\n  | basevalue                = 4,420 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 11\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Zawabi's Revenge\n  | chest                    = warded chest\n  | enhancements             = \n* {{clicky|Stoneskin|10|3}}\n* {{Spelllore|Acid|12}}\n* {{Spell Power|Corrosion|80}}\n* {{NaturalArmor|6}}\n* {{Elemental Resistance|Acid|23}}\n* {{Named item sets|Menechtarun Scavenger}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Seal of the Earth\n  | description              = A gold and ivory ring bearing a star-like symbol and the word HEVDEVI in blocky letters.\n  | pic                      = Ring Generic Earth.png\n  | picdesc                  = Seal of the Earth.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "Stoneskin — 3 Charges (Recharged/Day:3)",
+      "tooltip": "StoneskinCaster level: 10Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stoneskin",
+          "title": "Stoneskin",
+          "text": "Stoneskin"
+        }
+      ]
+    },
+    {
+      "text": "Acid Lore +12%",
+      "tooltip": "Acid Lore +12: Passive: Your Acid spells gain a 12% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Acid Lore +12%"
+        }
+      ]
+    },
+    {
+      "text": "Corrosion +80",
+      "tooltip": "Corrosion +80: Passive: +80 Equipment bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Corrosion +80"
+        }
+      ]
+    },
+    {
+      "text": "Natural Armor +6",
+      "tooltip": "Natural Armor +6: Passive: +6 Natural Armor Bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Natural_armor_bonus",
+          "title": "Natural armor bonus",
+          "text": "Natural Armor +6"
+        }
+      ]
+    },
+    {
+      "text": "Acid Resistance +23",
+      "tooltip": "Acid Resistance +23: Passive: +23 Enhancement bonus to your Acid Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Acid_Resistance",
+          "title": "Acid Resistance",
+          "text": "Acid Resistance +23"
+        }
+      ]
+    },
+    {
+      "text": "Menechtarun Scavenger",
+      "tooltip": "Menechtarun Scavenger: 2 Pieces Equipped:+5 Artifact bonus to Physical and Magical Resistance Rating+10 Artifact bonus to Positive, Negative, and Repair Amplification",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Menechtarun_Scavenger",
+          "title": "Named item sets",
+          "text": "Menechtarun Scavenger"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

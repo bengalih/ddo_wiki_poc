@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Staff of the Necromancer",
+  "page_id": 24417,
+  "revision_id": 693665,
+  "revision_timestamp": "2026-07-09T14:14:37Z",
+  "fetched_at": "2026-08-17T23:05:02.181105+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Staff of the Necromancer\n  | damage                   = 3.20[1d6] + 6 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = <!-- Leave blank if not used-->\n  | UMD DC                   = <!-- Leave blank if not used-->\n  | damagemod                = STR\n  | attackmod                = STR\n  | durability               = 290\n  | material                 = Magesteel\n  | hardness                 = 31\n  | minlevel                 = 21\n  | quest                    = The House of Death Undone\n  | chest                    = End Chest ; [[Menace of the Underdark: City of Portals]], Quest chain end reward\n  | epic                     = no <!-- If yes, replace \"no\" with name of non-epic version-->\n  | basevalue                = 8,400 pp 2 cp\n  | weight                   = 4 lbs\n  | bind                     = {{Bind|BtC|BoE}} or {{Bind|BtC|BoA}}\n  | enhancements             = \n* {{enhancement bonus|i|6}}\n* {{SpellPower|Potency|68|Equipment}}\n* {{SpellPower|Nullification|102|Equipment}}\n* {{Spellpen|iii}}\n* {{Augmentation|1|Arcane|9}}\n* {{Spell Focus|Necromancy|III}}\n  | crafting                 = Catalyst Crafting\n  | craftingupgrade          = Staff of the Demonic Resurrector¦Legendary Staff of the Demonic Resurrector\n  | pic                      = Drow Quarterstaff of the Weapon Master shown.jpg\n  | picdesc                  = Staff of the Necromancer.png\n  | description              = Made from a solid rod of dark metal, this staff is deceptively light. Strange, arcane script traces like spiderwebs across its surface.\n  | tips                     = This item, like the others from this chain, can be acquired as an end reward for the chain as {{Bind|BtC|BoA}}.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 21,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +18",
+      "tooltip": "Spellcasting Implement +18: Passive: +18 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +18"
+        }
+      ]
+    },
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Potency +68",
+      "tooltip": "Potency +68: Passive: +68 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +68"
+        }
+      ]
+    },
+    {
+      "text": "Nullification +102",
+      "tooltip": "Nullification +102: Passive: +102 Equipment bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Nullification +102"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration III",
+      "tooltip": "Spell Penetration III: Passive: +3 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration III"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Arcane Augmentation IX",
+      "tooltip": "Lesser Arcane Augmentation IX: Increases the wearer's caster level when casting ninth level or lower sorcerer or wizard spells by one.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Augmentation",
+          "title": "Spell Augmentation",
+          "text": "Lesser Arcane Augmentation IX"
+        }
+      ]
+    },
+    {
+      "text": "Necromancy Focus III",
+      "tooltip": "Necromancy Focus III: +3 Equipment bonus to the DC of Necromancy spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Necromancy Focus III"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

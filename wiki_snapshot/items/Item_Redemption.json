@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Redemption",
+  "page_id": 11744,
+  "revision_id": 672479,
+  "revision_timestamp": "2026-01-25T17:49:13Z",
+  "fetched_at": "2026-08-17T22:43:27.013524+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Redemption\n  | weight                   = 2 lbs\n  | damage                   = 1.40[1d8] + 5 Slash, Good, Magic\n  | crit                     = 20 / x2\n  | type                     = Kama\n  | class                    = Slashing\n  | prof                     = Exotic\n  | hand                     = One-handed\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | umd dc                   = \n  | reqtrait                 = \n  | durability               = 180\n  | material                 = Steel\n  | hardness                 = 22\n  | basevalue                = 4,800 pp 2 gp\n  | minlevel                 = 12\n  | bind                     = {{Bind|BtC|boe}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|5}}\n* {{holy}}\n* {{Elemental Resistance|Cold|30}}\n* {{Augment|Red}}\n  | quest                    = Inferno of the Damned\n  | chest                    = End Chest\n  | revamped                 = Update 76\n  | crafting                 = \n  | craftingupgrade          = \n  | craftingnotes            = \n  | description              = The kama of a repentant soul, his pleadings of forgiveness sharpened and focused the blade.\n  | pic                      = Redemption shown.jpg\n  | picdesc                  = Redemption.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Kama",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Holy",
+      "tooltip": "Holy: A holy weapon is imbued with holy power. This power makes the weapon good-aligned. Evil characters wielding this weapon suffer a negative level. The weapon deals an extra 2 to 12 damage against all targets of evil alignment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)#Holy",
+          "title": "Alignment damage (weapon)",
+          "text": "Holy"
+        }
+      ]
+    },
+    {
+      "text": "Cold Resistance +30",
+      "tooltip": "Cold Resistance +30: Passive: +30 Enhancement bonus to your Cold Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Resistance",
+          "title": "Cold Resistance",
+          "text": "Cold Resistance +30"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

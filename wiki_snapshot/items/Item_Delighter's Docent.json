@@ -1,0 +1,31 @@
+{
+  "page_title": "Item:Delighter's Docent",
+  "page_id": 53798,
+  "revision_id": 687246,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:33:07.203650+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Delighter&#39;s Docent\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+12|m=+5|c=+1}}\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 75\n  | material                 = Gem\n  | hardness                 = 10\n  | minlevel                 = 0\n  | quest                    = The Night Revels\n  | chest                    = <!--At least 1 of these 3 should be filled in. Leave other 2 blank.-->\n  | end reward               = <!--At least 1 of these 3 should be filled in. Leave other 2 blank.-->\n  | turn in                  = {{NightRevelsRecipe|ing_chocolate= 60|ing_apple= 10|ing_cinnamon= 10|ing_caramel= 5}} at [[Joe Candymaker]]\n  | epic                     = no <!--Replace with non-epic version name if epic item.-->\n  | basevalue                = 10pp\n  | weight                   = \n  | bind                     = {{Bind|BtA|BoA|1}}\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Night Horrors|3|1}}\n  | crafting                 = <!--Type of crafting. Leave blank if none.-->\n  | craftingupgrade          = <!--What item can be upgraded to. Leave blank if none.-->\n  | pic                      = Delighter's Docent shown.jpg\n  | picdesc                  = Delighter&#39;s Docent.png\n  | description              = Despite being constructed from shadows and sugar, this docent radiates arcane power.\n  | notes                    = \n}}\n\n\n[[Category:The Night Revels reward items]]",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "enchantments": [
+    {
+      "text": "Night Horrors — 1 Charges (Recharged/Day:1)",
+      "tooltip": "Night HorrorsCaster level: 3Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Night_Horrors",
+          "title": "Night Horrors",
+          "text": "Night Horrors"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:The Heart's Walls",
+  "page_id": 122012,
+  "revision_id": 665643,
+  "revision_timestamp": "2025-11-07T20:59:26Z",
+  "fetched_at": "2026-08-17T23:14:19.935439+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name            = The Heart&#39;s Walls\n  | historic        = FALSE\n  | type            = Tower\n  | prof            = Tower Shield\n  | reqtrait        = <!-- Required Trait. Leave this comment if none.  -->\n  | UMD DC          = <!-- Use Magic Device DC. Leave this comment if none.  -->\n  | minlevel        = 34\n  | bind            = {{Bind|BtA|BoA}}\n  | sb              = 41\n  | maxdexbonus     = 2\n  | dr              = 23\n  | acp             = -9\n  | asf             = 50\n  | dmg             = 5.80[1d12+10] + 15\n  | dmgtype         = Bludgeon, Adamantine, Magic\n  | crit            = 19-20 / x3\n  | durability      = 460\n  | material        = Steel\n  | hardness        = 59\n  | basevalue       = 14004000cp\n  | weight          = 50 lbs\n  | released        = Update 75\n  | revamped        =\n  | quest           = Relentless\n  | chest           = end chest\n  | enhancements    =\n* {{Enhancement bonus|s|15}}\n* {{Conditioning|20|Legendary}}\n* {{Bottled Heart}}\n* {{Lamordia Slot|Melancholic|Weapon}}\n* {{Lamordia Slot|Dolorous|Weapon}}\n* {{Augment|Purple}}\n* {{Augment|Orange}}\n  | crafting        = Viktranium Experiment crafting\n  | craftingupgrade = <!-- can leave blank, though comment required if |crafting is used -->\n  | description     = Augmentation slots line the back of this shield, allowing tinkerers to unlock its full potential.\n  | pic             = The Heart&#39;s Walls shown.jpg\n  | picdesc         = The Heart&#39;s Walls.png\n  | tips            = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (Tower Shield)",
+  "material": "Steel",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 34,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Conditioning +20%",
+      "tooltip": "Legendary Conditioning +20%: You have a +20% Legendary bonus to Maximum Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Conditioning",
+          "title": "Conditioning",
+          "text": "Legendary Conditioning +20%"
+        }
+      ]
+    },
+    {
+      "text": "Bottled Heart",
+      "tooltip": "Bottled Heart: +100% Legendary Bonus to Melee Threat Generation and +10 Legendary Bonus to Intimidate.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bottled_Heart",
+          "title": "Bottled Heart",
+          "text": "Bottled Heart"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Melancholic Slot (Weapon)",
+      "tooltip": "Lamordia: Melancholic Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Melancholic Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Dolorous Slot (Weapon)",
+      "tooltip": "Lamordia: Dolorous Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Dolorous Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

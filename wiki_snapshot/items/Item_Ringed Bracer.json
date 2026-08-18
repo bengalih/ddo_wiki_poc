@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Ringed Bracer",
+  "page_id": 99343,
+  "revision_id": 634316,
+  "revision_timestamp": "2025-04-22T03:13:37Z",
+  "fetched_at": "2026-08-17T22:47:04.347855+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Ringed Bracer\n  | minlevel                 = 15\n  | type                     = Bracers\n  | race                     = Tabaxi Trailblazer\n  | slot                     = Wrist\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | cost                     = 6,010 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 54\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|Constitution|6}}\n* {{Resistance|5}}\n  | crafting                 = \n  | description              = \n  | pic                      = Bracers Generic.png\n  | picdesc                  = Ringed Bracer.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Constitution +6",
+      "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +6"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +5",
+      "tooltip": "Resistance +5: Passive: +5 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +5"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Nicked Quarterstaff",
+  "page_id": 65017,
+  "revision_id": 633711,
+  "revision_timestamp": "2025-04-22T02:32:01Z",
+  "fetched_at": "2026-08-17T22:31:00.170568+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Nicked Quarterstaff\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = [1d6] + 2 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 100\n  | material                 = Wood \n  | hardness                 = 12\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement_bonus|w|2}}\n* {{Impactful|2}}\n* {{Vertigo|4}}\n* {{Deadly|3}}\n  | description              = A long, stout staff used as a simple weapon. Often favored by wizards or common folk.\n  | basevalue                = 2,001 gp\n  | weight                   = 4 lbs\n  | released                 = Update 0\n  | revamped                 = Update 36\n  | quest                    = The Sharn Syndicate\n  | end reward               = yes\n  | pic                      = Nicked Quarterstaff shown.png\n  | tips                     = \n  | picdesc                  = Nicked Quarterstaff.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Impactful 2",
+      "tooltip": "Impactful 2: This effect causes the edges of this weapon to ripple with force, dealing 2 to 12 force on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impactful",
+          "title": "Impactful",
+          "text": "Impactful 2"
+        }
+      ]
+    },
+    {
+      "text": "Vertigo +4",
+      "tooltip": "Vertigo +4: This effect gives a +4 Enhancement bonus to the DC to resist the character's Trip and Improved Trip attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vertigo_(enchantment)",
+          "title": "Vertigo (enchantment)",
+          "text": "Vertigo +4"
+        }
+      ]
+    },
+    {
+      "text": "Deadly +3",
+      "tooltip": "Deadly +3: +3 Competence bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Deadly +3"
+        }
+      ]
+    }
+  ]
+}

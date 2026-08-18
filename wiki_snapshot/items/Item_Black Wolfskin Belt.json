@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Black Wolfskin Belt",
+  "page_id": 5012,
+  "revision_id": 628581,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:11:22.317416+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Black Wolfskin Belt\n  | basevalue                = 2,005 pp\n  | weight                   = 0.10 lbs\n  | type                     = Belt\n  | slot                     = Waist\n  | durability               = 60\n  | material                 = Leather\n  | hardness                 = 7\n  | bind                     = {{Bind|BtA|BoA}}\n  | minlevel                 = 5\n  | quest                    = Assault on Splinterskull\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CON|3}}\n* {{Augment|Yellow}}\n  | description              = This belt is fashioned from the pelt of a dark wolf-like beast.\n  | pic                      = Belt Generic.png\n  | picdesc                  = Black Wolfskin Belt.png\n  | tips                     = This item also exists as part of [[Veteran Status II starter item|Veteran II Starter equipment]]s.\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Constitution +3",
+      "tooltip": "Constitution +3: This item gives the wearer improved health, granting a +3 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +3"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

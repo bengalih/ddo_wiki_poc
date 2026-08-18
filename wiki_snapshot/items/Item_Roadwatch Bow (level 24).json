@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Roadwatch Bow (level 24)",
+  "page_id": 29399,
+  "revision_id": 649708,
+  "revision_timestamp": "2025-07-26T19:12:45Z",
+  "fetched_at": "2026-08-17T22:47:14.382140+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = [[Roadwatch Bow]]\n  | sentience                = no\n  | damage                   = 1.50[1d8] + 7 Pierce, Good, Evil, Lawful, Chaotic, Magic\n  | crit                     = 20 / x3\n  | minlevel                 = 24\n  | type                     = Long Bow\n  | reqtrait                 = Lawful\n  | UMD DC                   = 32\n  | hand                     = Ranged\n  | class                    = Ranged\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | prof                     = Martial\n  | durability               = 320\n  | material                 = Darkwood\n  | hardness                 = 34\n  | basevalue                = 9,607.5 pp\n  | weight                   = 3 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | quest                    = Rest Stop\n  | chest                    = Umbral Gargoyle Lord chest (Epic Hard)\n  | enhancements             = \n* {{Enhancement bonus|w|7}}\n* {{Law|Supreme}}\n* {{Aligned}}\n* {{Heartseeker|V}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This old longbow, once used by guardsmen who kept watch over Cormyr's High Road, has remained in perfect condition despite years of disuse.\n  | pic                      = Roadwatch Bow shown.jpg\n  | picdesc                  = Roadwatch Bow (Level 24).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Supreme Law",
+      "tooltip": "Supreme Law: This weapon is infused with the supreme Power of Law. It does an additional 3 to 18 damage to non-lawful targets and can only be wielded by Lawful-aligned characters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Supreme_Law",
+          "title": "Supreme Law",
+          "text": "Supreme Law"
+        }
+      ]
+    },
+    {
+      "text": "Aligned",
+      "tooltip": "Aligned: This weapon transmutes into a form that is able to bypass any alignment based Damage Reduction. (Chaotic, Good, Evil, Lawful)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Aligned",
+          "title": "Aligned",
+          "text": "Aligned"
+        }
+      ]
+    },
+    {
+      "text": "Heartseeker V",
+      "tooltip": "Heartseeker V: On Critical Hit: 11 to 66 Piercing damage from weapons with a x2 Critical Multiplier, 11 to 88 Piercing damage from weapons with a x3 Critical Multiplier, and 11 to 110 Piercing damage from weapons with a x4 or greater Critical Multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heartseeker",
+          "title": "Heartseeker",
+          "text": "Heartseeker V"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

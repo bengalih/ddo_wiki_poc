@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Legendary Construct's Mantle",
+  "page_id": 54662,
+  "revision_id": 631979,
+  "revision_timestamp": "2025-04-22T00:33:49Z",
+  "fetched_at": "2026-08-17T21:38:22.011792+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Legendary Construct's Mantle\n  | type                     = Cloak\n  | basevalue                = 11620 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Back\n  | durability               = 300\n  | material                 = Steel\n  | hardness                 = 39\n  | minlevel                 = 29\n  | bind                     = {{Bind|BtA|boa}}\n  | revamped                 = Update 50\n  | released                 = Update 29\n  | quest                    = Creeping Death\n  | end reward               = \n  | chest                    = End chest\n  | enhancements             = \n* {{HealingAmp|53|r}}\n* {{Stat|INT|3|Quality}}\n* {{Skills|Repair|20}}\n* {{SpellPower|Magnetism|35|Quality}}\n* {{augment|green}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Torn and battle-worn, this cloak once flowed over the shoulders of a great Warforged fighter.\n  | pic                      = Construct's Mantle Shown.jpg\n  | picdesc                  = Legendary Construct's Mantle.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Repair Amplification +53",
+      "tooltip": "Repair Amplification: This effect amplifies all incoming repair healing by +53 (Enhancement bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Repair_Amplification",
+          "title": "Repair Amplification",
+          "text": "Repair Amplification +53"
+        }
+      ]
+    },
+    {
+      "text": "Quality Intelligence +3",
+      "tooltip": "Quality Intelligence +3: This item focuses the power of the wearer's mind, granting a +3 Quality bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Quality Intelligence +3"
+        }
+      ]
+    },
+    {
+      "text": "Repair +20",
+      "tooltip": "Repair +20: Passive: +20 Competence bonus to the Repair skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Repair_(skill)",
+          "title": "Repair (skill)",
+          "text": "Repair +20"
+        }
+      ]
+    },
+    {
+      "text": "Quality Magnetism +35",
+      "tooltip": "Quality Magnetism +35: Passive: +35 Quality bonus to Electricity Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Magnetism",
+          "title": "Magnetism",
+          "text": "Quality Magnetism +35"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

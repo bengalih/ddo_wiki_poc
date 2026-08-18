@@ -1,0 +1,120 @@
+{
+  "page_title": "Item:Legendary Death's Handiwork",
+  "page_id": 61273,
+  "revision_id": 690658,
+  "revision_timestamp": "2026-06-30T16:38:27Z",
+  "fetched_at": "2026-08-17T21:40:04.415409+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Legendary Death's Handiwork\n  | type                     = Orb\n  | prof                     = Magical Training\n  | race                     = \n  | reqtrait                 = <!-- Required Trait. Leave this comment if none.  -->\n  | UMD DC                   = <!-- Use Magic Device DC. Leave this comment if none.  -->\n  | minlevel                 = 29\n  | damagemod                = INT, CHA\n  | attmod                   = INT, CHA\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +6\n  | maxdexbonus              = \n  | dr                       = 0\n  | acp                      = 0\n  | asf                      = 0\n  | dmg                      = [1d6] + 0\n  | dmgtype                  = Force\n  | crit                     = 20 /x2\n  | durability               = 355\n  | material                 = Gem\n  | hardness                 = 49\n  | basevalue                = 11902 pp\n  | weight                   = 3 lbs\n  | released                 = Update 29\n  | quest                    = To Curse the Sky\n  | chest                    = End Chest\n  | end reward               = <!-- At least 1 of these 3 should be filled in. Leave other 2 alone. -->\n  | turn in                  = <!-- At least 1 of these 3 should be filled in. Leave other 2 alone. -->\n  | epic                     = no <!-- If yes, replace \"no\" with name of non-epic version, above 3 fields not displayed/required if filled-->\n  | enhancements             = \n* {{Enhancement bonus|oi|9|29}}\n* {{HealingAmp|53|n|Profane}}\n* {{SpellPower|Nullification|142}}\n* {{Spell Focus|Necromancy|3|Insightful}}\n* {{Hp|False Life|50}} \n* {{Augment|Orange}}\n  | description              = Death is inevitable. Better to be on its side.\n  | crafting                 = <!--Type of crafting-->\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | pic                      = Legendary Death's Handiwork shown.png\n  | picdesc                  = Legendary Death's Handiwork.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Magical Training",
+  "material": "Gem",
+  "item_type": "Orb",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +29",
+      "tooltip": "Spellcasting Implement +29: Passive: +29 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +29"
+        }
+      ]
+    },
+    {
+      "text": "+9 Orb Bonus",
+      "tooltip": "+9 Orb Bonus: While this orb is equipped and you are actively blocking, you gain a +9 orb bonus to all saving throws, as well as Acid, Cold, Fire, Electric, and Sonic resistances.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+9 Orb Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Profane Negative Amplification +53",
+      "tooltip": "Negative Amplification: This effect amplifies all incoming negative energy healing by +53 (Profane bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negative_Amplification",
+          "title": "Negative Amplification",
+          "text": "Profane Negative Amplification +53"
+        }
+      ]
+    },
+    {
+      "text": "Nullification +142",
+      "tooltip": "Nullification +142: Passive: +142 Equipment bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Nullification +142"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Necromancy Focus +3",
+      "tooltip": "Insightful Necromancy Focus +3: +3 Insight bonus to the DC of Necromancy spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Necromancy Focus +3"
+        }
+      ]
+    },
+    {
+      "text": "False Life +50",
+      "tooltip": "False Life +50: +50 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +50"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

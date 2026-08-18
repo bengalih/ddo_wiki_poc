@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Legendary Fimbric, Lost Longsword",
+  "page_id": 96249,
+  "revision_id": 635902,
+  "revision_timestamp": "2025-04-22T11:09:24Z",
+  "fetched_at": "2026-08-17T21:47:18.229392+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Fimbric, Lost Longsword\n  | type                     = Long Sword\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | minlevel                 = 31\n  | reqtrait                 = \n  | UMD DC                   = \n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = 5.20[1d8+2] + 15 Slash, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 380\n  | material                 = Silver\n  | hardness                 = 39\n  | basevalue                = 12,403pp, 5gp\n  | weight                   = 4 lbs\n  | released                 = Update 55\n  | quest                    = Bullywugs and Booby Traps\n  | chest                    = end chest\n  | crafting                 = \n  | craftingupgrade          = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|15}}\n* {{Blast|Axiomatic|6}}\n* {{Holy|6}}\n* {{Ghost Touch}}\n* {{Mat|Silver}}, Alchemical\n* {{Clicky|Feather Fall|10|3}}\n* {{Dino Slot|Scale|Weapon}}\n* {{Augment|Red}}\n* {{Named item sets|The Legendary Dread Isle's Curse}}\n  | description              = This sword's name is spelled in Dwarvish Runes carefully etched into its silver blade.\n  | pic                      = Fimbric, Lost Longsword shown.jpg\n  | picdesc                  = Legendary Fimbric, Lost Longsword.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 31,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Axiomatic Blast 6",
+      "tooltip": "Axiomatic Blast 6: This weapon is an implement of law, dealing 6d6 Law damage on a successful hit, and an additional 6d6 Law damage on a critical hit. This effect makes the weapon lawfully aligned.Chaotic characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Axiomatic Blast 6"
+        }
+      ]
+    },
+    {
+      "text": "Holy 6",
+      "tooltip": "Holy 6: On Hit: 6 to 24 Good damage. Good-aligned creatures are immune to this effect.Penalty: If equipped by a Evil user, they receive 1 Negative Level for as long as this item is equipped.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Holy 6"
+        }
+      ]
+    },
+    {
+      "text": "Ghost Touch",
+      "tooltip": "Ghost Touch: An incorporeal creature's 50% chance to avoid damage does not apply to attacks with ghost touch weapons.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghost_Touch",
+          "title": "Ghost Touch",
+          "text": "Ghost Touch"
+        }
+      ]
+    },
+    {
+      "text": "Silver , Alchemical",
+      "tooltip": "Silver: A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as devils and vampires. Silver weapons have 2 points lower hardness then equivalent steel weapons, and as such aren't quite as durable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Silver",
+          "title": "Silver",
+          "text": "Silver"
+        }
+      ]
+    },
+    {
+      "text": "Feather Fall — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Feather FallCaster level: 10Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feather_Fall",
+          "title": "Feather Fall",
+          "text": "Feather Fall"
+        }
+      ]
+    },
+    {
+      "text": "Isle of Dread: Scale Slot (Weapon): Empty",
+      "tooltip": "Isle of Dread: Scale Slot (Weapon):Apply a dino bone augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dinosaur_Bone_crafting",
+          "title": "Dinosaur Bone crafting",
+          "text": "Isle of Dread: Scale Slot (Weapon): Empty"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Legendary Dread Isle's Curse",
+      "tooltip": "The Legendary Dread Isle's Curse: 5 Pieces Equipped:+15 Profane bonus to Melee and Ranged Power+25 Profane bonus to Universal Spellpower+30 Profane bonus to Physical Resistance Rating+2 Profane bonus to Spell DCs+2 Profane bonus to all Ability Scores+4 Profane bonus to Attack and DamageThe Isle of Dread beckons you...",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Legendary_Dread_Isle's_Curse",
+          "title": "Named item sets",
+          "text": "The Legendary Dread Isle's Curse"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "page_title": "Item:Shroud of the Abbot",
+  "page_id": 8207,
+  "revision_id": 686676,
+  "revision_timestamp": "2026-05-27T17:35:43Z",
+  "fetched_at": "2026-08-17T22:58:00.584530+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Shroud of the Abbot\n  | type                     = Robe\n  | feat                     = Cloth\n  | minlevel                 = 14\n  | bind                     = {{Bind|BtC|BoA}}\n  | ac                       = +4\n  | maxdexbonus              = None\n  | acp                      = None\n  | asf                      = None\n  | durability               = 85\n  | material                 = Cloth\n  | hardness                 = 10\n  | basevalue                = 6,405 pp 5 gp\n  | weight                   = 0 lbs\n  | quest                    = Ascension Chamber\n  | chest                    = Raid Warded chest\n  | enhancements             = \n* {{ArmorBonus|4}}\n* {{NaturalArmor|4}}\n* {{Boon of Undeath}}\n* {{Spelllore|Void|V}}\n* {{Spelllore|Lightning|V}}\n* {{Elemental Resistance|Light|20}}\n* {{UpgradeableItem|Black Abbot}}\n  | crafting                 = Fountain of Necrotic Might\n  | craftingupgrade          = <!-- see above -->\n  | craftingnotes            = <!-- see above -->\n  | pic                      = Shroud of the Abbot shown.jpg\n  | picdesc                  = Shroud of the Abbot.png\n  | description              = This robe is made of pieces of the actual banner the Abbot was wrapped in when he was slain before being raised as a lich.\n  | notes                    = This is a fantastic robe, but make sure to always have [[Deathward]] to avoid the Boon of Undeath effect.\nThe Boon of Undeath effect can however be extremely useful to Wizards who take the Pale Master prestige enhancement line, and are healed by negative energy spells.<br />[[File:Shroud of the Abbot (upgraded).png|375px]]\n}}\n[[category:Ascension Chamber loot]]",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +4",
+      "tooltip": "Armor Bonus +4: This item surrounds the wearer with an invisible but tangible field of force, granting +4 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +4"
+        }
+      ]
+    },
+    {
+      "text": "Natural Armor +4",
+      "tooltip": "Natural Armor +4: Passive: +4 Natural Armor Bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Natural_armor_bonus",
+          "title": "Natural armor bonus",
+          "text": "Natural Armor +4"
+        }
+      ]
+    },
+    {
+      "text": "Boon of Undeath",
+      "tooltip": "Boon of Undeath: Undead take solace in the hate of others. Every time a character wearing a Boon of Undeath item is struck in combat, an Inflict Light Wounds spell will be cast on the character.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Boon_of_Undeath",
+          "title": "Boon of Undeath",
+          "text": "Boon of Undeath"
+        }
+      ]
+    },
+    {
+      "text": "Void Lore V",
+      "tooltip": "Void Lore V: Passive: Your Negative Energy and Poison spells gain a 15% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Void Lore V"
+        }
+      ]
+    },
+    {
+      "text": "Lightning Lore V",
+      "tooltip": "Lightning Lore V: Passive: Your Electricity spells gain a 15% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Lightning Lore V"
+        }
+      ]
+    },
+    {
+      "text": "Light Resistance +20",
+      "tooltip": "Light Resistance +20: Passive: +20 Enhancement bonus to your Light Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Light_Resistance",
+          "title": "Light Resistance",
+          "text": "Light Resistance +20"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable Item (Black Abbot)",
+      "tooltip": "Upgradeable Item (Black Abbot): This item could be upgraded if you found a Seal of the Black Abbot to combine it with. Bring this item to the Fountain of Necrotic Might outside the Black Mausoleum and combine it with a Seal of the Black Abbot to upgrade the item to a more powerful form.",
+      "children": [
+        {
+          "text": "Light Resistance +20 → Light Resistance +30",
+          "tooltip": "Light Resistance +20: Passive: +20 Enhancement bonus to your Light Resistance.Light Resistance +30: Passive: +30 Enhancement bonus to your Light Resistance.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Light_Resistance",
+              "title": "Light Resistance",
+              "text": "Light Resistance +20"
+            },
+            {
+              "target": "/page/Light_Resistance",
+              "title": "Light Resistance",
+              "text": "Light Resistance +30"
+            }
+          ]
+        },
+        {
+          "text": "Adds Lesser Arcane Augmentation IX",
+          "tooltip": "Lesser Arcane Augmentation IX: Increases the wearer's caster level when casting ninth level or lower sorcerer or wizard spells by one.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Augmentation",
+              "title": "Spell Augmentation",
+              "text": "Lesser Arcane Augmentation IX"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_Item_(Black_Abbot)",
+          "title": "Upgradeable Item (Black Abbot)",
+          "text": "Upgradeable Item (Black Abbot)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

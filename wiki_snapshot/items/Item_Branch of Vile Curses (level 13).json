@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Branch of Vile Curses (level 13)",
+  "page_id": 36609,
+  "revision_id": 690623,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:15:01.779076+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Branch of Vile Curses}}\n  | prof                     = Simple\n  | damage                   = [1d6] + 4 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Quarterstaff\n  | class                    = Bludgeoning\n  | minlevel                 = 13\n  | hand                     = Two-handed\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 210\n  | material                 = Wood \n  | hardness                 = 23\n  | basevalue                = 5,200pp 1cp\n  | weight                   = 4 lbs\n  | released                 = Update 18\n  | quest                    = Escape Plan\n  | chest                    = End chest (Heroic Normal)\n  | enhancements             = \n* {{Enhancement bonus|i|4}}\n* {{Cursespewing|Improved}}\n* {{SpellPower|Potency|48}}\n* {{SpellPower|Nullification|72}}\n* {{Spell Focus|Necromancy|1}}\n* {{Augment|Red}}\n  | description              = 'Warmbloods are only good for two things. I'll let you guess what those are.'<br />-Srass, Lizardfolk Mercenary\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Alarphon's Staff shown.jpg\n  | picdesc                  = Branch of Vile Curses (Level 13).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +12",
+      "tooltip": "Spellcasting Implement +12: Passive: +12 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +12"
+        }
+      ]
+    },
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Improved Cursespewing",
+      "tooltip": "Improved Cursespewing: On Vorpal Hit: Your enemy is cursed with a -4 morale penalty on attack rolls, saving throws, and skill checks. This painful curse also causes the victim to take 2d6 damage every two seconds for a duration of twelve seconds. Additional vorpal strikes while the curse is active will extend the duration by another twelve seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Improved_Cursespewing",
+          "title": "Improved Cursespewing",
+          "text": "Improved Cursespewing"
+        }
+      ]
+    },
+    {
+      "text": "Potency +48",
+      "tooltip": "Potency +48: Passive: +48 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +48"
+        }
+      ]
+    },
+    {
+      "text": "Nullification +72",
+      "tooltip": "Nullification +72: Passive: +72 Equipment bonus to Negative (Necrotic) and Poison Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nullification",
+          "title": "Nullification",
+          "text": "Nullification +72"
+        }
+      ]
+    },
+    {
+      "text": "Necromancy Focus +1",
+      "tooltip": "Necromancy Focus +1: +1 Equipment bonus to the DC of Necromancy spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Necromancy Focus +1"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

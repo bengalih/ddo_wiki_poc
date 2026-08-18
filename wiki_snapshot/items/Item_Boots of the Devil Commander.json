@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Boots of the Devil Commander",
+  "page_id": 54653,
+  "revision_id": 628678,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:13:32.420306+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Boots of the Devil Commander\n  | minlevel                 = 15\n  | type                     = Boots\n  | race                     = \n  | slot                     = Feet\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 25\n  | basevalue                = 6020pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | released                 = Update 29\n  | quest                    = Creeping Death\n  | end reward               = \n  | turn in                  = \n  | chest                    = End Chest\n  | enhancements             = \n* {{Sheltering|4|Quality|Physical}}\n* {{Sheltering|9|Insight|Physical}}\n* {{Incite|30|Insight}}\n* {{Fortification|94}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = It would be a shame to let these boots go to waste just because their former owner is dead.\n  | pic                      = Boots Generic Blue Gold.png\n  | picdesc                  = Boots of the Devil Commander.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Quality Physical Sheltering +4",
+      "tooltip": "Quality Physical Sheltering +4: +4 Quality bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Quality Physical Sheltering +4"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Physical Sheltering +9",
+      "tooltip": "Insightful Physical Sheltering +9: +9 Insight bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Insightful Physical Sheltering +9"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Incite +30",
+      "tooltip": "Insightful Incite +30: +30% Insight bonus to increased threat generation from melee damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incite",
+          "title": "Incite",
+          "text": "Insightful Incite +30"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +94%",
+      "tooltip": "Fortification +94%: +94% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +94%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Boot Boost +1 or +3",
+      "tooltip": "Mythic Boot Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Boot Boost"
+        }
+      ]
+    }
+  ]
+}

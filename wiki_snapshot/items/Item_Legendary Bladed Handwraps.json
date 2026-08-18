@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Bladed Handwraps",
+  "page_id": 98763,
+  "revision_id": 672371,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:31:55.310169+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Bladed Handwraps\n  | minlevel                 = 31\n  | type                     = Handwrap\n  | class                    = Bludgeoning\n  | prof                     = Exotic\n  | hand                     = Simple\n  | damage                   = 5.20[1d6+2] + 15 Pierce, Bludgeon, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 430\n  | material                 = Cloth\n  | hardness                 = 44\n  | cost                     = 12,403 pp\n  | weight                   = 0.50 lbs\n  | released                 = Update 57\n  | revamped                 = Update 76\n  | quest                    = Three Paths to Battle\n  | end reward               = \n  | turn in                  = \n  | chest                    = end chest\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Impact}}\n* {{Maiming|6}}\n* {{Armor-Piercing|21}}\n* {{Doublestrike|7|Insightful}}\n* {{Augment|Red}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | description              = The whirling blades of the plane of Shavarath have influenced these Handwraps with their magic.\n  | pic                      = Handwraps Generic.png\n  | picdesc                  = Legendary Bladed Handwraps.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Handwrap",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 31,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Maiming 6",
+      "tooltip": "Maiming: This weapon has a twisted haft or grip and spikes along its blade, head, or point. When you score a critical hit with this weapon, it does an additional +6d8 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maiming",
+          "title": "Maiming",
+          "text": "Maiming 6"
+        }
+      ]
+    },
+    {
+      "text": "Armor-Piercing 21%",
+      "tooltip": "Armor-Piercing 21%: Passive: +21% Enhancement bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Armor-Piercing 21%"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Doublestrike 7%",
+      "tooltip": "Insightful Doublestrike 7%: Passive: 7% Insight bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Insightful Doublestrike 7%"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

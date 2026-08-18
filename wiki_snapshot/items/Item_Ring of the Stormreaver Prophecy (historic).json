@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Ring of the Stormreaver Prophecy (historic)",
+  "page_id": 11190,
+  "revision_id": 634314,
+  "revision_timestamp": "2025-04-22T03:13:29Z",
+  "fetched_at": "2026-08-17T22:46:52.107506+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=item|replaced={{Item|Ring of the Stormreaver Prophecy}}}}\n{{Named item|Jewelry\n  | name                     = {{Item|Ring of the Stormreaver Prophecy}}\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 80 \n  | material                 = Gold \n  | hardness                 = 17\n  | basevalue                = 4,920 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 13 \n  | bind                     = {{Bind|no}} \n  | quest                    = Gianthold Tor\n  | chest                    = [[Rhindvutha|Black Dragon]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|WIS|5}}\n* {{Resistance|2}}\n  | description              = This ring is inscribed with runes that comprise a small fragment of the Stormreaver Prophecy. It is of recent manufacture, yet the skill used in its crafting suggests familiarity with lost giantcraft. \n  | pic                      = Ring Generic Prophecy.png\n  | picdesc                  = Ring of the Stormreaver Prophecy (historic).png\n}}",
+  "item_template": "History",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Wisdom +5",
+      "tooltip": "Wisdom +5: This item makes the wearer more in tune with her surroundings, granting a +5 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +5"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +2",
+      "tooltip": "Resistance +2: Passive: +2 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +2"
+        }
+      ]
+    }
+  ]
+}

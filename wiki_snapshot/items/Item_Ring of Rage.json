@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Ring of Rage",
+  "page_id": 11188,
+  "revision_id": 634254,
+  "revision_timestamp": "2025-04-22T03:09:28Z",
+  "fetched_at": "2026-08-17T22:45:32.581268+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Ring of Rage\n  | minlevel                 = 0\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|No}}\n  | durability               = 20\n  | material                 = Gold\n  | hardness                 = 3\n  | basevalue                = 120 pp\n  | weight                   = 0.10 lbs\n  | epic                     = \n  | quest                    = Retrieve the Stolen Goods\n  | endreward                = \n  | turn in                  = \n  | chest                    = [[Churnak]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Rage (spell)|5|1|label=Rage}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Arcane sparks appear deep in the ruby gem of this ring.\n  | pic                      = Ring Generic Rage.png\n  | picdesc                  = Ring of Rage.png\n  | tips                     = \n* Comes as a [[Veteran Status II starter item]] on a [[Barbarian]] and is {{Bind|BtC|BoA}}.\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "enchantments": [
+    {
+      "text": "Rage — 1 Charges (Recharged/Day:1)",
+      "tooltip": "RageCaster level: 5Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rage_(spell)",
+          "title": "Rage (spell)",
+          "text": "Rage"
+        }
+      ]
+    }
+  ]
+}

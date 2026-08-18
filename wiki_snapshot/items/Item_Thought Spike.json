@@ -1,0 +1,72 @@
+{
+  "page_title": "Item:Thought Spike",
+  "page_id": 17823,
+  "revision_id": 682833,
+  "revision_timestamp": "2026-04-08T21:19:19Z",
+  "fetched_at": "2026-08-17T23:17:33.718660+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Rune Arm\n  | name                     = Thought Spike\n  | reqtrait                 = [[Rune Arm Use | Artificer Rune Arm Use]]\n  | minlevel                 = 1\n  | durability               = 55\n  | material                 = Gem\n  | hardness                 = 11\n  | quest                    = Redemption (quest)\n  | chest                    = \n  | end reward               = yes\n  | basevalue                = 425pp\n  | weight                   = 0.25 lbs\n  | bind                     = {{Bind|BtC|boa}}\n  | spell                    = Force Shot\n  | target                   = Foe, Directional, Breakable\n  | school                   = Evocation\n  | sr                       = no\n  | spell desc               = Fires a missile of force that damages your enemies. At higher charge levels multiple projectiles are fired in a spray. Opponents struck by these bolts receive a Will save for half damage.\n  | max charge               = 2 \n  | imbue                    = Force I\n  | imbue die                = 1d2\n  | imbue dmg                = Force\n  | mythic                   = no\n  | enhancements             = \n* [[Force Shot]]\n* {{Save|W|1}}\n  | epic                     = no\n  | crafting                 = Essence Crafting\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | craftingnotes            = <!--Any notes about the craftable item-->\n  | pic                      = Force Shot icon.png\n  | picdesc                  = Thought Spike.png\n  | description              = Lars Heyton found this damaged Rune Arm deep within the Abandoned Cannith Manufactury. <!--do not copy general info-->\n  | tips                     = \nDisjuncted version for [[Essence Crafting]]:\n[[Image:Thought Spike disjuncted.png]]\n}}",
+  "item_template": "Named item",
+  "enchantments": [
+    {
+      "text": "Maximum Charge Tier: II",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maximum_Charge_Tier",
+          "title": "Maximum Charge Tier",
+          "text": "Maximum Charge Tier"
+        }
+      ]
+    },
+    {
+      "text": "Force Shot",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Force_Shot",
+          "title": "Force Shot",
+          "text": "Force Shot"
+        }
+      ]
+    },
+    {
+      "text": "Will Save +1",
+      "tooltip": "Will Save +1: This item gives a +1 Resistance bonus to your Will saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Will_save",
+          "title": "Will save",
+          "text": "Will Save +1"
+        }
+      ]
+    },
+    {
+      "text": "Rune Arm Imbue: Force I",
+      "tooltip": "Rune Arm Imbue: Force I: Wearing this Rune Arm will imbue any weapon you wield, dealing 1d2 points of Force damage per hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rune_Arm_Imbue",
+          "title": "Rune Arm Imbue",
+          "text": "Rune Arm Imbue"
+        }
+      ]
+    },
+    {
+      "text": "Craftable Rune Arm",
+      "tooltip": "This Rune Arm is craftable and can be customized using recipes at standard crafting devices after disjuncting.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Craftable_Rune_Arm",
+          "title": "Craftable Rune Arm",
+          "text": "Craftable Rune Arm"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Guardian's Bracers (level 26)",
+  "page_id": 41163,
+  "revision_id": 649922,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:17:37.939349+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Guardian's Bracers\n  | minlevel                 = 26\n  | type                     = Bracers\n  | slot                     = Wrist\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 180\n  | material                 = steel\n  | hardness                 = 27\n  | basevalue                = 10,420 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 19\n  | quest                    = Army of Shadow\n  | end reward               = yes\n  | turn in                  = \n  | chest                    = \n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Riposte|IX}}\n* {{Guard|Fire|VIII}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Bracers Generic Guardian.png\n  | picdesc                  = Guardian's Bracers (Level 26).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "Riposte IX",
+      "tooltip": "Riposte IX: When Missed by an attack: Deals 9 to 36 damage to your attacker. Passive: +5 Insight bonus to Armor Class, +4 Insight bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Riposte",
+          "title": "Riposte",
+          "text": "Riposte IX"
+        }
+      ]
+    },
+    {
+      "text": "Fire Guard VIII",
+      "tooltip": "Fire Guard VIII: When Hit in Melee: Deals 8 to 32 Fire damage to your attacker.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Guard",
+          "title": "Fire Guard",
+          "text": "Fire Guard VIII"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "page_title": "Item:Bulwark of the Storm's Fist (level 23)",
+  "page_id": 35440,
+  "revision_id": 648962,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:17:01.333740+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = {{Item|Bulwark of the Storm's Fist}}\n  | type                     = Large\n  | prof                     = General\n  | minlevel                 = 23\n  | bind                     = {{Bind|BtC|BoE}}\n  | exclusive                = no\n  | sb                       = +15\n  | maxdexbonus              = None\n  | dr                       = 13\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = 2[1d10] + 6\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attmod                   = STR\n  | damagemod                = STR\n  | durability               = 330\n  | material                 = Magesteel\n  | hardness                 = 38\n  | basevalue                = 9,602 pp\n  | weight                   = 15 lbs\n  | released                 = Update 17\n  | quest                    = Return to Gianthold Tor\n  | chest                    = White Dragon chest (Epic Normal)\n  | enhancements             = \n* {{Enhancement_bonus|s|6}}\n* {{Sheltering|12}}\n* {{Stat|CON|2|Insightful}}\n* {{Augment|Purple}}\n* {{Augment|Colorless}}\n  | description              = A brutal, heavy shield for the aspiring champions of the Storm's Fist Horde.\n  | tips                     = \n  | pic                      = Bulwark of the Storm's Fist shown (Epic).jpg\n  | picdesc                  = Bulwark of the Storm's Fist (Level 23).png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Magesteel",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 23,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Sheltering +12",
+      "tooltip": "Sheltering +12: +12 Enhancement bonus to Physical and Magical Resistance Ratings",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Sheltering +12"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Constitution +2",
+      "tooltip": "Insightful Constitution +2: This item gives the wearer improved health, granting a +2 Insight bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Insightful Constitution +2"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

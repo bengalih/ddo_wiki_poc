@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Guardkiller Bow",
+  "page_id": 2758,
+  "revision_id": 631336,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:18:01.349972+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Guardkiller Bow\n  | type                     = Long Bow\n  | hand                     = Ranged\n  | class                    = Ranged\n  | prof                     = Martial\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = [1d8] + 2 Pierce, Magic\n  | crit                     = 20 / x3\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | durability               = 100\n  | material                 = Wood\n  | hardness                 = 7\n  | basevalue                = 807pp 5gp\n  | weight                   = 3 lbs\n  | quest                    = The Lost Seekers\n  | end reward               = yes\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement bonus|w|2}}\n* {{Bane|Human|lesser}}\n* {{Augment|Red}}\n  | description              = Krung the Guard-Killer was feared by the Stormreach Guards. Not anymore. His legacy, however, lives on in the fearsome bow.\n  | pic                      = Silver Longbow shown.jpg <!-- same style-->\n  | picdesc                  = Guardkiller Bow.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Human Bane",
+      "tooltip": "Lesser Human Bane: A bane weapon excels at attacking one type or subtype of creature. Against Humans, this weapon's effective enhancement bonus is +1 better than its normal enhancement bonus. It deals an extra 1 to 6 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Lesser Human Bane"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

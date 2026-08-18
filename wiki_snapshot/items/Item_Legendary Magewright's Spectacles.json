@@ -1,0 +1,156 @@
+{
+  "page_title": "Item:Legendary Magewright's Spectacles",
+  "page_id": 84369,
+  "revision_id": 689553,
+  "revision_timestamp": "2026-06-20T13:28:25Z",
+  "fetched_at": "2026-08-17T21:58:14.554223+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Legendary Magewright's Spectacles\n  | type                     = Goggles\n  | cost                     = 11,620 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Eye\n  | durability               = 390\n  | material                 = Steel\n  | hardness                 = 49\n  | minlevel                 = 29\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 47\n  | revamped                 = Update 80\n  | quest                    = Legendary Master Artificer\n  | chest                    = End and Optional Chest\n  | end reward               = \n  | enhancements             = \n* {{Nearly Finished|{{Stat|INT|13}}|{{Stat|int|6|Insightful}}|{{Stat|int|3|Quality}}}}\n* {{Spellpen|9|Equipment}}\n* {{Spell Focus|Illusion|8}}\n* {{Spell Focus|Illusion|4|Insightful}}\n* {{Augment|Green}}\n* {{Augment|Blue}}\n* {{Named item sets|Masterful Magewright}} \n  | epic                     = no\n  | crafting                 = Nearly Finished\n  | craftingupgrade          = \n  | description              = A pair of spectacles often worn by House Cannith magewrights. It enhances the functions of one's brain, improving the ability of the wearer to focus his or her energies.\n  | pic                      = Magewright's Spectacles shown.jpg <!-- Identical style-->\n  | picdesc                  = Legendary Magewright's Spectacles.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "Nearly Finished",
+      "tooltip": "Nearly Finished: This item isn't quite finished, but it's only a step away from completion. Bring it to a Cannith Reforging Station and combine it with melted materials to restore this item to its full potential.",
+      "children": [
+        {
+          "text": "One of the following:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Intelligence +13",
+              "tooltip": "Intelligence +13: This item focuses the power of the wearer's mind, granting a +13 Enhancement bonus to Intelligence.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Intelligence",
+                  "title": "Intelligence",
+                  "text": "Intelligence +13"
+                }
+              ]
+            },
+            {
+              "text": "Insightful Intelligence +6",
+              "tooltip": "Insightful Intelligence +6: This item focuses the power of the wearer's mind, granting a +6 Insight bonus to Intelligence.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Intelligence",
+                  "title": "Intelligence",
+                  "text": "Insightful Intelligence +6"
+                }
+              ]
+            },
+            {
+              "text": "Quality Intelligence +3",
+              "tooltip": "Quality Intelligence +3: This item focuses the power of the wearer's mind, granting a +3 Quality bonus to Intelligence.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Intelligence",
+                  "title": "Intelligence",
+                  "text": "Quality Intelligence +3"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Nearly_Finished",
+          "title": "Nearly Finished",
+          "text": "Nearly Finished"
+        }
+      ]
+    },
+    {
+      "text": "Spell Penetration +9",
+      "tooltip": "Spell Penetration +9: Passive: +9 Equipment bonus to Spell Penetration checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_penetration",
+          "title": "Spell penetration",
+          "text": "Spell Penetration +9"
+        }
+      ]
+    },
+    {
+      "text": "Illusion Focus +8",
+      "tooltip": "Illusion Focus +8: +8 Equipment bonus to the DC of Illusion spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Illusion Focus +8"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Illusion Focus +4",
+      "tooltip": "Insightful Illusion Focus +4: +4 Insight bonus to the DC of Illusion spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Insightful Illusion Focus +4"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Masterful Magewright",
+      "tooltip": "Masterful Magewright: While wearing two pieces from the Masterful Magewright set, you gain:+3 Artifact bonus to all Spell DCs+3 Artifact bonus to Intelligence, Wisdom, and Charisma+5 Artifact bonus to Perform and Concentration",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Masterful_Magewright",
+          "title": "Named item sets",
+          "text": "Masterful Magewright"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Goggle Boost +1 or +3",
+      "tooltip": "Mythic Goggle Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Goggle Boost"
+        }
+      ]
+    }
+  ]
+}

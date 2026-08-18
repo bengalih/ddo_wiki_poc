@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Orcish Privateer's Plate",
+  "page_id": 24664,
+  "revision_id": 674769,
+  "revision_timestamp": "2026-02-12T02:12:47Z",
+  "fetched_at": "2026-08-17T22:33:55.913033+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Orcish Privateer's Plate\n  | type                     = Full Plate\n  | feat                     = Medium\n  | race                     = None\n  | minlevel                 = 4\n  | bind                     = {{Bind|BtC|BoE}}\n  | ac                       = +11\n  | maxdexbonus              = 3\n  | acp                      = -1\n  | asf                      = 20%\n  | durability               = 104\n  | material                 = Mithral\n  | hardness                 = 20\n  | basevalue                = 2,650 pp\n  | weight                   = 25 lbs\n  | released                 = Update 14\n  | quest                    = Three-Barrel Cove (heroic)\n  | chest                    = [[Captain Dustdyn]]'s Chest (Rare Encounter)\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{Mat|Mithral}}\n* {{ItemGrantedFeat|Mobility}}\n* {{Skills|intim|5}}\n* {{Augment|Blue}}\n  | pic                      = Jinx's Vexation shown.jpg\n  | picdesc                  = Orcish Privateer's Plate.png\n  | description              = Though the actual origin of this armor is unknown, it is obvious why the orcish pirate Captain Dustdyn claimed it as his own. Not only is it made of lightweight mithral, but the joints of this armor have been fitted in a novel way that allows for a flexibility and freedom of movement unparallelled in most plate armors. An important consideration when trying to move about on the deck of a ship, to be sure. Captain Dustdyn seems to have 'improved' this armor further with his own personal touch, adorning it with skulls and other threatening motifs.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Medium Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Medium",
+  "slot": "Armor",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Mithral",
+      "tooltip": "Mithral: Mithral armor is one type lighter then normal. Arcane Spell Failure decreased by 10%. Maximum dexterity bonus increased by 2. Armor check penalty reduced by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mithral",
+          "title": "Mithral",
+          "text": "Mithral"
+        }
+      ]
+    },
+    {
+      "text": "Feat: Mobility",
+      "tooltip": "Feat: Mobility: While equipped this armor grants the wielder the Mobility feat: increases the maximum dexterity bonus permitted by armor and tower shields by 2, adds a +4 bonus to Armor Class while tumbling, and gain a 2% dodge bonus.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feat",
+          "title": "Feat",
+          "text": "Feat"
+        }
+      ]
+    },
+    {
+      "text": "Intimidate +5",
+      "tooltip": "Intimidate +5: Passive: +5 Competence bonus to the Intimidate skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intimidate",
+          "title": "Intimidate",
+          "text": "Intimidate +5"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

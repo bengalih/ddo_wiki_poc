@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Sage's Ring (level 27)",
+  "page_id": 41580,
+  "revision_id": 650209,
+  "revision_timestamp": "2025-07-26T19:12:59Z",
+  "fetched_at": "2026-08-17T22:50:06.282612+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Sage's Ring\n  | minlevel                 = 27\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 190\n  | material                 = Gold\n  | hardness                 = 28\n  | basevalue                = 10,820pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 19\n  | quest                    = What Goes Up\n  | end reward               = yes\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{SpellPower|Potency|92}}\n* {{Stat|CHA|8}}\n* {{Stat|WIS|8}}\n* {{Augment|Yellow}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Ring Generic Blue.png\n  | picdesc                  = Sage's Ring (Level 27).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "Potency +92",
+      "tooltip": "Potency +92: Passive: +92 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +92"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +8",
+      "tooltip": "Charisma +8: This item makes the wearer have more flair, granting a +8 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +8"
+        }
+      ]
+    },
+    {
+      "text": "Wisdom +8",
+      "tooltip": "Wisdom +8: This item makes the wearer more in tune with her surroundings, granting a +8 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +8"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

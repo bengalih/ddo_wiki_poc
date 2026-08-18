@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Epic Spectre Deflector (level 24)",
+  "page_id": 72646,
+  "revision_id": 662992,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:56:48.470158+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = {{Item|Spectre Deflector|Epic Spectre Deflector}}\n  | type                     = Buckler\n  | prof                     = General\n  | reqtrait                 = \n  | minlevel                 = 24\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +9\n  | maxdexbonus              = \n  | dr                       = 11\n  | acp                      = 0\n  | asf                      = 0\n  | dmg                      = 3.80[1d6] + 7\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | attmod                   = STR\n  | damagemod                = STR\n  | durability               = 315<!-- previously 225 -->\n  | material                 = Steel\n  | hardness                 = 34<!-- previously 25 -->\n  | basevalue                = 9,601pp 5gp\n  | weight                   = 5 lbs\n  | quest                    = The Night Revels\n  | turn in                  = {{Item|Epic Spectre Deflector (level 20)}}{{Br}}{{Tab}}and {{NightRevelsRecipe|ing_chocolate= 200|ing_almond= 60|ing_cinnamon= 100}} at [[Joe Candymaker]]\n  | epic                     = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|s|7}}\n* {{Protection from Evil}}\n* {{Ghostbane|5}}\n* {{Ghostly}}\n* {{Lifesealed|30}}\n* {{Augment|Blue}}\n  | crafting                 = The Night Revels\n  | craftingupgrade          = Epic Spectre Deflector (level 28)\n  | description              = Deflects all spectres.\n  | pic                      = Swashbuckler shown.jpg\n  | picdesc                  = Epic Spectre Deflector (level 24).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Steel",
+  "item_type": "Buckler",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Protection from Evil",
+      "tooltip": "Protection from Evil: Passive: You gain the benefit of the spell Protection from Evil.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection_from_Evil",
+          "title": "Protection from Evil",
+          "text": "Protection from Evil"
+        }
+      ]
+    },
+    {
+      "text": "Ghostbane 5",
+      "tooltip": "Ghostbane 5: This weapon is attuned specifically to hunt the risen dead, dealing an additional 5d10 bane damage vs. Undead monsters.Passive: This weapon has Ghost Touch, and bypasses ethereal monster's 50% chance to evade bane damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostbane",
+          "title": "Ghostbane",
+          "text": "Ghostbane 5"
+        }
+      ]
+    },
+    {
+      "text": "Ghostly",
+      "tooltip": "Ghostly: Equipping this item causes you to become partially incorporeal. Your melee attacks do not roll a miss chance for Incorporeal targets. Enemy attacks have a 10% chance to miss you due to incorporeality. You receive a +5 enhancement bonus to your Hide and Move Silently skills.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostly",
+          "title": "Ghostly",
+          "text": "Ghostly"
+        }
+      ]
+    },
+    {
+      "text": "Lifesealed +30",
+      "tooltip": "Lifesealed +30: You are immune to magical effects that cause instant death. In addition, you have a +30% enhancement bonus to Negative Energy Absorption.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lifesealed",
+          "title": "Lifesealed",
+          "text": "Lifesealed +30"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

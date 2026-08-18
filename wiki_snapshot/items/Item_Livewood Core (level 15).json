@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Livewood Core (level 15)",
+  "page_id": 26587,
+  "revision_id": 653714,
+  "revision_timestamp": "2025-08-08T01:28:06Z",
+  "fetched_at": "2026-08-17T22:18:07.302203+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = {{Item|Livewood Core}}\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+16|m=+7|c=+2}}\n  | durability               = 200\n  | material                 = Wood\n  | hardness                 = 25\n  | basevalue                = 6,010pp\n  | weight                   = 0 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | minlevel                 = 15\n  | released                 = Update 15\n  | quest                    = Thorn and Paw\n  | chest                    = Corrupted Seeds optional chest (Heroic Normal)\n  | enhancements             = \n* {{Enhancement bonus|a|4}}\n* {{Rough Hide|3}}\n* {{Fortification|100}}\n* {{Fortification|0|10}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Livewood Core shown.jpg\n  | picdesc                  = Livewood Core (Level 15).png\n  | description              = This sphere of living wood pulses with vital energy. When inserted into the body of a Warforged, vines and tendrils will emerge from it, spreading leaves and moss across the wearer.\n  | notes                    = Under armor color is based on Warforged skin color.\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Wood",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Rough Hide +3",
+      "tooltip": "Rough Hide +3: This item fuses with your body and toughens your skin, providing a +3 Primal bonus to your natural armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rough_Hide",
+          "title": "Rough Hide",
+          "text": "Rough Hide +3"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +100%",
+      "tooltip": "Fortification +100%: +100% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +100%"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Fortification (+10%)",
+      "tooltip": "Exceptional Fortification (+10%): This item produces a magical force that protects vital areas of the wearer more effectively. When a critical hit or sneak attack is scored on the wearer, there is a +10% chance that the critical hit or sneak attack is negated and the damage is instead rolled normally. This ability is considered an Insight bonus when determining stacking with other sources of fortification",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Exceptional Fortification (+10%)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

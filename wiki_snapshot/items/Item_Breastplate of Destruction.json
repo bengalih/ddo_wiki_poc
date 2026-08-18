@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Breastplate of Destruction",
+  "page_id": 9111,
+  "revision_id": 628770,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:15:30.899938+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Breastplate of Destruction\n  | type                     = Breastplate\n  | feat                     = Light\n  | race                     = \n  | minlevel                 = 14\n  | bind                     = {{Bind|BtC|BoA}}\n  | epic                     = no\n  | ac                       = +19\n  | maxdexbonus              = 8\n  | acp                      = \n  | asf                      = 15%\n  | durability               = 192\n  | material                 = Mithral\n  | hardness                 = 23\n  | basevalue                = 6,820 pp\n  | weight                   = 15 lbs\n  | quest                    = Hound of Xoriat\n  | chest                    = Raid Warded chest\n  | end reward               = \n  | collectable              = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Mat|Mithral}}\n* {{ProtectionBonus|4}}\n* {{Destruction}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Breastplate of Destruction shown.jpg\n  | picdesc                  = Breastplate of Destruction.png\n  | description              = A mithral breastplate matching the description of this armor is said to appear in several stories over the past five centuries. In every story, this armor exuded a powerful aura, that could be channeled into the wielder's weapon, and weaken their foe.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Mithral",
+  "armor_type": "Breastplate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Mithral",
+      "tooltip": "Mithral: Mithral armor is one type lighter then normal. Arcane Spell Failure decreased by 10%. Maximum dexterity bonus increased by 2. Armor check penalty reduced by 3.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mithral",
+          "title": "Mithral",
+          "text": "Mithral"
+        }
+      ]
+    },
+    {
+      "text": "Protection +4",
+      "tooltip": "Protection +4: Passive: +4 Deflection bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Protection",
+          "title": "Protection",
+          "text": "Protection +4"
+        }
+      ]
+    },
+    {
+      "text": "Destruction",
+      "tooltip": "Destruction: On Hit: Your target gains a stack of Armor Destruction. (-1 penalty to Armor Class, -1% of its Fortification. 20 Second Duration. Stacks up to 15 times.) This effect may trigger once every three seconds.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Destruction",
+          "title": "Destruction",
+          "text": "Destruction"
+        }
+      ]
+    }
+  ]
+}

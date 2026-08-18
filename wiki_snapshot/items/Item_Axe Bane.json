@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Axe Bane",
+  "page_id": 9944,
+  "revision_id": 628388,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:06:55.005932+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Axe Bane\n  | type                     = Bracers\n  | basevalue                = 120 pp\n  | weight                   = 0.10 lb\n  | slot                     = Wrist\n  | quest                    = The Cannith Crystal\n  | end reward               = yes\n  | durability               = 20\n  | material                 = Leather\n  | hardness                 = 6\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Axeblock|ii}}\n  | description              = This pair of simple leather bracers glow faintly of magic.\n  | pic                      = Bracers Generic.png\n  | picdesc                  = Axe Bane.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "enchantments": [
+    {
+      "text": "Axeblock II",
+      "tooltip": "Axeblock II: Passive: Reduces physical damage taken by 4, except from Bludgeoning or Piercing weapons. (Damage Reduction: 4/Pierce, Bludgeon)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Axeblock",
+          "title": "Axeblock",
+          "text": "Axeblock II"
+        }
+      ]
+    }
+  ]
+}

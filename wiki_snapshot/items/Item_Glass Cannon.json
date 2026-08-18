@@ -1,0 +1,109 @@
+{
+  "page_title": "Item:Glass Cannon",
+  "page_id": 71270,
+  "revision_id": 699599,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:11:16.291765+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Rune Arm\n  | name                     = [[Glass Cannon]]\n  | reqtrait                 = [[Rune Arm Use|Artificer Rune Arm Use]]\n  | UMD DC                   = \n  | minlevel                 = 24\n  | durability               = 282\n  | material                 = Glass\n  | hardness                 = 34\n  | cost                     = 14,850 pp\n  | weight                   = 0.25 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | spell                    = Exploding Cannon Shot\n  | target                   = Foe, Directional, Breakable\n  | school                   = Evocation\n  | sr                       = no\n  | spell desc               = Fires a conjured stone projectile that explodes when it strikes an enemy or object. Opponents in the blast radius take both bludgeoning and fire damage.\n  | max charge               = 5\n  | imbue                    = Bludgeon V, Fire V \n  | imbue die                = 2d8 + 2d10\n  | imbue dmg                = bludgeon/fire\n  | quest                    = Treasure of Crystal Cove\n  | turn in                  = {{CCi|silver|1250}}{{CCi|golden|500}}{{CCi|opal|40}}{{CCi|green|800}} at [[Euphonia's Barter Box]]\n  | mythic                   = no\n  | food                     = yes\n  | enhancements             = \n* [[Exploding Cannon Shot]]\n* {{SpellPower|Impulse|125}}\n* {{spelllore|Kinetic|18}}\n* {{Stat|INT|+11}}\n* {{Popup|long=yes|[[Fortification|Fortification Penalty (-25%)]]|'''Fortification Penalty (-25%):''' While equipped, this item reduces your fortification by 25%.}}\n* {{Augment|Green}}\n  | craftable rune arm       = no\n  | pic                      = Exploding Cannon Shot icon.png\n  | picdesc                  = Glass Cannon.png\n  | description              = Made of hardened volcanic glass, this rune arm fires conjured stones which explode violently upon impact.\n  | tips                     = See also [[Glass Cannon]] for other versions of this item.\n}}<noinclude>[[Category:Treasure of Crystal Cove epic items]]</noinclude>",
+  "item_template": "Named item",
+  "minimum_level": 24,
+  "enchantments": [
+    {
+      "text": "Maximum Charge Tier: V",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maximum_Charge_Tier",
+          "title": "Maximum Charge Tier",
+          "text": "Maximum Charge Tier"
+        }
+      ]
+    },
+    {
+      "text": "Exploding Cannon Shot",
+      "tooltip": null,
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Exploding_Cannon_Shot",
+          "title": "Exploding Cannon Shot",
+          "text": "Exploding Cannon Shot"
+        }
+      ]
+    },
+    {
+      "text": "Impulse +125",
+      "tooltip": "Impulse +125: Passive: +125 Equipment bonus to Force, Untyped, Slashing, Piercing, and Bludgeoning Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impulse",
+          "title": "Impulse",
+          "text": "Impulse +125"
+        }
+      ]
+    },
+    {
+      "text": "Kinetic Lore +18%",
+      "tooltip": "Kinetic Lore +18: Passive: Your Force, Physical and Untyped spells gain a 18% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Kinetic Lore +18%"
+        }
+      ]
+    },
+    {
+      "text": "Intelligence +11",
+      "tooltip": "Intelligence +11: This item focuses the power of the wearer's mind, granting a +11 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +11"
+        }
+      ]
+    },
+    {
+      "text": "Fortification Penalty (-25%)",
+      "tooltip": "Fortification Penalty (-25%): While equipped, this item reduces your fortification by 25%.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification Penalty (-25%)"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Rune Arm Imbue: Bludgeon V, Fire V",
+      "tooltip": "Rune Arm Imbue: Bludgeon V, Fire V: Wearing this Rune Arm will imbue any weapon you wield, dealing 2d8 + 2d10 points of bludgeon/fire damage per hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Rune_Arm_Imbue",
+          "title": "Rune Arm Imbue",
+          "text": "Rune Arm Imbue"
+        }
+      ]
+    }
+  ]
+}

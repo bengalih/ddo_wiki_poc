@@ -1,0 +1,186 @@
+{
+  "page_title": "Item:Spider-spun Caparison",
+  "page_id": 24436,
+  "revision_id": 694458,
+  "revision_timestamp": "2026-07-10T11:21:21Z",
+  "fetched_at": "2026-08-17T23:04:12.953211+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Spider-spun Caparison\n  | minlevel                 = 22\n  | type                     = Outfit\n  | feat                     = Cloth\n  | ac                       = +9\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 230\n  | material                 = Cloth\n  | hardness                 = 24\n  | basevalue                = 8,805 pp 5 gp\n  | weight                   = 0 lbs\n  | released                 = Update 14\n  | quest                    = The Deal and the Demon\n  | pic                      = Spider-spun Caparison shown.jpg\n  | picdesc                  = Spider-spun Caparison.png\n  | chest                    = Mercenary Chest\n  | enhancements             = \n* One of the following ability bonuses:\n** {{Stat|DEX|8}}\n** {{Stat|DEX|3|Insightful}}\n** {{Stat|WIS|8}}\n** {{Stat|WIS|3|Insightful}}\n* {{ArmorBonus|9}}\n* {{Resistance|6}}\n* {{Enhanced Ki|1}}\n* {{Reinforced Fists}}\n* {{Skills|Concentration|15}}\n* {{Hp|Vitality|20}}\n* Upgrade:\n** 375 [[Purple Dragon Knights|Purple Dragon Knights Favor]] and 15 [[Commendation: Villagers of Eveningstar]] adds {{Named item sets|Way of the Sun Soul}}\n  | crafting                 = Catalyst Crafting\n  | craftingupgrade          = Webs of the Drow Penitent¦Legendary Webs of the Drow Penitent\n  | description              = The cloth of this outfit is spun entirely from the silk of some arachnid. It is strong, flexible, and nearly weightless.\n  | notes                    = Can be made a part of the {{Named item sets|Way of the Sun Soul}} with 375 [[Purple Dragon Knights|Purple Dragon Knights Favor]] and 15 [[Commendation: Villagers of Eveningstar]] by talking to [[Mikrom Sum]].\n* Upgrading item does not change binding status; so an unbound version will remain trade-able.\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Outfit",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 22,
+  "enchantments": [
+    {
+      "text": "One of the following ability bonuses:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "Dexterity +8",
+          "tooltip": "Dexterity +8: This item makes the wearer more nimble and dexterous, granting a +8 Enhancement bonus to Dexterity.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Dexterity",
+              "title": "Dexterity",
+              "text": "Dexterity +8"
+            }
+          ]
+        },
+        {
+          "text": "Insightful Dexterity +3",
+          "tooltip": "Insightful Dexterity +3: This item makes the wearer more nimble and dexterous, granting a +3 Insight bonus to Dexterity.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Dexterity",
+              "title": "Dexterity",
+              "text": "Insightful Dexterity +3"
+            }
+          ]
+        },
+        {
+          "text": "Wisdom +8",
+          "tooltip": "Wisdom +8: This item makes the wearer more in tune with her surroundings, granting a +8 Enhancement bonus to Wisdom.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Wisdom",
+              "title": "Wisdom",
+              "text": "Wisdom +8"
+            }
+          ]
+        },
+        {
+          "text": "Insightful Wisdom +3",
+          "tooltip": "Insightful Wisdom +3: This item makes the wearer more in tune with her surroundings, granting a +3 Insight bonus to Wisdom.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Wisdom",
+              "title": "Wisdom",
+              "text": "Insightful Wisdom +3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Armor Bonus +9",
+      "tooltip": "Armor Bonus +9: This item surrounds the wearer with an invisible but tangible field of force, granting +9 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +9"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +6",
+      "tooltip": "Resistance +6: Passive: +6 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +6"
+        }
+      ]
+    },
+    {
+      "text": "Enhanced Ki +1",
+      "tooltip": "Enhanced Ki +1: Increases the rate at which the user gains ki with each successful attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhanced_Ki",
+          "title": "Enhanced Ki",
+          "text": "Enhanced Ki +1"
+        }
+      ]
+    },
+    {
+      "text": "Reinforced Fists",
+      "tooltip": "Reinforced Fists: This item surrounds your fists with kinetic energy. Your unarmed damage is boosted by one half die.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reinforced_Fists",
+          "title": "Reinforced Fists",
+          "text": "Reinforced Fists"
+        }
+      ]
+    },
+    {
+      "text": "Concentration +15",
+      "tooltip": "Concentration +15: Passive: +15 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +15"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +20",
+      "tooltip": "Vitality +20: Passive: +20 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +20"
+        }
+      ]
+    },
+    {
+      "text": "Upgrade:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "375 Purple Dragon Knights Favor and 15 Commendation: Villagers of Eveningstar adds Way of the Sun Soul",
+          "tooltip": "Way of the Sun Soul: When all three item from the set are equipped and you are in a centered state, you will gain +2 artifact bonus to To-Hit and Damage rolls. In addition, when you roll a natural 20 on an attack roll that is confirmed as a critical hit, you will gain temporary benefit based on the elemental stance you are in, if any.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Purple_Dragon_Knights",
+              "title": "Purple Dragon Knights",
+              "text": "Purple Dragon Knights Favor"
+            },
+            {
+              "target": "/page/Commendation:_Villagers_of_Eveningstar",
+              "title": "Commendation: Villagers of Eveningstar",
+              "text": "Commendation: Villagers of Eveningstar"
+            },
+            {
+              "target": "/page/Named_item_sets#Way_of_the_Sun_Soul",
+              "title": "Named item sets",
+              "text": "Way of the Sun Soul"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

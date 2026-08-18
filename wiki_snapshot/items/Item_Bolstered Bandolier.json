@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Bolstered Bandolier",
+  "page_id": 39590,
+  "revision_id": 628651,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:12:56.886230+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Bolstered Bandolier\n  | type                     = Belt\n  | race                     = Shadar-kai\n  | basevalue                = 6,002 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | minlevel                 = 15\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|STR|4}}\n* {{Stat|DEX|5}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Belt Generic.png\n  | picdesc                  = Bolstered Bandolier.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Strength +4",
+      "tooltip": "Strength +4: This item gives the wearer the power of Ogre Strength, granting a +4 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +4"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +5",
+      "tooltip": "Dexterity +5: This item makes the wearer more nimble and dexterous, granting a +5 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +5"
+        }
+      ]
+    }
+  ]
+}

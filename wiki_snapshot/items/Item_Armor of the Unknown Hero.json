@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Armor of the Unknown Hero",
+  "page_id": 2766,
+  "revision_id": 628320,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:05:22.637695+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Armor of the Unknown Hero\n  | type                     = Half Plate\n  | feat                     = Heavy\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|BoA}}\n  | ac                       = +9\n  | maxdexbonus              = 2\n  | acp                      = -4\n  | asf                      = 30%\n  | durability               = 76\n  | material                 = Steel\n  | hardness                 = 13\n  | basevalue                = 860pp\n  | weight                   = 50 lbs\n  | quest                    = The Lost Seekers\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|2}}\n* {{Stat|Cha|1}}\n* {{Augment|Blue}}\n  | pic                      = Armor of the Unknown Hero shown.jpg\n  | picdesc                  = Armor of the Unknown Hero.png\n  | description              = The Stormreach Guards held onto this impressive-looking suit of half-plate. It belonged to a young unknown hero who went down into the sewers to battle undead, and never returned.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Half Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +1",
+      "tooltip": "Charisma +1: This item makes the wearer have more flair, granting a +1 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +1"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "page_title": "Item:Epic Pouch of Jerky",
+  "page_id": 11162,
+  "revision_id": 630278,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:53:16.866763+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Epic Pouch of Jerky\n  | slot                     = Trinket\n  | type                     = Trinket\n  | class                    = Jewelry\n  | basevalue                = 8020pp\n  | weight                   = 0.10 lbs\n  | durability               = 210\n  | material                 = Leather\n  | hardness                 = 25\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtC|BoA}}\n  | epic                     = Pouch of Jerky\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Jerky|30|5}}\n* {{Stat|con|9}}\n* {{Hp|False Life|36}}\n* {{HealingAmp|38|h|Competence}}\n* {{Skills|Heal|17}}\n* {{Augment|Yellow}}\n* {{Augment|Green}}\n* {{Named item sets|Epic Vulkoor's Chosen}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Pouch of Jerky\n  | description              = This leather pouch contains many shreds of dried meat. It's probably best that you don't ask what kind of meat.\n  | pic                      = Trinket Generic Jerky.png\n  | picdesc                  = Epic Pouch of Jerky.png\n}}\n[[Category:Sands of Menechtarun epic items]]",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Jerky — 5 Charges (Recharged/Day:5)",
+      "tooltip": "JerkyCaster level: 30Charges: 5 (5/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Jerky",
+          "title": "Jerky",
+          "text": "Jerky"
+        }
+      ]
+    },
+    {
+      "text": "Constitution +9",
+      "tooltip": "Constitution +9: This item gives the wearer improved health, granting a +9 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +9"
+        }
+      ]
+    },
+    {
+      "text": "False Life +36",
+      "tooltip": "False Life +36: +36 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +36"
+        }
+      ]
+    },
+    {
+      "text": "Competence Healing Amplification +38",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +38 (Competence bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Competence Healing Amplification +38"
+        }
+      ]
+    },
+    {
+      "text": "Heal +17",
+      "tooltip": "Heal +17: Passive: +17 Competence bonus to the Heal skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heal_(skill)",
+          "title": "Heal (skill)",
+          "text": "Heal +17"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Epic Vulkoor's Chosen",
+      "tooltip": "Epic Vulkoor's Chosen: 2 Pieces Equipped:+20 Artifact bonus to Poison Resistance+2 Artifact bonus to Sneak Attack Dice+2 Artifact bonus to Saving Throws+2 Artifact bonus to Dexterity and Constitution",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Epic_Vulkoor's_Chosen",
+          "title": "Named item sets",
+          "text": "Epic Vulkoor's Chosen"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Epic Elder's Cap",
+  "page_id": 11943,
+  "revision_id": 689540,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:47:51.130006+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Epic Elder's Cap\n  | type                     = Helm\n  | class                    = Clothing\n  | minlevel                 = 20\n  | slot                     = Head\n  | durability               = 210\n  | material                 = Leather\n  | hardness                 = 26\n  | bind                     = {{Bind|BtA|BoA}}\n  | basevalue                = 8,005pp\n  | weight                   = 0.10 lbs\n  | quest                    = Altar of Epic Rituals\n  | chest                    = {{Item|Elder's Cap}}\n  | released                 = Update 6\n  | revamped                 = Update 80\n  | epic                     = Elder's Cap\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|INT|+9}}\n* {{Spell Focus|Enchantment|+6}}\n* {{Skills|Concentration|+17}}\n* {{Save|spell|8}}\n* {{Augment|Yellow}}\n* {{Augment|Colorless}}\n* {{Named item sets|Epic Elder's Knowledge}}\n  | description              = Tribal drow elders use these caps to focus their minds and recall past events. They are passed down through the generations but few of them remain in existence.\n  | pic                      = Graskitch's Skullcap shown.jpg <!--Identical Style-->\n  | picdesc                  = Epic Elder's Cap.png\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Elder's Cap\n  | tips                     = \n}}\n[[Category:The Red Fens epic items]]",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Intelligence +9",
+      "tooltip": "Intelligence +9: This item focuses the power of the wearer's mind, granting a +9 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +9"
+        }
+      ]
+    },
+    {
+      "text": "Enchantment Focus +6",
+      "tooltip": "Enchantment Focus +6: +6 Equipment bonus to the DC of Enchantment spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Enchantment Focus +6"
+        }
+      ]
+    },
+    {
+      "text": "Concentration +17",
+      "tooltip": "Concentration +17: Passive: +17 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +17"
+        }
+      ]
+    },
+    {
+      "text": "Spell Save +8",
+      "tooltip": "Spell Save +8: This item gives a +8 Resistance bonus to your saves versus spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Saving_throw",
+          "title": "Saving throw",
+          "text": "Spell Save +8"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Epic Elder's Knowledge",
+      "tooltip": "Epic Elder's Knowledge: 2 Pieces Equipped:+4% Artifact bonus to Spell Critical Chance10% Legendary bonus to Spell Critical Damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Epic_Elder's_Knowledge",
+          "title": "Named item sets",
+          "text": "Epic Elder's Knowledge"
+        }
+      ]
+    }
+  ]
+}

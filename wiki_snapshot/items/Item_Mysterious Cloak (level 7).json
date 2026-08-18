@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Mysterious Cloak (level 7)",
+  "page_id": 51020,
+  "revision_id": 650229,
+  "revision_timestamp": "2025-07-26T19:12:59Z",
+  "fetched_at": "2026-08-17T22:29:23.669826+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Mysterious Cloak}}\n  | type                     = Cloak\n  | slot                     = Back\n  | durability               = 80\n  | material                 = Paper\n  | hardness                 = 23\n  | basevalue                = 2,800 pp 9 gp\n  | weight                   = 0.04 lbs\n  | minlevel                 = 7\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Monster Hunter\n  | end reward               = \n  | turn in                  = 1000 {{Item|Mysterious Remnant}}s\n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{HealingAmp|15|h|Exceptional}}\n* {{Sheltering|11|Insightful|Magical}}\n* {{Wondrous Craftsmanship}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n  | epic                     = no\n  | crafting                 = Item:Mysterious Cloak (Level 14)\n  | craftingupgrade          = \n  | description              = A Mysterious cloak.\n  | pic                      = Mysterious Cloak shown.jpg\n  | picdesc                  = Mysterious Cloak (Level 7).png\n  | tips                     = Available during [[Bonus Days|Champion Hunter week]].\n}}\n[[Category:Champion Hunter Week reward items]]",
+  "item_template": "Named item",
+  "material": "Paper",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Exceptional Healing Amplification +15",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +15 (Exceptional bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Exceptional Healing Amplification +15"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Magical Sheltering +11",
+      "tooltip": "Insightful Magical Sheltering +11: +11 Insight bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Insightful Magical Sheltering +11"
+        }
+      ]
+    },
+    {
+      "text": "Wondrous Craftsmanship",
+      "tooltip": "Wondrous Craftsmanship: This item's enchantments are more Powerful than is normal for an item of this level.(+2 Total Enhancement Value.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wondrous_Craftsmanship",
+          "title": "Wondrous Craftsmanship",
+          "text": "Wondrous Craftsmanship"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

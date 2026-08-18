@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:The Mother Board (level 25)",
+  "page_id": 73495,
+  "revision_id": 635406,
+  "revision_timestamp": "2025-04-22T04:25:45Z",
+  "fetched_at": "2026-08-17T23:15:47.645483+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = {{Item|The Mother Board}}\n  | type                     = Tower\n  | prof                     = Tower\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 25\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +18\n  | maxdexbonus              = 2\n  | dr                       = 15\n  | acp                      = -9\n  | asf                      = 50\n  | dmg                      = 4[1d12] + 7\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 18-20 / x3\n  | durability               = 370\n  | material                 = Wood\n  | hardness                 = 50\n  | basevalue                = 10,404 pp\n  | weight                   = 45 lbs\n  | quest                    = Anniversary Party\n  | turn in                  = {{U30 ingredient|80}}\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|s|7}}\n* {{Bashing|5}}\n* {{Bludgeoning|5}}\n* {{Ghost Touch}}\n* {{Impact|I}}\n* {{Augment|Purple}}\n  | description              = At the heart of the old speaking forum in Stormreach was a large tree. People would come and post messages on the tree, in the hopes that others would read them and benefit from their sage words. When that tree fell, the wood was used to make this shield.\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = The Mother Board shown.jpg\n  | picdesc                  = The Mother Board (level 25).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Tower Shield Proficiency",
+  "material": "Wood",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Bashing 5",
+      "tooltip": "Bashing 5: This shield is exceptionally durable and dense, and does an additional 5d6 damage when used to shield bash.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bashing",
+          "title": "Bashing",
+          "text": "Bashing 5"
+        }
+      ]
+    },
+    {
+      "text": "Bludgeoning 5",
+      "tooltip": "Bludgeoning 5: The edges of this weapon are blunted, dealing an additional 5d6 bludgeon damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bludgeoning",
+          "title": "Bludgeoning",
+          "text": "Bludgeoning 5"
+        }
+      ]
+    },
+    {
+      "text": "Ghost Touch",
+      "tooltip": "Ghost Touch: An incorporeal creature's 50% chance to avoid damage does not apply to attacks with ghost touch weapons.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghost_Touch",
+          "title": "Ghost Touch",
+          "text": "Ghost Touch"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

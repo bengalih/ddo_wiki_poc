@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Skirmisher's Ring (level 19)",
+  "page_id": 42436,
+  "revision_id": 649569,
+  "revision_timestamp": "2025-07-26T19:12:42Z",
+  "fetched_at": "2026-08-17T23:00:21.042666+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Skirmisher's Ring\n  | minlevel                 = 19\n  | type                     = Ring\n  | slot                     = Finger\n  | bind                     = {{Bind|BtC|BoA}}\n  | durability               = 110\n  | material                 = Gold\n  | hardness                 = 20\n  | basevalue                = 7,620pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 19\n  | quest                    = What Goes Up\n  | end reward               = yes\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Stat|CON|8}}\n* {{Augment|Yellow}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Ring Generic Silver 2.png\n  | picdesc                  = Skirmisher's Ring (Level 19).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 19,
+  "enchantments": [
+    {
+      "text": "Constitution +8",
+      "tooltip": "Constitution +8: This item gives the wearer improved health, granting a +8 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +8"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "page_title": "Item:The Legendary Lotus Mail",
+  "page_id": 84160,
+  "revision_id": 635379,
+  "revision_timestamp": "2025-04-22T04:23:57Z",
+  "fetched_at": "2026-08-17T23:15:04.887219+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = The Legendary Lotus Mail\n  | type                     = Light Armor\n  | feat                     = Light\n  | ac                       = +25\n  | maxdexbonus              = 20\n  | acp                      = 0\n  | asf                      = 10%\n  | durability               = 370\n  | material                 = Leather\n  | hardness                 = 38\n  | minlevel                 = 29\n  | released                 = Update 48\n  | revamped                 = Update 59\n  | quest                    = The Icemount Curse\n  | chest                    = End Chest\n  | basevalue                = 11,650 pp\n  | weight                   = 30 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Fortification|142}}\n* {{HealingAmp|53|Positive|Competence}}\n* {{Save|r|11}}\n* {{Dodge|13}}\n* {{Augment|Green}}\n* {{Named item sets|Eminence of Spring}}\n  | pic                      = The Lotus Mail shown.jpg\n  | picdesc                  = The Legendary Lotus Mail.png\n  | description              = This light armor seems to be patterned after the traditional clothing of the Eladrin.\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Light Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +142%",
+      "tooltip": "Fortification +142%: +142% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +142%"
+        }
+      ]
+    },
+    {
+      "text": "Competence Healing Amplification +53",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +53 (Competence bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Competence Healing Amplification +53"
+        }
+      ]
+    },
+    {
+      "text": "Reflex Save +11",
+      "tooltip": "Reflex Save +11: This item gives a +11 Resistance bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save +11"
+        }
+      ]
+    },
+    {
+      "text": "Dodge +13%",
+      "tooltip": "Dodge +13%: +13% Enhancement bonus to Dodge.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dodge_bonus",
+          "title": "Dodge bonus",
+          "text": "Dodge +13%"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Eminence of Spring",
+      "tooltip": "Eminence of Spring:",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Eminence_of_Spring",
+          "title": "Named item sets",
+          "text": "Eminence of Spring"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

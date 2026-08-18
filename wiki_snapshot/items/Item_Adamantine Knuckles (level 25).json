@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Adamantine Knuckles (level 25)",
+  "page_id": 33319,
+  "revision_id": 672323,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:01:31.351655+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Adamantine Knuckles}}\n  | sentience                = no\n  | damage                   = 3.50[1d6] + 7 Bludgeon, Adamantine, Magic\n  | crit                     = 18-20 / x2\n  | type                     = Handwrap\n  | hand                     = Simple\n  | class                    = Bludgeoning\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | minlevel                 = 25\n  | prof                     = Exotic\n  | bind                     = {{Bind|BtC|BoE}}\n  | durability               = 310\n  | material                 = Adamantine\n  | hardness                 = 45\n  | basevalue                = 10,003pp\n  | weight                   = 0.50 lbs\n  | quest                    = Return to Cabal for One\n  | chest                    = and '''[[Feast or Famine]]''' End chest (Epic Elite)\n  | enhancements             = \n* {{Mat|Adamantine Lined}}\n* {{Enhancement bonus|w|7}}\n* {{Augment|Red}}\n* {{Augment|Orange}}\n* {{Augment|Purple}}\n  | description              = These cloth handwraps hide a hard-hitting secret-adamantine knuckles underneath.\n  | pic                      = Handwraps Generic.png\n  | picdesc                  = Adamantine Knuckles (Level 25).png\n  | tips                     = \n}}\n[[Category:Feast or Famine loot]]",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Handwrap",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "Adamantine Lined",
+      "tooltip": "Adamantine Lined: Found only in meteorites and the rarest of veins in magical areas, handwraps lined with adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine_Lined",
+          "title": "Adamantine Lined",
+          "text": "Adamantine Lined"
+        }
+      ]
+    },
+    {
+      "text": "+7 Enhancement Bonus",
+      "tooltip": "+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+7 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

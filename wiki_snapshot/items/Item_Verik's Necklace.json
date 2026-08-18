@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Verik's Necklace",
+  "page_id": 11153,
+  "revision_id": 635710,
+  "revision_timestamp": "2025-04-22T04:46:01Z",
+  "fetched_at": "2026-08-17T23:23:52.824922+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Verik's Necklace\n  | type                     = Necklace\n  | class                    = Jewelry\n  | basevalue                = 10,002pp\n  | weight                   = 0.10 lbs\n  | slot                     = Neck\n  | durability               = 110\n  | material                 = Steel\n  | hardness                 = 20\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = A New Invasion\n  | chest                    = Any chest; [[Tower of Despair]], [[Nythirios]] chest\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|CON|6}}\n* {{Action Boost Enhancement|Lesser}}\n* {{Named item sets|Kensai}}\n  | description              = This thin chain necklace was the property of the famous [[Kensei enhancements|Kensai]], Verik.  Its protection saved him in many a duel by turning the blade of the opponent.\n  | pic                      = Necklace Generic.png\n  | picdesc                  = Verik's Necklace.png\n  | tips                     = {{Bug|\"Kensei\" is misspelled \"Kensai\".|M=yes}}\n}}\n[[Category:Tower of Despair loot]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Constitution +6",
+      "tooltip": "Constitution +6: This item gives the wearer improved health, granting a +6 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +6"
+        }
+      ]
+    },
+    {
+      "text": "Lesser Action Boost Enhancement",
+      "tooltip": "Lesser Action Boost Enhancement: This will increase the total number of Action Boosts you can use by 2. However, these additional Action Boosts will only take effect after the wielder rests.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lesser_Action_Boost_Enhancement",
+          "title": "Lesser Action Boost Enhancement",
+          "text": "Lesser Action Boost Enhancement"
+        }
+      ]
+    },
+    {
+      "text": "Kensai",
+      "tooltip": "Kensai: +2 Exceptional Melee To-Hit, +3 Confirm Criticals. If have Kensei III Enhancement: +3 Exceptional Bonus To-Hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Kensai",
+          "title": "Named item sets",
+          "text": "Kensai"
+        }
+      ]
+    }
+  ]
+}

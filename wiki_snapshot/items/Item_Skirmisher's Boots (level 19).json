@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Skirmisher's Boots (level 19)",
+  "page_id": 40729,
+  "revision_id": 649769,
+  "revision_timestamp": "2025-07-26T19:12:47Z",
+  "fetched_at": "2026-08-17T22:59:59.000530+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Skirmisher's Boots\n  | type                     = Boots\n  | class                    = Clothing\n  | basevalue                = 7,620pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 110\n  | material                 = Leather\n  | hardness                 = 20\n  | minlevel                 = 19\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 19\n  | quest                    = Lines of Supply\n  | end reward               = yes\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Elemental Resistance|Cold|25}}\n* {{Elemental Resistance|Fire|25}}\n  | crafting                 = \n  | description              = \n  | pic                      = Boots Spike.png\n  | picdesc                  = Skirmisher's Boots (Level 19).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 19,
+  "enchantments": [
+    {
+      "text": "Cold Resistance +25",
+      "tooltip": "Cold Resistance +25: Passive: +25 Enhancement bonus to your Cold Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Resistance",
+          "title": "Cold Resistance",
+          "text": "Cold Resistance +25"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +25",
+      "tooltip": "Fire Resistance +25: Passive: +25 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +25"
+        }
+      ]
+    }
+  ]
+}

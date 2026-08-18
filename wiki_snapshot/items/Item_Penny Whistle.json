@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Penny Whistle",
+  "page_id": 10502,
+  "revision_id": 633912,
+  "revision_timestamp": "2025-04-22T02:46:07Z",
+  "fetched_at": "2026-08-17T22:36:12.708812+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Penny Whistle\n  | type                     = Trinket\n  | slot                     = Trinket\n  | quest                    = The Abandoned Excavation\n  | durability               = 100\n  | material                 = Gem\n  | hardness                 = 19\n  | basevalue                = 3,620 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 9\n  | bind                     = {{Bind|BtA|boa}}\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{clicky|Summon Monster III|5|5}} \n* {{Augment|Yellow}}\n* {{Augment|Colorless}}\n  | description              = A pennywhistle stamped out of cheap tin.\n  | pic                      = Trinket Generic Whistle.png\n  | picdesc                  = Penny Whistle.png\n  | tips                     = \n}}\n[[Category:Summons]]",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 9,
+  "enchantments": [
+    {
+      "text": "Summon Monster III — 5 Charges (Recharged/Day:5)",
+      "tooltip": "Summon Monster IIICaster level: 5Charges: 5 (5/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Summon_Monster_III",
+          "title": "Summon Monster III",
+          "text": "Summon Monster III"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    }
+  ]
+}

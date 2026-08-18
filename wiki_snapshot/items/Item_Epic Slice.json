@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Epic Slice",
+  "page_id": 53645,
+  "revision_id": 671208,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:56:15.572113+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Slice\n  | damage                   = 4.60[1d4] + 12 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Dagger\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Piercing\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 28\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 320\n  | material                 = Steel\n  | hardness                 = 38\n  | basevalue                = 11,220 pp\n  | weight                   = 1.00 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 28\n  | revamped                 = Update 76\n  | quest                    = Multitude of Menace\n  | chest                    = End chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Bleeding|Greater}}\n* {{Heartseeker|VI}}\n* {{Seeker|6|Insight}}\n* {{Destruction|Improved}}\n* {{Enhancement bonus|w|12}}\n* {{Named item sets|Epic Slice 'n Dice Set}}\n* {{Named item sets|Epic The Devil's Handiwork}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = It slices.\n  | pic                      = Slice shown.jpg\n  | picdesc                  = Epic Slice.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "Greater Bleeding",
+      "tooltip": "Greater Bleeding: This weapon is precisely sharp and will do an additional 5 to 40 damage to targets that are vulnerable to bleeding.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleed#Greater_Bleeding",
+          "title": "Bleed",
+          "text": "Greater Bleeding"
+        }
+      ]
+    },
+    {
+      "text": "Heartseeker VI",
+      "tooltip": "Heartseeker VI: On Critical Hit: 13 to 78 Piercing damage from weapons with a x2 Critical Multiplier, 13 to 104 Piercing damage from weapons with a x3 Critical Multiplier, and 13 to 130 Piercing damage from weapons with a x4 or greater Critical Multiplier.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heartseeker",
+          "title": "Heartseeker",
+          "text": "Heartseeker VI"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Seeker +6",
+      "tooltip": "Insightful Seeker +6: Provides a +6 Insight bonus to confirm critical hits, and a +6 Insight bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Insightful Seeker +6"
+        }
+      ]
+    },
+    {
+      "text": "Improved Destruction",
+      "tooltip": "Improved Destruction: On Hit: Your target gains a stack of Armor Destruction. (-1 penalty to Armor Class, -1% of its Fortification. 20 Second Duration. Stacks up to 15 times.) This effect may trigger once every second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Improved_Destruction",
+          "title": "Improved Destruction",
+          "text": "Improved Destruction"
+        }
+      ]
+    },
+    {
+      "text": "+12 Enhancement Bonus",
+      "tooltip": "+12 Enhancement Bonus: +12 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+12 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Epic Slice 'n Dice Set",
+      "tooltip": "Epic Slice 'n Dice Set: While wearing both items from the Epic Slice 'n Dice Set, you gain:+2 Quality bonus to Seeker+2 Quality bonus to Sneak AttackThey make julienne fries.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Epic_Slice_'n_Dice_Set",
+          "title": "Named item sets",
+          "text": "Epic Slice 'n Dice Set"
+        }
+      ]
+    },
+    {
+      "text": "Epic The Devil's Handiwork",
+      "tooltip": "Epic The Devil's Handiwork: While wearing any five items from the Epic The Devil's Handiwork, you gain: +3 Quality bonus to all Ability stats",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Epic_The_Devil's_Handiwork",
+          "title": "Named item sets",
+          "text": "Epic The Devil's Handiwork"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Oathring",
+  "page_id": 39270,
+  "revision_id": 633802,
+  "revision_timestamp": "2025-04-22T02:38:05Z",
+  "fetched_at": "2026-08-17T22:33:19.164953+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Oathring\n  | minlevel                 = 15\n  | type                     = Ring\n  | race                     = Purple Dragon Knight\n  | slot                     = Finger\n  | bind                     = {{Bind|BTC|BoA}}\n  | durability               = 160\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 6,020 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | quest                    = Advance to level 15\n  | end reward               = Purple Dragon Knight: Advance to level 15\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Stat|CHA|+6}}\n* {{Proof|Poison|6}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A knight shall combat iniquity, avarice, and wickedness wherever they rear their ugly heads.\n  | pic                      = Ring Generic Mire.png\n  | picdesc                  = Oathring.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Charisma +6",
+      "tooltip": "Charisma +6: This item makes the wearer have more flair, granting a +6 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +6"
+        }
+      ]
+    },
+    {
+      "text": "Proof Against Poison +6",
+      "tooltip": "Proof Against Poison +6: This item grants its wearer immunity to natural poisons. This item also grants a +6 Enhancement bonus to saving throws against magical poisons, and the wearer does not fail saving throws against them on a roll of a natural 1 (this renders the wearer immune to magical poisons with a DC of less than 7 + their Fortitude save).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Proof_Against_Poison",
+          "title": "Proof Against Poison",
+          "text": "Proof Against Poison +6"
+        }
+      ]
+    }
+  ]
+}

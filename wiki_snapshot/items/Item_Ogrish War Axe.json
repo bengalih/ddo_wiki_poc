@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Ogrish War Axe",
+  "page_id": 12616,
+  "revision_id": 633807,
+  "revision_timestamp": "2025-04-22T02:38:45Z",
+  "fetched_at": "2026-08-17T22:33:29.433725+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Ogrish War Axe\n  | damage                   = 1.40[1d12] + 5 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Great Axe\n  | class                    = Slashing\n  | hand                     = Two-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Martial\n  | durability               = 220\n  | material                 = Steel\n  | hardness                 = 22\n  | minlevel                 = 12\n  | basevalue                = 4,802 pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | revamped                 = Update 49\n  | quest                    = Attack on Stormreach\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Vengeful}}\n* {{Bane|Humanoid|3}}\n* {{Gashing|7}}\n* {{CraftingEffects|Malleable}}\n  | crafting                 = Malleable\n  | craftingupgrade          = Infectious War Axe¦Bloody War Axe¦Destructive War Axe¦Petrifying War Axe\n  | description              = The ogres of [[Droaam]] dress themselves in heavy armor and wield huge metallic weapons, unlike their more tribal cousins. This war axe is infused with the fury of such well-armed ogre brutes.\n  | pic                      = Ogrish War Axe shown.jpg\n  | picdesc                  = Ogrish War Axe.png\n  | tips                     = Although this is a greataxe... It actually uses the greatsword wield model & swing animation, and thus swings slightly slower than a real greataxe.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Vengeful",
+      "tooltip": "Vengeful: When its wielder is hit in battle, this item has a 10% chance to cause him or her to become full of anger and go into a Rage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vengeful",
+          "title": "Vengeful",
+          "text": "Vengeful"
+        }
+      ]
+    },
+    {
+      "text": "Humanoid Bane 3",
+      "tooltip": "Humanoid Bane 3: This weapon is attuned specifically to those that walk among us, dealing an additional 3d10 bane damage vs. Humanoids.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Humanoid Bane 3"
+        }
+      ]
+    },
+    {
+      "text": "Gashing 7",
+      "tooltip": "Gashing 7: The edges of this weapon are sharpened beyond belief, dealing an additional 7d6 slashing damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Gashing",
+          "title": "Gashing",
+          "text": "Gashing 7"
+        }
+      ]
+    },
+    {
+      "text": "Malleable",
+      "tooltip": "Malleable: This item has a magical aura of malleability and can be combined with any item that has the Fusible property to create a new, more powerful fusion of the two items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cauldron_of_Sora_Katra",
+          "title": "Cauldron of Sora Katra",
+          "text": "Malleable"
+        }
+      ]
+    }
+  ]
+}

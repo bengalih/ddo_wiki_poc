@@ -1,0 +1,140 @@
+{
+  "page_title": "Item:The Everstorm, Maelstrom Courser",
+  "page_id": 75045,
+  "revision_id": 635338,
+  "revision_timestamp": "2025-04-22T04:21:13Z",
+  "fetched_at": "2026-08-17T23:13:52.199144+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = The Everstorm, Maelstrom Courser\n  | damage                   = 4.80[1d8+3] + 15 Bludgeon, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Heavy Mace\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 29\n  | durability               = 350\n  | material                 = Steel\n  | hardness                 = 39\n  | cost                     = 11,601 pp 2gp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 42\n  | quest                    = Too Hot to Handle\n  | chest                    = end chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Nearly Finished|{{Completed Weapon}}|{{Disintegration|Utter}}|{{Augment|Purple}}|and=true}}\n* {{Impact}}\n* {{Shockwave|Overwhelming}}\n* {{Screeching|14}}\n* {{Augment|Red}}\n  | crafting                 = Nearly Finished\n  | craftingupgrade          = \n  | description              = You are the eye of the storm.\n  | pic                      = The Everstorm, Maelstrom Courser shown.jpg\n  | picdesc                  = The_Everstorm_Maelstrom_Courser.png\n  | tips                     =\n* {{Popup|Image of completed version|[[File:The Everstorm, Maelstrom Courser (Completed).png]]|long=y}}\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Heavy Mace",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Nearly Finished",
+      "tooltip": "Nearly Finished: This item isn't quite finished, but it's only a step away from completion. Bring it to a Cannith Reforging Station and combine it with melted materials to restore this item to its full potential.",
+      "children": [
+        {
+          "text": "Completed Weapon",
+          "tooltip": "Completed Weapon: This item is fully completed, and as a result deals an additional .5W damage.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Completed_Weapon",
+              "title": "Completed Weapon",
+              "text": "Completed Weapon"
+            }
+          ]
+        },
+        {
+          "text": "Utter Disintegration",
+          "tooltip": "Utter Disintegration: This weapon has a dark, insidious power deep within. Occasionally, this power lashes out violently at enemies and attempts to disintegrate them. This disintegrate is incredibly powerful, and will utterly destroy weaker foes.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Utter_Disintegration",
+              "title": "Utter Disintegration",
+              "text": "Utter Disintegration"
+            }
+          ]
+        },
+        {
+          "text": "Purple Augment Slot",
+          "tooltip": "Blue, Purple, Red, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Purple Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Nearly_Finished",
+          "title": "Nearly Finished",
+          "text": "Nearly Finished"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Overwhelming Shockwave",
+      "tooltip": "Overwhelming Shockwave: This legendary weapon resonates with incredible power. On a Vorpal strike that is confirmed as a critical hit, it releases a Shockwave that does tremendous Sonic damage to all foes. Furthermore, the enemy that the shockwave is released on is Dazed from the force of the blast.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shockwave#Overwhelming_Shockwave",
+          "title": "Shockwave",
+          "text": "Overwhelming Shockwave"
+        }
+      ]
+    },
+    {
+      "text": "Screeching 14",
+      "tooltip": "Screeching 14: This effect causes the edges of this weapon to pulse with sound, dealing 14d6 Sonic damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Screeching",
+          "title": "Screeching",
+          "text": "Screeching 14"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

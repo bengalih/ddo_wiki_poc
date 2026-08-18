@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Dusk Lenses",
+  "page_id": 74531,
+  "revision_id": 629680,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:40:56.833834+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Dusk Lenses\n  | minlevel                 = 15\n  | type                     = Goggles\n  | race                     = \n  | slot                     = Eye\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 250\n  | material                 = Steel\n  | hardness                 = 35\n  | cost                     = 6,020 pp\n  | weight                   = 0.10 lbs\n  | epic                     = no\n  | released                 = Update 42\n  | quest                    = Thralls of the Fungus Lord\n  | chest                    = End Chest\n  | enhancements             = \n* {{SpellPower|Potency|60}}\n* {{SpellPower|Potency|30|Insightful}}\n* {{Efficient Metamagic|Empower|II}}\n* {{Efficient Metamagic|Maximize|I}}\n* {{Augment|Yellow}}\n* {{Named item sets|Esoteric Initiate}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Peer into the gloom of the unknown.\n  | pic                      = Legendary Dusk Lenses Shown.jpg\n  | picdesc                  = Dusk Lenses.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Goggles",
+  "item_class": "Jewelry",
+  "slot": "Eye",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Potency +60",
+      "tooltip": "Potency +60: Passive: +60 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +60"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Potency +30",
+      "tooltip": "Insightful Potency +30: Passive: +30 Insightful bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Insightful Potency +30"
+        }
+      ]
+    },
+    {
+      "text": "Efficient Metamagic - Empower II",
+      "tooltip": "Efficient Metamagic - Empower II: The additional spell point cost for using the Empower Metamagic feat is reduced by 2 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Empower II"
+        }
+      ]
+    },
+    {
+      "text": "Efficient Metamagic - Maximize I",
+      "tooltip": "Efficient Metamagic - Maximize I: The additional spell point cost for using the Maximize Metamagic feat is reduced by 2 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Maximize I"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Esoteric Initiate",
+      "tooltip": "Esoteric Initiate: While wearing three items from the Esoteric Initiate set, you gain:+25 Artifact bonus to Universal Spell Power+2 Artifact bonus to Intelligence, Wisdom, and Charisma+2 Artifact bonus to Spell DCs+10 Magical Resistance Rating Cap",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Esoteric_Initiate",
+          "title": "Named item sets",
+          "text": "Esoteric Initiate"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Goggle Boost +1 or +3",
+      "tooltip": "Mythic Goggle Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Goggle Boost"
+        }
+      ]
+    }
+  ]
+}

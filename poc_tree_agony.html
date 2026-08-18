@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Tree Comparison — Agony, the Knife in the Dark</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont,
+      "Segoe UI", Roboto, sans-serif;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #1a1a2e;
+    color: #e0e0e0;
+  }
+  h1 {
+    color: #00d4ff;
+    border-bottom: 2px solid #00d4ff;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  h2 { color: #ff6b6b; margin: 20px 0 10px; }
+  .meta { color: #888; margin-bottom: 20px; }
+  .columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  .panel {
+    border: 1px solid #333;
+    border-radius: 8px;
+    padding: 15px;
+    background: #16213e;
+  }
+  .panel h2 { margin-top: 0; }
+  .tree {
+    list-style: none;
+    padding-left: 20px;
+  }
+  .tree li {
+    padding: 4px 0;
+    position: relative;
+  }
+  .tree li::before {
+    content: "";
+    position: absolute;
+    left: -15px;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background: #444;
+  }
+  .tree li:last-child::before { bottom: 50%; }
+  .tree li::after {
+    content: "";
+    position: absolute;
+    left: -15px;
+    top: 12px;
+    width: 12px;
+    height: 1px;
+    background: #444;
+  }
+  .leaf { color: #e0e0e0; }
+  .branch { color: #00d4ff; font-weight: bold; }
+  .branch > .tree li { color: #e0e0e0; font-weight: normal; }
+  .branch > .tree li::after { background: #00d4ff; }
+  .code {
+    background: #0f0f23;
+    border: 1px solid #333;
+    border-radius: 4px;
+    padding: 12px;
+    font-size: 11px;
+    white-space: pre-wrap;
+    max-height: 500px;
+    overflow-y: auto;
+    margin-top: 10px;
+  }
+  .count {
+    display: inline-block;
+    background: #0f0f23;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 12px;
+    color: #888;
+    margin-left: 8px;
+  }
+  .section {
+    margin-top: 20px;
+    border: 1px solid #333;
+    border-radius: 8px;
+    padding: 15px;
+    background: #16213e;
+  }
+</style>
+</head>
+<body>
+  <h1>Agony, the Knife in the Dark</h1>
+  <div class="meta">
+    Expanded via
+    <code>action=expandtemplates&amp;title=Agony, the Knife in the Dark&amp;text={{:Agony, the Knife in the Dark}}</code>
+  </div>
+
+  <div class="columns">
+    <div class="panel">
+      <h2>Expanded Wikitext Tree
+        <span class="count">8 nodes</span>
+      </h2>
+      <ul class="tree">
+<li class="leaf">+7 Enhancement Bonus</li>
+<li class="leaf">Keen</li>
+<li class="leaf">Entropic</li>
+<li class="leaf">Hemorrhaging</li>
+<li class="leaf">Disintegration</li>
+<li class="leaf">Improved Deception</li>
+<li class="branch">Attuned to Heroism<ul class="tree">
+<li class="branch">Attuned by Heroism: Tier 1<ul class="tree">
+<li class="leaf">Adds Planar Conflux</li>
+</ul></li>
+<li class="branch">Attuned by Heroism: Tier 2<ul class="tree">
+<li class="leaf">+7 Enhancement Bonus → +8 Enhancement Bonus</li>
+</ul></li>
+<li class="branch">Attuned by Heroism: Tier 3<ul class="tree">
+<li class="leaf">Hemorrhaging → Phlebotomizing</li>
+</ul></li>
+<li class="branch">Attuned by Heroism: Tier 4<ul class="tree">
+<li class="leaf">Adds Red Augment Slot</li>
+</ul></li>
+</ul></li>
+<li class="leaf">Mythic Weapon Boost +2 or +4</li>
+</ul>
+      <details>
+        <summary style="color:#888;cursor:pointer;margin-top:10px">JSON</summary>
+        <pre class="code">[
+  {
+    &quot;text&quot;: &quot;+7 Enhancement Bonus&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Enhancement_bonus&quot;,
+        &quot;title&quot;: &quot;Enhancement bonus&quot;,
+        &quot;text&quot;: &quot;+7 Enhancement Bonus&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Keen&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Keen&quot;,
+        &quot;title&quot;: &quot;Keen&quot;,
+        &quot;text&quot;: &quot;Keen&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Entropic&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Entropic&quot;,
+        &quot;title&quot;: &quot;Entropic&quot;,
+        &quot;text&quot;: &quot;Entropic&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Hemorrhaging&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Bleed#Hemorrhaging&quot;,
+        &quot;title&quot;: &quot;Bleed#Hemorrhaging&quot;,
+        &quot;text&quot;: &quot;Hemorrhaging&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Disintegration&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Disintegration&quot;,
+        &quot;title&quot;: &quot;Disintegration&quot;,
+        &quot;text&quot;: &quot;Disintegration&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Improved Deception&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Deception#Improved_Deception&quot;,
+        &quot;title&quot;: &quot;Deception#Improved Deception&quot;,
+        &quot;text&quot;: &quot;Improved Deception&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Attuned to Heroism&quot;,
+    &quot;children&quot;: [
+      {
+        &quot;text&quot;: &quot;Attuned by Heroism: Tier 1&quot;,
+        &quot;children&quot;: [
+          {
+            &quot;text&quot;: &quot;Adds Planar Conflux&quot;,
+            &quot;children&quot;: [],
+            &quot;links&quot;: [
+              {
+                &quot;target&quot;: &quot;/page/Named_item_sets#Planar_Conflux&quot;,
+                &quot;title&quot;: &quot;Named item sets#Planar Conflux&quot;,
+                &quot;text&quot;: &quot;Planar Conflux&quot;
+              }
+            ]
+          }
+        ],
+        &quot;links&quot;: [
+          {
+            &quot;target&quot;: &quot;/page/Attuned_to_Heroism&quot;,
+            &quot;title&quot;: &quot;Attuned to Heroism&quot;,
+            &quot;text&quot;: &quot;Attuned by Heroism: Tier 1&quot;
+          }
+        ]
+      },
+      {
+        &quot;text&quot;: &quot;Attuned by Heroism: Tier 2&quot;,
+        &quot;children&quot;: [
+          {
+            &quot;text&quot;: &quot;+7 Enhancement Bonus \u2192 +8 Enhancement Bonus&quot;,
+            &quot;children&quot;: [],
+            &quot;links&quot;: [
+              {
+                &quot;target&quot;: &quot;/page/Enhancement_bonus&quot;,
+                &quot;title&quot;: &quot;Enhancement bonus&quot;,
+                &quot;text&quot;: &quot;+7 Enhancement Bonus&quot;
+              },
+              {
+                &quot;target&quot;: &quot;/page/Enhancement_bonus&quot;,
+                &quot;title&quot;: &quot;Enhancement bonus&quot;,
+                &quot;text&quot;: &quot;+8 Enhancement Bonus&quot;
+              }
+            ]
+          }
+        ],
+        &quot;links&quot;: [
+          {
+            &quot;target&quot;: &quot;/page/Attuned_to_Heroism&quot;,
+            &quot;title&quot;: &quot;Attuned to Heroism&quot;,
+            &quot;text&quot;: &quot;Attuned by Heroism: Tier 2&quot;
+          }
+        ]
+      },
+      {
+        &quot;text&quot;: &quot;Attuned by Heroism: Tier 3&quot;,
+        &quot;children&quot;: [
+          {
+            &quot;text&quot;: &quot;Hemorrhaging \u2192 Phlebotomizing&quot;,
+            &quot;children&quot;: [],
+            &quot;links&quot;: [
+              {
+                &quot;target&quot;: &quot;/page/Bleed#Hemorrhaging&quot;,
+                &quot;title&quot;: &quot;Bleed#Hemorrhaging&quot;,
+                &quot;text&quot;: &quot;Hemorrhaging&quot;
+              },
+              {
+                &quot;target&quot;: &quot;/page/Bleed#Phlebotomizing&quot;,
+                &quot;title&quot;: &quot;Bleed#Phlebotomizing&quot;,
+                &quot;text&quot;: &quot;Phlebotomizing&quot;
+              }
+            ]
+          }
+        ],
+        &quot;links&quot;: [
+          {
+            &quot;target&quot;: &quot;/page/Attuned_to_Heroism&quot;,
+            &quot;title&quot;: &quot;Attuned to Heroism&quot;,
+            &quot;text&quot;: &quot;Attuned by Heroism: Tier 3&quot;
+          }
+        ]
+      },
+      {
+        &quot;text&quot;: &quot;Attuned by Heroism: Tier 4&quot;,
+        &quot;children&quot;: [
+          {
+            &quot;text&quot;: &quot;Adds Red Augment Slot&quot;,
+            &quot;children&quot;: [],
+            &quot;links&quot;: [
+              {
+                &quot;target&quot;: &quot;/page/Augment_Slot&quot;,
+                &quot;title&quot;: &quot;Augment Slot&quot;,
+                &quot;text&quot;: &quot;Red Augment Slot&quot;
+              }
+            ]
+          }
+        ],
+        &quot;links&quot;: [
+          {
+            &quot;target&quot;: &quot;/page/Attuned_to_Heroism&quot;,
+            &quot;title&quot;: &quot;Attuned to Heroism&quot;,
+            &quot;text&quot;: &quot;Attuned by Heroism: Tier 4&quot;
+          }
+        ]
+      }
+    ],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Attuned_to_Heroism&quot;,
+        &quot;title&quot;: &quot;Attuned to Heroism&quot;,
+        &quot;text&quot;: &quot;Attuned to Heroism&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Mythic Weapon Boost +2 or +4&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Mythic_Boost&quot;,
+        &quot;title&quot;: &quot;Mythic Boost&quot;,
+        &quot;text&quot;: &quot;Mythic Weapon Boost&quot;
+      }
+    ]
+  }
+]</pre>
+      </details>
+    </div>
+
+    <div class="panel">
+      <h2>HTML-Derived Tree (current)
+        <span class="count">8 nodes</span>
+      </h2>
+      <ul class="tree">
+<li class="leaf">+7 Enhancement Bonus</li>
+<li class="leaf">Keen</li>
+<li class="leaf">Entropic</li>
+<li class="leaf">Hemorrhaging</li>
+<li class="leaf">Disintegration</li>
+<li class="leaf">Improved Deception</li>
+<li class="branch">Attuned to Heroism<ul class="tree">
+<li class="branch">Attuned by Heroism: Tier 1<ul class="tree">
+<li class="leaf">Adds Planar Conflux</li>
+</ul></li>
+<li class="branch">Attuned by Heroism: Tier 2<ul class="tree">
+<li class="leaf">+7 Enhancement Bonus → +8 Enhancement Bonus</li>
+</ul></li>
+<li class="branch">Attuned by Heroism: Tier 3<ul class="tree">
+<li class="leaf">Hemorrhaging → Phlebotomizing</li>
+</ul></li>
+<li class="branch">Attuned by Heroism: Tier 4<ul class="tree">
+<li class="leaf">Adds Red Augment Slot</li>
+</ul></li>
+</ul></li>
+<li class="leaf">Mythic Weapon Boost +2 or +4</li>
+</ul>
+      <details>
+        <summary style="color:#888;cursor:pointer;margin-top:10px">JSON</summary>
+        <pre class="code">[
+  {
+    &quot;text&quot;: &quot;+7 Enhancement Bonus&quot;,
+    &quot;tooltip&quot;: &quot;+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Enhancement_bonus&quot;,
+        &quot;title&quot;: &quot;Enhancement bonus&quot;,
+        &quot;text&quot;: &quot;+7 Enhancement Bonus&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Keen&quot;,
+    &quot;tooltip&quot;: &quot;Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Keen&quot;,
+        &quot;title&quot;: &quot;Keen&quot;,
+        &quot;text&quot;: &quot;Keen&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Entropic&quot;,
+    &quot;tooltip&quot;: &quot;Entropic : An entropic weapon crackles with a sinister energy that seeks to unmake anything it contacts. When it strikes a target, they take an extra 2 to 12 points of untyped damage.&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Entropic&quot;,
+        &quot;title&quot;: &quot;Entropic&quot;,
+        &quot;text&quot;: &quot;Entropic&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Hemorrhaging&quot;,
+    &quot;tooltip&quot;: &quot;Hemorrhaging: This weapon is viciously sharp and will do an additional 2 to 16 damage to targets that are vulnerable to bleeding.&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Bleed#Hemorrhaging&quot;,
+        &quot;title&quot;: &quot;Bleed&quot;,
+        &quot;text&quot;: &quot;Hemorrhaging&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Disintegration&quot;,
+    &quot;tooltip&quot;: &quot;Disintegration: This weapon has a dark, insidious power deep within. Occasionally, this power lashes out violently at enemies and attempts to disintegrate them.&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Disintegration&quot;,
+        &quot;title&quot;: &quot;Disintegration&quot;,
+        &quot;text&quot;: &quot;Disintegration&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Improved Deception&quot;,
+    &quot;tooltip&quot;: &quot;Improved Deception: This item makes your weapons hard to focus upon and thus provides a +5 enhancement bonus to Bluff checks. In addition, while using this item your weapons have a chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Deception#Improved_Deception&quot;,
+        &quot;title&quot;: &quot;Deception&quot;,
+        &quot;text&quot;: &quot;Improved Deception&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Attuned to Heroism&quot;,
+    &quot;tooltip&quot;: &quot;This relic is attuned to heroic actions.&quot;,
+    &quot;children&quot;: [
+      {
+        &quot;text&quot;: &quot;Attuned by Heroism: Tier 1&quot;,
+        &quot;tooltip&quot;: null,
+        &quot;children&quot;: [
+          {
+            &quot;text&quot;: &quot;Adds Planar Conflux&quot;,
+            &quot;tooltip&quot;: &quot;Planar Conflux: When this item is equipped at the same time as a Planar Focus, you will gain set bonuses based on the Planar Focus that you have equipped.&quot;,
+            &quot;children&quot;: [],
+            &quot;links&quot;: [
+              {
+                &quot;target&quot;: &quot;/page/Named_item_sets#Planar_Conflux&quot;,
+                &quot;title&quot;: &quot;Named item sets&quot;,
+                &quot;text&quot;: &quot;Planar Conflux&quot;
+              }
+            ]
+          }
+        ],
+        &quot;links&quot;: [
+          {
+            &quot;target&quot;: &quot;/page/Attuned_to_Heroism&quot;,
+            &quot;title&quot;: &quot;Attuned to Heroism&quot;,
+            &quot;text&quot;: &quot;Attuned by Heroism: Tier 1&quot;
+          }
+        ]
+      },
+      {
+        &quot;text&quot;: &quot;Attuned by Heroism: Tier 2&quot;,
+        &quot;tooltip&quot;: null,
+        &quot;children&quot;: [
+          {
+            &quot;text&quot;: &quot;+7 Enhancement Bonus \u2192 +8 Enhancement Bonus&quot;,
+            &quot;tooltip&quot;: &quot;+7 Enhancement Bonus: +7 enhancement bonus to attack and damage rolls.+8 Enhancement Bonus: +8 enhancement bonus to attack and damage rolls.&quot;,
+            &quot;children&quot;: [],
+            &quot;links&quot;: [
+              {
+                &quot;target&quot;: &quot;/page/Enhancement_bonus&quot;,
+                &quot;title&quot;: &quot;Enhancement bonus&quot;,
+                &quot;text&quot;: &quot;+7 Enhancement Bonus&quot;
+              },
+              {
+                &quot;target&quot;: &quot;/page/Enhancement_bonus&quot;,
+                &quot;title&quot;: &quot;Enhancement bonus&quot;,
+                &quot;text&quot;: &quot;+8 Enhancement Bonus&quot;
+              }
+            ]
+          }
+        ],
+        &quot;links&quot;: [
+          {
+            &quot;target&quot;: &quot;/page/Attuned_to_Heroism&quot;,
+            &quot;title&quot;: &quot;Attuned to Heroism&quot;,
+            &quot;text&quot;: &quot;Attuned by Heroism: Tier 2&quot;
+          }
+        ]
+      },
+      {
+        &quot;text&quot;: &quot;Attuned by Heroism: Tier 3&quot;,
+        &quot;tooltip&quot;: null,
+        &quot;children&quot;: [
+          {
+            &quot;text&quot;: &quot;Hemorrhaging \u2192 Phlebotomizing&quot;,
+            &quot;tooltip&quot;: &quot;Hemorrhaging: This weapon is viciously sharp and will do an additional 2 to 16 damage to targets that are vulnerable to bleeding.Phlebotomizing: This weapon is wickedly sharp and will do an additional 3 to 24 damage to targets that are vulnerable to bleeding.&quot;,
+            &quot;children&quot;: [],
+            &quot;links&quot;: [
+              {
+                &quot;target&quot;: &quot;/page/Bleed#Hemorrhaging&quot;,
+                &quot;title&quot;: &quot;Bleed&quot;,
+                &quot;text&quot;: &quot;Hemorrhaging&quot;
+              },
+              {
+                &quot;target&quot;: &quot;/page/Bleed#Phlebotomizing&quot;,
+                &quot;title&quot;: &quot;Bleed&quot;,
+                &quot;text&quot;: &quot;Phlebotomizing&quot;
+              }
+            ]
+          }
+        ],
+        &quot;links&quot;: [
+          {
+            &quot;target&quot;: &quot;/page/Attuned_to_Heroism&quot;,
+            &quot;title&quot;: &quot;Attuned to Heroism&quot;,
+            &quot;text&quot;: &quot;Attuned by Heroism: Tier 3&quot;
+          }
+        ]
+      },
+      {
+        &quot;text&quot;: &quot;Attuned by Heroism: Tier 4&quot;,
+        &quot;tooltip&quot;: null,
+        &quot;children&quot;: [
+          {
+            &quot;text&quot;: &quot;Adds Red Augment Slot&quot;,
+            &quot;tooltip&quot;: &quot;Red and Colorless&quot;,
+            &quot;children&quot;: [],
+            &quot;links&quot;: [
+              {
+                &quot;target&quot;: &quot;/page/Augment_Slot&quot;,
+                &quot;title&quot;: &quot;Augment Slot&quot;,
+                &quot;text&quot;: &quot;Red Augment Slot&quot;
+              }
+            ]
+          }
+        ],
+        &quot;links&quot;: [
+          {
+            &quot;target&quot;: &quot;/page/Attuned_to_Heroism&quot;,
+            &quot;title&quot;: &quot;Attuned to Heroism&quot;,
+            &quot;text&quot;: &quot;Attuned by Heroism: Tier 4&quot;
+          }
+        ]
+      }
+    ],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Attuned_to_Heroism&quot;,
+        &quot;title&quot;: &quot;Attuned to Heroism&quot;,
+        &quot;text&quot;: &quot;Attuned to Heroism&quot;
+      }
+    ]
+  },
+  {
+    &quot;text&quot;: &quot;Mythic Weapon Boost +2 or +4&quot;,
+    &quot;tooltip&quot;: &quot;Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)&quot;,
+    &quot;children&quot;: [],
+    &quot;links&quot;: [
+      {
+        &quot;target&quot;: &quot;/page/Mythic_Boost&quot;,
+        &quot;title&quot;: &quot;Mythic Boost&quot;,
+        &quot;text&quot;: &quot;Mythic Weapon Boost&quot;
+      }
+    ]
+  }
+]</pre>
+      </details>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>Raw Expanded Wikitext</h2>
+    <pre class="code">__NOEDITSECTION__==Agony, the Knife in the Dark==
+
+{| class=&quot;striped&quot; style=&quot;clear: right; border: 1px #CCFF99 solid; margin: 4px; width: 100%; --bg-color-1:&amp;#35;CCFF99;--bg-color-1-dark:&amp;#35;3D5F1A;--bg-color-2:&amp;#35;EEFFCC;--bg-color-2-dark:&amp;#35;272F17;--header-color:&amp;#35;CCFF99;--header-color-dark:&amp;#35;3D5F1A;&quot;
+|-
+! class=&quot;bg-color-1&quot; style=&quot;background-color: #CCFF99; width: 15%;&quot;|Proficiency Class
+| class=&quot;bg-color-2&quot; style=&quot;background-color: #EEFFCC; width: 42.5%;&quot;|Simple Weapon Proficiency
+! class=&quot;bg-color-2&quot; rowspan=&quot;19&quot; style=&quot;background:#EEFFCC;&quot; width=&quot;42.5%&quot; align=center|[[File:Agony, the Knife in the Dark shown.jpg|420px]]
+|- 
+! class=&quot;bg-color-1&quot; style=&quot;background-color: #CCFF99;&quot; |Accepts Sentience?
+| class=&quot;bg-color-2&quot; style=&quot;background-color: #EEFFCC;&quot; |Yes[[Category:Sentience accepting weapons]]
+|-
+! class=&quot;bg-color-1&quot; style=&quot;background-color: #CCFF99;&quot; |Damage and Type
+| class=&quot;bg-color-2&quot; style=&quot;background-color: #EEFFCC;&quot;|3.60[2d4] + 7 Pierce, Magic
+|-
+! class=&quot;bg-color-1&quot; style=&quot;background-color: #CCFF99;&quot; |[[Threat range|Critical threat range]] 
+| class=&quot;bg-color-2&quot; style=&quot;background-color: #EEFFCC;&quot;|17-20 / x2
+|-
+! class=&quot;bg-color-1&quot; style=&quot;background-color: #CCFF99;&quot; |Weapon Type
+| class=&quot;bg-color-2&quot; style=&quot;background-color: #EEFFCC;&quot;|&#x27;&#x27;&#x27;[[Dagger]]&#x27;&#x27;&#x27; / Piercing weapons
+|-
+! class=&quot;bg-color-1&quot; style=&quot;background:#CF9&quot; | Race Absolutely Required
+| class=&quot;bg-color-2&quot; style=&quot;background:#EFC&quot; | [[None]]
+|-
+! class=&quot;bg-color-1&quot; style=&quot;background-color: #CCFF99;&quot; | Minimum Level
+| class=&quot;bg-color-2&quot; style=&quot;background-color: #EEFFCC;&quot; | 23[[Category:Minimum level 23 weapons]]
+|- 
+! class=&quot;bg-color-1&quot; style=&quot;background:#CF9&quot; |Required Trait
+| class=&quot;bg-color-2&quot; style=&quot;background:#EFC&quot; |None
+|- 
+! class=&quot;bg-color-1&quot; style=&quot;background:#CF9&quot; |[[Use Magical Device]] [[DC]]
+| class=&quot;bg-color-2&quot; style=&quot;background:#EFC&quot; |No UMD needed
+|-
+! class=&quot;bg-color-1&quot; style=&quot;background:#CF9&quot; |Handedness
+| class=&quot;bg-color-2&quot; style=&quot;background:#EFC&quot; |
+|-
+! class=&quot;bg-color-1&quot; style=&quot;background:#CF9&quot; |Attack Mod
+| class=&quot;bg-color-2&quot; style=&quot;background:#EFC&quot;|STR, DEX
+|-
+! class=&quot;bg-color-1&quot; style=&quot;background:#CF9&quot; |Damage Mod
+| class=&quot;bg-color-2&quot; style=&quot;background:#EFC&quot; |STR, DEX
+|-
+! class=&quot;bg-color-1&quot; style=&quot;background:#CF9&quot; |Binding
+| class=&quot;bg-color-2&quot; style=&quot;background:#EFC&quot; |[[Bind|Bound to Character&amp;nbsp;on Acquire]][[Category:Binds to character]][[Category:Binds on acquire]]
+|-
+! class=&quot;bg-color-1&quot; style=&quot;background:#CF9&quot; |Durability
+| class=&quot;bg-color-2&quot; style=&quot;background:#EFC&quot; |180
+|-
+! class=&quot;bg-color-1&quot; style=&quot;background:#CF9&quot; |Made from
+| class=&quot;bg-color-2&quot; style=&quot;background:#EFC&quot; |&lt;templatestyles src=&quot;Popup/styles.css&quot; /&gt;&lt;span class=&quot;popup has_tooltip with-icon basic&quot;&gt;[[:Steel|Steel]][[File:Icon tooltip.png|link=|super|10px]]&lt;span class=&quot;popup tooltip wide left below&quot; style=&quot;text-align: center;&quot;&gt;&#x27;&#x27;&#x27;[[:Steel|Steel]]:&#x27;&#x27;&#x27; &#x27;&#x27;&#x27;Steel&#x27;&#x27;&#x27; is the common metal used to make weapons and armor.&lt;/span&gt;&lt;/span&gt; [[Category:Steel items]] 
+|-
+! class=&quot;bg-color-1&quot; style=&quot;background:#CF9&quot; |Hardness
+| class=&quot;bg-color-2&quot; style=&quot;background:#EFC&quot; |24
+|-
+! class=&quot;bg-color-1&quot; style=&quot;background:#CF9&quot; |Base Value
+| class=&quot;bg-color-2&quot; style=&quot;background:#EFC&quot; |&lt;span style=&quot;display: none;&quot;&gt;0009200200&lt;/span&gt;9,200&lt;span class=&quot;popup has_tooltip with-icon basic&quot;&gt;pp[[File:Icon tooltip.png|link=|super|10px]]&lt;span class=&quot;popup tooltip left below&quot; style=&quot;text-align: center;&quot;&gt;[[Currency|Platinum Piece]]&lt;/span&gt;&lt;/span&gt;&amp;nbsp;2&lt;span class=&quot;popup has_tooltip with-icon basic&quot;&gt;gp[[File:Icon tooltip.png|link=|super|10px]]&lt;span class=&quot;popup tooltip left below&quot; style=&quot;text-align: center;&quot;&gt;[[Currency|Gold Piece]]&lt;/span&gt;&lt;/span&gt;&amp;nbsp;
+|-
+! class=&quot;bg-color-1&quot; style=&quot;background:#CF9&quot; |Weight
+| class=&quot;bg-color-2&quot; style=&quot;background:#EFC&quot; |1.00 lbs
+|-
+! class=&quot;bg-color-1&quot; style=&quot;background:#CF9&quot; |Location
+| class=&quot;bg-color-2&quot; style=&quot;background:#EFC&quot; |&#x27;&#x27;&#x27;[[Caught in the Web]]&#x27;&#x27;&#x27;, End Chest[[Category:Caught in the Web loot]]
+|-
+! class=&quot;bg-color-1&quot; style=&quot;background:#CF9&quot;|Enchantments
+| class=&quot;bg-color-2&quot; style=&quot;background:#EFC&quot;|
+* &lt;span class=&quot;popup has_tooltip with-icon basic&quot;&gt;[[Enhancement bonus|+7 Enhancement Bonus]][[File:Icon tooltip.png|link=|super|10px]]&lt;span class=&quot;popup tooltip wide left below&quot; style=&quot;text-align: center;&quot;&gt;&#x27;&#x27;&#x27;[[Enhancement bonus|+7 Enhancement Bonus]]:&#x27;&#x27;&#x27; +7 [[enhancement bonus]] to [[attack roll|attack]] and [[damage roll]]s.&lt;/span&gt;&lt;/span&gt;
+* &lt;span class=&quot;popup has_tooltip with-icon basic&quot;&gt;[[Keen]][[File:Icon tooltip.png|link=|super|10px]]&lt;span class=&quot;popup tooltip wide left below&quot; style=&quot;text-align: center;&quot;&gt;&#x27;&#x27;&#x27;[[Keen]]:&#x27;&#x27;&#x27; Passive: The base critical [[Threat range|threat range]] of this weapon is doubled. This does not stack with [[Improved Critical]] feat. [[Vorpal Strike]]s by this weapon also bypass all [[Fortification]].&lt;/span&gt;&lt;/span&gt;[[Category:Keen items]]
+* &lt;span class=&quot;popup has_tooltip with-icon basic&quot;&gt;[[Entropic|Entropic ]][[File:Icon tooltip.png|link=|super|10px]]&lt;span class=&quot;popup tooltip wide left below&quot; style=&quot;text-align:</pre>
+  </div>
+</body>
+</html>

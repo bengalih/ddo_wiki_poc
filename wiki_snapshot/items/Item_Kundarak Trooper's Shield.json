@@ -1,0 +1,55 @@
+{
+  "page_title": "Item:Kundarak Trooper's Shield",
+  "page_id": 16598,
+  "revision_id": 631699,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:27:47.254078+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Tower\n  | prof                     = Tower\n  | minlevel                 = 8\n  | bind                     = {{Bind|BtA|boa}}\n  | sb                       = +9\n  | maxdexbonus              = 2\n  | dr                       = 8\n  | acp                      = -9\n  | asf                      = 50\n  | dmg                      = [1d8] + 3\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | durability               = 180\n  | material                 = Steel\n  | hardness                 = 18\n  | basevalue                = 3,204 pp 5 gp\n  | weight                   = 50 lbs\n  | quest                    = The Abandoned Excavation\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|s|3}}\n* {{Heroism}}\n* {{Augment|Purple}}\n  | description              = Now a rarity, these immense shields were once carried by the elite guards of [[House Kundarak]].\n  | pic                      = Kundarak Trooper's Shield shown.jpg\n  | picdesc                  = Kundarak Trooper's Shield.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Tower Shield Proficiency",
+  "material": "Steel",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Heroism",
+      "tooltip": "Heroism: Passive: +2 morale bonus to all your attack rolls, saving throws, and skill checks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Heroism_(enchantment)",
+          "title": "Heroism (enchantment)",
+          "text": "Heroism"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    }
+  ]
+}

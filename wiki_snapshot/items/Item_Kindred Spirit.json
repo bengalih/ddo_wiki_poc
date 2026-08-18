@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Kindred Spirit",
+  "page_id": 67349,
+  "revision_id": 681327,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:26:51.267160+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Kindred Spirit\n  | type                     = Light Armor\n  | feat                     = Light\n  | race                     = Pet\n  | ac                       = +10\n  | maxdexbonus              = 11\n  | acp                      = \n  | asf                      = 10%\n  | durability               = 140\n  | material                 = Leather\n  | hardness                 = 19\n  | minlevel                 = 10\n  | released                 = Update 37\n  | quest                    = Sunrise\n  | chest                    = End chest, Abbot chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | basevalue                = 4,050 pp\n  | weight                   = 30 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Fortification|77}}\n* {{Sheltering|14|Enhancement|Physical}}\n* {{Hp|Vitality|19}}\n* {{Don't Count Me Out!}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Kindred Spirit shown.jpg\n  | picdesc                  = Kindred Spirit.png\n  | description              = This armor is shaped specifically for a Wolf, likely used for guarding the manor of a long-dead lord.\n  | notes                    = This item can only be equipped by [[Pet]]s. As it does not specifically exclude Iron Defenders like most armor, it can be equipped by both Wolves and Iron Defenders, even though Iron Defenders can usually only equip Docents.\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Light Armor Proficiency",
+  "material": "Leather",
+  "armor_type": "Light Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Light",
+  "slot": "Armor",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +77%",
+      "tooltip": "Fortification +77%: +77% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +77%"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +14",
+      "tooltip": "Physical Sheltering +14: +14 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +14"
+        }
+      ]
+    },
+    {
+      "text": "Vitality +19",
+      "tooltip": "Vitality +19: Passive: +19 Vitality bonus to Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vitality",
+          "title": "Vitality",
+          "text": "Vitality +19"
+        }
+      ]
+    },
+    {
+      "text": "Don't Count Me Out!",
+      "tooltip": "Don't Count Me Out!: You gain a +400 Enhancement Bonus to Unconsciousness Range.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Don%27t_Count_Me_Out!",
+          "title": "Don't Count Me Out!",
+          "text": "Don't Count Me Out!"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

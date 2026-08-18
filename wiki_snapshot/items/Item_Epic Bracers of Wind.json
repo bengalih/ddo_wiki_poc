@@ -1,0 +1,242 @@
+{
+  "page_title": "Item:Epic Bracers of Wind",
+  "page_id": 19521,
+  "revision_id": 629857,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:45:00.537678+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = {{Item|Bracers of Wind|Epic Bracers of Wind}}\n  | type                     = Bracers\n  | minlevel                 = 20\n  | slot                     = Wrist\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 210\n  | material                 = Leather\n  | hardness                 = 26\n  | basevalue                = 8005pp\n  | weight                   = 0.10 lbs\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various ingredients\n  | mythic                   = no\n  | enhancements             = \n{{VaultsOfTheArtificersUpgrade}}\n  | crafting                 = Vaults of the Artificers\n  | craftingupgrade          = <!--yes-->\n  | description              = Bracers empowered by a bound Air Elemental. They surround you with a windy aura that deflects missiles occasionally, makes you harder to hit, and boosts the power of your electric spells.\n  | pic                      = Bracers Generic Wind.png\n  | picdesc                  = Epic Bracers of Wind (tier 1).png\n  | tips                     =\n* {{Popup|Tier 2|[[Image:Epic Bracers of Wind (tier 2).png|452 px]]|long=y}}\n* {{Popup|Tier 3|[[Image:Epic Bracers of Wind (tier 3).png|452 px]]|long=y}} BUG: T3 adds useless 2nd Lightning Lore +18% effect.\n}}\n[[Category:Epic_items]]\n[[Category:Cannith Challenge epic items]]",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": "Upgradeable - Tier 1: This item is a Tier 1 upgradable item.",
+      "children": [
+        {
+          "text": "Magnetism +110",
+          "tooltip": "Magnetism +110: Passive: +110 Equipment bonus to Electricity Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Magnetism",
+              "title": "Magnetism",
+              "text": "Magnetism +110"
+            }
+          ]
+        },
+        {
+          "text": "Lightning Lore +16%",
+          "tooltip": "Lightning Lore +16: Passive: Your Electricity spells gain a 16% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Lightning Lore +16%"
+            }
+          ]
+        },
+        {
+          "text": "Blurry",
+          "tooltip": "Blurry: Equipping this item causes you to become slightly blurry. Attacks from enemies have a 20% chance to miss you due to concealment.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Blurry",
+              "title": "Blurry",
+              "text": "Blurry"
+            }
+          ]
+        },
+        {
+          "text": "Dodge +9%",
+          "tooltip": "Dodge +9%: +9% Enhancement bonus to Dodge.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Dodge_bonus",
+              "title": "Dodge bonus",
+              "text": "Dodge +9%"
+            }
+          ]
+        },
+        {
+          "text": "Air Guard",
+          "tooltip": "Air Guard: This Weapon stores the incredible, dynamic power of the air deep within. When the user of this weapon is successfully attacked in melee, this power occasionally comes to the surface, knocking enemies over or speeding up the wearer with rushing winds.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Air_Guard",
+              "title": "Air Guard",
+              "text": "Air Guard"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": "Upgradeable - Tier 2: This item is a Tier 2 upgradable item.",
+      "children": [
+        {
+          "text": "Magnetism +110 → Magnetism +116",
+          "tooltip": "Magnetism +110: Passive: +110 Equipment bonus to Electricity Spell Power.Magnetism +116: Passive: +116 Equipment bonus to Electricity Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Magnetism",
+              "title": "Magnetism",
+              "text": "Magnetism +110"
+            },
+            {
+              "target": "/page/Magnetism",
+              "title": "Magnetism",
+              "text": "Magnetism +116"
+            }
+          ]
+        },
+        {
+          "text": "Lightning Lore +16% → Lightning Lore +17%",
+          "tooltip": "Lightning Lore +16: Passive: Your Electricity spells gain a 16% Equipment bonus to their chance to critical hit.Lightning Lore +17: Passive: Your Electricity spells gain a 17% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Lightning Lore +16%"
+            },
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Lightning Lore +17%"
+            }
+          ]
+        },
+        {
+          "text": "Dodge +9% → Dodge +10%",
+          "tooltip": "Dodge +9%: +9% Enhancement bonus to Dodge. Dodge +10%: +10% Enhancement bonus to Dodge.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Dodge_bonus",
+              "title": "Dodge bonus",
+              "text": "Dodge +9%"
+            },
+            {
+              "target": "/page/Dodge_bonus",
+              "title": "Dodge bonus",
+              "text": "Dodge +10%"
+            }
+          ]
+        },
+        {
+          "text": "Adds Colorless Augment Slot",
+          "tooltip": "Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Colorless Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This item is a Tier 3 upgradable item.",
+      "children": [
+        {
+          "text": "Magnetism +116 → Magnetism +122",
+          "tooltip": "Magnetism +116: Passive: +116 Equipment bonus to Electricity Spell Power.Magnetism +122: Passive: +122 Equipment bonus to Electricity Spell Power.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Magnetism",
+              "title": "Magnetism",
+              "text": "Magnetism +116"
+            },
+            {
+              "target": "/page/Magnetism",
+              "title": "Magnetism",
+              "text": "Magnetism +122"
+            }
+          ]
+        },
+        {
+          "text": "Lightning Lore +17% → Lightning Lore +18%",
+          "tooltip": "Lightning Lore +17: Passive: Your Electricity spells gain a 17% Equipment bonus to their chance to critical hit.Lightning Lore +18: Passive: Your Electricity spells gain a 18% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Lightning Lore +17%"
+            },
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Lightning Lore +18%"
+            }
+          ]
+        },
+        {
+          "text": "Dodge +10% → Dodge +11%",
+          "tooltip": "Dodge +10%: +10% Enhancement bonus to Dodge. Dodge +11%: +11% Enhancement bonus to Dodge.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Dodge_bonus",
+              "title": "Dodge bonus",
+              "text": "Dodge +10%"
+            },
+            {
+              "target": "/page/Dodge_bonus",
+              "title": "Dodge bonus",
+              "text": "Dodge +11%"
+            }
+          ]
+        },
+        {
+          "text": "Adds Green Augment Slot",
+          "tooltip": "Blue, Green, Yellow, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Green Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

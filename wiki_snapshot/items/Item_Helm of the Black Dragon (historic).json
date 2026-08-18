@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Helm of the Black Dragon (historic)",
+  "page_id": 11426,
+  "revision_id": 631422,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:20:10.755931+00:00",
+  "categories": [],
+  "wikitext": "{{History||type=Item|replaced={{Item|Helm of the Black Dragon}}}}\n{{Named item|Clothing\n  | name                     = {{Item|Helm of the Black Dragon}}\n  | type                     = Helm\n  | class                    = Clothing\n  | basevalue                = 4,920 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Head\n  | durability               = 80\n  | material                 = Leather\n  | hardness                 = 17\n  | minlevel                 = 13\n  | bind                     = {{Bind|no}}\n  | quest                    = Gianthold Tor\n  | chest                    = [[Rhindvutha|Black Dragon]]'s chest\n  | end reward               = \n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Black Dragon Bolt (Item Effect)|3|1|label=Black Dragon Bolt}}\n* {{Stat|DEX|5}}\n  | description              = This helm is crafted in the likeness of a fearsome black dragon.\n  | pic                      = Helm of the Black Dragon shown.jpg\n  | picdesc                  = Helm of the Black Dragon (historic).png\n  | tips                     = The clicky [[Black Dragon Bolt (Item Effect)|Black Dragon Bolt]] currently functions in a different manner than the level 8 [[spell]] of the [[Black Dragon Bolt|same name]].\n}}",
+  "item_template": "History",
+  "material": "Leather",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Black Dragon Bolt — 1 Charges (Recharged/Day:1)",
+      "tooltip": "Black Dragon BoltCaster level: 3Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Black_Dragon_Bolt_(Item_Effect)",
+          "title": "Black Dragon Bolt (Item Effect)",
+          "text": "Black Dragon Bolt"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +5",
+      "tooltip": "Dexterity +5: This item makes the wearer more nimble and dexterous, granting a +5 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +5"
+        }
+      ]
+    }
+  ]
+}

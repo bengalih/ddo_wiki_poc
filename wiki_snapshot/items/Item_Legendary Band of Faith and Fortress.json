@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Legendary Band of Faith and Fortress",
+  "page_id": 108686,
+  "revision_id": 640916,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:30:46.355250+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Legendary Band of Faith and Fortress\n  | minlevel                 = 33\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 430\n  | material                 = Gem\n  | hardness                 = 53\n  | basevalue                = 13,201 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 69\n  | quest                    = Ruins of Myth Drannor\n  | chest                    = [[Yegora]]'s chest, and [[Romira]] and [[Juvian]]'s right chest (requires completion of [[Sleeping with the Fishes]]) \n  | enhancements             = \n* {{Sheltering|9|Quality|Physical}}\n* {{Fortification|156}}\n* {{Hp|False Life|56}}\n* {{Temperance of Belief}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n  | description              = A golden ring, blessed by divine protection.\n  | tips                     = \n  | pic                      = \n  | picdesc                  = Legendary Band of Faith and Fortress.png\n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 33,
+  "enchantments": [
+    {
+      "text": "Quality Physical Sheltering +9",
+      "tooltip": "Quality Physical Sheltering +9: +9 Quality bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Quality Physical Sheltering +9"
+        }
+      ]
+    },
+    {
+      "text": "Fortification +156%",
+      "tooltip": "Fortification +156%: +156% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +156%"
+        }
+      ]
+    },
+    {
+      "text": "False Life +56",
+      "tooltip": "False Life +56: +56 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +56"
+        }
+      ]
+    },
+    {
+      "text": "Temperance of Belief",
+      "tooltip": "Temperance of Belief: You have a +1 quality bonus to Magical Resistance Rating per Religious Lore feat.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Temperance_of_Belief",
+          "title": "Temperance of Belief",
+          "text": "Temperance of Belief"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "page_title": "Item:Green Steel Dwarven Waraxe",
+  "page_id": 17648,
+  "revision_id": 631260,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:16:07.494556+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Green Steel Dwarven Waraxe\n  | damage                   = 1.50[1d10] + 5 Slash, Evil, Magic\n  | crit                     = 20 / x3\n  | type                     = Dwarven War Axe\n  | hand                     = One-handed\n  | class                    = Slashing\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | minlevel                 = 12\n  | prof                     = Exotic\n  | durability               = 135\n  | material                 = Steel\n  | hardness                 = 25\n  | quest                    = Altar of Fecundity\n  | chest                    = [[Altar of Fecundity - Manufactured Ingredient Recipes|Manufactured Ingredient Recipes]]\n  | basevalue                = 5,403 pp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|5}}\n* {{CraftingEffects|Green Steel}}\n  | crafting                 = Green Steel\n  | craftingupgrade          = <!-- yep -->\n  | pic                      = Green Steel Dwarven Waraxe shown.jpg\n  | picdesc                  = Green Steel Dwarven Waraxe.png\n  | description              = This axe is too large to be used in one hand without the special training that all dwarven warriors receive.\n  | tips                     = \n'''+5 Green Steel Dwarven Axe'''\n{{Greensteel material|oot|yt|wb|ss|l}}\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Dwarven War Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Green Steel",
+      "tooltip": "Green Steel: This planar alloy has a greasy green-colored sheen and is favored by the Baatezu the devils of Shavarath. Green steel weapons leave terrible wounds, increasing the damage die type of the weapon and are treated as evil-aligned for the purpose of bypassing damage reduction.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Green_Steel",
+          "title": "Green Steel",
+          "text": "Green Steel"
+        }
+      ]
+    }
+  ]
+}

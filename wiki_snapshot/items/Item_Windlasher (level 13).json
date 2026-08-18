@@ -1,0 +1,79 @@
+{
+  "page_title": "Item:Windlasher (level 13)",
+  "page_id": 36328,
+  "revision_id": 649866,
+  "revision_timestamp": "2025-07-26T19:12:50Z",
+  "fetched_at": "2026-08-17T23:26:55.550372+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = {{Item|Windlasher}}\n  | type                     = Falchion\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | minlevel                 = 13\n  | bind                     = {{Bind|BtC|BoE}}\n  | damage                   = 1.25[2d4] + 5 Slash, Magic\n  | crit                     = 18-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 220\n  | material                 = Steel\n  | hardness                 = 18\n  | basevalue                = 5,207pp 5gp\n  | weight                   = 8 lbs\n  | released                 = Update 17\n  | quest                    = The Crucible\n  | chest                    = [[Daggertooth]]'s chest (Heroic Hard)\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Screaming}}\n* {{ItemGrantedFeat|Weapon Focus: Falchion}}\n* {{Augment|Red}}\n  | description              = This blade is infused with the power and knowledge of a thousand gnolls who gave their lives for the [[Windlasher Gnoll sub-race|Windlasher clan]]. It cuts through armor with an eerie wailing screech.\n  | pic                      = Windlasher shown.jpg\n  | picdesc                  = Windlasher (Level 13).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Falchion",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Screaming",
+      "tooltip": "Screaming: Screaming weapons emit a piercing screech whenever they are used to make a successful attack. This screech does an additional 1 to 6 sonic damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Screaming",
+          "title": "Screaming",
+          "text": "Screaming"
+        }
+      ]
+    },
+    {
+      "text": "Weapon Focus: Falchion",
+      "tooltip": "Weapon Focus: Falchion: While equipped this item gives you the feat Weapon Focus: Slashing but only for Falchions, giving a +1 to your attack bonus while using Falchions.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Weapon_Focus:_Falchion",
+          "title": "Weapon Focus: Falchion",
+          "text": "Weapon Focus: Falchion"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Mantle of the Dragonfriend (level 25)",
+  "page_id": 33141,
+  "revision_id": 649550,
+  "revision_timestamp": "2025-07-26T19:12:41Z",
+  "fetched_at": "2026-08-17T22:22:53.717457+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Mantle of the Dragonfriend}}\n  | type                     = Cloak\n  | class                    = Clothing\n  | slot                     = Back\n  | durability               = 260\n  | material                 = Leather \n  | hardness                 = 35\n  | basevalue                = 10,020pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 25\n  | bind                     = {{Bind|BtC|BoE}}\n  | released                 = Update 17\n  | quest                    = Return to Gianthold Tor\n  | chest                    = [[Yorgulhar|Blue Dragon]]'s chest (Epic Elite)\n  | end reward               = \n  | enhancements             = \n* {{Stat|CHA|8}}\n* {{Skills|diplo|20}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = The secrets of the dragons of Argonnessen are woven into this cloak's shimmering fabric. It must have been a goodwill gift in times long past. Upon close inspection, the fabric seems to have been cut from a larger article of clothing and re-sewn by modern hands.\n  | pic                      = Mantle of the Dragonfriend Shown.jpg\n  | picdesc                  = Mantle of the Dragonfriend (Level 25).png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 25,
+  "enchantments": [
+    {
+      "text": "Charisma +8",
+      "tooltip": "Charisma +8: This item makes the wearer have more flair, granting a +8 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +8"
+        }
+      ]
+    },
+    {
+      "text": "Diplomacy +20",
+      "tooltip": "Diplomacy +20: Passive: +20 Competence bonus to the Diplomacy skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Diplomacy",
+          "title": "Diplomacy",
+          "text": "Diplomacy +20"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

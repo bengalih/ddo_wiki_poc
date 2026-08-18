@@ -1,0 +1,41 @@
+{
+  "page_title": "Item:Minotaur Hair Belt",
+  "page_id": 10514,
+  "revision_id": 633499,
+  "revision_timestamp": "2025-04-22T02:17:36Z",
+  "fetched_at": "2026-08-17T22:25:21.985427+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Minotaur Hair Belt\n  | basevalue                = 2,005 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | type                     = Belt\n  | durability               = 60\n  | material                 = Leather\n  | hardness                 = 7\n  | bind                     = {{Bind|BtC|boe}}\n  | minlevel                 = 5\n  | quest                    = Gwylan's Stand\n  | chest                    = [[Crippler Bigfoot]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|bal|7}}\n* {{Augment|Yellow}}\n  | description              = A thick belt woven of coarse hair that increases its wearer's balance. \n  | pic                      = Belt Generic Hair.png\n  | picdesc                  = Minotaur Hair Belt.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 5,
+  "enchantments": [
+    {
+      "text": "Balance +7",
+      "tooltip": "Balance +7: Passive: +7 Competence bonus to the Balance skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Balance",
+          "title": "Balance",
+          "text": "Balance +7"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Greaves of Seasons' Warding",
+  "page_id": 108613,
+  "revision_id": 685217,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:15:48.336563+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Greaves of Seasons' Warding\n  | type                     = Boots\n  | basevalue                = 5,201 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 230\n  | material                 = Leather\n  | hardness                 = 33\n  | minlevel                 = 13\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 69\n  | quest                    = Portal to Below\n  | end reward               = \n  | chest                    = end chest\n  | enhancements             = \n* {{Absorption|Fire|22}}\n* {{Absorption|Cold|22}}\n* {{Absorption|Electricity|22}}\n* {{Absorption|Acid|22}}\n* {{Augment|Blue}}\n* {{Augment|Moon}}\n  | epic                     = no\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Made to withstand the harshest of any season, these aged boots show no wear.\n  | pic                      = \n  | picdesc                  = Greaves of Seasons' Warding.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Fire Absorption +22%",
+      "tooltip": "Fire Absorption +22%: Passive: 22% Enhancement Bonus to Fire Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Fire Absorption +22%"
+        }
+      ]
+    },
+    {
+      "text": "Cold Absorption +22%",
+      "tooltip": "Cold Absorption +22%: Passive: 22% Enhancement Bonus to Cold Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Cold Absorption +22%"
+        }
+      ]
+    },
+    {
+      "text": "Electric Absorption +22%",
+      "tooltip": "Electric Absorption +22%: Passive: 22% Enhancement Bonus to Electric Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Electric Absorption +22%"
+        }
+      ]
+    },
+    {
+      "text": "Acid Absorption +22%",
+      "tooltip": "Acid Absorption +22%: Passive: 22% Enhancement Bonus to Acid Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Acid Absorption +22%"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Moon Augment Slot",
+      "tooltip": "Moon",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Moon Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Boot Boost +1 or +3",
+      "tooltip": "Mythic Boot Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Boot Boost"
+        }
+      ]
+    }
+  ]
+}

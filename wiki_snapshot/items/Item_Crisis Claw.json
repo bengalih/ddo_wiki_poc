@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Crisis Claw",
+  "page_id": 113762,
+  "revision_id": 678681,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:27:58.304676+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Crisis Claw\n  | prof                     = Martial\n  | sentience                = \n  | damage                   = 1.60[1d6] + 5 Pierce, Magic\n  | crit                     = 20 / x4\n  | type                     = Heavy Pick\n  | class                    = Piercing\n  | race                     = \n  | minlevel                 = 13\n  | reqtrait                 = <!-- Leave blank if not used-->\n  | UMD DC                   = <!-- Leave blank if not used-->\n  | hand                     = One-handed\n  | attackmod                = STR\n  | damagemod                = STR\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 195\n  | material                 = Steel\n  | hardness                 = 23\n  | cost                     = 5200pp 8gp\n  | weight                   = 6 lbs\n  | released                 = Update 73\n  | quest                    = Dinosaur Crisis\n  | chest                    = end chest\n  | rare                     = yes\n  | epic                     = no\n  | legendary                = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Entropic|3}}\n* {{Maiming|3}}\n* {{Armor-Piercing|11}}\n* {{Destruction|Improved}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Crisis Claw shown.jpg\n  | picdesc                  = Crisis Claw.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Heavy Pick",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Entropic 3",
+      "tooltip": "Entropic 3: This weapon is intensely powerful, and crackles with destructive, unpredictable magic. It deals an additional 3d6 untyped damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Entropic",
+          "title": "Entropic",
+          "text": "Entropic 3"
+        }
+      ]
+    },
+    {
+      "text": "Maiming 3",
+      "tooltip": "Maiming: This weapon has a twisted haft or grip and spikes along its blade, head, or point. When you score a critical hit with this weapon, it does an additional +3d8 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maiming",
+          "title": "Maiming",
+          "text": "Maiming 3"
+        }
+      ]
+    },
+    {
+      "text": "Armor-Piercing 11%",
+      "tooltip": "Armor-Piercing 11%: Passive: +11% Enhancement bonus to Fortification Bypass. (Fortification Bypass makes your attacks ignore a percentage of enemy Fortification.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor-Piercing",
+          "title": "Armor-Piercing",
+          "text": "Armor-Piercing 11%"
+        }
+      ]
+    },
+    {
+      "text": "Improved Destruction",
+      "tooltip": "Improved Destruction: On Hit: Your target gains a stack of Armor Destruction. (-1 penalty to Armor Class, -1% of its Fortification. 20 Second Duration. Stacks up to 15 times.) This effect may trigger once every second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Improved_Destruction",
+          "title": "Improved Destruction",
+          "text": "Improved Destruction"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

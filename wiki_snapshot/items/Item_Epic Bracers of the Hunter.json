@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Epic Bracers of the Hunter",
+  "page_id": 10392,
+  "revision_id": 629869,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:45:04.574863+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Epic Bracers of the Hunter\n  | type                     = Bracers\n  | class                    = Jewelry\n  | basevalue                = 8,020 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Wrist\n  | durability               = 210\n  | material                 = Steel\n  | hardness                 = 30\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Sands of Menechtarun\n  | epic                     = Bracers of the Hunter\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|hide|17}}\n* {{Deception|3|Insight}}\n* {{Diversion|15|Distant}}\n* {{Save|r|9}}\n* {{Augment|Colorless}}\n* {{Augment|Green}}\n* {{Named item sets|The Epic Desert's Burning Sun}}\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Bracers of the Hunter\n  | description              = Powerful shamans and clerics of Vulkoor work together to create these scorpion-shell bracers to honor a clan's favored hunters. Although rare even among the drow tribes, a few pairs of these bracers have made their way into the hands of explorers, often through deadly combat with the chosen of Vulkoor.\n  | pic                      = Bracers Generic.png\n  | picdesc                  = Epic Bracers of the Hunter.png\n  | tips                     = \n  | revamped                 = Update 59\n}}\n[[Category:Sands of Menechtarun epic items]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Bracers",
+  "item_class": "Jewelry",
+  "slot": "Wrist",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Hide +17",
+      "tooltip": "Hide +17: Passive: +17 Competence bonus to the Hide skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hide",
+          "title": "Hide",
+          "text": "Hide +17"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Deception +3",
+      "tooltip": "Insightful Deception +3: +3 Insight bonus to hit and +5 to damage for any hit that would qualify as a sneak attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Insightful Deception +3"
+        }
+      ]
+    },
+    {
+      "text": "Distant Diversion +15%",
+      "tooltip": "Distant Diversion +15%: +15% Enhancement bonus to decreased threat generated from ranged damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Diversion",
+          "title": "Diversion",
+          "text": "Distant Diversion +15%"
+        }
+      ]
+    },
+    {
+      "text": "Reflex Save +9",
+      "tooltip": "Reflex Save +9: This item gives a +9 Resistance bonus to your Reflex saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Reflex_save",
+          "title": "Reflex save",
+          "text": "Reflex Save +9"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "The Epic Desert's Burning Sun",
+      "tooltip": "The Epic Desert's Burning Sun: 2 Pieces Equipped:+4% Artifact bonus to Fire Spellcrit Chance+20 Artifact bonus to Fire Spellpower+10 Artifact bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#The_Epic_Desert's_Burning_Sun",
+          "title": "Named item sets",
+          "text": "The Epic Desert's Burning Sun"
+        }
+      ]
+    }
+  ]
+}

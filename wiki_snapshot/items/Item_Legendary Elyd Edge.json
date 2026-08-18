@@ -1,0 +1,163 @@
+{
+  "page_title": "Item:Legendary Elyd Edge",
+  "page_id": 91333,
+  "revision_id": 672679,
+  "revision_timestamp": "2026-01-25T18:52:12Z",
+  "fetched_at": "2026-08-17T21:45:13.276541+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Elyd Edge\n  | minlevel                 = 30\n  | type                     = Rapier\n  | class                    = Piercing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damage                   = 5[1d6+2] + 15 Pierce, Silver, Magic\n  | crit                     = 18-20 / x2\n  | attackmod                = STR, DEX, CHA\n  | damagemod                = STR, DEX, CHA\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 345\n  | material                 = Steel\n  | hardness                 = 38\n  | cost                     = 12,011 pp\n  | weight                   = 2 lbs\n  | released                 = Update 50\n  | revamped                 = Update 76\n  | quest                    = Legendary Crafting\n  | legendary                = Epic Elyd Edge\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|i|15|30}}\n* {{Stat|Charisma|13}}\n* {{Cacophony}}\n* {{Inspiring Echoes}}\n* {{Blast|Sonic|6}}\n* {{Spelllore|Healing|21}}\n* {{SpellPower|Devotion|146}}\n* {{Anthem}}\n* {{Mat|Silver}}, Alchemical\n* {{Augment|Red}}\n* {{Augment|Orange}}\n  | crafting                 = \n  | description              = Elven script on this fine silver blade reads 'Anthem of the heart; Anthem of the mind'.\n  | pic                      = Elyd Edge shown.jpg\n  | picdesc                  = Legendary Elyd Edge.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Rapier",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "Spellcasting Implement +30",
+      "tooltip": "Spellcasting Implement +30: Passive: +30 Implement bonus to Universal Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spellcasting_Implement",
+          "title": "Spellcasting Implement",
+          "text": "Spellcasting Implement +30"
+        }
+      ]
+    },
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +13",
+      "tooltip": "Charisma +13: This item makes the wearer have more flair, granting a +13 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +13"
+        }
+      ]
+    },
+    {
+      "text": "Cacophony",
+      "tooltip": "Cacophony: This weapon stores the power of a hundred blasts of sound within. Occasionally, this resonating power comes to the surface, devastating enemies with massive sonic damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cacophonic_Guard#Cacophony",
+          "title": "Cacophonic Guard",
+          "text": "Cacophony"
+        }
+      ]
+    },
+    {
+      "text": "Inspiring Echoes",
+      "tooltip": "Inspiring Echoes: When a bard wields this item, Anthem abilities that restore Bard songs over time restore them 40% faster (for example, an ability that restores a Song every 5 minutes would restore one song per 3 minutes instead).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Inspiring_Echoes",
+          "title": "Inspiring Echoes",
+          "text": "Inspiring Echoes"
+        }
+      ]
+    },
+    {
+      "text": "Sonic Blast 6",
+      "tooltip": "Sonic Blast 6: This weapon rings with the power of sound, dealing 6d6 Sonic damage on a successful hit, and an additional 6d6 Sonic damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blast_(enchantment)",
+          "title": "Blast (enchantment)",
+          "text": "Sonic Blast 6"
+        }
+      ]
+    },
+    {
+      "text": "Healing Lore +21%",
+      "tooltip": "Healing Lore +21: Passive: Your Positive Energy spells gain a 21% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Healing Lore +21%"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +146",
+      "tooltip": "Devotion +146: Passive: +146 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +146"
+        }
+      ]
+    },
+    {
+      "text": "Anthem",
+      "tooltip": "Anthem: When equipped by a character with Bard levels, this item begins to hum an inspiring tune. Your bard songs regenerate slowly over time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Anthem_(item_enchantment)",
+          "title": "Anthem (item enchantment)",
+          "text": "Anthem"
+        }
+      ]
+    },
+    {
+      "text": "Silver , Alchemical",
+      "tooltip": "Silver: A complex process involving metallurgy and alchemy can bond silver to a weapon made of steel so that it bypasses the damage reduction of creatures such as devils and vampires. Silver weapons have 2 points lower hardness then equivalent steel weapons, and as such aren't quite as durable.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Silver",
+          "title": "Silver",
+          "text": "Silver"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    }
+  ]
+}

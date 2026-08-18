@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Skiver",
+  "page_id": 10175,
+  "revision_id": 671152,
+  "revision_timestamp": "2026-01-08T22:51:51Z",
+  "fetched_at": "2026-08-17T23:00:24.096744+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Skiver\n  | type                     = Dagger\n  | hand                     = One-handed\n  | class                    = Piercing\n  | prof                     = Simple\n  | minlevel                 = 14\n  | bind                     = {{Bind|BtC|BoA}}\n  | damage                   = 1.80[1d4] + 5 Slash, Pierce, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | durability               = 180\n  | material                 = Steel\n  | hardness                 = 29\n  | basevalue                = 5600.2pp\n  | weight                   = 1.00 lbs\n  | quest                    = Tome of Untold Legends\n  | turn in                  = completed Tome: Binding\n  | revamped                 = Update 76\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Wizardry|AM}}\n* {{Spelllore|Spell|vi}}\n* {{Efficient Metamagic|Extend|1}}\n* {{Efficient Metamagic|Empower|2}}\n* {{Augment|Red}}\n  | pic                      = Skiver shown.jpg\n  | picdesc                  = Skiver.png\n  | description              = With this dagger, an unknown assassin slew the first leader of The Twelve in Stormreach. A pile of ash, thought to be his killer, was next to his body, the full height of his power having been transferred to the blade.\n  | tips                     = Weapon effects upgraded in Update 17. Pre-Update 17 versions were not retroactively updated and have to be reacquired.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Archmagi",
+      "tooltip": "Archmagi: This item grants the wearer +200 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Archmagi"
+        }
+      ]
+    },
+    {
+      "text": "Spell Lore VI",
+      "tooltip": "Spell Lore VI: Passive: All of your spells gain a 6% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Spell Lore VI"
+        }
+      ]
+    },
+    {
+      "text": "Efficient Metamagic - Extend I",
+      "tooltip": "Efficient Metamagic - Extend I: The additional spell point cost for using the Extend Metamagic feat is reduced by 1 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Extend I"
+        }
+      ]
+    },
+    {
+      "text": "Efficient Metamagic - Empower II",
+      "tooltip": "Efficient Metamagic - Empower II: The additional spell point cost for using the Empower Metamagic feat is reduced by 2 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Empower II"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Tail of the Scorpion",
+  "page_id": 68873,
+  "revision_id": 635244,
+  "revision_timestamp": "2025-04-22T04:14:57Z",
+  "fetched_at": "2026-08-17T23:11:02.320006+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Tail of the Scorpion\n  | damage                   = 2.30[2d4] + 5 Slash, Silver, Adamantine, Mithral, Cold Iron, Magic, Byeshk\n  | crit                     = 15-20 / x2\n  | type                     = Falchion\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | attackmod                = STR\n  | damagemod                = STR\n  | prof                     = Martial\n  | durability               = 230\n  | material                 = Steel\n  | hardness                 = 24\n  | minlevel                 = 14\n  | bind                     = {{Bind|BtA|BoA}}\n  | basevalue                = 5607pp 5gp\n  | weight                   = 8 lbs\n  | released                 = Update 38\n  | quest                    = Toxic Treatment\n  | chest                    = End chest\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Poisonous|3}}\n* {{Mat|Metalline}}\n* {{Keen|I}}\n* {{Vorpal}}\n* {{Augment|Red}}\n* {{Named item sets|Wayward Warrior}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This falchion stings those it wounds in a way that won't soon fade.\n  | pic                      = Legendary Tail of the Scorpion shown.jpg\n  | picdesc                  = Tail of the Scorpion.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Falchion",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Poisonous 3",
+      "tooltip": "Poisonous 3: This effect causes the edges of this weapon to drip with a vile venom, dealing 3d6 poison damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Poisonous",
+          "title": "Poisonous",
+          "text": "Poisonous 3"
+        }
+      ]
+    },
+    {
+      "text": "Metalline",
+      "tooltip": "Metalline: Metalline bypasses any metal based damage reduction. (Adamantine, \"Alchemical, Silver\", Byeshk, Cold Iron, Mithral)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Metalline",
+          "title": "Metalline",
+          "text": "Metalline"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Vorpal",
+      "tooltip": "Vorpal: Passive: +0.5[W] damage dice.On Vorpal Hit: If your target has fewer than 1000 Hit Points, they are instantly slain. If your target has above 1000 Hit Points, they take 100 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vorpal#Vorpal",
+          "title": "Vorpal",
+          "text": "Vorpal"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Wayward Warrior",
+      "tooltip": "Wayward Warrior: 2 Pieces Equipped:+2 Artifact Bonus to Natural Armor+1 Artifact Bonus to Constitution",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Wayward_Warrior",
+          "title": "Named item sets",
+          "text": "Wayward Warrior"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

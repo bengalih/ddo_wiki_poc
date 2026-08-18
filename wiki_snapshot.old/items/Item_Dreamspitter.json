@@ -1,0 +1,140 @@
+{
+  "page_title": "Item:Dreamspitter",
+  "page_id": 7977,
+  "revision_id": 690590,
+  "revision_timestamp": "2026-06-30T15:59:28Z",
+  "fetched_at": "2026-08-17T04:13:01.904591+00:00",
+  "categories": [],
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Greater Evil Outsider Bane",
+      "tooltip": "Greater Evil Outsider Bane: A bane weapon excels at attacking one type or subtype of creature. Against Evil Outsiders, this weapon's effective enhancement bonus is +4 better than its normal enhancement bonus. It deals an extra 3 to 18 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Greater Evil Outsider Bane"
+        }
+      ]
+    },
+    {
+      "text": "Life Stealing",
+      "tooltip": "Life Stealing: This weapon has a chance to drain 1 to 3 levels from its target on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Life_Stealing",
+          "title": "Life Stealing",
+          "text": "Life Stealing"
+        }
+      ]
+    },
+    {
+      "text": "Enchantment Focus II",
+      "tooltip": "Enchantment Focus II: +2 Equipment bonus to the DC of Enchantment spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Enchantment Focus II"
+        }
+      ]
+    },
+    {
+      "text": "Suppressed Power",
+      "tooltip": "Suppressed Power: This psionic item is powerful, but you sense that it has not unlocked all of its secrets to you at this time.",
+      "children": [
+        {
+          "text": "Adds Holy",
+          "tooltip": "Holy: A holy weapon is imbued with holy power. This power makes the weapon good-aligned. Evil characters wielding this weapon suffer a negative level. The weapon deals an extra 2 to 12 damage against all targets of evil alignment.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Alignment_damage_(weapon)#Holy",
+              "title": "Alignment damage (weapon)",
+              "text": "Holy"
+            }
+          ]
+        },
+        {
+          "text": "Becomes Bound to Character on Acquire",
+          "tooltip": null,
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Bind",
+              "title": "Bind",
+              "text": "Bound to Character on Acquire"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Suppressed_Power",
+          "title": "Suppressed Power",
+          "text": "Suppressed Power"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable Item (Stormreaver)",
+      "tooltip": "Upgradeable Item (Stormreaver): This item could be upgraded if you found a Seal of the Stormreaver to combine it with. Bring this item to the Stormreaver Monument in Gianthold and combine it with a Seal of the Stormreaver to upgrade the item to a more powerful form.",
+      "children": [
+        {
+          "text": "Adds Force Burst",
+          "tooltip": "Force Burst: This weapon is humming with magical force, and does 1 to 6 force damage each hit. Critical hits deal an additional 1 to 10 force damage for weapons with a x2 critical multiplier, 2 to 20 for a x3 multiplier and 3 to 30 for a x4 multiplier.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Force_Burst#Force_Burst",
+              "title": "Force Burst",
+              "text": "Force Burst"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Upgradeable_Item_(Stormreaver)",
+          "title": "Upgradeable Item (Stormreaver)",
+          "text": "Upgradeable Item (Stormreaver)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ],
+  "item_class": "Weapon",
+  "item_template": ""
+}

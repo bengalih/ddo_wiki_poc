@@ -1,0 +1,104 @@
+{
+  "page_title": "Item:Epic Docent of Insight",
+  "page_id": 53643,
+  "revision_id": 629993,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:47:22.131805+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Epic Docent of Insight\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+24|m=+12|c=+4}}\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | durability               = 355\n  | material                 = Gem\n  | hardness                 = 38\n  | basevalue                = 11,210 pp\n  | weight                   = 0 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | minlevel                 = 28\n  | released                 = Update 28\n  | quest                    = Grim and Barett\n  | chest                    = end chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|a|12}}\n* {{Stat|INT|4|Insightful}}\n* {{ArmorBonus|4|Quality}}\n* {{Wizardry|V|Insightful}}\n* {{SpellPower|Potency|10|Insightful|prefix=Insightful}}\n* {{Augment|green}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Docent of Insight shown.jpg\n  | picdesc                  = Epic Docent of Insight.png\n  | description              = The material envelopes a construct instilling the feeling of a deep understanding of the underlying connections that bind the world together.\n  | notes                    = {{Bug|Description reads armor bonus to AC, but item gives quality bonus to AC. Categorized as \"Misc\" in Armor Class breakdown in character sheet.|M=1}}\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+12 Enhancement Bonus",
+      "tooltip": "+12 Enhancement Bonus: +12 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+12 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Intelligence +4",
+      "tooltip": "Insightful Intelligence +4: This item focuses the power of the wearer's mind, granting a +4 Insight bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Insightful Intelligence +4"
+        }
+      ]
+    },
+    {
+      "text": "Quality Armor Bonus +4",
+      "tooltip": "Quality Armor Bonus +4: This item surrounds the wearer with an invisible but tangible field of force, granting +4 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Quality Armor Bonus +4"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Wizardry V",
+      "tooltip": "Passive: +125 Insightful Bonus to Spell Points. (If you have Sorcerer or Favored Soul levels, you gain additional spell points proportionate to the ratio of those levels to other classes)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Insightful Wizardry V"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Potency +10",
+      "tooltip": "Insightful Potency +10: Passive: +10 Insightful bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Insightful Potency +10"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "page_title": "Item:Straw Hat",
+  "page_id": 9942,
+  "revision_id": 635097,
+  "revision_timestamp": "2025-04-22T04:05:09Z",
+  "fetched_at": "2026-08-17T23:07:08.525191+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Straw Hat\n  | type                     = Helm\n  | class                    = Clothing\n  | basevalue                = 110 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Head\n  | durability               = 20\n  | material                 = Leather\n  | hardness                 = 6\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Stopping the Sahuagin\n  | chest                    = \n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|concentration|3}}\n* {{Skills|Tumble|1}}\n  | description              = This straw hat glows faintly of magical energy.\n  | pic                      = Straw Hat shown.jpg\n  | picdesc                  = Straw Hat.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "enchantments": [
+    {
+      "text": "Concentration +3",
+      "tooltip": "Concentration +3: Passive: +3 Competence bonus to the Concentration skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Concentration",
+          "title": "Concentration",
+          "text": "Concentration +3"
+        }
+      ]
+    },
+    {
+      "text": "Tumble +1",
+      "tooltip": "Tumble +1: Passive: +1 Competence bonus to the Tumble skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Tumble_(skill)",
+          "title": "Tumble (skill)",
+          "text": "Tumble +1"
+        }
+      ]
+    }
+  ]
+}

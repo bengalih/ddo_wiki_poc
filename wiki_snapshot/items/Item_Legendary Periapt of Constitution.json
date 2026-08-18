@@ -1,0 +1,113 @@
+{
+  "page_title": "Item:Legendary Periapt of Constitution",
+  "page_id": 108717,
+  "revision_id": 685417,
+  "revision_timestamp": "2026-05-06T13:16:16Z",
+  "fetched_at": "2026-08-17T22:01:46.472211+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Legendary Periapt of Constitution\n  | minlevel                 = 33\n  | type                     = Trinket\n  | slot                     = Trinket\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 430\n  | material                 = Leather\n  | hardness                 = 53\n  | basevalue                = 13,201 pp\n  | weight                   = 0.10 lbs\n  | released                 = Update 69\n  | quest                    = The Zulkir's Plan\n  | chest                    = end chest\n  | end reward               = \n  | enhancements             = \n* {{Stat|CON|15}}\n* {{Fortification|78|Insightful}}\n* {{Absorption|Force|16}}\n* {{Save|Fortitude|13}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n* {{Augment|Sun}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A mark of constitution, recognizing the bearer's toughness while making them even tougher.\n  | pic                      = \n  | picdesc                  = Legendary Periapt of Constitution.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Trinket",
+  "item_class": "Jewelry",
+  "slot": "Trinket",
+  "minimum_level": 33,
+  "enchantments": [
+    {
+      "text": "Constitution +15",
+      "tooltip": "Constitution +15: This item gives the wearer improved health, granting a +15 Enhancement bonus to Constitution.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Constitution",
+          "title": "Constitution",
+          "text": "Constitution +15"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Fortification +78%",
+      "tooltip": "Insightful Fortification +78%: +78% Insight bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Insightful Fortification +78%"
+        }
+      ]
+    },
+    {
+      "text": "Force Absorption +16%",
+      "tooltip": "Force Absorption +16%: Passive: 16% Enhancement Bonus to Force Absorption. (Absorption reduces damage from an element by a percentage, after resistance have been taken into account.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Energy_Absorption",
+          "title": "Energy Absorption",
+          "text": "Force Absorption +16%"
+        }
+      ]
+    },
+    {
+      "text": "Fortitude Save +13",
+      "tooltip": "Fortitude Save +13: This item gives a +13 Resistance bonus to your Fortitude saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortitude_save",
+          "title": "Fortitude save",
+          "text": "Fortitude Save +13"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Sun Augment Slot",
+      "tooltip": "Sun",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Lunar_and_Solar_Gems",
+          "title": "Lunar and Solar Gems",
+          "text": "Sun Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Trinket Boost +1 or +3",
+      "tooltip": "Mythic Trinket Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Trinket Boost"
+        }
+      ]
+    }
+  ]
+}

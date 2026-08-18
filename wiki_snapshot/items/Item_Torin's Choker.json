@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Torin's Choker",
+  "page_id": 11152,
+  "revision_id": 635562,
+  "revision_timestamp": "2025-04-22T04:36:09Z",
+  "fetched_at": "2026-08-17T23:19:56.122266+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Torin's Choker\n  | type                     = Necklace\n  | class                    = Jewelry\n  | basevalue                = 10,005pp\n  | weight                   = 0.10 lbs\n  | slot                     = Neck\n  | durability               = 110\n  | material                 = Steel\n  | hardness                 = 20\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Sins of Attrition\n  | chest                    = Any chest ; [[Tower of Despair]], [[Nythirios]] chest\n  | mythic                   = no\n  | enhancements             = \n* {{SpellPower|Potency|48}}\n* {{Wizardry|VI}}\n* {{Named item sets|Warchanter}}\n  | description              = Worn by the famous Warchanter Torin, this thick golden choker looks to have deflected several potentially fatal attacks.\n  | pic                      = Necklace Generic.png\n  | picdesc                  = Torin's Choker.png\n  | tips                     = This necklace is one of two pieces of the {{Named item sets|Warchanter}} unique item set; the other item is the [[Warchanter's Band]], a ring which can be acquired in the [[Tower of Despair]].\n}}\n[[Category:Tower of Despair loot]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Potency +48",
+      "tooltip": "Potency +48: Passive: +48 Equipment bonus to each Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Potency",
+          "title": "Potency",
+          "text": "Potency +48"
+        }
+      ]
+    },
+    {
+      "text": "Wizardry VI",
+      "tooltip": "Wizardry VI: This item grants the wearer +150 maximum spell points. Sorcerers and Favored Souls gain up to double spell points from items.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wizardry",
+          "title": "Wizardry",
+          "text": "Wizardry VI"
+        }
+      ]
+    },
+    {
+      "text": "Warchanter",
+      "tooltip": "Warchanter: Additional Bard Song after resting, Maximize Spell costs 4 Spell Points less, Extend Spell costs 1 Spell Point less.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Warchanter",
+          "title": "Named item sets",
+          "text": "Warchanter"
+        }
+      ]
+    }
+  ]
+}

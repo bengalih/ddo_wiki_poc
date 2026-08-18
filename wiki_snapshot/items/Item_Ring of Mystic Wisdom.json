@@ -1,0 +1,77 @@
+{
+  "page_title": "Item:Ring of Mystic Wisdom",
+  "page_id": 109537,
+  "revision_id": 691090,
+  "revision_timestamp": "2026-07-01T14:09:37Z",
+  "fetched_at": "2026-08-17T22:45:27.021630+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Ring of Mystic Wisdom\n  | type                     = Ring\n  | class                    = Jewelry\n  | slot                     = Finger\n  | durability               = 230\n  | material                 = Gem\n  | hardness                 = 33\n  | basevalue                = 5,201 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 13\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Ruins of Myth Drannor\n  | chest                    = red-named encounter chests\n  | mythic                   = \n  | released                 = Update 69\n  | enhancements             = \n* {{Stat|WIS|1|Quality}}\n* {{Tactics|Combat Mastery|3|Insightful}}\n* {{Deception|1|Quality}}\n* {{Spell Focus|Mastery|2|Insight}}\n* {{Augment|Blue}}\n  | description              = Once held by those chosen by the Blade Rites, this ring confers both Martial and Magical prowess.\n  | tips                     = \n  | pic                      = \n  | picdesc                  = Ring of Mystic Wisdom.png\n}}",
+  "item_template": "Named item",
+  "material": "Gem",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Quality Wisdom +1",
+      "tooltip": "Quality Wisdom +1: This item makes the wearer more in tune with her surroundings, granting a +1 Quality bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Quality Wisdom +1"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Combat Mastery +3",
+      "tooltip": "Insightful Combat Mastery +3: +3 Insight bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combat_Mastery",
+          "title": "Combat Mastery",
+          "text": "Insightful Combat Mastery +3"
+        }
+      ]
+    },
+    {
+      "text": "Quality Deception +1",
+      "tooltip": "Quality Deception +1: +1 Quality bonus to hit and +2 to damage for any hit that would qualify as a sneak attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Quality Deception +1"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Spell Focus Mastery +2",
+      "tooltip": "Insightful Spell Focus Mastery +2: +2 Insight bonus to the DC of all spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus_Mastery",
+          "title": "Spell Focus Mastery",
+          "text": "Insightful Spell Focus Mastery +2"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

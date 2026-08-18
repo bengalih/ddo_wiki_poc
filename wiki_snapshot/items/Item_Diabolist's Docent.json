@@ -1,0 +1,92 @@
+{
+  "page_title": "Item:Diabolist's Docent",
+  "page_id": 15042,
+  "revision_id": 690581,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:33:45.377646+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Diabolist's Docent\n  | type                     = Docent\n  | feat                     = Docent\n  | race                     = Warforged\n  | ac                       = {{WFABonus|a=+8|m=+4|}}\n  | durability               = 90\n  | material                 = Gem\n  | hardness                 = 14\n  | minlevel                 = 4\n  | revamped                 = Update 64\n  | released                 = Update 7\n  | quest                    = The Chronoscope\n  | end reward               = yes\n  | basevalue                = 1,610 pp\n  | weight                   = 0 lbs\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Summon Monster III |5|1}} \n* {{Stat|Int|3}}\n* {{Stat|Cha|3}}\n* {{Spell Focus|Conjuration|2}}\n* {{Augment|Blue}}\n* {{Named item sets|Deadly Diabolist}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Diabolist's Docent\n  | pic                      = Diabolist's Docent shown.jpg\n  | picdesc                  = Diabolist's Docent.png\n  | description              = This infernal docent is connected to the devils of Shavarath somehow, though the exact nature of the link is unclear. It can summon evil creatures to the wearer's aid, and facilitates the casting of conjuration-based magic.\n  | notes                    = In the picture, from left to right: on [[Composite Plating]], on [[Mithral Body]], on [[Adamantine Body]].\n}}\n\n[[Category:Summons]]",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 4,
+  "enchantments": [
+    {
+      "text": "Summon Monster III — 1 Charges (Recharged/Day:1)",
+      "tooltip": "Summon Monster III Caster level: 5Charges: 1 (1/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Summon_Monster_III",
+          "title": "Summon Monster III",
+          "text": "Summon Monster III"
+        }
+      ]
+    },
+    {
+      "text": "Intelligence +3",
+      "tooltip": "Intelligence +3: This item focuses the power of the wearer's mind, granting a +3 Enhancement bonus to Intelligence.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Intelligence",
+          "title": "Intelligence",
+          "text": "Intelligence +3"
+        }
+      ]
+    },
+    {
+      "text": "Charisma +3",
+      "tooltip": "Charisma +3: This item makes the wearer have more flair, granting a +3 Enhancement bonus to Charisma.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Charisma",
+          "title": "Charisma",
+          "text": "Charisma +3"
+        }
+      ]
+    },
+    {
+      "text": "Conjuration Focus +2",
+      "tooltip": "Conjuration Focus +2: +2 Equipment bonus to the DC of Conjuration spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Conjuration Focus +2"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Deadly Diabolist",
+      "tooltip": "Deadly Diabolist: 2 Pieces Equipped: Your Summons, Charmed Monsters, and Hirelings gain +4 to all Ability Scores.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Deadly_Diabolist",
+          "title": "Named item sets",
+          "text": "Deadly Diabolist"
+        }
+      ]
+    }
+  ]
+}

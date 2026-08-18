@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Theurgic Stave",
+  "page_id": 4862,
+  "revision_id": 635455,
+  "revision_timestamp": "2025-04-22T04:29:01Z",
+  "fetched_at": "2026-08-17T23:17:14.682057+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Theurgic Stave\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | minlevel                 = 8\n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = 1.50[2d4] + 4 Bludgeon, Adamantine, Magic\n  | crit                     = 18-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 160\n  | material                 = Adamantine\n  | hardness                 = 28\n  | basevalue                = 3,500pp 1cp\n  | weight                   = 4 lbs\n  | quest                    = The Abandoned Excavation\n  | end reward               = yes\n  | mythic                   = false\n  | enhancements             = \n* {{Enhancement bonus|w|4}}\n* {{Mat|Adamantine}}\n* {{Bane|Elemental}}\n* {{Skills|Spot|5}}\n* {{Augment|Purple}}\n* {{Augment|Red}}\n  | description              = A Quarterstaff of polished wood bound in bands of adamantine.\n  | pic                      = Theurgic Stave shown.jpg\n  | picdesc                  = Theurgic Stave.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Elemental Bane",
+      "tooltip": "Elemental Bane: A bane weapon excels at attacking one type or subtype of creature. Against Elementals, this weapon's effective enhancement bonus is +2 better than its normal enhancement bonus. It deals an extra 2 to 12 points of damage against the foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Elemental Bane"
+        }
+      ]
+    },
+    {
+      "text": "Spot +5",
+      "tooltip": "Spot +5: Passive: +5 Competence bonus to the Spot skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spot",
+          "title": "Spot",
+          "text": "Spot +5"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

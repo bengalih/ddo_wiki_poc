@@ -1,0 +1,28 @@
+{
+  "page_title": "Item:Boots of the Long Step",
+  "page_id": 11382,
+  "revision_id": 628680,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:13:35.013406+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Boots of the Long Step\n  | type                     = Boots\n  | class                    = Clothing\n  | basevalue                = 105 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Feet\n  | durability               = 20\n  | material                 = Leather \n  | hardness                 = 7 \n  | minlevel                 = 0 \n  | bind                     = {{Bind|no}} \n  | quest                    = Retrieve the Stolen Goods\n  | chest                    = [[Kharnos]]' chest\n  | mythic                   = no\n  | enhancements             = \n* {{Striding|5}}\n  | description              = Supple leather boots with worn soles.\n  | pic                      = Boots Generic Gray.png\n  | picdesc                  = Boots of the Long Step.png\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Boots",
+  "item_class": "Clothing",
+  "slot": "Feet",
+  "enchantments": [
+    {
+      "text": "Striding +5%",
+      "tooltip": "Striding +5%: This item makes you more fleet of foot, giving you a 5% Enhancement bonus your movement speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Striding",
+          "title": "Striding",
+          "text": "Striding +5%"
+        }
+      ]
+    }
+  ]
+}

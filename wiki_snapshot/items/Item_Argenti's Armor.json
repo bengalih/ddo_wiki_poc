@@ -1,0 +1,56 @@
+{
+  "page_title": "Item:Argenti's Armor",
+  "page_id": 8090,
+  "revision_id": 628301,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:04:40.351877+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Argenti's Armor\n  | type                     = Full Plate\n  | feat                     = Heavy\n  | race                     = None\n  | ac                       = 21\n  | maxdexbonus              = 1\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 248\n  | material                 = Steel\n  | hardness                 = 23\n  | basevalue                = 4950pp\n  | weight                   = 50 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | minlevel                 = 12\n  | quest                    = Ghosts of Perdition\n  | chest                    = End Chest\n  | epic                     = no\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|5}}\n* {{Elemental Resistance|Fire|30}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Argenti's Armor shown.jpg\n  | picdesc                  = Argenti's Armor.png\n  | description              = An ancient suit of platemail, icy cold to the touch.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Full Plate",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fire Resistance +30",
+      "tooltip": "Fire Resistance +30: Passive: +30 Enhancement bonus to your Fire Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fire_Resistance",
+          "title": "Fire Resistance",
+          "text": "Fire Resistance +30"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

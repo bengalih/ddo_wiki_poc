@@ -1,0 +1,115 @@
+{
+  "page_title": "Item:Legendary Sunken Obscurity",
+  "page_id": 72483,
+  "revision_id": 672470,
+  "revision_timestamp": "2026-01-25T17:44:14Z",
+  "fetched_at": "2026-08-17T22:10:45.989772+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Sunken Obscurity\n  | damage                   = 4.80[1d6+2] + 15 Slash, Cold Iron, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Kama\n  | hand                     = One-handed\n  | class                    = Slashing\n  | prof                     = Exotic\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 29\n  | durability               = 350\n  | material                 = Cold Iron\n  | hardness                 = 39\n  | cost                     = 11,600 pp 2gp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 41\n  | revamped                 = Update 76\n  | quest                    = Lost at Sea\n  | chest                    = Gift of the Devourer optional chest\n  | enhancements             = \n* {{Enhancement bonus|w|15}}\n* {{Negativity|6}}\n* {{Keen}}\n* {{Deception|Bluff=Improved}}\n* {{Mat|Cold Iron}}\n* {{Augment|Red}}\n* {{Named item sets|Legendary Inevitable Balance|You represent balance beneath the depths... +10 Melee Power, 10% Doublestrike, Your Sneak Attacks do additional Bane damage}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = Commissioned as thanks for a daring rescue by a prodigal monk, these matching blades were lost at sea decades ago. The inscription on the blade reads 'a small repayment' in flowing Elven script. Whoever this 'Arkat' was, he must have done something very heroic.\n  | pic                      = Sunken Obscurity shown.jpg\n  | picdesc                  = Legendary Sunken Obscurity.png\n  | tips                     = A set of these will grant Inevitable Balance - 10% Melee Power , 10% Doublestrike, and extra bane damage on sneak attack. There are various types of these kamas, such as  obscurity, radiance, virtue, etc.  So far observed that different variations will grant the same set bonus, although it was also observed that two of the same variations will also show an icon called \"Too close to the edge\" and gives the description \"You are to close the edge of alignment, these weapons work best when they are different from one another.\"\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Kama",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Negativity 6",
+      "tooltip": "Negativity 6: This effect causes this weapon to be shrouded in dark mists, dealing 6d6 negative energy on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negativity",
+          "title": "Negativity",
+          "text": "Negativity 6"
+        }
+      ]
+    },
+    {
+      "text": "Keen",
+      "tooltip": "Keen: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Keen",
+          "title": "Keen",
+          "text": "Keen"
+        }
+      ]
+    },
+    {
+      "text": "Improved Deception",
+      "tooltip": "Improved Deception: This item makes your weapons hard to focus upon and thus provides a +5 enhancement bonus to Bluff checks. In addition, while using this item your weapons have a chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception#Improved_Deception",
+          "title": "Deception",
+          "text": "Improved Deception"
+        }
+      ]
+    },
+    {
+      "text": "Cold Iron",
+      "tooltip": "Cold Iron: This iron mined deep underground, known for its effectiveness against fey creatures, is forged at a lower temperature to preserve its delicate properties. When combined with Good damage types, Cold Iron weapons are able to overcome the damage reduction of most Demons like Fire Reavers or Flesh Renders. See Monster DR and weaknesses for specifics.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cold_Iron",
+          "title": "Cold Iron",
+          "text": "Cold Iron"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Inevitable Balance",
+      "tooltip": "Legendary Inevitable Balance: You represent balance beneath the depths... +10 Melee Power, 10% Doublestrike, Your Sneak Attacks do additional Bane damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Legendary_Inevitable_Balance",
+          "title": "Named item sets",
+          "text": "Legendary Inevitable Balance"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

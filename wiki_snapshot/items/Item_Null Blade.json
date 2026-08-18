@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Null Blade",
+  "page_id": 126729,
+  "revision_id": 701063,
+  "revision_timestamp": "2026-07-28T08:08:05Z",
+  "fetched_at": "2026-08-17T22:33:06.183561+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Null Blade\n  | damage                   = 1.20[1d10] + 5 Evil, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Short Sword\n  | class                    = Slashing\n  | prof                     = Martial\n  | hand                     = One-handed\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 165\n  | material                 = Steel\n  | hardness                 = 21\n  | minlevel                 = 11\n  | basevalue                = 4,401pp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 81\n  | quest                    = Catalyst Crafting\n  | turn in                  = {{Item|Sun Blade}}, its [[Abyssal Catalyst]] and 50 {{Item|Abyssal Gem}}s at the [[Strange Catalyst Forge]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Unholy|3}}\n* {{Piercing|3}}\n* {{Bane|Lawful Outsider|3}}\n* {{Taint of Evil}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = The sun does not shine upon this blade, though it retains its predecessor's ability to lash out at nearby foes.\n  | pic                      = Null Blade shown.jpg\n  | picdesc                  = Null Blade.png\n  | tips                     = \n* Strikethrough is added with use of this weapon, regardless of your feats/enhancements.\n* It makes purple swooshes in the air when you swing it.\n}}\n[[Category:Shortswords with Strikethrough]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Short Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Unholy 3",
+      "tooltip": "Unholy 3: On Hit: 3 to 18 Evil damage. Evil-aligned creatures are immune to this effect.Penalty: If equipped by a Good user, they receive 1 Negative Level for as long as this item is equipped.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Unholy 3"
+        }
+      ]
+    },
+    {
+      "text": "Piercing 3",
+      "tooltip": "Piercing 3: The edges of this weapon have serrated edges, dealing an additional 3d6 piercing damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Piercing",
+          "title": "Piercing",
+          "text": "Piercing 3"
+        }
+      ]
+    },
+    {
+      "text": "Lawful Outsider Bane 3",
+      "tooltip": "Lawful Outsider Bane 3: This weapon is attuned specifically to hunt beings that judge from planar lore, dealing an additional 3d10 bane damage vs. Lawful Outsiders.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Lawful Outsider Bane 3"
+        }
+      ]
+    },
+    {
+      "text": "Taint of Evil",
+      "tooltip": "Taint of Evil: Good aligned characters equipping this item suffer a temporary negative level until the item is removed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Taint_of_Evil",
+          "title": "Taint of Evil",
+          "text": "Taint of Evil"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

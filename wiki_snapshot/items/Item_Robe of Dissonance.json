@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Robe of Dissonance",
+  "page_id": 12682,
+  "revision_id": 686715,
+  "revision_timestamp": "2026-05-27T18:50:50Z",
+  "fetched_at": "2026-08-17T22:47:24.128403+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Robe of Dissonance\n  | type                     = Clothing\n  | feat                     = Cloth\n  | ac                       = +3\n  | minlevel                 = 7\n  | bind                     = {{Bind|BtA|BoA}}\n  | epic                     = no\n  | durability               = 75\n  | material                 = Cloth\n  | hardness                 = 9\n  | basevalue                = 2,805 pp 5 gp\n  | weight                   = 0 lbs\n  | quest                    = Altar of Vulkoor\n  | chest                    = upgrade of [[Dampened Robe of Dissonance]]\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|3}}\n* {{SpellPower|Resonance|66}}\n* {{SpellPower|Impulse|66}}\n* {{Guard|Sonic}}\n* {{Elemental Resistance|Sonic|17}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Robe of Dissonance\n  | pic                      = Robe of Dissonance shown.jpg\n  | picdesc                  = Robe of Dissonance.png\n  | description              = This vibrant robe hums faintly with two separate yet intertwined forces. The magical field it projects punishes enemies who attempt to attack the wearer, as well as strengthening his or her sonic-based and force-based spells.\n  | notes                    = \n  | revamped                 = Update 50\n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Clothing",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Resonance +66",
+      "tooltip": "Resonance +66: Passive: +66 Equipment bonus to Sonic Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resonance",
+          "title": "Resonance",
+          "text": "Resonance +66"
+        }
+      ]
+    },
+    {
+      "text": "Impulse +66",
+      "tooltip": "Impulse +66: Passive: +66 Equipment bonus to Force, Untyped, Slashing, Piercing, and Bludgeoning Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impulse",
+          "title": "Impulse",
+          "text": "Impulse +66"
+        }
+      ]
+    },
+    {
+      "text": "Sonic Guard",
+      "tooltip": "Sonic Guard: This item blasts those that attack the wearer, causing 1d6 sonic damage on a successful melee attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sonic_Guard",
+          "title": "Sonic Guard",
+          "text": "Sonic Guard"
+        }
+      ]
+    },
+    {
+      "text": "Sonic Resistance +17",
+      "tooltip": "Sonic Resistance +17: Passive: +17 Enhancement bonus to your Sonic Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sonic_Resistance",
+          "title": "Sonic Resistance",
+          "text": "Sonic Resistance +17"
+        }
+      ]
+    }
+  ]
+}

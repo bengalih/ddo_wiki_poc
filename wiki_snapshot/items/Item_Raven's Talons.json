@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Raven's Talons",
+  "page_id": 12009,
+  "revision_id": 675558,
+  "revision_timestamp": "2026-02-17T21:48:33Z",
+  "fetched_at": "2026-08-17T22:42:37.928940+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Raven's Talons\n  | type                     = Gloves\n  | class                    = Clothing\n  | basevalue                = 1,605pp\n  | weight                   = 0.10 lbs\n  | slot                     = Hand\n  | revamped                 = Update 36\n  | released                 = Update 6\n  | quest                    = Into the Deep\n  | durability               = 50\n  | material                 = Leather\n  | hardness                 = 10\n  | minlevel                 = 7\n  | bind                     = {{Bind|BtA|BoA}}\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|DEX|5}}\n* {{Skills|Bluff|10}}\n* {{Named item sets|Raven's Eye}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Raven's Talons\n  | description              = Gloves like these make the wearer's attacks more precise and are often employed by drow scouts and spies.\n  | pic                      = Gloves Generic Raven.png\n  | picdesc                  = Raven's Talons.png\n  | tips                     = Old versions had Dex 3 and Bluff 7, BtC. They don't retroactively change but have to be reacquired.\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Dexterity +5",
+      "tooltip": "Dexterity +5: This item makes the wearer more nimble and dexterous, granting a +5 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +5"
+        }
+      ]
+    },
+    {
+      "text": "Bluff +10",
+      "tooltip": "Bluff +10: Passive: +10 Competence bonus to the Bluff skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bluff",
+          "title": "Bluff",
+          "text": "Bluff +10"
+        }
+      ]
+    },
+    {
+      "text": "Raven's Eye",
+      "tooltip": "Raven's Eye: 2 Pieces Equipped:+3 Artifact bonus to Attack and Damage+3 Artifact bonus to Search and Spot",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Raven's_Eye",
+          "title": "Named item sets",
+          "text": "Raven's Eye"
+        }
+      ]
+    }
+  ]
+}

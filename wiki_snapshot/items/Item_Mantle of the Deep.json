@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Mantle of the Deep",
+  "page_id": 56424,
+  "revision_id": 690655,
+  "revision_timestamp": "2026-06-30T16:37:36Z",
+  "fetched_at": "2026-08-17T22:22:42.930647+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Mantle of the Deep\n  | type                     = Cloak\n  | race                     = Deep Gnome\n  | slot                     = Back\n  | durability               = 160\n  | material                 = Cloth\n  | hardness                 = 20\n  | basevalue                = 6005 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 15\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = Advance to level 15\n  | end reward               = true\n  | mythic                   = no\n  | enhancements             = \n* {{Efficient Metamagic|Maximize|2}}\n* {{Spell Focus|Illusion|II}}\n* {{Feather Falling}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = \n  | pic                      = Scurvy's Wrap Shown.jpg\n  | picdesc                  = Mantle of the Deep.png\n  | food                     = no\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "Efficient Metamagic - Maximize II",
+      "tooltip": "Efficient Metamagic - Maximize II: The additional spell point cost for using the Maximize Metamagic feat is reduced by 4 SP.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Efficient_Metamagic",
+          "title": "Efficient Metamagic",
+          "text": "Efficient Metamagic - Maximize II"
+        }
+      ]
+    },
+    {
+      "text": "Illusion Focus II",
+      "tooltip": "Illusion Focus II: +2 Equipment bonus to the DC of Illusion spells.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Focus",
+          "title": "Spell Focus",
+          "text": "Illusion Focus II"
+        }
+      ]
+    },
+    {
+      "text": "Feather Falling",
+      "tooltip": "Feather Falling: This item is engraved with feathers and bestows a powerful magical effect. Whenever the wearer begins to fall from any height, this effect slows the descent dramatically, causing the wearer to fall like a feather.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feather_Falling",
+          "title": "Feather Falling",
+          "text": "Feather Falling"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "page_title": "Item:Duergar Waraxe of the Weapon Master",
+  "page_id": 27839,
+  "revision_id": 693660,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:39:36.298335+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Duergar Waraxe of the Weapon Master\n  | damage                   = 3.20[1d10] + 6 Slash, Magic\n  | crit                     = 18-20 / x3\n  | type                     = Dwarven War Axe\n  | hand                     = One-handed\n  | class                    = Slashing\n  | damagemod                = STR\n  | attackmod                = STR\n  | minlevel                 = 21\n  | prof                     = Exotic\n  | durability               = 295\n  | material                 = Steel\n  | hardness                 = 31\n  | released                 = Update 14\n  | quest                    = The House of Rusted Blades\n  | chest                    = End chest\n  | basevalue                = 8403pp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtC|BoE}}\n  | enhancements             = \n* {{Enhancement bonus|w|6}}\n* {{Maiming}}\n* One of the following:\n** {{Tactics|Combat Mastery|5|Insight}}\n** {{Shatter|10}}\n** {{Stunning|10}}\n** {{Vertigo|10}}\n** {{Tactics|Tendon Slice|10%}}\n  | crafting                 = Catalyst Crafting\n  | craftingupgrade          = Perfected Dwarven Waraxe of the Weapon Master¦Legendary Perfected Dwarven Waraxe of the Weapon Master\n  | pic                      = Duergar Waraxe of the Weapon Master shown.jpg\n  | picdesc                  = Duergar Waraxe of the Weapon Master.png\n  | description              = Gray Dwarves, or Duergar, are often used by drow as slaves or mercenaries. A Duergar's waraxe is often the last thing seen by a foolhardy adventurer in the Underdark.\n  | tips                     = With [[Update 28 Patch 1]] the critical [[threat range]] was expanded from 19-20 to 18-20 to offset the effect caused by the changes to the feat [[Improved Critical]].\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Dwarven War Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 21,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Maiming",
+      "tooltip": "Maiming: This weapon has a twisted haft or grip and spikes along its blade, head, or point. Whenever you score a critical hit with this weapon it deals an amount of extra untyped damage depending on its critical multiplier: x2 - 1 to 6, x3 - 2 to 12, x4 - 3 to 18.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Maiming",
+          "title": "Maiming",
+          "text": "Maiming"
+        }
+      ]
+    },
+    {
+      "text": "One of the following:",
+      "tooltip": null,
+      "children": [
+        {
+          "text": "Insightful Combat Mastery +5",
+          "tooltip": "Insightful Combat Mastery +5: +5 Insight bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Combat_Mastery",
+              "title": "Combat Mastery",
+              "text": "Insightful Combat Mastery +5"
+            }
+          ]
+        },
+        {
+          "text": "Shatter +10",
+          "tooltip": "Shatter +10: This effect gives a +10 Enhancement bonus to the DC to resist the character's Sunder and Improved Sunder attempts.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Shatter",
+              "title": "Shatter",
+              "text": "Shatter +10"
+            }
+          ]
+        },
+        {
+          "text": "Stunning +10",
+          "tooltip": "Stunning +10: +10 Enhancement bonus to the DC of character's Stunning Blow and Stunning Fist attempts.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Stunning",
+              "title": "Stunning",
+              "text": "Stunning +10"
+            }
+          ]
+        },
+        {
+          "text": "Vertigo +10",
+          "tooltip": "Vertigo +10: This effect gives a +10 Enhancement bonus to the DC to resist the character's Trip and Improved Trip attempts.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Vertigo_(enchantment)",
+              "title": "Vertigo (enchantment)",
+              "text": "Vertigo +10"
+            }
+          ]
+        },
+        {
+          "text": "Tendon Slice 10%",
+          "tooltip": "Tendon Slice 10%: This effect gives a 10% chance to Hamstring the target for each attack that does damage.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Tendon_Slice",
+              "title": "Tendon Slice",
+              "text": "Tendon Slice 10%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Epic Sailcloth Cloak",
+  "page_id": 91412,
+  "revision_id": 630355,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:54:45.924095+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Epic Sailcloth Cloak\n  | type                     = Cloak\n  | slot                     = Back\n  | class                    = Clothing\n  | minlevel                 = 20\n  | durability               = 300 \n  | material                 = Cloth\n  | hardness                 = 40 \n  | basevalue                = 8,001 pp \n  | weight                   = 0.10 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Sinister Secret of Saltmarsh\n  | epic                     = Sailcloth Cloak\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|dex|9}}\n* {{Deception|3|Insightful}}\n* {{Accuracy|15}}\n* {{Deadly|8}}\n* {{Augment|Green}}\n* {{Augment|Colorless}}\n* {{Named item sets|Epic Saltmarsh Explorer}}\n  | description              = This cloak appears to have been fashioned from the sail of a seaworthy vessel.\n  | pic                      = Marshreed Cloak shown.jpg <!-- same art -->\n  | picdesc                  = Epic_Sailcloth_Cloak.png\n  | rafting                  = Legendary Crafting\n  | craftingupgrade          = Legendary Sailcloth Cloak\n  | tips                     = \n}}\n[[Category:Sinister Secret of Saltmarsh epic items]]",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "Dexterity +9",
+      "tooltip": "Dexterity +9: This item makes the wearer more nimble and dexterous, granting a +9 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +9"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Deception +3",
+      "tooltip": "Insightful Deception +3: +3 Insight bonus to hit and +5 to damage for any hit that would qualify as a sneak attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Insightful Deception +3"
+        }
+      ]
+    },
+    {
+      "text": "Accuracy +15",
+      "tooltip": "Accuracy +15: Passive: +15 Competence bonus to attack rolls",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accuracy",
+          "title": "Accuracy",
+          "text": "Accuracy +15"
+        }
+      ]
+    },
+    {
+      "text": "Deadly +8",
+      "tooltip": "Deadly +8: +8 Competence bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Deadly +8"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Epic Saltmarsh Explorer",
+      "tooltip": "Epic Saltmarsh Explorer: 5 Pieces Equipped:+20 Artifact bonus to Physical and Magical Resistance Rating+10 Artifact bonus to Melee, Ranged, and Universal Spell Power+2 Artifact bonus to all Ability Scores+20 Artifact Bonus to Positive, Negative, and Repair Amplification",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Epic_Saltmarsh_Explorer",
+          "title": "Named item sets",
+          "text": "Epic Saltmarsh Explorer"
+        }
+      ]
+    }
+  ]
+}

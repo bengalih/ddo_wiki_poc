@@ -1,0 +1,67 @@
+{
+  "page_title": "Item:Greatclub of the Scrag",
+  "page_id": 12028,
+  "revision_id": 631229,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:15:21.362745+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Greatclub of the Scrag\n  | damage                   = [1d10] + 3 Bludgeon, Chaotic, Magic\n  | crit                     = 20 / x2\n  | type                     = Great Club\n  | class                    = Bludgeoning\n  | hand                     = Two-handed\n  | damagemod                = STR\n  | attackmod                = STR\n  | prof                     = Martial\n  | durability               = 145\n  | material                 = Wood\n  | hardness                 = 12\n  | minlevel                 = 7\n  | quest                    = Altar of Vulkoor\n  | chest                    = Cleansed version of {{Item|Dampened Greatclub of the Scrag}}\n  | revamped                 = Update 50\n  | released                 = Update 6\n  | basevalue                = 2,800 pp 5 gp\n  | weight                   = 8 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{Anarchic|2|1}}\n* {{Chilling|2}}\n* {{Regeneration}}\n  | crafting                 = Epic Crafting\n  | craftingupgrade          = Epic Greatclub of the Scrag\n  | description              = This particularly nasty weapon once belonged to one of the Scrag in High Priestess' Slikir's service. It seems that when the troll was killed, its blood seeped into this club, granting the weapon some of the creature's characteristics.\n  | pic                      = GreatClubOfTheScragLooks.jpg\n  | picdesc                  = Greatclub of the Scrag.png\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Anarchic 2",
+      "tooltip": "Anarchic 2: This weapon is chaotic and used to undermine the righteous, dealing an additional 2d6 chaos damage on each hit. This effect makes the weapon chaotic aligned. (Lawful characters wielding this weapon will suffer one negative level.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Anarchic 2"
+        }
+      ]
+    },
+    {
+      "text": "Chilling 2",
+      "tooltip": "Chilling 2: This effect causes the edges of this weapon to become frozen to the touch, dealing 2d6 Ice damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Chilling",
+          "title": "Chilling",
+          "text": "Chilling 2"
+        }
+      ]
+    },
+    {
+      "text": "Regeneration",
+      "tooltip": "Regeneration: Causes the wearer to regenerate 1 hit point a minute using positive energy.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Regeneration",
+          "title": "Regeneration",
+          "text": "Regeneration"
+        }
+      ]
+    }
+  ]
+}

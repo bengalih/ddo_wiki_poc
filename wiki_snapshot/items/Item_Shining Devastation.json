@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Shining Devastation",
+  "page_id": 7938,
+  "revision_id": 634650,
+  "revision_timestamp": "2025-04-22T03:35:37Z",
+  "fetched_at": "2026-08-17T22:55:53.817948+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Shining Devastation\n  | type                     = Great Club\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Martial\n  | minlevel                 = 14\n  | bind                     = {{Bind|BtC|BoE}}\n  | damage                   = 1.80[1d16] + 5 Bludgeon, Adamantine, Magic\n  | crit                     = 18-20 / x3\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 215\n  | material                 = Blueshine \n  | hardness                 = 29\n  | basevalue                = 5,900 pp 5 gp\n  | weight                   = 8 lbs\n  | quest                    = Litany of the Dead\n  | chest                    = All bosses' end chests\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Everbright}}\n* {{Mat|Adamantine}}\n* {{Impellent}}\n* {{clicky|Blinding Flash|5|3}} \n* {{Augment|Red}}\n  | description              = A huge club fashioned from adamantium and coated with a shining rust-resistant material.\n  | pic                      = Shining Devastation shown.jpg\n  | picdesc                  = Shining Devastation.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Club",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 14,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Everbright",
+      "tooltip": "Everbright: Flecks of marble and pearl shimmer across this shield, set within images of bursting stars and beaming suns. An everbright shield will never take damage from rust or acid and can emit a Blinding Flash 3/rest.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Everbright",
+          "title": "Everbright",
+          "text": "Everbright"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Impellent",
+      "tooltip": "Impellent: This weapon is pulsing with magical force. It deals an additional 2 to 12 force damage on a successful hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impellent",
+          "title": "Impellent",
+          "text": "Impellent"
+        }
+      ]
+    },
+    {
+      "text": "Blinding Flash — 3 Charges (Recharged/Day:3)",
+      "tooltip": "Blinding FlashCaster level: 5Charges: 3 (3/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Blinding_Flash",
+          "title": "Blinding Flash",
+          "text": "Blinding Flash"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

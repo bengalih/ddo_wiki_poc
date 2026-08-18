@@ -1,0 +1,92 @@
+{
+  "page_title": "Item:Legendary Templar's Docent",
+  "page_id": 91219,
+  "revision_id": 633062,
+  "revision_timestamp": "2025-04-22T01:47:58Z",
+  "fetched_at": "2026-08-17T22:12:19.520248+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Legendary Templar's Docent\n  | minlevel                 = 30\n  | type                     = Docent\n  | feat                     = Docent\n  | ac                       = {{WFABonus|a=28|m=14|c=5}}\n  | maxdexbonus              = \n  | acp                      = \n  | asf                      = \n  | race                     = Warforged\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 350\n  | material                 = Gem\n  | hardness                 = 40\n  | basevalue                = 12,010 pp\n  | weight                   = \n  | released                 = Update 50\n  | quest                    = Legendary Crafting\n  | legendary                = Epic Templar's Docent\n  | end reward               = \n  | turn in                  = \n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{DR|50|Evil|a}}\n* {{Spell Resistance|39}}\n* {{Sheltering|34|Enhancement|Magical}}\n* {{Guard|Radiance}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | description              = Templars of the Silver Flame wear these resilient docents, said to be blessed by Tira Miron, to protect themselves from weapon blows and harmful magic alike.\n  | pic                      = Templar's Docent shown.jpg\n  | picdesc                  = Legendary Templar's Docent.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Gem",
+  "armor_type": "Docent",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Docent",
+  "slot": "Armor",
+  "minimum_level": 30,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "DR 50/Evil",
+      "tooltip": "Damage Reduction 50/Evil: Reduces physical damage by 50, except from Evil aligned attacks.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Damage_Reduction",
+          "title": "Damage Reduction",
+          "text": "DR"
+        }
+      ]
+    },
+    {
+      "text": "Spell Resistance +39",
+      "tooltip": "Spell Resistance +39: +39 Enhancement bonus to Spell Resistance.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Resistance",
+          "title": "Spell Resistance",
+          "text": "Spell Resistance +39"
+        }
+      ]
+    },
+    {
+      "text": "Magical Sheltering +34",
+      "tooltip": "Magical Sheltering +34: +34 Enhancement bonus to Magical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Magical Sheltering +34"
+        }
+      ]
+    },
+    {
+      "text": "Radiance Guard",
+      "tooltip": "Radiance Guard: This item is imbued with a brilliant, radiant power. When the wearer of this item is successfully attacked in melee, the attacker has a chance of being hit by 4d6 points of light damage and has a chance of being blinded.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiance_Guard",
+          "title": "Radiance Guard",
+          "text": "Radiance Guard"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

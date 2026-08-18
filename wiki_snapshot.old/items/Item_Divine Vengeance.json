@@ -1,0 +1,184 @@
+{
+  "page_title": "Item:Divine Vengeance",
+  "page_id": 19578,
+  "revision_id": 645969,
+  "revision_timestamp": "2025-06-25T03:09:35Z",
+  "fetched_at": "2026-08-17T04:09:54.699347+00:00",
+  "categories": [],
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Long Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Cold Iron",
+      "tooltip": "Cold Iron: This iron mined deep underground, known for its effectiveness against fey creatures, is forged at a lower temperature to preserve its delicate properties. When combined with Good damage types, Cold Iron weapons are able to overcome the damage reduction of most Demons like Fire Reavers or Flesh Renders. See Monster DR and weaknesses for specifics.",
+      "children": [
+        {
+          "text": "Lawful version:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Holy",
+              "tooltip": "Holy: A holy weapon is imbued with holy power. This power makes the weapon good-aligned. Evil characters wielding this weapon suffer a negative level. The weapon deals an extra 2 to 12 damage against all targets of evil alignment.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Alignment_damage_(weapon)#Holy",
+                  "title": "Alignment damage (weapon)",
+                  "text": "Holy"
+                }
+              ]
+            },
+            {
+              "text": "Adds Axiomatic",
+              "tooltip": "Axiomatic: An axiomatic weapon is lawfully aligned and infused with the power of law. It makes the weapon law-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2 to 12 damage against all of chaotic alignment.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Alignment_damage_(weapon)#Axiomatic",
+                  "title": "Alignment damage (weapon)",
+                  "text": "Axiomatic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "1-19 Paladin version",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Spell Resistance +30",
+              "tooltip": "Spell Resistance +30: +30 Enhancement bonus to Spell Resistance.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Spell_Resistance",
+                  "title": "Spell Resistance",
+                  "text": "Spell Resistance +30"
+                }
+              ]
+            },
+            {
+              "text": "Holy → Holy Burst",
+              "tooltip": "Holy: A holy weapon is imbued with holy power. This power makes the weapon good-aligned. Evil characters wielding this weapon suffer a negative level. The weapon deals an extra 2 to 12 damage against all targets of evil alignment.Holy Burst: A holy weapon is imbued with holy power. This power makes the weapon good-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2 to 12 points of damage against all of evil alignment and an extra 3 to 18 on a critical for weapons with a x2 critical multiplier, 4 to 24 for a x3 multiplier, and 5 to 30 for a x4 multiplier.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Alignment_damage_(weapon)#Holy",
+                  "title": "Alignment damage (weapon)",
+                  "text": "Holy"
+                },
+                {
+                  "target": "/page/Holy_Burst#Holy_Burst",
+                  "title": "Holy Burst",
+                  "text": "Holy Burst"
+                }
+              ]
+            },
+            {
+              "text": "Axiomatic → Axiomatic Burst",
+              "tooltip": "Axiomatic: An axiomatic weapon is lawfully aligned and infused with the power of law. It makes the weapon law-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2 to 12 damage against all of chaotic alignment.Axiomatic Burst: An axiomatic weapon is lawfully aligned and infused with the power of law. It makes the weapon law-aligned and thus bypasses the corresponding damage reduction. It deals an extra 2 to 12 points of damage against all of chaotic alignment and an extra 3 to 18 on a critical for weapons with a x2 critical multiplier, 4 to 24 for a x3 multiplier, and 5 to 30 for a x4 multiplier.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Alignment_damage_(weapon)#Axiomatic",
+                  "title": "Alignment damage (weapon)",
+                  "text": "Axiomatic"
+                },
+                {
+                  "target": "/page/Axiomatic_Burst#Axiomatic_Burst",
+                  "title": "Axiomatic Burst",
+                  "text": "Axiomatic Burst"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "20 Paladin version",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Greater Dispelling",
+              "tooltip": "Greater Dispelling: This weapon is infused with a power that purges out the magical energies of those that it strikes. On an attack roll of 20 which is confirmed as a critical hit it will apply a Greater Dispel Magic effect to the target, stripping away its protective spells.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Greater_Dispelling",
+                  "title": "Greater Dispelling",
+                  "text": "Greater Dispelling"
+                }
+              ]
+            },
+            {
+              "text": "Adds Radiance",
+              "tooltip": "Radiance: This weapon is imbued with a brilliant, radiant power that deals an additional 4 to 24 points of light damage and blinds the target on a successful critical hit.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Radiance_(enchantment)",
+                  "title": "Radiance (enchantment)",
+                  "text": "Radiance"
+                }
+              ]
+            },
+            {
+              "text": "Spell Resistance +30 → Spell Resistance +35",
+              "tooltip": "Spell Resistance +30: +30 Enhancement bonus to Spell Resistance. Spell Resistance +35: +35 Enhancement bonus to Spell Resistance.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Spell_Resistance",
+                  "title": "Spell Resistance",
+                  "text": "Spell Resistance +30"
+                },
+                {
+                  "target": "/page/Spell_Resistance",
+                  "title": "Spell Resistance",
+                  "text": "Spell Resistance +35"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Cold_Iron",
+          "title": "Cold Iron",
+          "text": "Cold Iron"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ],
+  "item_class": "Weapon",
+  "item_template": ""
+}

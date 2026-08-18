@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Calamitous Throwing Hammer",
+  "page_id": 119383,
+  "revision_id": 667613,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:18:08.934715+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Calamitous Throwing Hammer\n  | damage                   = [1d4] + 4 Bludgeon, Magic\n  | crit                     = 20 / x2\n  | type                     = Throwing Hammer\n  | hand                     = Thrown\n  | race                     = \n  | reqtrait                 = \n  | UMD DC                   = \n  | class                    = Thrown\n  | prof                     = Martial\n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 8\n  | durability               = 110\n  | material                 = Steel\n  | hardness                 = 18\n  | cost                     = 3200 pp 1 gp\n  | weight                   = 2 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 75\n  | revamped                 = Update 76\n  | quest                    = Viktranium Experiment crafting\n  | turn in                  = 5 Bleak Alternators, Conductors, Insulators and Resistors at [[Heroic Viktranium Experiment Crafting]] in [[Ludendorf City Hall]] \n  | epic                     = no\n  | mythic                   = FALSE\n  | enhancements             = \n* {{Enhancement bonus|w|4}}\n* {{Vampirism|1}}\n* {{Returning}}\n* {{Lamordia Slot|Melancholic|Weapon}}\n* {{Lamordia Slot|Dolorous|Weapon}}\n* {{Lamordia Slot|Miserable|Weapon}}\n* {{Augment|Red}}\n  | crafting                 = Viktranium Experiment crafting\n  | craftingupgrade          = \n  | pic                      = Calamitous Throwing Hammer shown.jpg\n  | picdesc                  = Calamitous Throwing Hammer.png\n  | description              = Small slots in this weapon could easily fit small augmentation devices.\n  | tips                     = \n}}\n[[Category:Calamitous weapons]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Throwing Hammer",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 8,
+  "enchantments": [
+    {
+      "text": "+4 Enhancement Bonus",
+      "tooltip": "+4 Enhancement Bonus: +4 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+4 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Vampirism 1",
+      "tooltip": "Vampirism 1: This weapon thirsts for the blood of your enemies, healing you for +1d2 hit points with each hit.Note: internal cooldown of 1 second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Vampirism 1"
+        }
+      ]
+    },
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Melancholic Slot (Weapon)",
+      "tooltip": "Lamordia: Melancholic Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Melancholic Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Dolorous Slot (Weapon)",
+      "tooltip": "Lamordia: Dolorous Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Dolorous Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Lamordia: Miserable Slot (Weapon)",
+      "tooltip": "Lamordia: Miserable Slot (Weapon):Apply a Lamordia augment to this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Viktranium_Experiment_crafting",
+          "title": "Viktranium Experiment crafting",
+          "text": "Lamordia: Miserable Slot (Weapon)"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

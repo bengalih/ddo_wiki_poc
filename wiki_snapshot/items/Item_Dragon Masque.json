@@ -1,0 +1,101 @@
+{
+  "page_title": "Item:Dragon Masque",
+  "page_id": 44466,
+  "revision_id": 629600,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:37:22.594151+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Dragon Masque\n  | type                     = Helm\n  | slot                     = Head\n  | durability               = 270\n  | material                 = Steel\n  | hardness                 = 36\n  | basevalue                = 10,420 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 26\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 21\n  | quest                    = Fire on Thunder Peak\n  | end reward               = \n  | chest                    = raid chest\n  | enhancements             = \n* {{Deception|Bluff=yes}}\n* {{Deception|5|Ins}}\n* {{Deadly|10}}\n* {{Shadow Spike}}\n* {{Augment|Yellow}}\n* {{Augment|Colorless}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = You must reanimate additional dracoliches.\n  | pic                      = Dragon Masque shown.jpg\n  | picdesc                  = Dragon Masque.png\n  | tips                     = \n}}\n[[Category:Draconic Raider's Reward Box items]]",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "Deception",
+      "tooltip": "Deception: This weapon is hard to focus upon and thus provides a +3 enhancement bonus to Bluff checks. In addition, Deception weapons have a small chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Deception"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Deception +5",
+      "tooltip": "Insightful Deception +5: +5 Insight bonus to hit and +8 to damage for any hit that would qualify as a sneak attack.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deception",
+          "title": "Deception",
+          "text": "Insightful Deception +5"
+        }
+      ]
+    },
+    {
+      "text": "Deadly +10",
+      "tooltip": "Deadly +10: +10 Competence bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Deadly +10"
+        }
+      ]
+    },
+    {
+      "text": "Shadow Spike",
+      "tooltip": "Shadow Spike: On Damage: Do an additional 2 to 12 Negative Energy damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shadow_Spike",
+          "title": "Shadow Spike",
+          "text": "Shadow Spike"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Head Boost +1 or +3",
+      "tooltip": "Mythic Head Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Head Boost"
+        }
+      ]
+    }
+  ]
+}

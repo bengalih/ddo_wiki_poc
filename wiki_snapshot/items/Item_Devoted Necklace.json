@@ -1,0 +1,52 @@
+{
+  "page_title": "Item:Devoted Necklace",
+  "page_id": 9740,
+  "revision_id": 629457,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:33:37.314248+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Devoted Necklace\n  | type                     = Necklace\n  | class                    = Jewelry\n  | basevalue                = 405pp\n  | weight                   = 0.10 lbs\n  | slot                     = Neck\n  | durability               = 30\n  | material                 = Steel\n  | hardness                 = 12\n  | minlevel                 = 0\n  | bind                     = {{Bind|BtC|BoA}}\n  | quest                    = The Salvation of Korthos\n  | end reward               = yes\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|WIS|1}}\n* {{Resistance|1}}\n* {{Named item sets|Devoted Heart}}\n  | pic                      = Necklace Generic.png\n  | picdesc                  = Devoted Necklace.png\n  | description              = This necklace is infused with the spirit of a devout cleric.\n  | tips                     = This item is one half of the [[Unique item sets|Devoted Heart]] item set; the other item is the [[Devoted Goggles]] which you can get as the End Reward for the [[Sacrifices]] quest.\n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Necklace",
+  "item_class": "Jewelry",
+  "slot": "Neck",
+  "enchantments": [
+    {
+      "text": "Wisdom +1",
+      "tooltip": "Wisdom +1: This item makes the wearer more in tune with her surroundings, granting a +1 Enhancement bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Wisdom +1"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +1",
+      "tooltip": "Resistance +1: Passive: +1 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +1"
+        }
+      ]
+    },
+    {
+      "text": "Devoted Heart",
+      "tooltip": "Devoted Heart: +36 Equipment bonus to Healing Spell Power",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Devoted_Heart",
+          "title": "Named item sets",
+          "text": "Devoted Heart"
+        }
+      ]
+    }
+  ]
+}

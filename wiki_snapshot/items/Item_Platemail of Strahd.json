@@ -1,0 +1,128 @@
+{
+  "page_title": "Item:Platemail of Strahd",
+  "page_id": 67076,
+  "revision_id": 681164,
+  "revision_timestamp": "2026-03-27T21:40:40Z",
+  "fetched_at": "2026-08-17T22:38:38.555345+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Platemail of Strahd\n  | type                     = Heavy Armor\n  | feat                     = Heavy\n  | race                     = \n  | ac                       = 40\n  | maxdexbonus              = 6\n  | acp                      = -5\n  | asf                      = 35%\n  | durability               = 480\n  | material                 = Steel\n  | hardness                 = 39\n  | minlevel                 = 28\n  | released                 = Update 37\n  | quest                    = The Curse of Strahd\n  | chest                    = Raid chest\n  | end reward               = <!--At least 1 of these 3 should be filled in. Leave other 2 blank.-->\n  | turn in                  = <!--At least 1 of these 3 should be filled in. Leave other 2 blank.-->\n  | epic                     = no\n  | basevalue                = 11,250pp\n  | weight                   = 50 lbs\n  | bind                     = {{Bind|BtC|BoA}}\n  | enhancements             = \n* {{Enhancement bonus|a|15}}\n* {{Deathblock}}\n* {{Ghostly}}\n* {{Sheltering|34|Enhancement|Physical}}\n* {{Stat|Well Rounded|2|Profane}}\n* {{Augment|Blue}}\n* {{Augment|Green}}\n* {{Named item sets|Knight of the Shadows Set (Legendary)}}\n  | crafting                 = Cauldron of Cadence\n  | craftingupgrade          = Set Augment: Paragon Guard\n  | pic                      = Platemail of Strahd shown.jpg\n  | picdesc                  = Platemail of Strahd.png\n  | description              = An old painting in Castle Ravenloft depicts Strahd wearing this very set of armor.\n  | notes                    = \n  | tips                     = Can be crafted into the [[Item:Set Augment: Paragon Guard|Paragon Guard]] [[Augment_Slot#Set_augments|set augment]] for +15% Artifact Bonus to [[Armor Class]].\n}}\n[[C:Set augment material items]]",
+  "item_template": "Named item",
+  "feat_requirement": "Heavy Armor Proficiency",
+  "material": "Steel",
+  "armor_type": "Heavy Armor",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Heavy",
+  "slot": "Armor",
+  "minimum_level": 28,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Deathblock",
+      "tooltip": "Deathblock: The wearer of this item is immune to all death spells and magical death effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deathblock",
+          "title": "Deathblock",
+          "text": "Deathblock"
+        }
+      ]
+    },
+    {
+      "text": "Ghostly",
+      "tooltip": "Ghostly: Equipping this item causes you to become partially incorporeal. Your melee attacks do not roll a miss chance for Incorporeal targets. Enemy attacks have a 10% chance to miss you due to incorporeality. You receive a +5 enhancement bonus to your Hide and Move Silently skills.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ghostly",
+          "title": "Ghostly",
+          "text": "Ghostly"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +34",
+      "tooltip": "Physical Sheltering +34: +34 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +34"
+        }
+      ]
+    },
+    {
+      "text": "Profane Well Rounded +2",
+      "tooltip": "Profane Well Rounded +2: +2 Profane bonus to all abilities.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Ability",
+          "title": "Ability",
+          "text": "Profane Well Rounded +2"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Knight of the Shadows Set (Legendary)",
+      "tooltip": "Knight of the Shadows Set (Legendary): 3 Pieces Equipped:+30 Artifact bonus to Physical and Magical Resistance Rating+50% Artifact bonus to threat generation with melee attacks+15% Artifact Bonus to your Armor Class",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Named_item_sets#Knight_of_the_Shadows_Set_(Legendary)",
+          "title": "Named item sets",
+          "text": "Knight of the Shadows Set (Legendary)"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

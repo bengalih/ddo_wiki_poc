@@ -1,0 +1,65 @@
+{
+  "page_title": "Item:Stone-forged Gauntlet",
+  "page_id": 80291,
+  "revision_id": 635068,
+  "revision_timestamp": "2025-04-22T04:03:13Z",
+  "fetched_at": "2026-08-17T23:06:26.749475+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Stone-forged Gauntlet\n  | type                     = Gloves\n  | class                    = Clothing\n  | basevalue                = 1201pp\n  | weight                   = 0.10 lbs\n  | slot                     = Hand\n  | durability               = 130\n  | material                 = Stone\n  | hardness                 = 23\n  | minlevel                 = 3\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Housekeeping\n  | chest                    = End chest\n  | released                 = Update 46\n  | end reward               = \n  | enhancements             = \n* {{Spelllore|Acid|7}}\n* {{SpellPower|Corrosion|47}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | description              = A large, simple stone appears to be central to the construction of this gauntlet.\n  | pic                      = Gloves Generic.png\n  | picdesc                  = Stone-forged Gauntlet.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Stone",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 3,
+  "enchantments": [
+    {
+      "text": "Acid Lore +7%",
+      "tooltip": "Acid Lore +7: Passive: Your Acid spells gain a 7% Equipment bonus to their chance to critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Lore",
+          "title": "Spell Lore",
+          "text": "Acid Lore +7%"
+        }
+      ]
+    },
+    {
+      "text": "Corrosion +47",
+      "tooltip": "Corrosion +47: Passive: +47 Equipment bonus to Acid Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Corrosion_(spell_boost)",
+          "title": "Corrosion (spell boost)",
+          "text": "Corrosion +47"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Hands Boost +1 or +3",
+      "tooltip": "Mythic Hands Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Hands Boost"
+        }
+      ]
+    }
+  ]
+}

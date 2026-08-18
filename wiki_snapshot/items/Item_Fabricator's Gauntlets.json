@@ -1,0 +1,70 @@
+{
+  "page_title": "Item:Fabricator's Gauntlets",
+  "page_id": 18842,
+  "revision_id": 630711,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:01:52.211510+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Fabricator's Gauntlets\n  | type                     = Gloves\n  | class                    = Clothing\n  | basevalue                = 10,005pp\n  | weight                   = 0.10 lbs\n  | slot                     = Hand\n  | durability               = 110\n  | material                 = Leather\n  | hardness                 = 16\n  | minlevel                 = 18\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 11\n  | quest                    = House Cannith Manufactury\n  | chest                    = [[Wrack (Rare Encounter)|Wrack]]'s chest (Rare encounter)\n  | mythic                   = no\n  | enhancements             = \n* {{Stat|STR|6}}\n* {{Resistance|5}}\n* {{Alacrity|Melee|10}}\n* {{Nearly Finished}}\n  | epic                     = no\n  | crafting                 = Nearly Finished\n  | craftingupgrade          = <!-- -->\n  | description              = Fabricators of House Cannith wear bulky gauntlets like these to increase their manual strength and their ability to work with raw materials.\n  | pic                      = Gloves Generic Fabricator.png\n  | picdesc                  = Fabricator's Gauntlets.png\n  | tips                     = Upgrade (becomes {{Bind|BtC|BOA}}):\n<table border=\"0\" align=\"center\">\n<tr><td align=\"center\">{{Popup|[[File:1_Fabricator's Gauntlets.jpg|link=]]| Fabricator's Gauntlets}} + {{Popup|[[File:1_Dense_Ingot.jpg|link=]]| 1 Dense Ingot}} + {{Popup|[[File:1_Metallic_Ingot.jpg|link=]]| 1 Metallic Ingot}} + {{Popup|[[File:1_Glowing_Ingot.jpg|link=]]| 1 Glowing Ingot}} + {{Popup|[[File:1_Lesser_Cannith_Power_Cell.jpg|link=]]| 1 Lesser Cannith Power Cell}}\n</td></tr><tr><td><hr width=\"100%\">\n</td></tr><tr><td>[[File:Fabricator's Gauntlets (Fabricator's Ingenuity).png]]\n</td></tr></table>\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 18,
+  "enchantments": [
+    {
+      "text": "Strength +6",
+      "tooltip": "Strength +6: This item gives the wearer the power of Ogre Strength, granting a +6 Enhancement bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Strength",
+          "title": "Strength",
+          "text": "Strength +6"
+        }
+      ]
+    },
+    {
+      "text": "Resistance +5",
+      "tooltip": "Resistance +5: Passive: +5 Resistance bonus to Fortitude, Reflex, and Will Saving Throws.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Resistance_(enchantment)",
+          "title": "Resistance (enchantment)",
+          "text": "Resistance +5"
+        }
+      ]
+    },
+    {
+      "text": "Melee Alacrity 10%",
+      "tooltip": "Melee Alacrity 10%: Gain 10% Enhancement bonus to Melee attack speed. Does not stack with the Haste spell.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Melee_Alacrity",
+          "title": "Melee Alacrity",
+          "text": "Melee Alacrity 10%"
+        }
+      ]
+    },
+    {
+      "text": "Nearly Finished - Fabricator's Ingenuity",
+      "tooltip": "Fabricator's Ingenuity: +25% stacking fortification and +2 artifact bonus to your attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Nearly_Finished",
+          "title": "Nearly Finished",
+          "text": "Nearly Finished"
+        },
+        {
+          "target": "/page/Named_item_sets#Fabricator's_Ingenuity",
+          "title": "Named item sets",
+          "text": "Fabricator's Ingenuity"
+        }
+      ]
+    }
+  ]
+}

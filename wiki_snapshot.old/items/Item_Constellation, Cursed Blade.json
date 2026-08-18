@@ -1,0 +1,149 @@
+{
+  "page_title": "Item:Constellation, Cursed Blade",
+  "page_id": 74096,
+  "revision_id": 681149,
+  "revision_timestamp": "2026-03-27T21:34:41Z",
+  "fetched_at": "2026-08-17T03:59:53.947667+00:00",
+  "categories": [],
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Sword",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Cursed Maelstrom",
+      "tooltip": "Cursed Maelstrom: This weapon is wracked with a dangerous and volatile curse. Striking an enemy has a chance to place a random, debilitating, and deadly debuff on your foe.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cursed_Maelstrom",
+          "title": "Cursed Maelstrom",
+          "text": "Cursed Maelstrom"
+        }
+      ]
+    },
+    {
+      "text": "Accursed FlameThis weapon is wrapped in cursed flames, dealing an additional 6d6 Fire damage on each hit. When striking an enemy that has been Quelled, it also deals 6d6 Evil damage on each hit.This effect makes the weapon evil aligned. Good characters wielding this weapon will suffer one negative level.",
+      "tooltip": "Accursed Flame: Coalesce beyond the material, join us in the Flame! Hatred burns eternal!",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Accursed_Flame",
+          "title": "Accursed Flame",
+          "text": "Accursed Flame"
+        },
+        {
+          "target": "/page/Intercession",
+          "title": "Intercession",
+          "text": "Quelled"
+        },
+        {
+          "target": "/page/Negative_level",
+          "title": "Negative level",
+          "text": "negative level"
+        }
+      ]
+    },
+    {
+      "text": "Nearly Finished",
+      "tooltip": "Nearly Finished: This item isn't quite finished, but it's only a step away from completion. Bring it to a Cannith Reforging Station and combine it with melted materials to restore this item to its full potential.",
+      "children": [
+        {
+          "text": "Purple Augment Slot",
+          "tooltip": "Blue, Purple, Red, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Purple Augment Slot"
+            }
+          ]
+        },
+        {
+          "text": "Fetters of Unreality",
+          "tooltip": "Fetters of Unreality: This weapon is cruel and deadly, and leaves behind wounds that affect both the body and the soul. This weapon has a chance to inflict multiple stacks of Vulnerable.Vulnerable: You take 1% more damage for 3 seconds. This effect stacks up to 20 times, and loses one stack on expiration.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Fetters_of_Unreality",
+              "title": "Fetters of Unreality",
+              "text": "Fetters of Unreality"
+            }
+          ]
+        },
+        {
+          "text": "Completed Weapon",
+          "tooltip": "Completed Weapon: This item is fully completed, and as a result deals an additional .5W damage.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Completed_Weapon",
+              "title": "Completed Weapon",
+              "text": "Completed Weapon"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Nearly_Finished",
+          "title": "Nearly Finished",
+          "text": "Nearly Finished"
+        }
+      ]
+    },
+    {
+      "text": "Improved Destruction",
+      "tooltip": "Improved Destruction: On Hit: Your target gains a stack of Armor Destruction. (-1 penalty to Armor Class, -1% of its Fortification. 20 Second Duration. Stacks up to 15 times.) This effect may trigger once every second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Improved_Destruction",
+          "title": "Improved Destruction",
+          "text": "Improved Destruction"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ],
+  "item_class": "Weapon",
+  "item_template": ""
+}

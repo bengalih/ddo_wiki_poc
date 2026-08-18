@@ -1,0 +1,43 @@
+{
+  "page_title": "Item:Green Steel Warhammer",
+  "page_id": 9039,
+  "revision_id": 631298,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:17:02.401039+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Green Steel Warhammer\n  | damage                   = 1.50[1d8] + 5 Bludgeon, Evil, Magic\n  | crit                     = 20 / x3\n  | type                     = War Hammer\n  | hand                     = One-handed\n  | class                    = Bludgeoning\n  | damagemod                = STR\n  | attackmod                = STR\n  | minlevel                 = 12\n  | prof                     = Martial\n  | durability               = 115\n  | material                 = Steel\n  | hardness                 = 25\n  | quest                    = Altar of Fecundity\n  | chest                    = [[Altar of Fecundity - Manufactured Ingredient Recipes|Manufactured Ingredient Recipes]]\n  | basevalue                = 5,401pp 2gp\n  | weight                   = 5 lbs\n  | bind                     = {{Bind|BtC|boe}}\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|5}}\n* {{mat|Green Steel}}\n  | return                   = \n  | crafting                 = Green Steel\n  | craftingupgrade          = <!-- yep -->\n  | pic                      = Crafting GreenSteelWarhammer oficial.jpg\n  | picdesc                  = Green Steel Warhammer.png\n  | description              = A large sledge with a heavy, square head. Popular among dwarves as an alternative to the axe.\n  | tips                     = \n'''+5 Green Steel Warhammer'''\n{{Greensteel material|oot|rt|wo|ss|e}}\n}}\n[[Category:Green Steel items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "War Hammer",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Green Steel",
+      "tooltip": "Green Steel: Greensteel is a rare and special material that can be crafted in the Vale of Twilight.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Green_Steel",
+          "title": "Green Steel",
+          "text": "Green Steel"
+        }
+      ]
+    }
+  ]
+}

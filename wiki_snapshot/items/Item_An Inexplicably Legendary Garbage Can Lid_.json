@@ -1,0 +1,108 @@
+{
+  "page_title": "Item:An Inexplicably Legendary Garbage Can Lid?",
+  "page_id": 74167,
+  "revision_id": 628248,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:03:29.528257+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = An Inexplicably Legendary Garbage Can Lid?\n  | type                     = Small\n  | prof                     = General\n  | reqtrait                 = <!-- Required Trait. Leave this comment if none.  -->\n  | UMD DC                   = <!-- Use Magic Device DC. Leave this comment if none.  -->\n  | minlevel                 = 29\n  | bind                     = {{Bind|BtA|BoA}}\n  | sb                       = +21\n  | maxdexbonus              = \n  | dr                       = 19\n  | acp                      = 0\n  | asf                      = 5\n  | dmg                      = 4.80[1d8+4] + 15\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 18-20 / x3\n  | durability               = 410\n  | material                 = Densewood\n  | hardness                 = 54\n  | basevalue                = 12,004 pp\n  | weight                   = 5 lbs\n  | released                 = Update 42\n  | quest                    = Scavenger Hunt\n  | end reward               = <!-- yes if end reward; leave blank otherwise -->\n  | chest                    = End Chest, [[The Magma Must Flow]] End Chest\n  | turn in                  = \n  | enhancements             = \n* {{Enhancement bonus|s|15}}\n* {{Impact}}\n* {{Bludgeoning|6}}\n* {{Shield Bashing|%=20}}\n* {{HealingAmp|15|h|Exceptional}}\n* {{Augment|blue}}\n  | crafting                 = <!--Type of crafting. Leave blank if none. -->\n  | craftingupgrade          = <!-- can leave blank, though comment required if |crafting is used -->\n  | description              = This is... a garbage can lid.  It's dented.\n  | pic                      = A Garbage Can Lid Shown.png\n  | picdesc                  = An Inexplicably Legendary Garbage Can Lid?.png\n  | tips                     = \n}}\n\n[[Category:The Magma Must Flow loot]]",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Densewood",
+  "item_type": "Small Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 29,
+  "enchantments": [
+    {
+      "text": "+15 Enhancement Bonus",
+      "tooltip": "+15 Enhancement Bonus: +15 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+15 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Impact",
+      "tooltip": "Impact: Passive: The base critical threat range of this weapon is doubled. This does not stack with Improved Critical feat. Vorpal Strikes by this weapon also bypass all Fortification.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Impact",
+          "title": "Impact",
+          "text": "Impact"
+        }
+      ]
+    },
+    {
+      "text": "Bludgeoning 6",
+      "tooltip": "Bludgeoning 6: The edges of this weapon are blunted, dealing an additional 6d6 bludgeon damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bludgeoning",
+          "title": "Bludgeoning",
+          "text": "Bludgeoning 6"
+        }
+      ]
+    },
+    {
+      "text": "Shield Bashing +20%",
+      "tooltip": "Shield Bashing +20%: +20% Enhancement bonus to your chance of a Secondary Shield Bash. This stacks with bonuses granted by any relevant feats.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Shield_Bashing",
+          "title": "Shield Bashing",
+          "text": "Shield Bashing +20%"
+        }
+      ]
+    },
+    {
+      "text": "Exceptional Healing Amplification +15",
+      "tooltip": "Healing Amplification: This effect amplifies all incoming positive energy healing by +15 (Exceptional bonus). Includes spells, potions, and other effects.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Healing_Amplification",
+          "title": "Healing Amplification",
+          "text": "Exceptional Healing Amplification +15"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

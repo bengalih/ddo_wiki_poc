@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Epic Souleater",
+  "page_id": 12742,
+  "revision_id": 640376,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:56:38.448211+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Epic Souleater\n  | type                     = Quarterstaff\n  | hand                     = Two-handed\n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | damage                   = 3[1d6] + 6 Bludgeon, Magic\n  | crit                     = 19-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 20\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 280\n  | material                 = Wood\n  | hardness                 = 30\n  | basevalue                = 8000pp 2cp\n  | weight                   = 4 lbs\n  | quest                    = Epic Crafting\n  | released                 = Update 6\n  | epic                     = Souleater\n  | mythic                   = no\n  | crafting                 = Legendary Crafting\n  | craftingupgrade          = Legendary Souleater\n  | enhancements             = \n* {{Enhancement bonus|w|6}}\n* {{Trap the Soul|Epic}}\n* {{Demonic Might}}\n* {{Feeding|20}}\n* {{Vampirism|2}}\n* {{Negativity|4}}\n* {{Augment|Red}}\n  | description              = This is the staff used by the [[sahuagin]] High Priestess Slikir to commune with and channel a demon. It took on many of the demon's aspects and is now a dangerous and corrupted implement.\n  | pic                      = Souleater shown.jpg\n  | picdesc                  = Epic Souleater.png\n  | tips                     = \n}}\n[[Category:The Red Fens epic items]]",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Quarterstaff",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 20,
+  "enchantments": [
+    {
+      "text": "+6 Enhancement Bonus",
+      "tooltip": "+6 Enhancement Bonus: +6 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+6 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Epic Trap the Soul",
+      "tooltip": "Epic Trap the Soul: This equipment stores an overwhelming, merciless power deep within. When you strike an enemy with a melee or missile attack, this power occasionally comes to the surface, sucking out the life force of an enemy and imprisoning the essence of their body and soul in a gem.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Trap_the_Soul_(enchantment)",
+          "title": "Trap the Soul (enchantment)",
+          "text": "Epic Trap the Soul"
+        }
+      ]
+    },
+    {
+      "text": "Demonic Might",
+      "tooltip": "Demonic Might: This item gives the wearer the power of a demon, granting a +2 Profane bonus to Strength.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Demonic_Might",
+          "title": "Demonic Might",
+          "text": "Demonic Might"
+        }
+      ]
+    },
+    {
+      "text": "Feeding 20",
+      "tooltip": "Feeding 20: On Vorpal Hit: Your target incurs one Negative Level, and you gain +20 temporary hit points. (These Temporary Hit Points last for one minute, or until used to negate incoming damage.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Feeding",
+          "title": "Feeding",
+          "text": "Feeding 20"
+        }
+      ]
+    },
+    {
+      "text": "Vampirism 2",
+      "tooltip": "Vampirism 2: This weapon thirsts for the blood of your enemies, healing you for +2d2 hit points with each hit.Note: internal cooldown of 1 second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Vampirism 2"
+        }
+      ]
+    },
+    {
+      "text": "Negativity 4",
+      "tooltip": "Negativity 4: This effect causes this weapon to be shrouded in dark mists, dealing 4d6 negative energy on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Negativity",
+          "title": "Negativity",
+          "text": "Negativity 4"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

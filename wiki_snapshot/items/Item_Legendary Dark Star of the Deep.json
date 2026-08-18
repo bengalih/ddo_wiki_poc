@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Legendary Dark Star of the Deep",
+  "page_id": 126660,
+  "revision_id": 705668,
+  "revision_timestamp": "2026-08-15T23:07:50Z",
+  "fetched_at": "2026-08-17T21:39:44.364840+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Legendary Dark Star of the Deep\n  | damage                   = 6[1d2+2] + 16 Slash, Evil, Magic\n  | crit                     = 20 / x2\n  | type                     = Shuriken\n  | class                    = Thrown\n  | prof                     = Exotic\n  | hand                     = Thrown\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | durability               = 365\n  | material                 = Steel\n  | hardness                 = 45\n  | minlevel                 = 35\n  | basevalue                = 14,000pp 2sp\n  | weight                   = 0.50 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 81\n  | quest                    = A Blood Pact\n  | chest                    = Gnolls' Grotto\n  | enhancements             = \n* {{Enhancement bonus|w|16}}\n* {{Unholy|7}}\n* {{Crushing|16}}\n* {{Disintegrate|7}}\n* {{Vampirism|3}}\n* {{Returning}}\n* {{Augment|Orange}}\n* {{Augment|Purple}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = At a certain angle, these stars shine an uncanny light.\n  | pic                      = Dark Star of the Deep shown.jpg\n  | picdesc                  = Legendary Dark Star of the Deep.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Exotic Weapon Proficiency",
+  "item_type": "Shuriken",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 35,
+  "enchantments": [
+    {
+      "text": "+16 Enhancement Bonus",
+      "tooltip": "+16 Enhancement Bonus: +16 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+16 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Unholy 7",
+      "tooltip": "Unholy 7: On Hit: 7 to 42 Evil damage. Evil-aligned creatures are immune to this effect.Penalty: If equipped by a Good user, they receive 1 Negative Level for as long as this item is equipped.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Unholy 7"
+        }
+      ]
+    },
+    {
+      "text": "Crushing 16",
+      "tooltip": "Crushing 16: This effect causes the edges of this weapon to ripple with force, dealing 16d6 force damage on each critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crushing",
+          "title": "Crushing",
+          "text": "Crushing 16"
+        }
+      ]
+    },
+    {
+      "text": "Disintegrate 7",
+      "tooltip": "Disintegrate 7: Strikes with this weapon have a small chance to call forth a strike of entropic force, dealing 7d20+72 untyped damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disintegrate",
+          "title": "Disintegrate",
+          "text": "Disintegrate 7"
+        }
+      ]
+    },
+    {
+      "text": "Vampirism 3",
+      "tooltip": "Vampirism 3: This weapon thirsts for the blood of your enemies, healing you for +3d2 hit points with each hit.Note: internal cooldown of 1 second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vampirism",
+          "title": "Vampirism",
+          "text": "Vampirism 3"
+        }
+      ]
+    },
+    {
+      "text": "Returning",
+      "tooltip": "Returning: This missile will return to you.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Returning",
+          "title": "Returning",
+          "text": "Returning"
+        }
+      ]
+    },
+    {
+      "text": "Orange Augment Slot",
+      "tooltip": "Orange, Red, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Orange Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Purple Augment Slot",
+      "tooltip": "Blue, Purple, Red, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Purple Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

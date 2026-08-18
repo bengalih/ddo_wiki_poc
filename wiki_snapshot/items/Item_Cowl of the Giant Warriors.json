@@ -1,0 +1,89 @@
+{
+  "page_title": "Item:Cowl of the Giant Warriors",
+  "page_id": 63591,
+  "revision_id": 629194,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:27:22.665683+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Cowl of the Giant Warriors\n  | type                     = Cloak\n  | basevalue                = 4,020 pp\n  | weight                   = 0.10 lbs\n  | slot                     = Back\n  | durability               = 110\n  | material                 = Cloth\n  | hardness                 = 20\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 35\n  | quest                    = The Newcomers\n  | chest                    = end chest\n  | enhancements             = \n* {{Tactics|Combat Mastery|3|Ins}}\n* {{Speed|20}}\n* {{Sheltering|14|Enhancement|Physical}}\n* {{Deadly|2|Insightful}}\n* {{Augment|Green}}\n  | description              = This strip of cloth was once used by the Giants that inhabited this place. Some of their tenacity still resides within its fibers.\n  | pic                      = Cowl of the Giant Warriors Shown.jpg\n  | picdesc                  = Cowl of the Giant Warriors.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Cloth",
+  "item_type": "Cloak",
+  "item_class": "Clothing",
+  "slot": "Back",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "Insightful Combat Mastery +3",
+      "tooltip": "Insightful Combat Mastery +3: +3 Insight bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Combat_Mastery",
+          "title": "Combat Mastery",
+          "text": "Insightful Combat Mastery +3"
+        }
+      ]
+    },
+    {
+      "text": "Speed +20%",
+      "tooltip": "Speed +20%: +20% enhancement bonus to movement speed, 7% bonus to attack speed.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Speed",
+          "title": "Speed",
+          "text": "Speed +20%"
+        }
+      ]
+    },
+    {
+      "text": "Physical Sheltering +14",
+      "tooltip": "Physical Sheltering +14: +14 Enhancement bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Physical Sheltering +14"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Deadly +2",
+      "tooltip": "Insightful Deadly +2: +2 Insight bonus to weapon damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Deadly",
+          "title": "Deadly",
+          "text": "Insightful Deadly +2"
+        }
+      ]
+    },
+    {
+      "text": "Green Augment Slot",
+      "tooltip": "Blue, Green, Yellow, and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Green Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Cloak Boost +1 or +3",
+      "tooltip": "Mythic Cloak Boost +1 or +3: +1 or +3 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Cloak Boost"
+        }
+      ]
+    }
+  ]
+}

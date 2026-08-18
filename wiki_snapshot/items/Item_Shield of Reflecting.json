@@ -1,0 +1,96 @@
+{
+  "page_title": "Item:Shield of Reflecting",
+  "page_id": 12301,
+  "revision_id": 634637,
+  "revision_timestamp": "2025-04-22T03:34:45Z",
+  "fetched_at": "2026-08-17T22:55:34.565892+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | type                     = Large\n  | prof                     = General\n  | sb                       = +9\n  | maxdexbonus              = \n  | dr                       = 9\n  | acp                      = -1\n  | asf                      = 15\n  | dmg                      = [1d6] + 5\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 20 / x2\n  | damagemod                = STR\n  | durability               = 175\n  | material                 = Steel\n  | hardness                 = 20\n  | basevalue                = 4,002 pp\n  | weight                   = 15 lbs\n  | minlevel                 = 10\n  | bind                     = {{Bind|BtA|BoA}}\n  | revamped                 = Update 49\n  | quest                    = Diplomatic Impunity\n  | chest                    = [[Kukennama]]'s/Eliminate the Clan chest\n  | enhancements             = \n* {{Enhancement bonus|s|5}}\n* {{Parrying|2}}\n* {{Sheltering|6|Insightful|Physical}}\n* {{Absorption|Petrification|0|5}} \n* {{Guard|Stone Prison}}\n  | description              = This shield was probably once used in an attempt to fight a medusa. It can protect the wielder against transmutation spells such as [[Flesh to Stone]].\n  | pic                      = Shield of Reflecting shown.jpg\n  | picdesc                  = Shield of Reflecting.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Shield Proficiency (General)",
+  "material": "Steel",
+  "item_type": "Large Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 10,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Parrying +2",
+      "tooltip": "Parrying +2: +2 Insight bonus to Armor Class, +2 Insight bonus to Saves.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Parrying",
+          "title": "Parrying",
+          "text": "Parrying +2"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Physical Sheltering +6",
+      "tooltip": "Insightful Physical Sheltering +6: +6 Insight bonus to Physical Resistance Rating",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Sheltering",
+          "title": "Sheltering",
+          "text": "Insightful Physical Sheltering +6"
+        }
+      ]
+    },
+    {
+      "text": "Absorb Petrification - 5 Charges (Recharged/Day: 5)",
+      "tooltip": "Absorb Petrification: This effect absorbs most petrification spells. Only a few such spells can be absorbed before the item ceases to function and must have time to dissipate the absorbed energy.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Absorb_Petrification",
+          "title": "Absorb Petrification",
+          "text": "Absorb Petrification"
+        }
+      ]
+    },
+    {
+      "text": "Stone Prison Guard",
+      "tooltip": "Stone Prison Guard: This item has a chance to turn those who hit you to stone. A successful Fortitude save (DC 17) will negate this effect.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Stone_Prison_Guard",
+          "title": "Stone Prison Guard",
+          "text": "Stone Prison Guard"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

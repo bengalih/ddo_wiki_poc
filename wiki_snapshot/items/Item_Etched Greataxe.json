@@ -1,0 +1,128 @@
+{
+  "page_title": "Item:Etched Greataxe",
+  "page_id": 56301,
+  "revision_id": 630605,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:59:40.421097+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=items|custom=This item stopped dropping in [[Update 56]], though since it was unbound until upgraded, it may still appear on the [[Auction House]].|customcat=Temple of Elemental Evil items}}\n\n{{Named item|Weapon\n  | name                     = Etched Greataxe\n  | historic                 = TRUE\n  | damage                   = [1d12] + 3 Slash, Magic\n  | crit                     = 20 / x3\n  | type                     = Great Axe\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | reqtrait                 = \n  | UMD DC                   = \n  | damagemod                = STR\n  | attackmod                = STR\n  | minlevel                 = 7\n  | durability               = 150\n  | material                 = Steel\n  | hardness                 = 15\n  | basevalue                = 2,820 pp\n  | weight                   = 12 lbs\n  | bind                     = {{Bind|No|nocat=TRUE}}\n  | released                 = Update 25\n  | quest                    = Temple of Elemental Evil Part One\n  | chest                    = and '''[[Temple of Elemental Evil Part Two]]''' any chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|3}}\n* {{CraftingEffects|Upgradeable Item (Temple of Elemental Evil)|nocat=TRUE}}\n** Tier 1:\n*** Adds {{Maiming|nocat=TRUE}}\n*** Adds {{Acid Torrent|nocat=TRUE}}\n** Tier 2:\n*** Adds {{Blast|Acid|nocat=TRUE}}\n*** Adds {{Augment|Purple|nocat=TRUE}}\n* {{Vulnerability|Acid|nocat=TRUE}}\n  | crafting                 = ToEE Crafting\n  | craftingupgrade          = \n  | description              = A weapon found deep within the Temple of Elemental Evil.\n  | pic                      = \n  | picdesc                  = Etched Greataxe.jpg\n  | tips                     = \n}}",
+  "item_template": "History",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Great Axe",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "+3 Enhancement Bonus",
+      "tooltip": "+3 Enhancement Bonus: +3 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+3 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable Item (Temple of Elemental Evil)",
+      "tooltip": "Upgradeable Item (Temple of Elemental Evil): This item can be upgraded. Bring this item to the Overgrown Workbench in the Temple of Elemental Evil and combine it with Rusty Gilled Mushrooms to upgrade the item to a more powerful form.",
+      "children": [
+        {
+          "text": "Tier 1:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Maiming",
+              "tooltip": "Maiming: This weapon has a twisted haft or grip and spikes along its blade, head, or point. Whenever you score a critical hit with this weapon it deals an amount of extra untyped damage depending on its critical multiplier: x2 - 1 to 6, x3 - 2 to 12, x4 - 3 to 18.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Maiming",
+                  "title": "Maiming",
+                  "text": "Maiming"
+                }
+              ]
+            },
+            {
+              "text": "Adds Acid Torrent",
+              "tooltip": "Acid Torrent: This weapon is imbued with a vitriolic wrath. On an attack roll of 20 which is confirmed as a critical hit this power will be released, dealing damage to the target and all enemies near it for 15d6 acid damage. A successful Reflex save (DC 39) reduces this by half.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Acid_Torrent#Acid_Torrent",
+                  "title": "Acid Torrent",
+                  "text": "Acid Torrent"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Tier 2:",
+          "tooltip": null,
+          "children": [
+            {
+              "text": "Adds Acid Blast",
+              "tooltip": "Acid Blast: An acid blast weapon is sheathed in corrosive acid. Critical hits with this weapon deal an additional 1 to 10 acid damage for weapons with a x2 critical multiplier, 2 to 20 for a x3 critical multiplier, and 3 to 30 for a x4 multiplier. Additionally, if you roll a 20 when attacking and confirm the critical hit, the weapon blasts your target, doing 4 to 24 more acid damage.",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Acid_Blast",
+                  "title": "Acid Blast",
+                  "text": "Acid Blast"
+                }
+              ]
+            },
+            {
+              "text": "Adds Purple Augment Slot",
+              "tooltip": "Blue, Purple, Red, and Colorless",
+              "children": [],
+              "links": [
+                {
+                  "target": "/page/Augment_Slot",
+                  "title": "Augment Slot",
+                  "text": "Purple Augment Slot"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Overgrown_Workbench",
+          "title": "Overgrown Workbench",
+          "text": "Upgradeable Item (Temple of Elemental Evil)"
+        }
+      ]
+    },
+    {
+      "text": "Acid Vulnerability",
+      "tooltip": "Acid Vulnerability: On Hit: Applies a stack of Vulnerable (1% more damage for 3 seconds. This effect stacks up to 20 times, and loses one stack on expiration.). This effect may only occur on-hit once every second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Vulnerable",
+          "title": "Vulnerable",
+          "text": "Acid Vulnerability"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

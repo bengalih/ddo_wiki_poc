@@ -1,0 +1,201 @@
+{
+  "page_title": "Item:Spare Hand (level 7)",
+  "page_id": 36697,
+  "revision_id": 706064,
+  "revision_timestamp": "2026-08-17T19:02:12Z",
+  "fetched_at": "2026-08-17T23:02:30.674870+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = {{Item|Spare Hand}}\n  | type                     = Belt\n  | basevalue                = 2,805pp\n  | weight                   = 0.10 lbs\n  | slot                     = Waist\n  | durability               = 80\n  | material                 = Leather\n  | hardness                 = 13\n  | minlevel                 = 7\n  | bind                     = {{Bind|BtA|BoA}}\n  | quest                    = Vaults of the Artificers\n  | turn in                  = various challenge ingredients\n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n{{VaultsOfTheArtificersUpgrade}}\n  | crafting                 = \n  | craftingupgrade          = <!--yes -->\n  | description              = A belt with a remarkable augmentation: a clawed hand that extends from it and will help you attack your foes and make tasks easier to perform.\n  | pic                      = Belt Generic Spare.png\n  | picdesc                  = Spare Hand (Level 7).png\n  | tips                     =\n* {{Popup|Tier 2|[[Image:Spare Hand (Level 7)(Tier 2).png|452 px]]|long=y}}\n* {{Popup|Tier 3|[[Image:Spare Hand (Level 7)(Tier 3).png|452 px]]|long=y}}\n}}",
+  "item_template": "Named item",
+  "material": "Leather",
+  "item_type": "Belt",
+  "item_class": "Clothing",
+  "slot": "Waist",
+  "minimum_level": 7,
+  "enchantments": [
+    {
+      "text": "Upgradeable - Tier 1",
+      "tooltip": "Upgradeable - Tier 1: This item is a Tier 1 upgradable item.",
+      "children": [
+        {
+          "text": "Riposte +2",
+          "tooltip": "Riposte +2: This item enchants its user with incredible awareness and speed, granting a +2 Insight bonus to AC and to Saves.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Riposte",
+              "title": "Riposte",
+              "text": "Riposte +2"
+            }
+          ]
+        },
+        {
+          "text": "Insightful Combat Mastery +2",
+          "tooltip": "Insightful Combat Mastery +2: +2 Insight bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Combat_Mastery",
+              "title": "Combat Mastery",
+              "text": "Insightful Combat Mastery +2"
+            }
+          ]
+        },
+        {
+          "text": "Disable Device +10",
+          "tooltip": "Disable Device +10: Passive: +10 Competence bonus to the Disable Device skill.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Disable_Device",
+              "title": "Disable Device",
+              "text": "Disable Device +10"
+            }
+          ]
+        },
+        {
+          "text": "Open Lock +10",
+          "tooltip": "Open Lock +10: Passive: +10 Competence bonus to the Open Lock skill.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Open_Lock",
+              "title": "Open Lock",
+              "text": "Open Lock +10"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 1"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 2",
+      "tooltip": "Upgradeable - Tier 2: This item is a Tier 2 upgradable item.",
+      "children": [
+        {
+          "text": "Disable Device +10 → Disable Device +11",
+          "tooltip": "Disable Device +10: Passive: +10 Competence bonus to the Disable Device skill.Disable Device +11: Passive: +11 Competence bonus to the Disable Device skill.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Disable_Device",
+              "title": "Disable Device",
+              "text": "Disable Device +10"
+            },
+            {
+              "target": "/page/Disable_Device",
+              "title": "Disable Device",
+              "text": "Disable Device +11"
+            }
+          ]
+        },
+        {
+          "text": "Open Lock +10 → Open Lock +11",
+          "tooltip": "Open Lock +10: Passive: +10 Competence bonus to the Open Lock skill.Open Lock +11: Passive: +11 Competence bonus to the Open Lock skill.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Open_Lock",
+              "title": "Open Lock",
+              "text": "Open Lock +10"
+            },
+            {
+              "target": "/page/Open_Lock",
+              "title": "Open Lock",
+              "text": "Open Lock +11"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 2"
+        }
+      ]
+    },
+    {
+      "text": "Upgradeable - Tier 3",
+      "tooltip": "Upgradeable - Tier 3: This item is a Tier 3 upgradable item.",
+      "children": [
+        {
+          "text": "Insightful Combat Mastery +2 → Insightful Combat Mastery +3",
+          "tooltip": "Insightful Combat Mastery +2: +2 Insight bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.Insightful Combat Mastery +3: +3 Insight bonus to the DC to resist the character's Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow, and Stunning Fist attempts.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Combat_Mastery",
+              "title": "Combat Mastery",
+              "text": "Insightful Combat Mastery +2"
+            },
+            {
+              "target": "/page/Combat_Mastery",
+              "title": "Combat Mastery",
+              "text": "Insightful Combat Mastery +3"
+            }
+          ]
+        },
+        {
+          "text": "Disable Device +11 → Disable Device +13",
+          "tooltip": "Disable Device +11: Passive: +11 Competence bonus to the Disable Device skill.Disable Device +13: Passive: +13 Competence bonus to the Disable Device skill.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Disable_Device",
+              "title": "Disable Device",
+              "text": "Disable Device +11"
+            },
+            {
+              "target": "/page/Disable_Device",
+              "title": "Disable Device",
+              "text": "Disable Device +13"
+            }
+          ]
+        },
+        {
+          "text": "Open Lock +11 → Open Lock +13",
+          "tooltip": "Open Lock +11: Passive: +11 Competence bonus to the Open Lock skill.Open Lock +13: Passive: +13 Competence bonus to the Open Lock skill.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Open_Lock",
+              "title": "Open Lock",
+              "text": "Open Lock +11"
+            },
+            {
+              "target": "/page/Open_Lock",
+              "title": "Open Lock",
+              "text": "Open Lock +13"
+            }
+          ]
+        },
+        {
+          "text": "Adds Green Augment Slot",
+          "tooltip": "Blue, Green, Yellow, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Green Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Vaults_of_the_Artificers_loot",
+          "title": "Vaults of the Artificers loot",
+          "text": "Upgradeable - Tier 3"
+        }
+      ]
+    }
+  ]
+}

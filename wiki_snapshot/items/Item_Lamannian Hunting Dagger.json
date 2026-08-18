@@ -1,0 +1,127 @@
+{
+  "page_title": "Item:Lamannian Hunting Dagger",
+  "page_id": 98706,
+  "revision_id": 671169,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:27:59.081241+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Lamannian Hunting Dagger\n  | damage                   = 2.20[1d4] + 5 Pierce, Magic\n  | crit                     = 19-20 / x2\n  | type                     = Dagger\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Piercing\n  | prof                     = Simple\n  | reqtrait                 = \n  | UMD DC                   = \n  | attackmod                = STR, DEX\n  | damagemod                = STR, DEX\n  | minlevel                 = 16\n  | durability               = 200\n  | material                 = Bone\n  | hardness                 = 26\n  | cost                     = 6400 pp 2 gp\n  | weight                   = 1.00 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 57\n  | revamped                 = Update 76\n  | quest                    = Growing Pains\n  | chest                    = end chest\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Bane|Animal|4}}\n* {{Bane|Vermin|4}}\n* {{Bane|Reptilian|4}}\n* {{Bane|Humanoid|4}}\n* {{Doublestrike|9}}\n* {{Seeker|8}}\n* {{Augment|Red}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = A simple tool, honed to perfection.\n  | pic                      = Lamannian Hunting Dagger shown.jpg\n  | picdesc                  = Lamannian Hunting Dagger.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dagger",
+  "weapon_class": "Piercing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 16,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Animal Bane 4",
+      "tooltip": "Animal Bane 4: This weapon is attuned specifically to disrupt the natural, dealing an additional 4d10 bane damage vs. Animals.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Animal Bane 4"
+        }
+      ]
+    },
+    {
+      "text": "Vermin Bane 4",
+      "tooltip": "Vermin Bane 4: This weapon is ideal for cleaning out rats and other annoying beasts. It deals an additional 4d10 bane damage vs. Vermin.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Vermin Bane 4"
+        }
+      ]
+    },
+    {
+      "text": "Reptilian Bane 4",
+      "tooltip": "Reptilian Bane 4: This weapon is attuned specifically to hunt those with cunning and scales, dealing an additional 4d10 bane damage vs. Reptilians.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Reptilian Bane 4"
+        }
+      ]
+    },
+    {
+      "text": "Humanoid Bane 4",
+      "tooltip": "Humanoid Bane 4: This weapon is attuned specifically to those that walk among us, dealing an additional 4d10 bane damage vs. Humanoids.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Humanoid Bane 4"
+        }
+      ]
+    },
+    {
+      "text": "Doublestrike 9%",
+      "tooltip": "Doublestrike 9%: Passive: 9% Enhancement bonus to Doublestrike. (Doublestrike is a chance to score an additional hit with a melee attack.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Doublestrike",
+          "title": "Doublestrike",
+          "text": "Doublestrike 9%"
+        }
+      ]
+    },
+    {
+      "text": "Seeker +8",
+      "tooltip": "Seeker +8: Provides a +8 Enhancement bonus to confirm critical hits, and a +8 Enhancement bonus to critical hit damage (before multipliers are applied).",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Seeker",
+          "title": "Seeker",
+          "text": "Seeker +8"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "page_title": "Item:Robe of Duality",
+  "page_id": 5053,
+  "revision_id": 686711,
+  "revision_timestamp": "2026-05-27T18:50:28Z",
+  "fetched_at": "2026-08-17T22:47:25.592473+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Robe of Duality\n  | type                     = Robe\n  | feat                     = Cloth\n  | race                     = None\n  | ac                       = +2\n  | maxdexbonus              = None\n  | acp                      = 0\n  | asf                      = 0%\n  | minlevel                 = 2\n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 25\n  | material                 = Cloth\n  | hardness                 = 4\n  | basevalue                = 805pp 5gp\n  | weight                   = 0 lbs\n  | quest                    = Setting the Wards: The Patriarchs' Crypt\n  | chest                    = End chest\n  | enhancements             = \n* {{Enhancement bonus|a|2}}\n* {{Augmentation|2|Arcane|1}}\n* {{Hp|False Life|7}}\n* {{Augment|Blue}}\n  | pic                      = Robe of Duality shown.jpg\n  | picdesc                  = Robe of Duality.png\n  | description              = This tattered robe was worn by Marguerite in her final hours of darkness.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "+2 Enhancement Bonus",
+      "tooltip": "+2 Enhancement Bonus: +2 enhancement bonus to Armor Class.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+2 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Arcane Augmentation I",
+      "tooltip": "Arcane Augmentation I: Increases the wearer's caster level when casting first level sorcerer or wizard spells by two.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Spell_Augmentation",
+          "title": "Spell Augmentation",
+          "text": "Arcane Augmentation I"
+        }
+      ]
+    },
+    {
+      "text": "False Life +7",
+      "tooltip": "False Life +7: +7 Enhancement bonus to hit points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)",
+          "title": "False Life (enchantment)",
+          "text": "False Life +7"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Armor Boost +2 or +4",
+      "tooltip": "Mythic Armor Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Armor Boost"
+        }
+      ]
+    }
+  ]
+}

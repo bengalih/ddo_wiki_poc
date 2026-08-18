@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Syranian Shortbow",
+  "page_id": 89824,
+  "revision_id": 635234,
+  "revision_timestamp": "2025-04-22T04:14:17Z",
+  "fetched_at": "2026-08-17T23:10:46.057551+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Syranian Shortbow\n  | minlevel                 = 15\n  | type                     = Short Bow\n  | class                    = Ranged\n  | prof                     = Martial\n  | hand                     = Ranged\n  | damage                   = 2[1d6] + 5 Pierce, Good, Adamantine, Magic\n  | crit                     = 20 / x3\n  | attackmod                = DEX\n  | damagemod                = DEX\n  | race                     = \n  | slot                     = \n  | bind                     = {{Bind|BtA|BoA}}\n  | durability               = 215\n  | material                 = Adamantine\n  | hardness                 = 35\n  | cost                     = 6,303 pp\n  | weight                   = 2 lbs\n  | released                 = Update 42\n  | quest                    = Syranian Forged Weaponry\n  | end reward               = \n  | turn in                  = 1 [[Dampening Alloy]], 1 [[Energizing Alloy]], 1 [[Caustic Compound]], 1 [[Stabilizing Compound]]\n  | chest                    = \n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Electrifying|4}}\n* {{Holy|4|1}}\n* {{Bane|Construct|4}}\n* {{Mat|Adamantine}}\n* {{Augment|Red}}\n  | crafting                 = \n  | description              = This tempered Adamantine weapon emanates subtle electrical power.\n  | pic                      = Syranian Shortbow shown.jpg\n  | picdesc                  = Syranian Shortbow.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Short Bow",
+  "weapon_class": "Ranged weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Electrifying 4",
+      "tooltip": "Electrifying 4: This effect causes the edges of this weapon to arc with electricity, dealing 4d6 Lightning damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Electrifying",
+          "title": "Electrifying",
+          "text": "Electrifying 4"
+        }
+      ]
+    },
+    {
+      "text": "Holy 4",
+      "tooltip": "Holy 4: This weapon is wielded by the pure to smite the wicked, dealing an additional 4d6 good damage on each hit. This effect makes the weapon good aligned. Evil characters wielding this weapon will suffer one negative level.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)",
+          "title": "Alignment damage (weapon)",
+          "text": "Holy 4"
+        }
+      ]
+    },
+    {
+      "text": "Construct Bane 4",
+      "tooltip": "Construct Bane 4: This weapon is attuned specifically to disrupt creations, dealing an additional 4d10 bane damage vs. Constructs.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Construct Bane 4"
+        }
+      ]
+    },
+    {
+      "text": "Adamantine",
+      "tooltip": "Adamantine: Found only in meteorites and the rarest of veins in magical areas, this ultrahard metal adds to the quality of a weapon or suit of armor. Weapons made of adamantine have the ability to bypass the protective damage reduction of certain monsters.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Adamantine",
+          "title": "Adamantine",
+          "text": "Adamantine"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

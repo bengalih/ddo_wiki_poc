@@ -1,0 +1,103 @@
+{
+  "page_title": "Item:Suncrusher",
+  "page_id": 73966,
+  "revision_id": 641214,
+  "revision_timestamp": "2025-05-20T05:33:58Z",
+  "fetched_at": "2026-08-17T23:07:39.612384+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Suncrusher\n  | damage                   = 2[1d8] + 5 Bludgeon, Good, Evil, Lawful, Chaotic, Magic\n  | crit                     = 20 / x2\n  | type                     = Morningstar\n  | hand                     = One-handed\n  | race                     = \n  | class                    = Bludgeoning\n  | prof                     = Simple\n  | reqtrait                 = <!-- Leave blank if not used-->\n  | UMD DC                   = <!-- Leave blank if not used-->\n  | attackmod                = STR\n  | damagemod                = STR\n  | minlevel                 = 15\n  | durability               = 215\n  | material                 = Steel\n  | hardness                 = 25\n  | cost                     = 6,000pp 8gp\n  | weight                   = 6 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | released                 = Update 42\n  | quest                    = Smash and Burn\n  | chest                    = end chest\n  | end reward               = <!-- Leave blank if not used-->\n  | turn in                  = <!-- Leave blank if not used-->\n  | epic                     = no <!-- If yes, replace \"no\" with name of non-epic version-->\n  | enhancements             = \n* {{Enhancement bonus|w|5}}\n* {{Fiery|4}}\n* {{Coruscating|4}}\n* {{Aligned}}\n* {{Smiting}}\n* {{Augment|Red}}\n  | crafting                 = <!--Type of crafting-->\n  | craftingupgrade          = <!--What item can be upgraded to-->\n  | description              = \"The sun itself will strike you down!\"\n  | pic                      = Suncrusher shown.jpg\n  | picdesc                  = Suncrusher.png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Morningstar",
+  "weapon_class": "Bludgeoning weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 15,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Fiery 4",
+      "tooltip": "Fiery 4: This effect causes the edges of this weapon to burn with enchanted flames, dealing 4d6 Fire damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fiery",
+          "title": "Fiery",
+          "text": "Fiery 4"
+        }
+      ]
+    },
+    {
+      "text": "Coruscating 4",
+      "tooltip": "Coruscating 4: This effect causes the edges of this weapon to coruscate, dealing 4d6 Light damage on each hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Coruscating",
+          "title": "Coruscating",
+          "text": "Coruscating 4"
+        }
+      ]
+    },
+    {
+      "text": "Aligned",
+      "tooltip": "Aligned: This weapon transmutes into a form that is able to bypass any alignment based Damage Reduction. (Chaotic, Good, Evil, Lawful)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Aligned",
+          "title": "Aligned",
+          "text": "Aligned"
+        }
+      ]
+    },
+    {
+      "text": "Smiting",
+      "tooltip": "Smiting: On Hit: 4 to 24 Bane damage to Constructs.On Vorpal Hit: If a construct struck by this weapon has fewer than 1000 Hit Points, it is instantly slain. If the construct has above 1000 Hit Points, it takes 100 damage.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Smiting#Smiting",
+          "title": "Smiting",
+          "text": "Smiting"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        }
+      ]
+    }
+  ]
+}

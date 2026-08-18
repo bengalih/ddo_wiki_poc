@@ -1,0 +1,30 @@
+{
+  "page_title": "Item:Sphere of Silver Flame Essence",
+  "page_id": 25636,
+  "revision_id": 668173,
+  "revision_timestamp": "2025-11-27T11:44:23Z",
+  "fetched_at": "2026-08-17T23:04:02.579914+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Sphere of Silver Flame Essence\n  | damage                   = [6d6] + 0 Bludgeon, Good\n  | crit                     = 20 / x2\n  | type                     = Dart\n  | hand                     = Thrown\n  | class                    = Thrown\n  | damagemod                = STR, DEX\n  | attackmod                = STR, DEX\n  | prof                     = Simple\n  | durability               = N/A\n  | material                 = None\n  | hardness                 = N/A\n  | minlevel                 = 0\n  | revamped                 = Update 76\n  | quest                    = The Spinner of Shadows\n  | chest                    = The Silver Flame\n  | basevalue                = 5 cp\n  | weight                   = 0.50 lbs\n  | bind                     = {{Bind|No}}\n  | mythic                   = no\n  | enhancements             = \n* {{holy}}\n  | crafting                 = \n  | craftingupgrade          = \n  | description              = This sphere contains a minuscule portion of a guardian spirit of the silver flame. Use it to smite your foes and claim your ground.\n  | pic                      = Sphere of Silver Flame Essence shown.jpg\n  | picdesc                  = Sphere of Silver Flame Essence.png\n  | tips                     = \n* This projectile can also weaken [[The Spinner of Shadows (monster)|the Spinner]]'s aura (see [[The Spinner of Shadows]]).\n* This is an in-quest only item and is destroyed on exiting the adventure or on death.\n* This item can only be received by talking to the Silver Flame spirit during the first phase of the quest.\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Simple Weapon Proficiency",
+  "item_type": "Dart",
+  "weapon_class": "Thrown weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "enchantments": [
+    {
+      "text": "Holy",
+      "tooltip": "Holy: A holy weapon is imbued with holy power. This power makes the weapon good-aligned. Evil characters wielding this weapon suffer a negative level. The weapon deals an extra 2 to 12 damage against all targets of evil alignment.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Alignment_damage_(weapon)#Holy",
+          "title": "Alignment damage (weapon)",
+          "text": "Holy"
+        }
+      ]
+    }
+  ]
+}

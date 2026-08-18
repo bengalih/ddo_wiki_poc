@@ -1,0 +1,68 @@
+{
+  "page_title": "Item:Necromantic Robe",
+  "page_id": 4905,
+  "revision_id": 686645,
+  "revision_timestamp": "2026-05-27T17:19:18Z",
+  "fetched_at": "2026-08-17T22:30:15.354298+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Armor\n  | name                     = Necromantic Robe\n  | type                     = Robe\n  | feat                     = Cloth\n  | ac                       = +3\n  | durability               = 25\n  | material                 = Cloth\n  | hardness                 = 4\n  | minlevel                 = 2\n  | quest                    = The Seal of Shan-To-Kor\n  | end reward               = yes\n  | epic                     = no\n  | basevalue                = 805.5pp\n  | weight                   = 0 lbs\n  | bind                     = {{Bind|BtA|BoA}}\n  | mythic                   = no\n  | enhancements             = \n* {{ArmorBonus|3}}\n* {{False Life|lesser}}\n* {{Power|2}}\n* {{Augment|Blue}}\n  | crafting                 = \n  | craftingupgrade          = \n  | pic                      = Necromantic Robe shown.jpg\n  | picdesc                  = Necromantic Robe.png\n  | description              = Some say the magic in this robe causes madness. Others claim it simply prolongs the madness of those who wear it by extending their life.\n  | notes                    = \n}}",
+  "item_template": "Named item",
+  "feat_requirement": "None",
+  "material": "Cloth",
+  "armor_type": "Robe",
+  "item_kind": "Armor",
+  "item_class": "Armor",
+  "item_type": "Cloth",
+  "slot": "Armor",
+  "minimum_level": 2,
+  "enchantments": [
+    {
+      "text": "Armor Bonus +3",
+      "tooltip": "Armor Bonus +3: This item surrounds the wearer with an invisible but tangible field of force, granting +3 armor bonus to AC, just as though he were wearing armor.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Armor_Bonus",
+          "title": "Armor Bonus",
+          "text": "Armor Bonus +3"
+        }
+      ]
+    },
+    {
+      "text": "Lesser False Life",
+      "tooltip": "Lesser False Life: This item grants the wearer +5 maximum health.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/False_Life_(enchantment)#Lesser_False_Life",
+          "title": "False Life (enchantment)",
+          "text": "Lesser False Life"
+        }
+      ]
+    },
+    {
+      "text": "Power II",
+      "tooltip": "Power II: This item grants the wearer +20 maximum spell points. Favored Souls and Sorcerers gain double spell points from this item.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Power",
+          "title": "Power",
+          "text": "Power II"
+        }
+      ]
+    },
+    {
+      "text": "Blue Augment Slot",
+      "tooltip": "Blue and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Blue Augment Slot"
+        }
+      ]
+    }
+  ]
+}

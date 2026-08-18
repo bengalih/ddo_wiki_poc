@@ -1,0 +1,108 @@
+{
+  "page_title": "Item:Duergarcraft Tower Shield",
+  "page_id": 126332,
+  "revision_id": 703560,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:40:48.791410+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Shield\n  | name                     = Duergarcraft Tower Shield\n  | type                     = Tower\n  | prof                     = Tower\n  | race                     = \n  | reqtrait                 = \n  | UMD DC                   = \n  | minlevel                 = 11\n  | damagemod                = STR\n  | attmod                   = STR\n  | bind                     = {{Bind|BtC|BoA}}\n  | sb                       = +17\n  | maxdexbonus              = 2\n  | dr                       = 13\n  | acp                      = -9\n  | asf                      = 50\n  | dmg                      = 1.20[1d12] + 5\n  | dmgtype                  = Bludgeon, Magic\n  | crit                     = 19-20 / x3\n  | durability               = 230\n  | material                 = Steel\n  | hardness                 = 36\n  | basevalue                = 4,804 pp\n  | weight                   = 50 lbs\n  | released                 = Update 81\n  | quest                    = Terror of Demogorgon\n  | chest                    = any end chest, many optional chests\n  | end reward               = \n  | turn in                  = \n  | epic                     = no\n  | enhancements             = \n* {{Enhancement bonus|s|5}}\n* {{Incite|23|Insightful}}\n* {{Conditioning|20|Legendary}}\n* {{Guardbreaking}}\n* {{Incite|11|Quality}}\n* {{Augment|Red}}\n  | description              = An extremely high-quality shield.\n  | crafting                 = Sealed Altar\n  | craftingupgrade          = Tower Shield of the Oozing Hunger\n  | pic                      = Duergarcraft Tower Shield shown.jpg\n  | picdesc                  = Duergarcraft Tower Shield.png\n  | tips                     = {{Bug|Mistakenly became BtC with Update 81.1.}}\n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Tower Shield Proficiency",
+  "material": "Steel",
+  "item_type": "Tower Shield",
+  "item_kind": "Shield",
+  "item_class": "Shield",
+  "slot": "Off Hand",
+  "minimum_level": 11,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to Armor Class, attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Incite +23",
+      "tooltip": "Insightful Incite +23: +23% Insight bonus to increased threat generation from melee damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incite",
+          "title": "Incite",
+          "text": "Insightful Incite +23"
+        }
+      ]
+    },
+    {
+      "text": "Legendary Conditioning +20%",
+      "tooltip": "Legendary Conditioning +20%: You have a +20% Legendary bonus to Maximum Hit Points.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Conditioning",
+          "title": "Conditioning",
+          "text": "Legendary Conditioning +20%"
+        }
+      ]
+    },
+    {
+      "text": "Guardbreaking",
+      "tooltip": "Guardbreaking: This item enables you to break an enemy's guard in between your melee attacks. On critical hits with your melee weapons, enemies will become dazed as a result.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Guardbreaking",
+          "title": "Guardbreaking",
+          "text": "Guardbreaking"
+        }
+      ]
+    },
+    {
+      "text": "Quality Incite +11",
+      "tooltip": "Quality Incite +11: +11% Quality bonus to increased threat generation from melee damage",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Incite",
+          "title": "Incite",
+          "text": "Quality Incite +11"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Weapon Boost +2 or +4 and/or Mythic Shield Boost +2 or +4",
+      "tooltip": "Mythic Weapon Boost +2 or +4: +2 or +4 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)Mythic Shield Boost +2 or +4: +2 or +4 Mythic bonus to Physical and Magical Resistance Ratings.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Weapon Boost"
+        },
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Shield Boost"
+        }
+      ]
+    }
+  ]
+}

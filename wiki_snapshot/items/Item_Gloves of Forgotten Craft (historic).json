@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Gloves of Forgotten Craft (historic)",
+  "page_id": 35029,
+  "revision_id": 631141,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:12:01.070568+00:00",
+  "categories": [],
+  "wikitext": "{{History|type=item|replaced={{Item|Gloves of Forgotten Craft}}}}\n{{Named item|Clothing\n  | name                     = {{Item|Gloves of Forgotten Craft}}\n  | type                     = Gloves\n  | class                    = Clothing\n  | slot                     = Hand\n  | durability               = 80 \n  | material                 = Leather \n  | hardness                 = 17 \n  | basevalue                = 4,920 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 13\n  | bind                     = {{Bind|no}} \n  | quest                    = Gianthold Tor\n  | chest                    = [[Grundaussir|White Dragon]]'s chest\n  | mythic                   = no\n  | enhancements             = \n* {{Skills|dd|13}}\n* {{ItemGrantedFeat|Thrown}}\n* {{Stat|DEX|3}}\n  | description              = These gloves were sewn for the artisan slaves of the Lost Empire. The giants found that such enchanted tools enabled the nimble elves to manufacture wonders.\n  | pic                      = Gloves Generic Forgotten.png\n  | picdesc                  = Gloves of Forgotten Craft.png\n}}",
+  "item_template": "History",
+  "material": "Leather",
+  "item_type": "Gloves",
+  "item_class": "Clothing",
+  "slot": "Hand",
+  "minimum_level": 13,
+  "enchantments": [
+    {
+      "text": "Disable Device +13",
+      "tooltip": "Disable Device +13: Passive: +13 Competence bonus to the Disable Device skill.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Disable_Device",
+          "title": "Disable Device",
+          "text": "Disable Device +13"
+        }
+      ]
+    },
+    {
+      "text": "Weapon Focus: Thrown",
+      "tooltip": "Weapon Focus: Thrown: While equipped this item grants the feat Weapon Focus: Piercing, giving a +1 to your attack bonus when using all thrown weapons.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Weapon_Focus",
+          "title": "Weapon Focus",
+          "text": "Weapon Focus"
+        }
+      ]
+    },
+    {
+      "text": "Dexterity +3",
+      "tooltip": "Dexterity +3: This item makes the wearer more nimble and dexterous, granting a +3 Enhancement bonus to Dexterity.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Dexterity",
+          "title": "Dexterity",
+          "text": "Dexterity +3"
+        }
+      ]
+    }
+  ]
+}

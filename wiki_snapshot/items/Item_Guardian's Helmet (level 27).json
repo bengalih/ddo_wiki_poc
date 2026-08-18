@@ -1,0 +1,53 @@
+{
+  "page_title": "Item:Guardian's Helmet (level 27)",
+  "page_id": 41548,
+  "revision_id": 649924,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:17:53.957089+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Clothing\n  | name                     = Guardian's Helmet\n  | type                     = Helm\n  | class                    = Clothing\n  | basevalue                = 10,820pp\n  | weight                   = 0.10 lbs\n  | slot                     = Head\n  | durability               = 190\n  | material                 = Steel\n  | hardness                 = 28\n  | minlevel                 = 27\n  | bind                     = {{Bind|BtC|BoA}}\n  | released                 = Update 19\n  | quest                    = Breaking the Ranks\n  | end reward               = yes\n  | mythic                   = no\n  | food                     = no\n  | enhancements             = \n* {{Fortification|120}}\n* {{Hammerblock|vii}}\n* {{Augment|Yellow}}\n  | crafting                 = \n  | description              = \n  | pic                      = Guardian's Helmet shown.jpg\n  | picdesc                  = Guardian's Helmet (Level 27).png\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "material": "Steel",
+  "item_type": "Helm",
+  "item_class": "Clothing",
+  "slot": "Head",
+  "minimum_level": 27,
+  "enchantments": [
+    {
+      "text": "Fortification +120%",
+      "tooltip": "Fortification +120%: +120% Enhancement bonus to reduced chance of taking critical damage on a critical hit.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Fortification",
+          "title": "Fortification",
+          "text": "Fortification +120%"
+        }
+      ]
+    },
+    {
+      "text": "Hammerblock VII",
+      "tooltip": "Hammerblock VII: Passive: Reduces physical damage taken by 14, except from Piercing or Slashing weapons. (Damage Reduction: 14/Slash, Pierce)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Hammerblock",
+          "title": "Hammerblock",
+          "text": "Hammerblock VII"
+        }
+      ]
+    },
+    {
+      "text": "Yellow Augment Slot",
+      "tooltip": "Yellow and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Yellow Augment Slot"
+        }
+      ]
+    }
+  ]
+}

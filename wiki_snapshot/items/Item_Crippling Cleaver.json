@@ -1,0 +1,91 @@
+{
+  "page_title": "Item:Crippling Cleaver",
+  "page_id": 12687,
+  "revision_id": 629215,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T20:27:51.639850+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Weapon\n  | name                     = Crippling Cleaver\n  | type                     = Falchion\n  | hand                     = Two-handed\n  | class                    = Slashing\n  | prof                     = Martial\n  | minlevel                 = 12\n  | reqtrait                 = \n  | UMD DC                   = \n  | bind                     = {{Bind|BtA|BoA}}\n  | damage                   = 1.40[2d4] + 5 Slash, Magic\n  | crit                     = 18-20 / x2\n  | attackmod                = STR\n  | damagemod                = STR\n  | durability               = 210\n  | material                 = Steel\n  | hardness                 = 22\n  | basevalue                = 4,807pp 5gp\n  | weight                   = 8 lbs\n  | revamped                 = Update 49\n  | quest                    = Cauldron of Sora Katra\n  | chest                    = upgraded version of [[Bloody Cleaver]] and [[Gnollish War Bow]]\n  | craftingnotes            = Bloody Cleaver + Gnollish War Bow + Mark of Bal Molesh\n  | mythic                   = no\n  | enhancements             = \n* {{Enhancement_bonus|w|5}}\n* {{Bleeding|3}}\n* {{Bane|Humanoid|3}}\n* {{Bodyfeeder}}\n* {{Crippling}}\n* {{Augment|Red}}\n  | pic                      = Bloody Cleaver shown.jpg\n  | picdesc                  = Item_Crippling_Cleaver.png\n  | description              = This falchion, infused with the power to draw a living enemy's blood, can now cripple an enemy and hamper its movement.\n  | tips                     = \n}}",
+  "item_template": "Named item",
+  "proficiency_class": "Martial Weapon Proficiency",
+  "item_type": "Falchion",
+  "weapon_class": "Slashing weapons",
+  "item_kind": "Weapon",
+  "item_class": "Weapon",
+  "slot": "Main Hand",
+  "minimum_level": 12,
+  "enchantments": [
+    {
+      "text": "+5 Enhancement Bonus",
+      "tooltip": "+5 Enhancement Bonus: +5 enhancement bonus to attack and damage rolls.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Enhancement_bonus",
+          "title": "Enhancement bonus",
+          "text": "+5 Enhancement Bonus"
+        }
+      ]
+    },
+    {
+      "text": "Bleeding 3",
+      "tooltip": "Bleeding 3: This weapon is wickedly curved, with spines and hooks meant to cause damage to those with flesh. This weapon does 3d8 bleeding damage to those that are vulnerable to it.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bleeding",
+          "title": "Bleeding",
+          "text": "Bleeding 3"
+        }
+      ]
+    },
+    {
+      "text": "Humanoid Bane 3",
+      "tooltip": "Humanoid Bane 3: This weapon is attuned specifically to those that walk among us, dealing an additional 3d10 bane damage vs. Humanoids.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bane_(enchantment)",
+          "title": "Bane (enchantment)",
+          "text": "Humanoid Bane 3"
+        }
+      ]
+    },
+    {
+      "text": "Bodyfeeder",
+      "tooltip": "Bodyfeeder: Whenever a bodyfeeder weapon you wield scores a critical hit, you gain 15 temporary hit points that last for up to 1 minute.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Bodyfeeder",
+          "title": "Bodyfeeder",
+          "text": "Bodyfeeder"
+        }
+      ]
+    },
+    {
+      "text": "Crippling",
+      "tooltip": "Crippling: A crippling weapon is infused with binding power so that when a target is critically hit their movement is slowed by half.Note: Real slowdown is only 25%",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Crippling",
+          "title": "Crippling",
+          "text": "Crippling"
+        }
+      ]
+    },
+    {
+      "text": "Red Augment Slot",
+      "tooltip": "Red and Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Red Augment Slot"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "page_title": "Item:Eternal Wand of Cure Minor Wounds",
+  "page_id": 10451,
+  "revision_id": 630624,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:00:03.877656+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Eternal wand\n  | name                     = Eternal Wand of Cure Minor Wounds\n  | umd                      = 15\n  | noumd                    = Clr, FvS, Drd\n  | minlevel                 = 1\n  | bind                     = {{Bind|BtA|BoA|1}}\n  | durability               = 25\n  | material                 = Wood\n  | hardness                 = 10\n  | cost                     = 200 pp\n  | weight                   = 0.10 lbs\n  | icon                     = Icon_curelightwounds.png‎\n  | spell                    = Cure Minor Wounds\n  | casterlvl                = 1\n  | charge                   = 50\n  | quest                    = Setting the Wards: The Patriarchs' Crypt\n  | chest                    = end chest\n  | mythic                   = no\n  | enhancements             = \n* {{Clicky|Cure Minor Wounds|1|50|50}}\n* {{SpellPower|Devotion|36}}\n  | description              = A thin rod of smooth mahogany containing charges of the Cure Minor Wounds spell. Eternal wands recharge over time if they are not actively being used.<br />\n  | picdesc                  = Eternal Wand of Cure Minor Wounds.png\n  | notes                    = Even though it says it recharges every day, the wand actually recovers 1 charge every 3 seconds making this wand have effectively infinite charges. {{Bug|This wand actually heals 1d2 [[hit points]], not 1 as described.}}<br /><br />\n[[File:Eternal Wand of Cure Minor Wounds shown.jpg|350px]]\n}}",
+  "item_template": "Named item",
+  "material": "Wood",
+  "minimum_level": 1,
+  "enchantments": [
+    {
+      "text": "Cure Minor Wounds — 50 Charges (Recharged/Day:50)",
+      "tooltip": "Cure Minor WoundsCaster level: 1Charges: 50 (50/day)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Cure_Minor_Wounds",
+          "title": "Cure Minor Wounds",
+          "text": "Cure Minor Wounds"
+        }
+      ]
+    },
+    {
+      "text": "Devotion +36",
+      "tooltip": "Devotion +36: Passive: +36 Equipment bonus to Positive (Healing) Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Devotion",
+          "title": "Devotion",
+          "text": "Devotion +36"
+        }
+      ]
+    }
+  ]
+}

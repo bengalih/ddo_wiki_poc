@@ -1,0 +1,131 @@
+{
+  "page_title": "Item:Lantern Ring",
+  "page_id": 44044,
+  "revision_id": 693982,
+  "revision_timestamp": null,
+  "fetched_at": "2026-08-17T21:28:26.082369+00:00",
+  "categories": [],
+  "wikitext": "{{Named item|Jewelry\n  | name                     = Lantern Ring\n  | type                     = Ring\n  | slot                     = Finger\n  | durability               = 270\n  | material                 = Gold\n  | hardness                 = 36\n  | basevalue                = 10,420 pp\n  | weight                   = 0.10 lbs\n  | minlevel                 = 26\n  | bind                     = {{Bind|BtC|BoE}}\n  | released                 = Update 21\n  | quest                    = The Haunted Halls of Eveningstar\n  | chest                    = Fallen Giant or Dragon chest\n  | enhancements             = \n* {{SpellPower|Radiance|144}}\n* {{Stat|WIS|2|Insightful}}\n* {{Radiant Glory|2}}\n* {{Augment|Colorless}}\n* {{ZhentarimAttuned}}\n  | crafting                 = Black Stone\n  | craftingupgrade          = \n  | description              = This plain, brass ring emits a single globe of light. The globe moves and changes intensity in response to the wearer's silent will. In Eveningstar, these rings are worn by Lord Tessaril and all Purple Dragons. \n  | pic                      = Ring Generic Rage.png\n  | picdesc                  = Lantern Ring.png\n  | tips                     =\n* {{Popup|Upgraded version|[[File:Lantern Ring (Upgraded).png]]|long=y}}: with 150 [[Black Stone|Black Stones]].\n\nCan also be used in [[Catalyst Crafting]] to make {{Item|Lantern of the Abyss}} or {{Item|Legendary Lantern of the Abyss}}\n}}",
+  "item_template": "Named item",
+  "material": "Gold",
+  "item_type": "Ring",
+  "item_class": "Jewelry",
+  "slot": "Finger",
+  "minimum_level": 26,
+  "enchantments": [
+    {
+      "text": "Radiance +144",
+      "tooltip": "Radiance +144: Passive: +144 Equipment bonus to Light and Alignment Spell Power.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiance_(spell_boost)",
+          "title": "Radiance (spell boost)",
+          "text": "Radiance +144"
+        }
+      ]
+    },
+    {
+      "text": "Insightful Wisdom +2",
+      "tooltip": "Insightful Wisdom +2: This item makes the wearer more in tune with her surroundings, granting a +2 Insight bonus to Wisdom.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Wisdom",
+          "title": "Wisdom",
+          "text": "Insightful Wisdom +2"
+        }
+      ]
+    },
+    {
+      "text": "Radiant Glory 2",
+      "tooltip": "Radiant Glory 2: On Harmful Spellcast: Do an additional 2 to 12 Light damage. This effect scales with Light Spell Power. Cooldown: 1 second.",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Radiant_Glory",
+          "title": "Radiant Glory",
+          "text": "Radiant Glory 2"
+        }
+      ]
+    },
+    {
+      "text": "Colorless Augment Slot",
+      "tooltip": "Colorless",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Augment_Slot",
+          "title": "Augment Slot",
+          "text": "Colorless Augment Slot"
+        }
+      ]
+    },
+    {
+      "text": "Zhentarim Attuned",
+      "tooltip": "Zhentarim Attuned: This item has been attuned by the the Zhentarim mage, Whisper. It can be upgraded with Zhentarim Black Stones.",
+      "children": [
+        {
+          "text": "Radiant Glory 2 → Radiant Glory 3",
+          "tooltip": "Radiant Glory 2: On Harmful Spellcast: Do an additional 2 to 12 Light damage. This effect scales with Light Spell Power. Cooldown: 1 second.Radiant Glory 3: On Harmful Spellcast: Do an additional 3 to 18 Light damage. This effect scales with Light Spell Power. Cooldown: 1 second.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Radiant_Glory",
+              "title": "Radiant Glory",
+              "text": "Radiant Glory 2"
+            },
+            {
+              "target": "/page/Radiant_Glory",
+              "title": "Radiant Glory",
+              "text": "Radiant Glory 3"
+            }
+          ]
+        },
+        {
+          "text": "Adds Radiance Lore VIII",
+          "tooltip": "Radiance Lore VIII: Passive: Your Light and Aligned spells gain a 18% Equipment bonus to their chance to critical hit.",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Spell_Lore",
+              "title": "Spell Lore",
+              "text": "Radiance Lore VIII"
+            }
+          ]
+        },
+        {
+          "text": "Adds Green Augment Slot",
+          "tooltip": "Blue, Green, Yellow, and Colorless",
+          "children": [],
+          "links": [
+            {
+              "target": "/page/Augment_Slot",
+              "title": "Augment Slot",
+              "text": "Green Augment Slot"
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "target": "/page/Zhentarim_Attuned",
+          "title": "Zhentarim Attuned",
+          "text": "Zhentarim Attuned"
+        }
+      ]
+    },
+    {
+      "text": "Mythic Ring Boost +1 or +3",
+      "tooltip": "Mythic Ring Boost +1 or +3: +1 or +3 Mythic bonus to Melee, Ranged, and Universal Spell Power.(This is a rare enchantment that does not show up on all drops of this item.)",
+      "children": [],
+      "links": [
+        {
+          "target": "/page/Mythic_Boost",
+          "title": "Mythic Boost",
+          "text": "Mythic Ring Boost"
+        }
+      ]
+    }
+  ]
+}
